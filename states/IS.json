@@ -1,0 +1,58 @@
+[
+    {
+        "stateId": "3337405",
+        "name": "Austurland",
+        "countryId": "2629691",
+        "latitude": 65,
+        "longitude": -15
+    },
+    {
+        "stateId": "3426182",
+        "name": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i",
+        "countryId": "2629691",
+        "latitude": 64.16667,
+        "longitude": -21.66667
+    },
+    {
+        "stateId": "3337404",
+        "name": "Nor\u00f0urland Eystra",
+        "countryId": "2629691",
+        "latitude": 65.5,
+        "longitude": -17
+    },
+    {
+        "stateId": "3337403",
+        "name": "Nor\u00f0urland Vestra",
+        "countryId": "2629691",
+        "latitude": 65.33333,
+        "longitude": -20
+    },
+    {
+        "stateId": "3337406",
+        "name": "Su\u00f0urland",
+        "countryId": "2629691",
+        "latitude": 64,
+        "longitude": -19
+    },
+    {
+        "stateId": "3426183",
+        "name": "Su\u00f0urnes",
+        "countryId": "2629691",
+        "latitude": 63.91667,
+        "longitude": -22.25
+    },
+    {
+        "stateId": "3426185",
+        "name": "Vestfir\u00f0ir",
+        "countryId": "2629691",
+        "latitude": 65.66667,
+        "longitude": -22.5
+    },
+    {
+        "stateId": "3426184",
+        "name": "Vesturland",
+        "countryId": "2629691",
+        "latitude": 64.75,
+        "longitude": -21.83333
+    }
+]

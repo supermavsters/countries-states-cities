@@ -1,0 +1,611 @@
+[
+    {
+        "cityId": "5015979",
+        "name": "Aitkin County",
+        "stateId": "5037779",
+        "latitude": 46.60826,
+        "longitude": -93.41543
+    },
+    {
+        "cityId": "5016452",
+        "name": "Anoka County",
+        "stateId": "5037779",
+        "latitude": 45.27324,
+        "longitude": -93.24645
+    },
+    {
+        "cityId": "5017670",
+        "name": "Becker County",
+        "stateId": "5037779",
+        "latitude": 46.93465,
+        "longitude": -95.67392
+    },
+    {
+        "cityId": "5017805",
+        "name": "Beltrami County",
+        "stateId": "5037779",
+        "latitude": 47.97378,
+        "longitude": -94.93765
+    },
+    {
+        "cityId": "5017916",
+        "name": "Benton County",
+        "stateId": "5037779",
+        "latitude": 45.69913,
+        "longitude": -93.99884
+    },
+    {
+        "cityId": "5018364",
+        "name": "Big Stone County",
+        "stateId": "5037779",
+        "latitude": 45.4261,
+        "longitude": -96.41092
+    },
+    {
+        "cityId": "5018756",
+        "name": "Blue Earth County",
+        "stateId": "5037779",
+        "latitude": 44.03459,
+        "longitude": -94.06703
+    },
+    {
+        "cityId": "5019385",
+        "name": "Brown County",
+        "stateId": "5037779",
+        "latitude": 44.24217,
+        "longitude": -94.72748
+    },
+    {
+        "cityId": "5020429",
+        "name": "Carlton County",
+        "stateId": "5037779",
+        "latitude": 46.5924,
+        "longitude": -92.67705
+    },
+    {
+        "cityId": "5020499",
+        "name": "Carver County",
+        "stateId": "5037779",
+        "latitude": 44.82076,
+        "longitude": -93.80258
+    },
+    {
+        "cityId": "5020546",
+        "name": "Cass County",
+        "stateId": "5037779",
+        "latitude": 46.94959,
+        "longitude": -94.32535
+    },
+    {
+        "cityId": "5021038",
+        "name": "Chippewa County",
+        "stateId": "5037779",
+        "latitude": 45.02234,
+        "longitude": -95.56669
+    },
+    {
+        "cityId": "5021070",
+        "name": "Chisago County",
+        "stateId": "5037779",
+        "latitude": 45.50247,
+        "longitude": -92.90834
+    },
+    {
+        "cityId": "5021444",
+        "name": "Clay County",
+        "stateId": "5037779",
+        "latitude": 46.89234,
+        "longitude": -96.49065
+    },
+    {
+        "cityId": "5021535",
+        "name": "Clearwater County",
+        "stateId": "5037779",
+        "latitude": 47.57766,
+        "longitude": -95.37903
+    },
+    {
+        "cityId": "5021977",
+        "name": "Cook County",
+        "stateId": "5037779",
+        "latitude": 47.81684,
+        "longitude": -90.54108
+    },
+    {
+        "cityId": "5022154",
+        "name": "Cottonwood County",
+        "stateId": "5037779",
+        "latitude": 44.00711,
+        "longitude": -95.18115
+    },
+    {
+        "cityId": "5023545",
+        "name": "Crow Wing County",
+        "stateId": "5037779",
+        "latitude": 46.48237,
+        "longitude": -94.07087
+    },
+    {
+        "cityId": "5023752",
+        "name": "Dakota County",
+        "stateId": "5037779",
+        "latitude": 44.67189,
+        "longitude": -93.06544
+    },
+    {
+        "cityId": "5024432",
+        "name": "Dodge County",
+        "stateId": "5037779",
+        "latitude": 44.02259,
+        "longitude": -92.86205
+    },
+    {
+        "cityId": "5024544",
+        "name": "Douglas County",
+        "stateId": "5037779",
+        "latitude": 45.93372,
+        "longitude": -95.45352
+    },
+    {
+        "cityId": "5026292",
+        "name": "Faribault County",
+        "stateId": "5037779",
+        "latitude": 43.67393,
+        "longitude": -93.948
+    },
+    {
+        "cityId": "5026478",
+        "name": "Fillmore County",
+        "stateId": "5037779",
+        "latitude": 43.674,
+        "longitude": -92.09017
+    },
+    {
+        "cityId": "5027399",
+        "name": "Freeborn County",
+        "stateId": "5037779",
+        "latitude": 43.67384,
+        "longitude": -93.34882
+    },
+    {
+        "cityId": "5028232",
+        "name": "Goodhue County",
+        "stateId": "5037779",
+        "latitude": 44.40985,
+        "longitude": -92.72259
+    },
+    {
+        "cityId": "5028615",
+        "name": "Grant County",
+        "stateId": "5037779",
+        "latitude": 45.93405,
+        "longitude": -96.01218
+    },
+    {
+        "cityId": "5029877",
+        "name": "Hennepin County",
+        "stateId": "5037779",
+        "latitude": 45.00458,
+        "longitude": -93.47688
+    },
+    {
+        "cityId": "5030806",
+        "name": "Houston County",
+        "stateId": "5037779",
+        "latitude": 43.67144,
+        "longitude": -91.49283
+    },
+    {
+        "cityId": "5030862",
+        "name": "Hubbard County",
+        "stateId": "5037779",
+        "latitude": 47.10865,
+        "longitude": -94.91664
+    },
+    {
+        "cityId": "5031493",
+        "name": "Isanti County",
+        "stateId": "5037779",
+        "latitude": 45.56149,
+        "longitude": -93.29518
+    },
+    {
+        "cityId": "5031616",
+        "name": "Itasca County",
+        "stateId": "5037779",
+        "latitude": 47.50953,
+        "longitude": -93.632
+    },
+    {
+        "cityId": "5031682",
+        "name": "Jackson County",
+        "stateId": "5037779",
+        "latitude": 43.67417,
+        "longitude": -95.15411
+    },
+    {
+        "cityId": "5032855",
+        "name": "Kanabec County",
+        "stateId": "5037779",
+        "latitude": 45.94522,
+        "longitude": -93.29343
+    },
+    {
+        "cityId": "5032867",
+        "name": "Kandiyohi County",
+        "stateId": "5037779",
+        "latitude": 45.15238,
+        "longitude": -95.00474
+    },
+    {
+        "cityId": "5033353",
+        "name": "Kittson County",
+        "stateId": "5037779",
+        "latitude": 48.77663,
+        "longitude": -96.78285
+    },
+    {
+        "cityId": "5033463",
+        "name": "Koochiching County",
+        "stateId": "5037779",
+        "latitude": 48.24527,
+        "longitude": -93.78337
+    },
+    {
+        "cityId": "5033637",
+        "name": "Lac qui Parle County",
+        "stateId": "5037779",
+        "latitude": 44.99549,
+        "longitude": -96.17348
+    },
+    {
+        "cityId": "5033738",
+        "name": "Lake County",
+        "stateId": "5037779",
+        "latitude": 47.52317,
+        "longitude": -91.40885
+    },
+    {
+        "cityId": "5033955",
+        "name": "Lake of the Woods County",
+        "stateId": "5037779",
+        "latitude": 48.77051,
+        "longitude": -94.90503
+    },
+    {
+        "cityId": "5034327",
+        "name": "Le Sueur County",
+        "stateId": "5037779",
+        "latitude": 44.37143,
+        "longitude": -93.73008
+    },
+    {
+        "cityId": "5034652",
+        "name": "Lincoln County",
+        "stateId": "5037779",
+        "latitude": 44.4126,
+        "longitude": -96.26709
+    },
+    {
+        "cityId": "5036131",
+        "name": "Lyon County",
+        "stateId": "5037779",
+        "latitude": 44.41349,
+        "longitude": -95.83897
+    },
+    {
+        "cityId": "5036279",
+        "name": "Mahnomen County",
+        "stateId": "5037779",
+        "latitude": 47.32524,
+        "longitude": -95.80905
+    },
+    {
+        "cityId": "5036734",
+        "name": "Marshall County",
+        "stateId": "5037779",
+        "latitude": 48.35813,
+        "longitude": -96.36847
+    },
+    {
+        "cityId": "5036797",
+        "name": "Martin County",
+        "stateId": "5037779",
+        "latitude": 43.67436,
+        "longitude": -94.55107
+    },
+    {
+        "cityId": "5037083",
+        "name": "McLeod County",
+        "stateId": "5037779",
+        "latitude": 44.82354,
+        "longitude": -94.27242
+    },
+    {
+        "cityId": "5037200",
+        "name": "Meeker County",
+        "stateId": "5037779",
+        "latitude": 45.12312,
+        "longitude": -94.52731
+    },
+    {
+        "cityId": "5037515",
+        "name": "Mille Lacs County",
+        "stateId": "5037779",
+        "latitude": 45.93805,
+        "longitude": -93.63009
+    },
+    {
+        "cityId": "5038318",
+        "name": "Morrison County",
+        "stateId": "5037779",
+        "latitude": 46.01262,
+        "longitude": -94.26842
+    },
+    {
+        "cityId": "5038458",
+        "name": "Mower County",
+        "stateId": "5037779",
+        "latitude": 43.67147,
+        "longitude": -92.75251
+    },
+    {
+        "cityId": "5038801",
+        "name": "Murray County",
+        "stateId": "5037779",
+        "latitude": 44.02212,
+        "longitude": -95.76328
+    },
+    {
+        "cityId": "5039249",
+        "name": "Nicollet County",
+        "stateId": "5037779",
+        "latitude": 44.34989,
+        "longitude": -94.2473
+    },
+    {
+        "cityId": "5039323",
+        "name": "Nobles County",
+        "stateId": "5037779",
+        "latitude": 43.67424,
+        "longitude": -95.75339
+    },
+    {
+        "cityId": "5039381",
+        "name": "Norman County",
+        "stateId": "5037779",
+        "latitude": 47.32648,
+        "longitude": -96.45528
+    },
+    {
+        "cityId": "5040211",
+        "name": "Olmsted County",
+        "stateId": "5037779",
+        "latitude": 44.00375,
+        "longitude": -92.40177
+    },
+    {
+        "cityId": "5040515",
+        "name": "Otter Tail County",
+        "stateId": "5037779",
+        "latitude": 46.4088,
+        "longitude": -95.708
+    },
+    {
+        "cityId": "5041121",
+        "name": "Pennington County",
+        "stateId": "5037779",
+        "latitude": 48.06623,
+        "longitude": -96.03667
+    },
+    {
+        "cityId": "5041542",
+        "name": "Pine County",
+        "stateId": "5037779",
+        "latitude": 46.12077,
+        "longitude": -92.74127
+    },
+    {
+        "cityId": "5041756",
+        "name": "Pipestone County",
+        "stateId": "5037779",
+        "latitude": 44.023,
+        "longitude": -96.25864
+    },
+    {
+        "cityId": "5041970",
+        "name": "Polk County",
+        "stateId": "5037779",
+        "latitude": 47.77385,
+        "longitude": -96.40181
+    },
+    {
+        "cityId": "5042066",
+        "name": "Pope County",
+        "stateId": "5037779",
+        "latitude": 45.58602,
+        "longitude": -95.44448
+    },
+    {
+        "cityId": "5042563",
+        "name": "Ramsey County",
+        "stateId": "5037779",
+        "latitude": 45.01706,
+        "longitude": -93.09961
+    },
+    {
+        "cityId": "5042730",
+        "name": "Red Lake County",
+        "stateId": "5037779",
+        "latitude": 47.87169,
+        "longitude": -96.0953
+    },
+    {
+        "cityId": "5042847",
+        "name": "Redwood County",
+        "stateId": "5037779",
+        "latitude": 44.40366,
+        "longitude": -95.25383
+    },
+    {
+        "cityId": "5042928",
+        "name": "Renville County",
+        "stateId": "5037779",
+        "latitude": 44.72681,
+        "longitude": -94.94714
+    },
+    {
+        "cityId": "5043007",
+        "name": "Rice County",
+        "stateId": "5037779",
+        "latitude": 44.35426,
+        "longitude": -93.29668
+    },
+    {
+        "cityId": "5043502",
+        "name": "Rock County",
+        "stateId": "5037779",
+        "latitude": 43.67463,
+        "longitude": -96.25321
+    },
+    {
+        "cityId": "5043753",
+        "name": "Roseau County",
+        "stateId": "5037779",
+        "latitude": 48.77514,
+        "longitude": -95.81082
+    },
+    {
+        "cityId": "5045020",
+        "name": "Saint Louis County",
+        "stateId": "5037779",
+        "latitude": 47.58986,
+        "longitude": -92.46147
+    },
+    {
+        "cityId": "5046749",
+        "name": "Scott County",
+        "stateId": "5037779",
+        "latitude": 44.64846,
+        "longitude": -93.53593
+    },
+    {
+        "cityId": "5047121",
+        "name": "Sherburne County",
+        "stateId": "5037779",
+        "latitude": 45.44395,
+        "longitude": -93.77459
+    },
+    {
+        "cityId": "5047260",
+        "name": "Sibley County",
+        "stateId": "5037779",
+        "latitude": 44.57948,
+        "longitude": -94.23216
+    },
+    {
+        "cityId": "5048685",
+        "name": "Stearns County",
+        "stateId": "5037779",
+        "latitude": 45.55215,
+        "longitude": -94.61302
+    },
+    {
+        "cityId": "5048696",
+        "name": "Steele County",
+        "stateId": "5037779",
+        "latitude": 44.02234,
+        "longitude": -93.22604
+    },
+    {
+        "cityId": "5048759",
+        "name": "Stevens County",
+        "stateId": "5037779",
+        "latitude": 45.58613,
+        "longitude": -96.0003
+    },
+    {
+        "cityId": "5049534",
+        "name": "Swift County",
+        "stateId": "5037779",
+        "latitude": 45.28271,
+        "longitude": -95.68143
+    },
+    {
+        "cityId": "5050162",
+        "name": "Todd County",
+        "stateId": "5037779",
+        "latitude": 46.07062,
+        "longitude": -94.8976
+    },
+    {
+        "cityId": "5050331",
+        "name": "Traverse County",
+        "stateId": "5037779",
+        "latitude": 45.77218,
+        "longitude": -96.47164
+    },
+    {
+        "cityId": "5051601",
+        "name": "Wabasha County",
+        "stateId": "5037779",
+        "latitude": 44.28428,
+        "longitude": -92.23027
+    },
+    {
+        "cityId": "5051662",
+        "name": "Wadena County",
+        "stateId": "5037779",
+        "latitude": 46.58576,
+        "longitude": -94.96941
+    },
+    {
+        "cityId": "5051907",
+        "name": "Waseca County",
+        "stateId": "5037779",
+        "latitude": 44.02212,
+        "longitude": -93.58728
+    },
+    {
+        "cityId": "5051936",
+        "name": "Washington County",
+        "stateId": "5037779",
+        "latitude": 45.03873,
+        "longitude": -92.88396
+    },
+    {
+        "cityId": "5052059",
+        "name": "Watonwan County",
+        "stateId": "5037779",
+        "latitude": 43.97843,
+        "longitude": -94.61406
+    },
+    {
+        "cityId": "5052862",
+        "name": "Wilkin County",
+        "stateId": "5037779",
+        "latitude": 46.35708,
+        "longitude": -96.46835
+    },
+    {
+        "cityId": "5053164",
+        "name": "Winona County",
+        "stateId": "5037779",
+        "latitude": 43.98685,
+        "longitude": -91.77913
+    },
+    {
+        "cityId": "5053485",
+        "name": "Wright County",
+        "stateId": "5037779",
+        "latitude": 45.17393,
+        "longitude": -93.96305
+    },
+    {
+        "cityId": "5053562",
+        "name": "Yellow Medicine County",
+        "stateId": "5037779",
+        "latitude": 44.71625,
+        "longitude": -95.86836
+    }
+]

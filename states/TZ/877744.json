@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "877533",
+        "name": "Newala",
+        "stateId": "877744",
+        "latitude": -10.72487,
+        "longitude": 39.27979
+    },
+    {
+        "cityId": "877745",
+        "name": "Mtwara",
+        "stateId": "877744",
+        "latitude": -10.47941,
+        "longitude": 39.98807
+    },
+    {
+        "cityId": "878057",
+        "name": "Masasi",
+        "stateId": "877744",
+        "latitude": -10.76162,
+        "longitude": 38.9829
+    },
+    {
+        "cityId": "9072685",
+        "name": "Nanyumbu District",
+        "stateId": "877744",
+        "latitude": -11.06667,
+        "longitude": 38.32975
+    },
+    {
+        "cityId": "9072692",
+        "name": "Tandahimba",
+        "stateId": "877744",
+        "latitude": -10.76232,
+        "longitude": 39.63077
+    },
+    {
+        "cityId": "9998154",
+        "name": "Masasi Town",
+        "stateId": "877744",
+        "latitude": -10.7218,
+        "longitude": 38.85011
+    },
+    {
+        "cityId": "11204831",
+        "name": "Mtwara Urban",
+        "stateId": "877744",
+        "latitude": -10.2933,
+        "longitude": 40.16602
+    }
+]

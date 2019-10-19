@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "9610672",
+        "name": "Oulu",
+        "stateId": "830667",
+        "latitude": 64.99609,
+        "longitude": 25.81125
+    },
+    {
+        "cityId": "9610673",
+        "name": "Oulunkaari",
+        "stateId": "830667",
+        "latitude": 65.34738,
+        "longitude": 26.75272
+    },
+    {
+        "cityId": "9610698",
+        "name": "Raahe",
+        "stateId": "830667",
+        "latitude": 64.54628,
+        "longitude": 24.82097
+    },
+    {
+        "cityId": "9610699",
+        "name": "Haapavesi-Siikalatva",
+        "stateId": "830667",
+        "latitude": 64.23414,
+        "longitude": 25.84848
+    },
+    {
+        "cityId": "9610700",
+        "name": "Nivala-Haapaj\u00e4rvi",
+        "stateId": "830667",
+        "latitude": 63.76603,
+        "longitude": 25.51841
+    },
+    {
+        "cityId": "9610701",
+        "name": "Ylivieska",
+        "stateId": "830667",
+        "latitude": 64.12059,
+        "longitude": 24.39304
+    },
+    {
+        "cityId": "9610702",
+        "name": "Koillismaa",
+        "stateId": "830667",
+        "latitude": 65.84283,
+        "longitude": 29.04743
+    }
+]

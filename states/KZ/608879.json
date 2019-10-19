@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "607726",
+        "name": "Qaraq\u012bya A\u016bdany",
+        "stateId": "608879",
+        "latitude": 43,
+        "longitude": 54
+    },
+    {
+        "cityId": "608878",
+        "name": "Mangghysta\u016b A\u016bdany",
+        "stateId": "608879",
+        "latitude": 44.5,
+        "longitude": 53.33333
+    },
+    {
+        "cityId": "610297",
+        "name": "Beyne\u016b A\u016bdany",
+        "stateId": "608879",
+        "latitude": 45.5,
+        "longitude": 54.83333
+    },
+    {
+        "cityId": "828323",
+        "name": "Tupqaraghan A\u016bdany",
+        "stateId": "608879",
+        "latitude": 44.33333,
+        "longitude": 50.75
+    },
+    {
+        "cityId": "828324",
+        "name": "Aqta\u016b Qalasy",
+        "stateId": "608879",
+        "latitude": 43.66667,
+        "longitude": 51.25
+    },
+    {
+        "cityId": "828325",
+        "name": "Zhanga\u00f6zen Qalasy",
+        "stateId": "608879",
+        "latitude": 43.3,
+        "longitude": 52.8
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9172398",
+        "name": "Cumaribo",
+        "stateId": "3666082",
+        "latitude": 4.57565,
+        "longitude": -69.59554
+    },
+    {
+        "cityId": "9172399",
+        "name": "La Primavera",
+        "stateId": "3666082",
+        "latitude": 5.51465,
+        "longitude": -69.49786
+    },
+    {
+        "cityId": "9172403",
+        "name": "Puerto Carre\u00f1o",
+        "stateId": "3666082",
+        "latitude": 5.83767,
+        "longitude": -68.03675
+    },
+    {
+        "cityId": "9172410",
+        "name": "Santa Rosal\u00eda",
+        "stateId": "3666082",
+        "latitude": 5.02169,
+        "longitude": -70.65985
+    }
+]

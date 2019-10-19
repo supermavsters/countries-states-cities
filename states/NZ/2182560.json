@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2179374",
+        "name": "Whakatane District",
+        "stateId": "2182560",
+        "latitude": -38.32442,
+        "longitude": 176.78238
+    },
+    {
+        "cityId": "2183229",
+        "name": "Rotorua District",
+        "stateId": "2182560",
+        "latitude": -38.16667,
+        "longitude": 176.33333
+    },
+    {
+        "cityId": "2185506",
+        "name": "Opotiki District",
+        "stateId": "2182560",
+        "latitude": -38,
+        "longitude": 177.28333
+    },
+    {
+        "cityId": "2188943",
+        "name": "Kawerau District",
+        "stateId": "2182560",
+        "latitude": -38.09114,
+        "longitude": 176.68751
+    },
+    {
+        "cityId": "7910066",
+        "name": "Tauranga City",
+        "stateId": "2182560",
+        "latitude": -37.69733,
+        "longitude": 176.2445
+    },
+    {
+        "cityId": "7910073",
+        "name": "Western Bay of Plenty District",
+        "stateId": "2182560",
+        "latitude": -37.77387,
+        "longitude": 176.1612
+    }
+]

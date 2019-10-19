@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7670596",
+        "name": "Gisozi",
+        "stateId": "434386",
+        "latitude": -3.54562,
+        "longitude": 29.63166
+    },
+    {
+        "cityId": "7670601",
+        "name": "Kayokwe",
+        "stateId": "434386",
+        "latitude": -3.5152,
+        "longitude": 29.74666
+    },
+    {
+        "cityId": "7670610",
+        "name": "Nyabihanga",
+        "stateId": "434386",
+        "latitude": -3.44949,
+        "longitude": 29.81096
+    },
+    {
+        "cityId": "9171802",
+        "name": "Ndava",
+        "stateId": "434386",
+        "latitude": -3.39156,
+        "longitude": 29.75343
+    },
+    {
+        "cityId": "9171813",
+        "name": "Rusaka",
+        "stateId": "434386",
+        "latitude": -3.45402,
+        "longitude": 29.6352
+    },
+    {
+        "cityId": "9171814",
+        "name": "Bisoro",
+        "stateId": "434386",
+        "latitude": -3.62688,
+        "longitude": 29.71166
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1608025",
+        "name": "Amphoe Pak Phli",
+        "stateId": "1608538",
+        "latitude": 14.22499,
+        "longitude": 101.34482
+    },
+    {
+        "cityId": "1608079",
+        "name": "Amphoe Ongkharak",
+        "stateId": "1608538",
+        "latitude": 14.07554,
+        "longitude": 101.00891
+    },
+    {
+        "cityId": "1608649",
+        "name": "Amphoe Mueang Nakhon Nayok",
+        "stateId": "1608538",
+        "latitude": 14.2773,
+        "longitude": 101.23379
+    },
+    {
+        "cityId": "1616494",
+        "name": "Amphoe Ban Na",
+        "stateId": "1608538",
+        "latitude": 14.26799,
+        "longitude": 101.06445
+    }
+]

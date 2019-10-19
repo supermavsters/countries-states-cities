@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1252877",
+        "name": "West District",
+        "stateId": "1256312",
+        "latitude": 27.33333,
+        "longitude": 88.25
+    },
+    {
+        "cityId": "1255681",
+        "name": "South District",
+        "stateId": "1256312",
+        "latitude": 27.33333,
+        "longitude": 88.41667
+    },
+    {
+        "cityId": "1261190",
+        "name": "North District",
+        "stateId": "1256312",
+        "latitude": 27.66667,
+        "longitude": 88.5
+    },
+    {
+        "cityId": "1272129",
+        "name": "East District",
+        "stateId": "1256312",
+        "latitude": 27.33333,
+        "longitude": 88.66667
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7268166",
+        "name": "Achiote Barrio",
+        "stateId": "4566403",
+        "latitude": 18.31325,
+        "longitude": -66.2473
+    },
+    {
+        "cityId": "7268202",
+        "name": "Anones Barrio",
+        "stateId": "4566403",
+        "latitude": 18.27154,
+        "longitude": -66.24365
+    },
+    {
+        "cityId": "7268361",
+        "name": "Cedro Abajo Barrio",
+        "stateId": "4566403",
+        "latitude": 18.28916,
+        "longitude": -66.27087
+    },
+    {
+        "cityId": "7268362",
+        "name": "Cedro Arriba Barrio",
+        "stateId": "4566403",
+        "latitude": 18.25816,
+        "longitude": -66.28134
+    },
+    {
+        "cityId": "7268413",
+        "name": "Guadiana Barrio",
+        "stateId": "4566403",
+        "latitude": 18.31484,
+        "longitude": -66.22258
+    },
+    {
+        "cityId": "7268575",
+        "name": "Lomas Barrio",
+        "stateId": "4566403",
+        "latitude": 18.31785,
+        "longitude": -66.26856
+    },
+    {
+        "cityId": "7268694",
+        "name": "Naranjito Barrio-Pueblo",
+        "stateId": "4566403",
+        "latitude": 18.30149,
+        "longitude": -66.24981
+    },
+    {
+        "cityId": "7268704",
+        "name": "Nuevo Barrio",
+        "stateId": "4566403",
+        "latitude": 18.28972,
+        "longitude": -66.22204
+    }
+]

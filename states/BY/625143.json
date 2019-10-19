@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "619008",
+        "name": "Zavodski Rayon",
+        "stateId": "625143",
+        "latitude": 53.86194,
+        "longitude": 27.66222
+    },
+    {
+        "cityId": "620745",
+        "name": "Tsentral\u2019ny Rayon",
+        "stateId": "625143",
+        "latitude": 53.91778,
+        "longitude": 27.56333
+    },
+    {
+        "cityId": "621599",
+        "name": "Savyetski Rayon",
+        "stateId": "625143",
+        "latitude": 53.91778,
+        "longitude": 27.59417
+    },
+    {
+        "cityId": "623628",
+        "name": "Pyershamayski Rayon",
+        "stateId": "625143",
+        "latitude": 53.91944,
+        "longitude": 27.62222
+    },
+    {
+        "cityId": "623778",
+        "name": "Partyzanski Rayon",
+        "stateId": "625143",
+        "latitude": 53.88028,
+        "longitude": 27.67
+    },
+    {
+        "cityId": "624196",
+        "name": "Kastrychnitski Rayon",
+        "stateId": "625143",
+        "latitude": 53.85667,
+        "longitude": 27.54139
+    },
+    {
+        "cityId": "624936",
+        "name": "Maskowski Rayon",
+        "stateId": "625143",
+        "latitude": 53.87417,
+        "longitude": 27.50278
+    },
+    {
+        "cityId": "626161",
+        "name": "Lyeninski Rayon",
+        "stateId": "625143",
+        "latitude": 53.85944,
+        "longitude": 27.58778
+    },
+    {
+        "cityId": "628577",
+        "name": "Frunzyenski Rayon",
+        "stateId": "625143",
+        "latitude": 53.90056,
+        "longitude": 27.495
+    }
+]

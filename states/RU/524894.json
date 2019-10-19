@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "471823",
+        "name": "Severnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.87105,
+        "longitude": 37.51282
+    },
+    {
+        "cityId": "480141",
+        "name": "Severo-Zapadnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.83333,
+        "longitude": 37.41667
+    },
+    {
+        "cityId": "490025",
+        "name": "Yuzhnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.61667,
+        "longitude": 37.6
+    },
+    {
+        "cityId": "490968",
+        "name": "Zapadnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.7503,
+        "longitude": 37.46887
+    },
+    {
+        "cityId": "532527",
+        "name": "Yugo-Vostochnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.66667,
+        "longitude": 37.75
+    },
+    {
+        "cityId": "562221",
+        "name": "Yugo-Zapadnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.66667,
+        "longitude": 37.5
+    },
+    {
+        "cityId": "562331",
+        "name": "Tsentral\u2019nyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.74943,
+        "longitude": 37.62371
+    },
+    {
+        "cityId": "579866",
+        "name": "Severo-Vostochnyy Administrativnyy Okrug",
+        "stateId": "524894",
+        "latitude": 55.88706,
+        "longitude": 37.57908
+    },
+    {
+        "cityId": "8520888",
+        "name": "Zelenogradsky Administrative Okrug",
+        "stateId": "524894",
+        "latitude": 55.98744,
+        "longitude": 37.16606
+    },
+    {
+        "cityId": "8520891",
+        "name": "Eastern Administrative Okrug",
+        "stateId": "524894",
+        "latitude": 55.78533,
+        "longitude": 37.7346
+    },
+    {
+        "cityId": "8520892",
+        "name": "Novomoskovsky Administrative Okrug",
+        "stateId": "524894",
+        "latitude": 55.57524,
+        "longitude": 37.44965
+    },
+    {
+        "cityId": "8520893",
+        "name": "Troitsky Administrative Okrug",
+        "stateId": "524894",
+        "latitude": 55.48761,
+        "longitude": 37.27764
+    }
+]

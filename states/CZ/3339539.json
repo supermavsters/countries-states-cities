@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3065616",
+        "name": "Okres Sokolov",
+        "stateId": "3339539",
+        "latitude": 50.21667,
+        "longitude": 12.63333
+    },
+    {
+        "cityId": "3073802",
+        "name": "Okres Karlovy Vary",
+        "stateId": "3339539",
+        "latitude": 50.16667,
+        "longitude": 13
+    },
+    {
+        "cityId": "3077834",
+        "name": "Okres Cheb",
+        "stateId": "3339539",
+        "latitude": 50.08333,
+        "longitude": 12.5
+    }
+]

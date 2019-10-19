@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3616571",
+        "name": "Municipio de San Sebasti\u00e1n de Yal\u00ed",
+        "stateId": "3618928",
+        "latitude": 13.41667,
+        "longitude": -86.08333
+    },
+    {
+        "cityId": "3616596",
+        "name": "Municipio de San Rafael del Norte",
+        "stateId": "3618928",
+        "latitude": 13.33333,
+        "longitude": -86
+    },
+    {
+        "cityId": "3618636",
+        "name": "Municipio de La Concordia",
+        "stateId": "3618928",
+        "latitude": 13.25,
+        "longitude": -86.13333
+    },
+    {
+        "cityId": "3618927",
+        "name": "Municipio de Jinotega",
+        "stateId": "3618928",
+        "latitude": 13.1,
+        "longitude": -86
+    },
+    {
+        "cityId": "8015544",
+        "name": "Municipio El Cua",
+        "stateId": "3618928",
+        "latitude": 13.80741,
+        "longitude": -85.24429
+    },
+    {
+        "cityId": "8335428",
+        "name": "Municipio de San Jos\u00e9 de Bocay",
+        "stateId": "3618928",
+        "latitude": 13.53333,
+        "longitude": -85.53333
+    },
+    {
+        "cityId": "8335429",
+        "name": "Municipio de Santa Mar\u00eda de Pantasma",
+        "stateId": "3618928",
+        "latitude": 13.2,
+        "longitude": -85.81666
+    },
+    {
+        "cityId": "8335430",
+        "name": "Wiwil\u00ed de Jinotega",
+        "stateId": "3618928",
+        "latitude": 13.61245,
+        "longitude": -85.81957
+    }
+]

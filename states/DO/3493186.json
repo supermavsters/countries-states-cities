@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3491808",
+        "name": "Yaguate",
+        "stateId": "3493186",
+        "latitude": 18.33333,
+        "longitude": -70.18333
+    },
+    {
+        "cityId": "3491953",
+        "name": "Villa Altagracia",
+        "stateId": "3493186",
+        "latitude": 18.63333,
+        "longitude": -70.25
+    },
+    {
+        "cityId": "3493190",
+        "name": "San Crist\u00f3bal",
+        "stateId": "3493186",
+        "latitude": 18.41667,
+        "longitude": -70.13333
+    },
+    {
+        "cityId": "3510638",
+        "name": "Cambita Garabitos",
+        "stateId": "3493186",
+        "latitude": 18.5,
+        "longitude": -70.23333
+    },
+    {
+        "cityId": "3512129",
+        "name": "Bajos de Haina",
+        "stateId": "3493186",
+        "latitude": 18.41667,
+        "longitude": -70.03333
+    },
+    {
+        "cityId": "11154556",
+        "name": "Sabana Grande De Palenque",
+        "stateId": "3493186",
+        "latitude": 18.25931,
+        "longitude": -70.16149
+    },
+    {
+        "cityId": "11154557",
+        "name": "San Gregorio De Nigua",
+        "stateId": "3493186",
+        "latitude": 18.35934,
+        "longitude": -70.08223
+    },
+    {
+        "cityId": "11154558",
+        "name": "Los Cacaos",
+        "stateId": "3493186",
+        "latitude": 18.59313,
+        "longitude": -70.32508
+    }
+]

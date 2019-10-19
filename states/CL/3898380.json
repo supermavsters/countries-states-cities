@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3878472",
+        "name": "Provincia de \u00d1uble",
+        "stateId": "3898380",
+        "latitude": -36.70663,
+        "longitude": -71.98591
+    },
+    {
+        "cityId": "3893889",
+        "name": "Provincia de Concepci\u00f3n",
+        "stateId": "3898380",
+        "latitude": -36.95773,
+        "longitude": -72.89674
+    },
+    {
+        "cityId": "3898381",
+        "name": "Provincia de Biob\u00edo",
+        "stateId": "3898380",
+        "latitude": -37.59511,
+        "longitude": -71.89553
+    },
+    {
+        "cityId": "3899459",
+        "name": "Provincia de Arauco",
+        "stateId": "3898380",
+        "latitude": -37.74174,
+        "longitude": -73.35799
+    }
+]

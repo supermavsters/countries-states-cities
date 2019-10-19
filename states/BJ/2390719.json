@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7668907",
+        "name": "Commune of Cove",
+        "stateId": "2390719",
+        "latitude": 7.345,
+        "longitude": 2.273
+    },
+    {
+        "cityId": "7668908",
+        "name": "Commune of Ouinhi",
+        "stateId": "2390719",
+        "latitude": 7.068,
+        "longitude": 2.468
+    },
+    {
+        "cityId": "7668909",
+        "name": "Commune of Zangnanado",
+        "stateId": "2390719",
+        "latitude": 7.254,
+        "longitude": 2.392
+    },
+    {
+        "cityId": "7668931",
+        "name": "Commune of Bohicon",
+        "stateId": "2390719",
+        "latitude": 7.163,
+        "longitude": 2.094
+    },
+    {
+        "cityId": "7668932",
+        "name": "Commune of Za-Kpota",
+        "stateId": "2390719",
+        "latitude": 7.228,
+        "longitude": 2.201
+    },
+    {
+        "cityId": "7668934",
+        "name": "Commune of Zogbodome",
+        "stateId": "2390719",
+        "latitude": 7.018,
+        "longitude": 2.183
+    },
+    {
+        "cityId": "8260652",
+        "name": "Commune of Abomey",
+        "stateId": "2390719",
+        "latitude": 7.188,
+        "longitude": 1.973
+    },
+    {
+        "cityId": "8260653",
+        "name": "Commune of Agbangnizoun",
+        "stateId": "2390719",
+        "latitude": 7.076,
+        "longitude": 1.961
+    },
+    {
+        "cityId": "8260654",
+        "name": "Commune of Djidja",
+        "stateId": "2390719",
+        "latitude": 7.431,
+        "longitude": 1.938
+    }
+]

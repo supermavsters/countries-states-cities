@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1486461",
+        "name": "Yamal\u2019skiy Rayon",
+        "stateId": "1486462",
+        "latitude": 70,
+        "longitude": 70
+    },
+    {
+        "cityId": "1489851",
+        "name": "Tazovskiy Rayon",
+        "stateId": "1486462",
+        "latitude": 68.33333,
+        "longitude": 80
+    },
+    {
+        "cityId": "1491960",
+        "name": "Shuryshkarskiy Rayon",
+        "stateId": "1486462",
+        "latitude": 65.33333,
+        "longitude": 64
+    },
+    {
+        "cityId": "1493994",
+        "name": "Purovskiy Rayon",
+        "stateId": "1486462",
+        "latitude": 64.66667,
+        "longitude": 78
+    },
+    {
+        "cityId": "1494151",
+        "name": "Priural\u2019skiy Rayon",
+        "stateId": "1486462",
+        "latitude": 66.66667,
+        "longitude": 67.66667
+    },
+    {
+        "cityId": "1498082",
+        "name": "Nadymskiy Rayon",
+        "stateId": "1486462",
+        "latitude": 66,
+        "longitude": 73
+    },
+    {
+        "cityId": "1502072",
+        "name": "Krasnosel\u2019kupskiy Rayon",
+        "stateId": "1486462",
+        "latitude": 64.33333,
+        "longitude": 82
+    }
+]

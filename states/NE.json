@@ -1,0 +1,58 @@
+[
+    {
+        "stateId": "2448083",
+        "name": "Agadez",
+        "countryId": "2440476",
+        "latitude": 19.75,
+        "longitude": 10.25
+    },
+    {
+        "stateId": "2445702",
+        "name": "Diffa",
+        "countryId": "2440476",
+        "latitude": 16,
+        "longitude": 13.5
+    },
+    {
+        "stateId": "2445486",
+        "name": "Dosso Region",
+        "countryId": "2440476",
+        "latitude": 13.2,
+        "longitude": 3.6
+    },
+    {
+        "stateId": "2441289",
+        "name": "Maradi",
+        "countryId": "2440476",
+        "latitude": 14.25,
+        "longitude": 7.25
+    },
+    {
+        "stateId": "2595294",
+        "name": "Niamey",
+        "countryId": "2440476",
+        "latitude": 13.52139,
+        "longitude": 2.10528
+    },
+    {
+        "stateId": "2439374",
+        "name": "Tahoua",
+        "countryId": "2440476",
+        "latitude": 16,
+        "longitude": 5.5
+    },
+    {
+        "stateId": "2595293",
+        "name": "Tillaberi Region",
+        "countryId": "2440476",
+        "latitude": 14.33333,
+        "longitude": 2.08333
+    },
+    {
+        "stateId": "2437797",
+        "name": "Zinder",
+        "countryId": "2440476",
+        "latitude": 15,
+        "longitude": 10.5
+    }
+]

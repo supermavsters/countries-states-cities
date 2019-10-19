@@ -1,0 +1,492 @@
+[
+    {
+        "cityId": "2058592",
+        "name": "City of West Torrens",
+        "stateId": "2061327",
+        "latitude": -34.93133,
+        "longitude": 138.5509
+    },
+    {
+        "cityId": "2075316",
+        "name": "Burnside",
+        "stateId": "2061327",
+        "latitude": -34.93333,
+        "longitude": 138.65
+    },
+    {
+        "cityId": "7839418",
+        "name": "Coober Pedy",
+        "stateId": "2061327",
+        "latitude": -29.01137,
+        "longitude": 134.75189
+    },
+    {
+        "cityId": "7839419",
+        "name": "Elliston",
+        "stateId": "2061327",
+        "latitude": -33.53931,
+        "longitude": 135.09514
+    },
+    {
+        "cityId": "7839420",
+        "name": "Flinders Ranges",
+        "stateId": "2061327",
+        "latitude": -32.13341,
+        "longitude": 138.33882
+    },
+    {
+        "cityId": "7839421",
+        "name": "Franklin Harbour",
+        "stateId": "2061327",
+        "latitude": -33.60164,
+        "longitude": 136.94148
+    },
+    {
+        "cityId": "7839422",
+        "name": "Gawler",
+        "stateId": "2061327",
+        "latitude": -34.62109,
+        "longitude": 138.73228
+    },
+    {
+        "cityId": "7839423",
+        "name": "Goyder",
+        "stateId": "2061327",
+        "latitude": -33.7164,
+        "longitude": 139.01655
+    },
+    {
+        "cityId": "7839424",
+        "name": "Grant",
+        "stateId": "2061327",
+        "latitude": -37.83642,
+        "longitude": 140.63316
+    },
+    {
+        "cityId": "7839425",
+        "name": "Holdfast Bay",
+        "stateId": "2061327",
+        "latitude": -35.00244,
+        "longitude": 138.52318
+    },
+    {
+        "cityId": "7839426",
+        "name": "Kangaroo Island",
+        "stateId": "2061327",
+        "latitude": -35.8239,
+        "longitude": 137.33392
+    },
+    {
+        "cityId": "7839427",
+        "name": "Karoonda East Murray",
+        "stateId": "2061327",
+        "latitude": -34.92846,
+        "longitude": 140.02484
+    },
+    {
+        "cityId": "7839428",
+        "name": "Kimba",
+        "stateId": "2061327",
+        "latitude": -33.04817,
+        "longitude": 136.31797
+    },
+    {
+        "cityId": "7839429",
+        "name": "Kingston",
+        "stateId": "2061327",
+        "latitude": -36.64083,
+        "longitude": 140.05093
+    },
+    {
+        "cityId": "7839430",
+        "name": "Wudinna",
+        "stateId": "2061327",
+        "latitude": -32.97747,
+        "longitude": 135.3917
+    },
+    {
+        "cityId": "7839431",
+        "name": "Light",
+        "stateId": "2061327",
+        "latitude": -34.40981,
+        "longitude": 138.84367
+    },
+    {
+        "cityId": "7839432",
+        "name": "Lower Eyre Peninsula",
+        "stateId": "2061327",
+        "latitude": -34.48806,
+        "longitude": 135.70114
+    },
+    {
+        "cityId": "7839433",
+        "name": "Loxton Waikerie",
+        "stateId": "2061327",
+        "latitude": -34.48161,
+        "longitude": 140.28346
+    },
+    {
+        "cityId": "7839434",
+        "name": "Mallala",
+        "stateId": "2061327",
+        "latitude": -34.51035,
+        "longitude": 138.42783
+    },
+    {
+        "cityId": "7839435",
+        "name": "Maralinga Tjarutja",
+        "stateId": "2061327",
+        "latitude": -29.60092,
+        "longitude": 130.84442
+    },
+    {
+        "cityId": "7839436",
+        "name": "Marion",
+        "stateId": "2061327",
+        "latitude": -35.01322,
+        "longitude": 138.55339
+    },
+    {
+        "cityId": "7839437",
+        "name": "Mid Murray",
+        "stateId": "2061327",
+        "latitude": -34.41566,
+        "longitude": 139.41639
+    },
+    {
+        "cityId": "7839438",
+        "name": "Mitcham",
+        "stateId": "2061327",
+        "latitude": -35.0069,
+        "longitude": 138.62218
+    },
+    {
+        "cityId": "7839439",
+        "name": "Mount Barker",
+        "stateId": "2061327",
+        "latitude": -35.06907,
+        "longitude": 138.86936
+    },
+    {
+        "cityId": "7839440",
+        "name": "Mount Gambier",
+        "stateId": "2061327",
+        "latitude": -37.82469,
+        "longitude": 140.78191
+    },
+    {
+        "cityId": "7839441",
+        "name": "Mount Remarkable",
+        "stateId": "2061327",
+        "latitude": -32.71813,
+        "longitude": 138.1713
+    },
+    {
+        "cityId": "7839442",
+        "name": "Murray Bridge",
+        "stateId": "2061327",
+        "latitude": -35.2002,
+        "longitude": 139.3209
+    },
+    {
+        "cityId": "7839443",
+        "name": "Naracoorte and Lucindale",
+        "stateId": "2061327",
+        "latitude": -36.99542,
+        "longitude": 140.52791
+    },
+    {
+        "cityId": "7839444",
+        "name": "Northern Areas",
+        "stateId": "2061327",
+        "latitude": -33.30074,
+        "longitude": 138.47745
+    },
+    {
+        "cityId": "7839445",
+        "name": "Norwood Payneham St Peters",
+        "stateId": "2061327",
+        "latitude": -34.908,
+        "longitude": 138.63556
+    },
+    {
+        "cityId": "7839446",
+        "name": "Onkaparinga",
+        "stateId": "2061327",
+        "latitude": -35.1868,
+        "longitude": 138.57776
+    },
+    {
+        "cityId": "7839447",
+        "name": "Orroroo\/Carrieton",
+        "stateId": "2061327",
+        "latitude": -32.53181,
+        "longitude": 138.6647
+    },
+    {
+        "cityId": "7839448",
+        "name": "Peterborough",
+        "stateId": "2061327",
+        "latitude": -32.84787,
+        "longitude": 139.02608
+    },
+    {
+        "cityId": "7839449",
+        "name": "Playford",
+        "stateId": "2061327",
+        "latitude": -34.69419,
+        "longitude": 138.6421
+    },
+    {
+        "cityId": "7839450",
+        "name": "Port Adelaide Enfield",
+        "stateId": "2061327",
+        "latitude": -34.84803,
+        "longitude": 138.50773
+    },
+    {
+        "cityId": "7839451",
+        "name": "Port Augusta",
+        "stateId": "2061327",
+        "latitude": -32.5553,
+        "longitude": 137.71362
+    },
+    {
+        "cityId": "7839452",
+        "name": "Port Lincoln",
+        "stateId": "2061327",
+        "latitude": -34.72854,
+        "longitude": 135.85748
+    },
+    {
+        "cityId": "7839453",
+        "name": "Port Pirie City and Dists",
+        "stateId": "2061327",
+        "latitude": -33.36513,
+        "longitude": 138.10706
+    },
+    {
+        "cityId": "7839454",
+        "name": "Prospect",
+        "stateId": "2061327",
+        "latitude": -34.88457,
+        "longitude": 138.60038
+    },
+    {
+        "cityId": "7839455",
+        "name": "Renmark Paringa",
+        "stateId": "2061327",
+        "latitude": -34.17485,
+        "longitude": 140.7486
+    },
+    {
+        "cityId": "7839456",
+        "name": "Robe",
+        "stateId": "2061327",
+        "latitude": -37.18616,
+        "longitude": 139.99003
+    },
+    {
+        "cityId": "7839457",
+        "name": "Roxby Downs",
+        "stateId": "2061327",
+        "latitude": -30.54892,
+        "longitude": 136.88377
+    },
+    {
+        "cityId": "7839458",
+        "name": "Salisbury",
+        "stateId": "2061327",
+        "latitude": -34.76827,
+        "longitude": 138.60831
+    },
+    {
+        "cityId": "7839459",
+        "name": "Southern Mallee",
+        "stateId": "2061327",
+        "latitude": -35.36733,
+        "longitude": 140.5203
+    },
+    {
+        "cityId": "7839460",
+        "name": "Streaky Bay",
+        "stateId": "2061327",
+        "latitude": -32.73808,
+        "longitude": 134.55116
+    },
+    {
+        "cityId": "7839461",
+        "name": "Tatiara",
+        "stateId": "2061327",
+        "latitude": -36.22232,
+        "longitude": 140.50748
+    },
+    {
+        "cityId": "7839462",
+        "name": "Tea Tree Gully",
+        "stateId": "2061327",
+        "latitude": -34.80171,
+        "longitude": 138.71994
+    },
+    {
+        "cityId": "7839463",
+        "name": "The Coorong",
+        "stateId": "2061327",
+        "latitude": -35.71844,
+        "longitude": 139.70329
+    },
+    {
+        "cityId": "7839464",
+        "name": "Tumby Bay",
+        "stateId": "2061327",
+        "latitude": -34.19697,
+        "longitude": 136.13649
+    },
+    {
+        "cityId": "7839465",
+        "name": "Unley",
+        "stateId": "2061327",
+        "latitude": -34.95392,
+        "longitude": 138.60798
+    },
+    {
+        "cityId": "7839466",
+        "name": "Victor Harbor",
+        "stateId": "2061327",
+        "latitude": -35.51605,
+        "longitude": 138.5461
+    },
+    {
+        "cityId": "7839467",
+        "name": "Wakefield",
+        "stateId": "2061327",
+        "latitude": -34.00743,
+        "longitude": 138.39455
+    },
+    {
+        "cityId": "7839468",
+        "name": "Walkerville",
+        "stateId": "2061327",
+        "latitude": -34.89443,
+        "longitude": 138.61626
+    },
+    {
+        "cityId": "7839469",
+        "name": "Wattle Range",
+        "stateId": "2061327",
+        "latitude": -37.50804,
+        "longitude": 140.42114
+    },
+    {
+        "cityId": "7839470",
+        "name": "Whyalla",
+        "stateId": "2061327",
+        "latitude": -33.04569,
+        "longitude": 137.54468
+    },
+    {
+        "cityId": "7839471",
+        "name": "Yankalilla",
+        "stateId": "2061327",
+        "latitude": -35.4939,
+        "longitude": 138.34225
+    },
+    {
+        "cityId": "7839472",
+        "name": "Yorke Peninsula",
+        "stateId": "2061327",
+        "latitude": -34.70549,
+        "longitude": 137.58179
+    },
+    {
+        "cityId": "7839644",
+        "name": "Adelaide",
+        "stateId": "2061327",
+        "latitude": -34.92845,
+        "longitude": 138.59528
+    },
+    {
+        "cityId": "7839645",
+        "name": "Adelaide Hills",
+        "stateId": "2061327",
+        "latitude": -34.90103,
+        "longitude": 138.85457
+    },
+    {
+        "cityId": "7839646",
+        "name": "Alexandrina",
+        "stateId": "2061327",
+        "latitude": -35.33769,
+        "longitude": 138.83704
+    },
+    {
+        "cityId": "7839647",
+        "name": "Anangu Pitjantjatjara",
+        "stateId": "2061327",
+        "latitude": -27.05797,
+        "longitude": 131.37314
+    },
+    {
+        "cityId": "7839648",
+        "name": "Barossa",
+        "stateId": "2061327",
+        "latitude": -34.61351,
+        "longitude": 138.96169
+    },
+    {
+        "cityId": "7839649",
+        "name": "Barunga West",
+        "stateId": "2061327",
+        "latitude": -33.79484,
+        "longitude": 137.92311
+    },
+    {
+        "cityId": "7839650",
+        "name": "Berri and Barmera",
+        "stateId": "2061327",
+        "latitude": -34.28788,
+        "longitude": 140.49358
+    },
+    {
+        "cityId": "7839651",
+        "name": "Campbelltown",
+        "stateId": "2061327",
+        "latitude": -34.88545,
+        "longitude": 138.68546
+    },
+    {
+        "cityId": "7839652",
+        "name": "Ceduna",
+        "stateId": "2061327",
+        "latitude": -32.14736,
+        "longitude": 133.86288
+    },
+    {
+        "cityId": "7839653",
+        "name": "Charles Sturt",
+        "stateId": "2061327",
+        "latitude": -34.90067,
+        "longitude": 138.53182
+    },
+    {
+        "cityId": "7839654",
+        "name": "Clare and Gilbert Valleys",
+        "stateId": "2061327",
+        "latitude": -34.01462,
+        "longitude": 138.7534
+    },
+    {
+        "cityId": "7839655",
+        "name": "Cleve",
+        "stateId": "2061327",
+        "latitude": -33.66078,
+        "longitude": 136.28893
+    },
+    {
+        "cityId": "7839656",
+        "name": "Copper Coast",
+        "stateId": "2061327",
+        "latitude": -33.94287,
+        "longitude": 137.71329
+    }
+]

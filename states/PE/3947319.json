@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3936625",
+        "name": "Provincia de La Uni\u00f3n",
+        "stateId": "3947319",
+        "latitude": -15,
+        "longitude": -72.83333
+    },
+    {
+        "cityId": "3938145",
+        "name": "Provincia de Islay",
+        "stateId": "3947319",
+        "latitude": -17,
+        "longitude": -71.83333
+    },
+    {
+        "cityId": "3942520",
+        "name": "Provincia de Condesuyos",
+        "stateId": "3947319",
+        "latitude": -15.58333,
+        "longitude": -72.83333
+    },
+    {
+        "cityId": "3945135",
+        "name": "Provincia de Caylloma",
+        "stateId": "3947319",
+        "latitude": -15.66667,
+        "longitude": -71.58333
+    },
+    {
+        "cityId": "3945239",
+        "name": "Provincia de Castilla",
+        "stateId": "3947319",
+        "latitude": -15.58333,
+        "longitude": -72.41667
+    },
+    {
+        "cityId": "3945539",
+        "name": "Provincia de Caravel\u00ed",
+        "stateId": "3947319",
+        "latitude": -15.58333,
+        "longitude": -74
+    },
+    {
+        "cityId": "3945982",
+        "name": "Provincia de Caman\u00e1",
+        "stateId": "3947319",
+        "latitude": -16.41667,
+        "longitude": -72.83333
+    },
+    {
+        "cityId": "3947318",
+        "name": "Provincia de Arequipa",
+        "stateId": "3947319",
+        "latitude": -16.33333,
+        "longitude": -71.5
+    }
+]

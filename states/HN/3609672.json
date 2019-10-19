@@ -1,0 +1,198 @@
+[
+    {
+        "cityId": "3600339",
+        "name": "Villa de San Francisco",
+        "stateId": "3609672",
+        "latitude": 14.16667,
+        "longitude": -86.95
+    },
+    {
+        "cityId": "3600424",
+        "name": "Valle de \u00c1ngeles",
+        "stateId": "3609672",
+        "latitude": 14.15,
+        "longitude": -87.03333
+    },
+    {
+        "cityId": "3600972",
+        "name": "Tatumbla",
+        "stateId": "3609672",
+        "latitude": 14,
+        "longitude": -87.08333
+    },
+    {
+        "cityId": "3601073",
+        "name": "Talanga",
+        "stateId": "3609672",
+        "latitude": 14.4,
+        "longitude": -87.08333
+    },
+    {
+        "cityId": "3601571",
+        "name": "Santa Luc\u00eda",
+        "stateId": "3609672",
+        "latitude": 14.1,
+        "longitude": -87.1
+    },
+    {
+        "cityId": "3601725",
+        "name": "Santa Ana",
+        "stateId": "3609672",
+        "latitude": 13.94,
+        "longitude": -87.21
+    },
+    {
+        "cityId": "3601858",
+        "name": "San Miguelito",
+        "stateId": "3609672",
+        "latitude": 13.73333,
+        "longitude": -87.5
+    },
+    {
+        "cityId": "3602000",
+        "name": "San Juan de Flores",
+        "stateId": "3609672",
+        "latitude": 14.26667,
+        "longitude": -87
+    },
+    {
+        "cityId": "3602259",
+        "name": "San Ignacio",
+        "stateId": "3609672",
+        "latitude": 14.66667,
+        "longitude": -87.03333
+    },
+    {
+        "cityId": "3602398",
+        "name": "San Buenaventura",
+        "stateId": "3609672",
+        "latitude": 13.88333,
+        "longitude": -87.16667
+    },
+    {
+        "cityId": "3602424",
+        "name": "San Antonio de Oriente",
+        "stateId": "3609672",
+        "latitude": 14.03333,
+        "longitude": -87.01667
+    },
+    {
+        "cityId": "3602682",
+        "name": "Sabanagrande",
+        "stateId": "3609672",
+        "latitude": 13.81667,
+        "longitude": -87.25
+    },
+    {
+        "cityId": "3602853",
+        "name": "Reitoca",
+        "stateId": "3609672",
+        "latitude": 13.83333,
+        "longitude": -87.4
+    },
+    {
+        "cityId": "3604204",
+        "name": "Orica",
+        "stateId": "3609672",
+        "latitude": 14.7,
+        "longitude": -86.95
+    },
+    {
+        "cityId": "3604271",
+        "name": "Ojojona",
+        "stateId": "3609672",
+        "latitude": 13.95,
+        "longitude": -87.33333
+    },
+    {
+        "cityId": "3604398",
+        "name": "Nueva Armenia",
+        "stateId": "3609672",
+        "latitude": 13.75,
+        "longitude": -87.1
+    },
+    {
+        "cityId": "3605019",
+        "name": "Marale",
+        "stateId": "3609672",
+        "latitude": 14.91667,
+        "longitude": -87.05
+    },
+    {
+        "cityId": "3605022",
+        "name": "Maraita",
+        "stateId": "3609672",
+        "latitude": 13.86667,
+        "longitude": -87.03333
+    },
+    {
+        "cityId": "3606036",
+        "name": "Lepaterique",
+        "stateId": "3609672",
+        "latitude": 14.05,
+        "longitude": -87.53333
+    },
+    {
+        "cityId": "3606124",
+        "name": "La Venta",
+        "stateId": "3609672",
+        "latitude": 13.75,
+        "longitude": -87.28333
+    },
+    {
+        "cityId": "3607546",
+        "name": "La Libertad",
+        "stateId": "3609672",
+        "latitude": 13.7,
+        "longitude": -87.46667
+    },
+    {
+        "cityId": "3609419",
+        "name": "Guaimaca",
+        "stateId": "3609672",
+        "latitude": 14.5,
+        "longitude": -86.8
+    },
+    {
+        "cityId": "3610698",
+        "name": "El Porvenir",
+        "stateId": "3609672",
+        "latitude": 14.76667,
+        "longitude": -87.16667
+    },
+    {
+        "cityId": "3612967",
+        "name": "Curar\u00e9n",
+        "stateId": "3609672",
+        "latitude": 13.83,
+        "longitude": -87.57
+    },
+    {
+        "cityId": "3613870",
+        "name": "Distrito Central",
+        "stateId": "3609672",
+        "latitude": 14.13333,
+        "longitude": -87.21667
+    },
+    {
+        "cityId": "3613909",
+        "name": "Cedros",
+        "stateId": "3609672",
+        "latitude": 14.58333,
+        "longitude": -87.25
+    },
+    {
+        "cityId": "3615227",
+        "name": "Alubar\u00e9n",
+        "stateId": "3609672",
+        "latitude": 13.78333,
+        "longitude": -87.46667
+    },
+    {
+        "cityId": "8062440",
+        "name": "Vallecillo",
+        "stateId": "3609672",
+        "latitude": 14.51313,
+        "longitude": -87.40242
+    }
+]

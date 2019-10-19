@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "898909",
+        "name": "Serenje District",
+        "stateId": "921064",
+        "latitude": -13.36222,
+        "longitude": 30.23433
+    },
+    {
+        "cityId": "904420",
+        "name": "Mumbwa District",
+        "stateId": "921064",
+        "latitude": -14.94021,
+        "longitude": 26.6311
+    },
+    {
+        "cityId": "906219",
+        "name": "Mkushi District",
+        "stateId": "921064",
+        "latitude": -13.6996,
+        "longitude": 29.49748
+    },
+    {
+        "cityId": "916077",
+        "name": "Kapiri Mposhi",
+        "stateId": "921064",
+        "latitude": -14.07747,
+        "longitude": 28.51501
+    },
+    {
+        "cityId": "916082",
+        "name": "Kabwe District",
+        "stateId": "921064",
+        "latitude": -14.4603,
+        "longitude": 28.35502
+    },
+    {
+        "cityId": "8285556",
+        "name": "Kapiri-Mposhi District",
+        "stateId": "921064",
+        "latitude": -14.151,
+        "longitude": 27.748
+    },
+    {
+        "cityId": "8714549",
+        "name": "Chibombo District",
+        "stateId": "921064",
+        "latitude": -14.65808,
+        "longitude": 28.07376
+    },
+    {
+        "cityId": "10815856",
+        "name": "Ngabwe District",
+        "stateId": "921064",
+        "latitude": -14.0313,
+        "longitude": 27.44175
+    },
+    {
+        "cityId": "10815857",
+        "name": "Chisamba District",
+        "stateId": "921064",
+        "latitude": -14.83074,
+        "longitude": 28.56539
+    },
+    {
+        "cityId": "10815858",
+        "name": "Luano District",
+        "stateId": "921064",
+        "latitude": -14.47823,
+        "longitude": 29.55368
+    },
+    {
+        "cityId": "10815859",
+        "name": "Chitambo District",
+        "stateId": "921064",
+        "latitude": -12.8636,
+        "longitude": 30.56715
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3583089",
+        "name": "Distrito de Suchitoto",
+        "stateId": "3586831",
+        "latitude": 13.91667,
+        "longitude": -89.06667
+    },
+    {
+        "cityId": "3586976",
+        "name": "Distrito de Cojutepeque",
+        "stateId": "3586831",
+        "latitude": 13.76667,
+        "longitude": -88.96667
+    },
+    {
+        "cityId": "9165876",
+        "name": "San Luis la  Herradura",
+        "stateId": "3586831",
+        "latitude": 13.65,
+        "longitude": -88.93333
+    }
+]

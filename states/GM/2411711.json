@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2411671",
+        "name": "Wuli",
+        "stateId": "2411711",
+        "latitude": 13.5,
+        "longitude": -14.08333
+    },
+    {
+        "cityId": "2412176",
+        "name": "Sandu",
+        "stateId": "2411711",
+        "latitude": 13.41667,
+        "longitude": -14.36667
+    },
+    {
+        "cityId": "2413088",
+        "name": "Kantora",
+        "stateId": "2411711",
+        "latitude": 13.41667,
+        "longitude": -13.91667
+    },
+    {
+        "cityId": "2413462",
+        "name": "Fulladu East",
+        "stateId": "2411711",
+        "latitude": 13.33333,
+        "longitude": -14.25
+    }
+]

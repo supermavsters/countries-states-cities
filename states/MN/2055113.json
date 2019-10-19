@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "6618875",
+        "name": "Bayan-\u00d6nd\u00f6r",
+        "stateId": "2055113",
+        "latitude": 49.02391,
+        "longitude": 104.08344
+    },
+    {
+        "cityId": "6618877",
+        "name": "Jargalant",
+        "stateId": "2055113",
+        "latitude": 49.05401,
+        "longitude": 104.40162
+    },
+    {
+        "cityId": "6987977",
+        "name": "Jargalant Sum",
+        "stateId": "2055113",
+        "latitude": 49.04206,
+        "longitude": 104.40012
+    },
+    {
+        "cityId": "6987978",
+        "name": "Erdenet Sum",
+        "stateId": "2055113",
+        "latitude": 49.07314,
+        "longitude": 104.12477
+    }
+]

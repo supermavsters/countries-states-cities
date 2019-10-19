@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2221059",
+        "name": "D\u00e9partement du Wouri",
+        "stateId": "2229336",
+        "latitude": 4,
+        "longitude": 9.66667
+    },
+    {
+        "cityId": "2222269",
+        "name": "D\u00e9partement de la Sanaga-Maritime",
+        "stateId": "2229336",
+        "latitude": 4,
+        "longitude": 10.33333
+    },
+    {
+        "cityId": "2224165",
+        "name": "D\u00e9partement du Nkam",
+        "stateId": "2229336",
+        "latitude": 4.5,
+        "longitude": 10.16667
+    },
+    {
+        "cityId": "2225744",
+        "name": "D\u00e9partement du Mungo",
+        "stateId": "2229336",
+        "latitude": 4.67295,
+        "longitude": 9.76855
+    }
+]

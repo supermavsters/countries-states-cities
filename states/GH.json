@@ -1,0 +1,65 @@
+[
+    {
+        "stateId": "2304116",
+        "name": "Ashanti Region",
+        "countryId": "2300660",
+        "latitude": 6.75,
+        "longitude": -1.5
+    },
+    {
+        "stateId": "2302547",
+        "name": "Brong-Ahafo Region",
+        "countryId": "2300660",
+        "latitude": 7.75,
+        "longitude": -1.5
+    },
+    {
+        "stateId": "2302353",
+        "name": "Central Region",
+        "countryId": "2300660",
+        "latitude": 5.5,
+        "longitude": -1
+    },
+    {
+        "stateId": "2301360",
+        "name": "Eastern Region",
+        "countryId": "2300660",
+        "latitude": 6.5,
+        "longitude": -0.5
+    },
+    {
+        "stateId": "2297169",
+        "name": "Northern Region",
+        "countryId": "2300660",
+        "latitude": 9.5,
+        "longitude": -1
+    },
+    {
+        "stateId": "2294291",
+        "name": "Upper East Region",
+        "countryId": "2300660",
+        "latitude": 10.75,
+        "longitude": -0.75
+    },
+    {
+        "stateId": "2294286",
+        "name": "Upper West Region",
+        "countryId": "2300660",
+        "latitude": 10.33333,
+        "longitude": -2.25
+    },
+    {
+        "stateId": "2294234",
+        "name": "Volta Region",
+        "countryId": "2300660",
+        "latitude": 7,
+        "longitude": 0.5
+    },
+    {
+        "stateId": "2294076",
+        "name": "Western Region",
+        "countryId": "2300660",
+        "latitude": 5.5,
+        "longitude": -2.5
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "cityId": "3666835",
+        "name": "Totor\u00f3",
+        "stateId": "3687029",
+        "latitude": 2.50518,
+        "longitude": -76.39254
+    },
+    {
+        "cityId": "3666888",
+        "name": "Toribio",
+        "stateId": "3687029",
+        "latitude": 3,
+        "longitude": -76.16667
+    },
+    {
+        "cityId": "3667071",
+        "name": "Timbiqu\u00ed",
+        "stateId": "3687029",
+        "latitude": 2.76456,
+        "longitude": -77.63351
+    },
+    {
+        "cityId": "3667074",
+        "name": "Timb\u00edo",
+        "stateId": "3687029",
+        "latitude": 2.36963,
+        "longitude": -76.71062
+    },
+    {
+        "cityId": "3667795",
+        "name": "Sotara",
+        "stateId": "3687029",
+        "latitude": 2.25,
+        "longitude": -76.58333
+    },
+    {
+        "cityId": "3668026",
+        "name": "Silvia",
+        "stateId": "3687029",
+        "latitude": 2.75,
+        "longitude": -76.33333
+    },
+    {
+        "cityId": "3668525",
+        "name": "Santa Rosa",
+        "stateId": "3687029",
+        "latitude": 1.5,
+        "longitude": -76.5
+    },
+    {
+        "cityId": "3668573",
+        "name": "Santander de Quilichao",
+        "stateId": "3687029",
+        "latitude": 3,
+        "longitude": -76.5
+    },
+    {
+        "cityId": "3668992",
+        "name": "San Sebasti\u00e1n",
+        "stateId": "3687029",
+        "latitude": 1.91667,
+        "longitude": -76.66667
+    },
+    {
+        "cityId": "3670596",
+        "name": "Rosas",
+        "stateId": "3687029",
+        "latitude": 2.24593,
+        "longitude": -76.7423
+    },
+    {
+        "cityId": "3671223",
+        "name": "Purac\u00e9",
+        "stateId": "3687029",
+        "latitude": 2.25,
+        "longitude": -76.41667
+    },
+    {
+        "cityId": "3671316",
+        "name": "Puerto Tejada",
+        "stateId": "3687029",
+        "latitude": 3.23393,
+        "longitude": -76.41935
+    },
+    {
+        "cityId": "3671917",
+        "name": "Popay\u00e1n",
+        "stateId": "3687029",
+        "latitude": 2.5,
+        "longitude": -76.58333
+    },
+    {
+        "cityId": "3672262",
+        "name": "Piendam\u00f3",
+        "stateId": "3687029",
+        "latitude": 2.70214,
+        "longitude": -76.59736
+    },
+    {
+        "cityId": "3672762",
+        "name": "Pat\u00eda",
+        "stateId": "3687029",
+        "latitude": 2.16667,
+        "longitude": -77.08333
+    },
+    {
+        "cityId": "3673399",
+        "name": "Paez",
+        "stateId": "3687029",
+        "latitude": 2.75,
+        "longitude": -76
+    },
+    {
+        "cityId": "3673408",
+        "name": "Padilla",
+        "stateId": "3687029",
+        "latitude": 3.19971,
+        "longitude": -76.35689
+    },
+    {
+        "cityId": "3674415",
+        "name": "Morales",
+        "stateId": "3687029",
+        "latitude": 2.8,
+        "longitude": -76.66667
+    },
+    {
+        "cityId": "3674703",
+        "name": "Miranda",
+        "stateId": "3687029",
+        "latitude": 3.25,
+        "longitude": -76.25
+    },
+    {
+        "cityId": "3674852",
+        "name": "Mercaderes",
+        "stateId": "3687029",
+        "latitude": 1.81015,
+        "longitude": -77.14146
+    },
+    {
+        "cityId": "3676418",
+        "name": "L\u00f3pez",
+        "stateId": "3687029",
+        "latitude": 3,
+        "longitude": -77.25
+    },
+    {
+        "cityId": "3676871",
+        "name": "La Vega",
+        "stateId": "3687029",
+        "latitude": 2.08333,
+        "longitude": -76.83333
+    },
+    {
+        "cityId": "3677458",
+        "name": "La Sierra",
+        "stateId": "3687029",
+        "latitude": 2.19665,
+        "longitude": -76.7859
+    },
+    {
+        "cityId": "3680394",
+        "name": "Jambal\u00f3",
+        "stateId": "3687029",
+        "latitude": 2.85,
+        "longitude": -76.31667
+    },
+    {
+        "cityId": "3680555",
+        "name": "Inz\u00e1",
+        "stateId": "3687029",
+        "latitude": 2.5092,
+        "longitude": -76.12958
+    },
+    {
+        "cityId": "3681506",
+        "name": "Guapi",
+        "stateId": "3687029",
+        "latitude": 2.5521,
+        "longitude": -77.87865
+    },
+    {
+        "cityId": "3682966",
+        "name": "El Tambo",
+        "stateId": "3687029",
+        "latitude": 2.5,
+        "longitude": -77
+    },
+    {
+        "cityId": "3685873",
+        "name": "Corinto",
+        "stateId": "3687029",
+        "latitude": 3.16667,
+        "longitude": -76.2
+    },
+    {
+        "cityId": "3687881",
+        "name": "Caloto",
+        "stateId": "3687029",
+        "latitude": 3.08333,
+        "longitude": -76.33333
+    },
+    {
+        "cityId": "3687934",
+        "name": "Caldono",
+        "stateId": "3687029",
+        "latitude": 2.83333,
+        "longitude": -76.41667
+    },
+    {
+        "cityId": "3688010",
+        "name": "Cajib\u00edo",
+        "stateId": "3687029",
+        "latitude": 2.66667,
+        "longitude": -76.66667
+    },
+    {
+        "cityId": "3688360",
+        "name": "Buenos Aires",
+        "stateId": "3687029",
+        "latitude": 2.91667,
+        "longitude": -76.66667
+    },
+    {
+        "cityId": "3688669",
+        "name": "Bol\u00edvar",
+        "stateId": "3687029",
+        "latitude": 1.8467,
+        "longitude": -76.98292
+    },
+    {
+        "cityId": "3689294",
+        "name": "Balboa",
+        "stateId": "3687029",
+        "latitude": 2.1,
+        "longitude": -77.2
+    },
+    {
+        "cityId": "3689619",
+        "name": "Argelia",
+        "stateId": "3687029",
+        "latitude": 2.26667,
+        "longitude": -77.25
+    },
+    {
+        "cityId": "3690137",
+        "name": "Almaguer",
+        "stateId": "3687029",
+        "latitude": 1.91667,
+        "longitude": -76.83333
+    },
+    {
+        "cityId": "9172292",
+        "name": "Florencia",
+        "stateId": "3687029",
+        "latitude": 1.7125,
+        "longitude": -77.09126
+    },
+    {
+        "cityId": "9172304",
+        "name": "Su\u00e1rez",
+        "stateId": "3687029",
+        "latitude": 2.93463,
+        "longitude": -76.74484
+    },
+    {
+        "cityId": "9609507",
+        "name": "Guachene",
+        "stateId": "3687029",
+        "latitude": 3.1448,
+        "longitude": -76.39264
+    },
+    {
+        "cityId": "9609516",
+        "name": "Piamonte",
+        "stateId": "3687029",
+        "latitude": 1.19279,
+        "longitude": -76.33453
+    },
+    {
+        "cityId": "9609517",
+        "name": "Sucre",
+        "stateId": "3687029",
+        "latitude": 2.06182,
+        "longitude": -76.91438
+    },
+    {
+        "cityId": "9609518",
+        "name": "Villa Rica",
+        "stateId": "3687029",
+        "latitude": 3.17818,
+        "longitude": -76.46665
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2083536",
+        "name": "Wewak",
+        "stateId": "2097846",
+        "latitude": -3.58333,
+        "longitude": 143.5
+    },
+    {
+        "cityId": "2091472",
+        "name": "Maprik",
+        "stateId": "2097846",
+        "latitude": -3.75,
+        "longitude": 143
+    },
+    {
+        "cityId": "2100764",
+        "name": "Angoram",
+        "stateId": "2097846",
+        "latitude": -4.5,
+        "longitude": 143.83333
+    },
+    {
+        "cityId": "2100931",
+        "name": "Ambunti Dreikikir",
+        "stateId": "2097846",
+        "latitude": -4.33333,
+        "longitude": 142.33333
+    },
+    {
+        "cityId": "8657208",
+        "name": "Wosera Gaui",
+        "stateId": "2097846",
+        "latitude": -4.55,
+        "longitude": 142.78333
+    },
+    {
+        "cityId": "8657209",
+        "name": "Yangoru Saussia",
+        "stateId": "2097846",
+        "latitude": -3.81667,
+        "longitude": 143.46667
+    }
+]

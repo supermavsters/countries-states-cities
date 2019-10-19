@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3701523",
+        "name": "Distrito de San Carlos",
+        "stateId": "11353126",
+        "latitude": 8.53196,
+        "longitude": -80.06906
+    },
+    {
+        "cityId": "3707960",
+        "name": "Distrito de La Chorrera",
+        "stateId": "11353126",
+        "latitude": 8.95,
+        "longitude": -79.85
+    },
+    {
+        "cityId": "3712575",
+        "name": "Distrito de Chame",
+        "stateId": "11353126",
+        "latitude": 8.6,
+        "longitude": -79.91667
+    },
+    {
+        "cityId": "3713045",
+        "name": "Distrito de Capira",
+        "stateId": "11353126",
+        "latitude": 8.76228,
+        "longitude": -79.88275
+    },
+    {
+        "cityId": "3714635",
+        "name": "Distrito Arraij\u00e1n",
+        "stateId": "11353126",
+        "latitude": 8.95,
+        "longitude": -79.7
+    }
+]

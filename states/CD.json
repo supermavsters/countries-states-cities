@@ -1,0 +1,184 @@
+[
+    {
+        "stateId": "219402",
+        "name": "Bas Uele",
+        "countryId": "203312",
+        "latitude": 2.8,
+        "longitude": 24.73333
+    },
+    {
+        "stateId": "216140",
+        "name": "Haut Uele",
+        "countryId": "203312",
+        "latitude": 2.76667,
+        "longitude": 27.61667
+    },
+    {
+        "stateId": "216141",
+        "name": "Haut-Lomani",
+        "countryId": "203312",
+        "latitude": -8.73333,
+        "longitude": 25
+    },
+    {
+        "stateId": "215709",
+        "name": "Ituri",
+        "countryId": "203312",
+        "latitude": 1.56667,
+        "longitude": 30.25
+    },
+    {
+        "stateId": "214140",
+        "name": "Kasai District",
+        "countryId": "203312",
+        "latitude": -5.35,
+        "longitude": 21.41667
+    },
+    {
+        "stateId": "210596",
+        "name": "Kasa\u00ef-Central",
+        "countryId": "203312",
+        "latitude": -6.292,
+        "longitude": 22.483
+    },
+    {
+        "stateId": "2314300",
+        "name": "Kinshasa City",
+        "countryId": "203312",
+        "latitude": -4.375,
+        "longitude": 15.97
+    },
+    {
+        "stateId": "2313860",
+        "name": "Kwango",
+        "countryId": "203312",
+        "latitude": -6.542,
+        "longitude": 17.832
+    },
+    {
+        "stateId": "2313847",
+        "name": "Kwilu",
+        "countryId": "203312",
+        "latitude": -5.03333,
+        "longitude": 18.81667
+    },
+    {
+        "stateId": "11288214",
+        "name": "Lomami",
+        "countryId": "203312",
+        "latitude": -6.21667,
+        "longitude": 24.66667
+    },
+    {
+        "stateId": "922727",
+        "name": "Lualaba",
+        "countryId": "203312",
+        "latitude": -10.71667,
+        "longitude": 25.46667
+    },
+    {
+        "stateId": "2313191",
+        "name": "Mai Ndombe",
+        "countryId": "203312",
+        "latitude": -2.591,
+        "longitude": 19.335
+    },
+    {
+        "stateId": "208741",
+        "name": "Mongala",
+        "countryId": "203312",
+        "latitude": 2.06667,
+        "longitude": 21.51667
+    },
+    {
+        "stateId": "216661",
+        "name": "Province de l\u2019\u00c9quateur",
+        "countryId": "203312",
+        "latitude": 0.2,
+        "longitude": 18.93333
+    },
+    {
+        "stateId": "11288213",
+        "name": "Province du Haut-Katanga",
+        "countryId": "203312",
+        "latitude": -10.46667,
+        "longitude": 27.81667
+    },
+    {
+        "stateId": "214138",
+        "name": "Province du Kasa\u00ef Oriental",
+        "countryId": "203312",
+        "latitude": -6.18333,
+        "longitude": 23.51667
+    },
+    {
+        "stateId": "2317277",
+        "name": "Province du Kongo Central",
+        "countryId": "203312",
+        "latitude": -5.33333,
+        "longitude": 14.33333
+    },
+    {
+        "stateId": "209610",
+        "name": "Province du Maniema",
+        "countryId": "203312",
+        "latitude": -3,
+        "longitude": 26
+    },
+    {
+        "stateId": "206938",
+        "name": "Province du Nord-Kivu",
+        "countryId": "203312",
+        "latitude": -0.66667,
+        "longitude": 28.75
+    },
+    {
+        "stateId": "11288215",
+        "name": "Province du Nord-Ubangi",
+        "countryId": "203312",
+        "latitude": 3.65,
+        "longitude": 21.26667
+    },
+    {
+        "stateId": "11288216",
+        "name": "Province du Sud-Ubangi",
+        "countryId": "203312",
+        "latitude": 3.08333,
+        "longitude": 19.35
+    },
+    {
+        "stateId": "205828",
+        "name": "Sankuru",
+        "countryId": "203312",
+        "latitude": -4.96667,
+        "longitude": 23.45
+    },
+    {
+        "stateId": "205413",
+        "name": "South Kivu Province",
+        "countryId": "203312",
+        "latitude": -3.16667,
+        "longitude": 28.25
+    },
+    {
+        "stateId": "205253",
+        "name": "Tanganika",
+        "countryId": "203312",
+        "latitude": -5.93333,
+        "longitude": 29.2
+    },
+    {
+        "stateId": "204704",
+        "name": "Tshopo",
+        "countryId": "203312",
+        "latitude": 0.46667,
+        "longitude": 25.21667
+    },
+    {
+        "stateId": "204697",
+        "name": "Tshuapa",
+        "countryId": "203312",
+        "latitude": -0.21667,
+        "longitude": 20.86667
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "150275",
+        "name": "Same",
+        "stateId": "157449",
+        "latitude": -4.22199,
+        "longitude": 37.88278
+    },
+    {
+        "cityId": "150555",
+        "name": "Rombo District",
+        "stateId": "157449",
+        "latitude": -3.105,
+        "longitude": 37.544
+    },
+    {
+        "cityId": "152262",
+        "name": "Mwanga",
+        "stateId": "157449",
+        "latitude": -3.7035,
+        "longitude": 37.62296
+    },
+    {
+        "cityId": "159711",
+        "name": "Hai",
+        "stateId": "157449",
+        "latitude": -3.2543,
+        "longitude": 37.19123
+    },
+    {
+        "cityId": "7840035",
+        "name": "Moshi Rural District",
+        "stateId": "157449",
+        "latitude": -3.362,
+        "longitude": 37.459
+    },
+    {
+        "cityId": "8299555",
+        "name": "Moshi Urban District",
+        "stateId": "157449",
+        "latitude": -3.352,
+        "longitude": 37.341
+    },
+    {
+        "cityId": "9998121",
+        "name": "Siha",
+        "stateId": "157449",
+        "latitude": -3.07066,
+        "longitude": 37.06193
+    }
+]

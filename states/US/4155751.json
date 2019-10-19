@@ -1,0 +1,471 @@
+[
+    {
+        "cityId": "4145709",
+        "name": "Alachua County",
+        "stateId": "4155751",
+        "latitude": 29.67476,
+        "longitude": -82.3577
+    },
+    {
+        "cityId": "4146548",
+        "name": "Baker County",
+        "stateId": "4155751",
+        "latitude": 30.33107,
+        "longitude": -82.28459
+    },
+    {
+        "cityId": "4146810",
+        "name": "Bay County",
+        "stateId": "4155751",
+        "latitude": 30.23765,
+        "longitude": -85.63262
+    },
+    {
+        "cityId": "4148735",
+        "name": "Bradford County",
+        "stateId": "4155751",
+        "latitude": 29.94996,
+        "longitude": -82.16878
+    },
+    {
+        "cityId": "4148826",
+        "name": "Brevard County",
+        "stateId": "4155751",
+        "latitude": 28.30031,
+        "longitude": -80.70121
+    },
+    {
+        "cityId": "4149007",
+        "name": "Broward County",
+        "stateId": "4155751",
+        "latitude": 26.15186,
+        "longitude": -80.45589
+    },
+    {
+        "cityId": "4149608",
+        "name": "Calhoun County",
+        "stateId": "4155751",
+        "latitude": 30.40603,
+        "longitude": -85.19721
+    },
+    {
+        "cityId": "4150627",
+        "name": "Charlotte County",
+        "stateId": "4155751",
+        "latitude": 26.89985,
+        "longitude": -81.95031
+    },
+    {
+        "cityId": "4151140",
+        "name": "Citrus County",
+        "stateId": "4155751",
+        "latitude": 28.84757,
+        "longitude": -82.52011
+    },
+    {
+        "cityId": "4151245",
+        "name": "Clay County",
+        "stateId": "4155751",
+        "latitude": 29.98307,
+        "longitude": -81.85789
+    },
+    {
+        "cityId": "4151550",
+        "name": "Collier County",
+        "stateId": "4155751",
+        "latitude": 26.09924,
+        "longitude": -81.38097
+    },
+    {
+        "cityId": "4151595",
+        "name": "Columbia County",
+        "stateId": "4155751",
+        "latitude": 30.22424,
+        "longitude": -82.62154
+    },
+    {
+        "cityId": "4152927",
+        "name": "DeSoto County",
+        "stateId": "4155751",
+        "latitude": 27.18632,
+        "longitude": -81.8093
+    },
+    {
+        "cityId": "4153352",
+        "name": "Dixie County",
+        "stateId": "4155751",
+        "latitude": 29.58124,
+        "longitude": -83.18703
+    },
+    {
+        "cityId": "4153840",
+        "name": "Duval County",
+        "stateId": "4155751",
+        "latitude": 30.33544,
+        "longitude": -81.64801
+    },
+    {
+        "cityId": "4154550",
+        "name": "Escambia County",
+        "stateId": "4155751",
+        "latitude": 30.6144,
+        "longitude": -87.34136
+    },
+    {
+        "cityId": "4155535",
+        "name": "Flagler County",
+        "stateId": "4155751",
+        "latitude": 29.47115,
+        "longitude": -81.29299
+    },
+    {
+        "cityId": "4156210",
+        "name": "Franklin County",
+        "stateId": "4155751",
+        "latitude": 29.81168,
+        "longitude": -84.80046
+    },
+    {
+        "cityId": "4156394",
+        "name": "Gadsden County",
+        "stateId": "4155751",
+        "latitude": 30.57947,
+        "longitude": -84.6136
+    },
+    {
+        "cityId": "4156770",
+        "name": "Gilchrist County",
+        "stateId": "4155751",
+        "latitude": 29.72582,
+        "longitude": -82.80037
+    },
+    {
+        "cityId": "4156815",
+        "name": "Glades County",
+        "stateId": "4155751",
+        "latitude": 26.95648,
+        "longitude": -81.18898
+    },
+    {
+        "cityId": "4157652",
+        "name": "Gulf County",
+        "stateId": "4155751",
+        "latitude": 29.90862,
+        "longitude": -85.26101
+    },
+    {
+        "cityId": "4157924",
+        "name": "Hamilton County",
+        "stateId": "4155751",
+        "latitude": 30.49643,
+        "longitude": -82.94796
+    },
+    {
+        "cityId": "4158068",
+        "name": "Hardee County",
+        "stateId": "4155751",
+        "latitude": 27.4927,
+        "longitude": -81.80993
+    },
+    {
+        "cityId": "4158392",
+        "name": "Hendry County",
+        "stateId": "4155751",
+        "latitude": 26.55349,
+        "longitude": -81.1659
+    },
+    {
+        "cityId": "4158449",
+        "name": "Hernando County",
+        "stateId": "4155751",
+        "latitude": 28.55617,
+        "longitude": -82.46849
+    },
+    {
+        "cityId": "4158643",
+        "name": "Highlands County",
+        "stateId": "4155751",
+        "latitude": 27.3434,
+        "longitude": -81.34097
+    },
+    {
+        "cityId": "4158712",
+        "name": "Hillsborough County",
+        "stateId": "4155751",
+        "latitude": 27.90623,
+        "longitude": -82.34692
+    },
+    {
+        "cityId": "4158961",
+        "name": "Holmes County",
+        "stateId": "4155751",
+        "latitude": 30.86789,
+        "longitude": -85.8141
+    },
+    {
+        "cityId": "4159657",
+        "name": "Indian River County",
+        "stateId": "4155751",
+        "latitude": 27.69639,
+        "longitude": -80.57409
+    },
+    {
+        "cityId": "4159990",
+        "name": "Jackson County",
+        "stateId": "4155751",
+        "latitude": 30.79539,
+        "longitude": -85.21546
+    },
+    {
+        "cityId": "4160118",
+        "name": "Jefferson County",
+        "stateId": "4155751",
+        "latitude": 30.42346,
+        "longitude": -83.90047
+    },
+    {
+        "cityId": "4161127",
+        "name": "Lafayette County",
+        "stateId": "4155751",
+        "latitude": 29.98552,
+        "longitude": -83.18107
+    },
+    {
+        "cityId": "4161204",
+        "name": "Lake County",
+        "stateId": "4155751",
+        "latitude": 28.76147,
+        "longitude": -81.7113
+    },
+    {
+        "cityId": "4161743",
+        "name": "Lee County",
+        "stateId": "4155751",
+        "latitude": 26.62536,
+        "longitude": -81.84952
+    },
+    {
+        "cityId": "4161831",
+        "name": "Leon County",
+        "stateId": "4155751",
+        "latitude": 30.45804,
+        "longitude": -84.27788
+    },
+    {
+        "cityId": "4161891",
+        "name": "Levy County",
+        "stateId": "4155751",
+        "latitude": 29.28221,
+        "longitude": -82.78861
+    },
+    {
+        "cityId": "4161925",
+        "name": "Liberty County",
+        "stateId": "4155751",
+        "latitude": 30.24136,
+        "longitude": -84.88291
+    },
+    {
+        "cityId": "4163142",
+        "name": "Madison County",
+        "stateId": "4155751",
+        "latitude": 30.44414,
+        "longitude": -83.47012
+    },
+    {
+        "cityId": "4163277",
+        "name": "Manatee County",
+        "stateId": "4155751",
+        "latitude": 27.47752,
+        "longitude": -82.35754
+    },
+    {
+        "cityId": "4163456",
+        "name": "Marion County",
+        "stateId": "4155751",
+        "latitude": 29.2102,
+        "longitude": -82.05668
+    },
+    {
+        "cityId": "4163566",
+        "name": "Martin County",
+        "stateId": "4155751",
+        "latitude": 27.08157,
+        "longitude": -80.39851
+    },
+    {
+        "cityId": "4164238",
+        "name": "Miami-Dade County",
+        "stateId": "4155751",
+        "latitude": 25.60897,
+        "longitude": -80.49867
+    },
+    {
+        "cityId": "4164762",
+        "name": "Monroe County",
+        "stateId": "4155751",
+        "latitude": 25.55731,
+        "longitude": -80.91705
+    },
+    {
+        "cityId": "4165603",
+        "name": "Nassau County",
+        "stateId": "4155751",
+        "latitude": 30.61058,
+        "longitude": -81.77142
+    },
+    {
+        "cityId": "4166818",
+        "name": "Okaloosa County",
+        "stateId": "4155751",
+        "latitude": 30.66503,
+        "longitude": -86.59218
+    },
+    {
+        "cityId": "4166825",
+        "name": "Okeechobee County",
+        "stateId": "4155751",
+        "latitude": 27.38629,
+        "longitude": -80.88858
+    },
+    {
+        "cityId": "4167060",
+        "name": "Orange County",
+        "stateId": "4155751",
+        "latitude": 28.51442,
+        "longitude": -81.32348
+    },
+    {
+        "cityId": "4167218",
+        "name": "Osceola County",
+        "stateId": "4155751",
+        "latitude": 28.06266,
+        "longitude": -81.14948
+    },
+    {
+        "cityId": "4167510",
+        "name": "Palm Beach County",
+        "stateId": "4155751",
+        "latitude": 26.64757,
+        "longitude": -80.43651
+    },
+    {
+        "cityId": "4167895",
+        "name": "Pasco County",
+        "stateId": "4155751",
+        "latitude": 28.30674,
+        "longitude": -82.43887
+    },
+    {
+        "cityId": "4168618",
+        "name": "Pinellas County",
+        "stateId": "4155751",
+        "latitude": 27.90268,
+        "longitude": -82.73955
+    },
+    {
+        "cityId": "4168988",
+        "name": "Polk County",
+        "stateId": "4155751",
+        "latitude": 27.94888,
+        "longitude": -81.69767
+    },
+    {
+        "cityId": "4169471",
+        "name": "Putnam County",
+        "stateId": "4155751",
+        "latitude": 29.60863,
+        "longitude": -81.7443
+    },
+    {
+        "cityId": "4171153",
+        "name": "Saint Johns County",
+        "stateId": "4155751",
+        "latitude": 29.91218,
+        "longitude": -81.40989
+    },
+    {
+        "cityId": "4171260",
+        "name": "Saint Lucie County",
+        "stateId": "4155751",
+        "latitude": 27.38081,
+        "longitude": -80.44554
+    },
+    {
+        "cityId": "4172096",
+        "name": "Santa Rosa County",
+        "stateId": "4155751",
+        "latitude": 30.6929,
+        "longitude": -87.01845
+    },
+    {
+        "cityId": "4172139",
+        "name": "Sarasota County",
+        "stateId": "4155751",
+        "latitude": 27.18248,
+        "longitude": -82.36498
+    },
+    {
+        "cityId": "4172445",
+        "name": "Seminole County",
+        "stateId": "4155751",
+        "latitude": 28.71698,
+        "longitude": -81.2363
+    },
+    {
+        "cityId": "4174301",
+        "name": "Sumter County",
+        "stateId": "4155751",
+        "latitude": 28.70482,
+        "longitude": -82.081
+    },
+    {
+        "cityId": "4174543",
+        "name": "Suwannee County",
+        "stateId": "4155751",
+        "latitude": 30.19561,
+        "longitude": -82.99149
+    },
+    {
+        "cityId": "4174886",
+        "name": "Taylor County",
+        "stateId": "4155751",
+        "latitude": 30.01957,
+        "longitude": -83.61897
+    },
+    {
+        "cityId": "4176099",
+        "name": "Union County",
+        "stateId": "4155751",
+        "latitude": 30.04384,
+        "longitude": -82.37144
+    },
+    {
+        "cityId": "4176559",
+        "name": "Volusia County",
+        "stateId": "4155751",
+        "latitude": 29.06345,
+        "longitude": -81.14857
+    },
+    {
+        "cityId": "4177321",
+        "name": "Wakulla County",
+        "stateId": "4155751",
+        "latitude": 30.14777,
+        "longitude": -84.37561
+    },
+    {
+        "cityId": "4177409",
+        "name": "Walton County",
+        "stateId": "4155751",
+        "latitude": 30.61847,
+        "longitude": -86.17152
+    },
+    {
+        "cityId": "4177485",
+        "name": "Washington County",
+        "stateId": "4155751",
+        "latitude": 30.61059,
+        "longitude": -85.66533
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "1791248",
+        "name": "Wuhai Shi",
+        "stateId": "2035607",
+        "latitude": 39.53827,
+        "longitude": 106.90579
+    },
+    {
+        "cityId": "1806529",
+        "name": "Ordos Shi",
+        "stateId": "2035607",
+        "latitude": 39.46142,
+        "longitude": 108.80946
+    },
+    {
+        "cityId": "1818128",
+        "name": "Alxa Meng",
+        "stateId": "2035607",
+        "latitude": 40.48087,
+        "longitude": 102.84579
+    },
+    {
+        "cityId": "2033827",
+        "name": "Xilin Gol Meng",
+        "stateId": "2035607",
+        "latitude": 44.85493,
+        "longitude": 115.72789
+    },
+    {
+        "cityId": "2034303",
+        "name": "Wulanchabu Shi",
+        "stateId": "2035607",
+        "latitude": 41.73375,
+        "longitude": 112.09115
+    },
+    {
+        "cityId": "2036421",
+        "name": "Tongliao Shi",
+        "stateId": "2035607",
+        "latitude": 43.58196,
+        "longitude": 121.93534
+    },
+    {
+        "cityId": "2036660",
+        "name": "Hulunbuir Region",
+        "stateId": "2035607",
+        "latitude": 49.70989,
+        "longitude": 121.72176
+    },
+    {
+        "cityId": "2036891",
+        "name": "Hohhot Shi",
+        "stateId": "2035607",
+        "latitude": 40.64947,
+        "longitude": 111.68875
+    },
+    {
+        "cityId": "2036898",
+        "name": "Hinggan Meng",
+        "stateId": "2035607",
+        "latitude": 46.64839,
+        "longitude": 121.24169
+    },
+    {
+        "cityId": "2038066",
+        "name": "Chifeng Shi",
+        "stateId": "2035607",
+        "latitude": 43.61179,
+        "longitude": 119.11572
+    },
+    {
+        "cityId": "2038392",
+        "name": "Bayannur Shi",
+        "stateId": "2035607",
+        "latitude": 41.56958,
+        "longitude": 107.49485
+    },
+    {
+        "cityId": "2038431",
+        "name": "Baotou Shi",
+        "stateId": "2035607",
+        "latitude": 41.65545,
+        "longitude": 110.23535
+    },
+    {
+        "cityId": "8617184",
+        "name": "Alxa Left Banner",
+        "stateId": "2035607",
+        "latitude": 38.84185,
+        "longitude": 105.72556
+    },
+    {
+        "cityId": "8617187",
+        "name": "Ejina Banner",
+        "stateId": "2035607",
+        "latitude": 41.98757,
+        "longitude": 101.01173
+    },
+    {
+        "cityId": "8617227",
+        "name": "Alxa Right Banner",
+        "stateId": "2035607",
+        "latitude": 39.21949,
+        "longitude": 101.60706
+    },
+    {
+        "cityId": "8740492",
+        "name": "Jiagedaqi District",
+        "stateId": "2035607",
+        "latitude": 50.42383,
+        "longitude": 124.12402
+    }
+]

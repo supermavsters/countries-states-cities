@@ -1,0 +1,142 @@
+[
+    {
+        "stateId": "3183560",
+        "name": "Abruzzo",
+        "countryId": "3175395",
+        "latitude": 42.25,
+        "longitude": 13.75
+    },
+    {
+        "stateId": "3182306",
+        "name": "Basilicata",
+        "countryId": "3175395",
+        "latitude": 40.5041,
+        "longitude": 16.11396
+    },
+    {
+        "stateId": "2525468",
+        "name": "Calabria",
+        "countryId": "3175395",
+        "latitude": 39,
+        "longitude": 16.5
+    },
+    {
+        "stateId": "3181042",
+        "name": "Campania",
+        "countryId": "3175395",
+        "latitude": 40.91056,
+        "longitude": 14.92053
+    },
+    {
+        "stateId": "3177401",
+        "name": "Emilia-Romagna",
+        "countryId": "3175395",
+        "latitude": 44.5444,
+        "longitude": 10.98361
+    },
+    {
+        "stateId": "3176525",
+        "name": "Friuli Venezia Giulia",
+        "countryId": "3175395",
+        "latitude": 46,
+        "longitude": 13
+    },
+    {
+        "stateId": "3174976",
+        "name": "Lazio",
+        "countryId": "3175395",
+        "latitude": 42.07762,
+        "longitude": 12.77878
+    },
+    {
+        "stateId": "3174725",
+        "name": "Liguria",
+        "countryId": "3175395",
+        "latitude": 44.5,
+        "longitude": 8.83333
+    },
+    {
+        "stateId": "3174618",
+        "name": "Lombardia",
+        "countryId": "3175395",
+        "latitude": 45.66667,
+        "longitude": 9.5
+    },
+    {
+        "stateId": "3174004",
+        "name": "Marche",
+        "countryId": "3175395",
+        "latitude": 43.5,
+        "longitude": 13.25
+    },
+    {
+        "stateId": "3173222",
+        "name": "Molise",
+        "countryId": "3175395",
+        "latitude": 41.66667,
+        "longitude": 14.5
+    },
+    {
+        "stateId": "3170831",
+        "name": "Piemonte",
+        "countryId": "3175395",
+        "latitude": 45,
+        "longitude": 8
+    },
+    {
+        "stateId": "3169778",
+        "name": "Puglia",
+        "countryId": "3175395",
+        "latitude": 41.00164,
+        "longitude": 16.73378
+    },
+    {
+        "stateId": "3164857",
+        "name": "Regione Autonoma Valle d'Aosta",
+        "countryId": "3175395",
+        "latitude": 45.75,
+        "longitude": 7.25
+    },
+    {
+        "stateId": "2523228",
+        "name": "Sardegna",
+        "countryId": "3175395",
+        "latitude": 40,
+        "longitude": 9
+    },
+    {
+        "stateId": "2523119",
+        "name": "Sicilia",
+        "countryId": "3175395",
+        "latitude": 37.75,
+        "longitude": 14.25
+    },
+    {
+        "stateId": "3165361",
+        "name": "Toscana",
+        "countryId": "3175395",
+        "latitude": 43.41667,
+        "longitude": 11
+    },
+    {
+        "stateId": "3165244",
+        "name": "Trentino-Alto Adige",
+        "countryId": "3175395",
+        "latitude": 46.5,
+        "longitude": 11.33333
+    },
+    {
+        "stateId": "3165048",
+        "name": "Umbria",
+        "countryId": "3175395",
+        "latitude": 43,
+        "longitude": 12.5
+    },
+    {
+        "stateId": "3164604",
+        "name": "Veneto",
+        "countryId": "3175395",
+        "latitude": 45.5,
+        "longitude": 11.75
+    }
+]

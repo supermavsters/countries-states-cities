@@ -1,0 +1,65 @@
+[
+    {
+        "stateId": "2460594",
+        "name": "Bamako Region",
+        "countryId": "2453866",
+        "latitude": 12.65,
+        "longitude": -8
+    },
+    {
+        "stateId": "2457161",
+        "name": "Gao Region",
+        "countryId": "2453866",
+        "latitude": 16.6,
+        "longitude": 1.6
+    },
+    {
+        "stateId": "2455517",
+        "name": "Kayes Region",
+        "countryId": "2453866",
+        "latitude": 13.9,
+        "longitude": -10.1
+    },
+    {
+        "stateId": "2597449",
+        "name": "Kidal Region",
+        "countryId": "2453866",
+        "latitude": 19.4,
+        "longitude": 1.2
+    },
+    {
+        "stateId": "2454532",
+        "name": "Koulikoro Region",
+        "countryId": "2453866",
+        "latitude": 13.8,
+        "longitude": -7.5
+    },
+    {
+        "stateId": "2453347",
+        "name": "Mopti Region",
+        "countryId": "2453866",
+        "latitude": 14.7,
+        "longitude": -3.4
+    },
+    {
+        "stateId": "2451184",
+        "name": "Sikasso Region",
+        "countryId": "2453866",
+        "latitude": 11.3,
+        "longitude": -6.2
+    },
+    {
+        "stateId": "2451477",
+        "name": "S\u00e9gou Region",
+        "countryId": "2453866",
+        "latitude": 13.6,
+        "longitude": -5.9
+    },
+    {
+        "stateId": "2449066",
+        "name": "Tombouctou Region",
+        "countryId": "2453866",
+        "latitude": 19.7,
+        "longitude": -3.6
+    }
+]

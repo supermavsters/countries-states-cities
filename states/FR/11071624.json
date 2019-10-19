@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2974304",
+        "name": "Somme",
+        "stateId": "11071624",
+        "latitude": 49.93141,
+        "longitude": 2.27639
+    },
+    {
+        "cityId": "2988430",
+        "name": "Pas-de-Calais",
+        "stateId": "11071624",
+        "latitude": 50.4828,
+        "longitude": 2.28664
+    },
+    {
+        "cityId": "2989663",
+        "name": "D\u00e9partement de l'Oise",
+        "stateId": "11071624",
+        "latitude": 49.5,
+        "longitude": 2.5
+    },
+    {
+        "cityId": "2990129",
+        "name": "Nord",
+        "stateId": "11071624",
+        "latitude": 50.33333,
+        "longitude": 3.36197
+    },
+    {
+        "cityId": "3038375",
+        "name": "D\u00e9partement de l'Aisne",
+        "stateId": "11071624",
+        "latitude": 49.5,
+        "longitude": 3.5
+    }
+]

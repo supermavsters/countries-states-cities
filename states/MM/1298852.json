@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1298070",
+        "name": "Thandwe District",
+        "stateId": "1298852",
+        "latitude": 18.51281,
+        "longitude": 94.51979
+    },
+    {
+        "cityId": "1316745",
+        "name": "Kyaunkpyu District",
+        "stateId": "1298852",
+        "latitude": 19.91773,
+        "longitude": 94.03112
+    },
+    {
+        "cityId": "1329415",
+        "name": "Sittwe District",
+        "stateId": "1298852",
+        "latitude": 20.20035,
+        "longitude": 92.86743
+    },
+    {
+        "cityId": "8238605",
+        "name": "Maungdaw District",
+        "stateId": "1298852",
+        "latitude": 21.00382,
+        "longitude": 92.37624
+    },
+    {
+        "cityId": "11154019",
+        "name": "Mrauk-U",
+        "stateId": "1298852",
+        "latitude": 20.47661,
+        "longitude": 93.35497
+    }
+]

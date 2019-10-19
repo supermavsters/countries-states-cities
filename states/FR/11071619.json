@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2967222",
+        "name": "D\u00e9partement de l'Yonne",
+        "stateId": "11071619",
+        "latitude": 47.91667,
+        "longitude": 3.75
+    },
+    {
+        "cityId": "2976082",
+        "name": "D\u00e9partement de Sa\u00f4ne-et-Loire",
+        "stateId": "11071619",
+        "latitude": 46.63646,
+        "longitude": 4.58819
+    },
+    {
+        "cityId": "2990371",
+        "name": "D\u00e9partement de la Ni\u00e8vre",
+        "stateId": "11071619",
+        "latitude": 47.11695,
+        "longitude": 3.49192
+    },
+    {
+        "cityId": "3012051",
+        "name": "Jura",
+        "stateId": "11071619",
+        "latitude": 46.73431,
+        "longitude": 5.72349
+    },
+    {
+        "cityId": "3013737",
+        "name": "D\u00e9partement de la Haute-Sa\u00f4ne",
+        "stateId": "11071619",
+        "latitude": 47.67625,
+        "longitude": 6.10066
+    },
+    {
+        "cityId": "3020989",
+        "name": "Doubs",
+        "stateId": "11071619",
+        "latitude": 47.19967,
+        "longitude": 6.43487
+    },
+    {
+        "cityId": "3023423",
+        "name": "D\u00e9partement de la C\u00f4te-d'Or",
+        "stateId": "11071619",
+        "latitude": 47.5,
+        "longitude": 4.83333
+    },
+    {
+        "cityId": "3033789",
+        "name": "Territoire de Belfort",
+        "stateId": "11071619",
+        "latitude": 47.63578,
+        "longitude": 6.88843
+    }
+]

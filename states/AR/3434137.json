@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "3427426",
+        "name": "Departamento de Villaguay",
+        "stateId": "3434137",
+        "latitude": -31.58333,
+        "longitude": -59
+    },
+    {
+        "cityId": "3427576",
+        "name": "Departamento de Uruguay",
+        "stateId": "3434137",
+        "latitude": -32.44344,
+        "longitude": -58.58278
+    },
+    {
+        "cityId": "3427856",
+        "name": "Departamento de Tala",
+        "stateId": "3434137",
+        "latitude": -32.33333,
+        "longitude": -59.33333
+    },
+    {
+        "cityId": "3430146",
+        "name": "Departamento de Paran\u00e1",
+        "stateId": "3434137",
+        "latitude": -31.66667,
+        "longitude": -60
+    },
+    {
+        "cityId": "3430412",
+        "name": "Departamento de Nogoy\u00e1",
+        "stateId": "3434137",
+        "latitude": -32.16667,
+        "longitude": -59.83333
+    },
+    {
+        "cityId": "3432077",
+        "name": "Departamento de La Paz",
+        "stateId": "3434137",
+        "latitude": -30.83333,
+        "longitude": -59.41667
+    },
+    {
+        "cityId": "3433657",
+        "name": "Departamento de Gualeguaych\u00fa",
+        "stateId": "3434137",
+        "latitude": -33.25,
+        "longitude": -59
+    },
+    {
+        "cityId": "3433661",
+        "name": "Departamento de Gualeguay",
+        "stateId": "3434137",
+        "latitude": -33,
+        "longitude": -59.58333
+    },
+    {
+        "cityId": "3433947",
+        "name": "Departamento de Feliciano",
+        "stateId": "3434137",
+        "latitude": -30.41667,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3433958",
+        "name": "Departamento de Federaci\u00f3n",
+        "stateId": "3434137",
+        "latitude": -30.66667,
+        "longitude": -58.33333
+    },
+    {
+        "cityId": "3435260",
+        "name": "Departamento de Concordia",
+        "stateId": "3434137",
+        "latitude": -31.21345,
+        "longitude": -58.16274
+    },
+    {
+        "cityId": "3435351",
+        "name": "Departamento de Col\u00f3n",
+        "stateId": "3434137",
+        "latitude": -32.00382,
+        "longitude": -58.36319
+    },
+    {
+        "cityId": "3832932",
+        "name": "Departamento de Victoria",
+        "stateId": "3434137",
+        "latitude": -32.66667,
+        "longitude": -60.33333
+    },
+    {
+        "cityId": "3859380",
+        "name": "Departamento de Diamante",
+        "stateId": "3434137",
+        "latitude": -32.16667,
+        "longitude": -60.41667
+    },
+    {
+        "cityId": "8715308",
+        "name": "Departamento de Federal",
+        "stateId": "3434137",
+        "latitude": -30.95568,
+        "longitude": -58.78329
+    },
+    {
+        "cityId": "8715309",
+        "name": "Departamento de Islas del Ibicuy",
+        "stateId": "3434137",
+        "latitude": -33.72401,
+        "longitude": -58.65968
+    },
+    {
+        "cityId": "8715311",
+        "name": "Departamento de San Salvador",
+        "stateId": "3434137",
+        "latitude": -31.61608,
+        "longitude": -58.52277
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1734504",
+        "name": "Bahagian Kuching",
+        "stateId": "1733038",
+        "latitude": 1.41667,
+        "longitude": 110.08333
+    },
+    {
+        "cityId": "1735861",
+        "name": "Bahagian Sarikei",
+        "stateId": "1733038",
+        "latitude": 2,
+        "longitude": 111.66667
+    },
+    {
+        "cityId": "1736901",
+        "name": "Bahagian Sri Aman",
+        "stateId": "1733038",
+        "latitude": 1.5,
+        "longitude": 111.5
+    },
+    {
+        "cityId": "1736980",
+        "name": "Bahagian Sibu",
+        "stateId": "1733038",
+        "latitude": 2.41667,
+        "longitude": 112.25
+    },
+    {
+        "cityId": "1737785",
+        "name": "Bahagian Limbang",
+        "stateId": "1733038",
+        "latitude": 4.16667,
+        "longitude": 115.33333
+    },
+    {
+        "cityId": "1737860",
+        "name": "Bahagian Kapit",
+        "stateId": "1733038",
+        "latitude": 2.16667,
+        "longitude": 113.75
+    },
+    {
+        "cityId": "1738079",
+        "name": "Bahagian Miri",
+        "stateId": "1733038",
+        "latitude": 3.75,
+        "longitude": 114.5
+    },
+    {
+        "cityId": "1966740",
+        "name": "Bahagian Bintulu",
+        "stateId": "1733038",
+        "latitude": 2.83333,
+        "longitude": 113.25
+    },
+    {
+        "cityId": "1966741",
+        "name": "Bahagian Samarahan",
+        "stateId": "1733038",
+        "latitude": 1.25,
+        "longitude": 110.75
+    }
+]

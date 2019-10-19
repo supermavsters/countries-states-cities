@@ -1,0 +1,23 @@
+[
+    {
+        "stateId": "2800867",
+        "name": "Bruxelles-Capitale",
+        "countryId": "2802361",
+        "latitude": 50.85332,
+        "longitude": 4.35144
+    },
+    {
+        "stateId": "3337388",
+        "name": "Flanders",
+        "countryId": "2802361",
+        "latitude": 51,
+        "longitude": 4.5
+    },
+    {
+        "stateId": "3337387",
+        "name": "Wallonia",
+        "countryId": "2802361",
+        "latitude": 50.5,
+        "longitude": 4.75
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "1605753",
+        "name": "Amphoe Taphan Hin",
+        "stateId": "1607724",
+        "latitude": 16.21103,
+        "longitude": 100.41739
+    },
+    {
+        "cityId": "1606666",
+        "name": "Amphoe Sam Ngam",
+        "stateId": "1607724",
+        "latitude": 16.43832,
+        "longitude": 100.14155
+    },
+    {
+        "cityId": "1607583",
+        "name": "Amphoe Pho Thale",
+        "stateId": "1607724",
+        "latitude": 16.05885,
+        "longitude": 100.24579
+    },
+    {
+        "cityId": "1608634",
+        "name": "Amphoe Mueang Phichit",
+        "stateId": "1607724",
+        "latitude": 16.40986,
+        "longitude": 100.34578
+    },
+    {
+        "cityId": "1619399",
+        "name": "Amphoe Bang Mun Nak",
+        "stateId": "1607724",
+        "latitude": 16.02656,
+        "longitude": 100.43194
+    },
+    {
+        "cityId": "7510679",
+        "name": "Amphoe Bueng Na Rang",
+        "stateId": "1607724",
+        "latitude": 16.18642,
+        "longitude": 100.14293
+    },
+    {
+        "cityId": "7510680",
+        "name": "Amphoe Sak Lek",
+        "stateId": "1607724",
+        "latitude": 16.50717,
+        "longitude": 100.5235
+    },
+    {
+        "cityId": "7510681",
+        "name": "Amphoe Wachira Barami",
+        "stateId": "1607724",
+        "latitude": 16.51667,
+        "longitude": 100.11667
+    },
+    {
+        "cityId": "7510692",
+        "name": "Amphoe Thap Khlo",
+        "stateId": "1607724",
+        "latitude": 16.19167,
+        "longitude": 100.60082
+    },
+    {
+        "cityId": "7511052",
+        "name": "Amphoe Dong Charoen",
+        "stateId": "1607724",
+        "latitude": 15.99848,
+        "longitude": 100.59572
+    },
+    {
+        "cityId": "7511055",
+        "name": "Amphoe Wang Sai Phun",
+        "stateId": "1607724",
+        "latitude": 16.37922,
+        "longitude": 100.53668
+    },
+    {
+        "cityId": "8304647",
+        "name": "Amphoe Pho Prathap Chang",
+        "stateId": "1607724",
+        "latitude": 16.31294,
+        "longitude": 100.19897
+    }
+]

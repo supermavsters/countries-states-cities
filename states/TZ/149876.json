@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "149877",
+        "name": "Singida Rural District",
+        "stateId": "149876",
+        "latitude": -4.62844,
+        "longitude": 34.9585
+    },
+    {
+        "cityId": "154836",
+        "name": "Manyoni",
+        "stateId": "149876",
+        "latitude": -6.31077,
+        "longitude": 34.53677
+    },
+    {
+        "cityId": "159085",
+        "name": "Iramba",
+        "stateId": "149876",
+        "latitude": -4.42115,
+        "longitude": 34.30268
+    },
+    {
+        "cityId": "7731078",
+        "name": "Singida Urban District",
+        "stateId": "149876",
+        "latitude": -4.84,
+        "longitude": 34.71
+    },
+    {
+        "cityId": "9998225",
+        "name": "Ikungi",
+        "stateId": "149876",
+        "latitude": -5.14251,
+        "longitude": 34.57999
+    },
+    {
+        "cityId": "9998226",
+        "name": "Mkalama",
+        "stateId": "149876",
+        "latitude": -4.21368,
+        "longitude": 34.71672
+    }
+]

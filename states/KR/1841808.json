@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1841791",
+        "name": "Gwangsan-gu",
+        "stateId": "1841808",
+        "latitude": 35.16158,
+        "longitude": 126.8081
+    },
+    {
+        "cityId": "8462134",
+        "name": "Seo-gu",
+        "stateId": "1841808",
+        "latitude": 35.15248,
+        "longitude": 126.89106
+    },
+    {
+        "cityId": "8462135",
+        "name": "Nam-gu",
+        "stateId": "1841808",
+        "latitude": 35.12159,
+        "longitude": 126.90943
+    },
+    {
+        "cityId": "8462136",
+        "name": "Buk-gu",
+        "stateId": "1841808",
+        "latitude": 35.19232,
+        "longitude": 126.92439
+    },
+    {
+        "cityId": "8462137",
+        "name": "Dong-gu",
+        "stateId": "1841808",
+        "latitude": 35.14592,
+        "longitude": 126.9232
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3717599",
+        "name": "Arrondissement de Saint-Louis du Nord",
+        "stateId": "3719536",
+        "latitude": 19.85,
+        "longitude": -72.66667
+    },
+    {
+        "cityId": "3718419",
+        "name": "Arrondissement de Port-de-Paix",
+        "stateId": "3719536",
+        "latitude": 19.83333,
+        "longitude": -72.88333
+    },
+    {
+        "cityId": "3720764",
+        "name": "Arrondissement du M\u00f4le Saint-Nicolas",
+        "stateId": "3719536",
+        "latitude": 19.75,
+        "longitude": -73.25
+    }
+]

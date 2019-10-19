@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "8718162",
+        "name": "Lucerne-Land District",
+        "stateId": "2659810",
+        "latitude": 47.04046,
+        "longitude": 8.29271
+    },
+    {
+        "cityId": "8718163",
+        "name": "Lucerne-Stadt District",
+        "stateId": "2659810",
+        "latitude": 47.05334,
+        "longitude": 8.31063
+    },
+    {
+        "cityId": "8740968",
+        "name": "Entlebuch District",
+        "stateId": "2659810",
+        "latitude": 46.9259,
+        "longitude": 8.01427
+    },
+    {
+        "cityId": "8740969",
+        "name": "Hochdorf District",
+        "stateId": "2659810",
+        "latitude": 47.17062,
+        "longitude": 8.28702
+    },
+    {
+        "cityId": "8740970",
+        "name": "Sursee District",
+        "stateId": "2659810",
+        "latitude": 47.15591,
+        "longitude": 8.13704
+    },
+    {
+        "cityId": "8740971",
+        "name": "Willisau District",
+        "stateId": "2659810",
+        "latitude": 47.14097,
+        "longitude": 7.95933
+    }
+]

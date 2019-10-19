@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "3626693",
+        "name": "Municipio Sotillo",
+        "stateId": "3632100",
+        "latitude": 8.83333,
+        "longitude": -62.5
+    },
+    {
+        "cityId": "3630282",
+        "name": "Municipio Piar",
+        "stateId": "3632100",
+        "latitude": 10,
+        "longitude": -63.41667
+    },
+    {
+        "cityId": "3632537",
+        "name": "Municipio Matur\u00edn",
+        "stateId": "3632100",
+        "latitude": 9.4,
+        "longitude": -63.03333
+    },
+    {
+        "cityId": "3646104",
+        "name": "Municipio Cede\u00f1o",
+        "stateId": "3632100",
+        "latitude": 9.83333,
+        "longitude": -63.75
+    },
+    {
+        "cityId": "3646536",
+        "name": "Municipio Caripe",
+        "stateId": "3632100",
+        "latitude": 10.16667,
+        "longitude": -63.41667
+    },
+    {
+        "cityId": "3648111",
+        "name": "Municipio Bol\u00edvar",
+        "stateId": "3632100",
+        "latitude": 10.04932,
+        "longitude": -63.13225
+    },
+    {
+        "cityId": "3649799",
+        "name": "Municipio Acosta",
+        "stateId": "3632100",
+        "latitude": 10.1,
+        "longitude": -63.75
+    },
+    {
+        "cityId": "8129207",
+        "name": "Municipio Ezequiel Zamora",
+        "stateId": "3632100",
+        "latitude": 9.69131,
+        "longitude": -63.60921
+    },
+    {
+        "cityId": "8129212",
+        "name": "Municipio Aguasay",
+        "stateId": "3632100",
+        "latitude": 9.42489,
+        "longitude": -63.73077
+    },
+    {
+        "cityId": "8129222",
+        "name": "Municipio Uracoa",
+        "stateId": "3632100",
+        "latitude": 8.9996,
+        "longitude": -62.35164
+    },
+    {
+        "cityId": "8131445",
+        "name": "Municipio Libertador",
+        "stateId": "3632100",
+        "latitude": 9.00716,
+        "longitude": -62.64216
+    },
+    {
+        "cityId": "8131446",
+        "name": "Municipio Punceres",
+        "stateId": "3632100",
+        "latitude": 9.97798,
+        "longitude": -63.21928
+    },
+    {
+        "cityId": "8131447",
+        "name": "Municipio Santa B\u00e1rbara",
+        "stateId": "3632100",
+        "latitude": 9.60617,
+        "longitude": -63.60809
+    }
+]

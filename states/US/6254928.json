@@ -1,0 +1,940 @@
+[
+    {
+        "cityId": "4743865",
+        "name": "Accomack County",
+        "stateId": "6254928",
+        "latitude": 37.76494,
+        "longitude": -75.75656
+    },
+    {
+        "cityId": "4744031",
+        "name": "Albemarle County",
+        "stateId": "6254928",
+        "latitude": 38.02289,
+        "longitude": -78.55654
+    },
+    {
+        "cityId": "4744106",
+        "name": "City of Alexandria",
+        "stateId": "6254928",
+        "latitude": 38.80484,
+        "longitude": -77.04692
+    },
+    {
+        "cityId": "4744139",
+        "name": "Alleghany County",
+        "stateId": "6254928",
+        "latitude": 37.7876,
+        "longitude": -80.00699
+    },
+    {
+        "cityId": "4744308",
+        "name": "Amelia County",
+        "stateId": "6254928",
+        "latitude": 37.33603,
+        "longitude": -77.97614
+    },
+    {
+        "cityId": "4744328",
+        "name": "Amherst County",
+        "stateId": "6254928",
+        "latitude": 37.60477,
+        "longitude": -79.14511
+    },
+    {
+        "cityId": "4744616",
+        "name": "Appomattox County",
+        "stateId": "6254928",
+        "latitude": 37.37229,
+        "longitude": -78.81212
+    },
+    {
+        "cityId": "4744725",
+        "name": "Arlington County",
+        "stateId": "6254928",
+        "latitude": 38.87862,
+        "longitude": -77.10096
+    },
+    {
+        "cityId": "4745015",
+        "name": "Augusta County",
+        "stateId": "6254928",
+        "latitude": 38.16452,
+        "longitude": -79.13383
+    },
+    {
+        "cityId": "4745776",
+        "name": "Bath County",
+        "stateId": "6254928",
+        "latitude": 38.05869,
+        "longitude": -79.74109
+    },
+    {
+        "cityId": "4746270",
+        "name": "Bedford County",
+        "stateId": "6254928",
+        "latitude": 37.31494,
+        "longitude": -79.52422
+    },
+    {
+        "cityId": "4746289",
+        "name": "City of Bedford",
+        "stateId": "6254928",
+        "latitude": 37.33431,
+        "longitude": -79.52309
+    },
+    {
+        "cityId": "4747931",
+        "name": "Bland County",
+        "stateId": "6254928",
+        "latitude": 37.13397,
+        "longitude": -81.13028
+    },
+    {
+        "cityId": "4748452",
+        "name": "Botetourt County",
+        "stateId": "6254928",
+        "latitude": 37.55712,
+        "longitude": -79.81233
+    },
+    {
+        "cityId": "4749005",
+        "name": "City of Bristol",
+        "stateId": "6254928",
+        "latitude": 36.59649,
+        "longitude": -82.18847
+    },
+    {
+        "cityId": "4749396",
+        "name": "Brunswick County",
+        "stateId": "6254928",
+        "latitude": 36.76478,
+        "longitude": -77.85902
+    },
+    {
+        "cityId": "4749535",
+        "name": "Buchanan County",
+        "stateId": "6254928",
+        "latitude": 37.26663,
+        "longitude": -82.03603
+    },
+    {
+        "cityId": "4749657",
+        "name": "Buckingham County",
+        "stateId": "6254928",
+        "latitude": 37.57224,
+        "longitude": -78.52871
+    },
+    {
+        "cityId": "4749725",
+        "name": "City of Buena Vista",
+        "stateId": "6254928",
+        "latitude": 37.7343,
+        "longitude": -79.35392
+    },
+    {
+        "cityId": "4750738",
+        "name": "Campbell County",
+        "stateId": "6254928",
+        "latitude": 37.20564,
+        "longitude": -79.09635
+    },
+    {
+        "cityId": "4751013",
+        "name": "Caroline County",
+        "stateId": "6254928",
+        "latitude": 38.02682,
+        "longitude": -77.34696
+    },
+    {
+        "cityId": "4751058",
+        "name": "Carroll County",
+        "stateId": "6254928",
+        "latitude": 36.73154,
+        "longitude": -80.7339
+    },
+    {
+        "cityId": "4752002",
+        "name": "Charles City County",
+        "stateId": "6254928",
+        "latitude": 37.35435,
+        "longitude": -77.05913
+    },
+    {
+        "cityId": "4752025",
+        "name": "Charlotte County",
+        "stateId": "6254928",
+        "latitude": 37.01161,
+        "longitude": -78.66164
+    },
+    {
+        "cityId": "4752046",
+        "name": "City of Charlottesville",
+        "stateId": "6254928",
+        "latitude": 38.02931,
+        "longitude": -78.47668
+    },
+    {
+        "cityId": "4752215",
+        "name": "City of Chesapeake",
+        "stateId": "6254928",
+        "latitude": 36.68765,
+        "longitude": -76.31216
+    },
+    {
+        "cityId": "4752255",
+        "name": "Chesterfield County",
+        "stateId": "6254928",
+        "latitude": 37.37852,
+        "longitude": -77.58694
+    },
+    {
+        "cityId": "4752978",
+        "name": "Clarke County",
+        "stateId": "6254928",
+        "latitude": 39.11226,
+        "longitude": -77.99673
+    },
+    {
+        "cityId": "4753684",
+        "name": "City of Colonial Heights",
+        "stateId": "6254928",
+        "latitude": 37.24404,
+        "longitude": -77.41026
+    },
+    {
+        "cityId": "4754373",
+        "name": "City of Covington",
+        "stateId": "6254928",
+        "latitude": 37.79346,
+        "longitude": -79.99395
+    },
+    {
+        "cityId": "4754544",
+        "name": "Craig County",
+        "stateId": "6254928",
+        "latitude": 37.48125,
+        "longitude": -80.21234
+    },
+    {
+        "cityId": "4754972",
+        "name": "Culpeper County",
+        "stateId": "6254928",
+        "latitude": 38.48606,
+        "longitude": -77.95589
+    },
+    {
+        "cityId": "4754992",
+        "name": "Cumberland County",
+        "stateId": "6254928",
+        "latitude": 37.5121,
+        "longitude": -78.24496
+    },
+    {
+        "cityId": "4755298",
+        "name": "City of Danville",
+        "stateId": "6254928",
+        "latitude": 36.58597,
+        "longitude": -79.39502
+    },
+    {
+        "cityId": "4755865",
+        "name": "Dickenson County",
+        "stateId": "6254928",
+        "latitude": 37.12574,
+        "longitude": -82.35035
+    },
+    {
+        "cityId": "4755976",
+        "name": "Dinwiddie County",
+        "stateId": "6254928",
+        "latitude": 37.0759,
+        "longitude": -77.63236
+    },
+    {
+        "cityId": "4757688",
+        "name": "City of Emporia",
+        "stateId": "6254928",
+        "latitude": 36.68598,
+        "longitude": -77.54248
+    },
+    {
+        "cityId": "4757844",
+        "name": "Essex County",
+        "stateId": "6254928",
+        "latitude": 37.93906,
+        "longitude": -76.9409
+    },
+    {
+        "cityId": "4758041",
+        "name": "Fairfax County",
+        "stateId": "6254928",
+        "latitude": 38.83469,
+        "longitude": -77.27622
+    },
+    {
+        "cityId": "4758109",
+        "name": "City of Fairfax",
+        "stateId": "6254928",
+        "latitude": 38.84622,
+        "longitude": -77.30637
+    },
+    {
+        "cityId": "4758398",
+        "name": "City of Falls Church",
+        "stateId": "6254928",
+        "latitude": 38.88233,
+        "longitude": -77.17109
+    },
+    {
+        "cityId": "4758541",
+        "name": "Fauquier County",
+        "stateId": "6254928",
+        "latitude": 38.73855,
+        "longitude": -77.80927
+    },
+    {
+        "cityId": "4759449",
+        "name": "Floyd County",
+        "stateId": "6254928",
+        "latitude": 36.93149,
+        "longitude": -80.36255
+    },
+    {
+        "cityId": "4759468",
+        "name": "Fluvanna County",
+        "stateId": "6254928",
+        "latitude": 37.84187,
+        "longitude": -78.27745
+    },
+    {
+        "cityId": "4759996",
+        "name": "Franklin County",
+        "stateId": "6254928",
+        "latitude": 36.99194,
+        "longitude": -79.88104
+    },
+    {
+        "cityId": "4760031",
+        "name": "City of Franklin",
+        "stateId": "6254928",
+        "latitude": 36.67765,
+        "longitude": -76.92246
+    },
+    {
+        "cityId": "4760052",
+        "name": "Frederick County",
+        "stateId": "6254928",
+        "latitude": 39.20456,
+        "longitude": -78.26258
+    },
+    {
+        "cityId": "4760084",
+        "name": "City of Fredericksburg",
+        "stateId": "6254928",
+        "latitude": 38.30318,
+        "longitude": -77.46054
+    },
+    {
+        "cityId": "4760382",
+        "name": "City of Galax",
+        "stateId": "6254928",
+        "latitude": 36.66124,
+        "longitude": -80.92397
+    },
+    {
+        "cityId": "4760832",
+        "name": "Giles County",
+        "stateId": "6254928",
+        "latitude": 37.31403,
+        "longitude": -80.70374
+    },
+    {
+        "cityId": "4761164",
+        "name": "Gloucester County",
+        "stateId": "6254928",
+        "latitude": 37.40121,
+        "longitude": -76.52297
+    },
+    {
+        "cityId": "4761280",
+        "name": "Goochland County",
+        "stateId": "6254928",
+        "latitude": 37.72198,
+        "longitude": -77.91636
+    },
+    {
+        "cityId": "4761913",
+        "name": "Grayson County",
+        "stateId": "6254928",
+        "latitude": 36.65659,
+        "longitude": -81.22505
+    },
+    {
+        "cityId": "4762187",
+        "name": "Greene County",
+        "stateId": "6254928",
+        "latitude": 38.2976,
+        "longitude": -78.46688
+    },
+    {
+        "cityId": "4762246",
+        "name": "Greensville County",
+        "stateId": "6254928",
+        "latitude": 36.67585,
+        "longitude": -77.55958
+    },
+    {
+        "cityId": "4762757",
+        "name": "Halifax County",
+        "stateId": "6254928",
+        "latitude": 36.76695,
+        "longitude": -78.93662
+    },
+    {
+        "cityId": "4762929",
+        "name": "City of Hampton",
+        "stateId": "6254928",
+        "latitude": 37.06265,
+        "longitude": -76.333
+    },
+    {
+        "cityId": "4762988",
+        "name": "Hanover County",
+        "stateId": "6254928",
+        "latitude": 37.76015,
+        "longitude": -77.49087
+    },
+    {
+        "cityId": "4763237",
+        "name": "City of Harrisonburg",
+        "stateId": "6254928",
+        "latitude": 38.44957,
+        "longitude": -78.86892
+    },
+    {
+        "cityId": "4763688",
+        "name": "Henrico County",
+        "stateId": "6254928",
+        "latitude": 37.45771,
+        "longitude": -77.29646
+    },
+    {
+        "cityId": "4763710",
+        "name": "Henry County",
+        "stateId": "6254928",
+        "latitude": 36.6847,
+        "longitude": -79.98152
+    },
+    {
+        "cityId": "4764100",
+        "name": "Highland County",
+        "stateId": "6254928",
+        "latitude": 38.36233,
+        "longitude": -79.56854
+    },
+    {
+        "cityId": "4764849",
+        "name": "City of Hopewell",
+        "stateId": "6254928",
+        "latitude": 37.30432,
+        "longitude": -77.2872
+    },
+    {
+        "cityId": "4766205",
+        "name": "Isle of Wight County",
+        "stateId": "6254928",
+        "latitude": 36.90673,
+        "longitude": -76.70913
+    },
+    {
+        "cityId": "4766447",
+        "name": "James City County",
+        "stateId": "6254928",
+        "latitude": 37.31332,
+        "longitude": -76.77376
+    },
+    {
+        "cityId": "4767772",
+        "name": "King George County",
+        "stateId": "6254928",
+        "latitude": 38.27374,
+        "longitude": -77.15651
+    },
+    {
+        "cityId": "4767790",
+        "name": "King William County",
+        "stateId": "6254928",
+        "latitude": 37.7066,
+        "longitude": -77.08839
+    },
+    {
+        "cityId": "4767793",
+        "name": "King and Queen County",
+        "stateId": "6254928",
+        "latitude": 37.71862,
+        "longitude": -76.89527
+    },
+    {
+        "cityId": "4768515",
+        "name": "Lancaster County",
+        "stateId": "6254928",
+        "latitude": 37.70171,
+        "longitude": -76.42023
+    },
+    {
+        "cityId": "4769028",
+        "name": "Lee County",
+        "stateId": "6254928",
+        "latitude": 36.70545,
+        "longitude": -83.12853
+    },
+    {
+        "cityId": "4769352",
+        "name": "City of Lexington",
+        "stateId": "6254928",
+        "latitude": 37.77309,
+        "longitude": -79.45244
+    },
+    {
+        "cityId": "4770746",
+        "name": "Loudoun County",
+        "stateId": "6254928",
+        "latitude": 39.09068,
+        "longitude": -77.63572
+    },
+    {
+        "cityId": "4770767",
+        "name": "Louisa County",
+        "stateId": "6254928",
+        "latitude": 37.97821,
+        "longitude": -77.96298
+    },
+    {
+        "cityId": "4771000",
+        "name": "Lunenburg County",
+        "stateId": "6254928",
+        "latitude": 36.94621,
+        "longitude": -78.24057
+    },
+    {
+        "cityId": "4771099",
+        "name": "City of Lynchburg",
+        "stateId": "6254928",
+        "latitude": 37.41375,
+        "longitude": -79.14225
+    },
+    {
+        "cityId": "4771240",
+        "name": "Madison County",
+        "stateId": "6254928",
+        "latitude": 38.41369,
+        "longitude": -78.27924
+    },
+    {
+        "cityId": "4771421",
+        "name": "City of Manassas Park",
+        "stateId": "6254928",
+        "latitude": 38.784,
+        "longitude": -77.46971
+    },
+    {
+        "cityId": "4771426",
+        "name": "City of Manassas",
+        "stateId": "6254928",
+        "latitude": 38.75095,
+        "longitude": -77.47527
+    },
+    {
+        "cityId": "4771819",
+        "name": "City of Martinsville",
+        "stateId": "6254928",
+        "latitude": 36.69153,
+        "longitude": -79.87254
+    },
+    {
+        "cityId": "4771977",
+        "name": "Mathews County",
+        "stateId": "6254928",
+        "latitude": 37.41731,
+        "longitude": -76.27129
+    },
+    {
+        "cityId": "4772586",
+        "name": "Mecklenburg County",
+        "stateId": "6254928",
+        "latitude": 36.68036,
+        "longitude": -78.36273
+    },
+    {
+        "cityId": "4772915",
+        "name": "Middlesex County",
+        "stateId": "6254928",
+        "latitude": 37.59737,
+        "longitude": -76.57814
+    },
+    {
+        "cityId": "4773711",
+        "name": "Montgomery County",
+        "stateId": "6254928",
+        "latitude": 37.17404,
+        "longitude": -80.387
+    },
+    {
+        "cityId": "4775610",
+        "name": "Nelson County",
+        "stateId": "6254928",
+        "latitude": 37.78741,
+        "longitude": -78.88676
+    },
+    {
+        "cityId": "4775834",
+        "name": "New Kent County",
+        "stateId": "6254928",
+        "latitude": 37.50514,
+        "longitude": -76.99713
+    },
+    {
+        "cityId": "4776037",
+        "name": "City of Newport News",
+        "stateId": "6254928",
+        "latitude": 37.06265,
+        "longitude": -76.50801
+    },
+    {
+        "cityId": "4776242",
+        "name": "City of Norfolk",
+        "stateId": "6254928",
+        "latitude": 36.89126,
+        "longitude": -76.26188
+    },
+    {
+        "cityId": "4776500",
+        "name": "Northampton County",
+        "stateId": "6254928",
+        "latitude": 37.30078,
+        "longitude": -75.92854
+    },
+    {
+        "cityId": "4776564",
+        "name": "Northumberland County",
+        "stateId": "6254928",
+        "latitude": 37.88244,
+        "longitude": -76.47171
+    },
+    {
+        "cityId": "4776591",
+        "name": "City of Norton",
+        "stateId": "6254928",
+        "latitude": 36.93343,
+        "longitude": -82.62905
+    },
+    {
+        "cityId": "4776629",
+        "name": "Nottoway County",
+        "stateId": "6254928",
+        "latitude": 37.14306,
+        "longitude": -78.05126
+    },
+    {
+        "cityId": "4777457",
+        "name": "Orange County",
+        "stateId": "6254928",
+        "latitude": 38.24624,
+        "longitude": -78.01349
+    },
+    {
+        "cityId": "4777756",
+        "name": "Page County",
+        "stateId": "6254928",
+        "latitude": 38.61998,
+        "longitude": -78.48413
+    },
+    {
+        "cityId": "4778096",
+        "name": "Patrick County",
+        "stateId": "6254928",
+        "latitude": 36.67833,
+        "longitude": -80.28435
+    },
+    {
+        "cityId": "4778642",
+        "name": "City of Petersburg",
+        "stateId": "6254928",
+        "latitude": 37.22793,
+        "longitude": -77.40193
+    },
+    {
+        "cityId": "4779336",
+        "name": "Pittsylvania County",
+        "stateId": "6254928",
+        "latitude": 36.82133,
+        "longitude": -79.39711
+    },
+    {
+        "cityId": "4779934",
+        "name": "City of Poquoson",
+        "stateId": "6254928",
+        "latitude": 37.12237,
+        "longitude": -76.34578
+    },
+    {
+        "cityId": "4780019",
+        "name": "City of Portsmouth",
+        "stateId": "6254928",
+        "latitude": 36.83649,
+        "longitude": -76.30795
+    },
+    {
+        "cityId": "4780225",
+        "name": "Powhatan County",
+        "stateId": "6254928",
+        "latitude": 37.5502,
+        "longitude": -77.91519
+    },
+    {
+        "cityId": "4780362",
+        "name": "Prince Edward County",
+        "stateId": "6254928",
+        "latitude": 37.2243,
+        "longitude": -78.44108
+    },
+    {
+        "cityId": "4780374",
+        "name": "Prince George County",
+        "stateId": "6254928",
+        "latitude": 37.18653,
+        "longitude": -77.22413
+    },
+    {
+        "cityId": "4780384",
+        "name": "Prince William County",
+        "stateId": "6254928",
+        "latitude": 38.70167,
+        "longitude": -77.47766
+    },
+    {
+        "cityId": "4780581",
+        "name": "Pulaski County",
+        "stateId": "6254928",
+        "latitude": 37.06361,
+        "longitude": -80.71434
+    },
+    {
+        "cityId": "4780851",
+        "name": "City of Radford",
+        "stateId": "6254928",
+        "latitude": 37.13179,
+        "longitude": -80.57645
+    },
+    {
+        "cityId": "4781039",
+        "name": "Rappahannock County",
+        "stateId": "6254928",
+        "latitude": 38.68471,
+        "longitude": -78.15925
+    },
+    {
+        "cityId": "4781725",
+        "name": "Richmond County",
+        "stateId": "6254928",
+        "latitude": 37.93705,
+        "longitude": -76.72968
+    },
+    {
+        "cityId": "4781756",
+        "name": "City of Richmond",
+        "stateId": "6254928",
+        "latitude": 37.55376,
+        "longitude": -77.46026
+    },
+    {
+        "cityId": "4782181",
+        "name": "Roanoke County",
+        "stateId": "6254928",
+        "latitude": 37.20907,
+        "longitude": -80.05085
+    },
+    {
+        "cityId": "4782241",
+        "name": "City of Roanoke",
+        "stateId": "6254928",
+        "latitude": 37.27097,
+        "longitude": -79.94143
+    },
+    {
+        "cityId": "4782531",
+        "name": "Rockbridge County",
+        "stateId": "6254928",
+        "latitude": 37.81461,
+        "longitude": -79.44758
+    },
+    {
+        "cityId": "4782579",
+        "name": "Rockingham County",
+        "stateId": "6254928",
+        "latitude": 38.51213,
+        "longitude": -78.87576
+    },
+    {
+        "cityId": "4783267",
+        "name": "Russell County",
+        "stateId": "6254928",
+        "latitude": 36.93376,
+        "longitude": -82.09564
+    },
+    {
+        "cityId": "4784205",
+        "name": "City of Salem",
+        "stateId": "6254928",
+        "latitude": 37.29347,
+        "longitude": -80.05476
+    },
+    {
+        "cityId": "4784660",
+        "name": "Scott County",
+        "stateId": "6254928",
+        "latitude": 36.71422,
+        "longitude": -82.60298
+    },
+    {
+        "cityId": "4785252",
+        "name": "Shenandoah County",
+        "stateId": "6254928",
+        "latitude": 38.85839,
+        "longitude": -78.5706
+    },
+    {
+        "cityId": "4786352",
+        "name": "Smyth County",
+        "stateId": "6254928",
+        "latitude": 36.84388,
+        "longitude": -81.53702
+    },
+    {
+        "cityId": "4786735",
+        "name": "Southampton County",
+        "stateId": "6254928",
+        "latitude": 36.7204,
+        "longitude": -77.10609
+    },
+    {
+        "cityId": "4786949",
+        "name": "Spotsylvania County",
+        "stateId": "6254928",
+        "latitude": 38.18502,
+        "longitude": -77.65597
+    },
+    {
+        "cityId": "4787248",
+        "name": "Stafford County",
+        "stateId": "6254928",
+        "latitude": 38.4207,
+        "longitude": -77.45743
+    },
+    {
+        "cityId": "4787467",
+        "name": "City of Staunton",
+        "stateId": "6254928",
+        "latitude": 38.14931,
+        "longitude": -79.05963
+    },
+    {
+        "cityId": "4788160",
+        "name": "City of Suffolk",
+        "stateId": "6254928",
+        "latitude": 36.70848,
+        "longitude": -76.60801
+    },
+    {
+        "cityId": "4788433",
+        "name": "Surry County",
+        "stateId": "6254928",
+        "latitude": 37.11691,
+        "longitude": -76.88831
+    },
+    {
+        "cityId": "4788448",
+        "name": "Sussex County",
+        "stateId": "6254928",
+        "latitude": 36.92175,
+        "longitude": -77.26179
+    },
+    {
+        "cityId": "4788970",
+        "name": "Tazewell County",
+        "stateId": "6254928",
+        "latitude": 37.12497,
+        "longitude": -81.56066
+    },
+    {
+        "cityId": "4791271",
+        "name": "City of Virginia Beach",
+        "stateId": "6254928",
+        "latitude": 36.73765,
+        "longitude": -76.00521
+    },
+    {
+        "cityId": "4792238",
+        "name": "Warren County",
+        "stateId": "6254928",
+        "latitude": 38.90878,
+        "longitude": -78.20746
+    },
+    {
+        "cityId": "4792315",
+        "name": "Washington County",
+        "stateId": "6254928",
+        "latitude": 36.72448,
+        "longitude": -81.95966
+    },
+    {
+        "cityId": "4792534",
+        "name": "City of Waynesboro",
+        "stateId": "6254928",
+        "latitude": 38.06847,
+        "longitude": -78.88947
+    },
+    {
+        "cityId": "4793032",
+        "name": "Westmoreland County",
+        "stateId": "6254928",
+        "latitude": 38.11282,
+        "longitude": -76.79991
+    },
+    {
+        "cityId": "4793872",
+        "name": "City of Williamsburg",
+        "stateId": "6254928",
+        "latitude": 37.2707,
+        "longitude": -76.70746
+    },
+    {
+        "cityId": "4794134",
+        "name": "City of Winchester",
+        "stateId": "6254928",
+        "latitude": 39.18566,
+        "longitude": -78.16333
+    },
+    {
+        "cityId": "4794277",
+        "name": "Wise County",
+        "stateId": "6254928",
+        "latitude": 36.97522,
+        "longitude": -82.62124
+    },
+    {
+        "cityId": "4794827",
+        "name": "Wythe County",
+        "stateId": "6254928",
+        "latitude": 36.91713,
+        "longitude": -81.07859
+    },
+    {
+        "cityId": "4794943",
+        "name": "York County",
+        "stateId": "6254928",
+        "latitude": 37.22541,
+        "longitude": -76.52046
+    }
+]

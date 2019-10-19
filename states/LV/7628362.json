@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "11352872",
+        "name": "Sigulda",
+        "stateId": "7628362",
+        "latitude": 57.16026,
+        "longitude": 24.84469
+    },
+    {
+        "cityId": "11352894",
+        "name": "Mores pagasts",
+        "stateId": "7628362",
+        "latitude": 57.07517,
+        "longitude": 25.06196
+    },
+    {
+        "cityId": "11352911",
+        "name": "Alla\u017eu pagasts",
+        "stateId": "7628362",
+        "latitude": 57.04853,
+        "longitude": 24.78748
+    },
+    {
+        "cityId": "11352912",
+        "name": "Siguldas pagasts",
+        "stateId": "7628362",
+        "latitude": 57.14329,
+        "longitude": 24.91975
+    }
+]

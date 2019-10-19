@@ -1,0 +1,233 @@
+[
+    {
+        "stateId": "3689982",
+        "name": "Amazonas",
+        "countryId": "3686110",
+        "latitude": -1.16667,
+        "longitude": -71.5
+    },
+    {
+        "stateId": "3689815",
+        "name": "Departamento de Antioquia",
+        "countryId": "3686110",
+        "latitude": 7,
+        "longitude": -75.5
+    },
+    {
+        "stateId": "3689717",
+        "name": "Departamento de Arauca",
+        "countryId": "3686110",
+        "latitude": 6.66667,
+        "longitude": -71
+    },
+    {
+        "stateId": "3688650",
+        "name": "Departamento de Bol\u00edvar",
+        "countryId": "3686110",
+        "latitude": 9,
+        "longitude": -74.33333
+    },
+    {
+        "stateId": "3688536",
+        "name": "Departamento de Boyac\u00e1",
+        "countryId": "3686110",
+        "latitude": 5.66667,
+        "longitude": -73
+    },
+    {
+        "stateId": "3687951",
+        "name": "Departamento de Caldas",
+        "countryId": "3686110",
+        "latitude": 5.26667,
+        "longitude": -75.33333
+    },
+    {
+        "stateId": "3687173",
+        "name": "Departamento de Casanare",
+        "countryId": "3686110",
+        "latitude": 5.5,
+        "longitude": -71.5
+    },
+    {
+        "stateId": "3685413",
+        "name": "Departamento de Cundinamarca",
+        "countryId": "3686110",
+        "latitude": 5,
+        "longitude": -74.16667
+    },
+    {
+        "stateId": "3685889",
+        "name": "Departamento de C\u00f3rdoba",
+        "countryId": "3686110",
+        "latitude": 8.33333,
+        "longitude": -75.66667
+    },
+    {
+        "stateId": "3678847",
+        "name": "Departamento de La Guajira",
+        "countryId": "3686110",
+        "latitude": 11.5,
+        "longitude": -72.5
+    },
+    {
+        "stateId": "3674021",
+        "name": "Departamento de Nari\u00f1o",
+        "countryId": "3686110",
+        "latitude": 1.5,
+        "longitude": -78
+    },
+    {
+        "stateId": "3673798",
+        "name": "Departamento de Norte de Santander",
+        "countryId": "3686110",
+        "latitude": 8,
+        "longitude": -73
+    },
+    {
+        "stateId": "3670698",
+        "name": "Departamento de Risaralda",
+        "countryId": "3686110",
+        "latitude": 5,
+        "longitude": -76
+    },
+    {
+        "stateId": "3668578",
+        "name": "Departamento de Santander",
+        "countryId": "3686110",
+        "latitude": 6.83333,
+        "longitude": -73.41667
+    },
+    {
+        "stateId": "3667725",
+        "name": "Departamento de Sucre",
+        "countryId": "3686110",
+        "latitude": 9,
+        "longitude": -75
+    },
+    {
+        "stateId": "3666951",
+        "name": "Departamento de Tolima",
+        "countryId": "3686110",
+        "latitude": 4,
+        "longitude": -75.25
+    },
+    {
+        "stateId": "3689436",
+        "name": "Departamento del Atl\u00e1ntico",
+        "countryId": "3686110",
+        "latitude": 10.75,
+        "longitude": -75
+    },
+    {
+        "stateId": "3687479",
+        "name": "Departamento del Caquet\u00e1",
+        "countryId": "3686110",
+        "latitude": 0.75,
+        "longitude": -74
+    },
+    {
+        "stateId": "3687029",
+        "name": "Departamento del Cauca",
+        "countryId": "3686110",
+        "latitude": 2.5,
+        "longitude": -76.83333
+    },
+    {
+        "stateId": "3686880",
+        "name": "Departamento del Cesar",
+        "countryId": "3686110",
+        "latitude": 9.33333,
+        "longitude": -73.5
+    },
+    {
+        "stateId": "3686431",
+        "name": "Departamento del Choc\u00f3",
+        "countryId": "3686110",
+        "latitude": 6,
+        "longitude": -77
+    },
+    {
+        "stateId": "3681652",
+        "name": "Departamento del Guain\u00eda",
+        "countryId": "3686110",
+        "latitude": 2.5,
+        "longitude": -69
+    },
+    {
+        "stateId": "3681344",
+        "name": "Departamento del Guaviare",
+        "countryId": "3686110",
+        "latitude": 1.91667,
+        "longitude": -72
+    },
+    {
+        "stateId": "3680692",
+        "name": "Departamento del Huila",
+        "countryId": "3686110",
+        "latitude": 2.5,
+        "longitude": -75.58333
+    },
+    {
+        "stateId": "3675686",
+        "name": "Departamento del Magdalena",
+        "countryId": "3686110",
+        "latitude": 10,
+        "longitude": -74.5
+    },
+    {
+        "stateId": "3674810",
+        "name": "Departamento del Meta",
+        "countryId": "3686110",
+        "latitude": 3.5,
+        "longitude": -73
+    },
+    {
+        "stateId": "3671178",
+        "name": "Departamento del Putumayo",
+        "countryId": "3686110",
+        "latitude": 0.5,
+        "longitude": -76
+    },
+    {
+        "stateId": "3666313",
+        "name": "Departamento del Valle del Cauca",
+        "countryId": "3686110",
+        "latitude": 3.75,
+        "longitude": -76.5
+    },
+    {
+        "stateId": "3666254",
+        "name": "Departamento del Vaup\u00e9s",
+        "countryId": "3686110",
+        "latitude": 0.75,
+        "longitude": -70.75
+    },
+    {
+        "stateId": "3666082",
+        "name": "Departamento del Vichada",
+        "countryId": "3686110",
+        "latitude": 5,
+        "longitude": -69.5
+    },
+    {
+        "stateId": "3688685",
+        "name": "Distrito Capital de Bogot\u00e1",
+        "countryId": "3686110",
+        "latitude": 4.25,
+        "longitude": -74.18333
+    },
+    {
+        "stateId": "3670205",
+        "name": "Providencia y Santa Catalina, Departamento de Archipi\u00e9lago de San Andr\u00e9s",
+        "countryId": "3686110",
+        "latitude": 12.52449,
+        "longitude": -81.71983
+    },
+    {
+        "stateId": "3671087",
+        "name": "Quind\u00edo Department",
+        "countryId": "3686110",
+        "latitude": 4.5,
+        "longitude": -75.66667
+    }
+]

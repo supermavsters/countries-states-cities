@@ -1,0 +1,205 @@
+[
+    {
+        "cityId": "3625648",
+        "name": "Municipio Uribante",
+        "stateId": "3626553",
+        "latitude": 7.66667,
+        "longitude": -71.91667
+    },
+    {
+        "cityId": "3626663",
+        "name": "Municipio Sucre",
+        "stateId": "3626553",
+        "latitude": 7.85,
+        "longitude": -72
+    },
+    {
+        "cityId": "3628468",
+        "name": "Municipio San Crist\u00f3bal",
+        "stateId": "3626553",
+        "latitude": 7.71667,
+        "longitude": -72.16667
+    },
+    {
+        "cityId": "3630452",
+        "name": "Municipio Pedro Mar\u00eda Ure\u00f1a",
+        "stateId": "3626553",
+        "latitude": 7.93333,
+        "longitude": -72.4
+    },
+    {
+        "cityId": "3630887",
+        "name": "Municipio Panamericano",
+        "stateId": "3626553",
+        "latitude": 8.41667,
+        "longitude": -72
+    },
+    {
+        "cityId": "3632259",
+        "name": "Municipio Michelena",
+        "stateId": "3626553",
+        "latitude": 7.98333,
+        "longitude": -72.18333
+    },
+    {
+        "cityId": "3634695",
+        "name": "Municipio Lobatera",
+        "stateId": "3626553",
+        "latitude": 7.91667,
+        "longitude": -72.26667
+    },
+    {
+        "cityId": "3634756",
+        "name": "Municipio Libertador",
+        "stateId": "3626553",
+        "latitude": 7.58333,
+        "longitude": -71.85
+    },
+    {
+        "cityId": "3639063",
+        "name": "Municipio Jun\u00edn",
+        "stateId": "3626553",
+        "latitude": 7.58333,
+        "longitude": -72.41667
+    },
+    {
+        "cityId": "3639226",
+        "name": "Municipio J\u00e1uregui",
+        "stateId": "3626553",
+        "latitude": 8.1,
+        "longitude": -72
+    },
+    {
+        "cityId": "3640668",
+        "name": "Municipio Garc\u00eda de Hevia",
+        "stateId": "3626553",
+        "latitude": 8.33333,
+        "longitude": -72.25
+    },
+    {
+        "cityId": "3645220",
+        "name": "Municipio C\u00f3rdoba",
+        "stateId": "3626553",
+        "latitude": 7.56667,
+        "longitude": -72.2
+    },
+    {
+        "cityId": "3646610",
+        "name": "Municipio C\u00e1rdenas",
+        "stateId": "3626553",
+        "latitude": 7.83333,
+        "longitude": -72.11667
+    },
+    {
+        "cityId": "3648113",
+        "name": "Municipio Bol\u00edvar",
+        "stateId": "3626553",
+        "latitude": 7.83333,
+        "longitude": -72.41667
+    },
+    {
+        "cityId": "3648740",
+        "name": "Municipio Ayacucho",
+        "stateId": "3626553",
+        "latitude": 8.08333,
+        "longitude": -72.25
+    },
+    {
+        "cityId": "8129162",
+        "name": "Municipio Sim\u00f3n Rodr\u00edguez",
+        "stateId": "3626553",
+        "latitude": 8.35078,
+        "longitude": -71.85028
+    },
+    {
+        "cityId": "8129174",
+        "name": "Municipio Francisco de Miranda",
+        "stateId": "3626553",
+        "latitude": 7.91139,
+        "longitude": -71.97194
+    },
+    {
+        "cityId": "8129223",
+        "name": "Municipio Seboruco",
+        "stateId": "3626553",
+        "latitude": 8.14712,
+        "longitude": -72.06385
+    },
+    {
+        "cityId": "8129233",
+        "name": "Municipio Gu\u00e1simos",
+        "stateId": "3626553",
+        "latitude": 7.83607,
+        "longitude": -72.22758
+    },
+    {
+        "cityId": "8129257",
+        "name": "Municipio Rafael Urdaneta",
+        "stateId": "3626553",
+        "latitude": 7.56505,
+        "longitude": -72.44754
+    },
+    {
+        "cityId": "8129258",
+        "name": "Municipio Samuel Dar\u00edo Maldonado",
+        "stateId": "3626553",
+        "latitude": 8.50757,
+        "longitude": -71.83166
+    },
+    {
+        "cityId": "8129263",
+        "name": "Municipio San Judas Tadeo",
+        "stateId": "3626553",
+        "latitude": 8.26588,
+        "longitude": -72.06371
+    },
+    {
+        "cityId": "8131485",
+        "name": "Municipio Andr\u00e9s Bello",
+        "stateId": "3626553",
+        "latitude": 7.85628,
+        "longitude": -72.18249
+    },
+    {
+        "cityId": "8131486",
+        "name": "Municipio Antonio R\u00f3mulo Costa",
+        "stateId": "3626553",
+        "latitude": 8.17003,
+        "longitude": -72.16541
+    },
+    {
+        "cityId": "8131487",
+        "name": "Municipio Fern\u00e1ndez Feo",
+        "stateId": "3626553",
+        "latitude": 7.52877,
+        "longitude": -71.96011
+    },
+    {
+        "cityId": "8131488",
+        "name": "Municipio Independencia",
+        "stateId": "3626553",
+        "latitude": 7.82665,
+        "longitude": -72.30618
+    },
+    {
+        "cityId": "8131489",
+        "name": "Municipio Libertad",
+        "stateId": "3626553",
+        "latitude": 7.82716,
+        "longitude": -72.32197
+    },
+    {
+        "cityId": "8131490",
+        "name": "Municipio Jos\u00e9 Mar\u00eda Vargas",
+        "stateId": "3626553",
+        "latitude": 8.03514,
+        "longitude": -72.05675
+    },
+    {
+        "cityId": "8131491",
+        "name": "Municipio Torbes",
+        "stateId": "3626553",
+        "latitude": 7.66149,
+        "longitude": -72.21039
+    }
+]

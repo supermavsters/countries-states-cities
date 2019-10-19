@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9252024",
+        "name": "Central",
+        "stateId": "7267903",
+        "latitude": 18.3415,
+        "longitude": -64.7389
+    },
+    {
+        "cityId": "9252025",
+        "name": "Coral Bay",
+        "stateId": "7267903",
+        "latitude": 18.33694,
+        "longitude": -64.71267
+    },
+    {
+        "cityId": "9252026",
+        "name": "Cruz Bay",
+        "stateId": "7267903",
+        "latitude": 18.32647,
+        "longitude": -64.77867
+    },
+    {
+        "cityId": "9252027",
+        "name": "East End",
+        "stateId": "7267903",
+        "latitude": 18.33993,
+        "longitude": -64.6698
+    }
+]

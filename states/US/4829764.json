@@ -1,0 +1,471 @@
+[
+    {
+        "cityId": "4047434",
+        "name": "Russell County",
+        "stateId": "4829764",
+        "latitude": 32.28838,
+        "longitude": -85.18496
+    },
+    {
+        "cityId": "4049189",
+        "name": "Bibb County",
+        "stateId": "4829764",
+        "latitude": 32.99864,
+        "longitude": -87.12644
+    },
+    {
+        "cityId": "4050633",
+        "name": "Blount County",
+        "stateId": "4829764",
+        "latitude": 33.98087,
+        "longitude": -86.56737
+    },
+    {
+        "cityId": "4052497",
+        "name": "Bullock County",
+        "stateId": "4829764",
+        "latitude": 32.10055,
+        "longitude": -85.7157
+    },
+    {
+        "cityId": "4052744",
+        "name": "Butler County",
+        "stateId": "4829764",
+        "latitude": 31.75243,
+        "longitude": -86.68029
+    },
+    {
+        "cityId": "4053062",
+        "name": "Calhoun County",
+        "stateId": "4829764",
+        "latitude": 33.77143,
+        "longitude": -85.82603
+    },
+    {
+        "cityId": "4054621",
+        "name": "Chambers County",
+        "stateId": "4829764",
+        "latitude": 32.91437,
+        "longitude": -85.39204
+    },
+    {
+        "cityId": "4054880",
+        "name": "Cherokee County",
+        "stateId": "4829764",
+        "latitude": 34.17596,
+        "longitude": -85.60379
+    },
+    {
+        "cityId": "4055067",
+        "name": "Chilton County",
+        "stateId": "4829764",
+        "latitude": 32.84785,
+        "longitude": -86.71881
+    },
+    {
+        "cityId": "4055170",
+        "name": "Choctaw County",
+        "stateId": "4829764",
+        "latitude": 32.01961,
+        "longitude": -88.2632
+    },
+    {
+        "cityId": "4055624",
+        "name": "Clarke County",
+        "stateId": "4829764",
+        "latitude": 31.67666,
+        "longitude": -87.83081
+    },
+    {
+        "cityId": "4055660",
+        "name": "Clay County",
+        "stateId": "4829764",
+        "latitude": 33.26909,
+        "longitude": -85.86055
+    },
+    {
+        "cityId": "4055785",
+        "name": "Cleburne County",
+        "stateId": "4829764",
+        "latitude": 33.67456,
+        "longitude": -85.51877
+    },
+    {
+        "cityId": "4056099",
+        "name": "Coffee County",
+        "stateId": "4829764",
+        "latitude": 31.40263,
+        "longitude": -85.98821
+    },
+    {
+        "cityId": "4056165",
+        "name": "Colbert County",
+        "stateId": "4829764",
+        "latitude": 34.70043,
+        "longitude": -87.80498
+    },
+    {
+        "cityId": "4056592",
+        "name": "Conecuh County",
+        "stateId": "4829764",
+        "latitude": 31.42927,
+        "longitude": -86.99368
+    },
+    {
+        "cityId": "4056809",
+        "name": "Coosa County",
+        "stateId": "4829764",
+        "latitude": 32.93623,
+        "longitude": -86.24766
+    },
+    {
+        "cityId": "4057296",
+        "name": "Covington County",
+        "stateId": "4829764",
+        "latitude": 31.24849,
+        "longitude": -86.45125
+    },
+    {
+        "cityId": "4057517",
+        "name": "Crenshaw County",
+        "stateId": "4829764",
+        "latitude": 31.73149,
+        "longitude": -86.31355
+    },
+    {
+        "cityId": "4057837",
+        "name": "Cullman County",
+        "stateId": "4829764",
+        "latitude": 34.13194,
+        "longitude": -86.86762
+    },
+    {
+        "cityId": "4058052",
+        "name": "Dale County",
+        "stateId": "4829764",
+        "latitude": 31.43182,
+        "longitude": -85.61103
+    },
+    {
+        "cityId": "4058076",
+        "name": "Dallas County",
+        "stateId": "4829764",
+        "latitude": 32.32597,
+        "longitude": -87.10648
+    },
+    {
+        "cityId": "4058479",
+        "name": "DeKalb County",
+        "stateId": "4829764",
+        "latitude": 34.45977,
+        "longitude": -85.80414
+    },
+    {
+        "cityId": "4060563",
+        "name": "Elmore County",
+        "stateId": "4829764",
+        "latitude": 32.59665,
+        "longitude": -86.14915
+    },
+    {
+        "cityId": "4060870",
+        "name": "Escambia County",
+        "stateId": "4829764",
+        "latitude": 31.12612,
+        "longitude": -87.16162
+    },
+    {
+        "cityId": "4060938",
+        "name": "Etowah County",
+        "stateId": "4829764",
+        "latitude": 34.04525,
+        "longitude": -86.03476
+    },
+    {
+        "cityId": "4061590",
+        "name": "Fayette County",
+        "stateId": "4829764",
+        "latitude": 33.72121,
+        "longitude": -87.73886
+    },
+    {
+        "cityId": "4063130",
+        "name": "Franklin County",
+        "stateId": "4829764",
+        "latitude": 34.44167,
+        "longitude": -87.84381
+    },
+    {
+        "cityId": "4063931",
+        "name": "Geneva County",
+        "stateId": "4829764",
+        "latitude": 31.09502,
+        "longitude": -85.83898
+    },
+    {
+        "cityId": "4065243",
+        "name": "Greene County",
+        "stateId": "4829764",
+        "latitude": 32.85314,
+        "longitude": -87.95223
+    },
+    {
+        "cityId": "4065796",
+        "name": "Hale County",
+        "stateId": "4829764",
+        "latitude": 32.76266,
+        "longitude": -87.62912
+    },
+    {
+        "cityId": "4066911",
+        "name": "Henry County",
+        "stateId": "4829764",
+        "latitude": 31.51469,
+        "longitude": -85.24141
+    },
+    {
+        "cityId": "4068296",
+        "name": "Houston County",
+        "stateId": "4829764",
+        "latitude": 31.15318,
+        "longitude": -85.30252
+    },
+    {
+        "cityId": "4069472",
+        "name": "Jackson County",
+        "stateId": "4829764",
+        "latitude": 34.77941,
+        "longitude": -85.9993
+    },
+    {
+        "cityId": "4069696",
+        "name": "Jefferson County",
+        "stateId": "4829764",
+        "latitude": 33.55431,
+        "longitude": -86.89649
+    },
+    {
+        "cityId": "4071676",
+        "name": "Lamar County",
+        "stateId": "4829764",
+        "latitude": 33.77921,
+        "longitude": -88.0969
+    },
+    {
+        "cityId": "4071898",
+        "name": "Lauderdale County",
+        "stateId": "4829764",
+        "latitude": 34.90137,
+        "longitude": -87.654
+    },
+    {
+        "cityId": "4071959",
+        "name": "Lawrence County",
+        "stateId": "4829764",
+        "latitude": 34.52165,
+        "longitude": -87.31104
+    },
+    {
+        "cityId": "4072098",
+        "name": "Lee County",
+        "stateId": "4829764",
+        "latitude": 32.60114,
+        "longitude": -85.35556
+    },
+    {
+        "cityId": "4072707",
+        "name": "Limestone County",
+        "stateId": "4829764",
+        "latitude": 34.81008,
+        "longitude": -86.98137
+    },
+    {
+        "cityId": "4073885",
+        "name": "Lowndes County",
+        "stateId": "4829764",
+        "latitude": 32.15475,
+        "longitude": -86.65011
+    },
+    {
+        "cityId": "4074246",
+        "name": "Macon County",
+        "stateId": "4829764",
+        "latitude": 32.38597,
+        "longitude": -85.69267
+    },
+    {
+        "cityId": "4074277",
+        "name": "Madison County",
+        "stateId": "4829764",
+        "latitude": 34.76309,
+        "longitude": -86.55021
+    },
+    {
+        "cityId": "4074590",
+        "name": "Marengo County",
+        "stateId": "4829764",
+        "latitude": 32.24761,
+        "longitude": -87.78952
+    },
+    {
+        "cityId": "4074636",
+        "name": "Marion County",
+        "stateId": "4829764",
+        "latitude": 34.13655,
+        "longitude": -87.88714
+    },
+    {
+        "cityId": "4074736",
+        "name": "Marshall County",
+        "stateId": "4829764",
+        "latitude": 34.36696,
+        "longitude": -86.30664
+    },
+    {
+        "cityId": "4076607",
+        "name": "Mobile County",
+        "stateId": "4829764",
+        "latitude": 30.68515,
+        "longitude": -88.19753
+    },
+    {
+        "cityId": "4076706",
+        "name": "Monroe County",
+        "stateId": "4829764",
+        "latitude": 31.57084,
+        "longitude": -87.36543
+    },
+    {
+        "cityId": "4076795",
+        "name": "Montgomery County",
+        "stateId": "4829764",
+        "latitude": 32.22026,
+        "longitude": -86.20761
+    },
+    {
+        "cityId": "4077029",
+        "name": "Morgan County",
+        "stateId": "4829764",
+        "latitude": 34.45347,
+        "longitude": -86.85293
+    },
+    {
+        "cityId": "4082741",
+        "name": "Perry County",
+        "stateId": "4829764",
+        "latitude": 32.63847,
+        "longitude": -87.2944
+    },
+    {
+        "cityId": "4082974",
+        "name": "Pickens County",
+        "stateId": "4829764",
+        "latitude": 33.28088,
+        "longitude": -88.08869
+    },
+    {
+        "cityId": "4083063",
+        "name": "Pike County",
+        "stateId": "4829764",
+        "latitude": 31.80272,
+        "longitude": -85.94092
+    },
+    {
+        "cityId": "4085418",
+        "name": "Randolph County",
+        "stateId": "4829764",
+        "latitude": 33.29379,
+        "longitude": -85.45907
+    },
+    {
+        "cityId": "4087481",
+        "name": "Saint Clair County",
+        "stateId": "4829764",
+        "latitude": 33.7157,
+        "longitude": -86.31469
+    },
+    {
+        "cityId": "4089551",
+        "name": "Shelby County",
+        "stateId": "4829764",
+        "latitude": 33.26428,
+        "longitude": -86.66065
+    },
+    {
+        "cityId": "4092386",
+        "name": "Sumter County",
+        "stateId": "4829764",
+        "latitude": 32.59101,
+        "longitude": -88.19879
+    },
+    {
+        "cityId": "4092795",
+        "name": "Talladega County",
+        "stateId": "4829764",
+        "latitude": 33.38006,
+        "longitude": -86.16591
+    },
+    {
+        "cityId": "4092827",
+        "name": "Tallapoosa County",
+        "stateId": "4829764",
+        "latitude": 32.8624,
+        "longitude": -85.7975
+    },
+    {
+        "cityId": "4094463",
+        "name": "Tuscaloosa County",
+        "stateId": "4829764",
+        "latitude": 33.28955,
+        "longitude": -87.52503
+    },
+    {
+        "cityId": "4096107",
+        "name": "Walker County",
+        "stateId": "4829764",
+        "latitude": 33.80333,
+        "longitude": -87.29736
+    },
+    {
+        "cityId": "4096449",
+        "name": "Washington County",
+        "stateId": "4829764",
+        "latitude": 31.4076,
+        "longitude": -88.20788
+    },
+    {
+        "cityId": "4097694",
+        "name": "Wilcox County",
+        "stateId": "4829764",
+        "latitude": 31.98924,
+        "longitude": -87.3082
+    },
+    {
+        "cityId": "4098200",
+        "name": "Winston County",
+        "stateId": "4829764",
+        "latitude": 34.14923,
+        "longitude": -87.37368
+    },
+    {
+        "cityId": "4830868",
+        "name": "Autauga County",
+        "stateId": "4829764",
+        "latitude": 32.53492,
+        "longitude": -86.64276
+    },
+    {
+        "cityId": "4831207",
+        "name": "Baldwin County",
+        "stateId": "4829764",
+        "latitude": 30.66097,
+        "longitude": -87.74984
+    },
+    {
+        "cityId": "4831351",
+        "name": "Barbour County",
+        "stateId": "4829764",
+        "latitude": 31.8696,
+        "longitude": -85.3932
+    }
+]

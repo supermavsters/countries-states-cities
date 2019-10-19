@@ -1,0 +1,100 @@
+[
+    {
+        "stateId": "3067695",
+        "name": "Hlavn\u00ed m\u011bsto Praha",
+        "countryId": "3077311",
+        "latitude": 50.08333,
+        "longitude": 14.46667
+    },
+    {
+        "stateId": "3339536",
+        "name": "Jihomoravsk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.20122,
+        "longitude": 16.61339
+    },
+    {
+        "stateId": "3339537",
+        "name": "Jiho\u010desk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.08333,
+        "longitude": 14.5
+    },
+    {
+        "stateId": "3339539",
+        "name": "Karlovarsk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 50.16667,
+        "longitude": 12.66667
+    },
+    {
+        "stateId": "3339538",
+        "name": "Kraj Vyso\u010dina",
+        "countryId": "3077311",
+        "latitude": 49.41667,
+        "longitude": 15.5
+    },
+    {
+        "stateId": "3339540",
+        "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 50.41667,
+        "longitude": 15.91667
+    },
+    {
+        "stateId": "3339541",
+        "name": "Libereck\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 50.75,
+        "longitude": 15
+    },
+    {
+        "stateId": "3339573",
+        "name": "Moravskoslezsk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.83333,
+        "longitude": 18
+    },
+    {
+        "stateId": "3339542",
+        "name": "Olomouck\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.75,
+        "longitude": 17.16667
+    },
+    {
+        "stateId": "3339574",
+        "name": "Pardubick\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.83333,
+        "longitude": 16.08333
+    },
+    {
+        "stateId": "3339575",
+        "name": "Plze\u0148sk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.5,
+        "longitude": 13.16667
+    },
+    {
+        "stateId": "3339576",
+        "name": "St\u0159edo\u010desk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 50.12718,
+        "longitude": 14.1964
+    },
+    {
+        "stateId": "3339578",
+        "name": "Zl\u00ednsk\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 49.16667,
+        "longitude": 17.75
+    },
+    {
+        "stateId": "3339577",
+        "name": "\u00dasteck\u00fd kraj",
+        "countryId": "3077311",
+        "latitude": 50.5,
+        "longitude": 13.83333
+    }
+]

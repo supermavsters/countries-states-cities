@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "2472701",
+        "name": "Bizerte Sud",
+        "stateId": "2472699",
+        "latitude": 37.25528,
+        "longitude": 9.67915
+    },
+    {
+        "cityId": "7870601",
+        "name": "Sejnane",
+        "stateId": "2472699",
+        "latitude": 37.13269,
+        "longitude": 9.3041
+    },
+    {
+        "cityId": "7870602",
+        "name": "Joumine",
+        "stateId": "2472699",
+        "latitude": 36.88605,
+        "longitude": 9.42128
+    },
+    {
+        "cityId": "7870603",
+        "name": "Ghazala",
+        "stateId": "2472699",
+        "latitude": 37.07866,
+        "longitude": 9.51048
+    },
+    {
+        "cityId": "11108355",
+        "name": "Tinja",
+        "stateId": "2472699",
+        "latitude": 37.12307,
+        "longitude": 9.7409
+    },
+    {
+        "cityId": "11108356",
+        "name": "Utique",
+        "stateId": "2472699",
+        "latitude": 37.05038,
+        "longitude": 9.97594
+    },
+    {
+        "cityId": "11108357",
+        "name": "Bizerte Nord",
+        "stateId": "2472699",
+        "latitude": 37.30839,
+        "longitude": 9.83243
+    },
+    {
+        "cityId": "11108358",
+        "name": "Zarzouna",
+        "stateId": "2472699",
+        "latitude": 37.2598,
+        "longitude": 9.8863
+    },
+    {
+        "cityId": "11108359",
+        "name": "Menzel Jemil",
+        "stateId": "2472699",
+        "latitude": 37.22552,
+        "longitude": 9.95108
+    },
+    {
+        "cityId": "11108360",
+        "name": "El Alia",
+        "stateId": "2472699",
+        "latitude": 37.15773,
+        "longitude": 9.99553
+    },
+    {
+        "cityId": "11108361",
+        "name": "Ghar El Melh",
+        "stateId": "2472699",
+        "latitude": 37.17091,
+        "longitude": 10.10401
+    }
+]

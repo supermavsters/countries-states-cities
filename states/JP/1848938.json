@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "1848936",
+        "name": "Wakayama Shi",
+        "stateId": "1848938",
+        "latitude": 34.24252,
+        "longitude": 135.19595
+    },
+    {
+        "cityId": "1850706",
+        "name": "Tanabe-shi",
+        "stateId": "1848938",
+        "latitude": 33.82731,
+        "longitude": 135.57786
+    },
+    {
+        "cityId": "1852105",
+        "name": "Shing\u016b-shi",
+        "stateId": "1848938",
+        "latitude": 33.76663,
+        "longitude": 135.85863
+    },
+    {
+        "cityId": "1855225",
+        "name": "Nishimuro-gun",
+        "stateId": "1848938",
+        "latitude": 33.62201,
+        "longitude": 135.51112
+    },
+    {
+        "cityId": "1860774",
+        "name": "Kais\u014d-gun",
+        "stateId": "1848938",
+        "latitude": 34.15679,
+        "longitude": 135.38729
+    },
+    {
+        "cityId": "1860782",
+        "name": "Kainan Shi",
+        "stateId": "1848938",
+        "latitude": 34.14182,
+        "longitude": 135.224
+    },
+    {
+        "cityId": "1861287",
+        "name": "Ito-gun",
+        "stateId": "1848938",
+        "latitude": 34.23163,
+        "longitude": 135.56146
+    },
+    {
+        "cityId": "1862767",
+        "name": "Higashimuro-gun",
+        "stateId": "1848938",
+        "latitude": 33.62473,
+        "longitude": 135.79688
+    },
+    {
+        "cityId": "1862875",
+        "name": "Hidaka-gun",
+        "stateId": "1848938",
+        "latitude": 33.9173,
+        "longitude": 135.31108
+    },
+    {
+        "cityId": "1863079",
+        "name": "Hashimoto Shi",
+        "stateId": "1848938",
+        "latitude": 34.32417,
+        "longitude": 135.61045
+    },
+    {
+        "cityId": "1865121",
+        "name": "Arida Shi",
+        "stateId": "1848938",
+        "latitude": 34.07937,
+        "longitude": 135.1423
+    },
+    {
+        "cityId": "1865123",
+        "name": "Arida-gun",
+        "stateId": "1848938",
+        "latitude": 34.06154,
+        "longitude": 135.33422
+    },
+    {
+        "cityId": "7411112",
+        "name": "Gob\u014d-shi",
+        "stateId": "1848938",
+        "latitude": 33.88043,
+        "longitude": 135.17607
+    },
+    {
+        "cityId": "7411113",
+        "name": "Iwade Shi",
+        "stateId": "1848938",
+        "latitude": 34.28089,
+        "longitude": 135.3056
+    },
+    {
+        "cityId": "7411114",
+        "name": "Kinokawa Shi",
+        "stateId": "1848938",
+        "latitude": 34.254,
+        "longitude": 135.39412
+    }
+]

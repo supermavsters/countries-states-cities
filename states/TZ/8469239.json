@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "159907",
+        "name": "Geita",
+        "stateId": "8469239",
+        "latitude": -2.80952,
+        "longitude": 32.20976
+    },
+    {
+        "cityId": "8299600",
+        "name": "Bukombe District",
+        "stateId": "8469239",
+        "latitude": -3.573,
+        "longitude": 31.686
+    },
+    {
+        "cityId": "9072755",
+        "name": "Chato District",
+        "stateId": "8469239",
+        "latitude": -2.63333,
+        "longitude": 31.76667
+    },
+    {
+        "cityId": "9998062",
+        "name": "Mbogwe",
+        "stateId": "8469239",
+        "latitude": -3.45926,
+        "longitude": 32.22535
+    },
+    {
+        "cityId": "9998063",
+        "name": "Nyang\u2019hwale",
+        "stateId": "8469239",
+        "latitude": -3.13751,
+        "longitude": 32.63251
+    }
+]

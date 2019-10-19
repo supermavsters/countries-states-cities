@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "8260566",
+        "name": "South Kivu",
+        "stateId": "205413",
+        "latitude": -3.22552,
+        "longitude": 28.59604
+    },
+    {
+        "cityId": "9179197",
+        "name": "Bukavu",
+        "stateId": "205413",
+        "latitude": -2.5,
+        "longitude": 28.86667
+    },
+    {
+        "cityId": "9179463",
+        "name": "Kalehe",
+        "stateId": "205413",
+        "latitude": -2.1,
+        "longitude": 28.91667
+    },
+    {
+        "cityId": "9179476",
+        "name": "Mwenga",
+        "stateId": "205413",
+        "latitude": -3.03333,
+        "longitude": 28.43333
+    },
+    {
+        "cityId": "9179483",
+        "name": "Fizi",
+        "stateId": "205413",
+        "latitude": -4.30111,
+        "longitude": 28.94417
+    },
+    {
+        "cityId": "9179531",
+        "name": "Kabare",
+        "stateId": "205413",
+        "latitude": -2.48333,
+        "longitude": 28.8
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "stateId": "7280288",
+        "name": "Fukien",
+        "countryId": "1668284",
+        "latitude": 24.46965,
+        "longitude": 118.38593
+    },
+    {
+        "stateId": "7280289",
+        "name": "Kaohsiung",
+        "countryId": "1668284",
+        "latitude": 22.63429,
+        "longitude": 120.36621
+    },
+    {
+        "stateId": "7280290",
+        "name": "Taipei",
+        "countryId": "1668284",
+        "latitude": 24.98473,
+        "longitude": 121.78432
+    },
+    {
+        "stateId": "7280291",
+        "name": "Taiwan",
+        "countryId": "1668284",
+        "latitude": 24.15114,
+        "longitude": 120.70541
+    }
+]

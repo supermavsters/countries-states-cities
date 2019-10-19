@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "2960935",
+        "name": "Wicklow",
+        "stateId": "7521314",
+        "latitude": 53,
+        "longitude": -6.41667
+    },
+    {
+        "cityId": "2960963",
+        "name": "Loch Garman",
+        "stateId": "7521314",
+        "latitude": 52.5,
+        "longitude": -6.66667
+    },
+    {
+        "cityId": "2960972",
+        "name": "An Iarmh\u00ed",
+        "stateId": "7521314",
+        "latitude": 53.5,
+        "longitude": -7.5
+    },
+    {
+        "cityId": "2962187",
+        "name": "U\u00edbh Fhail\u00ed",
+        "stateId": "7521314",
+        "latitude": 53.25,
+        "longitude": -7.5
+    },
+    {
+        "cityId": "2962661",
+        "name": "An Mh\u00ed",
+        "stateId": "7521314",
+        "latitude": 53.66667,
+        "longitude": -6.66667
+    },
+    {
+        "cityId": "2962793",
+        "name": "L\u00fa",
+        "stateId": "7521314",
+        "latitude": 53.83333,
+        "longitude": -6.5
+    },
+    {
+        "cityId": "2962839",
+        "name": "An Longfort",
+        "stateId": "7521314",
+        "latitude": 53.66667,
+        "longitude": -7.75
+    },
+    {
+        "cityId": "2963031",
+        "name": "Laois",
+        "stateId": "7521314",
+        "latitude": 53,
+        "longitude": -7.4
+    },
+    {
+        "cityId": "2963397",
+        "name": "Kilkenny",
+        "stateId": "7521314",
+        "latitude": 52.58333,
+        "longitude": -7.25
+    },
+    {
+        "cityId": "2963435",
+        "name": "Kildare",
+        "stateId": "7521314",
+        "latitude": 53.16667,
+        "longitude": -6.75
+    },
+    {
+        "cityId": "2965767",
+        "name": "County Carlow",
+        "stateId": "7521314",
+        "latitude": 52.66667,
+        "longitude": -6.83333
+    },
+    {
+        "cityId": "6693220",
+        "name": "Fingal County",
+        "stateId": "7521314",
+        "latitude": 53.45909,
+        "longitude": -6.21942
+    },
+    {
+        "cityId": "6941716",
+        "name": "D\u00fan Laoghaire-Rathdown",
+        "stateId": "7521314",
+        "latitude": 53.29436,
+        "longitude": -6.13489
+    },
+    {
+        "cityId": "7288565",
+        "name": "South Dublin",
+        "stateId": "7521314",
+        "latitude": 53.28595,
+        "longitude": -6.37739
+    },
+    {
+        "cityId": "7778677",
+        "name": "Dublin City",
+        "stateId": "7521314",
+        "latitude": 53.35512,
+        "longitude": -6.24922
+    }
+]

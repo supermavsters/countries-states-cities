@@ -1,0 +1,198 @@
+[
+    {
+        "cityId": "1125426",
+        "name": "Shighnan District",
+        "stateId": "1147745",
+        "latitude": 37.61667,
+        "longitude": 71.45
+    },
+    {
+        "cityId": "7052641",
+        "name": "Arghanj Khw\u0101h",
+        "stateId": "1147745",
+        "latitude": 37.22326,
+        "longitude": 70.83299
+    },
+    {
+        "cityId": "7052663",
+        "name": "Arg\u014d",
+        "stateId": "1147745",
+        "latitude": 37.06347,
+        "longitude": 70.42529
+    },
+    {
+        "cityId": "7052664",
+        "name": "Bah\u0101rak",
+        "stateId": "1147745",
+        "latitude": 37.02902,
+        "longitude": 70.9012
+    },
+    {
+        "cityId": "7052665",
+        "name": "Dar\u0101yim",
+        "stateId": "1147745",
+        "latitude": 36.87213,
+        "longitude": 70.46645
+    },
+    {
+        "cityId": "7052666",
+        "name": "Darw\u0101z-e B\u0101l\u0101",
+        "stateId": "1147745",
+        "latitude": 38.12823,
+        "longitude": 71.22495
+    },
+    {
+        "cityId": "7052667",
+        "name": "Darw\u0101z-e P\u0101\u2019\u012bn",
+        "stateId": "1147745",
+        "latitude": 38.22783,
+        "longitude": 70.91141
+    },
+    {
+        "cityId": "7052668",
+        "name": "Fa\u012b\u1e95\u0101b\u0101d",
+        "stateId": "1147745",
+        "latitude": 37.21634,
+        "longitude": 70.61348
+    },
+    {
+        "cityId": "7052669",
+        "name": "Ishk\u0101shim",
+        "stateId": "1147745",
+        "latitude": 36.85389,
+        "longitude": 71.46321
+    },
+    {
+        "cityId": "7052670",
+        "name": "Jurm",
+        "stateId": "1147745",
+        "latitude": 36.8464,
+        "longitude": 70.86012
+    },
+    {
+        "cityId": "7052672",
+        "name": "Kh\u0101sh",
+        "stateId": "1147745",
+        "latitude": 36.94031,
+        "longitude": 70.72566
+    },
+    {
+        "cityId": "7052674",
+        "name": "Khw\u0101h\u0101n",
+        "stateId": "1147745",
+        "latitude": 37.8372,
+        "longitude": 70.39404
+    },
+    {
+        "cityId": "7052679",
+        "name": "Kishim",
+        "stateId": "1147745",
+        "latitude": 36.77221,
+        "longitude": 70.13255
+    },
+    {
+        "cityId": "7052680",
+        "name": "K\u014dhist\u0101n",
+        "stateId": "1147745",
+        "latitude": 37.42117,
+        "longitude": 70.65627
+    },
+    {
+        "cityId": "7052682",
+        "name": "K\u016bf \u0100b",
+        "stateId": "1147745",
+        "latitude": 37.94312,
+        "longitude": 70.69141
+    },
+    {
+        "cityId": "7052684",
+        "name": "R\u0101ghist\u0101n",
+        "stateId": "1147745",
+        "latitude": 37.66079,
+        "longitude": 70.67346
+    },
+    {
+        "cityId": "7052686",
+        "name": "Shahr-e Buzurg",
+        "stateId": "1147745",
+        "latitude": 37.34123,
+        "longitude": 70.13547
+    },
+    {
+        "cityId": "7052689",
+        "name": "Shik\u012b",
+        "stateId": "1147745",
+        "latitude": 38.20641,
+        "longitude": 70.65179
+    },
+    {
+        "cityId": "7052690",
+        "name": "Shuhad\u0101",
+        "stateId": "1147745",
+        "latitude": 37.10426,
+        "longitude": 71.16376
+    },
+    {
+        "cityId": "7052691",
+        "name": "Tag\u0101b",
+        "stateId": "1147745",
+        "latitude": 36.47222,
+        "longitude": 70.33167
+    },
+    {
+        "cityId": "7052692",
+        "name": "Tashk\u0101n",
+        "stateId": "1147745",
+        "latitude": 36.77022,
+        "longitude": 70.39591
+    },
+    {
+        "cityId": "7052694",
+        "name": "W\u0101kh\u0101n",
+        "stateId": "1147745",
+        "latitude": 37.0571,
+        "longitude": 73.34928
+    },
+    {
+        "cityId": "7052696",
+        "name": "Ward\u016bj",
+        "stateId": "1147745",
+        "latitude": 36.75708,
+        "longitude": 71.18236
+    },
+    {
+        "cityId": "7052701",
+        "name": "Yaftal-e Sufl\u00e1",
+        "stateId": "1147745",
+        "latitude": 37.31198,
+        "longitude": 70.37097
+    },
+    {
+        "cityId": "7052735",
+        "name": "Yamg\u0101n",
+        "stateId": "1147745",
+        "latitude": 36.43684,
+        "longitude": 70.79131
+    },
+    {
+        "cityId": "7052736",
+        "name": "Y\u0101w\u0101n",
+        "stateId": "1147745",
+        "latitude": 37.52815,
+        "longitude": 70.38044
+    },
+    {
+        "cityId": "7052737",
+        "name": "Zayb\u0101k",
+        "stateId": "1147745",
+        "latitude": 36.42655,
+        "longitude": 71.34203
+    },
+    {
+        "cityId": "7732208",
+        "name": "Kuran Wa Munjan",
+        "stateId": "1147745",
+        "latitude": 35.85045,
+        "longitude": 70.68463
+    }
+]

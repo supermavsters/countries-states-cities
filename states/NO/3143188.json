@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "3133977",
+        "name": "Tr\u00f8gstad",
+        "stateId": "3143188",
+        "latitude": 59.64016,
+        "longitude": 11.3189
+    },
+    {
+        "cityId": "3137244",
+        "name": "Spydeberg",
+        "stateId": "3143188",
+        "latitude": 59.62028,
+        "longitude": 11.08069
+    },
+    {
+        "cityId": "3139014",
+        "name": "Skiptvet",
+        "stateId": "3143188",
+        "latitude": 59.47751,
+        "longitude": 11.16171
+    },
+    {
+        "cityId": "3140821",
+        "name": "Rygge",
+        "stateId": "3143188",
+        "latitude": 59.40629,
+        "longitude": 10.69298
+    },
+    {
+        "cityId": "3141407",
+        "name": "R\u00f8mskog",
+        "stateId": "3143188",
+        "latitude": 59.74968,
+        "longitude": 11.81122
+    },
+    {
+        "cityId": "3142518",
+        "name": "Rakkestad",
+        "stateId": "3143188",
+        "latitude": 59.42822,
+        "longitude": 11.3435
+    },
+    {
+        "cityId": "3142567",
+        "name": "R\u00e5de",
+        "stateId": "3143188",
+        "latitude": 59.35162,
+        "longitude": 10.87135
+    },
+    {
+        "cityId": "3151309",
+        "name": "Hvaler",
+        "stateId": "3143188",
+        "latitude": 59.02809,
+        "longitude": 11.0311
+    },
+    {
+        "cityId": "3152504",
+        "name": "Hob\u00f8l",
+        "stateId": "3143188",
+        "latitude": 59.62252,
+        "longitude": 10.94979
+    },
+    {
+        "cityId": "3158648",
+        "name": "Eidsberg",
+        "stateId": "3143188",
+        "latitude": 59.55148,
+        "longitude": 11.33587
+    },
+    {
+        "cityId": "3162649",
+        "name": "Askim",
+        "stateId": "3143188",
+        "latitude": 59.58464,
+        "longitude": 11.16084
+    },
+    {
+        "cityId": "3162957",
+        "name": "Aremark",
+        "stateId": "3143188",
+        "latitude": 59.22198,
+        "longitude": 11.69582
+    },
+    {
+        "cityId": "6453380",
+        "name": "Marker",
+        "stateId": "3143188",
+        "latitude": 59.47952,
+        "longitude": 11.65917
+    },
+    {
+        "cityId": "6453384",
+        "name": "Moss",
+        "stateId": "3143188",
+        "latitude": 59.43436,
+        "longitude": 10.65968
+    },
+    {
+        "cityId": "6453385",
+        "name": "V\u00e5ler",
+        "stateId": "3143188",
+        "latitude": 59.4887,
+        "longitude": 10.86551
+    },
+    {
+        "cityId": "6453388",
+        "name": "Sarpsborg",
+        "stateId": "3143188",
+        "latitude": 59.28148,
+        "longitude": 11.11167
+    },
+    {
+        "cityId": "6453392",
+        "name": "Fredrikstad",
+        "stateId": "3143188",
+        "latitude": 59.21759,
+        "longitude": 10.93787
+    },
+    {
+        "cityId": "6453395",
+        "name": "Halden",
+        "stateId": "3143188",
+        "latitude": 59.12258,
+        "longitude": 11.38709
+    }
+]

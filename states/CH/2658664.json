@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "6458775",
+        "name": "Bezirk Schwyz",
+        "stateId": "2658664",
+        "latitude": 47.02814,
+        "longitude": 8.63619
+    },
+    {
+        "cityId": "6458781",
+        "name": "Bezirk March",
+        "stateId": "2658664",
+        "latitude": 47.16128,
+        "longitude": 8.91103
+    },
+    {
+        "cityId": "6458810",
+        "name": "Bezirk Gersau",
+        "stateId": "2658664",
+        "latitude": 47.008,
+        "longitude": 8.51678
+    },
+    {
+        "cityId": "6458839",
+        "name": "Bezirk K\u00fcssnacht",
+        "stateId": "2658664",
+        "latitude": 47.08611,
+        "longitude": 8.44444
+    },
+    {
+        "cityId": "6458848",
+        "name": "Bezirk H\u00f6fe",
+        "stateId": "2658664",
+        "latitude": 47.19043,
+        "longitude": 8.7396
+    },
+    {
+        "cityId": "6458878",
+        "name": "Bezirk Einsiedeln",
+        "stateId": "2658664",
+        "latitude": 47.10792,
+        "longitude": 8.7601
+    }
+]

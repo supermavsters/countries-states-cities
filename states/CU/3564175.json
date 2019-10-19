@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "3546433",
+        "name": "Municipio de Mor\u00f3n",
+        "stateId": "3564175",
+        "latitude": 22.11667,
+        "longitude": -78.63333
+    },
+    {
+        "cityId": "3564176",
+        "name": "Municipio de Ciego de \u00c1vila",
+        "stateId": "3564175",
+        "latitude": 21.85,
+        "longitude": -78.76667
+    },
+    {
+        "cityId": "11287707",
+        "name": "Municipio de Baragu\u00e1",
+        "stateId": "3564175",
+        "latitude": 21.68194,
+        "longitude": -78.62444
+    },
+    {
+        "cityId": "11287708",
+        "name": "Municipio de Ciro Redondo",
+        "stateId": "3564175",
+        "latitude": 22.01889,
+        "longitude": -78.70306
+    },
+    {
+        "cityId": "11287709",
+        "name": "Municipio de Chambas",
+        "stateId": "3564175",
+        "latitude": 22.19667,
+        "longitude": -78.91333
+    },
+    {
+        "cityId": "11288185",
+        "name": "Bolivia",
+        "stateId": "3564175",
+        "latitude": 22.07755,
+        "longitude": -78.34419
+    },
+    {
+        "cityId": "11288186",
+        "name": "Florencia",
+        "stateId": "3564175",
+        "latitude": 22.14518,
+        "longitude": -78.97325
+    },
+    {
+        "cityId": "11288187",
+        "name": "Majagua",
+        "stateId": "3564175",
+        "latitude": 21.87853,
+        "longitude": -78.97814
+    },
+    {
+        "cityId": "11288188",
+        "name": "Primero De Enero",
+        "stateId": "3564175",
+        "latitude": 21.94502,
+        "longitude": -78.43307
+    },
+    {
+        "cityId": "11288190",
+        "name": "Venezuela",
+        "stateId": "3564175",
+        "latitude": 21.74211,
+        "longitude": -78.78721
+    }
+]

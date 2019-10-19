@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "632425",
+        "name": "V\u00e5rd\u00f6",
+        "stateId": "9611694",
+        "latitude": 60.25,
+        "longitude": 20.41667
+    },
+    {
+        "cityId": "636159",
+        "name": "Sottunga",
+        "stateId": "9611694",
+        "latitude": 60.11667,
+        "longitude": 20.75
+    },
+    {
+        "cityId": "650397",
+        "name": "Kumlinge",
+        "stateId": "9611694",
+        "latitude": 60.33333,
+        "longitude": 20.75
+    },
+    {
+        "cityId": "651989",
+        "name": "K\u00f6kar",
+        "stateId": "9611694",
+        "latitude": 59.91667,
+        "longitude": 21
+    },
+    {
+        "cityId": "659951",
+        "name": "F\u00f6gl\u00f6",
+        "stateId": "9611694",
+        "latitude": 60,
+        "longitude": 20.5
+    },
+    {
+        "cityId": "660528",
+        "name": "Br\u00e4nd\u00f6",
+        "stateId": "9611694",
+        "latitude": 60.41667,
+        "longitude": 21
+    }
+]

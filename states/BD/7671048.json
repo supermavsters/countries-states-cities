@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1337153",
+        "name": "Panchagarh",
+        "stateId": "7671048",
+        "latitude": 26.33333,
+        "longitude": 88.56667
+    },
+    {
+        "cityId": "1337154",
+        "name": "Thakurgaon",
+        "stateId": "7671048",
+        "latitude": 25.96667,
+        "longitude": 88.33333
+    },
+    {
+        "cityId": "1337155",
+        "name": "Dinajpur",
+        "stateId": "7671048",
+        "latitude": 25.61667,
+        "longitude": 88.75
+    },
+    {
+        "cityId": "1337156",
+        "name": "Nilphamari Zila",
+        "stateId": "7671048",
+        "latitude": 25.96667,
+        "longitude": 88.95
+    },
+    {
+        "cityId": "1337157",
+        "name": "Lalmonirhat District",
+        "stateId": "7671048",
+        "latitude": 26,
+        "longitude": 89.25
+    },
+    {
+        "cityId": "1337158",
+        "name": "Kurigram",
+        "stateId": "7671048",
+        "latitude": 25.75,
+        "longitude": 89.66667
+    },
+    {
+        "cityId": "1337159",
+        "name": "Rangpur",
+        "stateId": "7671048",
+        "latitude": 25.73333,
+        "longitude": 89.25
+    },
+    {
+        "cityId": "1337160",
+        "name": "Gaibandha",
+        "stateId": "7671048",
+        "latitude": 25.25,
+        "longitude": 89.5
+    }
+]

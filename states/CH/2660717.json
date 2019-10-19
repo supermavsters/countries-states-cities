@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2660598",
+        "name": "Gl\u00e2ne District",
+        "stateId": "2660717",
+        "latitude": 46.66667,
+        "longitude": 6.91667
+    },
+    {
+        "cityId": "6458754",
+        "name": "Broye District",
+        "stateId": "2660717",
+        "latitude": 46.82212,
+        "longitude": 6.90249
+    },
+    {
+        "cityId": "6458767",
+        "name": "Sarine District",
+        "stateId": "2660717",
+        "latitude": 46.78435,
+        "longitude": 7.09993
+    },
+    {
+        "cityId": "6458796",
+        "name": "Gruy\u00e8re District",
+        "stateId": "2660717",
+        "latitude": 46.60753,
+        "longitude": 7.10741
+    },
+    {
+        "cityId": "6458820",
+        "name": "Lake District",
+        "stateId": "2660717",
+        "latitude": 46.91016,
+        "longitude": 7.14088
+    },
+    {
+        "cityId": "6458862",
+        "name": "Veveyse District",
+        "stateId": "2660717",
+        "latitude": 46.55083,
+        "longitude": 6.91085
+    },
+    {
+        "cityId": "6458898",
+        "name": "Sense District",
+        "stateId": "2660717",
+        "latitude": 46.80132,
+        "longitude": 7.26028
+    }
+]

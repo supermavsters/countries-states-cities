@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "905843",
+        "name": "Mpika District",
+        "stateId": "11154503",
+        "latitude": -12.02118,
+        "longitude": 31.26473
+    },
+    {
+        "cityId": "916666",
+        "name": "Isoka District",
+        "stateId": "11154503",
+        "latitude": -10.01771,
+        "longitude": 32.9141
+    },
+    {
+        "cityId": "918903",
+        "name": "Chinsali District",
+        "stateId": "11154503",
+        "latitude": -10.33173,
+        "longitude": 32.23818
+    },
+    {
+        "cityId": "920896",
+        "name": "Chama District",
+        "stateId": "11154503",
+        "latitude": -11.25,
+        "longitude": 32.83333
+    },
+    {
+        "cityId": "11169206",
+        "name": "Mafinga",
+        "stateId": "11154503",
+        "latitude": -10.37647,
+        "longitude": 33.39867
+    },
+    {
+        "cityId": "11169207",
+        "name": "Nakonde",
+        "stateId": "11154503",
+        "latitude": -9.48655,
+        "longitude": 32.64852
+    },
+    {
+        "cityId": "11169209",
+        "name": "Shiwang\u2019andu District",
+        "stateId": "11154503",
+        "latitude": -10.98893,
+        "longitude": 31.69332
+    }
+]

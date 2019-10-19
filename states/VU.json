@@ -1,0 +1,44 @@
+[
+    {
+        "stateId": "2208265",
+        "name": "Malampa Province",
+        "countryId": "2134431",
+        "latitude": -16.25,
+        "longitude": 167.75
+    },
+    {
+        "stateId": "2208266",
+        "name": "Penama Province",
+        "countryId": "2134431",
+        "latitude": -15.39742,
+        "longitude": 167.80449
+    },
+    {
+        "stateId": "2134898",
+        "name": "Sanma Province",
+        "countryId": "2134431",
+        "latitude": -15.33333,
+        "longitude": 166.75
+    },
+    {
+        "stateId": "2208267",
+        "name": "Shefa Province",
+        "countryId": "2134431",
+        "latitude": -17.33333,
+        "longitude": 168.5
+    },
+    {
+        "stateId": "2134739",
+        "name": "Tafea Province",
+        "countryId": "2134431",
+        "latitude": -19.5,
+        "longitude": 169.5
+    },
+    {
+        "stateId": "2137421",
+        "name": "Torba Province",
+        "countryId": "2134431",
+        "latitude": -13.75,
+        "longitude": 167.5
+    }
+]

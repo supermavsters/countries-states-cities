@@ -1,0 +1,37 @@
+[
+    {
+        "stateId": "4034366",
+        "name": "\u00celes Australes",
+        "countryId": "4030656",
+        "latitude": -23,
+        "longitude": -150
+    },
+    {
+        "stateId": "4019991",
+        "name": "\u00celes Marquises",
+        "countryId": "4030656",
+        "latitude": -9,
+        "longitude": -139.5
+    },
+    {
+        "stateId": "4034364",
+        "name": "\u00celes Sous-le-Vent",
+        "countryId": "4030656",
+        "latitude": -16.66667,
+        "longitude": -151.5
+    },
+    {
+        "stateId": "4030621",
+        "name": "\u00celes Tuamotu-Gambier",
+        "countryId": "4030656",
+        "latitude": -19,
+        "longitude": -139
+    },
+    {
+        "stateId": "4034365",
+        "name": "\u00celes du Vent",
+        "countryId": "4030656",
+        "latitude": -17.5,
+        "longitude": -149.5
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3426211",
+        "name": "Reykjanesb\u00e6r",
+        "stateId": "3426183",
+        "latitude": 63.92397,
+        "longitude": -22.59951
+    },
+    {
+        "cityId": "3426212",
+        "name": "Sandger\u00f0isb\u00e6r",
+        "stateId": "3426183",
+        "latitude": 64.00234,
+        "longitude": -22.67305
+    },
+    {
+        "cityId": "3426213",
+        "name": "Sveitarf\u00e9lagi\u00f0 Gar\u00f0ur",
+        "stateId": "3426183",
+        "latitude": 64.04636,
+        "longitude": -22.62796
+    },
+    {
+        "cityId": "9192632",
+        "name": "Sveitarf\u00e9lagi\u00f0 Vogar",
+        "stateId": "3426183",
+        "latitude": 63.97228,
+        "longitude": -22.23826
+    },
+    {
+        "cityId": "9192633",
+        "name": "Grindav\u00edkurb\u00e6r",
+        "stateId": "3426183",
+        "latitude": 63.88425,
+        "longitude": -22.21786
+    }
+]

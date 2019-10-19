@@ -1,0 +1,226 @@
+[
+    {
+        "cityId": "2634354",
+        "name": "West Lothian",
+        "stateId": "2638360",
+        "latitude": 55.91667,
+        "longitude": -3.5
+    },
+    {
+        "cityId": "2634428",
+        "name": "Eilean Siar",
+        "stateId": "2638360",
+        "latitude": 57.66667,
+        "longitude": -7.16667
+    },
+    {
+        "cityId": "2636909",
+        "name": "Stirling",
+        "stateId": "2638360",
+        "latitude": 56.11532,
+        "longitude": -4.23386
+    },
+    {
+        "cityId": "2638010",
+        "name": "Shetland Islands",
+        "stateId": "2638360",
+        "latitude": 60.33333,
+        "longitude": -1.33333
+    },
+    {
+        "cityId": "2639494",
+        "name": "Renfrewshire",
+        "stateId": "2638360",
+        "latitude": 55.83333,
+        "longitude": -4.5
+    },
+    {
+        "cityId": "2640923",
+        "name": "Orkney Islands",
+        "stateId": "2638360",
+        "latitude": 59,
+        "longitude": -3
+    },
+    {
+        "cityId": "2642240",
+        "name": "Moray",
+        "stateId": "2638360",
+        "latitude": 57.41667,
+        "longitude": -3.25
+    },
+    {
+        "cityId": "2642559",
+        "name": "Midlothian",
+        "stateId": "2638360",
+        "latitude": 55.82347,
+        "longitude": -3.09334
+    },
+    {
+        "cityId": "2646127",
+        "name": "Inverclyde",
+        "stateId": "2638360",
+        "latitude": 55.9,
+        "longitude": -4.75
+    },
+    {
+        "cityId": "2646944",
+        "name": "Highland",
+        "stateId": "2638360",
+        "latitude": 57.5,
+        "longitude": -5
+    },
+    {
+        "cityId": "2649469",
+        "name": "Fife",
+        "stateId": "2638360",
+        "latitude": 56.25,
+        "longitude": -3.16667
+    },
+    {
+        "cityId": "2650386",
+        "name": "East Lothian",
+        "stateId": "2638360",
+        "latitude": 55.91667,
+        "longitude": -2.75
+    },
+    {
+        "cityId": "2650797",
+        "name": "Dumfries and Galloway",
+        "stateId": "2638360",
+        "latitude": 55.08333,
+        "longitude": -3.83333
+    },
+    {
+        "cityId": "2652975",
+        "name": "Clackmannanshire",
+        "stateId": "2638360",
+        "latitude": 56.16667,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "2655192",
+        "name": "The Scottish Borders",
+        "stateId": "2638360",
+        "latitude": 55.58333,
+        "longitude": -2.83333
+    },
+    {
+        "cityId": "2657306",
+        "name": "Angus",
+        "stateId": "2638360",
+        "latitude": 56.66667,
+        "longitude": -2.91667
+    },
+    {
+        "cityId": "2657830",
+        "name": "Aberdeenshire",
+        "stateId": "2638360",
+        "latitude": 57.16667,
+        "longitude": -2.66667
+    },
+    {
+        "cityId": "3333224",
+        "name": "Aberdeen City",
+        "stateId": "2638360",
+        "latitude": 57.16667,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "3333225",
+        "name": "Dundee City",
+        "stateId": "2638360",
+        "latitude": 56.46667,
+        "longitude": -2.91667
+    },
+    {
+        "cityId": "3333226",
+        "name": "East Ayrshire",
+        "stateId": "2638360",
+        "latitude": 55.5,
+        "longitude": -4.25
+    },
+    {
+        "cityId": "3333227",
+        "name": "East Dunbartonshire",
+        "stateId": "2638360",
+        "latitude": 55.93333,
+        "longitude": -4.2
+    },
+    {
+        "cityId": "3333228",
+        "name": "East Renfrewshire",
+        "stateId": "2638360",
+        "latitude": 55.75,
+        "longitude": -4.33333
+    },
+    {
+        "cityId": "3333229",
+        "name": "Edinburgh",
+        "stateId": "2638360",
+        "latitude": 55.94973,
+        "longitude": -3.19333
+    },
+    {
+        "cityId": "3333230",
+        "name": "Falkirk",
+        "stateId": "2638360",
+        "latitude": 56,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "3333231",
+        "name": "Glasgow City",
+        "stateId": "2638360",
+        "latitude": 55.86667,
+        "longitude": -4.25
+    },
+    {
+        "cityId": "3333232",
+        "name": "North Ayrshire",
+        "stateId": "2638360",
+        "latitude": 55.69694,
+        "longitude": -4.73373
+    },
+    {
+        "cityId": "3333233",
+        "name": "North Lanarkshire",
+        "stateId": "2638360",
+        "latitude": 55.86667,
+        "longitude": -3.91667
+    },
+    {
+        "cityId": "3333234",
+        "name": "Perth and Kinross",
+        "stateId": "2638360",
+        "latitude": 56.5,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "3333235",
+        "name": "South Ayrshire",
+        "stateId": "2638360",
+        "latitude": 55.25,
+        "longitude": -4.66667
+    },
+    {
+        "cityId": "3333236",
+        "name": "South Lanarkshire",
+        "stateId": "2638360",
+        "latitude": 55.58333,
+        "longitude": -3.83333
+    },
+    {
+        "cityId": "3333237",
+        "name": "West Dunbartonshire",
+        "stateId": "2638360",
+        "latitude": 55.96667,
+        "longitude": -4.53333
+    },
+    {
+        "cityId": "6457407",
+        "name": "Argyll and Bute",
+        "stateId": "2638360",
+        "latitude": 56.03693,
+        "longitude": -5.43679
+    }
+]

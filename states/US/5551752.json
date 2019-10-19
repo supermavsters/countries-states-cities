@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "5290270",
+        "name": "Cochise County",
+        "stateId": "5551752",
+        "latitude": 31.87957,
+        "longitude": -109.75114
+    },
+    {
+        "cityId": "5290307",
+        "name": "Coconino County",
+        "stateId": "5551752",
+        "latitude": 35.83873,
+        "longitude": -111.7705
+    },
+    {
+        "cityId": "5295877",
+        "name": "Gila County",
+        "stateId": "5551752",
+        "latitude": 33.79975,
+        "longitude": -110.81174
+    },
+    {
+        "cityId": "5296368",
+        "name": "Graham County",
+        "stateId": "5551752",
+        "latitude": 32.93272,
+        "longitude": -109.88744
+    },
+    {
+        "cityId": "5296837",
+        "name": "Greenlee County",
+        "stateId": "5551752",
+        "latitude": 33.21536,
+        "longitude": -109.2401
+    },
+    {
+        "cityId": "5301323",
+        "name": "La Paz County",
+        "stateId": "5551752",
+        "latitude": 33.72926,
+        "longitude": -113.98134
+    },
+    {
+        "cityId": "5303754",
+        "name": "Maricopa County",
+        "stateId": "5551752",
+        "latitude": 33.34883,
+        "longitude": -112.49123
+    },
+    {
+        "cityId": "5305206",
+        "name": "Mohave County",
+        "stateId": "5551752",
+        "latitude": 35.70404,
+        "longitude": -113.75791
+    },
+    {
+        "cityId": "5306233",
+        "name": "Navajo County",
+        "stateId": "5551752",
+        "latitude": 35.39963,
+        "longitude": -110.3214
+    },
+    {
+        "cityId": "5308878",
+        "name": "Pima County",
+        "stateId": "5551752",
+        "latitude": 32.09738,
+        "longitude": -111.78995
+    },
+    {
+        "cityId": "5308916",
+        "name": "Pinal County",
+        "stateId": "5551752",
+        "latitude": 32.90431,
+        "longitude": -111.34471
+    },
+    {
+        "cityId": "5313135",
+        "name": "Santa Cruz County",
+        "stateId": "5551752",
+        "latitude": 31.526,
+        "longitude": -110.84657
+    },
+    {
+        "cityId": "5321860",
+        "name": "Yavapai County",
+        "stateId": "5551752",
+        "latitude": 34.59988,
+        "longitude": -112.55387
+    },
+    {
+        "cityId": "5322057",
+        "name": "Yuma County",
+        "stateId": "5551752",
+        "latitude": 32.7694,
+        "longitude": -113.90556
+    },
+    {
+        "cityId": "5551519",
+        "name": "Apache County",
+        "stateId": "5551752",
+        "latitude": 35.3956,
+        "longitude": -109.48884
+    }
+]

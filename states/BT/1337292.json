@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1252424",
+        "name": "Tashigang",
+        "stateId": "1337292",
+        "latitude": 27.16667,
+        "longitude": 91.75
+    },
+    {
+        "cityId": "7647111",
+        "name": "Radi",
+        "stateId": "1337292",
+        "latitude": 27.34642,
+        "longitude": 91.70927
+    },
+    {
+        "cityId": "7647125",
+        "name": "Lumang",
+        "stateId": "1337292",
+        "latitude": 27.12827,
+        "longitude": 91.53658
+    },
+    {
+        "cityId": "7647130",
+        "name": "Thrimshing",
+        "stateId": "1337292",
+        "latitude": 27.09496,
+        "longitude": 91.59825
+    }
+]

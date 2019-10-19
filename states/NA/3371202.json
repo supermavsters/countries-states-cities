@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7931901",
+        "name": "Epupa Constituency",
+        "stateId": "3371202",
+        "latitude": -17.00388,
+        "longitude": 13.24825
+    },
+    {
+        "cityId": "7931902",
+        "name": "Opuwo Constituency",
+        "stateId": "3371202",
+        "latitude": -18.54247,
+        "longitude": 13.51617
+    },
+    {
+        "cityId": "7931903",
+        "name": "Sesfontein Constituency",
+        "stateId": "3371202",
+        "latitude": -19.56106,
+        "longitude": 13.7653
+    },
+    {
+        "cityId": "7931904",
+        "name": "Khorixas Constituency",
+        "stateId": "3371202",
+        "latitude": -20.36792,
+        "longitude": 14.95996
+    }
+]

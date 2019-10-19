@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7870607",
+        "name": "Bambama",
+        "stateId": "2258534",
+        "latitude": -2.53893,
+        "longitude": 13.54658
+    },
+    {
+        "cityId": "7870608",
+        "name": "Komono",
+        "stateId": "2258534",
+        "latitude": -2.93719,
+        "longitude": 13.26635
+    },
+    {
+        "cityId": "7870613",
+        "name": "Sibiti",
+        "stateId": "2258534",
+        "latitude": -3.65125,
+        "longitude": 13.3464
+    },
+    {
+        "cityId": "7870614",
+        "name": "Zanaga",
+        "stateId": "2258534",
+        "latitude": -2.85138,
+        "longitude": 13.8255
+    }
+]

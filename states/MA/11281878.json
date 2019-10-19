@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2544246",
+        "name": "Khouribga Province",
+        "stateId": "11281878",
+        "latitude": 32.93333,
+        "longitude": -6.6
+    },
+    {
+        "cityId": "2544331",
+        "name": "Khenifra",
+        "stateId": "11281878",
+        "latitude": 32.93333,
+        "longitude": -5.66667
+    },
+    {
+        "cityId": "2555742",
+        "name": "Beni-Mellal",
+        "stateId": "11281878",
+        "latitude": 32.5,
+        "longitude": -6.33333
+    },
+    {
+        "cityId": "2556569",
+        "name": "Azilal Province",
+        "stateId": "11281878",
+        "latitude": 31.91667,
+        "longitude": -6.5
+    },
+    {
+        "cityId": "11282175",
+        "name": "Fquih Ben Salah Province",
+        "stateId": "11281878",
+        "latitude": 32.50108,
+        "longitude": -6.68415
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "3164697",
+        "name": "Provincia di Varese",
+        "stateId": "3174618",
+        "latitude": 45.8,
+        "longitude": 8.8
+    },
+    {
+        "cityId": "3166396",
+        "name": "Provincia di Sondrio",
+        "stateId": "3174618",
+        "latitude": 46.21108,
+        "longitude": 9.94907
+    },
+    {
+        "cityId": "3171364",
+        "name": "Provincia di Pavia",
+        "stateId": "3174618",
+        "latitude": 45.11667,
+        "longitude": 9.13333
+    },
+    {
+        "cityId": "3173434",
+        "name": "Citt\u00e0 metropolitana di Milano",
+        "stateId": "3174618",
+        "latitude": 45.45186,
+        "longitude": 9.14586
+    },
+    {
+        "cityId": "3174050",
+        "name": "Provincia di Mantova",
+        "stateId": "3174618",
+        "latitude": 45.16667,
+        "longitude": 10.78333
+    },
+    {
+        "cityId": "3177837",
+        "name": "Provincia di Cremona",
+        "stateId": "3174618",
+        "latitude": 45.23333,
+        "longitude": 9.93333
+    },
+    {
+        "cityId": "3178227",
+        "name": "Provincia di Como",
+        "stateId": "3174618",
+        "latitude": 45.91249,
+        "longitude": 9.15744
+    },
+    {
+        "cityId": "3181553",
+        "name": "Provincia di Brescia",
+        "stateId": "3174618",
+        "latitude": 45.70648,
+        "longitude": 10.33562
+    },
+    {
+        "cityId": "3182163",
+        "name": "Provincia di Bergamo",
+        "stateId": "3174618",
+        "latitude": 45.83333,
+        "longitude": 9.8
+    },
+    {
+        "cityId": "6458616",
+        "name": "Provincia di Lecco",
+        "stateId": "3174618",
+        "latitude": 45.85397,
+        "longitude": 9.39001
+    },
+    {
+        "cityId": "6458617",
+        "name": "Provincia di Lodi",
+        "stateId": "3174618",
+        "latitude": 45.29638,
+        "longitude": 9.52858
+    },
+    {
+        "cityId": "6955700",
+        "name": "Provincia di Monza e Brianza",
+        "stateId": "3174618",
+        "latitude": 45.59674,
+        "longitude": 9.21616
+    }
+]

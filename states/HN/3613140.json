@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "3600329",
+        "name": "Villanueva",
+        "stateId": "3613140",
+        "latitude": 15.31667,
+        "longitude": -88.03333
+    },
+    {
+        "cityId": "3601628",
+        "name": "Santa Cruz de Yojoa",
+        "stateId": "3613140",
+        "latitude": 14.96667,
+        "longitude": -87.88333
+    },
+    {
+        "cityId": "3601783",
+        "name": "San Pedro Sula",
+        "stateId": "3613140",
+        "latitude": 15.5,
+        "longitude": -88
+    },
+    {
+        "cityId": "3601923",
+        "name": "San Manuel",
+        "stateId": "3613140",
+        "latitude": 15.33333,
+        "longitude": -87.91667
+    },
+    {
+        "cityId": "3602273",
+        "name": "San Francisco de Yojoa",
+        "stateId": "3613140",
+        "latitude": 15.01667,
+        "longitude": -88
+    },
+    {
+        "cityId": "3602445",
+        "name": "San Antonio de Cort\u00e9s",
+        "stateId": "3613140",
+        "latitude": 15.11667,
+        "longitude": -88.03333
+    },
+    {
+        "cityId": "3603366",
+        "name": "Potrerillos",
+        "stateId": "3613140",
+        "latitude": 15.21,
+        "longitude": -87.95
+    },
+    {
+        "cityId": "3603657",
+        "name": "Pimienta",
+        "stateId": "3613140",
+        "latitude": 15.265,
+        "longitude": -87.96667
+    },
+    {
+        "cityId": "3604231",
+        "name": "Omoa",
+        "stateId": "3613140",
+        "latitude": 15.65,
+        "longitude": -88.2
+    },
+    {
+        "cityId": "3613536",
+        "name": "Choloma",
+        "stateId": "3613140",
+        "latitude": 15.64,
+        "longitude": -87.92
+    },
+    {
+        "cityId": "7910435",
+        "name": "La Lima",
+        "stateId": "3613140",
+        "latitude": 15.46,
+        "longitude": -87.88
+    },
+    {
+        "cityId": "7910436",
+        "name": "Puerto Cort\u00e9s",
+        "stateId": "3613140",
+        "latitude": 15.79,
+        "longitude": -87.849
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "170793",
+        "name": "Deir ez-Zor District",
+        "stateId": "170792",
+        "latitude": 35.44913,
+        "longitude": 40.19342
+    },
+    {
+        "cityId": "173481",
+        "name": "Mayadin District",
+        "stateId": "170792",
+        "latitude": 34.8565,
+        "longitude": 40.30414
+    },
+    {
+        "cityId": "174447",
+        "name": "Abu Kamal District",
+        "stateId": "170792",
+        "latitude": 34.54076,
+        "longitude": 40.51966
+    }
+]

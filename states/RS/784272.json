@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7581796",
+        "name": "South Ba\u010dka",
+        "stateId": "784272",
+        "latitude": 45.40861,
+        "longitude": 19.88917
+    },
+    {
+        "cityId": "7581797",
+        "name": "South Banat",
+        "stateId": "784272",
+        "latitude": 45.08083,
+        "longitude": 20.96583
+    },
+    {
+        "cityId": "7581808",
+        "name": "North Ba\u010dka",
+        "stateId": "784272",
+        "latitude": 45.815,
+        "longitude": 19.63611
+    },
+    {
+        "cityId": "7581905",
+        "name": "North Banat",
+        "stateId": "784272",
+        "latitude": 45.9425,
+        "longitude": 20.14333
+    },
+    {
+        "cityId": "7581906",
+        "name": "Central Banat",
+        "stateId": "784272",
+        "latitude": 45.38361,
+        "longitude": 20.38194
+    },
+    {
+        "cityId": "7581907",
+        "name": "Srem",
+        "stateId": "784272",
+        "latitude": 44.92167,
+        "longitude": 19.82556
+    },
+    {
+        "cityId": "7581911",
+        "name": "West Ba\u010dka",
+        "stateId": "784272",
+        "latitude": 45.77417,
+        "longitude": 19.11222
+    }
+]

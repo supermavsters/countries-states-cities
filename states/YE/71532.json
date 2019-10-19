@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "6940635",
+        "name": "Al Jabin",
+        "stateId": "71532",
+        "latitude": 14.6899,
+        "longitude": 43.6196
+    },
+    {
+        "cityId": "6940636",
+        "name": "Al Jafariyah",
+        "stateId": "71532",
+        "latitude": 14.5196,
+        "longitude": 43.5817
+    },
+    {
+        "cityId": "6940637",
+        "name": "Kusmah",
+        "stateId": "71532",
+        "latitude": 14.5474,
+        "longitude": 43.6833
+    },
+    {
+        "cityId": "6940638",
+        "name": "As Salafiyah",
+        "stateId": "71532",
+        "latitude": 14.6866,
+        "longitude": 43.8216
+    },
+    {
+        "cityId": "6940882",
+        "name": "Bilad At Ta'am",
+        "stateId": "71532",
+        "latitude": 14.8382,
+        "longitude": 43.6078
+    },
+    {
+        "cityId": "6940883",
+        "name": "Mazhar",
+        "stateId": "71532",
+        "latitude": 14.5709,
+        "longitude": 43.7607
+    }
+]

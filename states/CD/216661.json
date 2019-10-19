@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2310762",
+        "name": "Ville de Zongo",
+        "stateId": "216661",
+        "latitude": 4.35,
+        "longitude": 18.6
+    },
+    {
+        "cityId": "2312894",
+        "name": "Ville de Mbandaka",
+        "stateId": "216661",
+        "latitude": 0.06667,
+        "longitude": 18.26667
+    },
+    {
+        "cityId": "2315861",
+        "name": "Equateur",
+        "stateId": "216661",
+        "latitude": 0.438,
+        "longitude": 18.919
+    },
+    {
+        "cityId": "7670932",
+        "name": "Nord Ubangi",
+        "stateId": "216661",
+        "latitude": 3.88593,
+        "longitude": 21.05228
+    },
+    {
+        "cityId": "7731903",
+        "name": "Sud Ubangi",
+        "stateId": "216661",
+        "latitude": 3.16795,
+        "longitude": 19.49877
+    },
+    {
+        "cityId": "9212657",
+        "name": "Akula",
+        "stateId": "216661",
+        "latitude": 2.37758,
+        "longitude": 20.18345
+    },
+    {
+        "cityId": "10376945",
+        "name": "Tshuapa District",
+        "stateId": "216661",
+        "latitude": -0.73333,
+        "longitude": 19.2
+    },
+    {
+        "cityId": "10402604",
+        "name": "Nord-Ubangi District",
+        "stateId": "216661",
+        "latitude": 4.28333,
+        "longitude": 21.01667
+    }
+]

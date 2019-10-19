@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "883763",
+        "name": "Tsholotsho District",
+        "stateId": "886748",
+        "latitude": -19.58552,
+        "longitude": 27.46718
+    },
+    {
+        "cityId": "884216",
+        "name": "Nkayi District",
+        "stateId": "886748",
+        "latitude": -18.92472,
+        "longitude": 28.71221
+    },
+    {
+        "cityId": "888223",
+        "name": "Lupane District",
+        "stateId": "886748",
+        "latitude": -18.83608,
+        "longitude": 27.99098
+    },
+    {
+        "cityId": "889941",
+        "name": "Hwange District",
+        "stateId": "886748",
+        "latitude": -18.75,
+        "longitude": 26.5
+    },
+    {
+        "cityId": "894741",
+        "name": "Bubi District",
+        "stateId": "886748",
+        "latitude": -19.52508,
+        "longitude": 28.67998
+    },
+    {
+        "cityId": "895055",
+        "name": "Binga District",
+        "stateId": "886748",
+        "latitude": -17.8046,
+        "longitude": 27.70088
+    },
+    {
+        "cityId": "10800412",
+        "name": "Umguza District",
+        "stateId": "886748",
+        "latitude": -19.85324,
+        "longitude": 28.31408
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9610576",
+        "name": "Syd\u00f6sterbotten",
+        "stateId": "830676",
+        "latitude": 62.39744,
+        "longitude": 21.40441
+    },
+    {
+        "cityId": "9610667",
+        "name": "Kyr\u00f6nmaa",
+        "stateId": "830676",
+        "latitude": 62.94613,
+        "longitude": 22.17085
+    },
+    {
+        "cityId": "9610668",
+        "name": "Vaasa",
+        "stateId": "830676",
+        "latitude": 63.11569,
+        "longitude": 21.7303
+    },
+    {
+        "cityId": "9610669",
+        "name": "Jakobstadsregionen",
+        "stateId": "830676",
+        "latitude": 63.57041,
+        "longitude": 22.93205
+    }
+]

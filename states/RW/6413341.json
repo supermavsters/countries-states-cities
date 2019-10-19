@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7690214",
+        "name": "Muhanga District",
+        "stateId": "6413341",
+        "latitude": -1.93912,
+        "longitude": 29.71805
+    },
+    {
+        "cityId": "7690215",
+        "name": "Kamonyi District",
+        "stateId": "6413341",
+        "latitude": -2.00521,
+        "longitude": 29.89817
+    },
+    {
+        "cityId": "7690216",
+        "name": "Ruhango District",
+        "stateId": "6413341",
+        "latitude": -2.19957,
+        "longitude": 29.76989
+    },
+    {
+        "cityId": "7690217",
+        "name": "Nyanza District",
+        "stateId": "6413341",
+        "latitude": -2.33692,
+        "longitude": 29.79451
+    },
+    {
+        "cityId": "7690218",
+        "name": "Nyamagabe District",
+        "stateId": "6413341",
+        "latitude": -2.40819,
+        "longitude": 29.46797
+    },
+    {
+        "cityId": "7690219",
+        "name": "Huye District",
+        "stateId": "6413341",
+        "latitude": -2.51704,
+        "longitude": 29.69603
+    },
+    {
+        "cityId": "7690220",
+        "name": "Gisagara District",
+        "stateId": "6413341",
+        "latitude": -2.61811,
+        "longitude": 29.85022
+    },
+    {
+        "cityId": "7690221",
+        "name": "Nyaruguru District",
+        "stateId": "6413341",
+        "latitude": -2.69845,
+        "longitude": 29.52369
+    }
+]

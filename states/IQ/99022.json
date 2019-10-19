@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "98634",
+        "name": "Qada Al-Shamiya",
+        "stateId": "99022",
+        "latitude": 31.77907,
+        "longitude": 44.60861
+    },
+    {
+        "cityId": "99737",
+        "name": "Afaq District",
+        "stateId": "99022",
+        "latitude": 31.9334,
+        "longitude": 45.41428
+    },
+    {
+        "cityId": "99763",
+        "name": "Qada Diwaniya",
+        "stateId": "99022",
+        "latitude": 31.90787,
+        "longitude": 44.83852
+    },
+    {
+        "cityId": "6850588",
+        "name": "Hamza District",
+        "stateId": "99022",
+        "latitude": 31.72224,
+        "longitude": 44.98503
+    }
+]

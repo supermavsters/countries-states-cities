@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2664994",
+        "name": "Varbergs Kommun",
+        "stateId": "2708794",
+        "latitude": 57.17208,
+        "longitude": 12.41797
+    },
+    {
+        "cityId": "2697859",
+        "name": "Laholms Kommun",
+        "stateId": "2708794",
+        "latitude": 56.49174,
+        "longitude": 13.19141
+    },
+    {
+        "cityId": "2698726",
+        "name": "Kungsbacka Kommun",
+        "stateId": "2708794",
+        "latitude": 57.45058,
+        "longitude": 12.15061
+    },
+    {
+        "cityId": "2704007",
+        "name": "Hylte Kommun",
+        "stateId": "2708794",
+        "latitude": 56.97394,
+        "longitude": 13.26541
+    },
+    {
+        "cityId": "2708363",
+        "name": "Halmstads Kommun",
+        "stateId": "2708794",
+        "latitude": 56.7392,
+        "longitude": 12.97338
+    },
+    {
+        "cityId": "2715572",
+        "name": "Falkenbergs Kommun",
+        "stateId": "2708794",
+        "latitude": 57.04317,
+        "longitude": 12.72989
+    }
+]

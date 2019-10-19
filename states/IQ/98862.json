@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "98861",
+        "name": "Najaf District",
+        "stateId": "98862",
+        "latitude": 31.0213,
+        "longitude": 43.71875
+    },
+    {
+        "cityId": "9166552",
+        "name": "Al-Manathera District",
+        "stateId": "98862",
+        "latitude": 31.79653,
+        "longitude": 44.41161
+    },
+    {
+        "cityId": "9166629",
+        "name": "Kufa",
+        "stateId": "98862",
+        "latitude": 32.03624,
+        "longitude": 44.43652
+    }
+]

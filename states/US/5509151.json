@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "5501350",
+        "name": "Carson City",
+        "stateId": "5509151",
+        "latitude": 39.16462,
+        "longitude": -119.7763
+    },
+    {
+        "cityId": "5501785",
+        "name": "Churchill County",
+        "stateId": "5509151",
+        "latitude": 39.58088,
+        "longitude": -118.33578
+    },
+    {
+        "cityId": "5501879",
+        "name": "Clark County",
+        "stateId": "5509151",
+        "latitude": 36.2152,
+        "longitude": -115.01356
+    },
+    {
+        "cityId": "5503178",
+        "name": "Douglas County",
+        "stateId": "5509151",
+        "latitude": 38.91224,
+        "longitude": -119.61637
+    },
+    {
+        "cityId": "5503780",
+        "name": "Esmeralda County",
+        "stateId": "5509151",
+        "latitude": 37.7847,
+        "longitude": -117.63237
+    },
+    {
+        "cityId": "5506935",
+        "name": "Lander County",
+        "stateId": "5509151",
+        "latitude": 39.93381,
+        "longitude": -117.03791
+    },
+    {
+        "cityId": "5507189",
+        "name": "Lincoln County",
+        "stateId": "5509151",
+        "latitude": 37.64335,
+        "longitude": -114.87755
+    },
+    {
+        "cityId": "5507669",
+        "name": "Lyon County",
+        "stateId": "5509151",
+        "latitude": 39.0204,
+        "longitude": -119.1892
+    },
+    {
+        "cityId": "5508393",
+        "name": "Mineral County",
+        "stateId": "5509151",
+        "latitude": 38.53881,
+        "longitude": -118.43521
+    },
+    {
+        "cityId": "5509519",
+        "name": "Nye County",
+        "stateId": "5509151",
+        "latitude": 38.04238,
+        "longitude": -116.47193
+    },
+    {
+        "cityId": "5513171",
+        "name": "Storey County",
+        "stateId": "5509151",
+        "latitude": 39.44653,
+        "longitude": -119.52917
+    },
+    {
+        "cityId": "5514990",
+        "name": "White Pine County",
+        "stateId": "5509151",
+        "latitude": 39.44216,
+        "longitude": -114.90159
+    },
+    {
+        "cityId": "5703673",
+        "name": "Elko County",
+        "stateId": "5509151",
+        "latitude": 41.14583,
+        "longitude": -115.35776
+    },
+    {
+        "cityId": "5703766",
+        "name": "Eureka County",
+        "stateId": "5509151",
+        "latitude": 39.98389,
+        "longitude": -116.26856
+    },
+    {
+        "cityId": "5704974",
+        "name": "Humboldt County",
+        "stateId": "5509151",
+        "latitude": 41.40684,
+        "longitude": -118.11197
+    },
+    {
+        "cityId": "5707263",
+        "name": "Pershing County",
+        "stateId": "5509151",
+        "latitude": 40.44036,
+        "longitude": -118.40444
+    },
+    {
+        "cityId": "5709906",
+        "name": "Washoe County",
+        "stateId": "5509151",
+        "latitude": 40.66542,
+        "longitude": -119.6643
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1220206",
+        "name": "Vanchskiy Rayon",
+        "stateId": "1221692",
+        "latitude": 38.41667,
+        "longitude": 71.75
+    },
+    {
+        "cityId": "1220683",
+        "name": "Rushanskiy Rayon",
+        "stateId": "1221692",
+        "latitude": 38,
+        "longitude": 72
+    },
+    {
+        "cityId": "1221558",
+        "name": "Darvozskiy Rayon",
+        "stateId": "1221692",
+        "latitude": 38.58333,
+        "longitude": 71
+    },
+    {
+        "cityId": "7670513",
+        "name": "Roshtqal'a District",
+        "stateId": "1221692",
+        "latitude": 37.1,
+        "longitude": 72
+    },
+    {
+        "cityId": "8217321",
+        "name": "Nohiyai Vanj",
+        "stateId": "1221692",
+        "latitude": 38.41838,
+        "longitude": 71.7627
+    },
+    {
+        "cityId": "8220895",
+        "name": "Nohiyai Darvoz",
+        "stateId": "1221692",
+        "latitude": 38.5085,
+        "longitude": 70.78165
+    },
+    {
+        "cityId": "8220896",
+        "name": "Nohiyai Ishqoshim",
+        "stateId": "1221692",
+        "latitude": 36.99727,
+        "longitude": 72.1091
+    },
+    {
+        "cityId": "8220897",
+        "name": "Nohiyai Murghob",
+        "stateId": "1221692",
+        "latitude": 38.38097,
+        "longitude": 73.71607
+    },
+    {
+        "cityId": "8220920",
+        "name": "Nohiyai R\u016dshon",
+        "stateId": "1221692",
+        "latitude": 38.14663,
+        "longitude": 72.05467
+    },
+    {
+        "cityId": "8220923",
+        "name": "Nohiyai Shughnon",
+        "stateId": "1221692",
+        "latitude": 37.70004,
+        "longitude": 72.16748
+    }
+]

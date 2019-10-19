@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "1280931",
+        "name": "Jiuquan Shi",
+        "stateId": "1810676",
+        "latitude": 40.64879,
+        "longitude": 96.66479
+    },
+    {
+        "cityId": "1280956",
+        "name": "Jiayuguan Shi",
+        "stateId": "1810676",
+        "latitude": 39.83984,
+        "longitude": 98.23227
+    },
+    {
+        "cityId": "1785035",
+        "name": "Zhangye Shi",
+        "stateId": "1810676",
+        "latitude": 39.12183,
+        "longitude": 99.92495
+    },
+    {
+        "cityId": "1790930",
+        "name": "Wuwei Shi",
+        "stateId": "1810676",
+        "latitude": 38.00857,
+        "longitude": 103.12409
+    },
+    {
+        "cityId": "1792891",
+        "name": "Tianshui Shi",
+        "stateId": "1810676",
+        "latitude": 34.65222,
+        "longitude": 105.80699
+    },
+    {
+        "cityId": "1797652",
+        "name": "Qingyang Shi",
+        "stateId": "1810676",
+        "latitude": 36.23598,
+        "longitude": 107.58113
+    },
+    {
+        "cityId": "1798759",
+        "name": "Pingliang Shi",
+        "stateId": "1810676",
+        "latitude": 35.22678,
+        "longitude": 106.49565
+    },
+    {
+        "cityId": "1802494",
+        "name": "Longnan Shi",
+        "stateId": "1810676",
+        "latitude": 33.53451,
+        "longitude": 105.34947
+    },
+    {
+        "cityId": "1803330",
+        "name": "Linxia Huizu Zizhizhou",
+        "stateId": "1810676",
+        "latitude": 35.66597,
+        "longitude": 103.2408
+    },
+    {
+        "cityId": "1804429",
+        "name": "Lanzhou Shi",
+        "stateId": "1810676",
+        "latitude": 36.47444,
+        "longitude": 103.73322
+    },
+    {
+        "cityId": "1805747",
+        "name": "Jinchang Shi",
+        "stateId": "1810676",
+        "latitude": 38.44969,
+        "longitude": 102.05839
+    },
+    {
+        "cityId": "1810686",
+        "name": "Gannan Zangzu Zizhizhou",
+        "stateId": "1810676",
+        "latitude": 34.51779,
+        "longitude": 102.65909
+    },
+    {
+        "cityId": "1812743",
+        "name": "Dingxi Shi",
+        "stateId": "1810676",
+        "latitude": 35.0371,
+        "longitude": 104.38623
+    },
+    {
+        "cityId": "1817238",
+        "name": "Baiyin Shi",
+        "stateId": "1810676",
+        "latitude": 36.53646,
+        "longitude": 104.78495
+    }
+]

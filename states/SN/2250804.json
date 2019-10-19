@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2247158",
+        "name": "Nioro du Rip",
+        "stateId": "2250804",
+        "latitude": 13.73513,
+        "longitude": -15.83925
+    },
+    {
+        "cityId": "2250807",
+        "name": "Kaolack",
+        "stateId": "2250804",
+        "latitude": 14.05726,
+        "longitude": -16.07898
+    },
+    {
+        "cityId": "2251008",
+        "name": "Kaffrine Department",
+        "stateId": "2250804",
+        "latitude": 14.25,
+        "longitude": -15.25
+    },
+    {
+        "cityId": "10376918",
+        "name": "Birkilane Department",
+        "stateId": "2250804",
+        "latitude": 14.13333,
+        "longitude": -15.75
+    },
+    {
+        "cityId": "10778869",
+        "name": "D\u00e9partement de Guinguin\u00e9o",
+        "stateId": "2250804",
+        "latitude": 14.29886,
+        "longitude": -15.92072
+    }
+]

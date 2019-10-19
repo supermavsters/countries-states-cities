@@ -1,0 +1,499 @@
+[
+    {
+        "cityId": "1253407",
+        "name": "V\u0101r\u0101nasi",
+        "stateId": "1253626",
+        "latitude": 25.33333,
+        "longitude": 83
+    },
+    {
+        "cityId": "1253748",
+        "name": "Unn\u0101o",
+        "stateId": "1253626",
+        "latitude": 26.5,
+        "longitude": 80.5
+    },
+    {
+        "cityId": "1255497",
+        "name": "Sult\u0101npur",
+        "stateId": "1253626",
+        "latitude": 26.25,
+        "longitude": 82
+    },
+    {
+        "cityId": "1255971",
+        "name": "S\u012bt\u0101pur",
+        "stateId": "1253626",
+        "latitude": 27.5,
+        "longitude": 80.91667
+    },
+    {
+        "cityId": "1256729",
+        "name": "Sh\u0101hjah\u0101npur",
+        "stateId": "1253626",
+        "latitude": 28,
+        "longitude": 79.83333
+    },
+    {
+        "cityId": "1257807",
+        "name": "Sah\u0101ranpur",
+        "stateId": "1253626",
+        "latitude": 29.9,
+        "longitude": 77.68333
+    },
+    {
+        "cityId": "1258622",
+        "name": "R\u0101mpur",
+        "stateId": "1253626",
+        "latitude": 29,
+        "longitude": 79
+    },
+    {
+        "cityId": "1259065",
+        "name": "R\u0101e Bareli",
+        "stateId": "1253626",
+        "latitude": 26.25,
+        "longitude": 81.25
+    },
+    {
+        "cityId": "1259339",
+        "name": "Prat\u0101pgarh",
+        "stateId": "1253626",
+        "latitude": 25.75,
+        "longitude": 81.75
+    },
+    {
+        "cityId": "1259687",
+        "name": "P\u012bl\u012bbh\u012bt",
+        "stateId": "1253626",
+        "latitude": 28.55,
+        "longitude": 80.1
+    },
+    {
+        "cityId": "1262333",
+        "name": "Muzaffarnagar",
+        "stateId": "1253626",
+        "latitude": 29.45,
+        "longitude": 77.58333
+    },
+    {
+        "cityId": "1262802",
+        "name": "Mor\u0101d\u0101b\u0101d",
+        "stateId": "1253626",
+        "latitude": 28.78333,
+        "longitude": 78.56667
+    },
+    {
+        "cityId": "1262997",
+        "name": "Mirz\u0101pur",
+        "stateId": "1253626",
+        "latitude": 25.11462,
+        "longitude": 82.60895
+    },
+    {
+        "cityId": "1263215",
+        "name": "Meerut",
+        "stateId": "1253626",
+        "latitude": 28.91667,
+        "longitude": 77.68333
+    },
+    {
+        "cityId": "1263366",
+        "name": "Mathura",
+        "stateId": "1253626",
+        "latitude": 27.63333,
+        "longitude": 77.58333
+    },
+    {
+        "cityId": "1264293",
+        "name": "Mainpuri",
+        "stateId": "1253626",
+        "latitude": 27.16667,
+        "longitude": 79
+    },
+    {
+        "cityId": "1264734",
+        "name": "Lucknow District",
+        "stateId": "1253626",
+        "latitude": 26.75,
+        "longitude": 81
+    },
+    {
+        "cityId": "1265158",
+        "name": "Lalitpur",
+        "stateId": "1253626",
+        "latitude": 24.5,
+        "longitude": 78.5
+    },
+    {
+        "cityId": "1266768",
+        "name": "Kheri",
+        "stateId": "1253626",
+        "latitude": 28.11667,
+        "longitude": 80.71667
+    },
+    {
+        "cityId": "1267997",
+        "name": "K\u0101npur",
+        "stateId": "1253626",
+        "latitude": 26.38052,
+        "longitude": 80.21578
+    },
+    {
+        "cityId": "1269007",
+        "name": "Jh\u0101nsi",
+        "stateId": "1253626",
+        "latitude": 25.5,
+        "longitude": 78.5
+    },
+    {
+        "cityId": "1269136",
+        "name": "Jaunpur",
+        "stateId": "1253626",
+        "latitude": 25.75,
+        "longitude": 82.75
+    },
+    {
+        "cityId": "1269423",
+        "name": "J\u0101laun",
+        "stateId": "1253626",
+        "latitude": 26,
+        "longitude": 79.5
+    },
+    {
+        "cityId": "1270371",
+        "name": "Hardoi",
+        "stateId": "1253626",
+        "latitude": 27.41667,
+        "longitude": 80.25
+    },
+    {
+        "cityId": "1270457",
+        "name": "Ham\u012brpur",
+        "stateId": "1253626",
+        "latitude": 25.75,
+        "longitude": 80
+    },
+    {
+        "cityId": "1270930",
+        "name": "Gorakhpur",
+        "stateId": "1253626",
+        "latitude": 26.91667,
+        "longitude": 83.25
+    },
+    {
+        "cityId": "1270997",
+        "name": "Gonda",
+        "stateId": "1253626",
+        "latitude": 27.18581,
+        "longitude": 81.96693
+    },
+    {
+        "cityId": "1271307",
+        "name": "Gh\u0101z\u012bpur",
+        "stateId": "1253626",
+        "latitude": 25.5,
+        "longitude": 83.5
+    },
+    {
+        "cityId": "1271310",
+        "name": "Gh\u0101zi\u0101b\u0101d",
+        "stateId": "1253626",
+        "latitude": 28.66667,
+        "longitude": 77.66667
+    },
+    {
+        "cityId": "1271920",
+        "name": "Fatehpur",
+        "stateId": "1253626",
+        "latitude": 25.75,
+        "longitude": 80.75
+    },
+    {
+        "cityId": "1271943",
+        "name": "Farrukh\u0101b\u0101d",
+        "stateId": "1253626",
+        "latitude": 27.5,
+        "longitude": 79.5
+    },
+    {
+        "cityId": "1271977",
+        "name": "Faiz\u0101b\u0101d",
+        "stateId": "1253626",
+        "latitude": 26.75,
+        "longitude": 82
+    },
+    {
+        "cityId": "1271989",
+        "name": "Et\u0101wah",
+        "stateId": "1253626",
+        "latitude": 26.75,
+        "longitude": 79.25
+    },
+    {
+        "cityId": "1271993",
+        "name": "Etah",
+        "stateId": "1253626",
+        "latitude": 27.5,
+        "longitude": 78.75
+    },
+    {
+        "cityId": "1273196",
+        "name": "Deoria",
+        "stateId": "1253626",
+        "latitude": 26.66667,
+        "longitude": 83.75
+    },
+    {
+        "cityId": "1275121",
+        "name": "Bulandshahr",
+        "stateId": "1253626",
+        "latitude": 28.41667,
+        "longitude": 77.83333
+    },
+    {
+        "cityId": "1275164",
+        "name": "Budaun",
+        "stateId": "1253626",
+        "latitude": 28.11667,
+        "longitude": 78.98333
+    },
+    {
+        "cityId": "1275680",
+        "name": "Bijnor",
+        "stateId": "1253626",
+        "latitude": 29.41667,
+        "longitude": 78.51667
+    },
+    {
+        "cityId": "1276737",
+        "name": "Basti",
+        "stateId": "1253626",
+        "latitude": 26.82816,
+        "longitude": 82.77924
+    },
+    {
+        "cityId": "1277014",
+        "name": "Bareilly",
+        "stateId": "1253626",
+        "latitude": 28.41667,
+        "longitude": 79.38333
+    },
+    {
+        "cityId": "1277159",
+        "name": "B\u0101ra Banki",
+        "stateId": "1253626",
+        "latitude": 26.93864,
+        "longitude": 81.3274
+    },
+    {
+        "cityId": "1277400",
+        "name": "B\u0101nda",
+        "stateId": "1253626",
+        "latitude": 25.5,
+        "longitude": 80.5
+    },
+    {
+        "cityId": "1277553",
+        "name": "Ballia",
+        "stateId": "1253626",
+        "latitude": 25.83333,
+        "longitude": 84.16667
+    },
+    {
+        "cityId": "1277800",
+        "name": "Bahraich",
+        "stateId": "1253626",
+        "latitude": 27.80021,
+        "longitude": 81.51855
+    },
+    {
+        "cityId": "1278084",
+        "name": "\u0100zamgarh",
+        "stateId": "1253626",
+        "latitude": 26,
+        "longitude": 83
+    },
+    {
+        "cityId": "1278995",
+        "name": "Allah\u0101b\u0101d",
+        "stateId": "1253626",
+        "latitude": 25.42012,
+        "longitude": 81.88385
+    },
+    {
+        "cityId": "1279020",
+        "name": "Al\u012bgarh",
+        "stateId": "1253626",
+        "latitude": 27.83333,
+        "longitude": 78.16667
+    },
+    {
+        "cityId": "1279262",
+        "name": "\u0100gra",
+        "stateId": "1253626",
+        "latitude": 27.08333,
+        "longitude": 77.96667
+    },
+    {
+        "cityId": "7626227",
+        "name": "Shrawasti",
+        "stateId": "1253626",
+        "latitude": 27.50746,
+        "longitude": 82.0047
+    },
+    {
+        "cityId": "7626228",
+        "name": "Siddharthangar",
+        "stateId": "1253626",
+        "latitude": 27.25797,
+        "longitude": 83.01465
+    },
+    {
+        "cityId": "7626229",
+        "name": "Kushinagar",
+        "stateId": "1253626",
+        "latitude": 26.74028,
+        "longitude": 83.88889
+    },
+    {
+        "cityId": "7729743",
+        "name": "Ambedkar Nagar",
+        "stateId": "1253626",
+        "latitude": 26.40544,
+        "longitude": 82.69762
+    },
+    {
+        "cityId": "7729744",
+        "name": "Auraiya",
+        "stateId": "1253626",
+        "latitude": 26.64692,
+        "longitude": 79.42858
+    },
+    {
+        "cityId": "7729745",
+        "name": "Balrampur",
+        "stateId": "1253626",
+        "latitude": 27.43449,
+        "longitude": 82.40281
+    },
+    {
+        "cityId": "7729747",
+        "name": "Kanpur Dehat",
+        "stateId": "1253626",
+        "latitude": 26.41506,
+        "longitude": 79.98957
+    },
+    {
+        "cityId": "7729749",
+        "name": "Maharajganj",
+        "stateId": "1253626",
+        "latitude": 27.16945,
+        "longitude": 83.50667
+    },
+    {
+        "cityId": "7729750",
+        "name": "Mau",
+        "stateId": "1253626",
+        "latitude": 26.0294,
+        "longitude": 83.50756
+    },
+    {
+        "cityId": "7729751",
+        "name": "Sant Ravi Das Nagar",
+        "stateId": "1253626",
+        "latitude": 25.35792,
+        "longitude": 82.4308
+    },
+    {
+        "cityId": "7874389",
+        "name": "Firozabad",
+        "stateId": "1253626",
+        "latitude": 27.20072,
+        "longitude": 78.42867
+    },
+    {
+        "cityId": "7902634",
+        "name": "Kannauj",
+        "stateId": "1253626",
+        "latitude": 27.0177,
+        "longitude": 79.67846
+    },
+    {
+        "cityId": "9072745",
+        "name": "Kaushambi District",
+        "stateId": "1253626",
+        "latitude": 25.53074,
+        "longitude": 81.37729
+    },
+    {
+        "cityId": "9072781",
+        "name": "Baghpat",
+        "stateId": "1253626",
+        "latitude": 28.95,
+        "longitude": 77.2167
+    },
+    {
+        "cityId": "9072783",
+        "name": "Jyotiba Phule Nagar",
+        "stateId": "1253626",
+        "latitude": 28.7716,
+        "longitude": 78.33871
+    },
+    {
+        "cityId": "9072784",
+        "name": "Gautam Buddha Nagar",
+        "stateId": "1253626",
+        "latitude": 28.35898,
+        "longitude": 77.55076
+    },
+    {
+        "cityId": "9072787",
+        "name": "Mahoba",
+        "stateId": "1253626",
+        "latitude": 25.2921,
+        "longitude": 79.87242
+    },
+    {
+        "cityId": "9072788",
+        "name": "Chitrakoot",
+        "stateId": "1253626",
+        "latitude": 25.20511,
+        "longitude": 81.08962
+    },
+    {
+        "cityId": "9072811",
+        "name": "Chandauli District",
+        "stateId": "1253626",
+        "latitude": 25.26134,
+        "longitude": 83.26408
+    },
+    {
+        "cityId": "9747974",
+        "name": "Hathras",
+        "stateId": "1253626",
+        "latitude": 27.57759,
+        "longitude": 78.16158
+    },
+    {
+        "cityId": "9747992",
+        "name": "Kasganj",
+        "stateId": "1253626",
+        "latitude": 27.77722,
+        "longitude": 78.84537
+    },
+    {
+        "cityId": "9748013",
+        "name": "Sonbhadra",
+        "stateId": "1253626",
+        "latitude": 24.40212,
+        "longitude": 83.05352
+    },
+    {
+        "cityId": "9748030",
+        "name": "Sant Kabir Nagar",
+        "stateId": "1253626",
+        "latitude": 26.79016,
+        "longitude": 83.03481
+    }
+]

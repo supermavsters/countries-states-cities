@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "3545978",
+        "name": "Municipio de Niquero",
+        "stateId": "3558052",
+        "latitude": 20.05,
+        "longitude": -77.58333
+    },
+    {
+        "cityId": "3547864",
+        "name": "Municipio de Manzanillo",
+        "stateId": "3558052",
+        "latitude": 20.35,
+        "longitude": -77.11667
+    },
+    {
+        "cityId": "3556166",
+        "name": "Municipio de Jiguan\u00ed",
+        "stateId": "3558052",
+        "latitude": 20.36667,
+        "longitude": -76.43333
+    },
+    {
+        "cityId": "3565950",
+        "name": "Municipio de Campechuela",
+        "stateId": "3558052",
+        "latitude": 20.23333,
+        "longitude": -77.28333
+    },
+    {
+        "cityId": "3567595",
+        "name": "Municipio de Bayamo",
+        "stateId": "3558052",
+        "latitude": 20.38333,
+        "longitude": -76.65
+    },
+    {
+        "cityId": "11287710",
+        "name": "Municipio de R\u00edo Cauto",
+        "stateId": "3558052",
+        "latitude": 20.56361,
+        "longitude": -76.91722
+    },
+    {
+        "cityId": "11288196",
+        "name": "Bartolome Maso",
+        "stateId": "3558052",
+        "latitude": 20.16615,
+        "longitude": -76.94584
+    },
+    {
+        "cityId": "11288210",
+        "name": "Buey Arriba",
+        "stateId": "3558052",
+        "latitude": 20.17363,
+        "longitude": -76.75899
+    },
+    {
+        "cityId": "11288211",
+        "name": "Cauto Cristo",
+        "stateId": "3558052",
+        "latitude": 20.55608,
+        "longitude": -76.47055
+    },
+    {
+        "cityId": "11288218",
+        "name": "Guisa",
+        "stateId": "3558052",
+        "latitude": 20.25425,
+        "longitude": -76.53956
+    },
+    {
+        "cityId": "11288219",
+        "name": "Media Luna",
+        "stateId": "3558052",
+        "latitude": 20.14257,
+        "longitude": -77.43194
+    },
+    {
+        "cityId": "11288220",
+        "name": "Pilon",
+        "stateId": "3558052",
+        "latitude": 19.90342,
+        "longitude": -77.32487
+    },
+    {
+        "cityId": "11288221",
+        "name": "Yara",
+        "stateId": "3558052",
+        "latitude": 20.27329,
+        "longitude": -76.95425
+    }
+]

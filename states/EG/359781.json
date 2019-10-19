@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "358267",
+        "name": "Markaz Dayr\u016b\u0163",
+        "stateId": "359781",
+        "latitude": 27.52813,
+        "longitude": 30.7837
+    },
+    {
+        "cityId": "359782",
+        "name": "Markaz Asy\u016b\u0163",
+        "stateId": "359781",
+        "latitude": 27.16166,
+        "longitude": 31.13141
+    },
+    {
+        "cityId": "360527",
+        "name": "Markaz al Q\u016b\u015f\u012byah",
+        "stateId": "359781",
+        "latitude": 27.38969,
+        "longitude": 30.81525
+    },
+    {
+        "cityId": "361479",
+        "name": "Markaz al Bad\u0101r\u012b",
+        "stateId": "359781",
+        "latitude": 26.93623,
+        "longitude": 31.45189
+    },
+    {
+        "cityId": "362003",
+        "name": "Markaz Ab\u016b T\u012bj",
+        "stateId": "359781",
+        "latitude": 27.0255,
+        "longitude": 31.2795
+    },
+    {
+        "cityId": "10371124",
+        "name": "Markaz al Fat\u1e29",
+        "stateId": "359781",
+        "latitude": 27.1968,
+        "longitude": 31.20437
+    },
+    {
+        "cityId": "10371125",
+        "name": "Markaz al Ghan\u0101yim",
+        "stateId": "359781",
+        "latitude": 26.90331,
+        "longitude": 31.31788
+    },
+    {
+        "cityId": "10371126",
+        "name": "Markaz as S\u0101\u1e29il",
+        "stateId": "359781",
+        "latitude": 27.06924,
+        "longitude": 31.33517
+    }
+]

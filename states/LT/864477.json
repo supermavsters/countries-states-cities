@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "598313",
+        "name": "Kauno rajonas",
+        "stateId": "864477",
+        "latitude": 54.9241,
+        "longitude": 23.96145
+    },
+    {
+        "cityId": "598318",
+        "name": "Kaunas",
+        "stateId": "864477",
+        "latitude": 54.89816,
+        "longitude": 23.90659
+    },
+    {
+        "cityId": "600444",
+        "name": "Bir\u0161tonas",
+        "stateId": "864477",
+        "latitude": 54.61667,
+        "longitude": 24.03333
+    },
+    {
+        "cityId": "864488",
+        "name": "Jonava",
+        "stateId": "864477",
+        "latitude": 55.08333,
+        "longitude": 24.28333
+    },
+    {
+        "cityId": "864489",
+        "name": "Kai\u0161iadorys",
+        "stateId": "864477",
+        "latitude": 54.86667,
+        "longitude": 24.45
+    },
+    {
+        "cityId": "864490",
+        "name": "K\u0117dainiai",
+        "stateId": "864477",
+        "latitude": 55.28333,
+        "longitude": 23.96667
+    },
+    {
+        "cityId": "864491",
+        "name": "Prienai",
+        "stateId": "864477",
+        "latitude": 54.63333,
+        "longitude": 23.95
+    },
+    {
+        "cityId": "864492",
+        "name": "Raseiniai",
+        "stateId": "864477",
+        "latitude": 55.36667,
+        "longitude": 23.11667
+    }
+]

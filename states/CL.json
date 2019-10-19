@@ -1,0 +1,107 @@
+[
+    {
+        "stateId": "3900333",
+        "name": "Regi\u00f3n Ays\u00e9n",
+        "countryId": "3895114",
+        "latitude": -46.5,
+        "longitude": -73.5
+    },
+    {
+        "stateId": "3873544",
+        "name": "Regi\u00f3n Metropolitana",
+        "countryId": "3895114",
+        "latitude": -33.47269,
+        "longitude": -70.64724
+    },
+    {
+        "stateId": "3899537",
+        "name": "Regi\u00f3n de Antofagasta",
+        "countryId": "3895114",
+        "latitude": -23.5,
+        "longitude": -69
+    },
+    {
+        "stateId": "6693562",
+        "name": "Regi\u00f3n de Arica y Parinacota",
+        "countryId": "3895114",
+        "latitude": -18.57336,
+        "longitude": -69.46106
+    },
+    {
+        "stateId": "3899191",
+        "name": "Regi\u00f3n de Atacama",
+        "countryId": "3895114",
+        "latitude": -27.5,
+        "longitude": -70
+    },
+    {
+        "stateId": "3893623",
+        "name": "Regi\u00f3n de Coquimbo",
+        "countryId": "3895114",
+        "latitude": -30.75,
+        "longitude": -71
+    },
+    {
+        "stateId": "4036650",
+        "name": "Regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena",
+        "countryId": "3895114",
+        "latitude": -52.50026,
+        "longitude": -73.00067
+    },
+    {
+        "stateId": "3870116",
+        "name": "Regi\u00f3n de Tarapac\u00e1",
+        "countryId": "3895114",
+        "latitude": -20,
+        "longitude": -69.33333
+    },
+    {
+        "stateId": "3868621",
+        "name": "Regi\u00f3n de Valpara\u00edso",
+        "countryId": "3895114",
+        "latitude": -32.75,
+        "longitude": -71.33333
+    },
+    {
+        "stateId": "3899463",
+        "name": "Regi\u00f3n de la Araucan\u00eda",
+        "countryId": "3895114",
+        "latitude": -38.5,
+        "longitude": -72
+    },
+    {
+        "stateId": "3881974",
+        "name": "Regi\u00f3n de los Lagos",
+        "countryId": "3895114",
+        "latitude": -42.59889,
+        "longitude": -73.96048
+    },
+    {
+        "stateId": "6693563",
+        "name": "Regi\u00f3n de los R\u00edos",
+        "countryId": "3895114",
+        "latitude": -40.01499,
+        "longitude": -72.51526
+    },
+    {
+        "stateId": "3898380",
+        "name": "Regi\u00f3n del Biob\u00edo",
+        "countryId": "3895114",
+        "latitude": -37,
+        "longitude": -72.5
+    },
+    {
+        "stateId": "3883281",
+        "name": "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins",
+        "countryId": "3895114",
+        "latitude": -34.5,
+        "longitude": -71
+    },
+    {
+        "stateId": "3880306",
+        "name": "Regi\u00f3n del Maule",
+        "countryId": "3895114",
+        "latitude": -35.5,
+        "longitude": -71.5
+    }
+]

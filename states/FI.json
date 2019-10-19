@@ -1,0 +1,128 @@
+[
+    {
+        "stateId": "830699",
+        "name": "Etel\u00e4-Karjala",
+        "countryId": "660013",
+        "latitude": 60.96667,
+        "longitude": 28.16667
+    },
+    {
+        "stateId": "830682",
+        "name": "Etel\u00e4-Pohjanmaa",
+        "countryId": "660013",
+        "latitude": 62.75,
+        "longitude": 23
+    },
+    {
+        "stateId": "830664",
+        "name": "Kainuu",
+        "countryId": "660013",
+        "latitude": 64.5,
+        "longitude": 28.5
+    },
+    {
+        "stateId": "830705",
+        "name": "Kanta-H\u00e4me",
+        "countryId": "660013",
+        "latitude": 60.91667,
+        "longitude": 24.33333
+    },
+    {
+        "stateId": "830675",
+        "name": "Keski-Pohjanmaa",
+        "countryId": "660013",
+        "latitude": 63.58333,
+        "longitude": 24.08333
+    },
+    {
+        "stateId": "830685",
+        "name": "Keski-Suomi",
+        "countryId": "660013",
+        "latitude": 62.5,
+        "longitude": 25.5
+    },
+    {
+        "stateId": "830703",
+        "name": "Kymenlaakso",
+        "countryId": "660013",
+        "latitude": 60.83333,
+        "longitude": 26.91667
+    },
+    {
+        "stateId": "830603",
+        "name": "Lapland",
+        "countryId": "660013",
+        "latitude": 67.75,
+        "longitude": 26.5
+    },
+    {
+        "stateId": "830704",
+        "name": "Pirkanmaa",
+        "countryId": "660013",
+        "latitude": 61.7,
+        "longitude": 23.71667
+    },
+    {
+        "stateId": "830676",
+        "name": "Pohjanmaa",
+        "countryId": "660013",
+        "latitude": 63.08333,
+        "longitude": 22.16667
+    },
+    {
+        "stateId": "830686",
+        "name": "Pohjois-Karjala",
+        "countryId": "660013",
+        "latitude": 62.83333,
+        "longitude": 29.91667
+    },
+    {
+        "stateId": "830667",
+        "name": "Pohjois-Pohjanmaa",
+        "countryId": "660013",
+        "latitude": 65,
+        "longitude": 26.41667
+    },
+    {
+        "stateId": "830690",
+        "name": "Pohjois-Savo",
+        "countryId": "660013",
+        "latitude": 63.16667,
+        "longitude": 27.5
+    },
+    {
+        "stateId": "831040",
+        "name": "P\u00e4ij\u00e4nne-Tavastland",
+        "countryId": "660013",
+        "latitude": 61.25,
+        "longitude": 25.83333
+    },
+    {
+        "stateId": "831041",
+        "name": "Satakunta",
+        "countryId": "660013",
+        "latitude": 61.5,
+        "longitude": 22.16667
+    },
+    {
+        "stateId": "830695",
+        "name": "Southern Savonia",
+        "countryId": "660013",
+        "latitude": 61.75,
+        "longitude": 27.83333
+    },
+    {
+        "stateId": "830709",
+        "name": "Uusimaa",
+        "countryId": "660013",
+        "latitude": 60.41667,
+        "longitude": 24.75
+    },
+    {
+        "stateId": "830708",
+        "name": "Varsinais-Suomi",
+        "countryId": "660013",
+        "latitude": 60.5,
+        "longitude": 22.25
+    }
+]

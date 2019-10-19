@@ -1,0 +1,65 @@
+[
+    {
+        "stateId": "2400682",
+        "name": "Estuaire",
+        "countryId": "2400553",
+        "latitude": 0.3,
+        "longitude": 10.03333
+    },
+    {
+        "stateId": "2397466",
+        "name": "Province de la Ngouni\u00e9",
+        "countryId": "2400553",
+        "latitude": -1.63333,
+        "longitude": 11.16667
+    },
+    {
+        "stateId": "2397141",
+        "name": "Province de la Nyanga",
+        "countryId": "2400553",
+        "latitude": -3,
+        "longitude": 11
+    },
+    {
+        "stateId": "2396926",
+        "name": "Province de l\u2019Ogoou\u00e9-Ivindo",
+        "countryId": "2400553",
+        "latitude": 0.66667,
+        "longitude": 12.83333
+    },
+    {
+        "stateId": "2396925",
+        "name": "Province de l\u2019Ogoou\u00e9-Lolo",
+        "countryId": "2400553",
+        "latitude": -0.83333,
+        "longitude": 12.66667
+    },
+    {
+        "stateId": "2396924",
+        "name": "Province de l\u2019Ogoou\u00e9-Maritime",
+        "countryId": "2400553",
+        "latitude": -1.58333,
+        "longitude": 9.58333
+    },
+    {
+        "stateId": "2400454",
+        "name": "Province du Haut-Ogoou\u00e9",
+        "countryId": "2400553",
+        "latitude": -1.3,
+        "longitude": 13.9
+    },
+    {
+        "stateId": "2397842",
+        "name": "Province du Moyen-Ogoou\u00e9",
+        "countryId": "2400553",
+        "latitude": -0.41667,
+        "longitude": 10.58333
+    },
+    {
+        "stateId": "2396076",
+        "name": "Province du Woleu-Ntem",
+        "countryId": "2400553",
+        "latitude": 1.5,
+        "longitude": 12
+    }
+]

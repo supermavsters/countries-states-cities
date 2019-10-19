@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "90148",
+        "name": "Tikrit District",
+        "stateId": "91695",
+        "latitude": 34.75,
+        "longitude": 43.65
+    },
+    {
+        "cityId": "91594",
+        "name": "Qa\u1e11\u0101\u2019 S\u0101marr\u0101\u2019",
+        "stateId": "91695",
+        "latitude": 34.26114,
+        "longitude": 43.40597
+    },
+    {
+        "cityId": "6783103",
+        "name": "Al-Daur District",
+        "stateId": "91695",
+        "latitude": 34.46188,
+        "longitude": 43.80792
+    },
+    {
+        "cityId": "6804454",
+        "name": "Al-Shirqat District",
+        "stateId": "91695",
+        "latitude": 35.5292,
+        "longitude": 43.21998
+    },
+    {
+        "cityId": "6805736",
+        "name": "Balad District",
+        "stateId": "91695",
+        "latitude": 33.99613,
+        "longitude": 44.13826
+    },
+    {
+        "cityId": "6872046",
+        "name": "Baiji District",
+        "stateId": "91695",
+        "latitude": 34.9296,
+        "longitude": 43.49316
+    },
+    {
+        "cityId": "9166598",
+        "name": "Tooz District",
+        "stateId": "91695",
+        "latitude": 34.84145,
+        "longitude": 44.63144
+    },
+    {
+        "cityId": "9166616",
+        "name": "Al-Faris",
+        "stateId": "91695",
+        "latitude": 33.84652,
+        "longitude": 44.20117
+    },
+    {
+        "cityId": "9167093",
+        "name": "Al-Thethar District",
+        "stateId": "91695",
+        "latitude": 33.97279,
+        "longitude": 43.5498
+    }
+]

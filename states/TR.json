@@ -1,0 +1,569 @@
+[
+    {
+        "stateId": "325361",
+        "name": "Adana",
+        "countryId": "298795",
+        "latitude": 36.985,
+        "longitude": 35.28809
+    },
+    {
+        "stateId": "325329",
+        "name": "Ad\u0131yaman",
+        "countryId": "298795",
+        "latitude": 37.75,
+        "longitude": 38.25
+    },
+    {
+        "stateId": "325302",
+        "name": "Afyonkarahisar",
+        "countryId": "298795",
+        "latitude": 38.75,
+        "longitude": 30.66667
+    },
+    {
+        "stateId": "443185",
+        "name": "Aksaray",
+        "countryId": "298795",
+        "latitude": 38.36503,
+        "longitude": 34.0142
+    },
+    {
+        "stateId": "752014",
+        "name": "Amasya",
+        "countryId": "298795",
+        "latitude": 40.72619,
+        "longitude": 35.8867
+    },
+    {
+        "stateId": "323784",
+        "name": "Ankara",
+        "countryId": "298795",
+        "latitude": 39.92063,
+        "longitude": 32.85403
+    },
+    {
+        "stateId": "323776",
+        "name": "Antalya",
+        "countryId": "298795",
+        "latitude": 36.76984,
+        "longitude": 31.90215
+    },
+    {
+        "stateId": "862470",
+        "name": "Ardahan",
+        "countryId": "298795",
+        "latitude": 41.08333,
+        "longitude": 42.83333
+    },
+    {
+        "stateId": "751816",
+        "name": "Artvin",
+        "countryId": "298795",
+        "latitude": 41.16667,
+        "longitude": 41.83333
+    },
+    {
+        "stateId": "322819",
+        "name": "Ayd\u0131n",
+        "countryId": "298795",
+        "latitude": 37.75,
+        "longitude": 28
+    },
+    {
+        "stateId": "325163",
+        "name": "A\u011fr\u0131",
+        "countryId": "298795",
+        "latitude": 39.66667,
+        "longitude": 43.16667
+    },
+    {
+        "stateId": "322164",
+        "name": "Bal\u0131kesir",
+        "countryId": "298795",
+        "latitude": 39.75,
+        "longitude": 28
+    },
+    {
+        "stateId": "862467",
+        "name": "Bart\u0131n",
+        "countryId": "298795",
+        "latitude": 41.58333,
+        "longitude": 32.5
+    },
+    {
+        "stateId": "443186",
+        "name": "Batman",
+        "countryId": "298795",
+        "latitude": 38,
+        "longitude": 41.33333
+    },
+    {
+        "stateId": "862471",
+        "name": "Bayburt",
+        "countryId": "298795",
+        "latitude": 40.25,
+        "longitude": 40.25
+    },
+    {
+        "stateId": "321122",
+        "name": "Bilecik",
+        "countryId": "298795",
+        "latitude": 40,
+        "longitude": 30.16667
+    },
+    {
+        "stateId": "321079",
+        "name": "Bing\u00f6l",
+        "countryId": "298795",
+        "latitude": 39.08333,
+        "longitude": 40.83333
+    },
+    {
+        "stateId": "321022",
+        "name": "Bitlis",
+        "countryId": "298795",
+        "latitude": 38.34201,
+        "longitude": 42.39134
+    },
+    {
+        "stateId": "750510",
+        "name": "Bolu",
+        "countryId": "298795",
+        "latitude": 40.64131,
+        "longitude": 31.58216
+    },
+    {
+        "stateId": "320390",
+        "name": "Burdur",
+        "countryId": "298795",
+        "latitude": 37.5,
+        "longitude": 30
+    },
+    {
+        "stateId": "750268",
+        "name": "Bursa",
+        "countryId": "298795",
+        "latitude": 40.16667,
+        "longitude": 29.08333
+    },
+    {
+        "stateId": "317106",
+        "name": "Denizli",
+        "countryId": "298795",
+        "latitude": 37.84016,
+        "longitude": 29.06982
+    },
+    {
+        "stateId": "316540",
+        "name": "Diyarbak\u0131r",
+        "countryId": "298795",
+        "latitude": 37.96152,
+        "longitude": 40.23193
+    },
+    {
+        "stateId": "865521",
+        "name": "D\u00fczce",
+        "countryId": "298795",
+        "latitude": 40.83333,
+        "longitude": 31.16667
+    },
+    {
+        "stateId": "747711",
+        "name": "Edirne",
+        "countryId": "298795",
+        "latitude": 41.25,
+        "longitude": 26.66667
+    },
+    {
+        "stateId": "315807",
+        "name": "Elaz\u0131\u011f",
+        "countryId": "298795",
+        "latitude": 38.73695,
+        "longitude": 39.17725
+    },
+    {
+        "stateId": "315372",
+        "name": "Erzincan",
+        "countryId": "298795",
+        "latitude": 39.75,
+        "longitude": 39.5
+    },
+    {
+        "stateId": "315367",
+        "name": "Erzurum",
+        "countryId": "298795",
+        "latitude": 40,
+        "longitude": 41.5
+    },
+    {
+        "stateId": "315201",
+        "name": "Eski\u015fehir",
+        "countryId": "298795",
+        "latitude": 39.66667,
+        "longitude": 31.16667
+    },
+    {
+        "stateId": "314829",
+        "name": "Gaziantep",
+        "countryId": "298795",
+        "latitude": 37.08333,
+        "longitude": 37.33333
+    },
+    {
+        "stateId": "746878",
+        "name": "Giresun",
+        "countryId": "298795",
+        "latitude": 40.5,
+        "longitude": 38.5
+    },
+    {
+        "stateId": "746423",
+        "name": "G\u00fcm\u00fc\u015fhane",
+        "countryId": "298795",
+        "latitude": 40.25,
+        "longitude": 39.58333
+    },
+    {
+        "stateId": "312888",
+        "name": "Hakkari",
+        "countryId": "298795",
+        "latitude": 37.58333,
+        "longitude": 44.16667
+    },
+    {
+        "stateId": "312394",
+        "name": "Hatay",
+        "countryId": "298795",
+        "latitude": 36.5,
+        "longitude": 36.25
+    },
+    {
+        "stateId": "311071",
+        "name": "Isparta",
+        "countryId": "298795",
+        "latitude": 38,
+        "longitude": 31
+    },
+    {
+        "stateId": "443184",
+        "name": "I\u011fd\u0131r",
+        "countryId": "298795",
+        "latitude": 39.91667,
+        "longitude": 44
+    },
+    {
+        "stateId": "310858",
+        "name": "Kahramanmara\u015f",
+        "countryId": "298795",
+        "latitude": 38,
+        "longitude": 37
+    },
+    {
+        "stateId": "862468",
+        "name": "Karab\u00fck",
+        "countryId": "298795",
+        "latitude": 41.25,
+        "longitude": 32.5
+    },
+    {
+        "stateId": "443187",
+        "name": "Karaman",
+        "countryId": "298795",
+        "latitude": 37.08333,
+        "longitude": 33.25
+    },
+    {
+        "stateId": "743942",
+        "name": "Kars",
+        "countryId": "298795",
+        "latitude": 40.41667,
+        "longitude": 43.08333
+    },
+    {
+        "stateId": "743881",
+        "name": "Kastamonu",
+        "countryId": "298795",
+        "latitude": 41.5,
+        "longitude": 33.66667
+    },
+    {
+        "stateId": "308463",
+        "name": "Kayseri",
+        "countryId": "298795",
+        "latitude": 38.73695,
+        "longitude": 35.49683
+    },
+    {
+        "stateId": "443213",
+        "name": "Kilis",
+        "countryId": "298795",
+        "latitude": 36.73,
+        "longitude": 37.14
+    },
+    {
+        "stateId": "742865",
+        "name": "Kocaeli",
+        "countryId": "298795",
+        "latitude": 40.91667,
+        "longitude": 29.91667
+    },
+    {
+        "stateId": "306569",
+        "name": "Konya",
+        "countryId": "298795",
+        "latitude": 38.16667,
+        "longitude": 32.5
+    },
+    {
+        "stateId": "305267",
+        "name": "K\u00fctahya",
+        "countryId": "298795",
+        "latitude": 39.25,
+        "longitude": 29.5
+    },
+    {
+        "stateId": "743165",
+        "name": "K\u0131rklareli",
+        "countryId": "298795",
+        "latitude": 41.66667,
+        "longitude": 27.5
+    },
+    {
+        "stateId": "443188",
+        "name": "K\u0131r\u0131kkale",
+        "countryId": "298795",
+        "latitude": 39.83333,
+        "longitude": 33.75
+    },
+    {
+        "stateId": "307513",
+        "name": "K\u0131r\u015fehir",
+        "countryId": "298795",
+        "latitude": 39.33333,
+        "longitude": 34.16667
+    },
+    {
+        "stateId": "304919",
+        "name": "Malatya",
+        "countryId": "298795",
+        "latitude": 38.5,
+        "longitude": 38
+    },
+    {
+        "stateId": "304825",
+        "name": "Manisa",
+        "countryId": "298795",
+        "latitude": 38.83333,
+        "longitude": 28.16667
+    },
+    {
+        "stateId": "304794",
+        "name": "Mardin",
+        "countryId": "298795",
+        "latitude": 37.31775,
+        "longitude": 40.71533
+    },
+    {
+        "stateId": "311728",
+        "name": "Mersin",
+        "countryId": "298795",
+        "latitude": 36.86204,
+        "longitude": 34.65088
+    },
+    {
+        "stateId": "304183",
+        "name": "Mu\u011fla",
+        "countryId": "298795",
+        "latitude": 37.23033,
+        "longitude": 28.35571
+    },
+    {
+        "stateId": "304041",
+        "name": "Mu\u015f",
+        "countryId": "298795",
+        "latitude": 39,
+        "longitude": 41.75
+    },
+    {
+        "stateId": "303830",
+        "name": "Nev\u015fehir",
+        "countryId": "298795",
+        "latitude": 38.91667,
+        "longitude": 34.66667
+    },
+    {
+        "stateId": "303826",
+        "name": "Ni\u011fde",
+        "countryId": "298795",
+        "latitude": 37.83333,
+        "longitude": 34.75
+    },
+    {
+        "stateId": "741098",
+        "name": "Ordu",
+        "countryId": "298795",
+        "latitude": 40.90858,
+        "longitude": 37.68448
+    },
+    {
+        "stateId": "443183",
+        "name": "Osmaniye",
+        "countryId": "298795",
+        "latitude": 37.23525,
+        "longitude": 36.24596
+    },
+    {
+        "stateId": "740481",
+        "name": "Rize",
+        "countryId": "298795",
+        "latitude": 40.90443,
+        "longitude": 40.89489
+    },
+    {
+        "stateId": "740352",
+        "name": "Sakarya",
+        "countryId": "298795",
+        "latitude": 40.75,
+        "longitude": 30.58333
+    },
+    {
+        "stateId": "740263",
+        "name": "Samsun",
+        "countryId": "298795",
+        "latitude": 41.25,
+        "longitude": 36.33333
+    },
+    {
+        "stateId": "300821",
+        "name": "Siirt",
+        "countryId": "298795",
+        "latitude": 37.96152,
+        "longitude": 41.9458
+    },
+    {
+        "stateId": "739598",
+        "name": "Sinop",
+        "countryId": "298795",
+        "latitude": 41.77106,
+        "longitude": 34.87095
+    },
+    {
+        "stateId": "300617",
+        "name": "Sivas",
+        "countryId": "298795",
+        "latitude": 39.79165,
+        "longitude": 37.00195
+    },
+    {
+        "stateId": "738926",
+        "name": "Tekirda\u011f",
+        "countryId": "298795",
+        "latitude": 41,
+        "longitude": 27.5
+    },
+    {
+        "stateId": "738742",
+        "name": "Tokat",
+        "countryId": "298795",
+        "latitude": 40.41667,
+        "longitude": 36.58333
+    },
+    {
+        "stateId": "738647",
+        "name": "Trabzon",
+        "countryId": "298795",
+        "latitude": 40.86946,
+        "longitude": 39.81255
+    },
+    {
+        "stateId": "298845",
+        "name": "Tunceli",
+        "countryId": "298795",
+        "latitude": 39.10711,
+        "longitude": 39.54749
+    },
+    {
+        "stateId": "298298",
+        "name": "U\u015fak",
+        "countryId": "298795",
+        "latitude": 38.5,
+        "longitude": 29.41667
+    },
+    {
+        "stateId": "298113",
+        "name": "Van",
+        "countryId": "298795",
+        "latitude": 38.40736,
+        "longitude": 43.71779
+    },
+    {
+        "stateId": "862469",
+        "name": "Yalova",
+        "countryId": "298795",
+        "latitude": 40.58333,
+        "longitude": 29.16667
+    },
+    {
+        "stateId": "296560",
+        "name": "Yozgat",
+        "countryId": "298795",
+        "latitude": 39.58333,
+        "longitude": 35.33333
+    },
+    {
+        "stateId": "737021",
+        "name": "Zonguldak",
+        "countryId": "298795",
+        "latitude": 41.25,
+        "longitude": 31.83333
+    },
+    {
+        "stateId": "749778",
+        "name": "\u00c7anakkale",
+        "countryId": "298795",
+        "latitude": 40.08333,
+        "longitude": 26.83333
+    },
+    {
+        "stateId": "749747",
+        "name": "\u00c7ank\u0131r\u0131",
+        "countryId": "298795",
+        "latitude": 40.66667,
+        "longitude": 33.41667
+    },
+    {
+        "stateId": "748877",
+        "name": "\u00c7orum",
+        "countryId": "298795",
+        "latitude": 40.5,
+        "longitude": 34.75
+    },
+    {
+        "stateId": "745042",
+        "name": "\u0130stanbul",
+        "countryId": "298795",
+        "latitude": 41.03508,
+        "longitude": 28.98331
+    },
+    {
+        "stateId": "311044",
+        "name": "\u0130zmir",
+        "countryId": "298795",
+        "latitude": 38.46219,
+        "longitude": 27.09229
+    },
+    {
+        "stateId": "298332",
+        "name": "\u015eanl\u0131urfa",
+        "countryId": "298795",
+        "latitude": 37.21283,
+        "longitude": 38.78174
+    },
+    {
+        "stateId": "443189",
+        "name": "\u015e\u0131rnak",
+        "countryId": "298795",
+        "latitude": 37.5,
+        "longitude": 42.5
+    }
+]

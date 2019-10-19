@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3496332",
+        "name": "Moca",
+        "stateId": "3505867",
+        "latitude": 19.5,
+        "longitude": -70.5
+    },
+    {
+        "cityId": "3505489",
+        "name": "Gaspar Hern\u00e1ndez",
+        "stateId": "3505867",
+        "latitude": 19.58333,
+        "longitude": -70.16667
+    },
+    {
+        "cityId": "3509990",
+        "name": "Cayetano Germos\u00e9n",
+        "stateId": "3505867",
+        "latitude": 19.34285,
+        "longitude": -70.47573
+    },
+    {
+        "cityId": "11154575",
+        "name": "Jamao Al Norte",
+        "stateId": "3505867",
+        "latitude": 19.60864,
+        "longitude": -70.4503
+    }
+]

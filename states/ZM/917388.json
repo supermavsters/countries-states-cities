@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "899821",
+        "name": "Petauke District",
+        "stateId": "917388",
+        "latitude": -14.12637,
+        "longitude": 31.40504
+    },
+    {
+        "cityId": "909296",
+        "name": "Lundazi District",
+        "stateId": "917388",
+        "latitude": -12.50109,
+        "longitude": 32.72074
+    },
+    {
+        "cityId": "912053",
+        "name": "Katete District",
+        "stateId": "917388",
+        "latitude": -14.04074,
+        "longitude": 32.04329
+    },
+    {
+        "cityId": "918699",
+        "name": "Chipata District",
+        "stateId": "917388",
+        "latitude": -13.603,
+        "longitude": 32.4971
+    },
+    {
+        "cityId": "921026",
+        "name": "Chadiza District",
+        "stateId": "917388",
+        "latitude": -14.09739,
+        "longitude": 32.48708
+    },
+    {
+        "cityId": "7732619",
+        "name": "Nyimba District",
+        "stateId": "917388",
+        "latitude": -14.34628,
+        "longitude": 30.59705
+    },
+    {
+        "cityId": "10800895",
+        "name": "Mambwe",
+        "stateId": "917388",
+        "latitude": -13.34208,
+        "longitude": 31.92867
+    },
+    {
+        "cityId": "10815860",
+        "name": "Sinda District",
+        "stateId": "917388",
+        "latitude": -14.22958,
+        "longitude": 31.70967
+    },
+    {
+        "cityId": "10815861",
+        "name": "Vubwi District",
+        "stateId": "917388",
+        "latitude": -14.00612,
+        "longitude": 32.90254
+    }
+]

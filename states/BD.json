@@ -1,0 +1,58 @@
+[
+    {
+        "stateId": "1337229",
+        "name": "Barisal Division",
+        "countryId": "1210997",
+        "latitude": 22.5,
+        "longitude": 90.33333
+    },
+    {
+        "stateId": "1337200",
+        "name": "Chittagong",
+        "countryId": "1210997",
+        "latitude": 22.91667,
+        "longitude": 91.5
+    },
+    {
+        "stateId": "1337179",
+        "name": "Dhaka Division",
+        "countryId": "1210997",
+        "latitude": 23.83333,
+        "longitude": 90.25
+    },
+    {
+        "stateId": "1337210",
+        "name": "Khulna Division",
+        "countryId": "1210997",
+        "latitude": 22.91667,
+        "longitude": 89.33333
+    },
+    {
+        "stateId": "11287936",
+        "name": "Mymensingh Division",
+        "countryId": "1210997",
+        "latitude": 24.72937,
+        "longitude": 90.38109
+    },
+    {
+        "stateId": "7671048",
+        "name": "Rangpur Division",
+        "countryId": "1210997",
+        "latitude": 25.83333,
+        "longitude": 89
+    },
+    {
+        "stateId": "1337166",
+        "name": "R\u0101jsh\u0101hi Division",
+        "countryId": "1210997",
+        "latitude": 25,
+        "longitude": 89
+    },
+    {
+        "stateId": "1477362",
+        "name": "Sylhet Division",
+        "countryId": "1210997",
+        "latitude": 24.66667,
+        "longitude": 91.66667
+    }
+]

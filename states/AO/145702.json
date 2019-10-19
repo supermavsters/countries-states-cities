@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "145723",
+        "name": "Lucapa",
+        "stateId": "145702",
+        "latitude": -8.68337,
+        "longitude": 20.27045
+    },
+    {
+        "cityId": "145775",
+        "name": "Chitato",
+        "stateId": "145702",
+        "latitude": -7.41914,
+        "longitude": 20.39811
+    },
+    {
+        "cityId": "145897",
+        "name": "Cambulo",
+        "stateId": "145702",
+        "latitude": -7.85977,
+        "longitude": 21.4688
+    },
+    {
+        "cityId": "2236396",
+        "name": "X\u00e1-Muteba",
+        "stateId": "145702",
+        "latitude": -9.19401,
+        "longitude": 17.82434
+    },
+    {
+        "cityId": "2240415",
+        "name": "Lubalo",
+        "stateId": "145702",
+        "latitude": -9.11577,
+        "longitude": 19.17094
+    },
+    {
+        "cityId": "2241628",
+        "name": "Cuilo",
+        "stateId": "145702",
+        "latitude": -8.02449,
+        "longitude": 19.67745
+    },
+    {
+        "cityId": "2241665",
+        "name": "Cuango",
+        "stateId": "145702",
+        "latitude": -8.58042,
+        "longitude": 18.08789
+    },
+    {
+        "cityId": "2242051",
+        "name": "Caungula",
+        "stateId": "145702",
+        "latitude": -8.33746,
+        "longitude": 18.84149
+    },
+    {
+        "cityId": "2242427",
+        "name": "Capenda Camulemba",
+        "stateId": "145702",
+        "latitude": -9.56463,
+        "longitude": 18.76325
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2412885",
+        "name": "Kiang West District",
+        "stateId": "2412716",
+        "latitude": 13.33333,
+        "longitude": -16
+    },
+    {
+        "cityId": "2412886",
+        "name": "Kiang East",
+        "stateId": "2412716",
+        "latitude": 13.41667,
+        "longitude": -15.63333
+    },
+    {
+        "cityId": "2412887",
+        "name": "Kiang Central",
+        "stateId": "2412716",
+        "latitude": 13.4,
+        "longitude": -15.75
+    },
+    {
+        "cityId": "2413266",
+        "name": "Jarra West",
+        "stateId": "2412716",
+        "latitude": 13.41667,
+        "longitude": -15.53333
+    },
+    {
+        "cityId": "2413267",
+        "name": "Jarra East",
+        "stateId": "2412716",
+        "latitude": 13.41667,
+        "longitude": -15.25
+    },
+    {
+        "cityId": "2413268",
+        "name": "Jarra Central",
+        "stateId": "2412716",
+        "latitude": 13.41667,
+        "longitude": -15.41667
+    }
+]

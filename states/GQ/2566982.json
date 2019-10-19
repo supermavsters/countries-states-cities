@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2306841",
+        "name": "Cogo",
+        "stateId": "2566982",
+        "latitude": 1.25,
+        "longitude": 9.75
+    },
+    {
+        "cityId": "2308276",
+        "name": "Distrito de Mbini",
+        "stateId": "2566982",
+        "latitude": 1.5,
+        "longitude": 9.75
+    },
+    {
+        "cityId": "2310047",
+        "name": "Bata",
+        "stateId": "2566982",
+        "latitude": 1.91667,
+        "longitude": 9.91667
+    },
+    {
+        "cityId": "11237864",
+        "name": "R\u00edo Campo",
+        "stateId": "2566982",
+        "latitude": 2.33816,
+        "longitude": 9.82205
+    },
+    {
+        "cityId": "11237865",
+        "name": "Corisco",
+        "stateId": "2566982",
+        "latitude": 0.91718,
+        "longitude": 9.32186
+    },
+    {
+        "cityId": "11237866",
+        "name": "Bitica",
+        "stateId": "2566982",
+        "latitude": 1.42187,
+        "longitude": 9.62351
+    },
+    {
+        "cityId": "11237867",
+        "name": "Machinda",
+        "stateId": "2566982",
+        "latitude": 1.88068,
+        "longitude": 9.95391
+    }
+]

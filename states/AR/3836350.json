@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3838892",
+        "name": "Departamento de R\u00edo Chico",
+        "stateId": "3836350",
+        "latitude": -48.25,
+        "longitude": -71
+    },
+    {
+        "cityId": "3845272",
+        "name": "Departamento de Magallanes",
+        "stateId": "3836350",
+        "latitude": -48.75,
+        "longitude": -68.5
+    },
+    {
+        "cityId": "3851119",
+        "name": "Departamento de Lago Buenos Aires",
+        "stateId": "3836350",
+        "latitude": -47,
+        "longitude": -70.91667
+    },
+    {
+        "cityId": "3851122",
+        "name": "Departamento de Lago Argentino",
+        "stateId": "3836350",
+        "latitude": -49.75,
+        "longitude": -72
+    },
+    {
+        "cityId": "3854444",
+        "name": "Departamento de G\u00fcer Aike",
+        "stateId": "3836350",
+        "latitude": -51.33333,
+        "longitude": -70.33333
+    },
+    {
+        "cityId": "3859455",
+        "name": "Departamento de Deseado",
+        "stateId": "3836350",
+        "latitude": -47.33333,
+        "longitude": -67.83333
+    },
+    {
+        "cityId": "3860153",
+        "name": "Departamento de Corpen Aike",
+        "stateId": "3836350",
+        "latitude": -50,
+        "longitude": -69.25
+    }
+]

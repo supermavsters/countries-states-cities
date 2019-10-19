@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3667480",
+        "name": "Tame",
+        "stateId": "3689717",
+        "latitude": 6.39833,
+        "longitude": -71.78389
+    },
+    {
+        "cityId": "3668259",
+        "name": "Saravena",
+        "stateId": "3689717",
+        "latitude": 6.92056,
+        "longitude": -71.85333
+    },
+    {
+        "cityId": "3689720",
+        "name": "Arauca",
+        "stateId": "3689717",
+        "latitude": 6.87306,
+        "longitude": -70.47972
+    },
+    {
+        "cityId": "6194448",
+        "name": "Arauquita",
+        "stateId": "3689717",
+        "latitude": 6.94583,
+        "longitude": -71.4697
+    },
+    {
+        "cityId": "6194449",
+        "name": "Fortul",
+        "stateId": "3689717",
+        "latitude": 6.74611,
+        "longitude": -71.85667
+    },
+    {
+        "cityId": "6194450",
+        "name": "Puerto Rond\u00f3n",
+        "stateId": "3689717",
+        "latitude": 6.41889,
+        "longitude": -70.965
+    },
+    {
+        "cityId": "6195938",
+        "name": "Cravo Norte",
+        "stateId": "3689717",
+        "latitude": 6.3875,
+        "longitude": -70.15472
+    }
+]

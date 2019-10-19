@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2790469",
+        "name": "Province de Namur",
+        "stateId": "3337387",
+        "latitude": 50.33333,
+        "longitude": 4.83333
+    },
+    {
+        "cityId": "2791993",
+        "name": "Province du Luxembourg",
+        "stateId": "3337387",
+        "latitude": 50,
+        "longitude": 5.5
+    },
+    {
+        "cityId": "2792411",
+        "name": "Province de Li\u00e8ge",
+        "stateId": "3337387",
+        "latitude": 50.63427,
+        "longitude": 5.56543
+    },
+    {
+        "cityId": "2796741",
+        "name": "Province du Hainaut",
+        "stateId": "3337387",
+        "latitude": 50.5,
+        "longitude": 3.83333
+    },
+    {
+        "cityId": "3333251",
+        "name": "Province du Brabant Wallon",
+        "stateId": "3337387",
+        "latitude": 50.75,
+        "longitude": 4.58333
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7910310",
+        "name": "Tidjikja",
+        "stateId": "2376551",
+        "latitude": 18.4375,
+        "longitude": -11.52456
+    },
+    {
+        "cityId": "9212630",
+        "name": "Tichitt",
+        "stateId": "2376551",
+        "latitude": 18.64739,
+        "longitude": -9.79933
+    },
+    {
+        "cityId": "9212633",
+        "name": "Moudjeria",
+        "stateId": "2376551",
+        "latitude": 17.86771,
+        "longitude": -12.19966
+    },
+    {
+        "cityId": "9212638",
+        "name": "Boumdeid",
+        "stateId": "2376551",
+        "latitude": 17.74736,
+        "longitude": -11.25972
+    }
+]

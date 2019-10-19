@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3894310",
+        "name": "Provincia de Colchagua",
+        "stateId": "3883281",
+        "latitude": -34.69485,
+        "longitude": -71.07606
+    },
+    {
+        "cityId": "3897525",
+        "name": "Provincia de Cachapoal",
+        "stateId": "3883281",
+        "latitude": -34.29987,
+        "longitude": -70.72061
+    },
+    {
+        "cityId": "8181712",
+        "name": "Provincia de Cardenal Caro",
+        "stateId": "3883281",
+        "latitude": -34.38651,
+        "longitude": -71.945
+    }
+]

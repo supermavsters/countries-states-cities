@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3925316",
+        "name": "Provincia de Ica",
+        "stateId": "3938526",
+        "latitude": -14.33861,
+        "longitude": -75.64833
+    },
+    {
+        "cityId": "3932143",
+        "name": "Provincia de Pisco",
+        "stateId": "3938526",
+        "latitude": -13.80377,
+        "longitude": -75.94264
+    },
+    {
+        "cityId": "3933344",
+        "name": "Provincia de Palpa",
+        "stateId": "3938526",
+        "latitude": -14.41667,
+        "longitude": -75.16667
+    },
+    {
+        "cityId": "3934353",
+        "name": "Provincia de Nazca",
+        "stateId": "3938526",
+        "latitude": -15,
+        "longitude": -75.08333
+    },
+    {
+        "cityId": "3943790",
+        "name": "Provincia de Chincha",
+        "stateId": "3938526",
+        "latitude": -13.31791,
+        "longitude": -75.9393
+    }
+]

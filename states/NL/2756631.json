@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2750946",
+        "name": "Gemeente Meppel",
+        "stateId": "2756631",
+        "latitude": 52.70885,
+        "longitude": 6.19727
+    },
+    {
+        "cityId": "2753718",
+        "name": "Gemeente Hoogeveen",
+        "stateId": "2756631",
+        "latitude": 52.7182,
+        "longitude": 6.51803
+    },
+    {
+        "cityId": "2756134",
+        "name": "Gemeente Emmen",
+        "stateId": "2756631",
+        "latitude": 52.75243,
+        "longitude": 6.95938
+    },
+    {
+        "cityId": "2757936",
+        "name": "Gemeente Coevorden",
+        "stateId": "2756631",
+        "latitude": 52.74344,
+        "longitude": 6.72487
+    },
+    {
+        "cityId": "2758619",
+        "name": "Gemeente Borger-Odoorn",
+        "stateId": "2756631",
+        "latitude": 52.90501,
+        "longitude": 6.88042
+    },
+    {
+        "cityId": "2759632",
+        "name": "Gemeente Assen",
+        "stateId": "2756631",
+        "latitude": 52.99635,
+        "longitude": 6.55255
+    },
+    {
+        "cityId": "6544227",
+        "name": "Gemeente De Wolden",
+        "stateId": "2756631",
+        "latitude": 52.70102,
+        "longitude": 6.37277
+    },
+    {
+        "cityId": "6544239",
+        "name": "Gemeente Westerveld",
+        "stateId": "2756631",
+        "latitude": 52.827,
+        "longitude": 6.2906
+    },
+    {
+        "cityId": "6544282",
+        "name": "Gemeente Tynaarlo",
+        "stateId": "2756631",
+        "latitude": 53.10417,
+        "longitude": 6.60271
+    },
+    {
+        "cityId": "6544287",
+        "name": "Gemeente Noordenveld",
+        "stateId": "2756631",
+        "latitude": 53.11494,
+        "longitude": 6.44622
+    },
+    {
+        "cityId": "6544296",
+        "name": "Gemeente Aa en Hunze",
+        "stateId": "2756631",
+        "latitude": 53.00445,
+        "longitude": 6.74908
+    },
+    {
+        "cityId": "6544297",
+        "name": "Gemeente Midden-Drenthe",
+        "stateId": "2756631",
+        "latitude": 52.86716,
+        "longitude": 6.5384
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "1222597",
+        "name": "Leylekskiy Rayon",
+        "stateId": "1463580",
+        "latitude": 39.83333,
+        "longitude": 69.75
+    },
+    {
+        "cityId": "1222671",
+        "name": "Kadamjaiskiy Raion",
+        "stateId": "1463580",
+        "latitude": 40,
+        "longitude": 71.58333
+    },
+    {
+        "cityId": "1222703",
+        "name": "Batkenskiy Rayon",
+        "stateId": "1463580",
+        "latitude": 39.75,
+        "longitude": 71
+    }
+]

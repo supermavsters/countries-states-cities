@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3573559",
+        "name": "Ward of Valencia",
+        "stateId": "7521944",
+        "latitude": 10.68233,
+        "longitude": -61.1668
+    },
+    {
+        "cityId": "3573575",
+        "name": "Ward of Turure",
+        "stateId": "7521944",
+        "latitude": 10.5,
+        "longitude": -61.11667
+    },
+    {
+        "cityId": "3573603",
+        "name": "Ward of Toco",
+        "stateId": "7521944",
+        "latitude": 10.78333,
+        "longitude": -61.05
+    },
+    {
+        "cityId": "3573635",
+        "name": "Ward of Tamana",
+        "stateId": "7521944",
+        "latitude": 10.53333,
+        "longitude": -61.18333
+    },
+    {
+        "cityId": "3574167",
+        "name": "Ward of Matura",
+        "stateId": "7521944",
+        "latitude": 10.7,
+        "longitude": -61.06667
+    },
+    {
+        "cityId": "3574201",
+        "name": "Ward of Manzanilla",
+        "stateId": "7521944",
+        "latitude": 10.61667,
+        "longitude": -61.13333
+    }
+]

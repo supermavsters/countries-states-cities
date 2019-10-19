@@ -1,0 +1,226 @@
+[
+    {
+        "stateId": "3527646",
+        "name": "Ciudad de M\u00e9xico",
+        "countryId": "3996063",
+        "latitude": 19.28333,
+        "longitude": -99.13333
+    },
+    {
+        "stateId": "4019231",
+        "name": "Estado de Aguascalientes",
+        "countryId": "3996063",
+        "latitude": 22,
+        "longitude": -102.36667
+    },
+    {
+        "stateId": "4017700",
+        "name": "Estado de Baja California",
+        "countryId": "3996063",
+        "latitude": 30,
+        "longitude": -115
+    },
+    {
+        "stateId": "4017698",
+        "name": "Estado de Baja California Sur",
+        "countryId": "3996063",
+        "latitude": 25.83333,
+        "longitude": -111.83333
+    },
+    {
+        "stateId": "3531730",
+        "name": "Estado de Campeche",
+        "countryId": "3996063",
+        "latitude": 18.83333,
+        "longitude": -90.25
+    },
+    {
+        "stateId": "3531011",
+        "name": "Estado de Chiapas",
+        "countryId": "3996063",
+        "latitude": 16.5,
+        "longitude": -92.5
+    },
+    {
+        "stateId": "4014336",
+        "name": "Estado de Chihuahua",
+        "countryId": "3996063",
+        "latitude": 28.75,
+        "longitude": -106.25
+    },
+    {
+        "stateId": "4013674",
+        "name": "Estado de Coahuila de Zaragoza",
+        "countryId": "3996063",
+        "latitude": 27.33333,
+        "longitude": -102
+    },
+    {
+        "stateId": "4013513",
+        "name": "Estado de Colima",
+        "countryId": "3996063",
+        "latitude": 19.13333,
+        "longitude": -103.9
+    },
+    {
+        "stateId": "4011741",
+        "name": "Estado de Durango",
+        "countryId": "3996063",
+        "latitude": 24.83333,
+        "longitude": -104.83333
+    },
+    {
+        "stateId": "4005267",
+        "name": "Estado de Guanajuato",
+        "countryId": "3996063",
+        "latitude": 21,
+        "longitude": -101
+    },
+    {
+        "stateId": "3527213",
+        "name": "Estado de Guerrero",
+        "countryId": "3996063",
+        "latitude": 17.66667,
+        "longitude": -100
+    },
+    {
+        "stateId": "3527115",
+        "name": "Estado de Hidalgo",
+        "countryId": "3996063",
+        "latitude": 20.5,
+        "longitude": -99
+    },
+    {
+        "stateId": "4004156",
+        "name": "Estado de Jalisco",
+        "countryId": "3996063",
+        "latitude": 20.33333,
+        "longitude": -103.66667
+    },
+    {
+        "stateId": "3995955",
+        "name": "Estado de Michoac\u00e1n de Ocampo",
+        "countryId": "3996063",
+        "latitude": 19.16667,
+        "longitude": -101.83333
+    },
+    {
+        "stateId": "3522961",
+        "name": "Estado de Morelos",
+        "countryId": "3996063",
+        "latitude": 18.75,
+        "longitude": -99.06667
+    },
+    {
+        "stateId": "3523272",
+        "name": "Estado de M\u00e9xico",
+        "countryId": "3996063",
+        "latitude": 19.36667,
+        "longitude": -99.66667
+    },
+    {
+        "stateId": "3995012",
+        "name": "Estado de Nayarit",
+        "countryId": "3996063",
+        "latitude": 21.83333,
+        "longitude": -104.83333
+    },
+    {
+        "stateId": "3522542",
+        "name": "Estado de Nuevo Le\u00f3n",
+        "countryId": "3996063",
+        "latitude": 25.58333,
+        "longitude": -99.75
+    },
+    {
+        "stateId": "3522509",
+        "name": "Estado de Oaxaca",
+        "countryId": "3996063",
+        "latitude": 17,
+        "longitude": -96.5
+    },
+    {
+        "stateId": "3521082",
+        "name": "Estado de Puebla",
+        "countryId": "3996063",
+        "latitude": 18.75,
+        "longitude": -97.91667
+    },
+    {
+        "stateId": "3520914",
+        "name": "Estado de Quer\u00e9taro",
+        "countryId": "3996063",
+        "latitude": 20.85,
+        "longitude": -99.85
+    },
+    {
+        "stateId": "3520887",
+        "name": "Estado de Quintana Roo",
+        "countryId": "3996063",
+        "latitude": 19.66667,
+        "longitude": -88.25
+    },
+    {
+        "stateId": "3985605",
+        "name": "Estado de San Luis Potos\u00ed",
+        "countryId": "3996063",
+        "latitude": 22.5,
+        "longitude": -100.5
+    },
+    {
+        "stateId": "3983035",
+        "name": "Estado de Sinaloa",
+        "countryId": "3996063",
+        "latitude": 25,
+        "longitude": -107.5
+    },
+    {
+        "stateId": "3982846",
+        "name": "Estado de Sonora",
+        "countryId": "3996063",
+        "latitude": 29.66667,
+        "longitude": -110.5
+    },
+    {
+        "stateId": "3516458",
+        "name": "Estado de Tabasco",
+        "countryId": "3996063",
+        "latitude": 18,
+        "longitude": -92.66667
+    },
+    {
+        "stateId": "3516391",
+        "name": "Estado de Tamaulipas",
+        "countryId": "3996063",
+        "latitude": 24,
+        "longitude": -98.75
+    },
+    {
+        "stateId": "3515359",
+        "name": "Estado de Tlaxcala",
+        "countryId": "3996063",
+        "latitude": 19.41667,
+        "longitude": -98.16667
+    },
+    {
+        "stateId": "3514780",
+        "name": "Estado de Veracruz-Llave",
+        "countryId": "3996063",
+        "latitude": 19.33333,
+        "longitude": -96.66667
+    },
+    {
+        "stateId": "3514211",
+        "name": "Estado de Yucat\u00e1n",
+        "countryId": "3996063",
+        "latitude": 20.75,
+        "longitude": -88.83333
+    },
+    {
+        "stateId": "3979840",
+        "name": "Estado de Zacatecas",
+        "countryId": "3996063",
+        "latitude": 23.25,
+        "longitude": -103
+    }
+]

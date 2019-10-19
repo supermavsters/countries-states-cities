@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "725587",
+        "name": "Obshtina Yakimovo",
+        "stateId": "453753",
+        "latitude": 43.63333,
+        "longitude": 23.33333
+    },
+    {
+        "cityId": "725622",
+        "name": "Obshtina Varshets",
+        "stateId": "453753",
+        "latitude": 43.21667,
+        "longitude": 23.33333
+    },
+    {
+        "cityId": "725682",
+        "name": "Obshtina Valchedram",
+        "stateId": "453753",
+        "latitude": 43.71667,
+        "longitude": 23.51667
+    },
+    {
+        "cityId": "729113",
+        "name": "Obshtina Montana",
+        "stateId": "453753",
+        "latitude": 43.46667,
+        "longitude": 23.2
+    },
+    {
+        "cityId": "729173",
+        "name": "Obshtina Medkovets",
+        "stateId": "453753",
+        "latitude": 43.65,
+        "longitude": 23.18333
+    },
+    {
+        "cityId": "729579",
+        "name": "Obshtina Lom",
+        "stateId": "453753",
+        "latitude": 43.81667,
+        "longitude": 23.23333
+    },
+    {
+        "cityId": "731457",
+        "name": "Obshtina Georgi Damyanovo",
+        "stateId": "453753",
+        "latitude": 43.35,
+        "longitude": 23
+    },
+    {
+        "cityId": "732455",
+        "name": "Obshtina Chiprovtsi",
+        "stateId": "453753",
+        "latitude": 43.41667,
+        "longitude": 22.9
+    },
+    {
+        "cityId": "732861",
+        "name": "Obshtina Brusartsi",
+        "stateId": "453753",
+        "latitude": 43.66667,
+        "longitude": 23.06667
+    },
+    {
+        "cityId": "732984",
+        "name": "Obshtina Boychinovtsi",
+        "stateId": "453753",
+        "latitude": 43.53333,
+        "longitude": 23.43333
+    },
+    {
+        "cityId": "733263",
+        "name": "Obshtina Berkovitsa",
+        "stateId": "453753",
+        "latitude": 43.26667,
+        "longitude": 23.15
+    }
+]

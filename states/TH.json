@@ -1,0 +1,541 @@
+[
+    {
+        "stateId": "1609348",
+        "name": "Bangkok",
+        "countryId": "1605651",
+        "latitude": 13.87719,
+        "longitude": 100.71991
+    },
+    {
+        "stateId": "1906689",
+        "name": "Changwat Amnat Charoen",
+        "countryId": "1605651",
+        "latitude": 15.91667,
+        "longitude": 104.75
+    },
+    {
+        "stateId": "1621034",
+        "name": "Changwat Ang Thong",
+        "countryId": "1605651",
+        "latitude": 14.6105,
+        "longitude": 100.35845
+    },
+    {
+        "stateId": "8133594",
+        "name": "Changwat Bueng Kan",
+        "countryId": "1605651",
+        "latitude": 18.16228,
+        "longitude": 103.75085
+    },
+    {
+        "stateId": "1611452",
+        "name": "Changwat Buri Ram",
+        "countryId": "1605651",
+        "latitude": 14.84823,
+        "longitude": 102.99332
+    },
+    {
+        "stateId": "1611438",
+        "name": "Changwat Chachoengsao",
+        "countryId": "1605651",
+        "latitude": 13.63105,
+        "longitude": 101.41666
+    },
+    {
+        "stateId": "1611415",
+        "name": "Changwat Chai Nat",
+        "countryId": "1605651",
+        "latitude": 15.11667,
+        "longitude": 100.1
+    },
+    {
+        "stateId": "1611406",
+        "name": "Changwat Chaiyaphum",
+        "countryId": "1605651",
+        "latitude": 16.01804,
+        "longitude": 101.81249
+    },
+    {
+        "stateId": "1611268",
+        "name": "Changwat Chanthaburi",
+        "countryId": "1605651",
+        "latitude": 12.85798,
+        "longitude": 102.15434
+    },
+    {
+        "stateId": "1153668",
+        "name": "Changwat Chiang Rai",
+        "countryId": "1605651",
+        "latitude": 19.91667,
+        "longitude": 99.91667
+    },
+    {
+        "stateId": "1611108",
+        "name": "Changwat Chon Buri",
+        "countryId": "1605651",
+        "latitude": 13.3,
+        "longitude": 101.3
+    },
+    {
+        "stateId": "1153555",
+        "name": "Changwat Chumphon",
+        "countryId": "1605651",
+        "latitude": 10.4,
+        "longitude": 99.06667
+    },
+    {
+        "stateId": "1610468",
+        "name": "Changwat Kalasin",
+        "countryId": "1605651",
+        "latitude": 16.5,
+        "longitude": 103.5
+    },
+    {
+        "stateId": "1153089",
+        "name": "Changwat Kamphaeng Phet",
+        "countryId": "1605651",
+        "latitude": 16.25,
+        "longitude": 99.5
+    },
+    {
+        "stateId": "1153080",
+        "name": "Changwat Kanchanaburi",
+        "countryId": "1605651",
+        "latitude": 14.63333,
+        "longitude": 99.1
+    },
+    {
+        "stateId": "1609775",
+        "name": "Changwat Khon Kaen",
+        "countryId": "1605651",
+        "latitude": 16.43056,
+        "longitude": 102.61667
+    },
+    {
+        "stateId": "1152631",
+        "name": "Changwat Krabi",
+        "countryId": "1605651",
+        "latitude": 8.19793,
+        "longitude": 99.00859
+    },
+    {
+        "stateId": "1152472",
+        "name": "Changwat Lampang",
+        "countryId": "1605651",
+        "latitude": 18.33333,
+        "longitude": 99.5
+    },
+    {
+        "stateId": "1152467",
+        "name": "Changwat Lamphun",
+        "countryId": "1605651",
+        "latitude": 18.25,
+        "longitude": 98.91667
+    },
+    {
+        "stateId": "1609070",
+        "name": "Changwat Loei",
+        "countryId": "1605651",
+        "latitude": 17.41667,
+        "longitude": 101.5
+    },
+    {
+        "stateId": "1609031",
+        "name": "Changwat Lop Buri",
+        "countryId": "1605651",
+        "latitude": 15.12191,
+        "longitude": 100.88605
+    },
+    {
+        "stateId": "1152221",
+        "name": "Changwat Mae Hong Son",
+        "countryId": "1605651",
+        "latitude": 18.75,
+        "longitude": 97.91667
+    },
+    {
+        "stateId": "1608899",
+        "name": "Changwat Maha Sarakham",
+        "countryId": "1605651",
+        "latitude": 16.00571,
+        "longitude": 103.17233
+    },
+    {
+        "stateId": "1608595",
+        "name": "Changwat Mukdahan",
+        "countryId": "1605651",
+        "latitude": 16.58333,
+        "longitude": 104.5
+    },
+    {
+        "stateId": "1608538",
+        "name": "Changwat Nakhon Nayok",
+        "countryId": "1605651",
+        "latitude": 14.16667,
+        "longitude": 101.1
+    },
+    {
+        "stateId": "1608533",
+        "name": "Changwat Nakhon Pathom",
+        "countryId": "1605651",
+        "latitude": 13.98333,
+        "longitude": 100.08333
+    },
+    {
+        "stateId": "1608530",
+        "name": "Changwat Nakhon Phanom",
+        "countryId": "1605651",
+        "latitude": 17.48611,
+        "longitude": 104.48333
+    },
+    {
+        "stateId": "1608528",
+        "name": "Changwat Nakhon Ratchasima",
+        "countryId": "1605651",
+        "latitude": 15,
+        "longitude": 102.16667
+    },
+    {
+        "stateId": "1608526",
+        "name": "Changwat Nakhon Sawan",
+        "countryId": "1605651",
+        "latitude": 15.7,
+        "longitude": 100.08333
+    },
+    {
+        "stateId": "1608525",
+        "name": "Changwat Nakhon Si Thammarat",
+        "countryId": "1605651",
+        "latitude": 8.39102,
+        "longitude": 99.82203
+    },
+    {
+        "stateId": "1608451",
+        "name": "Changwat Nan",
+        "countryId": "1605651",
+        "latitude": 18.83333,
+        "longitude": 100.66667
+    },
+    {
+        "stateId": "1608408",
+        "name": "Changwat Narathiwat",
+        "countryId": "1605651",
+        "latitude": 6.20336,
+        "longitude": 101.72005
+    },
+    {
+        "stateId": "1906690",
+        "name": "Changwat Nong Bua Lamphu",
+        "countryId": "1605651",
+        "latitude": 17.25,
+        "longitude": 102.25
+    },
+    {
+        "stateId": "1608231",
+        "name": "Changwat Nong Khai",
+        "countryId": "1605651",
+        "latitude": 17.75,
+        "longitude": 102.75
+    },
+    {
+        "stateId": "1608132",
+        "name": "Changwat Nonthaburi",
+        "countryId": "1605651",
+        "latitude": 13.90433,
+        "longitude": 100.40335
+    },
+    {
+        "stateId": "1607982",
+        "name": "Changwat Pathum Thani",
+        "countryId": "1605651",
+        "latitude": 14.04554,
+        "longitude": 100.63955
+    },
+    {
+        "stateId": "1607976",
+        "name": "Changwat Pattani",
+        "countryId": "1605651",
+        "latitude": 6.74722,
+        "longitude": 101.375
+    },
+    {
+        "stateId": "1151462",
+        "name": "Changwat Phangnga",
+        "countryId": "1605651",
+        "latitude": 8.63333,
+        "longitude": 98.41667
+    },
+    {
+        "stateId": "1607778",
+        "name": "Changwat Phatthalung",
+        "countryId": "1605651",
+        "latitude": 7.5,
+        "longitude": 100.08333
+    },
+    {
+        "stateId": "1607758",
+        "name": "Changwat Phayao",
+        "countryId": "1605651",
+        "latitude": 19.25,
+        "longitude": 100.25
+    },
+    {
+        "stateId": "1607736",
+        "name": "Changwat Phetchabun",
+        "countryId": "1605651",
+        "latitude": 16.25,
+        "longitude": 101.08333
+    },
+    {
+        "stateId": "1151416",
+        "name": "Changwat Phetchaburi",
+        "countryId": "1605651",
+        "latitude": 12.96667,
+        "longitude": 99.58333
+    },
+    {
+        "stateId": "1607724",
+        "name": "Changwat Phichit",
+        "countryId": "1605651",
+        "latitude": 16.25,
+        "longitude": 100.41667
+    },
+    {
+        "stateId": "1607707",
+        "name": "Changwat Phitsanulok",
+        "countryId": "1605651",
+        "latitude": 16.91667,
+        "longitude": 100.5
+    },
+    {
+        "stateId": "1607530",
+        "name": "Changwat Phra Nakhon Si Ayutthaya",
+        "countryId": "1605651",
+        "latitude": 14.28333,
+        "longitude": 100.5
+    },
+    {
+        "stateId": "1607551",
+        "name": "Changwat Phrae",
+        "countryId": "1605651",
+        "latitude": 18.08333,
+        "longitude": 100
+    },
+    {
+        "stateId": "1906687",
+        "name": "Changwat Prachin Buri",
+        "countryId": "1605651",
+        "latitude": 14.08333,
+        "longitude": 101.66667
+    },
+    {
+        "stateId": "1151073",
+        "name": "Changwat Prachuap Khiri Khan",
+        "countryId": "1605651",
+        "latitude": 12.21667,
+        "longitude": 99.75
+    },
+    {
+        "stateId": "1150964",
+        "name": "Changwat Ranong",
+        "countryId": "1605651",
+        "latitude": 10.1,
+        "longitude": 98.75
+    },
+    {
+        "stateId": "1150953",
+        "name": "Changwat Ratchaburi",
+        "countryId": "1605651",
+        "latitude": 13.58333,
+        "longitude": 99.53333
+    },
+    {
+        "stateId": "1607016",
+        "name": "Changwat Rayong",
+        "countryId": "1605651",
+        "latitude": 12.83333,
+        "longitude": 101.43333
+    },
+    {
+        "stateId": "1607000",
+        "name": "Changwat Roi Et",
+        "countryId": "1605651",
+        "latitude": 15.75,
+        "longitude": 103.75
+    },
+    {
+        "stateId": "1906691",
+        "name": "Changwat Sa Kaeo",
+        "countryId": "1605651",
+        "latitude": 13.75,
+        "longitude": 102.33333
+    },
+    {
+        "stateId": "1606789",
+        "name": "Changwat Sakon Nakhon",
+        "countryId": "1605651",
+        "latitude": 17.33333,
+        "longitude": 103.83333
+    },
+    {
+        "stateId": "1606589",
+        "name": "Changwat Samut Prakan",
+        "countryId": "1605651",
+        "latitude": 13.60442,
+        "longitude": 100.70531
+    },
+    {
+        "stateId": "1606587",
+        "name": "Changwat Samut Sakhon",
+        "countryId": "1605651",
+        "latitude": 13.56667,
+        "longitude": 100.21667
+    },
+    {
+        "stateId": "1606585",
+        "name": "Changwat Samut Songkhram",
+        "countryId": "1605651",
+        "latitude": 13.4,
+        "longitude": 99.95833
+    },
+    {
+        "stateId": "1606417",
+        "name": "Changwat Saraburi",
+        "countryId": "1605651",
+        "latitude": 14.60838,
+        "longitude": 100.96822
+    },
+    {
+        "stateId": "1606375",
+        "name": "Changwat Satun",
+        "countryId": "1605651",
+        "latitude": 6.83333,
+        "longitude": 100
+    },
+    {
+        "stateId": "1606238",
+        "name": "Changwat Si Sa Ket",
+        "countryId": "1605651",
+        "latitude": 14.83333,
+        "longitude": 104.33333
+    },
+    {
+        "stateId": "1606269",
+        "name": "Changwat Sing Buri",
+        "countryId": "1605651",
+        "latitude": 14.925,
+        "longitude": 100.33333
+    },
+    {
+        "stateId": "1606146",
+        "name": "Changwat Songkhla",
+        "countryId": "1605651",
+        "latitude": 6.83333,
+        "longitude": 100.66667
+    },
+    {
+        "stateId": "1150532",
+        "name": "Changwat Sukhothai",
+        "countryId": "1605651",
+        "latitude": 17.25,
+        "longitude": 99.66667
+    },
+    {
+        "stateId": "1606032",
+        "name": "Changwat Suphan Buri",
+        "countryId": "1605651",
+        "latitude": 14.46667,
+        "longitude": 100.06667
+    },
+    {
+        "stateId": "1150514",
+        "name": "Changwat Surat Thani",
+        "countryId": "1605651",
+        "latitude": 9.0011,
+        "longitude": 99.0394
+    },
+    {
+        "stateId": "1606029",
+        "name": "Changwat Surin",
+        "countryId": "1605651",
+        "latitude": 14.83333,
+        "longitude": 103.75
+    },
+    {
+        "stateId": "1150489",
+        "name": "Changwat Tak",
+        "countryId": "1605651",
+        "latitude": 16.58333,
+        "longitude": 98.83333
+    },
+    {
+        "stateId": "1150006",
+        "name": "Changwat Trang",
+        "countryId": "1605651",
+        "latitude": 7.50722,
+        "longitude": 99.59811
+    },
+    {
+        "stateId": "1605277",
+        "name": "Changwat Trat",
+        "countryId": "1605651",
+        "latitude": 12.5,
+        "longitude": 102.5
+    },
+    {
+        "stateId": "1906688",
+        "name": "Changwat Ubon Ratchathani",
+        "countryId": "1605651",
+        "latitude": 15.16667,
+        "longitude": 105.16667
+    },
+    {
+        "stateId": "1906686",
+        "name": "Changwat Udon Thani",
+        "countryId": "1605651",
+        "latitude": 17.33333,
+        "longitude": 102.83333
+    },
+    {
+        "stateId": "1149965",
+        "name": "Changwat Uthai Thani",
+        "countryId": "1605651",
+        "latitude": 15.38333,
+        "longitude": 99.55
+    },
+    {
+        "stateId": "1605214",
+        "name": "Changwat Uttaradit",
+        "countryId": "1605651",
+        "latitude": 17.66667,
+        "longitude": 100.5
+    },
+    {
+        "stateId": "1604869",
+        "name": "Changwat Yala",
+        "countryId": "1605651",
+        "latitude": 6.33333,
+        "longitude": 101.25
+    },
+    {
+        "stateId": "1604767",
+        "name": "Changwat Yasothon",
+        "countryId": "1605651",
+        "latitude": 15.85,
+        "longitude": 104.28333
+    },
+    {
+        "stateId": "1153670",
+        "name": "Chiang Mai Province",
+        "countryId": "1605651",
+        "latitude": 18.75,
+        "longitude": 99
+    },
+    {
+        "stateId": "1151253",
+        "name": "Phuket Province",
+        "countryId": "1605651",
+        "latitude": 7.97152,
+        "longitude": 98.35098
+    }
+]

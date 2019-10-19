@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3583154",
+        "name": "Distrito de Sesori",
+        "stateId": "3583462",
+        "latitude": 13.78333,
+        "longitude": -88.41667
+    },
+    {
+        "cityId": "3583461",
+        "name": "Distrito de San Miguel",
+        "stateId": "3583462",
+        "latitude": 13.5,
+        "longitude": -88.16667
+    },
+    {
+        "cityId": "3587036",
+        "name": "Distrito de Chinameca",
+        "stateId": "3583462",
+        "latitude": 13.5,
+        "longitude": -88.33333
+    }
+]

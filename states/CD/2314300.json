@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "8260567",
+        "name": "Kinshasa rural",
+        "stateId": "2314300",
+        "latitude": -4.38396,
+        "longitude": 15.59516
+    },
+    {
+        "cityId": "8260568",
+        "name": "Kinshasa Urban",
+        "stateId": "2314300",
+        "latitude": -4.44028,
+        "longitude": 15.41344
+    },
+    {
+        "cityId": "9166122",
+        "name": "Lukunga District",
+        "stateId": "2314300",
+        "latitude": -4.3054,
+        "longitude": 15.3032
+    },
+    {
+        "cityId": "9166123",
+        "name": "Tshangu District",
+        "stateId": "2314300",
+        "latitude": -4.42035,
+        "longitude": 15.38549
+    },
+    {
+        "cityId": "9179198",
+        "name": "Makala District",
+        "stateId": "2314300",
+        "latitude": -4.37979,
+        "longitude": 15.32224
+    },
+    {
+        "cityId": "10400552",
+        "name": "Funa",
+        "stateId": "2314300",
+        "latitude": -4.3575,
+        "longitude": 15.2971
+    },
+    {
+        "cityId": "10861174",
+        "name": "Mont Amba District",
+        "stateId": "2314300",
+        "latitude": -4.36276,
+        "longitude": 15.33674
+    }
+]

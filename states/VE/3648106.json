@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3626664",
+        "name": "Municipio Sucre",
+        "stateId": "3648106",
+        "latitude": 6,
+        "longitude": -64.25
+    },
+    {
+        "cityId": "3628959",
+        "name": "Municipio Roscio",
+        "stateId": "3648106",
+        "latitude": 6,
+        "longitude": -61.5
+    },
+    {
+        "cityId": "3630283",
+        "name": "Municipio Piar",
+        "stateId": "3648106",
+        "latitude": 6.16667,
+        "longitude": -62.5
+    },
+    {
+        "cityId": "3639562",
+        "name": "Municipio Heres",
+        "stateId": "3648106",
+        "latitude": 6,
+        "longitude": -63.5
+    },
+    {
+        "cityId": "3646105",
+        "name": "Municipio Cede\u00f1o",
+        "stateId": "3648106",
+        "latitude": 6.5,
+        "longitude": -66
+    },
+    {
+        "cityId": "3646491",
+        "name": "Municipio Caron\u00ed",
+        "stateId": "3648106",
+        "latitude": 8.11667,
+        "longitude": -62.8
+    },
+    {
+        "cityId": "8129151",
+        "name": "Municipio Gran Sabana",
+        "stateId": "3648106",
+        "latitude": 4.61667,
+        "longitude": -61.13333
+    },
+    {
+        "cityId": "8129214",
+        "name": "Municipio El Callao",
+        "stateId": "3648106",
+        "latitude": 7.33326,
+        "longitude": -61.82874
+    },
+    {
+        "cityId": "8129218",
+        "name": "Municipio Sifontes",
+        "stateId": "3648106",
+        "latitude": 7.24809,
+        "longitude": -61.53151
+    },
+    {
+        "cityId": "8129246",
+        "name": "Municipio Ra\u00fal Leoni",
+        "stateId": "3648106",
+        "latitude": 7.49247,
+        "longitude": -63.26941
+    },
+    {
+        "cityId": "8131426",
+        "name": "Municipio Padre Pedro Chien",
+        "stateId": "3648106",
+        "latitude": 8.02455,
+        "longitude": -61.88187
+    }
+]

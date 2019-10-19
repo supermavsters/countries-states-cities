@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "6458769",
+        "name": "Bezirk Schleitheim",
+        "stateId": "2658760",
+        "latitude": 47.75,
+        "longitude": 8.51111
+    },
+    {
+        "cityId": "6458794",
+        "name": "Bezirk Stein",
+        "stateId": "2658760",
+        "latitude": 47.66429,
+        "longitude": 8.84683
+    },
+    {
+        "cityId": "6458815",
+        "name": "Bezirk Oberklettgau",
+        "stateId": "2658760",
+        "latitude": 47.69893,
+        "longitude": 8.51774
+    },
+    {
+        "cityId": "6458836",
+        "name": "Bezirk Unterklettgau",
+        "stateId": "2658760",
+        "latitude": 47.68,
+        "longitude": 8.46333
+    },
+    {
+        "cityId": "6458881",
+        "name": "Bezirk Schaffhausen",
+        "stateId": "2658760",
+        "latitude": 47.6944,
+        "longitude": 8.63525
+    },
+    {
+        "cityId": "6458883",
+        "name": "Bezirk Reiat",
+        "stateId": "2658760",
+        "latitude": 47.74752,
+        "longitude": 8.70821
+    }
+]

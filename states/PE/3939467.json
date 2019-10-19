@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3927670",
+        "name": "Provincia de Tayacaja",
+        "stateId": "3939467",
+        "latitude": -12.25,
+        "longitude": -74.75
+    },
+    {
+        "cityId": "3939465",
+        "name": "Provincia de Huancavelica",
+        "stateId": "3939467",
+        "latitude": -12.66667,
+        "longitude": -75.25
+    },
+    {
+        "cityId": "3945232",
+        "name": "Provincia de Castrovirreyna",
+        "stateId": "3939467",
+        "latitude": -13.14535,
+        "longitude": -75.40598
+    },
+    {
+        "cityId": "3947704",
+        "name": "Provincia de Angaraes",
+        "stateId": "3939467",
+        "latitude": -13,
+        "longitude": -74.75
+    },
+    {
+        "cityId": "3948478",
+        "name": "Provincia de Acobamba",
+        "stateId": "3939467",
+        "latitude": -12.75,
+        "longitude": -74.66667
+    },
+    {
+        "cityId": "7778813",
+        "name": "Provincia de Churcampa",
+        "stateId": "3939467",
+        "latitude": -12.6,
+        "longitude": -74.52
+    },
+    {
+        "cityId": "8349554",
+        "name": "Huaytara",
+        "stateId": "3939467",
+        "latitude": -13.65616,
+        "longitude": -75.09234
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "1253630",
+        "name": "Uttar Kannada",
+        "stateId": "1267701",
+        "latitude": 14.88333,
+        "longitude": 74.58333
+    },
+    {
+        "cityId": "1254090",
+        "name": "Tumkur",
+        "stateId": "1267701",
+        "latitude": 13.5,
+        "longitude": 77
+    },
+    {
+        "cityId": "1256516",
+        "name": "Shimoga",
+        "stateId": "1267701",
+        "latitude": 14.05,
+        "longitude": 75.16
+    },
+    {
+        "cityId": "1259013",
+        "name": "Raichur",
+        "stateId": "1267701",
+        "latitude": 16.16,
+        "longitude": 76.91
+    },
+    {
+        "cityId": "1262322",
+        "name": "Mysore",
+        "stateId": "1267701",
+        "latitude": 12.23,
+        "longitude": 76.42
+    },
+    {
+        "cityId": "1263815",
+        "name": "Mandya",
+        "stateId": "1267701",
+        "latitude": 12.58333,
+        "longitude": 76.66667
+    },
+    {
+        "cityId": "1266306",
+        "name": "Kolar",
+        "stateId": "1267701",
+        "latitude": 13.13,
+        "longitude": 78.23
+    },
+    {
+        "cityId": "1266426",
+        "name": "Kodagu",
+        "stateId": "1267701",
+        "latitude": 12.41667,
+        "longitude": 75.75
+    },
+    {
+        "cityId": "1270240",
+        "name": "Hassan",
+        "stateId": "1267701",
+        "latitude": 12.95,
+        "longitude": 76.08333
+    },
+    {
+        "cityId": "1270753",
+        "name": "Gulbarga",
+        "stateId": "1267701",
+        "latitude": 17.16667,
+        "longitude": 77.08333
+    },
+    {
+        "cityId": "1272797",
+        "name": "Dharwad",
+        "stateId": "1267701",
+        "latitude": 15.37,
+        "longitude": 75.14
+    },
+    {
+        "cityId": "1273664",
+        "name": "Dakshina Kannada",
+        "stateId": "1267701",
+        "latitude": 12.84,
+        "longitude": 75.29
+    },
+    {
+        "cityId": "1274057",
+        "name": "Chitradurga",
+        "stateId": "1267701",
+        "latitude": 14.2,
+        "longitude": 76.5
+    },
+    {
+        "cityId": "1274221",
+        "name": "Chikmagalur",
+        "stateId": "1267701",
+        "latitude": 13.49,
+        "longitude": 75.73
+    },
+    {
+        "cityId": "1275702",
+        "name": "Bij\u0101pur",
+        "stateId": "1267701",
+        "latitude": 16.66667,
+        "longitude": 75.91667
+    },
+    {
+        "cityId": "1275739",
+        "name": "B\u012bdar",
+        "stateId": "1267701",
+        "latitude": 18.08333,
+        "longitude": 77.33333
+    },
+    {
+        "cityId": "1276510",
+        "name": "Bellary",
+        "stateId": "1267701",
+        "latitude": 15.15,
+        "longitude": 76.55
+    },
+    {
+        "cityId": "1276534",
+        "name": "Belgaum",
+        "stateId": "1267701",
+        "latitude": 16.33333,
+        "longitude": 74.75
+    },
+    {
+        "cityId": "1277331",
+        "name": "Bangalore Urban",
+        "stateId": "1267701",
+        "latitude": 13,
+        "longitude": 77.58333
+    },
+    {
+        "cityId": "1277332",
+        "name": "Bangalore Rural",
+        "stateId": "1267701",
+        "latitude": 13.22567,
+        "longitude": 77.57501
+    },
+    {
+        "cityId": "7627234",
+        "name": "Koppal",
+        "stateId": "1267701",
+        "latitude": 15.5,
+        "longitude": 76.2
+    },
+    {
+        "cityId": "7646984",
+        "name": "Davanagere",
+        "stateId": "1267701",
+        "latitude": 14.43,
+        "longitude": 75.9
+    },
+    {
+        "cityId": "7909842",
+        "name": "Haveri",
+        "stateId": "1267701",
+        "latitude": 14.73732,
+        "longitude": 75.41062
+    },
+    {
+        "cityId": "7909847",
+        "name": "Gadag",
+        "stateId": "1267701",
+        "latitude": 15.49835,
+        "longitude": 75.65187
+    },
+    {
+        "cityId": "8224036",
+        "name": "Chikkaballapur",
+        "stateId": "1267701",
+        "latitude": 13.55,
+        "longitude": 77.87
+    },
+    {
+        "cityId": "8224037",
+        "name": "Bagalkot",
+        "stateId": "1267701",
+        "latitude": 16.18,
+        "longitude": 75.69
+    },
+    {
+        "cityId": "8224050",
+        "name": "Chamrajnagar",
+        "stateId": "1267701",
+        "latitude": 11.96,
+        "longitude": 77.09
+    },
+    {
+        "cityId": "8224051",
+        "name": "Udupi",
+        "stateId": "1267701",
+        "latitude": 13.5,
+        "longitude": 74.87
+    },
+    {
+        "cityId": "8224306",
+        "name": "Ramanagara",
+        "stateId": "1267701",
+        "latitude": 12.65,
+        "longitude": 77.35
+    },
+    {
+        "cityId": "8224605",
+        "name": "Yadgir",
+        "stateId": "1267701",
+        "latitude": 16.73,
+        "longitude": 76.94
+    }
+]

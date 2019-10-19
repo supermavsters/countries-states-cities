@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "898902",
+        "name": "Sesheke District",
+        "stateId": "896140",
+        "latitude": -16.98304,
+        "longitude": 23.87528
+    },
+    {
+        "cityId": "898945",
+        "name": "Senanga District",
+        "stateId": "896140",
+        "latitude": -16.08965,
+        "longitude": 23.76732
+    },
+    {
+        "cityId": "906052",
+        "name": "Mongu District",
+        "stateId": "896140",
+        "latitude": -15.37439,
+        "longitude": 23.5325
+    },
+    {
+        "cityId": "909482",
+        "name": "Lukulu District",
+        "stateId": "896140",
+        "latitude": -14.22997,
+        "longitude": 23.8294
+    },
+    {
+        "cityId": "913321",
+        "name": "Kaoma District",
+        "stateId": "896140",
+        "latitude": -14.64293,
+        "longitude": 24.407
+    },
+    {
+        "cityId": "915468",
+        "name": "Kalabo District",
+        "stateId": "896140",
+        "latitude": -14.83997,
+        "longitude": 22.71197
+    },
+    {
+        "cityId": "10801800",
+        "name": "Shangombo",
+        "stateId": "896140",
+        "latitude": -16.30827,
+        "longitude": 22.45556
+    },
+    {
+        "cityId": "10814741",
+        "name": "Mitete District",
+        "stateId": "896140",
+        "latitude": -14.10042,
+        "longitude": 22.6472
+    },
+    {
+        "cityId": "10815319",
+        "name": "Sikongo District",
+        "stateId": "896140",
+        "latitude": -15.23673,
+        "longitude": 22.17756
+    },
+    {
+        "cityId": "10815320",
+        "name": "Limulunga District",
+        "stateId": "896140",
+        "latitude": -14.98032,
+        "longitude": 23.35706
+    },
+    {
+        "cityId": "10815321",
+        "name": "Nkeyema District",
+        "stateId": "896140",
+        "latitude": -14.85076,
+        "longitude": 25.14925
+    },
+    {
+        "cityId": "10815322",
+        "name": "Luampa District",
+        "stateId": "896140",
+        "latitude": -15.29072,
+        "longitude": 24.74439
+    },
+    {
+        "cityId": "10815323",
+        "name": "Nalolo District",
+        "stateId": "896140",
+        "latitude": -15.77385,
+        "longitude": 22.99538
+    },
+    {
+        "cityId": "10815324",
+        "name": "Sioma District",
+        "stateId": "896140",
+        "latitude": -16.75362,
+        "longitude": 23.2221
+    },
+    {
+        "cityId": "10815325",
+        "name": "Mulobezi District",
+        "stateId": "896140",
+        "latitude": -16.2138,
+        "longitude": 24.7201
+    },
+    {
+        "cityId": "10815326",
+        "name": "Mwandi District",
+        "stateId": "896140",
+        "latitude": -17.09101,
+        "longitude": 24.63103
+    }
+]

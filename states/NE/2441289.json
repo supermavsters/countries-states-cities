@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2438821",
+        "name": "D\u00e9partement de Tessaoua",
+        "stateId": "2441289",
+        "latitude": 13.6,
+        "longitude": 7.9
+    },
+    {
+        "cityId": "2441193",
+        "name": "D\u00e9partement de Mayahi",
+        "stateId": "2441289",
+        "latitude": 14.1,
+        "longitude": 7.6
+    },
+    {
+        "cityId": "2441290",
+        "name": "D\u00e9partement de Maradi",
+        "stateId": "2441289",
+        "latitude": 13.5,
+        "longitude": 7
+    },
+    {
+        "cityId": "2446266",
+        "name": "D\u00e9partement de Dakoro",
+        "stateId": "2441289",
+        "latitude": 14.75,
+        "longitude": 7
+    },
+    {
+        "cityId": "8299475",
+        "name": "Guidan Roumdji Department",
+        "stateId": "2441289",
+        "latitude": 13.6575,
+        "longitude": 6.69583
+    },
+    {
+        "cityId": "8624179",
+        "name": "D\u00e9partement d\u2019Agui\u00e9",
+        "stateId": "2441289",
+        "latitude": 13.46976,
+        "longitude": 7.74219
+    },
+    {
+        "cityId": "8624180",
+        "name": "Madarounfa",
+        "stateId": "2441289",
+        "latitude": 13.28253,
+        "longitude": 7.15495
+    }
+]

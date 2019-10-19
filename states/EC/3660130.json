@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3651621",
+        "name": "Cant\u00f3n San Miguel",
+        "stateId": "3660130",
+        "latitude": -1.7,
+        "longitude": -79.03333
+    },
+    {
+        "cityId": "3657570",
+        "name": "Cant\u00f3n Guaranda",
+        "stateId": "3660130",
+        "latitude": -1.6,
+        "longitude": -79
+    },
+    {
+        "cityId": "3659242",
+        "name": "Cant\u00f3n Chimbo",
+        "stateId": "3660130",
+        "latitude": -1.68444,
+        "longitude": -79.02526
+    },
+    {
+        "cityId": "3659255",
+        "name": "Cant\u00f3n Chillanes",
+        "stateId": "3660130",
+        "latitude": -1.93333,
+        "longitude": -79.06667
+    },
+    {
+        "cityId": "9155070",
+        "name": "Canton Caluma",
+        "stateId": "3660130",
+        "latitude": -1.63333,
+        "longitude": -79.25
+    },
+    {
+        "cityId": "9155072",
+        "name": "Canton Echeandia",
+        "stateId": "3660130",
+        "latitude": -1.43333,
+        "longitude": -79.26667
+    },
+    {
+        "cityId": "9155660",
+        "name": "Canton Las Naves",
+        "stateId": "3660130",
+        "latitude": -1.28333,
+        "longitude": -79.3
+    }
+]

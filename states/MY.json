@@ -1,0 +1,114 @@
+[
+    {
+        "stateId": "1733049",
+        "name": "Johor",
+        "countryId": "1733045",
+        "latitude": 2,
+        "longitude": 103.5
+    },
+    {
+        "stateId": "1733048",
+        "name": "Kedah",
+        "countryId": "1733045",
+        "latitude": 6,
+        "longitude": 100.66667
+    },
+    {
+        "stateId": "1733044",
+        "name": "Kelantan",
+        "countryId": "1733045",
+        "latitude": 5.33333,
+        "longitude": 102
+    },
+    {
+        "stateId": "1733046",
+        "name": "Kuala Lumpur",
+        "countryId": "1733045",
+        "latitude": 3.14309,
+        "longitude": 101.68653
+    },
+    {
+        "stateId": "1734240",
+        "name": "Labuan",
+        "countryId": "1733045",
+        "latitude": 5.33333,
+        "longitude": 115.2
+    },
+    {
+        "stateId": "1733035",
+        "name": "Melaka",
+        "countryId": "1733045",
+        "latitude": 2.25,
+        "longitude": 102.25
+    },
+    {
+        "stateId": "1733043",
+        "name": "Negeri Sembilan",
+        "countryId": "1733045",
+        "latitude": 2.75,
+        "longitude": 102.16667
+    },
+    {
+        "stateId": "1733042",
+        "name": "Pahang",
+        "countryId": "1733045",
+        "latitude": 3.5,
+        "longitude": 102.75
+    },
+    {
+        "stateId": "1733041",
+        "name": "Perak",
+        "countryId": "1733045",
+        "latitude": 5,
+        "longitude": 101
+    },
+    {
+        "stateId": "1733040",
+        "name": "Perlis",
+        "countryId": "1733045",
+        "latitude": 6.5,
+        "longitude": 100.25
+    },
+    {
+        "stateId": "1733047",
+        "name": "Pulau Pinang",
+        "countryId": "1733045",
+        "latitude": 5.37677,
+        "longitude": 100.25848
+    },
+    {
+        "stateId": "1996552",
+        "name": "Putrajaya",
+        "countryId": "1733045",
+        "latitude": 2.91667,
+        "longitude": 101.7
+    },
+    {
+        "stateId": "1733039",
+        "name": "Sabah",
+        "countryId": "1733045",
+        "latitude": 5.5,
+        "longitude": 117
+    },
+    {
+        "stateId": "1733038",
+        "name": "Sarawak",
+        "countryId": "1733045",
+        "latitude": 2.5,
+        "longitude": 113.5
+    },
+    {
+        "stateId": "1733037",
+        "name": "Selangor",
+        "countryId": "1733045",
+        "latitude": 3.16667,
+        "longitude": 101.5
+    },
+    {
+        "stateId": "1733036",
+        "name": "Terengganu",
+        "countryId": "1733045",
+        "latitude": 5,
+        "longitude": 103
+    }
+]

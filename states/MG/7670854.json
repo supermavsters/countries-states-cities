@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7670915",
+        "name": "Antsirabe II",
+        "stateId": "7670854",
+        "latitude": -19.86894,
+        "longitude": 47.14844
+    },
+    {
+        "cityId": "7670916",
+        "name": "Antsirabe I District",
+        "stateId": "7670854",
+        "latitude": -19.85559,
+        "longitude": 47.03756
+    },
+    {
+        "cityId": "7670918",
+        "name": "Antanifotsy",
+        "stateId": "7670854",
+        "latitude": -19.74469,
+        "longitude": 47.4813
+    },
+    {
+        "cityId": "7670920",
+        "name": "Ambatolampy",
+        "stateId": "7670854",
+        "latitude": -19.46179,
+        "longitude": 47.55007
+    },
+    {
+        "cityId": "8299296",
+        "name": "Betafo District",
+        "stateId": "7670854",
+        "latitude": -19.75378,
+        "longitude": 46.50238
+    },
+    {
+        "cityId": "11072806",
+        "name": "Faratsiho",
+        "stateId": "7670854",
+        "latitude": -19.43046,
+        "longitude": 46.91978
+    }
+]

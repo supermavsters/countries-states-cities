@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7626932",
+        "name": "Lelu Municipality",
+        "stateId": "2082036",
+        "latitude": 5.34865,
+        "longitude": 163.01917
+    },
+    {
+        "cityId": "7626933",
+        "name": "Malem Municipality",
+        "stateId": "2082036",
+        "latitude": 5.27507,
+        "longitude": 163.01685
+    },
+    {
+        "cityId": "7626934",
+        "name": "Tafunsak Municipality",
+        "stateId": "2082036",
+        "latitude": 5.34993,
+        "longitude": 162.96965
+    },
+    {
+        "cityId": "7626935",
+        "name": "Utwe Municipality",
+        "stateId": "2082036",
+        "latitude": 5.27511,
+        "longitude": 162.95617
+    }
+]

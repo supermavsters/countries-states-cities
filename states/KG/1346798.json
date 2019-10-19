@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7667445",
+        "name": "Uzgen District",
+        "stateId": "1346798",
+        "latitude": 40.55,
+        "longitude": 73.3
+    },
+    {
+        "cityId": "7910403",
+        "name": "Aravan",
+        "stateId": "1346798",
+        "latitude": 40.459,
+        "longitude": 72.52
+    },
+    {
+        "cityId": "7910404",
+        "name": "Kara-Suu",
+        "stateId": "1346798",
+        "latitude": 40.37,
+        "longitude": 73.08
+    },
+    {
+        "cityId": "7910405",
+        "name": "Nookat",
+        "stateId": "1346798",
+        "latitude": 40.07,
+        "longitude": 72.68
+    },
+    {
+        "cityId": "8739771",
+        "name": "Alay District",
+        "stateId": "1346798",
+        "latitude": 39.85863,
+        "longitude": 73.55941
+    },
+    {
+        "cityId": "9165129",
+        "name": "Kara Kulja",
+        "stateId": "1346798",
+        "latitude": 40.64095,
+        "longitude": 73.49411
+    },
+    {
+        "cityId": "9192641",
+        "name": "Chon-Alayskiy Rayon",
+        "stateId": "1346798",
+        "latitude": 39.47614,
+        "longitude": 72.33017
+    }
+]

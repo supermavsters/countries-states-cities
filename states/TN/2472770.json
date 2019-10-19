@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2472772",
+        "name": "D\u00e9l\u00e9gation de B\u00e9ja Nord",
+        "stateId": "2472770",
+        "latitude": 36.80353,
+        "longitude": 9.24984
+    },
+    {
+        "cityId": "2473663",
+        "name": "Nefza",
+        "stateId": "2472770",
+        "latitude": 36.9868,
+        "longitude": 9.07576
+    },
+    {
+        "cityId": "7870604",
+        "name": "Nefza",
+        "stateId": "2472770",
+        "latitude": 36.99415,
+        "longitude": 9.09028
+    },
+    {
+        "cityId": "7870605",
+        "name": "Beja Sud",
+        "stateId": "2472770",
+        "latitude": 36.64255,
+        "longitude": 9.20852
+    },
+    {
+        "cityId": "7870606",
+        "name": "Goubellat",
+        "stateId": "2472770",
+        "latitude": 36.52719,
+        "longitude": 9.70083
+    },
+    {
+        "cityId": "11108351",
+        "name": "Tibar",
+        "stateId": "2472770",
+        "latitude": 36.51145,
+        "longitude": 9.1016
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2403287",
+        "name": "Tonkolili District",
+        "stateId": "2404798",
+        "latitude": 8.61885,
+        "longitude": -11.84173
+    },
+    {
+        "cityId": "2404431",
+        "name": "Port Loko District",
+        "stateId": "2404798",
+        "latitude": 8.72386,
+        "longitude": -12.75904
+    },
+    {
+        "cityId": "2407650",
+        "name": "Koinadugu District",
+        "stateId": "2404798",
+        "latitude": 9.50991,
+        "longitude": -11.34601
+    },
+    {
+        "cityId": "2408083",
+        "name": "Kambia District",
+        "stateId": "2404798",
+        "latitude": 9.18251,
+        "longitude": -12.81309
+    },
+    {
+        "cityId": "2409983",
+        "name": "Bombali District",
+        "stateId": "2404798",
+        "latitude": 9.28444,
+        "longitude": -12.16449
+    }
+]

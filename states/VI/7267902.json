@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "9252017",
+        "name": "Anna's Hope Village",
+        "stateId": "7267902",
+        "latitude": 17.72324,
+        "longitude": -64.69974
+    },
+    {
+        "cityId": "9252018",
+        "name": "Christiansted",
+        "stateId": "7267902",
+        "latitude": 17.74401,
+        "longitude": -64.70727
+    },
+    {
+        "cityId": "9252019",
+        "name": "East End",
+        "stateId": "7267902",
+        "latitude": 17.74616,
+        "longitude": -64.63741
+    },
+    {
+        "cityId": "9252020",
+        "name": "Northwest",
+        "stateId": "7267902",
+        "latitude": 17.73732,
+        "longitude": -64.85333
+    },
+    {
+        "cityId": "9252021",
+        "name": "Sion Farm",
+        "stateId": "7267902",
+        "latitude": 17.74906,
+        "longitude": -64.7462
+    },
+    {
+        "cityId": "9252022",
+        "name": "Southcentral",
+        "stateId": "7267902",
+        "latitude": 17.70955,
+        "longitude": -64.77797
+    },
+    {
+        "cityId": "9252023",
+        "name": "Southwest",
+        "stateId": "7267902",
+        "latitude": 17.69317,
+        "longitude": -64.85755
+    },
+    {
+        "cityId": "9252035",
+        "name": "Frederiksted",
+        "stateId": "7267902",
+        "latitude": 17.706,
+        "longitude": -64.87732
+    },
+    {
+        "cityId": "9252036",
+        "name": "Northcentral",
+        "stateId": "7267902",
+        "latitude": 17.7533,
+        "longitude": -64.79238
+    }
+]

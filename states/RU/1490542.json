@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "542198",
+        "name": "Krasnoufimskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 56.58333,
+        "longitude": 57.66667
+    },
+    {
+        "cityId": "1490399",
+        "name": "Sysertskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 56.5,
+        "longitude": 60.75
+    },
+    {
+        "cityId": "1490708",
+        "name": "Sukholozhskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 57,
+        "longitude": 62
+    },
+    {
+        "cityId": "1504832",
+        "name": "Kamenskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 56.5,
+        "longitude": 61.75
+    },
+    {
+        "cityId": "1509887",
+        "name": "Bogdanovichskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 56.75,
+        "longitude": 62.08333
+    },
+    {
+        "cityId": "1510447",
+        "name": "Beloyarskiy Rayon",
+        "stateId": "1490542",
+        "latitude": 56.75,
+        "longitude": 61.33333
+    },
+    {
+        "cityId": "1536221",
+        "name": "Polevskoy Gorod",
+        "stateId": "1490542",
+        "latitude": 56.41667,
+        "longitude": 60.16667
+    }
+]

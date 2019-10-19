@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7909700",
+        "name": "Sao Domingos",
+        "stateId": "2374312",
+        "latitude": 12.40194,
+        "longitude": -16.20056
+    },
+    {
+        "cityId": "7909702",
+        "name": "Cacheu Sector",
+        "stateId": "2374312",
+        "latitude": 12.16667,
+        "longitude": -16.16666
+    },
+    {
+        "cityId": "7932380",
+        "name": "Bigene Sector",
+        "stateId": "2374312",
+        "latitude": 12.35383,
+        "longitude": -15.75341
+    },
+    {
+        "cityId": "8335055",
+        "name": "Caio Sector",
+        "stateId": "2374312",
+        "latitude": 11.92513,
+        "longitude": -16.16364
+    },
+    {
+        "cityId": "8335068",
+        "name": "Canchungo Sector",
+        "stateId": "2374312",
+        "latitude": 12.03,
+        "longitude": -15.983
+    },
+    {
+        "cityId": "8335069",
+        "name": "Bula",
+        "stateId": "2374312",
+        "latitude": 12.1058,
+        "longitude": -15.7077
+    }
+]

@@ -1,0 +1,667 @@
+[
+    {
+        "cityId": "4050506",
+        "name": "Campbell County",
+        "stateId": "4662168",
+        "latitude": 36.40351,
+        "longitude": -84.14938
+    },
+    {
+        "cityId": "4602643",
+        "name": "Anderson County",
+        "stateId": "4662168",
+        "latitude": 36.11844,
+        "longitude": -84.19846
+    },
+    {
+        "cityId": "4605583",
+        "name": "Benton County",
+        "stateId": "4662168",
+        "latitude": 36.06978,
+        "longitude": -88.06827
+    },
+    {
+        "cityId": "4607097",
+        "name": "Bledsoe County",
+        "stateId": "4662168",
+        "latitude": 35.59642,
+        "longitude": -85.20516
+    },
+    {
+        "cityId": "4607192",
+        "name": "Blount County",
+        "stateId": "4662168",
+        "latitude": 35.68724,
+        "longitude": -83.92553
+    },
+    {
+        "cityId": "4608185",
+        "name": "Bradley County",
+        "stateId": "4662168",
+        "latitude": 35.15411,
+        "longitude": -84.8596
+    },
+    {
+        "cityId": "4611179",
+        "name": "Cannon County",
+        "stateId": "4662168",
+        "latitude": 35.80868,
+        "longitude": -86.06174
+    },
+    {
+        "cityId": "4611490",
+        "name": "Carroll County",
+        "stateId": "4662168",
+        "latitude": 35.97317,
+        "longitude": -88.45026
+    },
+    {
+        "cityId": "4611599",
+        "name": "Carter County",
+        "stateId": "4662168",
+        "latitude": 36.29272,
+        "longitude": -82.12743
+    },
+    {
+        "cityId": "4612891",
+        "name": "Cheatham County",
+        "stateId": "4662168",
+        "latitude": 36.26117,
+        "longitude": -87.08678
+    },
+    {
+        "cityId": "4613057",
+        "name": "Chester County",
+        "stateId": "4662168",
+        "latitude": 35.42175,
+        "longitude": -88.61346
+    },
+    {
+        "cityId": "4613750",
+        "name": "Claiborne County",
+        "stateId": "4662168",
+        "latitude": 36.48585,
+        "longitude": -83.66042
+    },
+    {
+        "cityId": "4613912",
+        "name": "Clay County",
+        "stateId": "4662168",
+        "latitude": 36.55116,
+        "longitude": -85.54386
+    },
+    {
+        "cityId": "4614441",
+        "name": "Cocke County",
+        "stateId": "4662168",
+        "latitude": 35.92542,
+        "longitude": -83.12116
+    },
+    {
+        "cityId": "4614466",
+        "name": "Coffee County",
+        "stateId": "4662168",
+        "latitude": 35.49062,
+        "longitude": -86.07476
+    },
+    {
+        "cityId": "4616263",
+        "name": "Crockett County",
+        "stateId": "4662168",
+        "latitude": 35.81354,
+        "longitude": -89.13953
+    },
+    {
+        "cityId": "4616678",
+        "name": "Cumberland County",
+        "stateId": "4662168",
+        "latitude": 35.95039,
+        "longitude": -84.99835
+    },
+    {
+        "cityId": "4617305",
+        "name": "Davidson County",
+        "stateId": "4662168",
+        "latitude": 36.17069,
+        "longitude": -86.77753
+    },
+    {
+        "cityId": "4617573",
+        "name": "DeKalb County",
+        "stateId": "4662168",
+        "latitude": 35.97986,
+        "longitude": -85.83275
+    },
+    {
+        "cityId": "4617654",
+        "name": "Decatur County",
+        "stateId": "4662168",
+        "latitude": 35.60302,
+        "longitude": -88.10877
+    },
+    {
+        "cityId": "4618068",
+        "name": "Dickson County",
+        "stateId": "4662168",
+        "latitude": 36.14905,
+        "longitude": -87.35666
+    },
+    {
+        "cityId": "4619773",
+        "name": "Dyer County",
+        "stateId": "4662168",
+        "latitude": 36.05906,
+        "longitude": -89.41377
+    },
+    {
+        "cityId": "4621908",
+        "name": "Fayette County",
+        "stateId": "4662168",
+        "latitude": 35.19708,
+        "longitude": -89.41437
+    },
+    {
+        "cityId": "4621984",
+        "name": "Fentress County",
+        "stateId": "4662168",
+        "latitude": 36.38049,
+        "longitude": -84.93246
+    },
+    {
+        "cityId": "4623574",
+        "name": "Franklin County",
+        "stateId": "4662168",
+        "latitude": 35.15496,
+        "longitude": -86.09218
+    },
+    {
+        "cityId": "4624666",
+        "name": "Gibson County",
+        "stateId": "4662168",
+        "latitude": 35.99661,
+        "longitude": -88.93262
+    },
+    {
+        "cityId": "4624737",
+        "name": "Giles County",
+        "stateId": "4662168",
+        "latitude": 35.20215,
+        "longitude": -87.03478
+    },
+    {
+        "cityId": "4625620",
+        "name": "Grainger County",
+        "stateId": "4662168",
+        "latitude": 36.27625,
+        "longitude": -83.50962
+    },
+    {
+        "cityId": "4626324",
+        "name": "Greene County",
+        "stateId": "4662168",
+        "latitude": 36.17536,
+        "longitude": -82.84582
+    },
+    {
+        "cityId": "4626743",
+        "name": "Grundy County",
+        "stateId": "4662168",
+        "latitude": 35.38837,
+        "longitude": -85.72258
+    },
+    {
+        "cityId": "4627251",
+        "name": "Hamblen County",
+        "stateId": "4662168",
+        "latitude": 36.21715,
+        "longitude": -83.26666
+    },
+    {
+        "cityId": "4627306",
+        "name": "Hamilton County",
+        "stateId": "4662168",
+        "latitude": 35.18086,
+        "longitude": -85.16479
+    },
+    {
+        "cityId": "4627427",
+        "name": "Hancock County",
+        "stateId": "4662168",
+        "latitude": 36.52365,
+        "longitude": -83.22183
+    },
+    {
+        "cityId": "4627590",
+        "name": "Hardeman County",
+        "stateId": "4662168",
+        "latitude": 35.20687,
+        "longitude": -88.99308
+    },
+    {
+        "cityId": "4627625",
+        "name": "Hardin County",
+        "stateId": "4662168",
+        "latitude": 35.19868,
+        "longitude": -88.18448
+    },
+    {
+        "cityId": "4628325",
+        "name": "Hawkins County",
+        "stateId": "4662168",
+        "latitude": 36.44117,
+        "longitude": -82.94468
+    },
+    {
+        "cityId": "4628456",
+        "name": "Haywood County",
+        "stateId": "4662168",
+        "latitude": 35.58322,
+        "longitude": -89.28384
+    },
+    {
+        "cityId": "4628715",
+        "name": "Henderson County",
+        "stateId": "4662168",
+        "latitude": 35.65426,
+        "longitude": -88.38799
+    },
+    {
+        "cityId": "4628829",
+        "name": "Henry County",
+        "stateId": "4662168",
+        "latitude": 36.33183,
+        "longitude": -88.30122
+    },
+    {
+        "cityId": "4629047",
+        "name": "Hickman County",
+        "stateId": "4662168",
+        "latitude": 35.80325,
+        "longitude": -87.47331
+    },
+    {
+        "cityId": "4630950",
+        "name": "Houston County",
+        "stateId": "4662168",
+        "latitude": 36.28597,
+        "longitude": -87.71704
+    },
+    {
+        "cityId": "4631309",
+        "name": "Humphreys County",
+        "stateId": "4662168",
+        "latitude": 36.04082,
+        "longitude": -87.77563
+    },
+    {
+        "cityId": "4632660",
+        "name": "Jackson County",
+        "stateId": "4662168",
+        "latitude": 36.35921,
+        "longitude": -85.67315
+    },
+    {
+        "cityId": "4632934",
+        "name": "Jefferson County",
+        "stateId": "4662168",
+        "latitude": 36.05099,
+        "longitude": -83.44631
+    },
+    {
+        "cityId": "4633430",
+        "name": "Johnson County",
+        "stateId": "4662168",
+        "latitude": 36.45494,
+        "longitude": -81.85175
+    },
+    {
+        "cityId": "4634931",
+        "name": "Knox County",
+        "stateId": "4662168",
+        "latitude": 35.99322,
+        "longitude": -83.93709
+    },
+    {
+        "cityId": "4635138",
+        "name": "Lake County",
+        "stateId": "4662168",
+        "latitude": 36.33538,
+        "longitude": -89.49347
+    },
+    {
+        "cityId": "4635615",
+        "name": "Lauderdale County",
+        "stateId": "4662168",
+        "latitude": 35.76101,
+        "longitude": -89.63144
+    },
+    {
+        "cityId": "4635830",
+        "name": "Lawrence County",
+        "stateId": "4662168",
+        "latitude": 35.21727,
+        "longitude": -87.39559
+    },
+    {
+        "cityId": "4636403",
+        "name": "Lewis County",
+        "stateId": "4662168",
+        "latitude": 35.52728,
+        "longitude": -87.4931
+    },
+    {
+        "cityId": "4636884",
+        "name": "Lincoln County",
+        "stateId": "4662168",
+        "latitude": 35.14052,
+        "longitude": -86.58894
+    },
+    {
+        "cityId": "4638283",
+        "name": "Loudon County",
+        "stateId": "4662168",
+        "latitude": 35.73478,
+        "longitude": -84.31187
+    },
+    {
+        "cityId": "4638991",
+        "name": "Macon County",
+        "stateId": "4662168",
+        "latitude": 36.53203,
+        "longitude": -86.00727
+    },
+    {
+        "cityId": "4639045",
+        "name": "Madison County",
+        "stateId": "4662168",
+        "latitude": 35.60814,
+        "longitude": -88.83847
+    },
+    {
+        "cityId": "4639514",
+        "name": "Marion County",
+        "stateId": "4662168",
+        "latitude": 35.12935,
+        "longitude": -85.62203
+    },
+    {
+        "cityId": "4639630",
+        "name": "Marshall County",
+        "stateId": "4662168",
+        "latitude": 35.46886,
+        "longitude": -86.76502
+    },
+    {
+        "cityId": "4640041",
+        "name": "Maury County",
+        "stateId": "4662168",
+        "latitude": 35.61694,
+        "longitude": -87.07701
+    },
+    {
+        "cityId": "4640873",
+        "name": "McMinn County",
+        "stateId": "4662168",
+        "latitude": 35.42475,
+        "longitude": -84.61747
+    },
+    {
+        "cityId": "4640921",
+        "name": "McNairy County",
+        "stateId": "4662168",
+        "latitude": 35.17545,
+        "longitude": -88.56364
+    },
+    {
+        "cityId": "4641148",
+        "name": "Meigs County",
+        "stateId": "4662168",
+        "latitude": 35.51283,
+        "longitude": -84.81339
+    },
+    {
+        "cityId": "4642365",
+        "name": "Monroe County",
+        "stateId": "4662168",
+        "latitude": 35.44265,
+        "longitude": -84.25279
+    },
+    {
+        "cityId": "4642445",
+        "name": "Montgomery County",
+        "stateId": "4662168",
+        "latitude": 36.49686,
+        "longitude": -87.38289
+    },
+    {
+        "cityId": "4642600",
+        "name": "Moore County",
+        "stateId": "4662168",
+        "latitude": 35.28462,
+        "longitude": -86.35877
+    },
+    {
+        "cityId": "4642752",
+        "name": "Morgan County",
+        "stateId": "4662168",
+        "latitude": 36.13502,
+        "longitude": -84.6492
+    },
+    {
+        "cityId": "4646779",
+        "name": "Obion County",
+        "stateId": "4662168",
+        "latitude": 36.35825,
+        "longitude": -89.1488
+    },
+    {
+        "cityId": "4647552",
+        "name": "Overton County",
+        "stateId": "4662168",
+        "latitude": 36.345,
+        "longitude": -85.28808
+    },
+    {
+        "cityId": "4648830",
+        "name": "Perry County",
+        "stateId": "4662168",
+        "latitude": 35.64263,
+        "longitude": -87.85897
+    },
+    {
+        "cityId": "4649175",
+        "name": "Pickett County",
+        "stateId": "4662168",
+        "latitude": 36.55841,
+        "longitude": -85.07499
+    },
+    {
+        "cityId": "4650495",
+        "name": "Polk County",
+        "stateId": "4662168",
+        "latitude": 35.1199,
+        "longitude": -84.5233
+    },
+    {
+        "cityId": "4651744",
+        "name": "Putnam County",
+        "stateId": "4662168",
+        "latitude": 36.14083,
+        "longitude": -85.49519
+    },
+    {
+        "cityId": "4652809",
+        "name": "Rhea County",
+        "stateId": "4662168",
+        "latitude": 35.60871,
+        "longitude": -84.9244
+    },
+    {
+        "cityId": "4653455",
+        "name": "Roane County",
+        "stateId": "4662168",
+        "latitude": 35.84786,
+        "longitude": -84.52324
+    },
+    {
+        "cityId": "4653638",
+        "name": "Robertson County",
+        "stateId": "4662168",
+        "latitude": 36.52546,
+        "longitude": -86.87057
+    },
+    {
+        "cityId": "4654962",
+        "name": "Rutherford County",
+        "stateId": "4662168",
+        "latitude": 35.8427,
+        "longitude": -86.41674
+    },
+    {
+        "cityId": "4656214",
+        "name": "Scott County",
+        "stateId": "4662168",
+        "latitude": 36.42854,
+        "longitude": -84.50352
+    },
+    {
+        "cityId": "4656461",
+        "name": "Sequatchie County",
+        "stateId": "4662168",
+        "latitude": 35.37115,
+        "longitude": -85.41059
+    },
+    {
+        "cityId": "4656568",
+        "name": "Sevier County",
+        "stateId": "4662168",
+        "latitude": 35.78466,
+        "longitude": -83.52418
+    },
+    {
+        "cityId": "4657046",
+        "name": "Shelby County",
+        "stateId": "4662168",
+        "latitude": 35.184,
+        "longitude": -89.8956
+    },
+    {
+        "cityId": "4658423",
+        "name": "Smith County",
+        "stateId": "4662168",
+        "latitude": 36.25053,
+        "longitude": -85.95671
+    },
+    {
+        "cityId": "4660056",
+        "name": "Stewart County",
+        "stateId": "4662168",
+        "latitude": 36.5011,
+        "longitude": -87.83846
+    },
+    {
+        "cityId": "4660813",
+        "name": "Sullivan County",
+        "stateId": "4662168",
+        "latitude": 36.51292,
+        "longitude": -82.30414
+    },
+    {
+        "cityId": "4661017",
+        "name": "Sumner County",
+        "stateId": "4662168",
+        "latitude": 36.46941,
+        "longitude": -86.46036
+    },
+    {
+        "cityId": "4662784",
+        "name": "Tipton County",
+        "stateId": "4662168",
+        "latitude": 35.49687,
+        "longitude": -89.75924
+    },
+    {
+        "cityId": "4663355",
+        "name": "Trousdale County",
+        "stateId": "4662168",
+        "latitude": 36.39204,
+        "longitude": -86.15675
+    },
+    {
+        "cityId": "4663934",
+        "name": "Unicoi County",
+        "stateId": "4662168",
+        "latitude": 36.11082,
+        "longitude": -82.43224
+    },
+    {
+        "cityId": "4664043",
+        "name": "Union County",
+        "stateId": "4662168",
+        "latitude": 36.28787,
+        "longitude": -83.83751
+    },
+    {
+        "cityId": "4664489",
+        "name": "Van Buren County",
+        "stateId": "4662168",
+        "latitude": 35.69598,
+        "longitude": -85.45261
+    },
+    {
+        "cityId": "4665884",
+        "name": "Warren County",
+        "stateId": "4662168",
+        "latitude": 35.67868,
+        "longitude": -85.7785
+    },
+    {
+        "cityId": "4665975",
+        "name": "Washington County",
+        "stateId": "4662168",
+        "latitude": 36.2933,
+        "longitude": -82.49743
+    },
+    {
+        "cityId": "4666233",
+        "name": "Wayne County",
+        "stateId": "4662168",
+        "latitude": 35.23992,
+        "longitude": -87.78801
+    },
+    {
+        "cityId": "4666265",
+        "name": "Weakley County",
+        "stateId": "4662168",
+        "latitude": 36.2983,
+        "longitude": -88.71774
+    },
+    {
+        "cityId": "4667226",
+        "name": "White County",
+        "stateId": "4662168",
+        "latitude": 35.92635,
+        "longitude": -85.45518
+    },
+    {
+        "cityId": "4668054",
+        "name": "Williamson County",
+        "stateId": "4662168",
+        "latitude": 35.89378,
+        "longitude": -86.8986
+    },
+    {
+        "cityId": "4668271",
+        "name": "Wilson County",
+        "stateId": "4662168",
+        "latitude": 36.15486,
+        "longitude": -86.29763
+    },
+    {
+        "cityId": "4829092",
+        "name": "Bedford County",
+        "stateId": "4662168",
+        "latitude": 35.5138,
+        "longitude": -86.45889
+    }
+]

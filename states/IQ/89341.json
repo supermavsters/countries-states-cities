@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "98247",
+        "name": "Al-Zubair District",
+        "stateId": "89341",
+        "latitude": 30.14032,
+        "longitude": 47.05165
+    },
+    {
+        "cityId": "98994",
+        "name": "Al-Qurna District",
+        "stateId": "89341",
+        "latitude": 31,
+        "longitude": 47.5
+    },
+    {
+        "cityId": "99534",
+        "name": "Basrah District",
+        "stateId": "89341",
+        "latitude": 30.5,
+        "longitude": 47.78333
+    },
+    {
+        "cityId": "100049",
+        "name": "Abu Al-Khaseeb District",
+        "stateId": "89341",
+        "latitude": 30.25,
+        "longitude": 48.1
+    },
+    {
+        "cityId": "9166549",
+        "name": "Al-Faw District",
+        "stateId": "89341",
+        "latitude": 30.09346,
+        "longitude": 48.21259
+    },
+    {
+        "cityId": "9166563",
+        "name": "Al-Midaina District",
+        "stateId": "89341",
+        "latitude": 30.94095,
+        "longitude": 47.26437
+    },
+    {
+        "cityId": "9873224",
+        "name": "Qa\u1e11\u0101\u2019 al Mad\u012bnah",
+        "stateId": "89341",
+        "latitude": 31.0246,
+        "longitude": 47.25924
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "2182236",
+        "name": "Stratford District",
+        "stateId": "2181872",
+        "latitude": -39.33333,
+        "longitude": 174.28333
+    },
+    {
+        "cityId": "2186240",
+        "name": "New Plymouth District",
+        "stateId": "2181872",
+        "latitude": -39.05865,
+        "longitude": 174.10309
+    },
+    {
+        "cityId": "7910062",
+        "name": "South Taranaki District",
+        "stateId": "2181872",
+        "latitude": -39.52156,
+        "longitude": 174.3716
+    }
+]

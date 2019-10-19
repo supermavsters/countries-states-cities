@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1625707",
+        "name": "Kabupaten Tabanan",
+        "stateId": "1650535",
+        "latitude": -8.43333,
+        "longitude": 115.06667
+    },
+    {
+        "cityId": "1639849",
+        "name": "Kabupaten Klungkung",
+        "stateId": "1650535",
+        "latitude": -8.55,
+        "longitude": 115.4
+    },
+    {
+        "cityId": "1642584",
+        "name": "Kabupaten Jembrana",
+        "stateId": "1650535",
+        "latitude": -8.3,
+        "longitude": 114.66667
+    },
+    {
+        "cityId": "1644098",
+        "name": "Kabupaten Gianyar",
+        "stateId": "1650535",
+        "latitude": -8.46667,
+        "longitude": 115.28333
+    },
+    {
+        "cityId": "1645527",
+        "name": "Kota Denpasar",
+        "stateId": "1650535",
+        "latitude": -8.66667,
+        "longitude": 115.21663
+    },
+    {
+        "cityId": "1647803",
+        "name": "Kabupaten Buleleng",
+        "stateId": "1650535",
+        "latitude": -8.25,
+        "longitude": 114.96667
+    },
+    {
+        "cityId": "1650263",
+        "name": "Kabupaten Bangli",
+        "stateId": "1650535",
+        "latitude": -8.28333,
+        "longitude": 115.35
+    },
+    {
+        "cityId": "1650818",
+        "name": "Kabupaten Badung",
+        "stateId": "1650535",
+        "latitude": -8.51667,
+        "longitude": 115.2
+    },
+    {
+        "cityId": "7086954",
+        "name": "Kabupaten Karang Asem",
+        "stateId": "1650535",
+        "latitude": -8.3891,
+        "longitude": 115.5393
+    }
+]

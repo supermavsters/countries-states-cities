@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "1626541",
+        "name": "Kabupaten Sorong",
+        "stateId": "1996549",
+        "latitude": -1.16667,
+        "longitude": 131.5
+    },
+    {
+        "cityId": "1630210",
+        "name": "Kabupaten Raja Ampat",
+        "stateId": "1996549",
+        "latitude": -0.5,
+        "longitude": 130
+    },
+    {
+        "cityId": "1636306",
+        "name": "Kabupaten Manokwari",
+        "stateId": "1996549",
+        "latitude": -0.9,
+        "longitude": 133.75
+    },
+    {
+        "cityId": "6619356",
+        "name": "Kabupaten Fakfak",
+        "stateId": "1996549",
+        "latitude": -2.92641,
+        "longitude": 132.29608
+    },
+    {
+        "cityId": "7910905",
+        "name": "Kabupaten Kaimana",
+        "stateId": "1996549",
+        "latitude": -3.66093,
+        "longitude": 133.77451
+    },
+    {
+        "cityId": "7910908",
+        "name": "Kabupaten Teluk Wondama",
+        "stateId": "1996549",
+        "latitude": -2.7,
+        "longitude": 134.5
+    },
+    {
+        "cityId": "7910924",
+        "name": "Kabupaten Sorong Selatan",
+        "stateId": "1996549",
+        "latitude": -1.50495,
+        "longitude": 132.28638
+    },
+    {
+        "cityId": "9166002",
+        "name": "Kabupaten Teluk Bintuni",
+        "stateId": "1996549",
+        "latitude": -1.88037,
+        "longitude": 133.33105
+    },
+    {
+        "cityId": "9827967",
+        "name": "Kabupaten Manokwari Selatan",
+        "stateId": "1996549",
+        "latitude": -1.0798,
+        "longitude": 133.96729
+    },
+    {
+        "cityId": "9828026",
+        "name": "Kabupaten Pegunungan Arfak",
+        "stateId": "1996549",
+        "latitude": -0.93523,
+        "longitude": 133.89587
+    },
+    {
+        "cityId": "9828956",
+        "name": "Kabupaten Maybrat",
+        "stateId": "1996549",
+        "latitude": -1.2155,
+        "longitude": 132.35092
+    },
+    {
+        "cityId": "9845465",
+        "name": "Kota Sorong",
+        "stateId": "1996549",
+        "latitude": -0.86507,
+        "longitude": 131.25152
+    },
+    {
+        "cityId": "9845477",
+        "name": "Kabupaten Tambrauw",
+        "stateId": "1996549",
+        "latitude": -0.60515,
+        "longitude": 132.48962
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7732967",
+        "name": "Administrative Zone 1",
+        "stateId": "444183",
+        "latitude": 8.14699,
+        "longitude": 33.97335
+    },
+    {
+        "cityId": "11750817",
+        "name": "Nuer",
+        "stateId": "444183",
+        "latitude": 8.3343,
+        "longitude": 33.44354
+    },
+    {
+        "cityId": "11750818",
+        "name": "Agnuak",
+        "stateId": "444183",
+        "latitude": 7.6529,
+        "longitude": 34.44645
+    },
+    {
+        "cityId": "11750819",
+        "name": "Mezhenger",
+        "stateId": "444183",
+        "latitude": 7.34579,
+        "longitude": 35.12785
+    }
+]

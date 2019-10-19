@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "1261448",
+        "name": "Nicobar",
+        "stateId": "1278647",
+        "latitude": 7.03002,
+        "longitude": 93.79028
+    },
+    {
+        "cityId": "1278648",
+        "name": "South Andaman",
+        "stateId": "1278647",
+        "latitude": 10.75776,
+        "longitude": 92.52136
+    },
+    {
+        "cityId": "9748018",
+        "name": "North  & Middle Andaman",
+        "stateId": "1278647",
+        "latitude": 12.8379,
+        "longitude": 92.86752
+    }
+]

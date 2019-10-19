@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "4033777",
+        "name": "Punaauia",
+        "stateId": "4034365",
+        "latitude": -17.61667,
+        "longitude": -149.58333
+    },
+    {
+        "cityId": "4034400",
+        "name": "Hitiaa O Te Ra",
+        "stateId": "4034365",
+        "latitude": -17.60574,
+        "longitude": -149.30523
+    },
+    {
+        "cityId": "10295208",
+        "name": "Arue",
+        "stateId": "4034365",
+        "latitude": -17.5335,
+        "longitude": -149.51285
+    },
+    {
+        "cityId": "10295209",
+        "name": "Faaa",
+        "stateId": "4034365",
+        "latitude": -17.55208,
+        "longitude": -149.59667
+    },
+    {
+        "cityId": "10295210",
+        "name": "Mahina",
+        "stateId": "4034365",
+        "latitude": -17.50849,
+        "longitude": -149.49002
+    },
+    {
+        "cityId": "10295211",
+        "name": "Paea",
+        "stateId": "4034365",
+        "latitude": -17.69274,
+        "longitude": -149.58414
+    },
+    {
+        "cityId": "10295212",
+        "name": "Papara",
+        "stateId": "4034365",
+        "latitude": -17.75021,
+        "longitude": -149.55478
+    },
+    {
+        "cityId": "10295213",
+        "name": "Papeete",
+        "stateId": "4034365",
+        "latitude": -17.53501,
+        "longitude": -149.56804
+    },
+    {
+        "cityId": "10295214",
+        "name": "Pirae",
+        "stateId": "4034365",
+        "latitude": -17.53244,
+        "longitude": -149.52135
+    },
+    {
+        "cityId": "10297425",
+        "name": "Taiarapu-Est",
+        "stateId": "4034365",
+        "latitude": -17.78836,
+        "longitude": -149.20017
+    },
+    {
+        "cityId": "10297426",
+        "name": "Taiarapu-Ouest",
+        "stateId": "4034365",
+        "latitude": -17.55119,
+        "longitude": -149.53423
+    },
+    {
+        "cityId": "10297429",
+        "name": "Teva I Uta",
+        "stateId": "4034365",
+        "latitude": -17.73956,
+        "longitude": -149.40917
+    }
+]

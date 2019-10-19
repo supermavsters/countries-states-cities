@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7733028",
+        "name": "Merkez",
+        "stateId": "739598",
+        "latitude": 41.91835,
+        "longitude": 35.00687
+    },
+    {
+        "cityId": "7911054",
+        "name": "Ayanc\u0131k",
+        "stateId": "739598",
+        "latitude": 41.83,
+        "longitude": 34.6
+    },
+    {
+        "cityId": "8632029",
+        "name": "Gerze \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.80997,
+        "longitude": 35.19035
+    },
+    {
+        "cityId": "8632030",
+        "name": "Dikmen \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.65994,
+        "longitude": 35.27048
+    },
+    {
+        "cityId": "8632031",
+        "name": "Dura\u011fan \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.42556,
+        "longitude": 35.05791
+    },
+    {
+        "cityId": "8632032",
+        "name": "Sarayd\u00fcz\u00fc \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.33732,
+        "longitude": 34.85369
+    },
+    {
+        "cityId": "8632033",
+        "name": "Erfelek \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.88907,
+        "longitude": 34.92652
+    },
+    {
+        "cityId": "8632034",
+        "name": "Boyabat \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.47914,
+        "longitude": 34.77175
+    },
+    {
+        "cityId": "8632035",
+        "name": "T\u00fcrkeli \u0130l\u00e7esi",
+        "stateId": "739598",
+        "latitude": 41.94197,
+        "longitude": 34.34821
+    }
+]

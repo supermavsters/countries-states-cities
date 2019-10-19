@@ -1,0 +1,30 @@
+[
+    {
+        "stateId": "6269131",
+        "name": "England",
+        "countryId": "2635167",
+        "latitude": 52.16045,
+        "longitude": -0.70312
+    },
+    {
+        "stateId": "2641364",
+        "name": "Northern Ireland",
+        "countryId": "2635167",
+        "latitude": 54.5,
+        "longitude": -6.5
+    },
+    {
+        "stateId": "2638360",
+        "name": "Scotland",
+        "countryId": "2635167",
+        "latitude": 56,
+        "longitude": -4
+    },
+    {
+        "stateId": "2634895",
+        "name": "Wales",
+        "countryId": "2635167",
+        "latitude": 52.5,
+        "longitude": -3.5
+    }
+]

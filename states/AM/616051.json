@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "616200",
+        "name": "Spandaryanskiy Rayon",
+        "stateId": "616051",
+        "latitude": 40.18333,
+        "longitude": 44.5
+    },
+    {
+        "cityId": "616205",
+        "name": "Arabkir",
+        "stateId": "616051",
+        "latitude": 40.20549,
+        "longitude": 44.50699
+    },
+    {
+        "cityId": "616233",
+        "name": "Shaumyanskiy Rayon",
+        "stateId": "616051",
+        "latitude": 40.18333,
+        "longitude": 44.45
+    },
+    {
+        "cityId": "616323",
+        "name": "Ordzhonikidzevskiy Rayon",
+        "stateId": "616051",
+        "latitude": 40.18333,
+        "longitude": 44.5
+    },
+    {
+        "cityId": "616485",
+        "name": "Leninskiy Rayon",
+        "stateId": "616051",
+        "latitude": 40.18333,
+        "longitude": 44.5
+    },
+    {
+        "cityId": "616624",
+        "name": "Imeni Dvadtsati Shesti Komissarov Rayon",
+        "stateId": "616051",
+        "latitude": 40.18333,
+        "longitude": 44.5
+    }
+]

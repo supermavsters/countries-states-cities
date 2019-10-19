@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "170665",
+        "name": "Al-Malikiyah District",
+        "stateId": "173813",
+        "latitude": 36.94113,
+        "longitude": 41.90157
+    },
+    {
+        "cityId": "173378",
+        "name": "Al-Qamishli District",
+        "stateId": "173813",
+        "latitude": 36.85071,
+        "longitude": 41.17243
+    },
+    {
+        "cityId": "173812",
+        "name": "Al-Hasakah District",
+        "stateId": "173813",
+        "latitude": 36.22578,
+        "longitude": 40.73446
+    },
+    {
+        "cityId": "7895146",
+        "name": "Ras al-Ayn District",
+        "stateId": "173813",
+        "latitude": 36.75664,
+        "longitude": 40.14643
+    }
+]

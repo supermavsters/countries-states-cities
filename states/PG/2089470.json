@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "8714537",
+        "name": "Central Bougainville",
+        "stateId": "2089470",
+        "latitude": -6.22806,
+        "longitude": 155.56583
+    },
+    {
+        "cityId": "8714538",
+        "name": "South Bougainville",
+        "stateId": "2089470",
+        "latitude": -6.74593,
+        "longitude": 155.6964
+    },
+    {
+        "cityId": "8740754",
+        "name": "North Bougainville",
+        "stateId": "2089470",
+        "latitude": -5.42194,
+        "longitude": 154.67278
+    }
+]

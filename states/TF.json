@@ -1,0 +1,37 @@
+[
+    {
+        "stateId": "936339",
+        "name": "Archipel des Crozet",
+        "countryId": "1546748",
+        "latitude": -46.41667,
+        "longitude": 51
+    },
+    {
+        "stateId": "1546558",
+        "name": "Archipel des Kerguelen",
+        "countryId": "1546748",
+        "latitude": -49.25,
+        "longitude": 69.16667
+    },
+    {
+        "stateId": "6690917",
+        "name": "La Terre-Ad\u00e9lie",
+        "countryId": "1546748",
+        "latitude": -59.99856,
+        "longitude": 138.9913
+    },
+    {
+        "stateId": "1547221",
+        "name": "\u00celes Saint-Paul et Nouvelle-Amsterdam",
+        "countryId": "1546748",
+        "latitude": -37.83333,
+        "longitude": 77.55
+    },
+    {
+        "stateId": "6690916",
+        "name": "\u00celes \u00c9parses de l'oc\u00e9an Indien",
+        "countryId": "1546748",
+        "latitude": -17.04333,
+        "longitude": 42.7448
+    }
+]

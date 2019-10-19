@@ -1,0 +1,86 @@
+[
+    {
+        "stateId": "2960629",
+        "name": "Canton d'Echternach",
+        "countryId": "2960313",
+        "latitude": 49.78872,
+        "longitude": 6.39024
+    },
+    {
+        "stateId": "2960599",
+        "name": "Canton d'Esch-sur-Alzette",
+        "countryId": "2960313",
+        "latitude": 49.5,
+        "longitude": 6.03333
+    },
+    {
+        "stateId": "2960696",
+        "name": "Capellen",
+        "countryId": "2960313",
+        "latitude": 49.63678,
+        "longitude": 5.97031
+    },
+    {
+        "stateId": "2960683",
+        "name": "Clervaux",
+        "countryId": "2960313",
+        "latitude": 50.07852,
+        "longitude": 6.02236
+    },
+    {
+        "stateId": "2960656",
+        "name": "Diekirch",
+        "countryId": "2960313",
+        "latitude": 49.86155,
+        "longitude": 6.1475
+    },
+    {
+        "stateId": "2960514",
+        "name": "Grevenmacher",
+        "countryId": "2960313",
+        "latitude": 49.68341,
+        "longitude": 6.34307
+    },
+    {
+        "stateId": "2960315",
+        "name": "Luxembourg",
+        "countryId": "2960313",
+        "latitude": 49.61427,
+        "longitude": 6.17289
+    },
+    {
+        "stateId": "2960275",
+        "name": "Mersch",
+        "countryId": "2960313",
+        "latitude": 49.75636,
+        "longitude": 6.12717
+    },
+    {
+        "stateId": "2960161",
+        "name": "Redange",
+        "countryId": "2960313",
+        "latitude": 49.79716,
+        "longitude": 5.88731
+    },
+    {
+        "stateId": "2960152",
+        "name": "Remich",
+        "countryId": "2960313",
+        "latitude": 49.54323,
+        "longitude": 6.31779
+    },
+    {
+        "stateId": "2960020",
+        "name": "Vianden",
+        "countryId": "2960313",
+        "latitude": 49.93256,
+        "longitude": 6.16618
+    },
+    {
+        "stateId": "2959975",
+        "name": "Wiltz",
+        "countryId": "2960313",
+        "latitude": 49.94698,
+        "longitude": 5.907
+    }
+]

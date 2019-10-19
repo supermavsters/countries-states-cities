@@ -1,0 +1,387 @@
+[
+    {
+        "cityId": "3187229",
+        "name": "Grad Vrgorac",
+        "stateId": "3337527",
+        "latitude": 43.2,
+        "longitude": 17.36667
+    },
+    {
+        "cityId": "3187684",
+        "name": "Grad Vis",
+        "stateId": "3337527",
+        "latitude": 43.05315,
+        "longitude": 16.18698
+    },
+    {
+        "cityId": "3188762",
+        "name": "Grad Trogir",
+        "stateId": "3337527",
+        "latitude": 43.52061,
+        "longitude": 16.25144
+    },
+    {
+        "cityId": "3190259",
+        "name": "Grad Split",
+        "stateId": "3337527",
+        "latitude": 43.5,
+        "longitude": 16.5
+    },
+    {
+        "cityId": "3190864",
+        "name": "Grad Sinj",
+        "stateId": "3337527",
+        "latitude": 43.72285,
+        "longitude": 16.65819
+    },
+    {
+        "cityId": "3194113",
+        "name": "Grad Omi\u0161",
+        "stateId": "3337527",
+        "latitude": 43.46667,
+        "longitude": 16.7
+    },
+    {
+        "cityId": "3195888",
+        "name": "Grad Makarska",
+        "stateId": "3337527",
+        "latitude": 43.3,
+        "longitude": 17.03333
+    },
+    {
+        "cityId": "3199110",
+        "name": "Grad Imotski",
+        "stateId": "3337527",
+        "latitude": 43.43333,
+        "longitude": 17.16667
+    },
+    {
+        "cityId": "3199178",
+        "name": "Grad Hvar",
+        "stateId": "3337527",
+        "latitude": 43.17263,
+        "longitude": 16.4455
+    },
+    {
+        "cityId": "3203595",
+        "name": "Grad Supetar",
+        "stateId": "3337527",
+        "latitude": 43.38444,
+        "longitude": 16.55528
+    },
+    {
+        "cityId": "9076752",
+        "name": "Dugi Rat Op\u0107ina",
+        "stateId": "3337527",
+        "latitude": 43.44923,
+        "longitude": 16.64738
+    },
+    {
+        "cityId": "11054557",
+        "name": "Ba\u0161ka Voda",
+        "stateId": "3337527",
+        "latitude": 43.35888,
+        "longitude": 16.95019
+    },
+    {
+        "cityId": "11054558",
+        "name": "Bol",
+        "stateId": "3337527",
+        "latitude": 43.26385,
+        "longitude": 16.65236
+    },
+    {
+        "cityId": "11054559",
+        "name": "Brela",
+        "stateId": "3337527",
+        "latitude": 43.36902,
+        "longitude": 16.93118
+    },
+    {
+        "cityId": "11054560",
+        "name": "Cista Provo",
+        "stateId": "3337527",
+        "latitude": 43.51198,
+        "longitude": 16.94276
+    },
+    {
+        "cityId": "11054601",
+        "name": "Dicmo",
+        "stateId": "3337527",
+        "latitude": 43.63678,
+        "longitude": 16.58978
+    },
+    {
+        "cityId": "11054602",
+        "name": "Dugopolje",
+        "stateId": "3337527",
+        "latitude": 43.58159,
+        "longitude": 16.59944
+    },
+    {
+        "cityId": "11054603",
+        "name": "Gradac",
+        "stateId": "3337527",
+        "latitude": 43.10796,
+        "longitude": 17.34269
+    },
+    {
+        "cityId": "11054604",
+        "name": "Hrvace",
+        "stateId": "3337527",
+        "latitude": 43.75652,
+        "longitude": 16.62047
+    },
+    {
+        "cityId": "11054605",
+        "name": "Jelsa",
+        "stateId": "3337527",
+        "latitude": 43.16092,
+        "longitude": 16.69304
+    },
+    {
+        "cityId": "11054606",
+        "name": "Ka\u0161tela",
+        "stateId": "3337527",
+        "latitude": 43.53865,
+        "longitude": 16.3074
+    },
+    {
+        "cityId": "11054607",
+        "name": "Klis",
+        "stateId": "3337527",
+        "latitude": 43.5607,
+        "longitude": 16.52091
+    },
+    {
+        "cityId": "11054608",
+        "name": "Komi\u017ea",
+        "stateId": "3337527",
+        "latitude": 43.04492,
+        "longitude": 16.09154
+    },
+    {
+        "cityId": "11054609",
+        "name": "Le\u0107evica",
+        "stateId": "3337527",
+        "latitude": 43.64258,
+        "longitude": 16.3456
+    },
+    {
+        "cityId": "11054610",
+        "name": "Lokvi\u010di\u0107i",
+        "stateId": "3337527",
+        "latitude": 43.46428,
+        "longitude": 17.09142
+    },
+    {
+        "cityId": "11054611",
+        "name": "Lovre\u0107",
+        "stateId": "3337527",
+        "latitude": 43.48859,
+        "longitude": 16.98589
+    },
+    {
+        "cityId": "11054612",
+        "name": "Marina",
+        "stateId": "3337527",
+        "latitude": 43.51425,
+        "longitude": 16.10767
+    },
+    {
+        "cityId": "11054613",
+        "name": "Milna",
+        "stateId": "3337527",
+        "latitude": 43.32707,
+        "longitude": 16.44949
+    },
+    {
+        "cityId": "11054614",
+        "name": "Mu\u0107",
+        "stateId": "3337527",
+        "latitude": 43.69328,
+        "longitude": 16.47267
+    },
+    {
+        "cityId": "11054615",
+        "name": "Nere\u017ei\u0161\u0107a",
+        "stateId": "3337527",
+        "latitude": 43.32959,
+        "longitude": 16.57743
+    },
+    {
+        "cityId": "11054616",
+        "name": "Okrug",
+        "stateId": "3337527",
+        "latitude": 43.49638,
+        "longitude": 16.26732
+    },
+    {
+        "cityId": "11054617",
+        "name": "Podbablje",
+        "stateId": "3337527",
+        "latitude": 43.3935,
+        "longitude": 17.18455
+    },
+    {
+        "cityId": "11054618",
+        "name": "Podgora",
+        "stateId": "3337527",
+        "latitude": 43.23985,
+        "longitude": 17.07816
+    },
+    {
+        "cityId": "11054619",
+        "name": "Podstrana",
+        "stateId": "3337527",
+        "latitude": 43.48651,
+        "longitude": 16.55107
+    },
+    {
+        "cityId": "11054620",
+        "name": "Postira",
+        "stateId": "3337527",
+        "latitude": 43.37525,
+        "longitude": 16.63141
+    },
+    {
+        "cityId": "11054621",
+        "name": "Prgomet",
+        "stateId": "3337527",
+        "latitude": 43.6071,
+        "longitude": 16.23127
+    },
+    {
+        "cityId": "11054622",
+        "name": "Primorski Dolac",
+        "stateId": "3337527",
+        "latitude": 43.64075,
+        "longitude": 16.16655
+    },
+    {
+        "cityId": "11054623",
+        "name": "Prolo\u017eac",
+        "stateId": "3337527",
+        "latitude": 43.4669,
+        "longitude": 17.15507
+    },
+    {
+        "cityId": "11054624",
+        "name": "Pu\u010di\u0161\u0107a",
+        "stateId": "3337527",
+        "latitude": 43.34639,
+        "longitude": 16.73295
+    },
+    {
+        "cityId": "11054625",
+        "name": "Runovi\u0107i",
+        "stateId": "3337527",
+        "latitude": 43.38704,
+        "longitude": 17.23892
+    },
+    {
+        "cityId": "11054627",
+        "name": "Seget",
+        "stateId": "3337527",
+        "latitude": 43.54305,
+        "longitude": 16.21222
+    },
+    {
+        "cityId": "11054631",
+        "name": "Selca",
+        "stateId": "3337527",
+        "latitude": 43.29444,
+        "longitude": 16.84633
+    },
+    {
+        "cityId": "11054720",
+        "name": "Solin",
+        "stateId": "3337527",
+        "latitude": 43.54331,
+        "longitude": 16.49065
+    },
+    {
+        "cityId": "11054721",
+        "name": "Stari Grad",
+        "stateId": "3337527",
+        "latitude": 43.18611,
+        "longitude": 16.59687
+    },
+    {
+        "cityId": "11054722",
+        "name": "Su\u0107uraj",
+        "stateId": "3337527",
+        "latitude": 43.12726,
+        "longitude": 17.18729
+    },
+    {
+        "cityId": "11054727",
+        "name": "Sutivan",
+        "stateId": "3337527",
+        "latitude": 43.38461,
+        "longitude": 16.47851
+    },
+    {
+        "cityId": "11054733",
+        "name": "\u0160estanovac",
+        "stateId": "3337527",
+        "latitude": 43.45396,
+        "longitude": 16.91345
+    },
+    {
+        "cityId": "11054737",
+        "name": "\u0160olta",
+        "stateId": "3337527",
+        "latitude": 43.38714,
+        "longitude": 16.28865
+    },
+    {
+        "cityId": "11054739",
+        "name": "Trilj",
+        "stateId": "3337527",
+        "latitude": 43.61774,
+        "longitude": 16.72347
+    },
+    {
+        "cityId": "11054740",
+        "name": "Tu\u010depi",
+        "stateId": "3337527",
+        "latitude": 43.26485,
+        "longitude": 17.05979
+    },
+    {
+        "cityId": "11054741",
+        "name": "Vrlika",
+        "stateId": "3337527",
+        "latitude": 43.91098,
+        "longitude": 16.39933
+    },
+    {
+        "cityId": "11054742",
+        "name": "Zadvarje",
+        "stateId": "3337527",
+        "latitude": 43.43085,
+        "longitude": 16.89101
+    },
+    {
+        "cityId": "11054743",
+        "name": "Zagvozd",
+        "stateId": "3337527",
+        "latitude": 43.39727,
+        "longitude": 17.05258
+    },
+    {
+        "cityId": "11054744",
+        "name": "Zmijavci",
+        "stateId": "3337527",
+        "latitude": 43.41124,
+        "longitude": 17.20699
+    },
+    {
+        "cityId": "11054954",
+        "name": "Otok",
+        "stateId": "3337527",
+        "latitude": 43.68661,
+        "longitude": 16.73488
+    }
+]

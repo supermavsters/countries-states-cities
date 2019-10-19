@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "9610678",
+        "name": "Rauma",
+        "stateId": "831041",
+        "latitude": 61.11017,
+        "longitude": 21.94188
+    },
+    {
+        "cityId": "9610679",
+        "name": "Pori",
+        "stateId": "831041",
+        "latitude": 61.50524,
+        "longitude": 22.01202
+    },
+    {
+        "cityId": "9610680",
+        "name": "Pohjois-Satakunta",
+        "stateId": "831041",
+        "latitude": 61.8703,
+        "longitude": 22.34786
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3492909",
+        "name": "Santo Domingo Norte",
+        "stateId": "6201373",
+        "latitude": 18.58333,
+        "longitude": -69.83333
+    },
+    {
+        "cityId": "11154568",
+        "name": "Santo Domingo Este",
+        "stateId": "6201373",
+        "latitude": 18.51252,
+        "longitude": -69.79404
+    },
+    {
+        "cityId": "11154569",
+        "name": "Santo Domingo Oeste",
+        "stateId": "6201373",
+        "latitude": 18.48388,
+        "longitude": -70.00656
+    },
+    {
+        "cityId": "11154570",
+        "name": "Boca Chica",
+        "stateId": "6201373",
+        "latitude": 18.45717,
+        "longitude": -69.61405
+    },
+    {
+        "cityId": "11154571",
+        "name": "San Antonio De Guerra",
+        "stateId": "6201373",
+        "latitude": 18.579,
+        "longitude": -69.66304
+    },
+    {
+        "cityId": "11154572",
+        "name": "Los Alcarrizos",
+        "stateId": "6201373",
+        "latitude": 18.52789,
+        "longitude": -70.03636
+    },
+    {
+        "cityId": "11154573",
+        "name": "Pedro Brand",
+        "stateId": "6201373",
+        "latitude": 18.61968,
+        "longitude": -70.09076
+    }
+]

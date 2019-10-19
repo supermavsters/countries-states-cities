@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "1835649",
+        "name": "Sunchang-gun",
+        "stateId": "1845789",
+        "latitude": 35.41667,
+        "longitude": 127.16667
+    },
+    {
+        "cityId": "1838721",
+        "name": "Buan-gun",
+        "stateId": "1845789",
+        "latitude": 35.7,
+        "longitude": 126.66667
+    },
+    {
+        "cityId": "1840378",
+        "name": "Namwon-si",
+        "stateId": "1845789",
+        "latitude": 35.42966,
+        "longitude": 127.43208
+    },
+    {
+        "cityId": "1840941",
+        "name": "Muju-gun",
+        "stateId": "1845789",
+        "latitude": 35.93172,
+        "longitude": 127.71118
+    },
+    {
+        "cityId": "1842023",
+        "name": "Gunsan-si",
+        "stateId": "1845789",
+        "latitude": 35.93583,
+        "longitude": 126.68338
+    },
+    {
+        "cityId": "1842211",
+        "name": "Gimje-si",
+        "stateId": "1845789",
+        "latitude": 35.80701,
+        "longitude": 126.90755
+    },
+    {
+        "cityId": "1842854",
+        "name": "Gochang-gun",
+        "stateId": "1845789",
+        "latitude": 35.43483,
+        "longitude": 126.70047
+    },
+    {
+        "cityId": "1843583",
+        "name": "Imsil-gun",
+        "stateId": "1845789",
+        "latitude": 35.6066,
+        "longitude": 127.2301
+    },
+    {
+        "cityId": "1843663",
+        "name": "Iksan-si",
+        "stateId": "1845789",
+        "latitude": 36.03718,
+        "longitude": 126.98897
+    },
+    {
+        "cityId": "1845453",
+        "name": "Jeonju-si",
+        "stateId": "1845789",
+        "latitude": 35.83333,
+        "longitude": 127.15
+    },
+    {
+        "cityId": "1845501",
+        "name": "Jeongeup-si",
+        "stateId": "1845789",
+        "latitude": 35.6,
+        "longitude": 126.91667
+    },
+    {
+        "cityId": "1846111",
+        "name": "Jinan-gun",
+        "stateId": "1845789",
+        "latitude": 35.8216,
+        "longitude": 127.41183
+    },
+    {
+        "cityId": "1846351",
+        "name": "Jangsu-gun",
+        "stateId": "1845789",
+        "latitude": 35.66667,
+        "longitude": 127.53333
+    },
+    {
+        "cityId": "8604787",
+        "name": "Wanju-gun",
+        "stateId": "1845789",
+        "latitude": 35.88724,
+        "longitude": 127.25859
+    },
+    {
+        "cityId": "8659216",
+        "name": "Deokjin-gu",
+        "stateId": "1845789",
+        "latitude": 35.855,
+        "longitude": 127.112
+    },
+    {
+        "cityId": "8659217",
+        "name": "Wansan-gu",
+        "stateId": "1845789",
+        "latitude": 35.79,
+        "longitude": 127.119
+    }
+]

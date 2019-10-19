@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1606569",
+        "name": "Amphoe Sanam Chai Khet",
+        "stateId": "1611438",
+        "latitude": 13.62612,
+        "longitude": 101.65475
+    },
+    {
+        "cityId": "1607800",
+        "name": "Amphoe Phanom Sarakham",
+        "stateId": "1611438",
+        "latitude": 13.73806,
+        "longitude": 101.41202
+    },
+    {
+        "cityId": "1608663",
+        "name": "Amphoe Mueang Chachoengsao",
+        "stateId": "1611438",
+        "latitude": 13.71758,
+        "longitude": 101.02152
+    },
+    {
+        "cityId": "1614231",
+        "name": "Amphoe Ban Pho",
+        "stateId": "1611438",
+        "latitude": 13.61,
+        "longitude": 101.07838
+    },
+    {
+        "cityId": "1619362",
+        "name": "Amphoe Bang Pakong",
+        "stateId": "1611438",
+        "latitude": 13.53241,
+        "longitude": 100.96045
+    },
+    {
+        "cityId": "1619390",
+        "name": "Amphoe Bang Nam Priao",
+        "stateId": "1611438",
+        "latitude": 13.88034,
+        "longitude": 101.03232
+    },
+    {
+        "cityId": "1619497",
+        "name": "Amphoe Bang Khla",
+        "stateId": "1611438",
+        "latitude": 13.74186,
+        "longitude": 101.20754
+    },
+    {
+        "cityId": "7510707",
+        "name": "Amphoe Ratchasan",
+        "stateId": "1611438",
+        "latitude": 13.7866,
+        "longitude": 101.28136
+    },
+    {
+        "cityId": "7510708",
+        "name": "Amphoe Plaeng Yao",
+        "stateId": "1611438",
+        "latitude": 13.56381,
+        "longitude": 101.33972
+    },
+    {
+        "cityId": "7510709",
+        "name": "Amphoe Khlong Khuean",
+        "stateId": "1611438",
+        "latitude": 13.77961,
+        "longitude": 101.15633
+    },
+    {
+        "cityId": "7510724",
+        "name": "Amphoe Tha Takiap",
+        "stateId": "1611438",
+        "latitude": 13.3951,
+        "longitude": 101.73457
+    }
+]

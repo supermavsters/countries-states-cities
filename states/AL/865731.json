@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "782345",
+        "name": "Rrethi i Matit",
+        "stateId": "865731",
+        "latitude": 41.58333,
+        "longitude": 20.08333
+    },
+    {
+        "cityId": "783346",
+        "name": "Rrethi i Dibr\u00ebs",
+        "stateId": "865731",
+        "latitude": 41.75,
+        "longitude": 20.33333
+    },
+    {
+        "cityId": "831275",
+        "name": "Rrethi i Bulqiz\u00ebs",
+        "stateId": "865731",
+        "latitude": 41.5,
+        "longitude": 20.33333
+    },
+    {
+        "cityId": "10944373",
+        "name": "Bashkia Bulqiz\u00eb",
+        "stateId": "865731",
+        "latitude": 41.47152,
+        "longitude": 20.33192
+    },
+    {
+        "cityId": "10944374",
+        "name": "Bashkia Dib\u00ebr",
+        "stateId": "865731",
+        "latitude": 41.714,
+        "longitude": 20.36499
+    },
+    {
+        "cityId": "10944375",
+        "name": "Bashkia Klos",
+        "stateId": "865731",
+        "latitude": 41.50826,
+        "longitude": 20.07107
+    },
+    {
+        "cityId": "10944376",
+        "name": "Bashkia Mat",
+        "stateId": "865731",
+        "latitude": 41.63317,
+        "longitude": 20.01228
+    }
+]

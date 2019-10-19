@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7668910",
+        "name": "Kouande",
+        "stateId": "2395524",
+        "latitude": 10.42486,
+        "longitude": 1.71466
+    },
+    {
+        "cityId": "7668916",
+        "name": "Pehonko",
+        "stateId": "2395524",
+        "latitude": 10.27069,
+        "longitude": 2.03744
+    },
+    {
+        "cityId": "7668918",
+        "name": "Kerou",
+        "stateId": "2395524",
+        "latitude": 10.91433,
+        "longitude": 1.99153
+    },
+    {
+        "cityId": "7669273",
+        "name": "Natitingou",
+        "stateId": "2395524",
+        "latitude": 10.25746,
+        "longitude": 1.41397
+    },
+    {
+        "cityId": "7874156",
+        "name": "Tanguieta",
+        "stateId": "2395524",
+        "latitude": 11.03621,
+        "longitude": 1.41757
+    },
+    {
+        "cityId": "7874157",
+        "name": "Toukountouna",
+        "stateId": "2395524",
+        "latitude": 10.51424,
+        "longitude": 1.45527
+    },
+    {
+        "cityId": "7874158",
+        "name": "Materi",
+        "stateId": "2395524",
+        "latitude": 10.7986,
+        "longitude": 1.02756
+    },
+    {
+        "cityId": "10344466",
+        "name": "Cobly",
+        "stateId": "2395524",
+        "latitude": 10.49222,
+        "longitude": 0.99972
+    },
+    {
+        "cityId": "10344467",
+        "name": "Boukoumb\u00e9",
+        "stateId": "2395524",
+        "latitude": 10.18333,
+        "longitude": 1.1
+    }
+]

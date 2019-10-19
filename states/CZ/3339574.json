@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3063545",
+        "name": "Okres \u00dast\u00ed nad Orlic\u00ed",
+        "stateId": "3339574",
+        "latitude": 50,
+        "longitude": 16.53333
+    },
+    {
+        "cityId": "3064453",
+        "name": "Okres Svitavy",
+        "stateId": "3339574",
+        "latitude": 49.73333,
+        "longitude": 16.5
+    },
+    {
+        "cityId": "3068581",
+        "name": "Okres Pardubice",
+        "stateId": "3339574",
+        "latitude": 50.08333,
+        "longitude": 15.75
+    },
+    {
+        "cityId": "3077538",
+        "name": "Okres Chrudim",
+        "stateId": "3339574",
+        "latitude": 49.83333,
+        "longitude": 15.83333
+    }
+]

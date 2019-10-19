@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1149936",
+        "name": "Amphoe Wang Chin",
+        "stateId": "1607551",
+        "latitude": 17.86667,
+        "longitude": 99.6499
+    },
+    {
+        "cityId": "1152321",
+        "name": "Amphoe Long",
+        "stateId": "1607551",
+        "latitude": 18.14262,
+        "longitude": 99.90901
+    },
+    {
+        "cityId": "1606042",
+        "name": "Amphoe Sung Men",
+        "stateId": "1607551",
+        "latitude": 18.03542,
+        "longitude": 100.12538
+    },
+    {
+        "cityId": "1606166",
+        "name": "Amphoe Song",
+        "stateId": "1607551",
+        "latitude": 18.57006,
+        "longitude": 100.22911
+    },
+    {
+        "cityId": "1606982",
+        "name": "Amphoe Rong Kwang",
+        "stateId": "1607551",
+        "latitude": 18.32614,
+        "longitude": 100.39418
+    },
+    {
+        "cityId": "1608631",
+        "name": "Amphoe Mueang Phrae",
+        "stateId": "1607551",
+        "latitude": 18.12258,
+        "longitude": 100.2562
+    },
+    {
+        "cityId": "1610942",
+        "name": "Amphoe Den Chai",
+        "stateId": "1607551",
+        "latitude": 17.91667,
+        "longitude": 100.03333
+    },
+    {
+        "cityId": "7510683",
+        "name": "Amphoe Nong Muang Khai",
+        "stateId": "1607551",
+        "latitude": 18.28845,
+        "longitude": 100.15231
+    }
+]

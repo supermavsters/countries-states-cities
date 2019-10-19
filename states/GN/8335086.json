@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2419470",
+        "name": "Kissidougou",
+        "stateId": "8335086",
+        "latitude": 9.25,
+        "longitude": -9.91667
+    },
+    {
+        "cityId": "2421272",
+        "name": "Faranah Prefecture",
+        "stateId": "8335086",
+        "latitude": 10,
+        "longitude": -10.83333
+    },
+    {
+        "cityId": "2421902",
+        "name": "Dinguiraye Prefecture",
+        "stateId": "8335086",
+        "latitude": 11.545,
+        "longitude": -10.675
+    },
+    {
+        "cityId": "2422441",
+        "name": "Dabola",
+        "stateId": "8335086",
+        "latitude": 10.6,
+        "longitude": -11.11667
+    }
+]

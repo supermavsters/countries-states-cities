@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2527087",
+        "name": "Tiznit",
+        "stateId": "11281882",
+        "latitude": 29.58333,
+        "longitude": -9.5
+    },
+    {
+        "cityId": "2529360",
+        "name": "Tata",
+        "stateId": "11281882",
+        "latitude": 29.66667,
+        "longitude": -7.83333
+    },
+    {
+        "cityId": "2529647",
+        "name": "Taroudannt",
+        "stateId": "11281882",
+        "latitude": 30.5,
+        "longitude": -8.41667
+    },
+    {
+        "cityId": "2545956",
+        "name": "Inezgane-Ait Mellou",
+        "stateId": "11281882",
+        "latitude": 30.1,
+        "longitude": -9.03333
+    },
+    {
+        "cityId": "2561655",
+        "name": "Agadir-Ida-ou-Tnan",
+        "stateId": "11281882",
+        "latitude": 30.58333,
+        "longitude": -9.5
+    },
+    {
+        "cityId": "6547291",
+        "name": "Chtouka-Ait-Baha",
+        "stateId": "11281882",
+        "latitude": 30.02948,
+        "longitude": -9.30909
+    }
+]

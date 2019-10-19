@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1151425",
+        "name": "Amphoe Mueang Phayao",
+        "stateId": "1607758",
+        "latitude": 19.14857,
+        "longitude": 99.87325
+    },
+    {
+        "cityId": "1152228",
+        "name": "Amphoe Mae Chai",
+        "stateId": "1607758",
+        "latitude": 19.37925,
+        "longitude": 99.80141
+    },
+    {
+        "cityId": "1607323",
+        "name": "Amphoe Pong",
+        "stateId": "1607758",
+        "latitude": 19.185,
+        "longitude": 100.3878
+    },
+    {
+        "cityId": "1610908",
+        "name": "Amphoe Dok Kham Tai",
+        "stateId": "1607758",
+        "latitude": 19.10813,
+        "longitude": 100.05657
+    },
+    {
+        "cityId": "1611000",
+        "name": "Amphoe Chun",
+        "stateId": "1607758",
+        "latitude": 19.36803,
+        "longitude": 100.14492
+    },
+    {
+        "cityId": "1611201",
+        "name": "Amphoe Chiang Kham",
+        "stateId": "1607758",
+        "latitude": 19.47061,
+        "longitude": 100.33868
+    },
+    {
+        "cityId": "7382461",
+        "name": "Amphoe Phu Sang",
+        "stateId": "1607758",
+        "latitude": 19.62372,
+        "longitude": 100.37246
+    },
+    {
+        "cityId": "7510669",
+        "name": "Amphoe Phu Kam Yao",
+        "stateId": "1607758",
+        "latitude": 19.3117,
+        "longitude": 99.96614
+    },
+    {
+        "cityId": "7910433",
+        "name": "Amphoe Chiang Muan",
+        "stateId": "1607758",
+        "latitude": 18.90385,
+        "longitude": 100.31792
+    }
+]

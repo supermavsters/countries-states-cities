@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2225334",
+        "name": "D\u00e9partement du Nd\u00e9",
+        "stateId": "2222934",
+        "latitude": 5.15,
+        "longitude": 10.51667
+    },
+    {
+        "cityId": "2226712",
+        "name": "D\u00e9partement de Mifi",
+        "stateId": "2222934",
+        "latitude": 5.48333,
+        "longitude": 10.4
+    },
+    {
+        "cityId": "2227064",
+        "name": "D\u00e9partement de la M\u00e9noua",
+        "stateId": "2222934",
+        "latitude": 5.45,
+        "longitude": 10.06667
+    },
+    {
+        "cityId": "2230816",
+        "name": "D\u00e9partement du Haut-Nkam",
+        "stateId": "2222934",
+        "latitude": 5.15,
+        "longitude": 10.18333
+    },
+    {
+        "cityId": "2234948",
+        "name": "D\u00e9partement de Bamoun",
+        "stateId": "2222934",
+        "latitude": 5.5,
+        "longitude": 11
+    },
+    {
+        "cityId": "2234988",
+        "name": "D\u00e9partement de Bamboutos",
+        "stateId": "2222934",
+        "latitude": 5.63333,
+        "longitude": 10.25
+    },
+    {
+        "cityId": "9224961",
+        "name": "Hauts-Plateaux",
+        "stateId": "2222934",
+        "latitude": 5.29632,
+        "longitude": 10.34314
+    },
+    {
+        "cityId": "9224964",
+        "name": "Koung-Khi",
+        "stateId": "2222934",
+        "latitude": 5.33848,
+        "longitude": 10.47453
+    },
+    {
+        "cityId": "9224965",
+        "name": "Noun",
+        "stateId": "2222934",
+        "latitude": 5.64123,
+        "longitude": 10.9184
+    }
+]

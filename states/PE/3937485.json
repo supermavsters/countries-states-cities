@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "3925598",
+        "name": "Provincia de Yauli",
+        "stateId": "3937485",
+        "latitude": -11.66667,
+        "longitude": -76.16667
+    },
+    {
+        "cityId": "3927757",
+        "name": "Provincia de Tarma",
+        "stateId": "3937485",
+        "latitude": -11.40562,
+        "longitude": -75.69129
+    },
+    {
+        "cityId": "3928923",
+        "name": "Provincia de Satipo",
+        "stateId": "3937485",
+        "latitude": -11.5,
+        "longitude": -74.25
+    },
+    {
+        "cityId": "3937483",
+        "name": "Provincia de Jun\u00edn",
+        "stateId": "3937485",
+        "latitude": -11.08333,
+        "longitude": -76
+    },
+    {
+        "cityId": "3937732",
+        "name": "Provincia de Jauja",
+        "stateId": "3937485",
+        "latitude": -11.726,
+        "longitude": -75.547
+    },
+    {
+        "cityId": "3939456",
+        "name": "Provincia de Huancayo",
+        "stateId": "3937485",
+        "latitude": -12.17319,
+        "longitude": -75.16169
+    },
+    {
+        "cityId": "3942545",
+        "name": "Provincia de Concepci\u00f3n",
+        "stateId": "3937485",
+        "latitude": -11.75,
+        "longitude": -75
+    },
+    {
+        "cityId": "3944390",
+        "name": "Chanchamayo",
+        "stateId": "3937485",
+        "latitude": -11.05,
+        "longitude": -75.31667
+    },
+    {
+        "cityId": "7778812",
+        "name": "Provincia de Chupaca",
+        "stateId": "3937485",
+        "latitude": -12.3,
+        "longitude": -75.433
+    }
+]

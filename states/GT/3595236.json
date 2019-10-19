@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3589628",
+        "name": "Municipio de San Pedro Pinula",
+        "stateId": "3595236",
+        "latitude": 14.66667,
+        "longitude": -89.85
+    },
+    {
+        "cityId": "3589811",
+        "name": "Municipio de San Manuel Chaparr\u00f3n",
+        "stateId": "3595236",
+        "latitude": 14.51667,
+        "longitude": -89.76667
+    },
+    {
+        "cityId": "3589821",
+        "name": "Municipio de San Luis Jilotepeque",
+        "stateId": "3595236",
+        "latitude": 14.65,
+        "longitude": -89.73333
+    },
+    {
+        "cityId": "3590354",
+        "name": "Municipio de San Carlos Alzatate",
+        "stateId": "3595236",
+        "latitude": 14.5,
+        "longitude": -90.05
+    },
+    {
+        "cityId": "3592476",
+        "name": "Municipio de Monjas",
+        "stateId": "3595236",
+        "latitude": 14.5,
+        "longitude": -89.86667
+    },
+    {
+        "cityId": "3592634",
+        "name": "Municipio de Mataquescuintla",
+        "stateId": "3595236",
+        "latitude": 14.53333,
+        "longitude": -90.18333
+    },
+    {
+        "cityId": "3595235",
+        "name": "Municipio de Jalapa",
+        "stateId": "3595236",
+        "latitude": 14.63333,
+        "longitude": -89.98333
+    }
+]

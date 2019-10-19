@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2468352",
+        "name": "Gafsa Municipality",
+        "stateId": "2468351",
+        "latitude": 34.5,
+        "longitude": 8.75
+    },
+    {
+        "cityId": "9072611",
+        "name": "Ksar District",
+        "stateId": "2468351",
+        "latitude": 34.39193,
+        "longitude": 8.82129
+    },
+    {
+        "cityId": "11106593",
+        "name": "Mdhila",
+        "stateId": "2468351",
+        "latitude": 34.20294,
+        "longitude": 8.69783
+    },
+    {
+        "cityId": "11106594",
+        "name": "D\u00e9l\u00e9gation d\u2019Om El Ara\u00efes",
+        "stateId": "2468351",
+        "latitude": 34.549,
+        "longitude": 8.37421
+    },
+    {
+        "cityId": "11106651",
+        "name": "El Ksar",
+        "stateId": "2468351",
+        "latitude": 34.40263,
+        "longitude": 8.88303
+    },
+    {
+        "cityId": "11106652",
+        "name": "Belkhir",
+        "stateId": "2468351",
+        "latitude": 34.33201,
+        "longitude": 9.40447
+    },
+    {
+        "cityId": "11106653",
+        "name": "Sned",
+        "stateId": "2468351",
+        "latitude": 34.53684,
+        "longitude": 9.16503
+    },
+    {
+        "cityId": "11106656",
+        "name": "Gafsa Nord",
+        "stateId": "2468351",
+        "latitude": 34.55555,
+        "longitude": 8.97048
+    },
+    {
+        "cityId": "11106657",
+        "name": "D\u00e9l\u00e9gation de Sidi A\u00efch",
+        "stateId": "2468351",
+        "latitude": 34.68556,
+        "longitude": 8.81428
+    },
+    {
+        "cityId": "11204905",
+        "name": "Gafsa Sud",
+        "stateId": "2468351",
+        "latitude": 34.46503,
+        "longitude": 8.31579
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "11819288",
+        "name": "Barolong",
+        "stateId": "933043",
+        "latitude": -25.59034,
+        "longitude": 25.42467
+    },
+    {
+        "cityId": "11819289",
+        "name": "Ngwaketse Central",
+        "stateId": "933043",
+        "latitude": -25.03338,
+        "longitude": 24.86441
+    },
+    {
+        "cityId": "11819292",
+        "name": "Ngwaketse South",
+        "stateId": "933043",
+        "latitude": -25.45369,
+        "longitude": 24.80792
+    },
+    {
+        "cityId": "11819297",
+        "name": "Ngwaketse North",
+        "stateId": "933043",
+        "latitude": -24.59442,
+        "longitude": 24.10109
+    }
+]

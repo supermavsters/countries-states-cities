@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "2738888",
+        "name": "Gouveia",
+        "stateId": "2738782",
+        "latitude": 40.50829,
+        "longitude": -7.5905
+    },
+    {
+        "cityId": "8010528",
+        "name": "Aguiar da Beira",
+        "stateId": "2738782",
+        "latitude": 40.78319,
+        "longitude": -7.52691
+    },
+    {
+        "cityId": "8010529",
+        "name": "Almeida",
+        "stateId": "2738782",
+        "latitude": 40.7307,
+        "longitude": -6.90594
+    },
+    {
+        "cityId": "8010530",
+        "name": "Celorico da Beira",
+        "stateId": "2738782",
+        "latitude": 40.61785,
+        "longitude": -7.38625
+    },
+    {
+        "cityId": "8010531",
+        "name": "Figueira de Castelo Rodrigo",
+        "stateId": "2738782",
+        "latitude": 40.87356,
+        "longitude": -6.96842
+    },
+    {
+        "cityId": "8010532",
+        "name": "Fornos de Algodres",
+        "stateId": "2738782",
+        "latitude": 40.64942,
+        "longitude": -7.49727
+    },
+    {
+        "cityId": "8010533",
+        "name": "Guarda",
+        "stateId": "2738782",
+        "latitude": 40.5295,
+        "longitude": -7.24123
+    },
+    {
+        "cityId": "8010534",
+        "name": "Manteigas",
+        "stateId": "2738782",
+        "latitude": 40.40631,
+        "longitude": -7.50074
+    },
+    {
+        "cityId": "8010535",
+        "name": "M\u00eada",
+        "stateId": "2738782",
+        "latitude": 40.93238,
+        "longitude": -7.26495
+    },
+    {
+        "cityId": "8010536",
+        "name": "Pinhel",
+        "stateId": "2738782",
+        "latitude": 40.74242,
+        "longitude": -7.12659
+    },
+    {
+        "cityId": "8010537",
+        "name": "Sabugal",
+        "stateId": "2738782",
+        "latitude": 40.36992,
+        "longitude": -7.09305
+    },
+    {
+        "cityId": "8010538",
+        "name": "Seia",
+        "stateId": "2738782",
+        "latitude": 40.42203,
+        "longitude": -7.70245
+    },
+    {
+        "cityId": "8010539",
+        "name": "Trancoso",
+        "stateId": "2738782",
+        "latitude": 40.79181,
+        "longitude": -7.3254
+    },
+    {
+        "cityId": "8010540",
+        "name": "Vila Nova de Foz C\u00f4a",
+        "stateId": "2738782",
+        "latitude": 41.0637,
+        "longitude": -7.20389
+    }
+]

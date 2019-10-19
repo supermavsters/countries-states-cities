@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3064672",
+        "name": "Okres \u0160umperk",
+        "stateId": "3339542",
+        "latitude": 50,
+        "longitude": 17
+    },
+    {
+        "cityId": "3067420",
+        "name": "Okres Prost\u011bjov",
+        "stateId": "3339542",
+        "latitude": 49.5,
+        "longitude": 17.03333
+    },
+    {
+        "cityId": "3067578",
+        "name": "Okres P\u0159erov",
+        "stateId": "3339542",
+        "latitude": 49.5,
+        "longitude": 17.55
+    },
+    {
+        "cityId": "3069010",
+        "name": "Okres Olomouc",
+        "stateId": "3339542",
+        "latitude": 49.66667,
+        "longitude": 17.25
+    },
+    {
+        "cityId": "3337501",
+        "name": "Okres Jesen\u00edk",
+        "stateId": "3339542",
+        "latitude": 50.25,
+        "longitude": 17.16667
+    }
+]

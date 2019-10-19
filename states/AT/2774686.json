@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2760908",
+        "name": "Politischer Bezirk Wolfsberg",
+        "stateId": "2774686",
+        "latitude": 46.83333,
+        "longitude": 14.83333
+    },
+    {
+        "cityId": "2762314",
+        "name": "Politischer Bezirk V\u00f6lkermarkt",
+        "stateId": "2774686",
+        "latitude": 46.59641,
+        "longitude": 14.66664
+    },
+    {
+        "cityId": "2762366",
+        "name": "Villach Stadt",
+        "stateId": "2774686",
+        "latitude": 46.609,
+        "longitude": 13.85136
+    },
+    {
+        "cityId": "2762367",
+        "name": "Politischer Bezirk Villach Land",
+        "stateId": "2774686",
+        "latitude": 46.65308,
+        "longitude": 13.77287
+    },
+    {
+        "cityId": "2764785",
+        "name": "Politischer Bezirk Spittal an der Drau",
+        "stateId": "2774686",
+        "latitude": 46.85,
+        "longitude": 13.33333
+    },
+    {
+        "cityId": "2766358",
+        "name": "Politischer Bezirk Sankt Veit an der Glan",
+        "stateId": "2774686",
+        "latitude": 46.83333,
+        "longitude": 14.4
+    },
+    {
+        "cityId": "2774321",
+        "name": "Klagenfurt am W\u00f6rthersee",
+        "stateId": "2774686",
+        "latitude": 46.63333,
+        "longitude": 14.3
+    },
+    {
+        "cityId": "2774323",
+        "name": "Politischer Bezirk Klagenfurt Land",
+        "stateId": "2774686",
+        "latitude": 46.56722,
+        "longitude": 14.29295
+    },
+    {
+        "cityId": "2776496",
+        "name": "Politischer Bezirk Hermagor",
+        "stateId": "2774686",
+        "latitude": 46.63137,
+        "longitude": 13.13246
+    },
+    {
+        "cityId": "6459021",
+        "name": "Politischer Bezirk Feldkirchen",
+        "stateId": "2774686",
+        "latitude": 46.72127,
+        "longitude": 14.09683
+    }
+]

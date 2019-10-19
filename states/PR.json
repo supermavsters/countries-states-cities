@@ -1,0 +1,548 @@
+[
+    {
+        "stateId": "4562487",
+        "name": "Adjuntas",
+        "countryId": "4566966",
+        "latitude": 18.16274,
+        "longitude": -66.72212
+    },
+    {
+        "stateId": "4562503",
+        "name": "Aguada",
+        "countryId": "4566966",
+        "latitude": 18.3605,
+        "longitude": -67.17463
+    },
+    {
+        "stateId": "4562512",
+        "name": "Aguadilla",
+        "countryId": "4566966",
+        "latitude": 18.42745,
+        "longitude": -67.15407
+    },
+    {
+        "stateId": "4562516",
+        "name": "Aguas Buenas",
+        "countryId": "4566966",
+        "latitude": 18.2569,
+        "longitude": -66.10294
+    },
+    {
+        "stateId": "4562531",
+        "name": "Aibonito",
+        "countryId": "4566966",
+        "latitude": 18.13996,
+        "longitude": -66.266
+    },
+    {
+        "stateId": "4562640",
+        "name": "Arecibo",
+        "countryId": "4566966",
+        "latitude": 18.40411,
+        "longitude": -66.67462
+    },
+    {
+        "stateId": "4562682",
+        "name": "Arroyo",
+        "countryId": "4566966",
+        "latitude": 18.0008,
+        "longitude": -66.05794
+    },
+    {
+        "stateId": "4562605",
+        "name": "A\u00f1asco",
+        "countryId": "4566966",
+        "latitude": 18.28134,
+        "longitude": -67.1274
+    },
+    {
+        "stateId": "4562771",
+        "name": "Barceloneta",
+        "countryId": "4566966",
+        "latitude": 18.45633,
+        "longitude": -66.54128
+    },
+    {
+        "stateId": "4562779",
+        "name": "Barranquitas",
+        "countryId": "4566966",
+        "latitude": 18.20357,
+        "longitude": -66.31211
+    },
+    {
+        "stateId": "4562837",
+        "name": "Bayam\u00f3n Municipio",
+        "countryId": "4566966",
+        "latitude": 18.35217,
+        "longitude": -66.17044
+    },
+    {
+        "stateId": "4562997",
+        "name": "Cabo Rojo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.05635,
+        "longitude": -67.14685
+    },
+    {
+        "stateId": "4563011",
+        "name": "Caguas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.21329,
+        "longitude": -66.04961
+    },
+    {
+        "stateId": "4563065",
+        "name": "Camuy Municipio",
+        "countryId": "4566966",
+        "latitude": 18.42578,
+        "longitude": -66.85934
+    },
+    {
+        "stateId": "4563169",
+        "name": "Can\u00f3vanas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.33828,
+        "longitude": -65.88711
+    },
+    {
+        "stateId": "4563244",
+        "name": "Carolina Municipio",
+        "countryId": "4566966",
+        "latitude": 18.37578,
+        "longitude": -65.95794
+    },
+    {
+        "stateId": "4563299",
+        "name": "Cata\u00f1o Municipio",
+        "countryId": "4566966",
+        "latitude": 18.4355,
+        "longitude": -66.13711
+    },
+    {
+        "stateId": "4563309",
+        "name": "Cayey Municipio",
+        "countryId": "4566966",
+        "latitude": 18.10357,
+        "longitude": -66.15378
+    },
+    {
+        "stateId": "4563380",
+        "name": "Ceiba Municipio",
+        "countryId": "4566966",
+        "latitude": 18.26051,
+        "longitude": -65.67183
+    },
+    {
+        "stateId": "4563774",
+        "name": "Ciales Municipio",
+        "countryId": "4566966",
+        "latitude": 18.29162,
+        "longitude": -66.51628
+    },
+    {
+        "stateId": "4563778",
+        "name": "Cidra Municipio",
+        "countryId": "4566966",
+        "latitude": 18.17579,
+        "longitude": -66.16211
+    },
+    {
+        "stateId": "4563812",
+        "name": "Coamo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.09802,
+        "longitude": -66.36211
+    },
+    {
+        "stateId": "4563921",
+        "name": "Comer\u00edo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.22718,
+        "longitude": -66.22183
+    },
+    {
+        "stateId": "4564004",
+        "name": "Corozal Municipio",
+        "countryId": "4566966",
+        "latitude": 18.30912,
+        "longitude": -66.326
+    },
+    {
+        "stateId": "4564071",
+        "name": "Culebra Municipio",
+        "countryId": "4566966",
+        "latitude": 18.31884,
+        "longitude": -65.2871
+    },
+    {
+        "stateId": "4564134",
+        "name": "Dorado Municipio",
+        "countryId": "4566966",
+        "latitude": 18.43967,
+        "longitude": -66.28295
+    },
+    {
+        "stateId": "4564949",
+        "name": "Fajardo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.31051,
+        "longitude": -65.676
+    },
+    {
+        "stateId": "4564993",
+        "name": "Florida Municipio",
+        "countryId": "4566966",
+        "latitude": 18.36051,
+        "longitude": -66.56212
+    },
+    {
+        "stateId": "4565107",
+        "name": "Guayama Municipio",
+        "countryId": "4566966",
+        "latitude": 18.01663,
+        "longitude": -66.13072
+    },
+    {
+        "stateId": "4565112",
+        "name": "Guayanilla Municipio",
+        "countryId": "4566966",
+        "latitude": 18.05413,
+        "longitude": -66.7899
+    },
+    {
+        "stateId": "4565120",
+        "name": "Guaynabo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.34106,
+        "longitude": -66.11628
+    },
+    {
+        "stateId": "4565126",
+        "name": "Gurabo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.27162,
+        "longitude": -65.97183
+    },
+    {
+        "stateId": "4565091",
+        "name": "Gu\u00e1nica Municipio",
+        "countryId": "4566966",
+        "latitude": 17.9883,
+        "longitude": -66.91212
+    },
+    {
+        "stateId": "4565348",
+        "name": "Hatillo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.40773,
+        "longitude": -66.79323
+    },
+    {
+        "stateId": "4565381",
+        "name": "Hormigueros Municipio",
+        "countryId": "4566966",
+        "latitude": 18.14162,
+        "longitude": -67.11629
+    },
+    {
+        "stateId": "4565449",
+        "name": "Humacao Municipio",
+        "countryId": "4566966",
+        "latitude": 18.14802,
+        "longitude": -65.81211
+    },
+    {
+        "stateId": "4565713",
+        "name": "Juana D\u00edaz Municipio",
+        "countryId": "4566966",
+        "latitude": 18.04802,
+        "longitude": -66.49267
+    },
+    {
+        "stateId": "4565900",
+        "name": "Lajas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.0133,
+        "longitude": -67.0399
+    },
+    {
+        "stateId": "4565910",
+        "name": "Lares Municipio",
+        "countryId": "4566966",
+        "latitude": 18.27023,
+        "longitude": -66.86907
+    },
+    {
+        "stateId": "4565961",
+        "name": "Las Mar\u00edas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.25087,
+        "longitude": -66.9924
+    },
+    {
+        "stateId": "4565981",
+        "name": "Las Piedras Municipio",
+        "countryId": "4566966",
+        "latitude": 18.18829,
+        "longitude": -65.87044
+    },
+    {
+        "stateId": "4566025",
+        "name": "Lo\u00edza Municipio",
+        "countryId": "4566966",
+        "latitude": 18.43411,
+        "longitude": -65.89266
+    },
+    {
+        "stateId": "4566106",
+        "name": "Luquillo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.33967,
+        "longitude": -65.72461
+    },
+    {
+        "stateId": "4566138",
+        "name": "Manat\u00ed Municipio",
+        "countryId": "4566966",
+        "latitude": 18.41884,
+        "longitude": -66.49267
+    },
+    {
+        "stateId": "4566180",
+        "name": "Maricao Municipio",
+        "countryId": "4566966",
+        "latitude": 18.17301,
+        "longitude": -66.94546
+    },
+    {
+        "stateId": "4566209",
+        "name": "Maunabo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.01691,
+        "longitude": -65.92738
+    },
+    {
+        "stateId": "4566217",
+        "name": "Mayag\u00fcez Municipio",
+        "countryId": "4566966",
+        "latitude": 18.20496,
+        "longitude": -67.1024
+    },
+    {
+        "stateId": "4566272",
+        "name": "Moca Municipio",
+        "countryId": "4566966",
+        "latitude": 18.3855,
+        "longitude": -67.08435
+    },
+    {
+        "stateId": "4566334",
+        "name": "Morovis Municipio",
+        "countryId": "4566966",
+        "latitude": 18.31884,
+        "longitude": -66.41767
+    },
+    {
+        "stateId": "4565581",
+        "name": "Municipio de Isabela",
+        "countryId": "4566966",
+        "latitude": 18.50078,
+        "longitude": -67.02435
+    },
+    {
+        "stateId": "4565684",
+        "name": "Municipio de Jayuya",
+        "countryId": "4566966",
+        "latitude": 18.21857,
+        "longitude": -66.59156
+    },
+    {
+        "stateId": "4565720",
+        "name": "Municipio de Juncos",
+        "countryId": "4566966",
+        "latitude": 18.22746,
+        "longitude": -65.921
+    },
+    {
+        "stateId": "4566397",
+        "name": "Naguabo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.23135,
+        "longitude": -65.75988
+    },
+    {
+        "stateId": "4566403",
+        "name": "Naranjito Municipio",
+        "countryId": "4566966",
+        "latitude": 18.28968,
+        "longitude": -66.25517
+    },
+    {
+        "stateId": "4566456",
+        "name": "Orocovis Municipio",
+        "countryId": "4566966",
+        "latitude": 18.21885,
+        "longitude": -66.43712
+    },
+    {
+        "stateId": "4566654",
+        "name": "Patillas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.04163,
+        "longitude": -66.01766
+    },
+    {
+        "stateId": "4566689",
+        "name": "Pe\u00f1uelas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.07024,
+        "longitude": -66.71767
+    },
+    {
+        "stateId": "4566886",
+        "name": "Ponce Municipio",
+        "countryId": "4566966",
+        "latitude": 18.07302,
+        "longitude": -66.61851
+    },
+    {
+        "stateId": "4567734",
+        "name": "Quebradillas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.43967,
+        "longitude": -66.92462
+    },
+    {
+        "stateId": "4567727",
+        "name": "Rinc\u00f3n Municipio",
+        "countryId": "4566966",
+        "latitude": 18.33967,
+        "longitude": -67.23713
+    },
+    {
+        "stateId": "4567823",
+        "name": "R\u00edo Grande Municipio",
+        "countryId": "4566966",
+        "latitude": 18.34162,
+        "longitude": -65.81766
+    },
+    {
+        "stateId": "4568015",
+        "name": "Sabana Grande Municipio",
+        "countryId": "4566966",
+        "latitude": 18.09385,
+        "longitude": -66.94962
+    },
+    {
+        "stateId": "4568043",
+        "name": "Salinas Municipio",
+        "countryId": "4566966",
+        "latitude": 18.01746,
+        "longitude": -66.25378
+    },
+    {
+        "stateId": "4568105",
+        "name": "San Germ\u00e1n Municipio",
+        "countryId": "4566966",
+        "latitude": 18.11468,
+        "longitude": -67.03573
+    },
+    {
+        "stateId": "4568138",
+        "name": "San Juan",
+        "countryId": "4566966",
+        "latitude": 18.45095,
+        "longitude": -66.09169
+    },
+    {
+        "stateId": "4568150",
+        "name": "San Lorenzo Municipio",
+        "countryId": "4566966",
+        "latitude": 18.15496,
+        "longitude": -65.97461
+    },
+    {
+        "stateId": "4568177",
+        "name": "San Sebasti\u00e1n Municipio",
+        "countryId": "4566966",
+        "latitude": 18.32912,
+        "longitude": -66.97462
+    },
+    {
+        "stateId": "4568213",
+        "name": "Santa Isabel Municipio",
+        "countryId": "4566966",
+        "latitude": 17.99663,
+        "longitude": -66.38711
+    },
+    {
+        "stateId": "4568404",
+        "name": "Toa Alta Municipio",
+        "countryId": "4566966",
+        "latitude": 18.36606,
+        "longitude": -66.25378
+    },
+    {
+        "stateId": "4568408",
+        "name": "Toa Baja Municipio",
+        "countryId": "4566966",
+        "latitude": 18.43176,
+        "longitude": -66.21291
+    },
+    {
+        "stateId": "4568452",
+        "name": "Trujillo Alto Municipio",
+        "countryId": "4566966",
+        "latitude": 18.34162,
+        "longitude": -66.00517
+    },
+    {
+        "stateId": "4568491",
+        "name": "Utuado Municipio",
+        "countryId": "4566966",
+        "latitude": 18.27301,
+        "longitude": -66.69962
+    },
+    {
+        "stateId": "4568529",
+        "name": "Vega Alta Municipio",
+        "countryId": "4566966",
+        "latitude": 18.4105,
+        "longitude": -66.33295
+    },
+    {
+        "stateId": "4568534",
+        "name": "Vega Baja Municipio",
+        "countryId": "4566966",
+        "latitude": 18.42578,
+        "longitude": -66.39961
+    },
+    {
+        "stateId": "4568924",
+        "name": "Vieques Municipality",
+        "countryId": "4566966",
+        "latitude": 18.12913,
+        "longitude": -65.4371
+    },
+    {
+        "stateId": "4568684",
+        "name": "Villalba Municipio",
+        "countryId": "4566966",
+        "latitude": 18.12913,
+        "longitude": -66.47739
+    },
+    {
+        "stateId": "4568909",
+        "name": "Yabucoa Municipio",
+        "countryId": "4566966",
+        "latitude": 18.07302,
+        "longitude": -65.88711
+    },
+    {
+        "stateId": "4568918",
+        "name": "Yauco Municipio",
+        "countryId": "4566966",
+        "latitude": 18.07857,
+        "longitude": -66.85518
+    }
+]

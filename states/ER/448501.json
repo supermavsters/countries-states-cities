@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "9166015",
+        "name": "Berikh",
+        "stateId": "448501",
+        "latitude": 15.3321,
+        "longitude": 38.76714
+    },
+    {
+        "cityId": "9166018",
+        "name": "Ghala Nefhi",
+        "stateId": "448501",
+        "latitude": 15.24944,
+        "longitude": 38.78417
+    },
+    {
+        "cityId": "9166024",
+        "name": "Serejaka",
+        "stateId": "448501",
+        "latitude": 15.72194,
+        "longitude": 38.885
+    },
+    {
+        "cityId": "9166027",
+        "name": "South Eastern Subregion",
+        "stateId": "448501",
+        "latitude": 15.271,
+        "longitude": 38.997
+    },
+    {
+        "cityId": "9166028",
+        "name": "South Western Subregion",
+        "stateId": "448501",
+        "latitude": 15.205,
+        "longitude": 38.832
+    }
+]

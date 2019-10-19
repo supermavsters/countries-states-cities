@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2446795",
+        "name": "D\u00e9partement de Bilma",
+        "stateId": "2448083",
+        "latitude": 20.5,
+        "longitude": 13.25
+    },
+    {
+        "cityId": "2448084",
+        "name": "D\u00e9partement d' Agadez",
+        "stateId": "2448083",
+        "latitude": 18.5,
+        "longitude": 7.5
+    },
+    {
+        "cityId": "8624000",
+        "name": "Arlit",
+        "stateId": "2448083",
+        "latitude": 19.81896,
+        "longitude": 8.67149
+    },
+    {
+        "cityId": "8624001",
+        "name": "D\u00e9partement de Tchiroz\u00e9rine",
+        "stateId": "2448083",
+        "latitude": 16.68704,
+        "longitude": 7.70128
+    },
+    {
+        "cityId": "9212582",
+        "name": "El Mina",
+        "stateId": "2448083",
+        "latitude": 19.43333,
+        "longitude": 15.35
+    }
+]

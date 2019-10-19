@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "1232781",
+        "name": "Nuwara Eliya District",
+        "stateId": "1249296",
+        "latitude": 6.9785,
+        "longitude": 80.7133
+    },
+    {
+        "cityId": "1235854",
+        "name": "Matale District",
+        "stateId": "1249296",
+        "latitude": 7.6598,
+        "longitude": 80.7073
+    },
+    {
+        "cityId": "1241621",
+        "name": "Kandy District",
+        "stateId": "1249296",
+        "latitude": 7.3044,
+        "longitude": 80.7073
+    }
+]

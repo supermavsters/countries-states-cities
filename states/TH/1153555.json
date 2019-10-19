@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1150202",
+        "name": "Amphoe Tha Sae",
+        "stateId": "1153555",
+        "latitude": 10.76864,
+        "longitude": 99.09878
+    },
+    {
+        "cityId": "1150677",
+        "name": "Amphoe Sawi",
+        "stateId": "1153555",
+        "latitude": 10.24008,
+        "longitude": 99.01865
+    },
+    {
+        "cityId": "1151428",
+        "name": "Amphoe Phato",
+        "stateId": "1153555",
+        "latitude": 9.81066,
+        "longitude": 98.80178
+    },
+    {
+        "cityId": "1151522",
+        "name": "Amphoe Pathio",
+        "stateId": "1153555",
+        "latitude": 10.81008,
+        "longitude": 99.33938
+    },
+    {
+        "cityId": "1151998",
+        "name": "Amphoe Mueang Chumphon",
+        "stateId": "1153555",
+        "latitude": 10.46077,
+        "longitude": 99.10608
+    },
+    {
+        "cityId": "1152431",
+        "name": "Amphoe Lang Suan",
+        "stateId": "1153555",
+        "latitude": 9.93386,
+        "longitude": 99.05292
+    },
+    {
+        "cityId": "7510623",
+        "name": "Amphoe Lamae",
+        "stateId": "1153555",
+        "latitude": 9.75567,
+        "longitude": 99.04378
+    },
+    {
+        "cityId": "7510624",
+        "name": "Amphoe Thung Tako",
+        "stateId": "1153555",
+        "latitude": 10.09223,
+        "longitude": 99.05337
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "cityId": "662282",
+        "name": "Ora\u015f Z\u00e3rne\u015fti",
+        "stateId": "683843",
+        "latitude": 45.5565,
+        "longitude": 25.35205
+    },
+    {
+        "cityId": "662427",
+        "name": "Comuna Vulcan",
+        "stateId": "683843",
+        "latitude": 45.6496,
+        "longitude": 25.41671
+    },
+    {
+        "cityId": "662532",
+        "name": "Comuna Voila",
+        "stateId": "683843",
+        "latitude": 45.81815,
+        "longitude": 24.8406
+    },
+    {
+        "cityId": "662678",
+        "name": "Comuna Vi\u015ftea de Jos",
+        "stateId": "683843",
+        "latitude": 45.77201,
+        "longitude": 24.75237
+    },
+    {
+        "cityId": "663221",
+        "name": "Comuna Vama Buz\u0103ului",
+        "stateId": "683843",
+        "latitude": 45.60258,
+        "longitude": 25.97991
+    },
+    {
+        "cityId": "664262",
+        "name": "Comuna Ungra",
+        "stateId": "683843",
+        "latitude": 45.97828,
+        "longitude": 25.21859
+    },
+    {
+        "cityId": "664391",
+        "name": "Comuna Ucea de Jos",
+        "stateId": "683843",
+        "latitude": 45.7798,
+        "longitude": 24.68477
+    },
+    {
+        "cityId": "665156",
+        "name": "Comuna Ticu\u015fu Vechi",
+        "stateId": "683843",
+        "latitude": 45.92823,
+        "longitude": 25.09346
+    },
+    {
+        "cityId": "665270",
+        "name": "Comuna Teliu",
+        "stateId": "683843",
+        "latitude": 45.69856,
+        "longitude": 25.8559
+    },
+    {
+        "cityId": "665496",
+        "name": "Comuna T\u0103rlungeni",
+        "stateId": "683843",
+        "latitude": 45.64579,
+        "longitude": 25.77368
+    },
+    {
+        "cityId": "666599",
+        "name": "Comuna \u015eoar\u015f",
+        "stateId": "683843",
+        "latitude": 45.92871,
+        "longitude": 24.92764
+    },
+    {
+        "cityId": "666957",
+        "name": "Comuna S\u00e2npetru",
+        "stateId": "683843",
+        "latitude": 45.71082,
+        "longitude": 25.63678
+    },
+    {
+        "cityId": "667075",
+        "name": "Comuna \u015einca Veche",
+        "stateId": "683843",
+        "latitude": 45.75892,
+        "longitude": 25.15578
+    },
+    {
+        "cityId": "667077",
+        "name": "Comuna \u015einca Nou\u0103",
+        "stateId": "683843",
+        "latitude": 45.69667,
+        "longitude": 25.22177
+    },
+    {
+        "cityId": "667140",
+        "name": "Comuna S\u00e2mb\u0103ta de Sus",
+        "stateId": "683843",
+        "latitude": 45.72698,
+        "longitude": 24.81067
+    },
+    {
+        "cityId": "667348",
+        "name": "Comuna \u015eercaia",
+        "stateId": "683843",
+        "latitude": 45.83002,
+        "longitude": 25.14114
+    },
+    {
+        "cityId": "669040",
+        "name": "Comuna Recea",
+        "stateId": "683843",
+        "latitude": 45.74312,
+        "longitude": 24.94086
+    },
+    {
+        "cityId": "669690",
+        "name": "Comuna Prejmer",
+        "stateId": "683843",
+        "latitude": 45.73164,
+        "longitude": 25.78673
+    },
+    {
+        "cityId": "670055",
+        "name": "Comuna Poiana M\u0103rului",
+        "stateId": "683843",
+        "latitude": 45.60462,
+        "longitude": 25.30927
+    },
+    {
+        "cityId": "670746",
+        "name": "Comuna P\u00e2r\u00e2u",
+        "stateId": "683843",
+        "latitude": 45.85139,
+        "longitude": 25.21584
+    },
+    {
+        "cityId": "671696",
+        "name": "Comuna Ormeni\u015f",
+        "stateId": "683843",
+        "latitude": 46.00473,
+        "longitude": 25.55683
+    },
+    {
+        "cityId": "672969",
+        "name": "Comuna Moieciu",
+        "stateId": "683843",
+        "latitude": 45.48848,
+        "longitude": 25.30962
+    },
+    {
+        "cityId": "673217",
+        "name": "Comuna M\u00e2ndra",
+        "stateId": "683843",
+        "latitude": 45.81219,
+        "longitude": 25.03262
+    },
+    {
+        "cityId": "674195",
+        "name": "Comuna M\u00e3ieru\u015f",
+        "stateId": "683843",
+        "latitude": 45.89358,
+        "longitude": 25.49705
+    },
+    {
+        "cityId": "674719",
+        "name": "Comuna Lisa",
+        "stateId": "683843",
+        "latitude": 45.7276,
+        "longitude": 24.86876
+    },
+    {
+        "cityId": "675265",
+        "name": "Comuna Jibert",
+        "stateId": "683843",
+        "latitude": 46.00173,
+        "longitude": 25.07355
+    },
+    {
+        "cityId": "676051",
+        "name": "Comuna Homorod",
+        "stateId": "683843",
+        "latitude": 46.0726,
+        "longitude": 25.33464
+    },
+    {
+        "cityId": "676080",
+        "name": "Comuna Holbav",
+        "stateId": "683843",
+        "latitude": 45.65922,
+        "longitude": 25.38744
+    },
+    {
+        "cityId": "676086",
+        "name": "Comuna Hoghiz",
+        "stateId": "683843",
+        "latitude": 45.96602,
+        "longitude": 25.32168
+    },
+    {
+        "cityId": "676168",
+        "name": "Comuna H\u00e2r\u015feni",
+        "stateId": "683843",
+        "latitude": 45.7342,
+        "longitude": 25.02404
+    },
+    {
+        "cityId": "676303",
+        "name": "Comuna H\u0103rman",
+        "stateId": "683843",
+        "latitude": 45.73727,
+        "longitude": 25.70451
+    },
+    {
+        "cityId": "676367",
+        "name": "Comuna H\u0103lchiu",
+        "stateId": "683843",
+        "latitude": 45.76743,
+        "longitude": 25.52991
+    },
+    {
+        "cityId": "677381",
+        "name": "Ora\u015f Ghimbav",
+        "stateId": "683843",
+        "latitude": 45.66397,
+        "longitude": 25.50836
+    },
+    {
+        "cityId": "677832",
+        "name": "Comuna Fundata",
+        "stateId": "683843",
+        "latitude": 45.44615,
+        "longitude": 25.27775
+    },
+    {
+        "cityId": "678363",
+        "name": "Comuna Feldioara",
+        "stateId": "683843",
+        "latitude": 45.82829,
+        "longitude": 25.57459
+    },
+    {
+        "cityId": "678677",
+        "name": "Comuna Dumbr\u0103vi\u0163a",
+        "stateId": "683843",
+        "latitude": 45.76667,
+        "longitude": 25.43333
+    },
+    {
+        "cityId": "678888",
+        "name": "Comuna Dr\u0103gu\u015f",
+        "stateId": "683843",
+        "latitude": 45.76146,
+        "longitude": 24.77906
+    },
+    {
+        "cityId": "680110",
+        "name": "Comuna Crizbav",
+        "stateId": "683843",
+        "latitude": 45.8207,
+        "longitude": 25.46739
+    },
+    {
+        "cityId": "680165",
+        "name": "Comuna Cristian",
+        "stateId": "683843",
+        "latitude": 45.62474,
+        "longitude": 25.48292
+    },
+    {
+        "cityId": "681032",
+        "name": "Comuna Comana",
+        "stateId": "683843",
+        "latitude": 45.91357,
+        "longitude": 25.2208
+    },
+    {
+        "cityId": "681826",
+        "name": "Comuna Cincu",
+        "stateId": "683843",
+        "latitude": 45.90712,
+        "longitude": 24.77333
+    },
+    {
+        "cityId": "682580",
+        "name": "Comuna Ca\u0163a",
+        "stateId": "683843",
+        "latitude": 46.13174,
+        "longitude": 25.26977
+    },
+    {
+        "cityId": "683272",
+        "name": "Comuna Bune\u015fti",
+        "stateId": "683843",
+        "latitude": 46.10042,
+        "longitude": 25.05528
+    },
+    {
+        "cityId": "683421",
+        "name": "Comuna Budila",
+        "stateId": "683843",
+        "latitude": 45.67432,
+        "longitude": 25.80793
+    },
+    {
+        "cityId": "683888",
+        "name": "Comuna Bran",
+        "stateId": "683843",
+        "latitude": 45.51412,
+        "longitude": 25.37289
+    },
+    {
+        "cityId": "684476",
+        "name": "Comuna Bod",
+        "stateId": "683843",
+        "latitude": 45.75987,
+        "longitude": 25.62077
+    },
+    {
+        "cityId": "685202",
+        "name": "Comuna Beclean",
+        "stateId": "683843",
+        "latitude": 45.83119,
+        "longitude": 24.92317
+    },
+    {
+        "cityId": "686280",
+        "name": "Comuna Apa\u0163a",
+        "stateId": "683843",
+        "latitude": 45.95043,
+        "longitude": 25.53312
+    },
+    {
+        "cityId": "6691648",
+        "name": "Municipiul Bra\u015fov",
+        "stateId": "683843",
+        "latitude": 45.65053,
+        "longitude": 25.60913
+    },
+    {
+        "cityId": "8334645",
+        "name": "Comuna Augustin",
+        "stateId": "683843",
+        "latitude": 46.04613,
+        "longitude": 25.55333
+    },
+    {
+        "cityId": "8334662",
+        "name": "Ora\u015f Victoria",
+        "stateId": "683843",
+        "latitude": 45.72968,
+        "longitude": 24.7028
+    },
+    {
+        "cityId": "8334689",
+        "name": "Ora\u015f Rupea",
+        "stateId": "683843",
+        "latitude": 46.05903,
+        "longitude": 25.18717
+    },
+    {
+        "cityId": "8334693",
+        "name": "Municipiul F\u00e3g\u00e3ra\u015f",
+        "stateId": "683843",
+        "latitude": 45.84098,
+        "longitude": 24.97348
+    },
+    {
+        "cityId": "8334708",
+        "name": "Municipiul  Codlea",
+        "stateId": "683843",
+        "latitude": 45.69944,
+        "longitude": 25.44778
+    },
+    {
+        "cityId": "8334720",
+        "name": "Municipiul S\u00e3cele",
+        "stateId": "683843",
+        "latitude": 45.61772,
+        "longitude": 25.6989
+    },
+    {
+        "cityId": "8334939",
+        "name": "Ora\u015f R\u00e2\u015fnov",
+        "stateId": "683843",
+        "latitude": 45.59108,
+        "longitude": 25.46393
+    },
+    {
+        "cityId": "8334946",
+        "name": "Comuna Raco\u015f",
+        "stateId": "683843",
+        "latitude": 46.02051,
+        "longitude": 25.39563
+    },
+    {
+        "cityId": "8334974",
+        "name": "Ora\u015f Predeal",
+        "stateId": "683843",
+        "latitude": 45.49679,
+        "longitude": 25.58778
+    }
+]

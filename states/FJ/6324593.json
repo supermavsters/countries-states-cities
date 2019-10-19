@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "10049406",
+        "name": "Malhaha",
+        "stateId": "6324593",
+        "latitude": -12.48142,
+        "longitude": 177.07218
+    },
+    {
+        "cityId": "10049432",
+        "name": "Pepjei",
+        "stateId": "6324593",
+        "latitude": -12.51794,
+        "longitude": 177.10061
+    },
+    {
+        "cityId": "11102238",
+        "name": "Noa'tau",
+        "stateId": "6324593",
+        "latitude": -12.52022,
+        "longitude": 177.1209
+    },
+    {
+        "cityId": "11102239",
+        "name": "Oinafa",
+        "stateId": "6324593",
+        "latitude": -12.48854,
+        "longitude": 177.12407
+    },
+    {
+        "cityId": "11102240",
+        "name": "Itu'ti'u",
+        "stateId": "6324593",
+        "latitude": -12.50792,
+        "longitude": 177.04257
+    },
+    {
+        "cityId": "11102241",
+        "name": "Juju",
+        "stateId": "6324593",
+        "latitude": -12.51863,
+        "longitude": 177.08137
+    },
+    {
+        "cityId": "11102242",
+        "name": "Itu'muta",
+        "stateId": "6324593",
+        "latitude": -12.49826,
+        "longitude": 177.02974
+    }
+]

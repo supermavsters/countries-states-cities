@@ -1,0 +1,1066 @@
+[
+    {
+        "cityId": "2142739",
+        "name": "Wyong Shire",
+        "stateId": "2155400",
+        "latitude": -33.22306,
+        "longitude": 151.41489
+    },
+    {
+        "cityId": "2144547",
+        "name": "Warren Shire",
+        "stateId": "2155400",
+        "latitude": -31.29549,
+        "longitude": 147.72853
+    },
+    {
+        "cityId": "2147083",
+        "name": "Tenterfield Municipality",
+        "stateId": "2155400",
+        "latitude": -29.06897,
+        "longitude": 152.04803
+    },
+    {
+        "cityId": "2147149",
+        "name": "Temora Municipality",
+        "stateId": "2155400",
+        "latitude": -34.38314,
+        "longitude": 147.47917
+    },
+    {
+        "cityId": "2147495",
+        "name": "Tamworth Municipality",
+        "stateId": "2155400",
+        "latitude": -30.92204,
+        "longitude": 150.81526
+    },
+    {
+        "cityId": "2149594",
+        "name": "Shoalhaven Shire",
+        "stateId": "2155400",
+        "latitude": -35.14162,
+        "longitude": 150.41295
+    },
+    {
+        "cityId": "2152124",
+        "name": "Randwick",
+        "stateId": "2155400",
+        "latitude": -33.91667,
+        "longitude": 151.25
+    },
+    {
+        "cityId": "2152652",
+        "name": "Port Stephens Shire",
+        "stateId": "2155400",
+        "latitude": -32.72855,
+        "longitude": 151.89952
+    },
+    {
+        "cityId": "2153469",
+        "name": "Penrith Municipality",
+        "stateId": "2155400",
+        "latitude": -33.75,
+        "longitude": 150.7
+    },
+    {
+        "cityId": "2154212",
+        "name": "Orange Municipality",
+        "stateId": "2155400",
+        "latitude": -33.32834,
+        "longitude": 149.12294
+    },
+    {
+        "cityId": "2155855",
+        "name": "Nambucca Shire",
+        "stateId": "2155400",
+        "latitude": -30.70829,
+        "longitude": 152.71024
+    },
+    {
+        "cityId": "2156065",
+        "name": "Murrumbidgee Shire",
+        "stateId": "2155400",
+        "latitude": -34.68333,
+        "longitude": 145.7
+    },
+    {
+        "cityId": "2156090",
+        "name": "Murray Shire",
+        "stateId": "2155400",
+        "latitude": -35.7081,
+        "longitude": 144.83363
+    },
+    {
+        "cityId": "2158864",
+        "name": "Manly Vale",
+        "stateId": "2155400",
+        "latitude": -33.79275,
+        "longitude": 151.27281
+    },
+    {
+        "cityId": "2159040",
+        "name": "Maitland Municipality",
+        "stateId": "2155400",
+        "latitude": -32.73333,
+        "longitude": 151.55
+    },
+    {
+        "cityId": "2160061",
+        "name": "Lismore Municipality",
+        "stateId": "2155400",
+        "latitude": -28.8,
+        "longitude": 153.26667
+    },
+    {
+        "cityId": "2160746",
+        "name": "Lake Macquarie Shire",
+        "stateId": "2155400",
+        "latitude": -33.03756,
+        "longitude": 151.5347
+    },
+    {
+        "cityId": "2163136",
+        "name": "Hornsby Shire",
+        "stateId": "2155400",
+        "latitude": -33.58315,
+        "longitude": 151.10953
+    },
+    {
+        "cityId": "2164848",
+        "name": "Gosford Shire",
+        "stateId": "2155400",
+        "latitude": -33.3403,
+        "longitude": 151.23455
+    },
+    {
+        "cityId": "2165153",
+        "name": "Gloucester Shire",
+        "stateId": "2155400",
+        "latitude": -31.88789,
+        "longitude": 151.77598
+    },
+    {
+        "cityId": "2168303",
+        "name": "Dubbo Municipality",
+        "stateId": "2155400",
+        "latitude": -32.2698,
+        "longitude": 148.69572
+    },
+    {
+        "cityId": "2172583",
+        "name": "Campbelltown Municipality",
+        "stateId": "2155400",
+        "latitude": -34.08333,
+        "longitude": 150.83333
+    },
+    {
+        "cityId": "2172879",
+        "name": "Byron Shire",
+        "stateId": "2155400",
+        "latitude": -28.61667,
+        "longitude": 153.51667
+    },
+    {
+        "cityId": "2173910",
+        "name": "Broken Hill Municipality",
+        "stateId": "2155400",
+        "latitude": -31.95,
+        "longitude": 141.43333
+    },
+    {
+        "cityId": "2175228",
+        "name": "Blue Mountains Municipality",
+        "stateId": "2155400",
+        "latitude": -33.63203,
+        "longitude": 150.41293
+    },
+    {
+        "cityId": "2177670",
+        "name": "Armidale Dumaresq",
+        "stateId": "2155400",
+        "latitude": -30.58124,
+        "longitude": 151.87486
+    },
+    {
+        "cityId": "2178173",
+        "name": "Albury Municipality",
+        "stateId": "2155400",
+        "latitude": -36.01494,
+        "longitude": 146.95684
+    },
+    {
+        "cityId": "6619279",
+        "name": "City of Sydney",
+        "stateId": "2155400",
+        "latitude": -33.86778,
+        "longitude": 151.20844
+    },
+    {
+        "cityId": "7839358",
+        "name": "Dungog",
+        "stateId": "2155400",
+        "latitude": -32.34619,
+        "longitude": 151.61122
+    },
+    {
+        "cityId": "7839359",
+        "name": "Eurobodalla",
+        "stateId": "2155400",
+        "latitude": -35.93307,
+        "longitude": 149.9278
+    },
+    {
+        "cityId": "7839360",
+        "name": "Fairfield",
+        "stateId": "2155400",
+        "latitude": -33.86742,
+        "longitude": 150.90105
+    },
+    {
+        "cityId": "7839361",
+        "name": "Forbes",
+        "stateId": "2155400",
+        "latitude": -33.37898,
+        "longitude": 147.86448
+    },
+    {
+        "cityId": "7839362",
+        "name": "Gilgandra",
+        "stateId": "2155400",
+        "latitude": -31.63297,
+        "longitude": 148.70354
+    },
+    {
+        "cityId": "7839363",
+        "name": "Glen Innes Severn",
+        "stateId": "2155400",
+        "latitude": -29.63116,
+        "longitude": 151.93957
+    },
+    {
+        "cityId": "7839364",
+        "name": "Goulburn Mulwaree",
+        "stateId": "2155400",
+        "latitude": -34.9025,
+        "longitude": 149.902
+    },
+    {
+        "cityId": "7839365",
+        "name": "Greater Taree",
+        "stateId": "2155400",
+        "latitude": -31.80491,
+        "longitude": 152.27955
+    },
+    {
+        "cityId": "7839366",
+        "name": "Greater Hume Shire",
+        "stateId": "2155400",
+        "latitude": -35.75837,
+        "longitude": 147.19731
+    },
+    {
+        "cityId": "7839367",
+        "name": "Tumbarumba",
+        "stateId": "2155400",
+        "latitude": -36.17337,
+        "longitude": 148.12888
+    },
+    {
+        "cityId": "7839368",
+        "name": "Tumut Shire",
+        "stateId": "2155400",
+        "latitude": -35.54176,
+        "longitude": 148.32624
+    },
+    {
+        "cityId": "7839369",
+        "name": "Tweed",
+        "stateId": "2155400",
+        "latitude": -28.34991,
+        "longitude": 153.34652
+    },
+    {
+        "cityId": "7839370",
+        "name": "Upper Hunter Shire",
+        "stateId": "2155400",
+        "latitude": -31.98126,
+        "longitude": 150.69282
+    },
+    {
+        "cityId": "7839683",
+        "name": "Ashfield",
+        "stateId": "2155400",
+        "latitude": -33.88861,
+        "longitude": 151.13142
+    },
+    {
+        "cityId": "7839684",
+        "name": "Auburn",
+        "stateId": "2155400",
+        "latitude": -33.8543,
+        "longitude": 151.04812
+    },
+    {
+        "cityId": "7839686",
+        "name": "Ballina",
+        "stateId": "2155400",
+        "latitude": -28.85273,
+        "longitude": 153.48568
+    },
+    {
+        "cityId": "7839687",
+        "name": "Balranald",
+        "stateId": "2155400",
+        "latitude": -34.67839,
+        "longitude": 143.56384
+    },
+    {
+        "cityId": "7839688",
+        "name": "Bankstown",
+        "stateId": "2155400",
+        "latitude": -33.92384,
+        "longitude": 151.02075
+    },
+    {
+        "cityId": "7839689",
+        "name": "Bathurst Regional",
+        "stateId": "2155400",
+        "latitude": -33.4731,
+        "longitude": 149.51956
+    },
+    {
+        "cityId": "7839690",
+        "name": "The Hills Shire",
+        "stateId": "2155400",
+        "latitude": -33.59118,
+        "longitude": 150.961
+    },
+    {
+        "cityId": "7839691",
+        "name": "Bega Valley",
+        "stateId": "2155400",
+        "latitude": -36.81646,
+        "longitude": 149.7206
+    },
+    {
+        "cityId": "7839692",
+        "name": "Bellingen",
+        "stateId": "2155400",
+        "latitude": -30.37394,
+        "longitude": 152.72492
+    },
+    {
+        "cityId": "7839693",
+        "name": "Berrigan",
+        "stateId": "2155400",
+        "latitude": -35.75192,
+        "longitude": 145.66984
+    },
+    {
+        "cityId": "7839694",
+        "name": "Blacktown",
+        "stateId": "2155400",
+        "latitude": -33.74016,
+        "longitude": 150.86253
+    },
+    {
+        "cityId": "7839695",
+        "name": "Bland",
+        "stateId": "2155400",
+        "latitude": -33.91904,
+        "longitude": 146.92718
+    },
+    {
+        "cityId": "7839696",
+        "name": "Blayney",
+        "stateId": "2155400",
+        "latitude": -33.61653,
+        "longitude": 149.13046
+    },
+    {
+        "cityId": "7839697",
+        "name": "Bogan",
+        "stateId": "2155400",
+        "latitude": -31.57012,
+        "longitude": 146.90617
+    },
+    {
+        "cityId": "7839698",
+        "name": "Bombala",
+        "stateId": "2155400",
+        "latitude": -36.91101,
+        "longitude": 148.95274
+    },
+    {
+        "cityId": "7839699",
+        "name": "Boorowa",
+        "stateId": "2155400",
+        "latitude": -34.2879,
+        "longitude": 148.84233
+    },
+    {
+        "cityId": "7839700",
+        "name": "Botany Bay",
+        "stateId": "2155400",
+        "latitude": -33.9466,
+        "longitude": 151.19874
+    },
+    {
+        "cityId": "7839701",
+        "name": "Bourke",
+        "stateId": "2155400",
+        "latitude": -29.99584,
+        "longitude": 145.3616
+    },
+    {
+        "cityId": "7839702",
+        "name": "Brewarrina",
+        "stateId": "2155400",
+        "latitude": -29.95055,
+        "longitude": 147.1476
+    },
+    {
+        "cityId": "7839703",
+        "name": "Burwood",
+        "stateId": "2155400",
+        "latitude": -33.88536,
+        "longitude": 151.10481
+    },
+    {
+        "cityId": "7839704",
+        "name": "Cabonne",
+        "stateId": "2155400",
+        "latitude": -33.11076,
+        "longitude": 148.82694
+    },
+    {
+        "cityId": "7839705",
+        "name": "Camden",
+        "stateId": "2155400",
+        "latitude": -34.0161,
+        "longitude": 150.72521
+    },
+    {
+        "cityId": "7839706",
+        "name": "Canada Bay",
+        "stateId": "2155400",
+        "latitude": -33.8659,
+        "longitude": 151.11591
+    },
+    {
+        "cityId": "7839707",
+        "name": "Canterbury",
+        "stateId": "2155400",
+        "latitude": -33.92229,
+        "longitude": 151.09689
+    },
+    {
+        "cityId": "7839708",
+        "name": "Carrathool",
+        "stateId": "2155400",
+        "latitude": -33.62571,
+        "longitude": 145.42523
+    },
+    {
+        "cityId": "7839709",
+        "name": "Central Darling",
+        "stateId": "2155400",
+        "latitude": -31.77155,
+        "longitude": 143.62569
+    },
+    {
+        "cityId": "7839710",
+        "name": "Cessnock",
+        "stateId": "2155400",
+        "latitude": -32.89391,
+        "longitude": 151.21234
+    },
+    {
+        "cityId": "7839711",
+        "name": "Clarence Valley",
+        "stateId": "2155400",
+        "latitude": -29.69444,
+        "longitude": 152.78156
+    },
+    {
+        "cityId": "7839712",
+        "name": "Cobar",
+        "stateId": "2155400",
+        "latitude": -31.96613,
+        "longitude": 145.36063
+    },
+    {
+        "cityId": "7839713",
+        "name": "Coffs Harbour",
+        "stateId": "2155400",
+        "latitude": -30.17294,
+        "longitude": 153.03262
+    },
+    {
+        "cityId": "7839714",
+        "name": "Conargo",
+        "stateId": "2155400",
+        "latitude": -35.23387,
+        "longitude": 144.82349
+    },
+    {
+        "cityId": "7839715",
+        "name": "Coolamon",
+        "stateId": "2155400",
+        "latitude": -34.60046,
+        "longitude": 147.13707
+    },
+    {
+        "cityId": "7839716",
+        "name": "Cooma-Monaro",
+        "stateId": "2155400",
+        "latitude": -36.13467,
+        "longitude": 149.07065
+    },
+    {
+        "cityId": "7839717",
+        "name": "Coonamble",
+        "stateId": "2155400",
+        "latitude": -30.86714,
+        "longitude": 148.29053
+    },
+    {
+        "cityId": "7839718",
+        "name": "Cootamundra",
+        "stateId": "2155400",
+        "latitude": -34.58757,
+        "longitude": 148.02042
+    },
+    {
+        "cityId": "7839719",
+        "name": "Corowa Shire",
+        "stateId": "2155400",
+        "latitude": -35.81704,
+        "longitude": 146.32748
+    },
+    {
+        "cityId": "7839720",
+        "name": "Cowra",
+        "stateId": "2155400",
+        "latitude": -33.81138,
+        "longitude": 148.78346
+    },
+    {
+        "cityId": "7839721",
+        "name": "Deniliquin",
+        "stateId": "2155400",
+        "latitude": -35.52908,
+        "longitude": 144.97317
+    },
+    {
+        "cityId": "7839722",
+        "name": "Great Lakes",
+        "stateId": "2155400",
+        "latitude": -32.38784,
+        "longitude": 152.11035
+    },
+    {
+        "cityId": "7839723",
+        "name": "Griffith",
+        "stateId": "2155400",
+        "latitude": -34.33448,
+        "longitude": 146.02295
+    },
+    {
+        "cityId": "7839724",
+        "name": "Gundagai",
+        "stateId": "2155400",
+        "latitude": -35.02623,
+        "longitude": 148.13457
+    },
+    {
+        "cityId": "7839725",
+        "name": "Gunnedah",
+        "stateId": "2155400",
+        "latitude": -31.02404,
+        "longitude": 150.11548
+    },
+    {
+        "cityId": "7839726",
+        "name": "Guyra",
+        "stateId": "2155400",
+        "latitude": -30.17581,
+        "longitude": 151.67894
+    },
+    {
+        "cityId": "7839727",
+        "name": "Gwydir",
+        "stateId": "2155400",
+        "latitude": -29.49806,
+        "longitude": 150.53813
+    },
+    {
+        "cityId": "7839728",
+        "name": "Harden",
+        "stateId": "2155400",
+        "latitude": -34.62874,
+        "longitude": 148.40572
+    },
+    {
+        "cityId": "7839729",
+        "name": "Hawkesbury",
+        "stateId": "2155400",
+        "latitude": -33.34078,
+        "longitude": 150.783
+    },
+    {
+        "cityId": "7839730",
+        "name": "Hay",
+        "stateId": "2155400",
+        "latitude": -34.54276,
+        "longitude": 144.83826
+    },
+    {
+        "cityId": "7839731",
+        "name": "Holroyd",
+        "stateId": "2155400",
+        "latitude": -33.8275,
+        "longitude": 150.9608
+    },
+    {
+        "cityId": "7839732",
+        "name": "Hunters Hill",
+        "stateId": "2155400",
+        "latitude": -33.83437,
+        "longitude": 151.1451
+    },
+    {
+        "cityId": "7839733",
+        "name": "Hurstville",
+        "stateId": "2155400",
+        "latitude": -33.96666,
+        "longitude": 151.07609
+    },
+    {
+        "cityId": "7839734",
+        "name": "Inverell",
+        "stateId": "2155400",
+        "latitude": -29.31526,
+        "longitude": 151.04187
+    },
+    {
+        "cityId": "7839735",
+        "name": "Jerilderie",
+        "stateId": "2155400",
+        "latitude": -35.22299,
+        "longitude": 145.78271
+    },
+    {
+        "cityId": "7839736",
+        "name": "Junee",
+        "stateId": "2155400",
+        "latitude": -34.81518,
+        "longitude": 147.63131
+    },
+    {
+        "cityId": "7839737",
+        "name": "Kempsey",
+        "stateId": "2155400",
+        "latitude": -30.90553,
+        "longitude": 152.68608
+    },
+    {
+        "cityId": "7839738",
+        "name": "Kiama",
+        "stateId": "2155400",
+        "latitude": -34.67124,
+        "longitude": 150.84572
+    },
+    {
+        "cityId": "7839739",
+        "name": "Kogarah",
+        "stateId": "2155400",
+        "latitude": -33.9811,
+        "longitude": 151.10476
+    },
+    {
+        "cityId": "7839740",
+        "name": "Ku-ring-gai",
+        "stateId": "2155400",
+        "latitude": -33.72701,
+        "longitude": 151.14877
+    },
+    {
+        "cityId": "7839741",
+        "name": "Kyogle",
+        "stateId": "2155400",
+        "latitude": -28.64643,
+        "longitude": 152.77871
+    },
+    {
+        "cityId": "7839742",
+        "name": "Lachlan",
+        "stateId": "2155400",
+        "latitude": -32.79999,
+        "longitude": 146.87556
+    },
+    {
+        "cityId": "7839743",
+        "name": "Lane Cove",
+        "stateId": "2155400",
+        "latitude": -33.82321,
+        "longitude": 151.17028
+    },
+    {
+        "cityId": "7839744",
+        "name": "Leeton",
+        "stateId": "2155400",
+        "latitude": -34.52967,
+        "longitude": 146.26918
+    },
+    {
+        "cityId": "7839745",
+        "name": "Leichhardt",
+        "stateId": "2155400",
+        "latitude": -33.86781,
+        "longitude": 151.17057
+    },
+    {
+        "cityId": "7839746",
+        "name": "Lithgow",
+        "stateId": "2155400",
+        "latitude": -33.32025,
+        "longitude": 150.18584
+    },
+    {
+        "cityId": "7839747",
+        "name": "Liverpool",
+        "stateId": "2155400",
+        "latitude": -33.92418,
+        "longitude": 150.91232
+    },
+    {
+        "cityId": "7839748",
+        "name": "Liverpool Plains",
+        "stateId": "2155400",
+        "latitude": -31.47024,
+        "longitude": 150.42001
+    },
+    {
+        "cityId": "7839749",
+        "name": "Lockhart",
+        "stateId": "2155400",
+        "latitude": -35.32193,
+        "longitude": 146.79354
+    },
+    {
+        "cityId": "7839750",
+        "name": "Marrickville",
+        "stateId": "2155400",
+        "latitude": -33.91041,
+        "longitude": 151.15508
+    },
+    {
+        "cityId": "7839751",
+        "name": "Mid-Western Regional",
+        "stateId": "2155400",
+        "latitude": -32.60202,
+        "longitude": 149.76748
+    },
+    {
+        "cityId": "7839752",
+        "name": "Moree Plains",
+        "stateId": "2155400",
+        "latitude": -29.32131,
+        "longitude": 149.58121
+    },
+    {
+        "cityId": "7839753",
+        "name": "Mosman",
+        "stateId": "2155400",
+        "latitude": -33.82845,
+        "longitude": 151.24866
+    },
+    {
+        "cityId": "7839754",
+        "name": "Muswellbrook",
+        "stateId": "2155400",
+        "latitude": -32.48935,
+        "longitude": 150.69839
+    },
+    {
+        "cityId": "7839755",
+        "name": "Narrabri",
+        "stateId": "2155400",
+        "latitude": -30.32779,
+        "longitude": 149.60242
+    },
+    {
+        "cityId": "7839756",
+        "name": "Narrandera",
+        "stateId": "2155400",
+        "latitude": -34.59107,
+        "longitude": 146.53197
+    },
+    {
+        "cityId": "7839757",
+        "name": "Narromine",
+        "stateId": "2155400",
+        "latitude": -32.23174,
+        "longitude": 147.97591
+    },
+    {
+        "cityId": "7839758",
+        "name": "Newcastle",
+        "stateId": "2155400",
+        "latitude": -32.87628,
+        "longitude": 151.70843
+    },
+    {
+        "cityId": "7839759",
+        "name": "North Sydney",
+        "stateId": "2155400",
+        "latitude": -33.83422,
+        "longitude": 151.21019
+    },
+    {
+        "cityId": "7839760",
+        "name": "Oberon",
+        "stateId": "2155400",
+        "latitude": -33.84531,
+        "longitude": 149.81795
+    },
+    {
+        "cityId": "7839761",
+        "name": "Palerang",
+        "stateId": "2155400",
+        "latitude": -35.45571,
+        "longitude": 149.67352
+    },
+    {
+        "cityId": "7839762",
+        "name": "Parkes",
+        "stateId": "2155400",
+        "latitude": -32.82318,
+        "longitude": 148.02514
+    },
+    {
+        "cityId": "7839763",
+        "name": "Parramatta",
+        "stateId": "2155400",
+        "latitude": -33.81248,
+        "longitude": 151.00262
+    },
+    {
+        "cityId": "7839764",
+        "name": "Pittwater",
+        "stateId": "2155400",
+        "latitude": -33.6433,
+        "longitude": 151.27654
+    },
+    {
+        "cityId": "7839765",
+        "name": "Port Macquarie-Hastings",
+        "stateId": "2155400",
+        "latitude": -31.42106,
+        "longitude": 152.51916
+    },
+    {
+        "cityId": "7839766",
+        "name": "Queanbeyan",
+        "stateId": "2155400",
+        "latitude": -35.41965,
+        "longitude": 149.22838
+    },
+    {
+        "cityId": "7839767",
+        "name": "Richmond Valley",
+        "stateId": "2155400",
+        "latitude": -29.02684,
+        "longitude": 153.08625
+    },
+    {
+        "cityId": "7839768",
+        "name": "Rockdale",
+        "stateId": "2155400",
+        "latitude": -33.96611,
+        "longitude": 151.14342
+    },
+    {
+        "cityId": "7839769",
+        "name": "Ryde",
+        "stateId": "2155400",
+        "latitude": -33.80149,
+        "longitude": 151.11205
+    },
+    {
+        "cityId": "7839770",
+        "name": "Shellharbour",
+        "stateId": "2155400",
+        "latitude": -34.59028,
+        "longitude": 150.77119
+    },
+    {
+        "cityId": "7839771",
+        "name": "Singleton",
+        "stateId": "2155400",
+        "latitude": -32.60547,
+        "longitude": 150.91872
+    },
+    {
+        "cityId": "7839772",
+        "name": "Snowy River",
+        "stateId": "2155400",
+        "latitude": -36.30274,
+        "longitude": 148.68576
+    },
+    {
+        "cityId": "7839773",
+        "name": "Strathfield",
+        "stateId": "2155400",
+        "latitude": -33.87978,
+        "longitude": 151.07561
+    },
+    {
+        "cityId": "7839774",
+        "name": "Sutherland Shire",
+        "stateId": "2155400",
+        "latitude": -34.07202,
+        "longitude": 151.07712
+    },
+    {
+        "cityId": "7839775",
+        "name": "Upper Lachlan Shire",
+        "stateId": "2155400",
+        "latitude": -34.41867,
+        "longitude": 149.53061
+    },
+    {
+        "cityId": "7839776",
+        "name": "Uralla",
+        "stateId": "2155400",
+        "latitude": -30.48548,
+        "longitude": 151.35451
+    },
+    {
+        "cityId": "7839777",
+        "name": "Urana",
+        "stateId": "2155400",
+        "latitude": -35.27174,
+        "longitude": 146.32408
+    },
+    {
+        "cityId": "7839778",
+        "name": "Wagga Wagga",
+        "stateId": "2155400",
+        "latitude": -35.18587,
+        "longitude": 147.35509
+    },
+    {
+        "cityId": "7839779",
+        "name": "Wakool",
+        "stateId": "2155400",
+        "latitude": -35.05042,
+        "longitude": 143.90841
+    },
+    {
+        "cityId": "7839780",
+        "name": "Walcha",
+        "stateId": "2155400",
+        "latitude": -31.19757,
+        "longitude": 151.81854
+    },
+    {
+        "cityId": "7839781",
+        "name": "Walgett",
+        "stateId": "2155400",
+        "latitude": -29.79031,
+        "longitude": 148.13393
+    },
+    {
+        "cityId": "7839782",
+        "name": "Warringah",
+        "stateId": "2155400",
+        "latitude": -33.70342,
+        "longitude": 151.23923
+    },
+    {
+        "cityId": "7839783",
+        "name": "Warrumbungle Shire",
+        "stateId": "2155400",
+        "latitude": -31.45519,
+        "longitude": 149.45377
+    },
+    {
+        "cityId": "7839784",
+        "name": "Waverley",
+        "stateId": "2155400",
+        "latitude": -33.90181,
+        "longitude": 151.25599
+    },
+    {
+        "cityId": "7839785",
+        "name": "Weddin",
+        "stateId": "2155400",
+        "latitude": -33.87903,
+        "longitude": 148.01125
+    },
+    {
+        "cityId": "7839786",
+        "name": "Wellington",
+        "stateId": "2155400",
+        "latitude": -32.57502,
+        "longitude": 148.97395
+    },
+    {
+        "cityId": "7839787",
+        "name": "Wentworth",
+        "stateId": "2155400",
+        "latitude": -33.67106,
+        "longitude": 142.33675
+    },
+    {
+        "cityId": "7839788",
+        "name": "Willoughby",
+        "stateId": "2155400",
+        "latitude": -33.80167,
+        "longitude": 151.18782
+    },
+    {
+        "cityId": "7839789",
+        "name": "Wingecarribee",
+        "stateId": "2155400",
+        "latitude": -34.49091,
+        "longitude": 150.35486
+    },
+    {
+        "cityId": "7839790",
+        "name": "Wollondilly",
+        "stateId": "2155400",
+        "latitude": -34.06958,
+        "longitude": 150.46265
+    },
+    {
+        "cityId": "7839791",
+        "name": "Wollongong",
+        "stateId": "2155400",
+        "latitude": -34.34237,
+        "longitude": 150.85062
+    },
+    {
+        "cityId": "7839792",
+        "name": "Woollahra",
+        "stateId": "2155400",
+        "latitude": -33.87901,
+        "longitude": 151.24706
+    },
+    {
+        "cityId": "7839793",
+        "name": "Yass Valley",
+        "stateId": "2155400",
+        "latitude": -34.9263,
+        "longitude": 148.9724
+    },
+    {
+        "cityId": "7839794",
+        "name": "Young",
+        "stateId": "2155400",
+        "latitude": -34.23934,
+        "longitude": 148.19063
+    }
+]

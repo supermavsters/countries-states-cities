@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7522298",
+        "name": "Kehtna vald",
+        "stateId": "589115",
+        "latitude": 58.84274,
+        "longitude": 24.89002
+    },
+    {
+        "cityId": "7522307",
+        "name": "Kohila vald",
+        "stateId": "589115",
+        "latitude": 59.15283,
+        "longitude": 24.73337
+    },
+    {
+        "cityId": "7522357",
+        "name": "M\u00e4rjamaa vald",
+        "stateId": "589115",
+        "latitude": 58.90262,
+        "longitude": 24.39423
+    },
+    {
+        "cityId": "7522401",
+        "name": "Rapla vald",
+        "stateId": "589115",
+        "latitude": 59.03309,
+        "longitude": 24.71793
+    }
+]

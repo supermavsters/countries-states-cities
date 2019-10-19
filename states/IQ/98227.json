@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "99040",
+        "name": "Al-Musayab District",
+        "stateId": "98227",
+        "latitude": 32.78333,
+        "longitude": 44.31667
+    },
+    {
+        "cityId": "99348",
+        "name": "Al-Hilla District",
+        "stateId": "98227",
+        "latitude": 32.3958,
+        "longitude": 44.36279
+    },
+    {
+        "cityId": "99358",
+        "name": "Hashimiya District",
+        "stateId": "98227",
+        "latitude": 32.35,
+        "longitude": 44.75
+    },
+    {
+        "cityId": "6818313",
+        "name": "Al-Mahawil District",
+        "stateId": "98227",
+        "latitude": 32.61448,
+        "longitude": 44.61764
+    }
+]

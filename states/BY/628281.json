@@ -1,0 +1,205 @@
+[
+    {
+        "cityId": "618803",
+        "name": "Zhlobinski Rayon",
+        "stateId": "628281",
+        "latitude": 52.75,
+        "longitude": 29.83333
+    },
+    {
+        "cityId": "618814",
+        "name": "Zhytkavitski Rayon",
+        "stateId": "628281",
+        "latitude": 52.25,
+        "longitude": 27.75
+    },
+    {
+        "cityId": "619597",
+        "name": "Yel\u2019ski Rayon",
+        "stateId": "628281",
+        "latitude": 51.75,
+        "longitude": 28.91667
+    },
+    {
+        "cityId": "620212",
+        "name": "Vyetkawski Rayon",
+        "stateId": "628281",
+        "latitude": 52.66667,
+        "longitude": 31.25
+    },
+    {
+        "cityId": "621073",
+        "name": "Svyetlahorski Rayon",
+        "stateId": "628281",
+        "latitude": 52.75,
+        "longitude": 29.5
+    },
+    {
+        "cityId": "622738",
+        "name": "Rahachowski Rayon",
+        "stateId": "628281",
+        "latitude": 53.16667,
+        "longitude": 30.16667
+    },
+    {
+        "cityId": "622799",
+        "name": "Rechytski Rayon",
+        "stateId": "628281",
+        "latitude": 52.25,
+        "longitude": 30.16667
+    },
+    {
+        "cityId": "623580",
+        "name": "Pyetrykawski Rayon",
+        "stateId": "628281",
+        "latitude": 52.25,
+        "longitude": 28.5
+    },
+    {
+        "cityId": "624197",
+        "name": "Aktsyabrski Rayon",
+        "stateId": "628281",
+        "latitude": 52.66667,
+        "longitude": 29
+    },
+    {
+        "cityId": "624798",
+        "name": "Narawlyanski Rayon",
+        "stateId": "628281",
+        "latitude": 51.66667,
+        "longitude": 29.41667
+    },
+    {
+        "cityId": "624894",
+        "name": "Mazyrski Rayon",
+        "stateId": "628281",
+        "latitude": 52,
+        "longitude": 29
+    },
+    {
+        "cityId": "625906",
+        "name": "Loyewski Rayon",
+        "stateId": "628281",
+        "latitude": 52,
+        "longitude": 30.66667
+    },
+    {
+        "cityId": "626189",
+        "name": "Lyel\u2019chytski Rayon",
+        "stateId": "628281",
+        "latitude": 51.83333,
+        "longitude": 28.25
+    },
+    {
+        "cityId": "626914",
+        "name": "Karmyanski Rayon",
+        "stateId": "628281",
+        "latitude": 53.16667,
+        "longitude": 30.83333
+    },
+    {
+        "cityId": "627360",
+        "name": "Khoynitski Rayon",
+        "stateId": "628281",
+        "latitude": 51.91667,
+        "longitude": 29.91667
+    },
+    {
+        "cityId": "627748",
+        "name": "Kalinkavitski Rayon",
+        "stateId": "628281",
+        "latitude": 52.25,
+        "longitude": 29.41667
+    },
+    {
+        "cityId": "628280",
+        "name": "Homyel\u2019ski Rayon",
+        "stateId": "628281",
+        "latitude": 52.33333,
+        "longitude": 31
+    },
+    {
+        "cityId": "629017",
+        "name": "Dobrushski Rayon",
+        "stateId": "628281",
+        "latitude": 52.33333,
+        "longitude": 31.41667
+    },
+    {
+        "cityId": "629389",
+        "name": "Chacherski Rayon",
+        "stateId": "628281",
+        "latitude": 52.91667,
+        "longitude": 31.08333
+    },
+    {
+        "cityId": "629562",
+        "name": "Buda-Kashalyowski Rayon",
+        "stateId": "628281",
+        "latitude": 52.66667,
+        "longitude": 30.5
+    },
+    {
+        "cityId": "629645",
+        "name": "Brahinski Rayon",
+        "stateId": "628281",
+        "latitude": 51.66667,
+        "longitude": 30.33333
+    },
+    {
+        "cityId": "828879",
+        "name": "Uvarovichskiy Rayon",
+        "stateId": "628281",
+        "latitude": 52.58333,
+        "longitude": 30.66667
+    },
+    {
+        "cityId": "828892",
+        "name": "Horad Homyel\u2019",
+        "stateId": "628281",
+        "latitude": 52.44167,
+        "longitude": 30.98333
+    },
+    {
+        "cityId": "828894",
+        "name": "Horad Dobrush",
+        "stateId": "628281",
+        "latitude": 52.40944,
+        "longitude": 31.32278
+    },
+    {
+        "cityId": "828895",
+        "name": "Horad Zhlobin",
+        "stateId": "628281",
+        "latitude": 52.89222,
+        "longitude": 30.02806
+    },
+    {
+        "cityId": "828897",
+        "name": "Horad Kalinkavichy",
+        "stateId": "628281",
+        "latitude": 52.13333,
+        "longitude": 29.32889
+    },
+    {
+        "cityId": "828898",
+        "name": "Horad Mazyr",
+        "stateId": "628281",
+        "latitude": 52.05,
+        "longitude": 29.26667
+    },
+    {
+        "cityId": "828900",
+        "name": "Horad Rahachow",
+        "stateId": "628281",
+        "latitude": 53.085,
+        "longitude": 30.05
+    },
+    {
+        "cityId": "828901",
+        "name": "Horad Svyetlahorsk",
+        "stateId": "628281",
+        "latitude": 52.62917,
+        "longitude": 29.73389
+    }
+]

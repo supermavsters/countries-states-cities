@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2198131",
+        "name": "Tailevu Province",
+        "stateId": "2205272",
+        "latitude": -17.83333,
+        "longitude": 178.5
+    },
+    {
+        "cityId": "2198411",
+        "name": "Serua Province",
+        "stateId": "2205272",
+        "latitude": -18.16667,
+        "longitude": 178
+    },
+    {
+        "cityId": "2198876",
+        "name": "Rewa Province",
+        "stateId": "2205272",
+        "latitude": -18.08333,
+        "longitude": 178.33333
+    },
+    {
+        "cityId": "2202182",
+        "name": "Namosi Province",
+        "stateId": "2205272",
+        "latitude": -18.05,
+        "longitude": 178.13333
+    },
+    {
+        "cityId": "2203150",
+        "name": "Naitasiri Province",
+        "stateId": "2205272",
+        "latitude": -17.83333,
+        "longitude": 178.25
+    }
+]

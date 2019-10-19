@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "2892513",
+        "name": "Regierungsbezirk Kassel",
+        "stateId": "2905330",
+        "latitude": 51.08333,
+        "longitude": 9.4
+    },
+    {
+        "cityId": "2938912",
+        "name": "Regierungsbezirk Darmstadt",
+        "stateId": "2905330",
+        "latitude": 50,
+        "longitude": 8.75
+    },
+    {
+        "cityId": "3220941",
+        "name": "Regierungsbezirk Gie\u00dfen",
+        "stateId": "2905330",
+        "latitude": 50.69806,
+        "longitude": 8.76861
+    }
+]

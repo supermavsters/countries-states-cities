@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7668935",
+        "name": "Commune of Banikoara",
+        "stateId": "2597271",
+        "latitude": 11.33966,
+        "longitude": 2.45915
+    },
+    {
+        "cityId": "7874155",
+        "name": "Karimama",
+        "stateId": "2597271",
+        "latitude": 11.93816,
+        "longitude": 2.75703
+    },
+    {
+        "cityId": "7874170",
+        "name": "Malanville",
+        "stateId": "2597271",
+        "latitude": 11.66636,
+        "longitude": 3.26373
+    },
+    {
+        "cityId": "7911056",
+        "name": "Kandi",
+        "stateId": "2597271",
+        "latitude": 11.0706,
+        "longitude": 2.86743
+    },
+    {
+        "cityId": "10344468",
+        "name": "S\u00e9gbana",
+        "stateId": "2597271",
+        "latitude": 10.92778,
+        "longitude": 3.69444
+    },
+    {
+        "cityId": "10344469",
+        "name": "Gogounou",
+        "stateId": "2597271",
+        "latitude": 10.83861,
+        "longitude": 2.83611
+    }
+]

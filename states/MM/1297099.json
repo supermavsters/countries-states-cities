@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "8238751",
+        "name": "Taunggyi District",
+        "stateId": "1297099",
+        "latitude": 20.49485,
+        "longitude": 96.93972
+    },
+    {
+        "cityId": "8238752",
+        "name": "Tachileik District",
+        "stateId": "1297099",
+        "latitude": 20.67855,
+        "longitude": 100.0341
+    },
+    {
+        "cityId": "8238772",
+        "name": "Mong Hsat District",
+        "stateId": "1297099",
+        "latitude": 20.37521,
+        "longitude": 99.05618
+    },
+    {
+        "cityId": "8238774",
+        "name": "Kyaukme District",
+        "stateId": "1297099",
+        "latitude": 22.89804,
+        "longitude": 97.0074
+    },
+    {
+        "cityId": "8238775",
+        "name": "Mu Se District",
+        "stateId": "1297099",
+        "latitude": 23.70528,
+        "longitude": 98.03429
+    },
+    {
+        "cityId": "8238776",
+        "name": "Loilem District",
+        "stateId": "1297099",
+        "latitude": 21.31359,
+        "longitude": 97.92655
+    },
+    {
+        "cityId": "8238777",
+        "name": "Langhko District",
+        "stateId": "1297099",
+        "latitude": 20.23979,
+        "longitude": 97.99691
+    },
+    {
+        "cityId": "8238778",
+        "name": "Kengtung District",
+        "stateId": "1297099",
+        "latitude": 21.58298,
+        "longitude": 99.5889
+    },
+    {
+        "cityId": "8238779",
+        "name": "Lashio District",
+        "stateId": "1297099",
+        "latitude": 22.83083,
+        "longitude": 98.15008
+    },
+    {
+        "cityId": "11154013",
+        "name": "Hopang",
+        "stateId": "1297099",
+        "latitude": 23.02599,
+        "longitude": 98.96849
+    },
+    {
+        "cityId": "11154025",
+        "name": "Laukkaing",
+        "stateId": "1297099",
+        "latitude": 23.83377,
+        "longitude": 98.654
+    },
+    {
+        "cityId": "11154026",
+        "name": "Matman",
+        "stateId": "1297099",
+        "latitude": 22.26535,
+        "longitude": 98.89604
+    },
+    {
+        "cityId": "11154027",
+        "name": "Mongmit",
+        "stateId": "1297099",
+        "latitude": 23.45728,
+        "longitude": 96.66043
+    }
+]

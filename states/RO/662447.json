@@ -1,0 +1,513 @@
+[
+    {
+        "cityId": "662384",
+        "name": "Comuna Vulturu",
+        "stateId": "662447",
+        "latitude": 45.60783,
+        "longitude": 27.42281
+    },
+    {
+        "cityId": "662436",
+        "name": "Comuna Vr\u00e2ncioaia",
+        "stateId": "662447",
+        "latitude": 45.87169,
+        "longitude": 26.70971
+    },
+    {
+        "cityId": "662737",
+        "name": "Comuna V\u00e2rte\u015fcoiu",
+        "stateId": "662447",
+        "latitude": 45.72465,
+        "longitude": 27.06471
+    },
+    {
+        "cityId": "662798",
+        "name": "Comuna Vintileasca",
+        "stateId": "662447",
+        "latitude": 45.6297,
+        "longitude": 26.72608
+    },
+    {
+        "cityId": "662831",
+        "name": "Comuna V\u00e2n\u0103tori",
+        "stateId": "662447",
+        "latitude": 45.73875,
+        "longitude": 27.26951
+    },
+    {
+        "cityId": "662966",
+        "name": "Comuna Vidra",
+        "stateId": "662447",
+        "latitude": 45.9142,
+        "longitude": 26.90506
+    },
+    {
+        "cityId": "663445",
+        "name": "Comuna Valea S\u0103rii",
+        "stateId": "662447",
+        "latitude": 45.87892,
+        "longitude": 26.80823
+    },
+    {
+        "cityId": "664168",
+        "name": "Comuna Ureche\u015fti",
+        "stateId": "662447",
+        "latitude": 45.60181,
+        "longitude": 27.07141
+    },
+    {
+        "cityId": "664506",
+        "name": "Comuna Tulnici",
+        "stateId": "662447",
+        "latitude": 45.93283,
+        "longitude": 26.60452
+    },
+    {
+        "cityId": "665094",
+        "name": "Comuna T\u00e2mboe\u015fti",
+        "stateId": "662447",
+        "latitude": 45.51792,
+        "longitude": 27.04555
+    },
+    {
+        "cityId": "665149",
+        "name": "Comuna \u0162ife\u015fti",
+        "stateId": "662447",
+        "latitude": 45.85329,
+        "longitude": 27.10387
+    },
+    {
+        "cityId": "665543",
+        "name": "Comuna T\u0103n\u0103soaia",
+        "stateId": "662447",
+        "latitude": 46.10161,
+        "longitude": 27.37982
+    },
+    {
+        "cityId": "665753",
+        "name": "Comuna Suraia",
+        "stateId": "662447",
+        "latitude": 45.68066,
+        "longitude": 27.38419
+    },
+    {
+        "cityId": "666006",
+        "name": "Comuna Str\u0103oane",
+        "stateId": "662447",
+        "latitude": 45.92895,
+        "longitude": 27.04359
+    },
+    {
+        "cityId": "666331",
+        "name": "Comuna Spulber",
+        "stateId": "662447",
+        "latitude": 45.74654,
+        "longitude": 26.73925
+    },
+    {
+        "cityId": "666392",
+        "name": "Comuna Soveja",
+        "stateId": "662447",
+        "latitude": 45.99705,
+        "longitude": 26.65351
+    },
+    {
+        "cityId": "666672",
+        "name": "Comuna Slobozia-Cior\u0103\u015fti",
+        "stateId": "662447",
+        "latitude": 45.60606,
+        "longitude": 27.21399
+    },
+    {
+        "cityId": "666675",
+        "name": "Comuna Slobozia Bradului",
+        "stateId": "662447",
+        "latitude": 45.49203,
+        "longitude": 27.03977
+    },
+    {
+        "cityId": "667215",
+        "name": "Comuna Sihlea",
+        "stateId": "662447",
+        "latitude": 45.49398,
+        "longitude": 27.15629
+    },
+    {
+        "cityId": "668493",
+        "name": "Comuna Rugine\u015fti",
+        "stateId": "662447",
+        "latitude": 46.07885,
+        "longitude": 27.11803
+    },
+    {
+        "cityId": "668992",
+        "name": "Comuna Reghiu",
+        "stateId": "662447",
+        "latitude": 45.79672,
+        "longitude": 26.83648
+    },
+    {
+        "cityId": "669136",
+        "name": "Comuna R\u0103stoaca",
+        "stateId": "662447",
+        "latitude": 45.66083,
+        "longitude": 27.28723
+    },
+    {
+        "cityId": "669347",
+        "name": "Comuna R\u0103coasa",
+        "stateId": "662447",
+        "latitude": 45.99786,
+        "longitude": 26.88548
+    },
+    {
+        "cityId": "669502",
+        "name": "Comuna Pufe\u015fti",
+        "stateId": "662447",
+        "latitude": 46.01111,
+        "longitude": 27.20901
+    },
+    {
+        "cityId": "669877",
+        "name": "Comuna Pope\u015fti",
+        "stateId": "662447",
+        "latitude": 45.58983,
+        "longitude": 27.0656
+    },
+    {
+        "cityId": "670399",
+        "name": "Comuna Ploscu\u0163eni",
+        "stateId": "662447",
+        "latitude": 46.06103,
+        "longitude": 27.26595
+    },
+    {
+        "cityId": "671207",
+        "name": "Comuna P\u0103une\u015fti",
+        "stateId": "662447",
+        "latitude": 46.04066,
+        "longitude": 27.10336
+    },
+    {
+        "cityId": "671222",
+        "name": "Comuna P\u0103ule\u015fti",
+        "stateId": "662447",
+        "latitude": 45.88712,
+        "longitude": 26.68703
+    },
+    {
+        "cityId": "671441",
+        "name": "Comuna Paltin",
+        "stateId": "662447",
+        "latitude": 45.77918,
+        "longitude": 26.7477
+    },
+    {
+        "cityId": "672189",
+        "name": "Comuna Nistore\u015fti",
+        "stateId": "662447",
+        "latitude": 45.81578,
+        "longitude": 26.67728
+    },
+    {
+        "cityId": "672300",
+        "name": "Comuna Nereju",
+        "stateId": "662447",
+        "latitude": 45.70833,
+        "longitude": 26.69794
+    },
+    {
+        "cityId": "672356",
+        "name": "Comuna Negrile\u015fti",
+        "stateId": "662447",
+        "latitude": 45.93697,
+        "longitude": 26.70635
+    },
+    {
+        "cityId": "672500",
+        "name": "Comuna N\u0103ruja",
+        "stateId": "662447",
+        "latitude": 45.82308,
+        "longitude": 26.76617
+    },
+    {
+        "cityId": "672514",
+        "name": "Comuna N\u0103ne\u015fti",
+        "stateId": "662447",
+        "latitude": 45.57801,
+        "longitude": 27.49988
+    },
+    {
+        "cityId": "672717",
+        "name": "Comuna Movili\u0163a",
+        "stateId": "662447",
+        "latitude": 45.9575,
+        "longitude": 27.10487
+    },
+    {
+        "cityId": "673592",
+        "name": "Comuna Mera",
+        "stateId": "662447",
+        "latitude": 45.77327,
+        "longitude": 26.93423
+    },
+    {
+        "cityId": "674065",
+        "name": "Comuna M\u0103ic\u0103ne\u015fti",
+        "stateId": "662447",
+        "latitude": 45.50067,
+        "longitude": 27.46121
+    },
+    {
+        "cityId": "675207",
+        "name": "Comuna Jitia",
+        "stateId": "662447",
+        "latitude": 45.5848,
+        "longitude": 26.74876
+    },
+    {
+        "cityId": "675292",
+        "name": "Comuna Jari\u015ftea",
+        "stateId": "662447",
+        "latitude": 45.79987,
+        "longitude": 27.04257
+    },
+    {
+        "cityId": "676062",
+        "name": "Comuna Homocea",
+        "stateId": "662447",
+        "latitude": 46.15796,
+        "longitude": 27.23108
+    },
+    {
+        "cityId": "676556",
+        "name": "Comuna Gura Cali\u0163ei",
+        "stateId": "662447",
+        "latitude": 45.61357,
+        "longitude": 26.97284
+    },
+    {
+        "cityId": "676584",
+        "name": "Comuna Guge\u015fti",
+        "stateId": "662447",
+        "latitude": 45.57982,
+        "longitude": 27.1437
+    },
+    {
+        "cityId": "676933",
+        "name": "Comuna Gologanu",
+        "stateId": "662447",
+        "latitude": 45.60979,
+        "longitude": 27.27091
+    },
+    {
+        "cityId": "676942",
+        "name": "Comuna Gole\u015fti",
+        "stateId": "662447",
+        "latitude": 45.66603,
+        "longitude": 27.16708
+    },
+    {
+        "cityId": "678097",
+        "name": "Comuna Fitione\u015fti",
+        "stateId": "662447",
+        "latitude": 45.96655,
+        "longitude": 27.06953
+    },
+    {
+        "cityId": "678650",
+        "name": "Comuna Dumitre\u015fti",
+        "stateId": "662447",
+        "latitude": 45.57715,
+        "longitude": 26.90728
+    },
+    {
+        "cityId": "678699",
+        "name": "Comun\u0103 Dumbr\u0103veni",
+        "stateId": "662447",
+        "latitude": 45.55416,
+        "longitude": 27.09037
+    },
+    {
+        "cityId": "680508",
+        "name": "Comuna Cote\u015fti",
+        "stateId": "662447",
+        "latitude": 45.63689,
+        "longitude": 27.07546
+    },
+    {
+        "cityId": "680873",
+        "name": "Comuna Corbi\u0163a",
+        "stateId": "662447",
+        "latitude": 46.16325,
+        "longitude": 27.30861
+    },
+    {
+        "cityId": "681558",
+        "name": "Comuna C\u00e2rligele",
+        "stateId": "662447",
+        "latitude": 45.67723,
+        "longitude": 27.06031
+    },
+    {
+        "cityId": "681662",
+        "name": "Comuna Cior\u0103\u015fti",
+        "stateId": "662447",
+        "latitude": 45.43869,
+        "longitude": 27.30952
+    },
+    {
+        "cityId": "681835",
+        "name": "Comuna C\u00e2mpuri",
+        "stateId": "662447",
+        "latitude": 46.03618,
+        "longitude": 26.75425
+    },
+    {
+        "cityId": "681860",
+        "name": "Comuna C\u00e2mpineanca",
+        "stateId": "662447",
+        "latitude": 45.70838,
+        "longitude": 27.13191
+    },
+    {
+        "cityId": "682078",
+        "name": "Comuna Chiojdeni",
+        "stateId": "662447",
+        "latitude": 45.56113,
+        "longitude": 26.84389
+    },
+    {
+        "cityId": "683629",
+        "name": "Comuna Bro\u015fteni",
+        "stateId": "662447",
+        "latitude": 45.76566,
+        "longitude": 27.01305
+    },
+    {
+        "cityId": "684210",
+        "name": "Comuna Borde\u015fti",
+        "stateId": "662447",
+        "latitude": 45.54715,
+        "longitude": 27.04104
+    },
+    {
+        "cityId": "684261",
+        "name": "Comuna Bolote\u015fti",
+        "stateId": "662447",
+        "latitude": 45.84099,
+        "longitude": 27.04117
+    },
+    {
+        "cityId": "684375",
+        "name": "Comuna Boghe\u015fti",
+        "stateId": "662447",
+        "latitude": 46.16211,
+        "longitude": 27.41871
+    },
+    {
+        "cityId": "684748",
+        "name": "Comuna B\u00e2rse\u015fti",
+        "stateId": "662447",
+        "latitude": 45.90724,
+        "longitude": 26.74716
+    },
+    {
+        "cityId": "684850",
+        "name": "Comuna Bilie\u015fti",
+        "stateId": "662447",
+        "latitude": 45.72106,
+        "longitude": 27.34879
+    },
+    {
+        "cityId": "685623",
+        "name": "Comuna B\u0103le\u015fti",
+        "stateId": "662447",
+        "latitude": 45.44034,
+        "longitude": 27.23703
+    },
+    {
+        "cityId": "686349",
+        "name": "Comuna Andreia\u015fu de Jos",
+        "stateId": "662447",
+        "latitude": 45.73669,
+        "longitude": 26.82752
+    },
+    {
+        "cityId": "8334772",
+        "name": "Comuna Vizantea-Livezi",
+        "stateId": "662447",
+        "latitude": 45.96233,
+        "longitude": 26.81347
+    },
+    {
+        "cityId": "8334851",
+        "name": "Comuna Garoafa",
+        "stateId": "662447",
+        "latitude": 45.79812,
+        "longitude": 27.2501
+    },
+    {
+        "cityId": "8334857",
+        "name": "Comuna T\u00e3t\u00e3ranu",
+        "stateId": "662447",
+        "latitude": 45.51621,
+        "longitude": 27.3093
+    },
+    {
+        "cityId": "8334932",
+        "name": "Ora\u015f Odobe\u015fti",
+        "stateId": "662447",
+        "latitude": 45.75011,
+        "longitude": 27.08754
+    },
+    {
+        "cityId": "8334934",
+        "name": "Ora\u015f Panciu",
+        "stateId": "662447",
+        "latitude": 45.90661,
+        "longitude": 27.09358
+    },
+    {
+        "cityId": "8334935",
+        "name": "Ora\u015f M\u00e3r\u00e3\u015fe\u015fti",
+        "stateId": "662447",
+        "latitude": 45.90446,
+        "longitude": 27.22305
+    },
+    {
+        "cityId": "8334936",
+        "name": "Municipiul Foc\u015fani",
+        "stateId": "662447",
+        "latitude": 45.69004,
+        "longitude": 27.22774
+    },
+    {
+        "cityId": "8334937",
+        "name": "Comuna Milcovul",
+        "stateId": "662447",
+        "latitude": 45.65207,
+        "longitude": 27.25928
+    },
+    {
+        "cityId": "8334958",
+        "name": "Municipiul  Adjud",
+        "stateId": "662447",
+        "latitude": 46.11464,
+        "longitude": 27.19284
+    },
+    {
+        "cityId": "8334990",
+        "name": "Comuna Poiana Cristei",
+        "stateId": "662447",
+        "latitude": 45.66882,
+        "longitude": 26.97125
+    },
+    {
+        "cityId": "8334996",
+        "name": "Comuna Obreji\u0163a",
+        "stateId": "662447",
+        "latitude": 45.50102,
+        "longitude": 27.08974
+    }
+]

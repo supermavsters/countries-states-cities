@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1652080",
+        "name": "Muang Xiengkhor",
+        "stateId": "1657114",
+        "latitude": 20.81667,
+        "longitude": 104.15
+    },
+    {
+        "cityId": "1657120",
+        "name": "Muang Houamuang",
+        "stateId": "1657114",
+        "latitude": 20.06257,
+        "longitude": 103.84032
+    },
+    {
+        "cityId": "1657271",
+        "name": "Muang Hiam",
+        "stateId": "1657114",
+        "latitude": 20.08333,
+        "longitude": 103.36667
+    },
+    {
+        "cityId": "1904817",
+        "name": "Muang Xam-Tai",
+        "stateId": "1657114",
+        "latitude": 19.93248,
+        "longitude": 104.54561
+    },
+    {
+        "cityId": "1904818",
+        "name": "Muang Viangxai",
+        "stateId": "1657114",
+        "latitude": 20.36113,
+        "longitude": 104.38887
+    },
+    {
+        "cityId": "7648342",
+        "name": "Sopbao",
+        "stateId": "1657114",
+        "latitude": 20.66,
+        "longitude": 104.38
+    },
+    {
+        "cityId": "7648343",
+        "name": "Muang Et",
+        "stateId": "1657114",
+        "latitude": 20.71,
+        "longitude": 103.85
+    },
+    {
+        "cityId": "8948687",
+        "name": "Xam Neua",
+        "stateId": "1657114",
+        "latitude": 20.40764,
+        "longitude": 104.0656
+    },
+    {
+        "cityId": "11550486",
+        "name": "Viengxon",
+        "stateId": "1657114",
+        "latitude": 20.76607,
+        "longitude": 104.10988
+    },
+    {
+        "cityId": "11550487",
+        "name": "Kuan",
+        "stateId": "1657114",
+        "latitude": 20.01735,
+        "longitude": 103.84419
+    }
+]

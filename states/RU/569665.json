@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "476248",
+        "name": "Vedenskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43,
+        "longitude": 46.08333
+    },
+    {
+        "cityId": "478580",
+        "name": "Urus-Martanovskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.08333,
+        "longitude": 45.58333
+    },
+    {
+        "cityId": "494999",
+        "name": "Shelkovskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.58333,
+        "longitude": 46
+    },
+    {
+        "cityId": "495940",
+        "name": "Shalinskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.16667,
+        "longitude": 45.91667
+    },
+    {
+        "cityId": "516779",
+        "name": "Nozhay-Yurtovskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.08333,
+        "longitude": 46.41667
+    },
+    {
+        "cityId": "523209",
+        "name": "Naurskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.66667,
+        "longitude": 45.5
+    },
+    {
+        "cityId": "523654",
+        "name": "Nadterechnyy Rayon",
+        "stateId": "569665",
+        "latitude": 43.58333,
+        "longitude": 45.25
+    },
+    {
+        "cityId": "558115",
+        "name": "Gudermesskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.33333,
+        "longitude": 46.16667
+    },
+    {
+        "cityId": "558419",
+        "name": "Groznenskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.33333,
+        "longitude": 45.5
+    },
+    {
+        "cityId": "584297",
+        "name": "Achkhoy-Martanovskiy Rayon",
+        "stateId": "569665",
+        "latitude": 43.08333,
+        "longitude": 45.25
+    },
+    {
+        "cityId": "858775",
+        "name": "Itum-Kalinskiy Rayon",
+        "stateId": "569665",
+        "latitude": 42.73611,
+        "longitude": 45.5725
+    },
+    {
+        "cityId": "11497624",
+        "name": "Kurchaloyevskiy rayon",
+        "stateId": "569665",
+        "latitude": 43.19957,
+        "longitude": 46.1031
+    },
+    {
+        "cityId": "11497700",
+        "name": "Grozny Urban Okrug",
+        "stateId": "569665",
+        "latitude": 43.31019,
+        "longitude": 45.69763
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2510407",
+        "name": "Province of Toledo",
+        "stateId": "2593111",
+        "latitude": 39.83333,
+        "longitude": -4
+    },
+    {
+        "cityId": "2519034",
+        "name": "Provincia de Cuenca",
+        "stateId": "2593111",
+        "latitude": 40,
+        "longitude": -2
+    },
+    {
+        "cityId": "2519401",
+        "name": "Provincia de Ciudad Real",
+        "stateId": "2593111",
+        "latitude": 39,
+        "longitude": -4
+    },
+    {
+        "cityId": "2522257",
+        "name": "Provincia de Albacete",
+        "stateId": "2593111",
+        "latitude": 38.83333,
+        "longitude": -2
+    },
+    {
+        "cityId": "3121069",
+        "name": "Provincia de Guadalajara",
+        "stateId": "2593111",
+        "latitude": 40.83333,
+        "longitude": -2.5
+    }
+]

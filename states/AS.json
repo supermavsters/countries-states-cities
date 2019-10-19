@@ -1,0 +1,37 @@
+[
+    {
+        "stateId": "5881219",
+        "name": "Eastern District",
+        "countryId": "1",
+        "latitude": -14.26667,
+        "longitude": -170.65
+    },
+    {
+        "stateId": "5881436",
+        "name": "Manu'a District",
+        "countryId": "1",
+        "latitude": -14.23327,
+        "longitude": -169.47458
+    },
+    {
+        "stateId": "7309441",
+        "name": "Rose Atoll",
+        "countryId": "1",
+        "latitude": -14.54583,
+        "longitude": -168.15
+    },
+    {
+        "stateId": "5881199",
+        "name": "Swains Island",
+        "countryId": "1",
+        "latitude": -11.056,
+        "longitude": -171.082
+    },
+    {
+        "stateId": "5880873",
+        "name": "Western District",
+        "countryId": "1",
+        "latitude": -14.31667,
+        "longitude": -170.76667
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7268255",
+        "name": "Benavente Barrio",
+        "stateId": "4565381",
+        "latitude": 18.11689,
+        "longitude": -67.10572
+    },
+    {
+        "cityId": "7268420",
+        "name": "Guanajibo Barrio",
+        "stateId": "4565381",
+        "latitude": 18.1475,
+        "longitude": -67.13828
+    },
+    {
+        "cityId": "7268481",
+        "name": "Hormigueros Barrio",
+        "stateId": "4565381",
+        "latitude": 18.13746,
+        "longitude": -67.12033
+    },
+    {
+        "cityId": "7268482",
+        "name": "Hormigueros Barrio-Pueblo",
+        "stateId": "4565381",
+        "latitude": 18.13982,
+        "longitude": -67.12605
+    },
+    {
+        "cityId": "7268515",
+        "name": "Jaguitas Barrio",
+        "stateId": "4565381",
+        "latitude": 18.15079,
+        "longitude": -67.10564
+    },
+    {
+        "cityId": "7268556",
+        "name": "Lavadero Barrio",
+        "stateId": "4565381",
+        "latitude": 18.13427,
+        "longitude": -67.10084
+    }
+]

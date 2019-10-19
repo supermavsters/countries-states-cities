@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3877946",
+        "name": "Provincia de Osorno",
+        "stateId": "3881974",
+        "latitude": -40.77939,
+        "longitude": -72.95299
+    },
+    {
+        "cityId": "3882955",
+        "name": "Provincia de Llanquihue",
+        "stateId": "3881974",
+        "latitude": -41.34285,
+        "longitude": -72.658
+    },
+    {
+        "cityId": "3895070",
+        "name": "Provincia de Chilo\u00e9",
+        "stateId": "3881974",
+        "latitude": -42.57471,
+        "longitude": -73.96062
+    },
+    {
+        "cityId": "8181714",
+        "name": "Provincia de Palena",
+        "stateId": "3881974",
+        "latitude": -43.16212,
+        "longitude": -72.47818
+    }
+]

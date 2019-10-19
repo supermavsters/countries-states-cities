@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3716114",
+        "name": "Arrondissement de Valli\u00e8res",
+        "stateId": "3719540",
+        "latitude": 19.36667,
+        "longitude": -71.9
+    },
+    {
+        "cityId": "3716223",
+        "name": "Arrondissement du Trou du Nord",
+        "stateId": "3719540",
+        "latitude": 19.55,
+        "longitude": -71.98333
+    },
+    {
+        "cityId": "3719435",
+        "name": "Wanament",
+        "stateId": "3719540",
+        "latitude": 19.48333,
+        "longitude": -71.76667
+    },
+    {
+        "cityId": "3725169",
+        "name": "Arrondissement de Fort Libert\u00e9",
+        "stateId": "3719540",
+        "latitude": 19.56667,
+        "longitude": -71.83333
+    }
+]

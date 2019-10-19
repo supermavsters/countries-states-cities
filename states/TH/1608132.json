@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1606836",
+        "name": "Amphoe Sai Noi",
+        "stateId": "1608132",
+        "latitude": 14.00627,
+        "longitude": 100.31072
+    },
+    {
+        "cityId": "1608047",
+        "name": "Amphoe Pak Kret",
+        "stateId": "1608132",
+        "latitude": 13.91626,
+        "longitude": 100.50397
+    },
+    {
+        "cityId": "1608640",
+        "name": "Amphoe Mueang Nonthaburi",
+        "stateId": "1608132",
+        "latitude": 13.85581,
+        "longitude": 100.49264
+    },
+    {
+        "cityId": "1619197",
+        "name": "Amphoe Bang Yai",
+        "stateId": "1608132",
+        "latitude": 13.85385,
+        "longitude": 100.37318
+    },
+    {
+        "cityId": "1619433",
+        "name": "Amphoe Bang Kruai",
+        "stateId": "1608132",
+        "latitude": 13.80249,
+        "longitude": 100.41525
+    },
+    {
+        "cityId": "1619601",
+        "name": "Amphoe Bang Bua Thong",
+        "stateId": "1608132",
+        "latitude": 13.92641,
+        "longitude": 100.3936
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3692841",
+        "name": "Provincia de Rodr\u00edguez de Mendoza",
+        "stateId": "3699699",
+        "latitude": -6.33333,
+        "longitude": -77.41667
+    },
+    {
+        "cityId": "3695112",
+        "name": "Provincia de Luya",
+        "stateId": "3699699",
+        "latitude": -6.41667,
+        "longitude": -78
+    },
+    {
+        "cityId": "3698538",
+        "name": "Provincia de Chachapoyas",
+        "stateId": "3699699",
+        "latitude": -6.2748,
+        "longitude": -77.81067
+    },
+    {
+        "cityId": "3699269",
+        "name": "Provincia de Bongar\u00e1",
+        "stateId": "3699699",
+        "latitude": -5.68341,
+        "longitude": -77.87308
+    },
+    {
+        "cityId": "3699485",
+        "name": "Provincia de Bagua",
+        "stateId": "3699699",
+        "latitude": -5.09006,
+        "longitude": -78.39972
+    },
+    {
+        "cityId": "8349545",
+        "name": "Condorcanqui",
+        "stateId": "3699699",
+        "latitude": -4.16515,
+        "longitude": -78.0384
+    },
+    {
+        "cityId": "8349546",
+        "name": "Utcubamba",
+        "stateId": "3699699",
+        "latitude": -5.77031,
+        "longitude": -78.3285
+    }
+]

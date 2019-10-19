@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2523962",
+        "name": "Provincia di Oristano",
+        "stateId": "2523228",
+        "latitude": 40.01682,
+        "longitude": 8.73131
+    },
+    {
+        "cityId": "2525471",
+        "name": "Provincia di Cagliari",
+        "stateId": "2523228",
+        "latitude": 39.24502,
+        "longitude": 9.09119
+    },
+    {
+        "cityId": "3167094",
+        "name": "Provincia di Sassari",
+        "stateId": "2523228",
+        "latitude": 40.77014,
+        "longitude": 8.75885
+    },
+    {
+        "cityId": "3172153",
+        "name": "Provincia di Nuoro",
+        "stateId": "2523228",
+        "latitude": 40.27009,
+        "longitude": 9.31203
+    },
+    {
+        "cityId": "11550038",
+        "name": "Provincia del Sud Sardegna",
+        "stateId": "2523228",
+        "latitude": 39.27692,
+        "longitude": 8.56384
+    }
+]

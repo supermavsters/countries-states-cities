@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "9252028",
+        "name": "Charlotte Amalie",
+        "stateId": "7267904",
+        "latitude": 18.33955,
+        "longitude": -64.94947
+    },
+    {
+        "cityId": "9252029",
+        "name": "East End",
+        "stateId": "7267904",
+        "latitude": 18.33232,
+        "longitude": -64.86185
+    },
+    {
+        "cityId": "9252030",
+        "name": "Northside",
+        "stateId": "7267904",
+        "latitude": 18.36089,
+        "longitude": -64.93562
+    },
+    {
+        "cityId": "9252031",
+        "name": "Southside",
+        "stateId": "7267904",
+        "latitude": 18.32069,
+        "longitude": -64.89762
+    },
+    {
+        "cityId": "9252032",
+        "name": "Tutu",
+        "stateId": "7267904",
+        "latitude": 18.34072,
+        "longitude": -64.88846
+    },
+    {
+        "cityId": "9252033",
+        "name": "Water Island",
+        "stateId": "7267904",
+        "latitude": 18.32816,
+        "longitude": -64.93383
+    },
+    {
+        "cityId": "9252034",
+        "name": "West End",
+        "stateId": "7267904",
+        "latitude": 18.35522,
+        "longitude": -65.01243
+    }
+]

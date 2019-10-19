@@ -1,0 +1,135 @@
+[
+    {
+        "cityId": "1150337",
+        "name": "Amphoe Tha Chang",
+        "stateId": "1150514",
+        "latitude": 9.33475,
+        "longitude": 98.95619
+    },
+    {
+        "cityId": "1150339",
+        "name": "Amphoe Tha Chana",
+        "stateId": "1150514",
+        "latitude": 9.61142,
+        "longitude": 99.03611
+    },
+    {
+        "cityId": "1151210",
+        "name": "Amphoe Phunphin",
+        "stateId": "1150514",
+        "latitude": 9.02472,
+        "longitude": 99.14304
+    },
+    {
+        "cityId": "1151295",
+        "name": "Amphoe Phrasaeng",
+        "stateId": "1150514",
+        "latitude": 8.55124,
+        "longitude": 99.1052
+    },
+    {
+        "cityId": "1151448",
+        "name": "Amphoe Phanom",
+        "stateId": "1150514",
+        "latitude": 8.82254,
+        "longitude": 98.71709
+    },
+    {
+        "cityId": "1151977",
+        "name": "Amphoe Mueang Surat Thani",
+        "stateId": "1150514",
+        "latitude": 9.10132,
+        "longitude": 99.32614
+    },
+    {
+        "cityId": "1152646",
+        "name": "Amphoe Ko Samui",
+        "stateId": "1150514",
+        "latitude": 9.50841,
+        "longitude": 99.99644
+    },
+    {
+        "cityId": "1152874",
+        "name": "Amphoe Khiri Rat Nikhom",
+        "stateId": "1150514",
+        "latitude": 9.0059,
+        "longitude": 98.94404
+    },
+    {
+        "cityId": "1153078",
+        "name": "Amphoe Kanchanadit",
+        "stateId": "1150514",
+        "latitude": 9.07256,
+        "longitude": 99.5439
+    },
+    {
+        "cityId": "1153782",
+        "name": "Amphoe Chaiya",
+        "stateId": "1150514",
+        "latitude": 9.49141,
+        "longitude": 98.99568
+    },
+    {
+        "cityId": "1156045",
+        "name": "Amphoe Ban Na San",
+        "stateId": "1150514",
+        "latitude": 8.80063,
+        "longitude": 99.40201
+    },
+    {
+        "cityId": "7510611",
+        "name": "Amphoe Ban Takhun",
+        "stateId": "1150514",
+        "latitude": 9.10423,
+        "longitude": 98.67222
+    },
+    {
+        "cityId": "7510613",
+        "name": "Amphoe Wiphawadi",
+        "stateId": "1150514",
+        "latitude": 9.21972,
+        "longitude": 98.87028
+    },
+    {
+        "cityId": "7510621",
+        "name": "Amphoe Chai Buri",
+        "stateId": "1150514",
+        "latitude": 8.43883,
+        "longitude": 99.07721
+    },
+    {
+        "cityId": "7510622",
+        "name": "Amphoe Ban Na Doem",
+        "stateId": "1150514",
+        "latitude": 8.9061,
+        "longitude": 99.28136
+    },
+    {
+        "cityId": "7510650",
+        "name": "Amphoe Don Sak",
+        "stateId": "1150514",
+        "latitude": 9.21063,
+        "longitude": 99.68887
+    },
+    {
+        "cityId": "7511035",
+        "name": "Amphoe Wiang Sa",
+        "stateId": "1150514",
+        "latitude": 8.59813,
+        "longitude": 99.35277
+    },
+    {
+        "cityId": "7511047",
+        "name": "Amphoe Khian Sa",
+        "stateId": "1150514",
+        "latitude": 8.72766,
+        "longitude": 99.1324
+    },
+    {
+        "cityId": "7603493",
+        "name": "Amphoe Ko Pha-ngan",
+        "stateId": "1150514",
+        "latitude": 9.74939,
+        "longitude": 100.02649
+    }
+]

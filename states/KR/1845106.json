@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "1832561",
+        "name": "Yeongdong-gun",
+        "stateId": "1845106",
+        "latitude": 36.1645,
+        "longitude": 127.79018
+    },
+    {
+        "cityId": "1833704",
+        "name": "Eumseong-gun",
+        "stateId": "1845106",
+        "latitude": 36.92602,
+        "longitude": 127.6807
+    },
+    {
+        "cityId": "1834820",
+        "name": "Danyang-gun",
+        "stateId": "1845106",
+        "latitude": 36.98615,
+        "longitude": 128.36945
+    },
+    {
+        "cityId": "1838730",
+        "name": "Boeun-gun",
+        "stateId": "1845106",
+        "latitude": 36.49489,
+        "longitude": 127.72865
+    },
+    {
+        "cityId": "1839869",
+        "name": "Okcheon-gun",
+        "stateId": "1845106",
+        "latitude": 36.33571,
+        "longitude": 127.64438
+    },
+    {
+        "cityId": "1842799",
+        "name": "Goesan-gun",
+        "stateId": "1845106",
+        "latitude": 36.77179,
+        "longitude": 127.81426
+    },
+    {
+        "cityId": "1845032",
+        "name": "Chungju-si",
+        "stateId": "1845106",
+        "latitude": 37.01791,
+        "longitude": 127.87713
+    },
+    {
+        "cityId": "1845599",
+        "name": "Cheongju-si",
+        "stateId": "1845106",
+        "latitude": 36.63535,
+        "longitude": 127.46781
+    },
+    {
+        "cityId": "1846093",
+        "name": "Jincheon-gun",
+        "stateId": "1845106",
+        "latitude": 36.88281,
+        "longitude": 127.42768
+    },
+    {
+        "cityId": "1846277",
+        "name": "Jecheon-si",
+        "stateId": "1845106",
+        "latitude": 37.06206,
+        "longitude": 128.14065
+    },
+    {
+        "cityId": "8419683",
+        "name": "Jeungpyeong-gun",
+        "stateId": "1845106",
+        "latitude": 36.78377,
+        "longitude": 127.59858
+    },
+    {
+        "cityId": "8659220",
+        "name": "Heungdeok-gu",
+        "stateId": "1845106",
+        "latitude": 36.629,
+        "longitude": 127.432
+    },
+    {
+        "cityId": "8659221",
+        "name": "Sangdang-gu",
+        "stateId": "1845106",
+        "latitude": 36.65,
+        "longitude": 127.505
+    }
+]

@@ -1,0 +1,877 @@
+[
+    {
+        "cityId": "7778825",
+        "name": "Xonacatlan",
+        "stateId": "3523272",
+        "latitude": 19.4,
+        "longitude": -99.533
+    },
+    {
+        "cityId": "7828734",
+        "name": "Naucalpan de Ju\u00e1rez",
+        "stateId": "3523272",
+        "latitude": 19.47857,
+        "longitude": -99.23367
+    },
+    {
+        "cityId": "8133398",
+        "name": "Ecatepec de Morelos",
+        "stateId": "3523272",
+        "latitude": 19.60378,
+        "longitude": -99.05514
+    },
+    {
+        "cityId": "8379113",
+        "name": "Acolman de Nezahualc\u00f3yotl",
+        "stateId": "3523272",
+        "latitude": 19.63911,
+        "longitude": -98.91721
+    },
+    {
+        "cityId": "8379115",
+        "name": "Amecameca",
+        "stateId": "3523272",
+        "latitude": 19.11784,
+        "longitude": -98.76563
+    },
+    {
+        "cityId": "8379116",
+        "name": "Apaxco",
+        "stateId": "3523272",
+        "latitude": 19.97577,
+        "longitude": -99.16886
+    },
+    {
+        "cityId": "8379127",
+        "name": "Atenco",
+        "stateId": "3523272",
+        "latitude": 19.54442,
+        "longitude": -98.9118
+    },
+    {
+        "cityId": "8379128",
+        "name": "Atizap\u00e1n de Zaragoza",
+        "stateId": "3523272",
+        "latitude": 19.55914,
+        "longitude": -99.26714
+    },
+    {
+        "cityId": "8379129",
+        "name": "Atlautla",
+        "stateId": "3523272",
+        "latitude": 19.02325,
+        "longitude": -98.77336
+    },
+    {
+        "cityId": "8379130",
+        "name": "Axapusco",
+        "stateId": "3523272",
+        "latitude": 19.73213,
+        "longitude": -98.74735
+    },
+    {
+        "cityId": "8379131",
+        "name": "Ayapango",
+        "stateId": "3523272",
+        "latitude": 19.13009,
+        "longitude": -98.80975
+    },
+    {
+        "cityId": "8379134",
+        "name": "Chalco",
+        "stateId": "3523272",
+        "latitude": 19.26642,
+        "longitude": -98.89935
+    },
+    {
+        "cityId": "8379363",
+        "name": "Chiautla",
+        "stateId": "3523272",
+        "latitude": 19.55,
+        "longitude": -98.88064
+    },
+    {
+        "cityId": "8379364",
+        "name": "Chicoloapan",
+        "stateId": "3523272",
+        "latitude": 19.41674,
+        "longitude": -98.90262
+    },
+    {
+        "cityId": "8379365",
+        "name": "Chiconcuac",
+        "stateId": "3523272",
+        "latitude": 19.55951,
+        "longitude": -98.89657
+    },
+    {
+        "cityId": "8379366",
+        "name": "Chimalhuac\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.42123,
+        "longitude": -98.94939
+    },
+    {
+        "cityId": "8379367",
+        "name": "Coacalco",
+        "stateId": "3523272",
+        "latitude": 19.63325,
+        "longitude": -99.10895
+    },
+    {
+        "cityId": "8379368",
+        "name": "Cocotitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.23357,
+        "longitude": -98.8661
+    },
+    {
+        "cityId": "8379370",
+        "name": "Coyotepec",
+        "stateId": "3523272",
+        "latitude": 19.77615,
+        "longitude": -99.20586
+    },
+    {
+        "cityId": "8379373",
+        "name": "Cuautitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.67363,
+        "longitude": -99.18011
+    },
+    {
+        "cityId": "8379375",
+        "name": "Ecatzingo",
+        "stateId": "3523272",
+        "latitude": 18.95792,
+        "longitude": -98.75181
+    },
+    {
+        "cityId": "8379377",
+        "name": "Huehuetoca",
+        "stateId": "3523272",
+        "latitude": 19.83543,
+        "longitude": -99.2038
+    },
+    {
+        "cityId": "8379378",
+        "name": "Hueypoxtla",
+        "stateId": "3523272",
+        "latitude": 19.91203,
+        "longitude": -99.07702
+    },
+    {
+        "cityId": "8379379",
+        "name": "Huixquilucan",
+        "stateId": "3523272",
+        "latitude": 19.35998,
+        "longitude": -99.35074
+    },
+    {
+        "cityId": "8379380",
+        "name": "Cuautitl\u00e1n Izcalli",
+        "stateId": "3523272",
+        "latitude": 19.64728,
+        "longitude": -99.2153
+    },
+    {
+        "cityId": "8379381",
+        "name": "Ixtapaluca",
+        "stateId": "3523272",
+        "latitude": 19.31608,
+        "longitude": -98.88639
+    },
+    {
+        "cityId": "8379456",
+        "name": "Jaltenco",
+        "stateId": "3523272",
+        "latitude": 19.75095,
+        "longitude": -99.09376
+    },
+    {
+        "cityId": "8379457",
+        "name": "Juchitepec",
+        "stateId": "3523272",
+        "latitude": 19.10223,
+        "longitude": -98.87914
+    },
+    {
+        "cityId": "8379459",
+        "name": "Melchor Ocampo",
+        "stateId": "3523272",
+        "latitude": 19.70353,
+        "longitude": -99.14286
+    },
+    {
+        "cityId": "8379462",
+        "name": "Nextlalpan",
+        "stateId": "3523272",
+        "latitude": 19.73932,
+        "longitude": -99.07514
+    },
+    {
+        "cityId": "8379463",
+        "name": "Ciudad Nezahualc\u00f3yotl",
+        "stateId": "3523272",
+        "latitude": 19.41123,
+        "longitude": -99.02475
+    },
+    {
+        "cityId": "8379464",
+        "name": "Nicol\u00e1s Romero",
+        "stateId": "3523272",
+        "latitude": 19.62302,
+        "longitude": -99.31143
+    },
+    {
+        "cityId": "8379465",
+        "name": "Nopaltepec",
+        "stateId": "3523272",
+        "latitude": 19.77753,
+        "longitude": -98.7089
+    },
+    {
+        "cityId": "8379466",
+        "name": "Otumba",
+        "stateId": "3523272",
+        "latitude": 19.70013,
+        "longitude": -98.75559
+    },
+    {
+        "cityId": "8379467",
+        "name": "Ozumba",
+        "stateId": "3523272",
+        "latitude": 19.039,
+        "longitude": -98.79765
+    },
+    {
+        "cityId": "8379468",
+        "name": "Papalotla",
+        "stateId": "3523272",
+        "latitude": 19.56351,
+        "longitude": -98.85678
+    },
+    {
+        "cityId": "8379469",
+        "name": "San Mart\u00edn de las Pir\u00e1mides",
+        "stateId": "3523272",
+        "latitude": 19.70538,
+        "longitude": -98.83563
+    },
+    {
+        "cityId": "8379470",
+        "name": "Tec\u00e1mac",
+        "stateId": "3523272",
+        "latitude": 19.71371,
+        "longitude": -98.96858
+    },
+    {
+        "cityId": "8379471",
+        "name": "Temamatla",
+        "stateId": "3523272",
+        "latitude": 19.20378,
+        "longitude": -98.86803
+    },
+    {
+        "cityId": "8379472",
+        "name": "Temascalapa",
+        "stateId": "3523272",
+        "latitude": 19.82719,
+        "longitude": -98.89875
+    },
+    {
+        "cityId": "8379473",
+        "name": "Tenango del Aire",
+        "stateId": "3523272",
+        "latitude": 19.15891,
+        "longitude": -98.8591
+    },
+    {
+        "cityId": "8379474",
+        "name": "Teoloyucan",
+        "stateId": "3523272",
+        "latitude": 19.74627,
+        "longitude": -99.18079
+    },
+    {
+        "cityId": "8379475",
+        "name": "Teotihuac\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.68648,
+        "longitude": -98.86253
+    },
+    {
+        "cityId": "8379476",
+        "name": "Tepetlaoxtoc",
+        "stateId": "3523272",
+        "latitude": 19.57495,
+        "longitude": -98.8191
+    },
+    {
+        "cityId": "8379482",
+        "name": "Tepotzotl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.71492,
+        "longitude": -99.22234
+    },
+    {
+        "cityId": "8379483",
+        "name": "Texcoco",
+        "stateId": "3523272",
+        "latitude": 19.517,
+        "longitude": -98.88056
+    },
+    {
+        "cityId": "8379484",
+        "name": "Tezoyuca",
+        "stateId": "3523272",
+        "latitude": 19.59238,
+        "longitude": -98.90828
+    },
+    {
+        "cityId": "8379485",
+        "name": "Tlalnepantla de Baz",
+        "stateId": "3523272",
+        "latitude": 19.54054,
+        "longitude": -99.19341
+    },
+    {
+        "cityId": "8379486",
+        "name": "Tultepec",
+        "stateId": "3523272",
+        "latitude": 19.68785,
+        "longitude": -99.12655
+    },
+    {
+        "cityId": "8379488",
+        "name": "Tultitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.64812,
+        "longitude": -99.16865
+    },
+    {
+        "cityId": "8379489",
+        "name": "Valle de Chalco Solidaridad",
+        "stateId": "3523272",
+        "latitude": 19.29462,
+        "longitude": -98.93806
+    },
+    {
+        "cityId": "8379490",
+        "name": "Zumpango",
+        "stateId": "3523272",
+        "latitude": 19.79885,
+        "longitude": -99.09702
+    },
+    {
+        "cityId": "8379491",
+        "name": "Tepetlixpa",
+        "stateId": "3523272",
+        "latitude": 19.03007,
+        "longitude": -98.82125
+    },
+    {
+        "cityId": "8379492",
+        "name": "Tequixquiac",
+        "stateId": "3523272",
+        "latitude": 19.90937,
+        "longitude": -99.14552
+    },
+    {
+        "cityId": "8379493",
+        "name": "Villa del Carb\u00f3n",
+        "stateId": "3523272",
+        "latitude": 19.7255,
+        "longitude": -99.46009
+    },
+    {
+        "cityId": "8582222",
+        "name": "Morelos",
+        "stateId": "3523272",
+        "latitude": 19.74542,
+        "longitude": -99.64687
+    },
+    {
+        "cityId": "8582223",
+        "name": "Ocoyoacac",
+        "stateId": "3523272",
+        "latitude": 19.2729,
+        "longitude": -99.43518
+    },
+    {
+        "cityId": "8582224",
+        "name": "Ocuilan",
+        "stateId": "3523272",
+        "latitude": 18.99043,
+        "longitude": -99.4091
+    },
+    {
+        "cityId": "8582225",
+        "name": "El Oro",
+        "stateId": "3523272",
+        "latitude": 19.79083,
+        "longitude": -100.07596
+    },
+    {
+        "cityId": "8582226",
+        "name": "Otzoloapan",
+        "stateId": "3523272",
+        "latitude": 19.11489,
+        "longitude": -100.33513
+    },
+    {
+        "cityId": "8582227",
+        "name": "Otzolotepec",
+        "stateId": "3523272",
+        "latitude": 19.43526,
+        "longitude": -99.54407
+    },
+    {
+        "cityId": "8582228",
+        "name": "Polotitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 20.21988,
+        "longitude": -99.82205
+    },
+    {
+        "cityId": "8582229",
+        "name": "Ray\u00f3n",
+        "stateId": "3523272",
+        "latitude": 19.13889,
+        "longitude": -99.57704
+    },
+    {
+        "cityId": "8582230",
+        "name": "San Antonio la Isla",
+        "stateId": "3523272",
+        "latitude": 19.17317,
+        "longitude": -99.554
+    },
+    {
+        "cityId": "8582231",
+        "name": "San Felipe del Progreso",
+        "stateId": "3523272",
+        "latitude": 19.66016,
+        "longitude": -99.981
+    },
+    {
+        "cityId": "8582232",
+        "name": "San Mateo Atenco",
+        "stateId": "3523272",
+        "latitude": 19.26697,
+        "longitude": -99.53747
+    },
+    {
+        "cityId": "8582233",
+        "name": "San Sim\u00f3n de Guerrero",
+        "stateId": "3523272",
+        "latitude": 18.97935,
+        "longitude": -100.03673
+    },
+    {
+        "cityId": "8582234",
+        "name": "Santo Tom\u00e1s",
+        "stateId": "3523272",
+        "latitude": 19.17809,
+        "longitude": -100.2856
+    },
+    {
+        "cityId": "8582235",
+        "name": "Soyaniquilpan de Ju\u00e1rez",
+        "stateId": "3523272",
+        "latitude": 20.03939,
+        "longitude": -99.4942
+    },
+    {
+        "cityId": "8582236",
+        "name": "Sultepec",
+        "stateId": "3523272",
+        "latitude": 18.75003,
+        "longitude": -99.98134
+    },
+    {
+        "cityId": "8582237",
+        "name": "Tejupilco",
+        "stateId": "3523272",
+        "latitude": 18.86162,
+        "longitude": -100.23277
+    },
+    {
+        "cityId": "8582238",
+        "name": "Temascalcingo",
+        "stateId": "3523272",
+        "latitude": 19.91555,
+        "longitude": -100.032
+    },
+    {
+        "cityId": "8582239",
+        "name": "Temascaltepec",
+        "stateId": "3523272",
+        "latitude": 19.06561,
+        "longitude": -99.98379
+    },
+    {
+        "cityId": "8582240",
+        "name": "Temoaya",
+        "stateId": "3523272",
+        "latitude": 19.47104,
+        "longitude": -99.59832
+    },
+    {
+        "cityId": "8582241",
+        "name": "Tenancingo",
+        "stateId": "3523272",
+        "latitude": 18.96057,
+        "longitude": -99.57561
+    },
+    {
+        "cityId": "8582242",
+        "name": "Tenango del Valle",
+        "stateId": "3523272",
+        "latitude": 19.08207,
+        "longitude": -99.60548
+    },
+    {
+        "cityId": "8582243",
+        "name": "Texcaltitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 18.93997,
+        "longitude": -99.93763
+    },
+    {
+        "cityId": "8582244",
+        "name": "Texcalyacac",
+        "stateId": "3523272",
+        "latitude": 19.1339,
+        "longitude": -99.50176
+    },
+    {
+        "cityId": "8582245",
+        "name": "Tianguistenco",
+        "stateId": "3523272",
+        "latitude": 19.16138,
+        "longitude": -99.46119
+    },
+    {
+        "cityId": "8582246",
+        "name": "Timilpan",
+        "stateId": "3523272",
+        "latitude": 19.88017,
+        "longitude": -99.72552
+    },
+    {
+        "cityId": "8582247",
+        "name": "Tlalmanalco",
+        "stateId": "3523272",
+        "latitude": 19.19769,
+        "longitude": -98.79262
+    },
+    {
+        "cityId": "8582248",
+        "name": "Tlatlaya",
+        "stateId": "3523272",
+        "latitude": 18.56171,
+        "longitude": -100.2562
+    },
+    {
+        "cityId": "8582249",
+        "name": "La Paz",
+        "stateId": "3523272",
+        "latitude": 19.36407,
+        "longitude": -98.94517
+    },
+    {
+        "cityId": "8582250",
+        "name": "Villa Victoria",
+        "stateId": "3523272",
+        "latitude": 19.4603,
+        "longitude": -100.00166
+    },
+    {
+        "cityId": "8582251",
+        "name": "Zacazonapan",
+        "stateId": "3523272",
+        "latitude": 19.0547,
+        "longitude": -100.26623
+    },
+    {
+        "cityId": "8582252",
+        "name": "Zacualpan",
+        "stateId": "3523272",
+        "latitude": 18.70188,
+        "longitude": -99.81327
+    },
+    {
+        "cityId": "8582253",
+        "name": "Zinacantepec",
+        "stateId": "3523272",
+        "latitude": 19.2646,
+        "longitude": -99.77613
+    },
+    {
+        "cityId": "8582254",
+        "name": "Zumpahuac\u00e1n",
+        "stateId": "3523272",
+        "latitude": 18.83586,
+        "longitude": -99.56357
+    },
+    {
+        "cityId": "8582255",
+        "name": "Luvianos",
+        "stateId": "3523272",
+        "latitude": 18.94554,
+        "longitude": -100.42448
+    },
+    {
+        "cityId": "8582256",
+        "name": "San Jos\u00e9 del Rinc\u00f3n",
+        "stateId": "3523272",
+        "latitude": 19.62598,
+        "longitude": -100.13183
+    },
+    {
+        "cityId": "8582257",
+        "name": "Tonanitla",
+        "stateId": "3523272",
+        "latitude": 19.68497,
+        "longitude": -99.05604
+    },
+    {
+        "cityId": "8583658",
+        "name": "Acambay de Ru\u00edz Casta\u00f1eda",
+        "stateId": "3523272",
+        "latitude": 19.9715,
+        "longitude": -99.87913
+    },
+    {
+        "cityId": "8583659",
+        "name": "Aculco",
+        "stateId": "3523272",
+        "latitude": 20.11086,
+        "longitude": -99.8249
+    },
+    {
+        "cityId": "8583660",
+        "name": "Almoloya de Alquisiras",
+        "stateId": "3523272",
+        "latitude": 18.84217,
+        "longitude": -99.86416
+    },
+    {
+        "cityId": "8583661",
+        "name": "Almoloya de Ju\u00e1rez",
+        "stateId": "3523272",
+        "latitude": 19.40091,
+        "longitude": -99.8177
+    },
+    {
+        "cityId": "8583662",
+        "name": "Almoloya del R\u00edo",
+        "stateId": "3523272",
+        "latitude": 19.15569,
+        "longitude": -99.48035
+    },
+    {
+        "cityId": "8583663",
+        "name": "Amanalco",
+        "stateId": "3523272",
+        "latitude": 19.26215,
+        "longitude": -99.99961
+    },
+    {
+        "cityId": "8583664",
+        "name": "Amatepec",
+        "stateId": "3523272",
+        "latitude": 18.70481,
+        "longitude": -100.29055
+    },
+    {
+        "cityId": "8583665",
+        "name": "Atizap\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.17683,
+        "longitude": -99.49289
+    },
+    {
+        "cityId": "8583666",
+        "name": "Atlacomulco",
+        "stateId": "3523272",
+        "latitude": 19.81411,
+        "longitude": -99.86121
+    },
+    {
+        "cityId": "8583667",
+        "name": "Calimaya",
+        "stateId": "3523272",
+        "latitude": 19.17691,
+        "longitude": -99.61284
+    },
+    {
+        "cityId": "8583668",
+        "name": "Capulhuac",
+        "stateId": "3523272",
+        "latitude": 19.21346,
+        "longitude": -99.46239
+    },
+    {
+        "cityId": "8583669",
+        "name": "Coatepec Harinas",
+        "stateId": "3523272",
+        "latitude": 18.93778,
+        "longitude": -99.79189
+    },
+    {
+        "cityId": "8583670",
+        "name": "Chapa de Mota",
+        "stateId": "3523272",
+        "latitude": 19.8242,
+        "longitude": -99.55252
+    },
+    {
+        "cityId": "8583671",
+        "name": "Chapultepec",
+        "stateId": "3523272",
+        "latitude": 19.20113,
+        "longitude": -99.55922
+    },
+    {
+        "cityId": "8583672",
+        "name": "Donato Guerra",
+        "stateId": "3523272",
+        "latitude": 19.31707,
+        "longitude": -100.12361
+    },
+    {
+        "cityId": "8583673",
+        "name": "Isidro Fabela",
+        "stateId": "3523272",
+        "latitude": 19.56312,
+        "longitude": -99.40865
+    },
+    {
+        "cityId": "8583674",
+        "name": "Ixtapan de la Sal",
+        "stateId": "3523272",
+        "latitude": 18.85194,
+        "longitude": -99.68497
+    },
+    {
+        "cityId": "8583675",
+        "name": "Ixtapan del Oro",
+        "stateId": "3523272",
+        "latitude": 19.25739,
+        "longitude": -100.27899
+    },
+    {
+        "cityId": "8583676",
+        "name": "Ixtlahuaca",
+        "stateId": "3523272",
+        "latitude": 19.5971,
+        "longitude": -99.80861
+    },
+    {
+        "cityId": "8583677",
+        "name": "Xalatlaco",
+        "stateId": "3523272",
+        "latitude": 19.17004,
+        "longitude": -99.39518
+    },
+    {
+        "cityId": "8583678",
+        "name": "Jilotepec",
+        "stateId": "3523272",
+        "latitude": 20.00716,
+        "longitude": -99.59178
+    },
+    {
+        "cityId": "8583679",
+        "name": "Jilotzingo",
+        "stateId": "3523272",
+        "latitude": 19.52176,
+        "longitude": -99.3843
+    },
+    {
+        "cityId": "8583680",
+        "name": "Jiquipilco",
+        "stateId": "3523272",
+        "latitude": 19.58213,
+        "longitude": -99.64694
+    },
+    {
+        "cityId": "8583681",
+        "name": "Jocotitl\u00e1n",
+        "stateId": "3523272",
+        "latitude": 19.70864,
+        "longitude": -99.80187
+    },
+    {
+        "cityId": "8583682",
+        "name": "Joquicingo",
+        "stateId": "3523272",
+        "latitude": 19.06719,
+        "longitude": -99.52519
+    },
+    {
+        "cityId": "8583683",
+        "name": "Lerma",
+        "stateId": "3523272",
+        "latitude": 19.35554,
+        "longitude": -99.47047
+    },
+    {
+        "cityId": "8583684",
+        "name": "Malinalco",
+        "stateId": "3523272",
+        "latitude": 18.89044,
+        "longitude": -99.48202
+    },
+    {
+        "cityId": "8583685",
+        "name": "Metepec",
+        "stateId": "3523272",
+        "latitude": 19.23921,
+        "longitude": -99.58944
+    },
+    {
+        "cityId": "8583686",
+        "name": "Mexicaltzingo",
+        "stateId": "3523272",
+        "latitude": 19.209,
+        "longitude": -99.58591
+    },
+    {
+        "cityId": "8583687",
+        "name": "Toluca",
+        "stateId": "3523272",
+        "latitude": 19.3278,
+        "longitude": -99.66024
+    },
+    {
+        "cityId": "8583688",
+        "name": "Tonatico",
+        "stateId": "3523272",
+        "latitude": 18.78199,
+        "longitude": -99.64363
+    },
+    {
+        "cityId": "8583689",
+        "name": "Valle de Bravo",
+        "stateId": "3523272",
+        "latitude": 19.16789,
+        "longitude": -100.11012
+    },
+    {
+        "cityId": "8583690",
+        "name": "Villa de Allende",
+        "stateId": "3523272",
+        "latitude": 19.38338,
+        "longitude": -100.12852
+    },
+    {
+        "cityId": "8583691",
+        "name": "Villa Guerrero",
+        "stateId": "3523272",
+        "latitude": 18.96396,
+        "longitude": -99.67353
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7668936",
+        "name": "Commune of Ouidah",
+        "stateId": "2395504",
+        "latitude": 6.371,
+        "longitude": 2.113
+    },
+    {
+        "cityId": "7668937",
+        "name": "Commune of Kpomasse",
+        "stateId": "2395504",
+        "latitude": 6.461,
+        "longitude": 2.021
+    },
+    {
+        "cityId": "7668938",
+        "name": "Commune of Tori-Bossito",
+        "stateId": "2395504",
+        "latitude": 6.538,
+        "longitude": 2.143
+    },
+    {
+        "cityId": "7874152",
+        "name": "Commune of Abomey-Calavi",
+        "stateId": "2395504",
+        "latitude": 6.508,
+        "longitude": 2.325
+    },
+    {
+        "cityId": "7874154",
+        "name": "Commune of So-Ava",
+        "stateId": "2395504",
+        "latitude": 6.50159,
+        "longitude": 2.42707
+    },
+    {
+        "cityId": "8260655",
+        "name": "Commune of Allada",
+        "stateId": "2395504",
+        "latitude": 6.682,
+        "longitude": 2.128
+    },
+    {
+        "cityId": "8260656",
+        "name": "Commune of Toffo",
+        "stateId": "2395504",
+        "latitude": 6.856,
+        "longitude": 2.181
+    },
+    {
+        "cityId": "8260657",
+        "name": "Commune of Ze",
+        "stateId": "2395504",
+        "latitude": 6.765,
+        "longitude": 2.336
+    }
+]

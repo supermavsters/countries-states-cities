@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3165924",
+        "name": "Provincia di Taranto",
+        "stateId": "3169778",
+        "latitude": 40.61667,
+        "longitude": 17.25
+    },
+    {
+        "cityId": "3174952",
+        "name": "Provincia di Lecce",
+        "stateId": "3169778",
+        "latitude": 40.21667,
+        "longitude": 18.16667
+    },
+    {
+        "cityId": "3176884",
+        "name": "Provincia di Foggia",
+        "stateId": "3169778",
+        "latitude": 41.45,
+        "longitude": 15.53333
+    },
+    {
+        "cityId": "3181526",
+        "name": "Provincia di Brindisi",
+        "stateId": "3169778",
+        "latitude": 40.58333,
+        "longitude": 17.66667
+    },
+    {
+        "cityId": "3182350",
+        "name": "Provincia di Bari",
+        "stateId": "3169778",
+        "latitude": 40.93333,
+        "longitude": 16.66667
+    },
+    {
+        "cityId": "6955699",
+        "name": "Provincia di Barletta - Andria - Trani",
+        "stateId": "3169778",
+        "latitude": 41.25097,
+        "longitude": 16.17599
+    }
+]

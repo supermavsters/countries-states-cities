@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7874167",
+        "name": "Commune of Glazoue",
+        "stateId": "2597272",
+        "latitude": 8.174,
+        "longitude": 2.233
+    },
+    {
+        "cityId": "8260647",
+        "name": "Commune of Bante",
+        "stateId": "2597272",
+        "latitude": 8.34,
+        "longitude": 1.872
+    },
+    {
+        "cityId": "8260648",
+        "name": "Commune of Dassa-Zoume",
+        "stateId": "2597272",
+        "latitude": 7.696,
+        "longitude": 2.278
+    },
+    {
+        "cityId": "8260649",
+        "name": "Commune of Ouesse",
+        "stateId": "2597272",
+        "latitude": 8.561,
+        "longitude": 2.523
+    },
+    {
+        "cityId": "8260650",
+        "name": "Commune of Savalou",
+        "stateId": "2597272",
+        "latitude": 7.862,
+        "longitude": 1.849
+    },
+    {
+        "cityId": "8260651",
+        "name": "Commune of Save",
+        "stateId": "2597272",
+        "latitude": 7.959,
+        "longitude": 2.567
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "cityId": "5534886",
+        "name": "Beaver County",
+        "stateId": "5549030",
+        "latitude": 38.35771,
+        "longitude": -113.23576
+    },
+    {
+        "cityId": "5536454",
+        "name": "Carbon County",
+        "stateId": "5549030",
+        "latitude": 39.64817,
+        "longitude": -110.58898
+    },
+    {
+        "cityId": "5538893",
+        "name": "Emery County",
+        "stateId": "5549030",
+        "latitude": 38.99677,
+        "longitude": -110.70067
+    },
+    {
+        "cityId": "5539525",
+        "name": "Garfield County",
+        "stateId": "5549030",
+        "latitude": 37.85492,
+        "longitude": -111.44313
+    },
+    {
+        "cityId": "5539784",
+        "name": "Grand County",
+        "stateId": "5549030",
+        "latitude": 38.98174,
+        "longitude": -109.56971
+    },
+    {
+        "cityId": "5541004",
+        "name": "Iron County",
+        "stateId": "5549030",
+        "latitude": 37.85917,
+        "longitude": -113.28927
+    },
+    {
+        "cityId": "5541372",
+        "name": "Juab County",
+        "stateId": "5549030",
+        "latitude": 39.70262,
+        "longitude": -112.78477
+    },
+    {
+        "cityId": "5541473",
+        "name": "Kane County",
+        "stateId": "5549030",
+        "latitude": 37.28507,
+        "longitude": -111.88785
+    },
+    {
+        "cityId": "5543199",
+        "name": "Millard County",
+        "stateId": "5549030",
+        "latitude": 39.07381,
+        "longitude": -113.10046
+    },
+    {
+        "cityId": "5545027",
+        "name": "Piute County",
+        "stateId": "5549030",
+        "latitude": 38.33645,
+        "longitude": -112.12695
+    },
+    {
+        "cityId": "5546337",
+        "name": "San Juan County",
+        "stateId": "5549030",
+        "latitude": 37.62601,
+        "longitude": -109.80457
+    },
+    {
+        "cityId": "5546434",
+        "name": "Sanpete County",
+        "stateId": "5549030",
+        "latitude": 39.37396,
+        "longitude": -111.57634
+    },
+    {
+        "cityId": "5546669",
+        "name": "Sevier County",
+        "stateId": "5549030",
+        "latitude": 38.74764,
+        "longitude": -111.80464
+    },
+    {
+        "cityId": "5549225",
+        "name": "Washington County",
+        "stateId": "5549030",
+        "latitude": 37.28036,
+        "longitude": -113.50494
+    },
+    {
+        "cityId": "5549318",
+        "name": "Wayne County",
+        "stateId": "5549030",
+        "latitude": 38.32436,
+        "longitude": -110.90367
+    },
+    {
+        "cityId": "5771875",
+        "name": "Box Elder County",
+        "stateId": "5549030",
+        "latitude": 41.52097,
+        "longitude": -113.08209
+    },
+    {
+        "cityId": "5772317",
+        "name": "Cache County",
+        "stateId": "5549030",
+        "latitude": 41.72237,
+        "longitude": -111.74356
+    },
+    {
+        "cityId": "5773608",
+        "name": "Daggett County",
+        "stateId": "5549030",
+        "latitude": 40.88727,
+        "longitude": -109.50765
+    },
+    {
+        "cityId": "5773664",
+        "name": "Davis County",
+        "stateId": "5549030",
+        "latitude": 40.99061,
+        "longitude": -112.11124
+    },
+    {
+        "cityId": "5774137",
+        "name": "Duchesne County",
+        "stateId": "5549030",
+        "latitude": 40.29751,
+        "longitude": -110.42476
+    },
+    {
+        "cityId": "5778525",
+        "name": "Morgan County",
+        "stateId": "5549030",
+        "latitude": 41.08932,
+        "longitude": -111.57312
+    },
+    {
+        "cityId": "5780377",
+        "name": "Rich County",
+        "stateId": "5549030",
+        "latitude": 41.63232,
+        "longitude": -111.24445
+    },
+    {
+        "cityId": "5781004",
+        "name": "Salt Lake County",
+        "stateId": "5549030",
+        "latitude": 40.66758,
+        "longitude": -111.92403
+    },
+    {
+        "cityId": "5782267",
+        "name": "Summit County",
+        "stateId": "5549030",
+        "latitude": 40.86815,
+        "longitude": -110.95567
+    },
+    {
+        "cityId": "5783699",
+        "name": "Tooele County",
+        "stateId": "5549030",
+        "latitude": 40.44875,
+        "longitude": -113.13106
+    },
+    {
+        "cityId": "5783919",
+        "name": "Uintah County",
+        "stateId": "5549030",
+        "latitude": 40.12495,
+        "longitude": -109.51839
+    },
+    {
+        "cityId": "5784025",
+        "name": "Utah County",
+        "stateId": "5549030",
+        "latitude": 40.11995,
+        "longitude": -111.67031
+    },
+    {
+        "cityId": "5784339",
+        "name": "Wasatch County",
+        "stateId": "5549030",
+        "latitude": 40.33035,
+        "longitude": -111.16847
+    },
+    {
+        "cityId": "5784440",
+        "name": "Weber County",
+        "stateId": "5549030",
+        "latitude": 41.26988,
+        "longitude": -111.91327
+    }
+]

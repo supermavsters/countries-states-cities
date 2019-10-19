@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "3667302",
+        "name": "Tenerife",
+        "stateId": "3675686",
+        "latitude": 10,
+        "longitude": -74.66667
+    },
+    {
+        "cityId": "3667924",
+        "name": "Sitionuevo",
+        "stateId": "3675686",
+        "latitude": 10.91667,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3668287",
+        "name": "San Zen\u00f3n",
+        "stateId": "3675686",
+        "latitude": 9.33333,
+        "longitude": -74.3
+    },
+    {
+        "cityId": "3668614",
+        "name": "Santa Marta",
+        "stateId": "3675686",
+        "latitude": 11.24348,
+        "longitude": -74.20835
+    },
+    {
+        "cityId": "3668928",
+        "name": "Santa Ana",
+        "stateId": "3675686",
+        "latitude": 9.51484,
+        "longitude": -74.3433
+    },
+    {
+        "cityId": "3668979",
+        "name": "San Sebasti\u00e1n de Buenavista",
+        "stateId": "3675686",
+        "latitude": 9.33242,
+        "longitude": -74.2152
+    },
+    {
+        "cityId": "3670371",
+        "name": "Salamina",
+        "stateId": "3675686",
+        "latitude": 10.5,
+        "longitude": -74.7
+    },
+    {
+        "cityId": "3670898",
+        "name": "Remolino",
+        "stateId": "3675686",
+        "latitude": 10.66667,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3671628",
+        "name": "Puebloviejo",
+        "stateId": "3675686",
+        "latitude": 10.84239,
+        "longitude": -74.38538
+    },
+    {
+        "cityId": "3672032",
+        "name": "Plato",
+        "stateId": "3675686",
+        "latitude": 9.77267,
+        "longitude": -74.74548
+    },
+    {
+        "cityId": "3672094",
+        "name": "Pivijay",
+        "stateId": "3675686",
+        "latitude": 10.41667,
+        "longitude": -74.33333
+    },
+    {
+        "cityId": "3672634",
+        "name": "Pedraza",
+        "stateId": "3675686",
+        "latitude": 10.16667,
+        "longitude": -74.75
+    },
+    {
+        "cityId": "3681606",
+        "name": "Guamal",
+        "stateId": "3675686",
+        "latitude": 9.25,
+        "longitude": -74.16667
+    },
+    {
+        "cityId": "3682289",
+        "name": "Fundaci\u00f3n",
+        "stateId": "3675686",
+        "latitude": 10.41667,
+        "longitude": -73.91667
+    },
+    {
+        "cityId": "3683465",
+        "name": "El Pi\u00f1on",
+        "stateId": "3675686",
+        "latitude": 10.33333,
+        "longitude": -74.66667
+    },
+    {
+        "cityId": "3684928",
+        "name": "El Banco",
+        "stateId": "3675686",
+        "latitude": 9,
+        "longitude": -74
+    },
+    {
+        "cityId": "3686276",
+        "name": "Ci\u00e9naga",
+        "stateId": "3675686",
+        "latitude": 10.83333,
+        "longitude": -74.08333
+    },
+    {
+        "cityId": "3686895",
+        "name": "Cerro San Antonio",
+        "stateId": "3675686",
+        "latitude": 10.29063,
+        "longitude": -74.82173
+    },
+    {
+        "cityId": "3689761",
+        "name": "Aracataca",
+        "stateId": "3675686",
+        "latitude": 10.58333,
+        "longitude": -74
+    },
+    {
+        "cityId": "3690173",
+        "name": "Algarrobo",
+        "stateId": "3675686",
+        "latitude": 10.18553,
+        "longitude": -74.06158
+    },
+    {
+        "cityId": "8128837",
+        "name": "Ariguan\u00ed",
+        "stateId": "3675686",
+        "latitude": 9.89383,
+        "longitude": -74.13583
+    },
+    {
+        "cityId": "9172393",
+        "name": "Chibolo",
+        "stateId": "3675686",
+        "latitude": 10.0825,
+        "longitude": -74.50696
+    },
+    {
+        "cityId": "9179913",
+        "name": "Zona Bananera",
+        "stateId": "3675686",
+        "latitude": 10.76417,
+        "longitude": -74.15722
+    },
+    {
+        "cityId": "9609550",
+        "name": "Concordia",
+        "stateId": "3675686",
+        "latitude": 10.23276,
+        "longitude": -74.77855
+    },
+    {
+        "cityId": "9609551",
+        "name": "El Ret\u00e9n",
+        "stateId": "3675686",
+        "latitude": 10.66114,
+        "longitude": -74.32549
+    },
+    {
+        "cityId": "9609552",
+        "name": "Nueva Granada",
+        "stateId": "3675686",
+        "latitude": 9.73588,
+        "longitude": -74.32892
+    },
+    {
+        "cityId": "9609553",
+        "name": "Piji\u00f1o del Carmen",
+        "stateId": "3675686",
+        "latitude": 9.53528,
+        "longitude": -74.11992
+    },
+    {
+        "cityId": "9609554",
+        "name": "Sabanas de San Angel",
+        "stateId": "3675686",
+        "latitude": 10.11072,
+        "longitude": -74.26007
+    },
+    {
+        "cityId": "9609555",
+        "name": "Santa B\u00e1rbara de Pinto",
+        "stateId": "3675686",
+        "latitude": 9.52107,
+        "longitude": -74.64912
+    },
+    {
+        "cityId": "9609556",
+        "name": "Zapay\u00e1n",
+        "stateId": "3675686",
+        "latitude": 10.11846,
+        "longitude": -74.69143
+    }
+]

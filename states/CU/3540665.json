@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3533822",
+        "name": "Municipio de Yaguajay",
+        "stateId": "3540665",
+        "latitude": 22.31667,
+        "longitude": -79.23333
+    },
+    {
+        "cityId": "3534905",
+        "name": "Municipio de Trinidad",
+        "stateId": "3540665",
+        "latitude": 21.8,
+        "longitude": -79.98333
+    },
+    {
+        "cityId": "3540666",
+        "name": "Municipio de Sancti Sp\u00edritus",
+        "stateId": "3540665",
+        "latitude": 21.93333,
+        "longitude": -79.43333
+    },
+    {
+        "cityId": "3556333",
+        "name": "Municipio de Jatibonico",
+        "stateId": "3540665",
+        "latitude": 21.93333,
+        "longitude": -79.16667
+    },
+    {
+        "cityId": "3558742",
+        "name": "Municipio de Fomento",
+        "stateId": "3540665",
+        "latitude": 22.1,
+        "longitude": -79.71667
+    },
+    {
+        "cityId": "3566602",
+        "name": "Municipio de Cabaigu\u00e1n",
+        "stateId": "3540665",
+        "latitude": 22.08333,
+        "longitude": -79.5
+    },
+    {
+        "cityId": "11288241",
+        "name": "La Sierpe",
+        "stateId": "3540665",
+        "latitude": 21.77112,
+        "longitude": -79.26807
+    },
+    {
+        "cityId": "11288242",
+        "name": "Taguasco",
+        "stateId": "3540665",
+        "latitude": 22.04796,
+        "longitude": -79.18164
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "cityId": "1832426",
+        "name": "Yongin-si",
+        "stateId": "1841610",
+        "latitude": 37.23825,
+        "longitude": 127.17795
+    },
+    {
+        "cityId": "1832697",
+        "name": "Yeoncheon-gun",
+        "stateId": "1841610",
+        "latitude": 38.09404,
+        "longitude": 127.07577
+    },
+    {
+        "cityId": "1832742",
+        "name": "Yeoju-si",
+        "stateId": "1841610",
+        "latitude": 37.29562,
+        "longitude": 127.63668
+    },
+    {
+        "cityId": "1832832",
+        "name": "Yangpyeong-gun",
+        "stateId": "1841610",
+        "latitude": 37.4888,
+        "longitude": 127.49222
+    },
+    {
+        "cityId": "1833787",
+        "name": "Uijeongbu-si",
+        "stateId": "1841610",
+        "latitude": 37.73865,
+        "longitude": 127.0477
+    },
+    {
+        "cityId": "1834308",
+        "name": "Dongducheon",
+        "stateId": "1841610",
+        "latitude": 37.91889,
+        "longitude": 127.06897
+    },
+    {
+        "cityId": "1835551",
+        "name": "Suwon-si",
+        "stateId": "1841610",
+        "latitude": 37.28586,
+        "longitude": 127.00993
+    },
+    {
+        "cityId": "1836091",
+        "name": "Seongnam-si",
+        "stateId": "1841610",
+        "latitude": 37.41875,
+        "longitude": 127.12877
+    },
+    {
+        "cityId": "1837364",
+        "name": "Siheung",
+        "stateId": "1841610",
+        "latitude": 37.39067,
+        "longitude": 126.7888
+    },
+    {
+        "cityId": "1838341",
+        "name": "Pyeongtaek",
+        "stateId": "1841610",
+        "latitude": 37.01372,
+        "longitude": 126.98748
+    },
+    {
+        "cityId": "1838715",
+        "name": "Bucheon-si",
+        "stateId": "1841610",
+        "latitude": 37.5044,
+        "longitude": 126.76625
+    },
+    {
+        "cityId": "1839102",
+        "name": "Pocheon-si",
+        "stateId": "1841610",
+        "latitude": 37.8937,
+        "longitude": 127.20028
+    },
+    {
+        "cityId": "1839430",
+        "name": "Paju-si",
+        "stateId": "1841610",
+        "latitude": 37.75952,
+        "longitude": 126.77772
+    },
+    {
+        "cityId": "1840374",
+        "name": "Namyangju-si",
+        "stateId": "1841610",
+        "latitude": 37.65217,
+        "longitude": 127.2401
+    },
+    {
+        "cityId": "1841809",
+        "name": "Gwangju-si",
+        "stateId": "1841610",
+        "latitude": 37.40329,
+        "longitude": 127.29855
+    },
+    {
+        "cityId": "1842170",
+        "name": "Gimpo-si",
+        "stateId": "1841610",
+        "latitude": 37.63637,
+        "longitude": 126.6927
+    },
+    {
+        "cityId": "1842486",
+        "name": "Goyang-si",
+        "stateId": "1841610",
+        "latitude": 37.66667,
+        "longitude": 126.83333
+    },
+    {
+        "cityId": "1843700",
+        "name": "Icheon-si",
+        "stateId": "1841610",
+        "latitude": 37.27642,
+        "longitude": 127.43692
+    },
+    {
+        "cityId": "1846894",
+        "name": "Anyang-si",
+        "stateId": "1841610",
+        "latitude": 37.40282,
+        "longitude": 126.92874
+    },
+    {
+        "cityId": "1846909",
+        "name": "Anseong",
+        "stateId": "1841610",
+        "latitude": 37.03789,
+        "longitude": 127.30057
+    },
+    {
+        "cityId": "8393790",
+        "name": "Hanam-si",
+        "stateId": "1841610",
+        "latitude": 37.53895,
+        "longitude": 127.2125
+    },
+    {
+        "cityId": "8393792",
+        "name": "Ansan-si",
+        "stateId": "1841610",
+        "latitude": 37.31693,
+        "longitude": 126.83048
+    },
+    {
+        "cityId": "8393793",
+        "name": "Gunpo-si",
+        "stateId": "1841610",
+        "latitude": 37.34261,
+        "longitude": 126.92149
+    },
+    {
+        "cityId": "8393794",
+        "name": "Gwangmyeong-si",
+        "stateId": "1841610",
+        "latitude": 37.44435,
+        "longitude": 126.86499
+    },
+    {
+        "cityId": "8393795",
+        "name": "Osan-si",
+        "stateId": "1841610",
+        "latitude": 37.1623,
+        "longitude": 127.05246
+    },
+    {
+        "cityId": "8393796",
+        "name": "Uiwang-si",
+        "stateId": "1841610",
+        "latitude": 37.345,
+        "longitude": 126.97575
+    },
+    {
+        "cityId": "8393798",
+        "name": "Gwacheon-si",
+        "stateId": "1841610",
+        "latitude": 37.43407,
+        "longitude": 126.99989
+    },
+    {
+        "cityId": "8393803",
+        "name": "Guri-si",
+        "stateId": "1841610",
+        "latitude": 37.6012,
+        "longitude": 127.1338
+    },
+    {
+        "cityId": "8393804",
+        "name": "Yangju-si",
+        "stateId": "1841610",
+        "latitude": 37.81732,
+        "longitude": 127.046
+    },
+    {
+        "cityId": "8604734",
+        "name": "Hwaseong-si",
+        "stateId": "1841610",
+        "latitude": 37.20025,
+        "longitude": 126.82909
+    },
+    {
+        "cityId": "8604790",
+        "name": "Gapyeong-gun",
+        "stateId": "1841610",
+        "latitude": 37.8308,
+        "longitude": 127.51522
+    },
+    {
+        "cityId": "8659222",
+        "name": "Suji-gu",
+        "stateId": "1841610",
+        "latitude": 37.331,
+        "longitude": 127.071
+    },
+    {
+        "cityId": "8659223",
+        "name": "Giheung-gu",
+        "stateId": "1841610",
+        "latitude": 37.265,
+        "longitude": 127.121
+    },
+    {
+        "cityId": "8659224",
+        "name": "Cheoin-gu",
+        "stateId": "1841610",
+        "latitude": 37.201,
+        "longitude": 127.252
+    },
+    {
+        "cityId": "8659225",
+        "name": "Ilsanseo-gu",
+        "stateId": "1841610",
+        "latitude": 37.676,
+        "longitude": 126.726
+    },
+    {
+        "cityId": "8659226",
+        "name": "Ilsandong-gu",
+        "stateId": "1841610",
+        "latitude": 37.677,
+        "longitude": 126.797
+    },
+    {
+        "cityId": "8659227",
+        "name": "Deogyang-gu",
+        "stateId": "1841610",
+        "latitude": 37.653,
+        "longitude": 126.878
+    },
+    {
+        "cityId": "8659228",
+        "name": "Danwon-gu",
+        "stateId": "1841610",
+        "latitude": 37.275,
+        "longitude": 126.686
+    },
+    {
+        "cityId": "8659229",
+        "name": "Sangnok-gu",
+        "stateId": "1841610",
+        "latitude": 37.313,
+        "longitude": 126.87
+    },
+    {
+        "cityId": "8659233",
+        "name": "Dongan-gu",
+        "stateId": "1841610",
+        "latitude": 37.398,
+        "longitude": 126.954
+    },
+    {
+        "cityId": "8659234",
+        "name": "Manan-gu",
+        "stateId": "1841610",
+        "latitude": 37.401,
+        "longitude": 126.911
+    },
+    {
+        "cityId": "8659235",
+        "name": "Bundang-gu",
+        "stateId": "1841610",
+        "latitude": 37.377,
+        "longitude": 127.105
+    },
+    {
+        "cityId": "8659236",
+        "name": "Jungwon-gu",
+        "stateId": "1841610",
+        "latitude": 37.43,
+        "longitude": 127.163
+    },
+    {
+        "cityId": "8659237",
+        "name": "Sujeong-gu",
+        "stateId": "1841610",
+        "latitude": 37.433,
+        "longitude": 127.103
+    },
+    {
+        "cityId": "8659238",
+        "name": "Yeongtong-gu",
+        "stateId": "1841610",
+        "latitude": 37.272,
+        "longitude": 127.056
+    },
+    {
+        "cityId": "8659239",
+        "name": "Paldal-gu",
+        "stateId": "1841610",
+        "latitude": 37.275,
+        "longitude": 127.016
+    },
+    {
+        "cityId": "8659240",
+        "name": "Gwonseon-gu",
+        "stateId": "1841610",
+        "latitude": 37.258,
+        "longitude": 126.979
+    },
+    {
+        "cityId": "8659241",
+        "name": "Jangan-gu",
+        "stateId": "1841610",
+        "latitude": 37.311,
+        "longitude": 127.003
+    }
+]

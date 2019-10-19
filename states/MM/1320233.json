@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "8238709",
+        "name": "Hpa-an District",
+        "stateId": "1320233",
+        "latitude": 16.87289,
+        "longitude": 97.7179
+    },
+    {
+        "cityId": "8238710",
+        "name": "Myawaddy District",
+        "stateId": "1320233",
+        "latitude": 16.54108,
+        "longitude": 98.52983
+    },
+    {
+        "cityId": "8238711",
+        "name": "Kawkareik District",
+        "stateId": "1320233",
+        "latitude": 16.41501,
+        "longitude": 98.23975
+    },
+    {
+        "cityId": "11154017",
+        "name": "Hpapun",
+        "stateId": "1320233",
+        "latitude": 18.07659,
+        "longitude": 97.36866
+    }
+]

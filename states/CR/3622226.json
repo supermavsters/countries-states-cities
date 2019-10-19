@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3622227",
+        "name": "Puntarenas",
+        "stateId": "3622226",
+        "latitude": 9.98102,
+        "longitude": -84.81342
+    },
+    {
+        "cityId": "3622535",
+        "name": "Parrita",
+        "stateId": "3622226",
+        "latitude": 9.55,
+        "longitude": -84.33333
+    },
+    {
+        "cityId": "3622657",
+        "name": "Osa",
+        "stateId": "3622226",
+        "latitude": 8.83333,
+        "longitude": -83.5
+    },
+    {
+        "cityId": "3622813",
+        "name": "Montes de Oro",
+        "stateId": "3622226",
+        "latitude": 10.1,
+        "longitude": -84.75
+    },
+    {
+        "cityId": "3623655",
+        "name": "Golfito",
+        "stateId": "3622226",
+        "latitude": 8.6,
+        "longitude": -83.12
+    },
+    {
+        "cityId": "3623780",
+        "name": "Esparza",
+        "stateId": "3622226",
+        "latitude": 10,
+        "longitude": -84.66667
+    },
+    {
+        "cityId": "3624051",
+        "name": "Coto Brus",
+        "stateId": "3622226",
+        "latitude": 8.88333,
+        "longitude": -82.96667
+    },
+    {
+        "cityId": "3624064",
+        "name": "Corredores",
+        "stateId": "3622226",
+        "latitude": 8.58333,
+        "longitude": -82.91667
+    },
+    {
+        "cityId": "3624586",
+        "name": "Buenos Aires",
+        "stateId": "3622226",
+        "latitude": 9.11667,
+        "longitude": -83.25
+    },
+    {
+        "cityId": "3624970",
+        "name": "Quepos",
+        "stateId": "3622226",
+        "latitude": 9.43187,
+        "longitude": -84.16141
+    },
+    {
+        "cityId": "8531802",
+        "name": "Garabito",
+        "stateId": "3622226",
+        "latitude": 9.61903,
+        "longitude": -84.62013
+    }
+]

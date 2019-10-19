@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1695357",
+        "name": "Province of Pangasinan",
+        "stateId": "7521301",
+        "latitude": 15.91667,
+        "longitude": 120.33333
+    },
+    {
+        "cityId": "1707052",
+        "name": "Province of La Union",
+        "stateId": "7521301",
+        "latitude": 16.5,
+        "longitude": 120.41667
+    },
+    {
+        "cityId": "1711032",
+        "name": "Province of Ilocos Sur",
+        "stateId": "7521301",
+        "latitude": 17.19852,
+        "longitude": 120.54199
+    },
+    {
+        "cityId": "1711034",
+        "name": "Province of Ilocos Norte",
+        "stateId": "7521301",
+        "latitude": 18.16667,
+        "longitude": 120.75
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2126275",
+        "name": "Chaunskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 69,
+        "longitude": 171
+    },
+    {
+        "cityId": "2126681",
+        "name": "Bilibinskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 67,
+        "longitude": 164
+    },
+    {
+        "cityId": "2127198",
+        "name": "Anadyrskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 65,
+        "longitude": 173
+    },
+    {
+        "cityId": "4031572",
+        "name": "Providenskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 65.25,
+        "longitude": -175
+    },
+    {
+        "cityId": "4031694",
+        "name": "Iul\u2019tinskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 66.66667,
+        "longitude": -179
+    },
+    {
+        "cityId": "4031750",
+        "name": "Chukotskiy Rayon",
+        "stateId": "2126099",
+        "latitude": 66.33333,
+        "longitude": -172.66667
+    }
+]

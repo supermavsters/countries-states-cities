@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "9610651",
+        "name": "Joensuu",
+        "stateId": "830686",
+        "latitude": 62.79157,
+        "longitude": 29.92371
+    },
+    {
+        "cityId": "9610652",
+        "name": "Keski-Karjala",
+        "stateId": "830686",
+        "latitude": 62.1264,
+        "longitude": 29.99785
+    },
+    {
+        "cityId": "9610653",
+        "name": "Pielisen Karjala",
+        "stateId": "830686",
+        "latitude": 63.45654,
+        "longitude": 29.6681
+    }
+]

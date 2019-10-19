@@ -1,0 +1,149 @@
+[
+    {
+        "stateId": "2721357",
+        "name": "Blekinge",
+        "countryId": "2661886",
+        "latitude": 56.33333,
+        "longitude": 15.33333
+    },
+    {
+        "stateId": "2699767",
+        "name": "Dalarna",
+        "countryId": "2661886",
+        "latitude": 61,
+        "longitude": 14.5
+    },
+    {
+        "stateId": "2711508",
+        "name": "Gotland",
+        "countryId": "2661886",
+        "latitude": 57.5,
+        "longitude": 18.5
+    },
+    {
+        "stateId": "2712411",
+        "name": "G\u00e4vleborgs l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 61.5,
+        "longitude": 16.25
+    },
+    {
+        "stateId": "2708794",
+        "name": "Halland",
+        "countryId": "2661886",
+        "latitude": 56.75,
+        "longitude": 13
+    },
+    {
+        "stateId": "2703330",
+        "name": "J\u00e4mtlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 63,
+        "longitude": 14.66667
+    },
+    {
+        "stateId": "2702976",
+        "name": "J\u00f6nk\u00f6pings l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 57.5,
+        "longitude": 14.5
+    },
+    {
+        "stateId": "2702259",
+        "name": "Kalmar",
+        "countryId": "2661886",
+        "latitude": 57.33333,
+        "longitude": 16
+    },
+    {
+        "stateId": "2699050",
+        "name": "Kronoberg",
+        "countryId": "2661886",
+        "latitude": 56.66667,
+        "longitude": 14.66667
+    },
+    {
+        "stateId": "604010",
+        "name": "Norrbotten",
+        "countryId": "2661886",
+        "latitude": 67,
+        "longitude": 20
+    },
+    {
+        "stateId": "3337385",
+        "name": "Sk\u00e5ne l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 55.98333,
+        "longitude": 13.5
+    },
+    {
+        "stateId": "2673722",
+        "name": "Stockholm",
+        "countryId": "2661886",
+        "latitude": 59.5,
+        "longitude": 18
+    },
+    {
+        "stateId": "2676207",
+        "name": "S\u00f6dermanlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 59.25,
+        "longitude": 16.66667
+    },
+    {
+        "stateId": "2666218",
+        "name": "Uppsala",
+        "countryId": "2661886",
+        "latitude": 60,
+        "longitude": 17.75
+    },
+    {
+        "stateId": "2664870",
+        "name": "V\u00e4rmlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 59.75,
+        "longitude": 13.25
+    },
+    {
+        "stateId": "2664415",
+        "name": "V\u00e4sterbottens l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 65,
+        "longitude": 17.5
+    },
+    {
+        "stateId": "2664292",
+        "name": "V\u00e4sternorrlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 63,
+        "longitude": 17.5
+    },
+    {
+        "stateId": "2664179",
+        "name": "V\u00e4stmanlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 59.75,
+        "longitude": 16.33333
+    },
+    {
+        "stateId": "3337386",
+        "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 58,
+        "longitude": 13
+    },
+    {
+        "stateId": "2686655",
+        "name": "\u00d6rebro l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 59.5,
+        "longitude": 15
+    },
+    {
+        "stateId": "2685867",
+        "name": "\u00d6sterg\u00f6tlands l\u00e4n",
+        "countryId": "2661886",
+        "latitude": 58.41667,
+        "longitude": 15.75
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2975517",
+        "name": "Savoie",
+        "stateId": "11071625",
+        "latitude": 45.46805,
+        "longitude": 6.48547
+    },
+    {
+        "cityId": "2984986",
+        "name": "D\u00e9partement du Puy-de-D\u00f4me",
+        "stateId": "11071625",
+        "latitude": 45.70549,
+        "longitude": 3.146
+    },
+    {
+        "cityId": "2987410",
+        "name": "D\u00e9partement du Rh\u00f4ne",
+        "stateId": "11071625",
+        "latitude": 45.82824,
+        "longitude": 4.61889
+    },
+    {
+        "cityId": "2997870",
+        "name": "D\u00e9partement de la Loire",
+        "stateId": "11071625",
+        "latitude": 45.47169,
+        "longitude": 4.43298
+    },
+    {
+        "cityId": "3012715",
+        "name": "D\u00e9partement de l'Is\u00e8re",
+        "stateId": "11071625",
+        "latitude": 45.16667,
+        "longitude": 5.83333
+    },
+    {
+        "cityId": "3013736",
+        "name": "Haute-Savoie",
+        "stateId": "11071625",
+        "latitude": 46.06143,
+        "longitude": 6.45374
+    },
+    {
+        "cityId": "3013760",
+        "name": "Haute-Loire",
+        "stateId": "11071625",
+        "latitude": 45.11001,
+        "longitude": 3.8394
+    },
+    {
+        "cityId": "3020781",
+        "name": "D\u00e9partement de la Dr\u00f4me",
+        "stateId": "11071625",
+        "latitude": 44.69971,
+        "longitude": 5.16521
+    },
+    {
+        "cityId": "3028791",
+        "name": "Cantal",
+        "stateId": "11071625",
+        "latitude": 45.13985,
+        "longitude": 2.64947
+    },
+    {
+        "cityId": "3037147",
+        "name": "D\u00e9partement de l'Ard\u00e8che",
+        "stateId": "11071625",
+        "latitude": 44.66667,
+        "longitude": 4.33333
+    },
+    {
+        "cityId": "3038111",
+        "name": "D\u00e9partement de l'Allier",
+        "stateId": "11071625",
+        "latitude": 46.5,
+        "longitude": 3
+    },
+    {
+        "cityId": "3038422",
+        "name": "D\u00e9partement de l'Ain",
+        "stateId": "11071625",
+        "latitude": 46.16667,
+        "longitude": 5.33333
+    }
+]

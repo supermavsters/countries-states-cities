@@ -1,0 +1,37 @@
+[
+    {
+        "stateId": "6452615",
+        "name": "Districts of Republican Subordination",
+        "countryId": "1220409",
+        "latitude": 38.86537,
+        "longitude": 70.18066
+    },
+    {
+        "stateId": "7280679",
+        "name": "Dushanbe",
+        "countryId": "1220409",
+        "latitude": 38.5577,
+        "longitude": 68.77974
+    },
+    {
+        "stateId": "1347488",
+        "name": "Viloyati Khatlon",
+        "countryId": "1220409",
+        "latitude": 37.83333,
+        "longitude": 69
+    },
+    {
+        "stateId": "1221692",
+        "name": "Viloyati Mukhtori K\u016dhistoni Badakhshon",
+        "countryId": "1220409",
+        "latitude": 38,
+        "longitude": 73
+    },
+    {
+        "stateId": "1221092",
+        "name": "Viloyati Sughd",
+        "countryId": "1220409",
+        "latitude": 40,
+        "longitude": 69
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "cityId": "1214025",
+        "name": "Kota Sabang",
+        "stateId": "1215638",
+        "latitude": 5.87944,
+        "longitude": 95.33223
+    },
+    {
+        "cityId": "1215501",
+        "name": "Kota Banda Aceh",
+        "stateId": "1215638",
+        "latitude": 5.54167,
+        "longitude": 95.33333
+    },
+    {
+        "cityId": "1215630",
+        "name": "Kabupaten Aceh Utara",
+        "stateId": "1215638",
+        "latitude": 4.97,
+        "longitude": 97.14
+    },
+    {
+        "cityId": "1215631",
+        "name": "Kabupaten Aceh Timur",
+        "stateId": "1215638",
+        "latitude": 4.63333,
+        "longitude": 97.63333
+    },
+    {
+        "cityId": "1215632",
+        "name": "Kabupaten Aceh Tenggara",
+        "stateId": "1215638",
+        "latitude": 3.36667,
+        "longitude": 97.7
+    },
+    {
+        "cityId": "1215633",
+        "name": "Kabupaten Aceh Tengah",
+        "stateId": "1215638",
+        "latitude": 4.51,
+        "longitude": 96.855
+    },
+    {
+        "cityId": "1215634",
+        "name": "Kabupaten Aceh Selatan",
+        "stateId": "1215638",
+        "latitude": 3.16667,
+        "longitude": 97.41667
+    },
+    {
+        "cityId": "1215635",
+        "name": "Kabupaten Aceh Besar",
+        "stateId": "1215638",
+        "latitude": 5.38333,
+        "longitude": 95.51667
+    },
+    {
+        "cityId": "1215636",
+        "name": "Kabupaten Aceh Barat",
+        "stateId": "1215638",
+        "latitude": 4.45,
+        "longitude": 96.16667
+    },
+    {
+        "cityId": "6701575",
+        "name": "Kabupaten Aceh Tamiang",
+        "stateId": "1215638",
+        "latitude": 4.25,
+        "longitude": 97.96667
+    },
+    {
+        "cityId": "6701674",
+        "name": "Kabupaten Aceh Barat Daya",
+        "stateId": "1215638",
+        "latitude": 3.83333,
+        "longitude": 96.88333
+    },
+    {
+        "cityId": "6703019",
+        "name": "Kabupaten Nagan Raya",
+        "stateId": "1215638",
+        "latitude": 4.16667,
+        "longitude": 96.51667
+    },
+    {
+        "cityId": "6704825",
+        "name": "Kabupaten Simeulue",
+        "stateId": "1215638",
+        "latitude": 2.61667,
+        "longitude": 96.08333
+    },
+    {
+        "cityId": "6705241",
+        "name": "Kabupaten Aceh Jaya",
+        "stateId": "1215638",
+        "latitude": 4.86,
+        "longitude": 95.64
+    },
+    {
+        "cityId": "6712486",
+        "name": "Kabupaten Bener Meriah",
+        "stateId": "1215638",
+        "latitude": 4.73015,
+        "longitude": 96.86156
+    },
+    {
+        "cityId": "6713333",
+        "name": "Kabupaten Aceh Singkil",
+        "stateId": "1215638",
+        "latitude": 2.41667,
+        "longitude": 97.91667
+    },
+    {
+        "cityId": "6719204",
+        "name": "Kota Lhokseumawe",
+        "stateId": "1215638",
+        "latitude": 5.13333,
+        "longitude": 97.06667
+    },
+    {
+        "cityId": "6729814",
+        "name": "Kabupaten Bireuen",
+        "stateId": "1215638",
+        "latitude": 5.08333,
+        "longitude": 96.58333
+    },
+    {
+        "cityId": "8224053",
+        "name": "Kota Langsa",
+        "stateId": "1215638",
+        "latitude": 4.47,
+        "longitude": 97.93
+    },
+    {
+        "cityId": "8224054",
+        "name": "Kabupaten Gayo Lues",
+        "stateId": "1215638",
+        "latitude": 3.95,
+        "longitude": 97.39
+    },
+    {
+        "cityId": "8224055",
+        "name": "Kabupaten Pidie",
+        "stateId": "1215638",
+        "latitude": 5.08,
+        "longitude": 96.11
+    },
+    {
+        "cityId": "8571637",
+        "name": "Kabupaten Pidie Jaya",
+        "stateId": "1215638",
+        "latitude": 5.15,
+        "longitude": 96.21667
+    },
+    {
+        "cityId": "8571638",
+        "name": "Kota Subulussalam",
+        "stateId": "1215638",
+        "latitude": 2.75,
+        "longitude": 97.93333
+    }
+]

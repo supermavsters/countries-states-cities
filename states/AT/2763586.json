@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2765389",
+        "name": "Politischer Bezirk Schwaz",
+        "stateId": "2763586",
+        "latitude": 47.26667,
+        "longitude": 11.76667
+    },
+    {
+        "cityId": "2767510",
+        "name": "Politischer Bezirk Reutte",
+        "stateId": "2763586",
+        "latitude": 47.41667,
+        "longitude": 10.55
+    },
+    {
+        "cityId": "2772504",
+        "name": "Politischer Bezirk Lienz",
+        "stateId": "2763586",
+        "latitude": 46.9,
+        "longitude": 12.5
+    },
+    {
+        "cityId": "2773069",
+        "name": "Politischer Bezirk Landeck",
+        "stateId": "2763586",
+        "latitude": 47.12575,
+        "longitude": 10.56679
+    },
+    {
+        "cityId": "2773299",
+        "name": "Politischer Bezirk Kufstein",
+        "stateId": "2763586",
+        "latitude": 47.5,
+        "longitude": 12.03333
+    },
+    {
+        "cityId": "2774346",
+        "name": "Politischer Bezirk Kitzb\u00fchel",
+        "stateId": "2763586",
+        "latitude": 47.43333,
+        "longitude": 12.38333
+    },
+    {
+        "cityId": "2775216",
+        "name": "Innsbruck Stadt",
+        "stateId": "2763586",
+        "latitude": 47.28433,
+        "longitude": 11.37706
+    },
+    {
+        "cityId": "2775219",
+        "name": "Politischer Bezirk Innsbruck Land",
+        "stateId": "2763586",
+        "latitude": 47.2,
+        "longitude": 11.33333
+    },
+    {
+        "cityId": "2775306",
+        "name": "Politischer Bezirk Imst",
+        "stateId": "2763586",
+        "latitude": 47.08333,
+        "longitude": 10.86667
+    }
+]

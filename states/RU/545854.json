@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "477906",
+        "name": "Ust\u2019-Vymskiy Rayon",
+        "stateId": "545854",
+        "latitude": 62.25,
+        "longitude": 49.91667
+    },
+    {
+        "cityId": "477941",
+        "name": "Ust\u2019-Tsilemskiy Rayon",
+        "stateId": "545854",
+        "latitude": 65.41667,
+        "longitude": 52.16667
+    },
+    {
+        "cityId": "478049",
+        "name": "Ust\u2019-Kulomskiy Rayon",
+        "stateId": "545854",
+        "latitude": 61.66667,
+        "longitude": 53.66667
+    },
+    {
+        "cityId": "479581",
+        "name": "Udorskiy Rayon",
+        "stateId": "545854",
+        "latitude": 63.5,
+        "longitude": 48.83333
+    },
+    {
+        "cityId": "481547",
+        "name": "Troitsko-Pechorskiy Rayon",
+        "stateId": "545854",
+        "latitude": 62.66667,
+        "longitude": 56.25
+    },
+    {
+        "cityId": "485121",
+        "name": "Sysol\u2019skiy Rayon",
+        "stateId": "545854",
+        "latitude": 61,
+        "longitude": 50
+    },
+    {
+        "cityId": "485241",
+        "name": "Syktyvdinskiy Rayon",
+        "stateId": "545854",
+        "latitude": 61.66667,
+        "longitude": 50.5
+    },
+    {
+        "cityId": "505282",
+        "name": "Priluzskiy Rayon",
+        "stateId": "545854",
+        "latitude": 60.33333,
+        "longitude": 49.33333
+    },
+    {
+        "cityId": "543395",
+        "name": "Koygorodskiy Rayon",
+        "stateId": "545854",
+        "latitude": 60.41667,
+        "longitude": 51
+    },
+    {
+        "cityId": "544396",
+        "name": "Kortkerosskiy Rayon",
+        "stateId": "545854",
+        "latitude": 61.81667,
+        "longitude": 51.53333
+    },
+    {
+        "cityId": "547056",
+        "name": "Knyazhpogostskiy Rayon",
+        "stateId": "545854",
+        "latitude": 62.58333,
+        "longitude": 50.91667
+    },
+    {
+        "cityId": "554843",
+        "name": "Izhemskiy Rayon",
+        "stateId": "545854",
+        "latitude": 65,
+        "longitude": 53.91667
+    }
+]

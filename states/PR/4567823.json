@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7268082",
+        "name": "Ci\u00e9naga Alta Barrio",
+        "stateId": "4567823",
+        "latitude": 18.32455,
+        "longitude": -65.86116
+    },
+    {
+        "cityId": "7268083",
+        "name": "Ci\u00e9naga Baja Barrio",
+        "stateId": "4567823",
+        "latitude": 18.37961,
+        "longitude": -65.85124
+    },
+    {
+        "cityId": "7268449",
+        "name": "Guzm\u00e1n Abajo Barrio",
+        "stateId": "4567823",
+        "latitude": 18.35117,
+        "longitude": -65.8369
+    },
+    {
+        "cityId": "7268450",
+        "name": "Guzm\u00e1n Arriba Barrio",
+        "stateId": "4567823",
+        "latitude": 18.29874,
+        "longitude": -65.83259
+    },
+    {
+        "cityId": "7268472",
+        "name": "Herreras Barrio",
+        "stateId": "4567823",
+        "latitude": 18.40483,
+        "longitude": -65.82367
+    },
+    {
+        "cityId": "7268524",
+        "name": "Jim\u00e9nez Barrio",
+        "stateId": "4567823",
+        "latitude": 18.33734,
+        "longitude": -65.80643
+    },
+    {
+        "cityId": "7268609",
+        "name": "Mameyes II Barrio",
+        "stateId": "4567823",
+        "latitude": 18.33338,
+        "longitude": -65.76759
+    },
+    {
+        "cityId": "7268909",
+        "name": "R\u00edo Grande Barrio-Pueblo",
+        "stateId": "4567823",
+        "latitude": 18.37997,
+        "longitude": -65.83084
+    },
+    {
+        "cityId": "7269094",
+        "name": "Zarzal Barrio",
+        "stateId": "4567823",
+        "latitude": 18.38691,
+        "longitude": -65.78723
+    }
+]

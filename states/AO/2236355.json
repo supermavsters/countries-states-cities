@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2236714",
+        "name": "Tomboco",
+        "stateId": "2236355",
+        "latitude": -6.68169,
+        "longitude": 13.35575
+    },
+    {
+        "cityId": "2236966",
+        "name": "Soyo",
+        "stateId": "2236355",
+        "latitude": -6.24665,
+        "longitude": 12.8309
+    },
+    {
+        "cityId": "2239000",
+        "name": "Nzeto",
+        "stateId": "2236355",
+        "latitude": -7.3163,
+        "longitude": 13.40963
+    },
+    {
+        "cityId": "2239019",
+        "name": "N\u00f3qui",
+        "stateId": "2236355",
+        "latitude": -6.14287,
+        "longitude": 13.58125
+    },
+    {
+        "cityId": "2239519",
+        "name": "Mbanza Congo",
+        "stateId": "2236355",
+        "latitude": -6.3145,
+        "longitude": 14.17795
+    },
+    {
+        "cityId": "2241620",
+        "name": "Cuimba",
+        "stateId": "2236355",
+        "latitude": -6.20075,
+        "longitude": 14.67685
+    }
+]

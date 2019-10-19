@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7268174",
+        "name": "Aguirre Barrio",
+        "stateId": "4568043",
+        "latitude": 17.95253,
+        "longitude": -66.25988
+    },
+    {
+        "cityId": "7268546",
+        "name": "Lapa Barrio",
+        "stateId": "4568043",
+        "latitude": 18.03668,
+        "longitude": -66.25429
+    },
+    {
+        "cityId": "7268725",
+        "name": "Palmas Barrio",
+        "stateId": "4568043",
+        "latitude": 18.06329,
+        "longitude": -66.22147
+    },
+    {
+        "cityId": "7268864",
+        "name": "Quebrada Yeguas Barrio",
+        "stateId": "4568043",
+        "latitude": 18.03738,
+        "longitude": -66.20299
+    },
+    {
+        "cityId": "7268912",
+        "name": "R\u00edo Jueyes Barrio",
+        "stateId": "4568043",
+        "latitude": 17.99751,
+        "longitude": -66.31114
+    },
+    {
+        "cityId": "7268953",
+        "name": "Salinas Barrio-Pueblo",
+        "stateId": "4568043",
+        "latitude": 17.97919,
+        "longitude": -66.29663
+    }
+]

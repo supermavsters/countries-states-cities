@@ -1,0 +1,338 @@
+[
+    {
+        "cityId": "5883398",
+        "name": "Alexander",
+        "stateId": "6065171",
+        "latitude": 50.48331,
+        "longitude": -96.05056
+    },
+    {
+        "cityId": "5884145",
+        "name": "Alonsa",
+        "stateId": "6065171",
+        "latitude": 50.98332,
+        "longitude": -99.05077
+    },
+    {
+        "cityId": "5886869",
+        "name": "Argyle",
+        "stateId": "6065171",
+        "latitude": 49.34642,
+        "longitude": -99.24752
+    },
+    {
+        "cityId": "5887047",
+        "name": "Armstrong",
+        "stateId": "6065171",
+        "latitude": 50.66671,
+        "longitude": -97.45068
+    },
+    {
+        "cityId": "5909350",
+        "name": "Brokenhead",
+        "stateId": "6065171",
+        "latitude": 50.0781,
+        "longitude": -96.49999
+    },
+    {
+        "cityId": "5917773",
+        "name": "Cartier",
+        "stateId": "6065171",
+        "latitude": 49.88311,
+        "longitude": -97.67649
+    },
+    {
+        "cityId": "5925083",
+        "name": "Coldwell",
+        "stateId": "6065171",
+        "latitude": 50.64582,
+        "longitude": -97.9026
+    },
+    {
+        "cityId": "5928075",
+        "name": "Cornwallis",
+        "stateId": "6065171",
+        "latitude": 49.79722,
+        "longitude": -99.84805
+    },
+    {
+        "cityId": "5935342",
+        "name": "Dauphin",
+        "stateId": "6065171",
+        "latitude": 51.19581,
+        "longitude": -100.06333
+    },
+    {
+        "cityId": "5938127",
+        "name": "De Salaberry",
+        "stateId": "6065171",
+        "latitude": 49.39999,
+        "longitude": -97.00894
+    },
+    {
+        "cityId": "5943543",
+        "name": "Dufferin",
+        "stateId": "6065171",
+        "latitude": 49.5264,
+        "longitude": -98.07405
+    },
+    {
+        "cityId": "5946153",
+        "name": "East St. Paul",
+        "stateId": "6065171",
+        "latitude": 49.9772,
+        "longitude": -97.01093
+    },
+    {
+        "cityId": "5948173",
+        "name": "Elton",
+        "stateId": "6065171",
+        "latitude": 49.97472,
+        "longitude": -99.83586
+    },
+    {
+        "cityId": "5953379",
+        "name": "Fisher",
+        "stateId": "6065171",
+        "latitude": 51.07501,
+        "longitude": -97.58398
+    },
+    {
+        "cityId": "5961416",
+        "name": "Gimli",
+        "stateId": "6065171",
+        "latitude": 50.66672,
+        "longitude": -97.05066
+    },
+    {
+        "cityId": "5964094",
+        "name": "Grahamdale",
+        "stateId": "6065171",
+        "latitude": 51.375,
+        "longitude": -98.54244
+    },
+    {
+        "cityId": "5966926",
+        "name": "Grey",
+        "stateId": "6065171",
+        "latitude": 49.71111,
+        "longitude": -98.07573
+    },
+    {
+        "cityId": "5970302",
+        "name": "Hanover",
+        "stateId": "6065171",
+        "latitude": 49.46669,
+        "longitude": -96.83392
+    },
+    {
+        "cityId": "5972962",
+        "name": "Headingley",
+        "stateId": "6065171",
+        "latitude": 49.8697,
+        "longitude": -97.38626
+    },
+    {
+        "cityId": "5990627",
+        "name": "Kelsey",
+        "stateId": "6065171",
+        "latitude": 54.15841,
+        "longitude": -101.37581
+    },
+    {
+        "cityId": "6014442",
+        "name": "Lac du Bonnet",
+        "stateId": "6065171",
+        "latitude": 50.25,
+        "longitude": -96.16807
+    },
+    {
+        "cityId": "6062676",
+        "name": "Macdonald",
+        "stateId": "6065171",
+        "latitude": 49.66671,
+        "longitude": -97.50067
+    },
+    {
+        "cityId": "6076808",
+        "name": "Montcalm",
+        "stateId": "6065171",
+        "latitude": 49.16499,
+        "longitude": -97.34008
+    },
+    {
+        "cityId": "6078726",
+        "name": "Morris",
+        "stateId": "6065171",
+        "latitude": 49.4,
+        "longitude": -97.45898
+    },
+    {
+        "cityId": "6079284",
+        "name": "Mossey River",
+        "stateId": "6065171",
+        "latitude": 51.66671,
+        "longitude": -100.00084
+    },
+    {
+        "cityId": "6105291",
+        "name": "Piney",
+        "stateId": "6065171",
+        "latitude": 49.22497,
+        "longitude": -95.91725
+    },
+    {
+        "cityId": "6105529",
+        "name": "Pipestone",
+        "stateId": "6065171",
+        "latitude": 49.67,
+        "longitude": -101.16813
+    },
+    {
+        "cityId": "6111530",
+        "name": "Portage la Prairie",
+        "stateId": "6065171",
+        "latitude": 49.99282,
+        "longitude": -98.26993
+    },
+    {
+        "cityId": "6121677",
+        "name": "Reynolds",
+        "stateId": "6065171",
+        "latitude": 49.70829,
+        "longitude": -95.93384
+    },
+    {
+        "cityId": "6122576",
+        "name": "Ritchot",
+        "stateId": "6065171",
+        "latitude": 49.7042,
+        "longitude": -97.09144
+    },
+    {
+        "cityId": "6126541",
+        "name": "Rockwood",
+        "stateId": "6065171",
+        "latitude": 50.25001,
+        "longitude": -97.33396
+    },
+    {
+        "cityId": "6127181",
+        "name": "Roland",
+        "stateId": "6065171",
+        "latitude": 49.3356,
+        "longitude": -97.91184
+    },
+    {
+        "cityId": "6127585",
+        "name": "Rosedale",
+        "stateId": "6065171",
+        "latitude": 50.32752,
+        "longitude": -99.50522
+    },
+    {
+        "cityId": "6147482",
+        "name": "Sifton",
+        "stateId": "6065171",
+        "latitude": 49.6656,
+        "longitude": -100.6628
+    },
+    {
+        "cityId": "6154185",
+        "name": "Springfield",
+        "stateId": "6065171",
+        "latitude": 49.9167,
+        "longitude": -96.75061
+    },
+    {
+        "cityId": "6155131",
+        "name": "St. Andrews",
+        "stateId": "6065171",
+        "latitude": 50.25001,
+        "longitude": -97.00064
+    },
+    {
+        "cityId": "6155186",
+        "name": "Stanley",
+        "stateId": "6065171",
+        "latitude": 49.1686,
+        "longitude": -98.08656
+    },
+    {
+        "cityId": "6155764",
+        "name": "St. Clements",
+        "stateId": "6065171",
+        "latitude": 50.1642,
+        "longitude": -96.75121
+    },
+    {
+        "cityId": "6155865",
+        "name": "Ste. Anne",
+        "stateId": "6065171",
+        "latitude": 49.58329,
+        "longitude": -96.50059
+    },
+    {
+        "cityId": "6156971",
+        "name": "St. Laurent",
+        "stateId": "6065171",
+        "latitude": 50.33331,
+        "longitude": -97.834
+    },
+    {
+        "cityId": "6158376",
+        "name": "Stuartburn",
+        "stateId": "6065171",
+        "latitude": 49.13327,
+        "longitude": -96.51731
+    },
+    {
+        "cityId": "6165405",
+        "name": "Thompson",
+        "stateId": "6065171",
+        "latitude": 49.3347,
+        "longitude": -98.25136
+    },
+    {
+        "cityId": "6174040",
+        "name": "Victoria",
+        "stateId": "6065171",
+        "latitude": 49.66421,
+        "longitude": -98.89638
+    },
+    {
+        "cityId": "6179507",
+        "name": "West St. Paul",
+        "stateId": "6065171",
+        "latitude": 49.9994,
+        "longitude": -97.16284
+    },
+    {
+        "cityId": "6180469",
+        "name": "Whitehead",
+        "stateId": "6065171",
+        "latitude": 49.77941,
+        "longitude": -100.23479
+    },
+    {
+        "cityId": "6180732",
+        "name": "Whitemouth",
+        "stateId": "6065171",
+        "latitude": 49.97469,
+        "longitude": -95.95745
+    },
+    {
+        "cityId": "6184198",
+        "name": "Woodlands",
+        "stateId": "6065171",
+        "latitude": 50.16671,
+        "longitude": -97.75349
+    },
+    {
+        "cityId": "11153049",
+        "name": "Rural Municipality of Yellowhead",
+        "stateId": "6065171",
+        "latitude": 50.4846,
+        "longitude": -100.48267
+    }
+]

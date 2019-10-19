@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "5885415",
+        "name": "Annapolis County",
+        "stateId": "6091530",
+        "latitude": 44.58345,
+        "longitude": -65.16551
+    },
+    {
+        "cityId": "5886183",
+        "name": "Antigonish County",
+        "stateId": "6091530",
+        "latitude": 45.66685,
+        "longitude": -61.91528
+    },
+    {
+        "cityId": "5915565",
+        "name": "Cape Breton County",
+        "stateId": "6091530",
+        "latitude": 46.00014,
+        "longitude": -60.31516
+    },
+    {
+        "cityId": "5924982",
+        "name": "Colchester",
+        "stateId": "6091530",
+        "latitude": 45.33345,
+        "longitude": -63.24868
+    },
+    {
+        "cityId": "5933880",
+        "name": "Cumberland County",
+        "stateId": "6091530",
+        "latitude": 45.75015,
+        "longitude": -64.16543
+    },
+    {
+        "cityId": "5939237",
+        "name": "Digby County",
+        "stateId": "6091530",
+        "latitude": 44.36685,
+        "longitude": -65.69884
+    },
+    {
+        "cityId": "5968620",
+        "name": "Guysborough County",
+        "stateId": "6091530",
+        "latitude": 45.38345,
+        "longitude": -61.49854
+    },
+    {
+        "cityId": "5969424",
+        "name": "Halifax County",
+        "stateId": "6091530",
+        "latitude": 44.86685,
+        "longitude": -63.71541
+    },
+    {
+        "cityId": "5983629",
+        "name": "Inverness County",
+        "stateId": "6091530",
+        "latitude": 46.33344,
+        "longitude": -61.0818
+    },
+    {
+        "cityId": "5992377",
+        "name": "Kings County",
+        "stateId": "6091530",
+        "latitude": 45.03345,
+        "longitude": -64.66547
+    },
+    {
+        "cityId": "6062070",
+        "name": "Lunenburg County",
+        "stateId": "6091530",
+        "latitude": 44.43345,
+        "longitude": -64.59877
+    },
+    {
+        "cityId": "6104222",
+        "name": "Pictou County",
+        "stateId": "6091530",
+        "latitude": 45.50015,
+        "longitude": -62.58193
+    },
+    {
+        "cityId": "6115099",
+        "name": "Queens County",
+        "stateId": "6091530",
+        "latitude": 44.23346,
+        "longitude": -64.99879
+    },
+    {
+        "cityId": "6122075",
+        "name": "Richmond County",
+        "stateId": "6091530",
+        "latitude": 45.65015,
+        "longitude": -60.76519
+    },
+    {
+        "cityId": "6145888",
+        "name": "Shelburne County",
+        "stateId": "6091530",
+        "latitude": 43.85016,
+        "longitude": -65.28212
+    },
+    {
+        "cityId": "6174034",
+        "name": "Victoria County",
+        "stateId": "6091530",
+        "latitude": 46.50014,
+        "longitude": -60.58177
+    },
+    {
+        "cityId": "6185218",
+        "name": "Yarmouth County",
+        "stateId": "6091530",
+        "latitude": 43.95015,
+        "longitude": -66.03216
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "6458746",
+        "name": "Bezirk Zofingen",
+        "stateId": "2661876",
+        "latitude": 47.28864,
+        "longitude": 7.95697
+    },
+    {
+        "cityId": "6458772",
+        "name": "Bezirk Kulm",
+        "stateId": "2661876",
+        "latitude": 47.28757,
+        "longitude": 8.13302
+    },
+    {
+        "cityId": "6458774",
+        "name": "Bezirk Bremgarten",
+        "stateId": "2661876",
+        "latitude": 47.34927,
+        "longitude": 8.33343
+    },
+    {
+        "cityId": "6458788",
+        "name": "Bezirk Zurzach",
+        "stateId": "2661876",
+        "latitude": 47.56182,
+        "longitude": 8.2802
+    },
+    {
+        "cityId": "6458806",
+        "name": "Bezirk Lenzburg",
+        "stateId": "2661876",
+        "latitude": 47.37184,
+        "longitude": 8.1891
+    },
+    {
+        "cityId": "6458813",
+        "name": "Bezirk Baden",
+        "stateId": "2661876",
+        "latitude": 47.4566,
+        "longitude": 8.30059
+    },
+    {
+        "cityId": "6458826",
+        "name": "Bezirk Brugg",
+        "stateId": "2661876",
+        "latitude": 47.47776,
+        "longitude": 8.17798
+    },
+    {
+        "cityId": "6458846",
+        "name": "Bezirk Aarau",
+        "stateId": "2661876",
+        "latitude": 47.37706,
+        "longitude": 8.05235
+    },
+    {
+        "cityId": "6458853",
+        "name": "Bezirk Rheinfelden",
+        "stateId": "2661876",
+        "latitude": 47.54048,
+        "longitude": 7.83331
+    },
+    {
+        "cityId": "6458860",
+        "name": "Bezirk Laufenburg",
+        "stateId": "2661876",
+        "latitude": 47.51844,
+        "longitude": 8.03878
+    },
+    {
+        "cityId": "6458902",
+        "name": "Bezirk Muri",
+        "stateId": "2661876",
+        "latitude": 47.25233,
+        "longitude": 8.35362
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2473418",
+        "name": "Oueslatia",
+        "stateId": "2473451",
+        "latitude": 35.90654,
+        "longitude": 9.67382
+    },
+    {
+        "cityId": "2473450",
+        "name": "Kairouan Sud",
+        "stateId": "2473451",
+        "latitude": 35.5964,
+        "longitude": 10.11265
+    },
+    {
+        "cityId": "11106862",
+        "name": "El Ala",
+        "stateId": "2473451",
+        "latitude": 35.65213,
+        "longitude": 9.45496
+    },
+    {
+        "cityId": "11106863",
+        "name": "Kairouan Nord",
+        "stateId": "2473451",
+        "latitude": 35.75186,
+        "longitude": 10.09236
+    },
+    {
+        "cityId": "11106864",
+        "name": "Cherarda",
+        "stateId": "2473451",
+        "latitude": 35.15046,
+        "longitude": 10.07085
+    },
+    {
+        "cityId": "11106865",
+        "name": "Chebika",
+        "stateId": "2473451",
+        "latitude": 35.64991,
+        "longitude": 9.90904
+    }
+]

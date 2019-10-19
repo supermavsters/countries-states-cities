@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352471",
+        "name": "Ape",
+        "stateId": "7628384",
+        "latitude": 57.53949,
+        "longitude": 26.70201
+    },
+    {
+        "cityId": "11352473",
+        "name": "Apes pagasts",
+        "stateId": "7628384",
+        "latitude": 57.52316,
+        "longitude": 26.72352
+    },
+    {
+        "cityId": "11352474",
+        "name": "Gaujienas pagasts",
+        "stateId": "7628384",
+        "latitude": 57.51358,
+        "longitude": 26.4223
+    },
+    {
+        "cityId": "11352475",
+        "name": "Trapenes pagasts",
+        "stateId": "7628384",
+        "latitude": 57.45086,
+        "longitude": 26.59088
+    },
+    {
+        "cityId": "11352476",
+        "name": "Vire\u0161u pagasts",
+        "stateId": "7628384",
+        "latitude": 57.39652,
+        "longitude": 26.37516
+    }
+]

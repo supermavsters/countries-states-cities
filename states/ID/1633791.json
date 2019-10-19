@@ -1,0 +1,156 @@
+[
+    {
+        "cityId": "1623839",
+        "name": "Kabupaten Timor Tengah Utara",
+        "stateId": "1633791",
+        "latitude": -9.33136,
+        "longitude": 124.51904
+    },
+    {
+        "cityId": "1623840",
+        "name": "Kabupaten Timor Tengah Selatan",
+        "stateId": "1633791",
+        "latitude": -9.83333,
+        "longitude": 124.4
+    },
+    {
+        "cityId": "1626190",
+        "name": "Kabupaten Sumba Timur",
+        "stateId": "1633791",
+        "latitude": -9.88333,
+        "longitude": 120.25
+    },
+    {
+        "cityId": "1626193",
+        "name": "Kabupaten Sumba Barat",
+        "stateId": "1633791",
+        "latitude": -9.56667,
+        "longitude": 119.45
+    },
+    {
+        "cityId": "1627182",
+        "name": "Kabupaten Sikka",
+        "stateId": "1633791",
+        "latitude": -8.66667,
+        "longitude": 122.36667
+    },
+    {
+        "cityId": "1634193",
+        "name": "Kabupaten Ngada",
+        "stateId": "1633791",
+        "latitude": -8.66667,
+        "longitude": 121
+    },
+    {
+        "cityId": "1636422",
+        "name": "Kabupaten Manggarai",
+        "stateId": "1633791",
+        "latitude": -8.56667,
+        "longitude": 120.41667
+    },
+    {
+        "cityId": "1644743",
+        "name": "Kabupaten Flores Timur",
+        "stateId": "1633791",
+        "latitude": -8.24224,
+        "longitude": 122.96817
+    },
+    {
+        "cityId": "1649264",
+        "name": "Kabupaten Belu",
+        "stateId": "1633791",
+        "latitude": -9.41258,
+        "longitude": 124.95066
+    },
+    {
+        "cityId": "1651608",
+        "name": "Kabupaten Alor",
+        "stateId": "1633791",
+        "latitude": -8.3,
+        "longitude": 124.56667
+    },
+    {
+        "cityId": "2057084",
+        "name": "Kota Kupang",
+        "stateId": "1633791",
+        "latitude": -10.21667,
+        "longitude": 123.6
+    },
+    {
+        "cityId": "2057086",
+        "name": "Kabupaten Kupang",
+        "stateId": "1633791",
+        "latitude": -9.91667,
+        "longitude": 123.83333
+    },
+    {
+        "cityId": "9165593",
+        "name": "Kabupaten Lembata",
+        "stateId": "1633791",
+        "latitude": -8.41396,
+        "longitude": 123.55225
+    },
+    {
+        "cityId": "9165681",
+        "name": "Kabupaten Manggarai Barat",
+        "stateId": "1633791",
+        "latitude": -8.64484,
+        "longitude": 119.88281
+    },
+    {
+        "cityId": "9165782",
+        "name": "Kabupaten Rote Ndao",
+        "stateId": "1633791",
+        "latitude": -10.73617,
+        "longitude": 123.12054
+    },
+    {
+        "cityId": "9165840",
+        "name": "Kabupaten Ende",
+        "stateId": "1633791",
+        "latitude": -8.84056,
+        "longitude": 121.66389
+    },
+    {
+        "cityId": "9828927",
+        "name": "Kabupaten Manggarai Timur",
+        "stateId": "1633791",
+        "latitude": -8.55533,
+        "longitude": 120.59761
+    },
+    {
+        "cityId": "9828965",
+        "name": "Kabupaten Nagekeo",
+        "stateId": "1633791",
+        "latitude": -8.8721,
+        "longitude": 121.20963
+    },
+    {
+        "cityId": "9844902",
+        "name": "Kabupaten Sabu Raijua",
+        "stateId": "1633791",
+        "latitude": -10.56286,
+        "longitude": 121.78894
+    },
+    {
+        "cityId": "9845472",
+        "name": "Kabupaten Sumba Barat Daya",
+        "stateId": "1633791",
+        "latitude": -9.56216,
+        "longitude": 119.08905
+    },
+    {
+        "cityId": "9845473",
+        "name": "Kabupaten Sumba Tengah",
+        "stateId": "1633791",
+        "latitude": -9.62941,
+        "longitude": 119.61914
+    },
+    {
+        "cityId": "9846667",
+        "name": "Kabupaten Malaka",
+        "stateId": "1633791",
+        "latitude": -9.5632,
+        "longitude": 124.89481
+    }
+]

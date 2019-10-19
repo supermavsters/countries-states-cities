@@ -1,0 +1,79 @@
+[
+    {
+        "stateId": "8394434",
+        "name": "Al Batinah North Governorate",
+        "countryId": "286963",
+        "latitude": 24,
+        "longitude": 56.75
+    },
+    {
+        "stateId": "411736",
+        "name": "Al Batinah South Governorate",
+        "countryId": "286963",
+        "latitude": 23.45,
+        "longitude": 57.7
+    },
+    {
+        "stateId": "411738",
+        "name": "Ash Sharqiyah South",
+        "countryId": "286963",
+        "latitude": 21.65,
+        "longitude": 59.1
+    },
+    {
+        "stateId": "411739",
+        "name": "Az\u0327 Z\u0327\u0101hirah",
+        "countryId": "286963",
+        "latitude": 22.9,
+        "longitude": 55.95
+    },
+    {
+        "stateId": "411741",
+        "name": "Musandam",
+        "countryId": "286963",
+        "latitude": 26.03333,
+        "longitude": 56.3
+    },
+    {
+        "stateId": "411740",
+        "name": "Mu\u1e29\u0101faz\u0327at Masqa\u0163",
+        "countryId": "286963",
+        "latitude": 23.5835,
+        "longitude": 58.40366
+    },
+    {
+        "stateId": "8394433",
+        "name": "Mu\u1e29\u0101faz\u0327at Sham\u0101l ash Sharq\u012byah",
+        "countryId": "286963",
+        "latitude": 22.1,
+        "longitude": 58.43333
+    },
+    {
+        "stateId": "411742",
+        "name": "Mu\u1e29\u0101faz\u0327at Z\u0327uf\u0101r",
+        "countryId": "286963",
+        "latitude": 18.48333,
+        "longitude": 54.18333
+    },
+    {
+        "stateId": "411735",
+        "name": "Mu\u1e29\u0101faz\u0327at ad D\u0101khil\u012byah",
+        "countryId": "286963",
+        "latitude": 22.5,
+        "longitude": 57.33333
+    },
+    {
+        "stateId": "7110710",
+        "name": "Mu\u1e29\u0101faz\u0327at al Buraym\u012b",
+        "countryId": "286963",
+        "latitude": 24.21667,
+        "longitude": 56.11667
+    },
+    {
+        "stateId": "411737",
+        "name": "Mu\u1e29\u0101faz\u0327at al Wus\u0163\u00e1",
+        "countryId": "286963",
+        "latitude": 20.16667,
+        "longitude": 56.61667
+    }
+]

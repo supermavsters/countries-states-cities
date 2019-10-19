@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "11352804",
+        "name": "Raiskuma pagasts",
+        "stateId": "7628373",
+        "latitude": 57.35669,
+        "longitude": 25.18405
+    },
+    {
+        "cityId": "11352807",
+        "name": "Stalbes pagasts",
+        "stateId": "7628373",
+        "latitude": 57.42134,
+        "longitude": 25.03658
+    },
+    {
+        "cityId": "11352808",
+        "name": "Straupes pagasts",
+        "stateId": "7628373",
+        "latitude": 57.32696,
+        "longitude": 24.9626
+    }
+]

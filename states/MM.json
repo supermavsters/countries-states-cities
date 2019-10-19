@@ -1,0 +1,107 @@
+[
+    {
+        "stateId": "1321850",
+        "name": "Ayeyawady Region",
+        "countryId": "1327865",
+        "latitude": 17,
+        "longitude": 95
+    },
+    {
+        "stateId": "1300463",
+        "name": "Bago Region",
+        "countryId": "1327865",
+        "latitude": 18.25,
+        "longitude": 96.25
+    },
+    {
+        "stateId": "1327132",
+        "name": "Chin State",
+        "countryId": "1327865",
+        "latitude": 22,
+        "longitude": 93.5
+    },
+    {
+        "stateId": "1321702",
+        "name": "Kachin State",
+        "countryId": "1327865",
+        "latitude": 26,
+        "longitude": 97.5
+    },
+    {
+        "stateId": "1319539",
+        "name": "Kayah State",
+        "countryId": "1327865",
+        "latitude": 19.25,
+        "longitude": 97.5
+    },
+    {
+        "stateId": "1320233",
+        "name": "Kayin State",
+        "countryId": "1327865",
+        "latitude": 17.5,
+        "longitude": 97.75
+    },
+    {
+        "stateId": "1312604",
+        "name": "Magway Region",
+        "countryId": "1327865",
+        "latitude": 20.5,
+        "longitude": 94.75
+    },
+    {
+        "stateId": "1311871",
+        "name": "Mandalay Region",
+        "countryId": "1327865",
+        "latitude": 21,
+        "longitude": 96
+    },
+    {
+        "stateId": "1308528",
+        "name": "Mon State",
+        "countryId": "1327865",
+        "latitude": 16.25,
+        "longitude": 97.75
+    },
+    {
+        "stateId": "8239588",
+        "name": "Nay Pyi Taw",
+        "countryId": "1327865",
+        "latitude": 19.8822,
+        "longitude": 96.14182
+    },
+    {
+        "stateId": "1298852",
+        "name": "Rakhine State",
+        "countryId": "1327865",
+        "latitude": 19,
+        "longitude": 94.25
+    },
+    {
+        "stateId": "1298480",
+        "name": "Sagaing Region",
+        "countryId": "1327865",
+        "latitude": 23.5,
+        "longitude": 95.5
+    },
+    {
+        "stateId": "1297099",
+        "name": "Shan State",
+        "countryId": "1327865",
+        "latitude": 22,
+        "longitude": 98
+    },
+    {
+        "stateId": "1293118",
+        "name": "Taninthayi Region",
+        "countryId": "1327865",
+        "latitude": 13,
+        "longitude": 99
+    },
+    {
+        "stateId": "1298822",
+        "name": "Yangon Region",
+        "countryId": "1327865",
+        "latitude": 17,
+        "longitude": 96.16667
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "3413282",
+        "name": "Skorradalshreppur",
+        "stateId": "3426184",
+        "latitude": 64.51667,
+        "longitude": -21.5
+    },
+    {
+        "cityId": "3416471",
+        "name": "Helgafellssveit",
+        "stateId": "3426184",
+        "latitude": 64.99069,
+        "longitude": -22.78948
+    },
+    {
+        "cityId": "3417538",
+        "name": "Eyja- og Miklaholtshreppur",
+        "stateId": "3426184",
+        "latitude": 64.85846,
+        "longitude": -22.54557
+    },
+    {
+        "cityId": "3418080",
+        "name": "Borgarbygg\u00f0",
+        "stateId": "3426184",
+        "latitude": 64.71446,
+        "longitude": -21.23788
+    },
+    {
+        "cityId": "3418655",
+        "name": "Akraneskaupsta\u00f0ur",
+        "stateId": "3426184",
+        "latitude": 64.3241,
+        "longitude": -22.04373
+    },
+    {
+        "cityId": "3426206",
+        "name": "Dalabygg\u00f0",
+        "stateId": "3426184",
+        "latitude": 65.10121,
+        "longitude": -21.72871
+    },
+    {
+        "cityId": "3426207",
+        "name": "Grundarfjar\u00f0arb\u00e6r",
+        "stateId": "3426184",
+        "latitude": 64.92164,
+        "longitude": -23.19501
+    },
+    {
+        "cityId": "3426209",
+        "name": "Sn\u00e6fellsb\u00e6r",
+        "stateId": "3426184",
+        "latitude": 64.86667,
+        "longitude": -23.5
+    },
+    {
+        "cityId": "9192471",
+        "name": "Hvalfjar\u00f0arsveit",
+        "stateId": "3426184",
+        "latitude": 64.44265,
+        "longitude": -21.61086
+    },
+    {
+        "cityId": "9192872",
+        "name": "Stykkish\u00f3lmsb\u00e6r",
+        "stateId": "3426184",
+        "latitude": 65.05368,
+        "longitude": -22.77178
+    }
+]

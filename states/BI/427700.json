@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7670593",
+        "name": "Cendajuru",
+        "stateId": "427700",
+        "latitude": -3.3083,
+        "longitude": 30.60401
+    },
+    {
+        "cityId": "9072894",
+        "name": "Commune of Cankuzo",
+        "stateId": "427700",
+        "latitude": -3.21944,
+        "longitude": 30.55278
+    },
+    {
+        "cityId": "9171816",
+        "name": "Mishiha",
+        "stateId": "427700",
+        "latitude": -3.06755,
+        "longitude": 30.7268
+    },
+    {
+        "cityId": "9171834",
+        "name": "Kigamba",
+        "stateId": "427700",
+        "latitude": -3.04278,
+        "longitude": 30.53185
+    },
+    {
+        "cityId": "9171837",
+        "name": "Gisagara",
+        "stateId": "427700",
+        "latitude": -3.21312,
+        "longitude": 30.7371
+    }
+]

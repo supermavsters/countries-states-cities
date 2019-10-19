@@ -1,0 +1,233 @@
+[
+    {
+        "cityId": "2744910",
+        "name": "Gemeente Weert",
+        "stateId": "2751596",
+        "latitude": 51.23418,
+        "longitude": 5.69067
+    },
+    {
+        "cityId": "2745368",
+        "name": "Gemeente Voerendaal",
+        "stateId": "2751596",
+        "latitude": 50.87117,
+        "longitude": 5.91495
+    },
+    {
+        "cityId": "2745633",
+        "name": "Gemeente Venray",
+        "stateId": "2751596",
+        "latitude": 51.51412,
+        "longitude": 5.95927
+    },
+    {
+        "cityId": "2745640",
+        "name": "Gemeente Venlo",
+        "stateId": "2751596",
+        "latitude": 51.39277,
+        "longitude": 6.16041
+    },
+    {
+        "cityId": "2745904",
+        "name": "Gemeente Vaals",
+        "stateId": "2751596",
+        "latitude": 50.77848,
+        "longitude": 5.97674
+    },
+    {
+        "cityId": "2746746",
+        "name": "Gemeente Stein",
+        "stateId": "2751596",
+        "latitude": 50.97358,
+        "longitude": 5.76126
+    },
+    {
+        "cityId": "2747311",
+        "name": "Gemeente Simpelveld",
+        "stateId": "2751596",
+        "latitude": 50.82901,
+        "longitude": 5.9841
+    },
+    {
+        "cityId": "2747552",
+        "name": "Gemeente Schinnen",
+        "stateId": "2751596",
+        "latitude": 50.95072,
+        "longitude": 5.88771
+    },
+    {
+        "cityId": "2747999",
+        "name": "Gemeente Roermond",
+        "stateId": "2751596",
+        "latitude": 51.19999,
+        "longitude": 6.009
+    },
+    {
+        "cityId": "2749752",
+        "name": "Gemeente Nuth",
+        "stateId": "2751596",
+        "latitude": 50.90702,
+        "longitude": 5.86155
+    },
+    {
+        "cityId": "2750466",
+        "name": "Gemeente Nederweert",
+        "stateId": "2751596",
+        "latitude": 51.28813,
+        "longitude": 5.77157
+    },
+    {
+        "cityId": "2750620",
+        "name": "Gemeente Mook en Middelaar",
+        "stateId": "2751596",
+        "latitude": 51.74777,
+        "longitude": 5.902
+    },
+    {
+        "cityId": "2751036",
+        "name": "Gemeente Meerssen",
+        "stateId": "2751596",
+        "latitude": 50.89518,
+        "longitude": 5.75711
+    },
+    {
+        "cityId": "2751282",
+        "name": "Gemeente Maastricht",
+        "stateId": "2751596",
+        "latitude": 50.85,
+        "longitude": 5.7
+    },
+    {
+        "cityId": "2752922",
+        "name": "Gemeente Kerkrade",
+        "stateId": "2751596",
+        "latitude": 50.87337,
+        "longitude": 6.04876
+    },
+    {
+        "cityId": "2754651",
+        "name": "Gemeente Heerlen",
+        "stateId": "2751596",
+        "latitude": 50.88777,
+        "longitude": 5.97407
+    },
+    {
+        "cityId": "2755583",
+        "name": "Gemeente Gennep",
+        "stateId": "2751596",
+        "latitude": 51.70063,
+        "longitude": 5.98447
+    },
+    {
+        "cityId": "2756443",
+        "name": "Gemeente Echt-Susteren",
+        "stateId": "2751596",
+        "latitude": 51.1,
+        "longitude": 5.86667
+    },
+    {
+        "cityId": "2758173",
+        "name": "Gemeente Brunssum",
+        "stateId": "2751596",
+        "latitude": 50.94451,
+        "longitude": 5.97618
+    },
+    {
+        "cityId": "2759152",
+        "name": "Gemeente Bergen",
+        "stateId": "2751596",
+        "latitude": 51.57717,
+        "longitude": 6.09014
+    },
+    {
+        "cityId": "2759285",
+        "name": "Gemeente Beesel",
+        "stateId": "2751596",
+        "latitude": 51.27016,
+        "longitude": 6.06771
+    },
+    {
+        "cityId": "2759343",
+        "name": "Gemeente Beek",
+        "stateId": "2751596",
+        "latitude": 50.93237,
+        "longitude": 5.80587
+    },
+    {
+        "cityId": "6544225",
+        "name": "Gulpen-Wittem",
+        "stateId": "2751596",
+        "latitude": 50.81374,
+        "longitude": 5.89296
+    },
+    {
+        "cityId": "6544226",
+        "name": "Gemeente Leudal",
+        "stateId": "2751596",
+        "latitude": 51.24371,
+        "longitude": 5.89815
+    },
+    {
+        "cityId": "6544233",
+        "name": "Gemeente Horst aan de Maas",
+        "stateId": "2751596",
+        "latitude": 51.45931,
+        "longitude": 6.10254
+    },
+    {
+        "cityId": "6544244",
+        "name": "Gemeente Maasgouw",
+        "stateId": "2751596",
+        "latitude": 51.15426,
+        "longitude": 5.87712
+    },
+    {
+        "cityId": "6544255",
+        "name": "Gemeente Sittard-Geleen",
+        "stateId": "2751596",
+        "latitude": 51.01074,
+        "longitude": 5.82288
+    },
+    {
+        "cityId": "6544258",
+        "name": "Landgraaf",
+        "stateId": "2751596",
+        "latitude": 50.91333,
+        "longitude": 6.05722
+    },
+    {
+        "cityId": "6544264",
+        "name": "Gemeente Roerdalen",
+        "stateId": "2751596",
+        "latitude": 51.13492,
+        "longitude": 6.03542
+    },
+    {
+        "cityId": "6544298",
+        "name": "Gemeente Onderbanken",
+        "stateId": "2751596",
+        "latitude": 50.97031,
+        "longitude": 5.95781
+    },
+    {
+        "cityId": "6544299",
+        "name": "Valkenburg aan de Geul",
+        "stateId": "2751596",
+        "latitude": 50.85711,
+        "longitude": 5.83489
+    },
+    {
+        "cityId": "7535502",
+        "name": "Gemeente Peel en Maas",
+        "stateId": "2751596",
+        "latitude": 51.32353,
+        "longitude": 5.97261
+    },
+    {
+        "cityId": "8260046",
+        "name": "Eijsden-Margraten",
+        "stateId": "2751596",
+        "latitude": 50.8009,
+        "longitude": 5.77408
+    }
+]

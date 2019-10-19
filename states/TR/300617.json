@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "7732989",
+        "name": "Merkez",
+        "stateId": "300617",
+        "latitude": 39.71613,
+        "longitude": 36.97695
+    },
+    {
+        "cityId": "7732990",
+        "name": "Zara",
+        "stateId": "300617",
+        "latitude": 39.82406,
+        "longitude": 37.77499
+    },
+    {
+        "cityId": "8631649",
+        "name": "G\u00fcr\u00fcn \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 38.73288,
+        "longitude": 37.27516
+    },
+    {
+        "cityId": "8631651",
+        "name": "Su\u015fehri \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 40.16338,
+        "longitude": 38.08926
+    },
+    {
+        "cityId": "8631652",
+        "name": "Koyulhisar \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 40.30113,
+        "longitude": 37.83311
+    },
+    {
+        "cityId": "8631653",
+        "name": "Do\u011fan\u015far \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 40.21408,
+        "longitude": 37.53599
+    },
+    {
+        "cityId": "8631654",
+        "name": "Alt\u0131nyayla \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.28233,
+        "longitude": 36.75681
+    },
+    {
+        "cityId": "8631656",
+        "name": "\u015eark\u0131\u015fla \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.36171,
+        "longitude": 36.41827
+    },
+    {
+        "cityId": "8631657",
+        "name": "Gemerek \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.19397,
+        "longitude": 36.07783
+    },
+    {
+        "cityId": "8631658",
+        "name": "Y\u0131ld\u0131zeli \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.87601,
+        "longitude": 36.60652
+    },
+    {
+        "cityId": "8631659",
+        "name": "G\u00f6lova \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 40.0607,
+        "longitude": 38.6084
+    },
+    {
+        "cityId": "8631660",
+        "name": "Ak\u0131nc\u0131lar \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 40.07866,
+        "longitude": 38.34618
+    },
+    {
+        "cityId": "8631661",
+        "name": "\u0130mranl\u0131 \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.88524,
+        "longitude": 38.12015
+    },
+    {
+        "cityId": "8631662",
+        "name": "Kangal \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.24324,
+        "longitude": 37.39731
+    },
+    {
+        "cityId": "8631663",
+        "name": "Divri\u011fi \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.37924,
+        "longitude": 38.12144
+    },
+    {
+        "cityId": "8631664",
+        "name": "Ula\u015f \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.45456,
+        "longitude": 37.04541
+    },
+    {
+        "cityId": "8631665",
+        "name": "Hafik \u0130l\u00e7esi",
+        "stateId": "300617",
+        "latitude": 39.86693,
+        "longitude": 37.3972
+    }
+]

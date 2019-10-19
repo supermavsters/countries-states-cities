@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1150079",
+        "name": "Amphoe Thung Wa",
+        "stateId": "1606375",
+        "latitude": 7.04915,
+        "longitude": 99.76587
+    },
+    {
+        "cityId": "1152425",
+        "name": "Amphoe La-Ngu",
+        "stateId": "1606375",
+        "latitude": 6.90392,
+        "longitude": 99.79836
+    },
+    {
+        "cityId": "6965199",
+        "name": "Amphoe Mueang Satun",
+        "stateId": "1606375",
+        "latitude": 6.62314,
+        "longitude": 100.06681
+    },
+    {
+        "cityId": "7466921",
+        "name": "Amphoe Khuan Don",
+        "stateId": "1606375",
+        "latitude": 6.76978,
+        "longitude": 100.12216
+    },
+    {
+        "cityId": "7466923",
+        "name": "Amphoe Khuan Kalong",
+        "stateId": "1606375",
+        "latitude": 6.90593,
+        "longitude": 100.04178
+    },
+    {
+        "cityId": "7510638",
+        "name": "Amphoe Tha Phae",
+        "stateId": "1606375",
+        "latitude": 6.79542,
+        "longitude": 99.91985
+    },
+    {
+        "cityId": "7510639",
+        "name": "Amphoe Manang",
+        "stateId": "1606375",
+        "latitude": 7.01822,
+        "longitude": 99.95399
+    }
+]

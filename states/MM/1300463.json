@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1290595",
+        "name": "Taungoo District",
+        "stateId": "1300463",
+        "latitude": 18.62987,
+        "longitude": 96.4164
+    },
+    {
+        "cityId": "1292312",
+        "name": "Thayarwady District",
+        "stateId": "1300463",
+        "latitude": 18,
+        "longitude": 95.5
+    },
+    {
+        "cityId": "1299531",
+        "name": "Pyay District",
+        "stateId": "1300463",
+        "latitude": 18.69254,
+        "longitude": 95.37032
+    },
+    {
+        "cityId": "1325361",
+        "name": "Bago District",
+        "stateId": "1300463",
+        "latitude": 17.31918,
+        "longitude": 96.5506
+    }
+]

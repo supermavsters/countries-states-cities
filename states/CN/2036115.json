@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "1814068",
+        "name": "Dalian Shi",
+        "stateId": "2036115",
+        "latitude": 39.74028,
+        "longitude": 122.25583
+    },
+    {
+        "cityId": "2033369",
+        "name": "Yingkou",
+        "stateId": "2036115",
+        "latitude": 40.63897,
+        "longitude": 122.24762
+    },
+    {
+        "cityId": "2034437",
+        "name": "Tieling Shi",
+        "stateId": "2036115",
+        "latitude": 42.62583,
+        "longitude": 124.32361
+    },
+    {
+        "cityId": "2034935",
+        "name": "Shenyang Shi",
+        "stateId": "2036115",
+        "latitude": 42.18222,
+        "longitude": 123.13694
+    },
+    {
+        "cityId": "2035516",
+        "name": "Panjin Shi",
+        "stateId": "2036115",
+        "latitude": 41.13167,
+        "longitude": 121.99361
+    },
+    {
+        "cityId": "2036112",
+        "name": "Liaoyang Shi",
+        "stateId": "2036115",
+        "latitude": 41.24806,
+        "longitude": 123.33
+    },
+    {
+        "cityId": "2036425",
+        "name": "Jinzhou Shi",
+        "stateId": "2036115",
+        "latitude": 41.49444,
+        "longitude": 121.61528
+    },
+    {
+        "cityId": "2036430",
+        "name": "Huludao Shi",
+        "stateId": "2036115",
+        "latitude": 40.74528,
+        "longitude": 120.21972
+    },
+    {
+        "cityId": "2037337",
+        "name": "Fuxin Shi",
+        "stateId": "2036115",
+        "latitude": 42.33028,
+        "longitude": 122.01528
+    },
+    {
+        "cityId": "2037353",
+        "name": "Fushun Shi",
+        "stateId": "2036115",
+        "latitude": 41.80194,
+        "longitude": 124.74528
+    },
+    {
+        "cityId": "2037885",
+        "name": "Dandong Shi",
+        "stateId": "2036115",
+        "latitude": 40.59361,
+        "longitude": 124.38667
+    },
+    {
+        "cityId": "2038101",
+        "name": "Chaoyang Shi",
+        "stateId": "2036115",
+        "latitude": 41.57,
+        "longitude": 120.45
+    },
+    {
+        "cityId": "2038299",
+        "name": "Benxi Shi",
+        "stateId": "2036115",
+        "latitude": 41.17694,
+        "longitude": 124.65667
+    },
+    {
+        "cityId": "2038630",
+        "name": "Anshan Shi",
+        "stateId": "2036115",
+        "latitude": 40.82222,
+        "longitude": 122.8275
+    }
+]

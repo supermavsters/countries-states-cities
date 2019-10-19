@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3061343",
+        "name": "Okres Znojmo",
+        "stateId": "3339536",
+        "latitude": 48.862,
+        "longitude": 16.0627
+    },
+    {
+        "cityId": "3062280",
+        "name": "Okres Vy\u0161kov",
+        "stateId": "3339536",
+        "latitude": 49.27844,
+        "longitude": 16.99362
+    },
+    {
+        "cityId": "3075651",
+        "name": "Okres Hodon\u00edn",
+        "stateId": "3339536",
+        "latitude": 48.86471,
+        "longitude": 17.13284
+    },
+    {
+        "cityId": "3078607",
+        "name": "Okres Brno-Venkov",
+        "stateId": "3339536",
+        "latitude": 49.16667,
+        "longitude": 16.5
+    },
+    {
+        "cityId": "3078609",
+        "name": "M\u011bsto Brno",
+        "stateId": "3339536",
+        "latitude": 49.19954,
+        "longitude": 16.60755
+    },
+    {
+        "cityId": "3078772",
+        "name": "Okres B\u0159eclav",
+        "stateId": "3339536",
+        "latitude": 48.75958,
+        "longitude": 16.8726
+    },
+    {
+        "cityId": "3079270",
+        "name": "Okres Blansko",
+        "stateId": "3339536",
+        "latitude": 49.37399,
+        "longitude": 16.6436
+    }
+]

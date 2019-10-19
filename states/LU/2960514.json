@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2960516",
+        "name": "Grevenmacher",
+        "stateId": "2960514",
+        "latitude": 49.67459,
+        "longitude": 6.41269
+    },
+    {
+        "cityId": "6693341",
+        "name": "Betzdorf",
+        "stateId": "2960514",
+        "latitude": 49.68333,
+        "longitude": 6.35
+    },
+    {
+        "cityId": "6693342",
+        "name": "Biwer",
+        "stateId": "2960514",
+        "latitude": 49.70278,
+        "longitude": 6.37472
+    },
+    {
+        "cityId": "6693343",
+        "name": "Flaxweiler",
+        "stateId": "2960514",
+        "latitude": 49.66167,
+        "longitude": 6.34361
+    },
+    {
+        "cityId": "6693344",
+        "name": "Junglinster",
+        "stateId": "2960514",
+        "latitude": 49.70722,
+        "longitude": 6.25306
+    },
+    {
+        "cityId": "6693345",
+        "name": "Manternach",
+        "stateId": "2960514",
+        "latitude": 49.70278,
+        "longitude": 6.42639
+    },
+    {
+        "cityId": "6693346",
+        "name": "Mertert",
+        "stateId": "2960514",
+        "latitude": 49.701,
+        "longitude": 6.48043
+    },
+    {
+        "cityId": "6693347",
+        "name": "Wormeldange",
+        "stateId": "2960514",
+        "latitude": 49.61199,
+        "longitude": 6.40531
+    }
+]

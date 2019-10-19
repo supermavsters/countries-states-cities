@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "1628775",
+        "name": "Kabupaten Kepulauan Sangihe",
+        "stateId": "1626229",
+        "latitude": 3.5,
+        "longitude": 125.55
+    },
+    {
+        "cityId": "1636543",
+        "name": "Kota Manado",
+        "stateId": "1626229",
+        "latitude": 1.51667,
+        "longitude": 124.88333
+    },
+    {
+        "cityId": "1648339",
+        "name": "Kabupaten Bolaang Mongondow",
+        "stateId": "1626229",
+        "latitude": 0.75,
+        "longitude": 124.08333
+    },
+    {
+        "cityId": "1648633",
+        "name": "Kota Bitung",
+        "stateId": "1626229",
+        "latitude": 1.48333,
+        "longitude": 125.15
+    },
+    {
+        "cityId": "6698251",
+        "name": "Kabupaten Minahasa Selatan",
+        "stateId": "1626229",
+        "latitude": 1.21291,
+        "longitude": 124.59708
+    },
+    {
+        "cityId": "6755517",
+        "name": "Kabupaten Minahasa",
+        "stateId": "1626229",
+        "latitude": 1.2537,
+        "longitude": 124.83
+    },
+    {
+        "cityId": "9165868",
+        "name": "Kabupaten Minahasa Utara",
+        "stateId": "1626229",
+        "latitude": 1.4025,
+        "longitude": 124.96
+    },
+    {
+        "cityId": "9821949",
+        "name": "Kabupaten Bolaang Mongondow Selatan",
+        "stateId": "1626229",
+        "latitude": 0.40912,
+        "longitude": 123.75961
+    },
+    {
+        "cityId": "9821950",
+        "name": "Kabupaten Bolaang Mongondow Timur",
+        "stateId": "1626229",
+        "latitude": 0.72073,
+        "longitude": 124.50256
+    },
+    {
+        "cityId": "9821951",
+        "name": "Kabupaten Bolaang Mongondow Utara",
+        "stateId": "1626229",
+        "latitude": 0.78527,
+        "longitude": 123.41766
+    },
+    {
+        "cityId": "9828034",
+        "name": "Kabupaten Kepulauan Talaud",
+        "stateId": "1626229",
+        "latitude": 4.31178,
+        "longitude": 126.78085
+    },
+    {
+        "cityId": "9828036",
+        "name": "Kota Kotamobagu",
+        "stateId": "1626229",
+        "latitude": 0.68915,
+        "longitude": 124.32678
+    },
+    {
+        "cityId": "9828962",
+        "name": "Kabupaten Minahasa Tenggara",
+        "stateId": "1626229",
+        "latitude": 1.05633,
+        "longitude": 124.7925
+    },
+    {
+        "cityId": "9846655",
+        "name": "Kota Tomohon",
+        "stateId": "1626229",
+        "latitude": 1.31307,
+        "longitude": 124.83404
+    },
+    {
+        "cityId": "9846670",
+        "name": "Kabupaten Siau Tagulandang Biaro",
+        "stateId": "1626229",
+        "latitude": 2.11728,
+        "longitude": 125.37512
+    }
+]

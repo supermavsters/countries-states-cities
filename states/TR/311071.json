@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "8632170",
+        "name": "Yeni\u015farbademli \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.71936,
+        "longitude": 31.37182
+    },
+    {
+        "cityId": "8632171",
+        "name": "\u015eark\u00eekaraa\u011fa\u00e7 \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 38.09023,
+        "longitude": 31.37696
+    },
+    {
+        "cityId": "8632172",
+        "name": "S\u00fct\u00e7\u00fcler \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.5112,
+        "longitude": 30.95661
+    },
+    {
+        "cityId": "8632173",
+        "name": "Aksu \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.80973,
+        "longitude": 31.08441
+    },
+    {
+        "cityId": "8632175",
+        "name": "Ke\u00e7iborlu \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.9528,
+        "longitude": 30.29164
+    },
+    {
+        "cityId": "8632176",
+        "name": "Uluborlu \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 38.08856,
+        "longitude": 30.45698
+    },
+    {
+        "cityId": "8632178",
+        "name": "Senirkent \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 38.11409,
+        "longitude": 30.5547
+    },
+    {
+        "cityId": "8632179",
+        "name": "G\u00f6nen \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.96632,
+        "longitude": 30.52367
+    },
+    {
+        "cityId": "8632180",
+        "name": "E\u011firdir \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.88511,
+        "longitude": 30.81863
+    },
+    {
+        "cityId": "8632181",
+        "name": "Atabey \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 37.96125,
+        "longitude": 30.64521
+    },
+    {
+        "cityId": "8632182",
+        "name": "Gelendost \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 38.13199,
+        "longitude": 31.0241
+    },
+    {
+        "cityId": "8632184",
+        "name": "Yalva\u00e7 \u0130l\u00e7esi",
+        "stateId": "311071",
+        "latitude": 38.30578,
+        "longitude": 31.19042
+    }
+]

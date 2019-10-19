@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8618034",
+        "name": "Ossu",
+        "stateId": "1622470",
+        "latitude": -8.73477,
+        "longitude": 126.38324
+    },
+    {
+        "cityId": "8628957",
+        "name": "Lacluta",
+        "stateId": "1622470",
+        "latitude": -8.8,
+        "longitude": 126.13333
+    },
+    {
+        "cityId": "8629271",
+        "name": "Viqueque",
+        "stateId": "1622470",
+        "latitude": -8.85908,
+        "longitude": 126.36972
+    },
+    {
+        "cityId": "8629272",
+        "name": "Uatolari",
+        "stateId": "1622470",
+        "latitude": -8.76277,
+        "longitude": 126.57353
+    },
+    {
+        "cityId": "8629273",
+        "name": "Uatocarabau",
+        "stateId": "1622470",
+        "latitude": -8.75658,
+        "longitude": 126.6806
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2967196",
+        "name": "Yvelines",
+        "stateId": "3012874",
+        "latitude": 48.80546,
+        "longitude": 1.85696
+    },
+    {
+        "cityId": "2968815",
+        "name": "Paris",
+        "stateId": "3012874",
+        "latitude": 48.8534,
+        "longitude": 2.3486
+    },
+    {
+        "cityId": "2971071",
+        "name": "D\u00e9partement du Val-d\u2019Oise",
+        "stateId": "3012874",
+        "latitude": 49.07891,
+        "longitude": 2.17673
+    },
+    {
+        "cityId": "2971090",
+        "name": "Val-de-Marne",
+        "stateId": "3012874",
+        "latitude": 48.78149,
+        "longitude": 2.49331
+    },
+    {
+        "cityId": "2975246",
+        "name": "Seine-Saint-Denis",
+        "stateId": "3012874",
+        "latitude": 48.91421,
+        "longitude": 2.47604
+    },
+    {
+        "cityId": "2975249",
+        "name": "Seine-et-Marne",
+        "stateId": "3012874",
+        "latitude": 48.64599,
+        "longitude": 2.95905
+    },
+    {
+        "cityId": "3013657",
+        "name": "Hauts-de-Seine",
+        "stateId": "3012874",
+        "latitude": 48.85,
+        "longitude": 2.19293
+    },
+    {
+        "cityId": "3019599",
+        "name": "D\u00e9partement de l'Essonne",
+        "stateId": "3012874",
+        "latitude": 48.5,
+        "longitude": 2.25
+    }
+]

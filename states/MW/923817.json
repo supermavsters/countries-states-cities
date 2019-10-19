@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "923292",
+        "name": "Zomba District",
+        "stateId": "923817",
+        "latitude": -15.43007,
+        "longitude": 35.41829
+    },
+    {
+        "cityId": "924567",
+        "name": "Nsanje District",
+        "stateId": "923817",
+        "latitude": -16.75,
+        "longitude": 35.16667
+    },
+    {
+        "cityId": "925595",
+        "name": "Mwanza District",
+        "stateId": "923817",
+        "latitude": -15.63337,
+        "longitude": 34.51682
+    },
+    {
+        "cityId": "925788",
+        "name": "Mulanje District",
+        "stateId": "923817",
+        "latitude": -15.9344,
+        "longitude": 35.4999
+    },
+    {
+        "cityId": "927245",
+        "name": "Mangochi District",
+        "stateId": "923817",
+        "latitude": -14.39296,
+        "longitude": 35.34658
+    },
+    {
+        "cityId": "927642",
+        "name": "Machinga District",
+        "stateId": "923817",
+        "latitude": -14.94583,
+        "longitude": 35.57367
+    },
+    {
+        "cityId": "930283",
+        "name": "Thyolo District",
+        "stateId": "923817",
+        "latitude": -16.10583,
+        "longitude": 35.1506
+    },
+    {
+        "cityId": "930579",
+        "name": "Chiradzulu District",
+        "stateId": "923817",
+        "latitude": -15.75268,
+        "longitude": 35.21576
+    },
+    {
+        "cityId": "931067",
+        "name": "Chikwawa District",
+        "stateId": "923817",
+        "latitude": -16.16667,
+        "longitude": 34.75
+    },
+    {
+        "cityId": "931754",
+        "name": "Blantyre District",
+        "stateId": "923817",
+        "latitude": -15.64732,
+        "longitude": 34.93956
+    },
+    {
+        "cityId": "1105840",
+        "name": "Balaka District",
+        "stateId": "923817",
+        "latitude": -15.04839,
+        "longitude": 35.0591
+    },
+    {
+        "cityId": "1105842",
+        "name": "Phalombe District",
+        "stateId": "923817",
+        "latitude": -15.66667,
+        "longitude": 35.66667
+    },
+    {
+        "cityId": "7628385",
+        "name": "Neno District",
+        "stateId": "923817",
+        "latitude": -15.45051,
+        "longitude": 34.70034
+    }
+]

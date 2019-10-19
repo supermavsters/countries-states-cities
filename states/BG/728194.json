@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "726653",
+        "name": "Obshtina Saedinenie",
+        "stateId": "728194",
+        "latitude": 42.31667,
+        "longitude": 24.58333
+    },
+    {
+        "cityId": "727476",
+        "name": "Obshtina Sadovo",
+        "stateId": "728194",
+        "latitude": 42.13333,
+        "longitude": 25
+    },
+    {
+        "cityId": "727787",
+        "name": "Obshtina Rakovski",
+        "stateId": "728194",
+        "latitude": 42.26667,
+        "longitude": 24.98333
+    },
+    {
+        "cityId": "727885",
+        "name": "Obshtina Parvomay",
+        "stateId": "728194",
+        "latitude": 42.03333,
+        "longitude": 25.2
+    },
+    {
+        "cityId": "728192",
+        "name": "Obshtina Plovdiv",
+        "stateId": "728194",
+        "latitude": 42.15,
+        "longitude": 24.75
+    },
+    {
+        "cityId": "729508",
+        "name": "Obshtina Laki",
+        "stateId": "728194",
+        "latitude": 41.81667,
+        "longitude": 24.85
+    },
+    {
+        "cityId": "730418",
+        "name": "Obshtina Hisarya",
+        "stateId": "728194",
+        "latitude": 42.5,
+        "longitude": 24.6
+    },
+    {
+        "cityId": "730564",
+        "name": "Obshtina Karlovo",
+        "stateId": "728194",
+        "latitude": 42.68333,
+        "longitude": 24.66667
+    },
+    {
+        "cityId": "730731",
+        "name": "Obshtina Kaloyanovo",
+        "stateId": "728194",
+        "latitude": 42.38333,
+        "longitude": 24.81667
+    },
+    {
+        "cityId": "732871",
+        "name": "Obshtina Brezovo",
+        "stateId": "728194",
+        "latitude": 42.4,
+        "longitude": 25.05
+    },
+    {
+        "cityId": "733617",
+        "name": "Obshtina Asenovgrad",
+        "stateId": "728194",
+        "latitude": 41.95,
+        "longitude": 24.96667
+    },
+    {
+        "cityId": "864567",
+        "name": "Obshtina Rodopi",
+        "stateId": "728194",
+        "latitude": 42.03333,
+        "longitude": 24.68333
+    },
+    {
+        "cityId": "864568",
+        "name": "Obshtina Perushtitsa",
+        "stateId": "728194",
+        "latitude": 42.06667,
+        "longitude": 24.55
+    },
+    {
+        "cityId": "864569",
+        "name": "Obshtina Krichim",
+        "stateId": "728194",
+        "latitude": 42.00439,
+        "longitude": 24.47235
+    },
+    {
+        "cityId": "864570",
+        "name": "Obshtina Stamboliyski",
+        "stateId": "728194",
+        "latitude": 42.11667,
+        "longitude": 24.51667
+    },
+    {
+        "cityId": "864571",
+        "name": "Obshtina Maritsa",
+        "stateId": "728194",
+        "latitude": 42.23333,
+        "longitude": 24.8
+    },
+    {
+        "cityId": "6458935",
+        "name": "Obshtina Sopot",
+        "stateId": "728194",
+        "latitude": 42.65214,
+        "longitude": 24.7431
+    },
+    {
+        "cityId": "6458938",
+        "name": "Obshtina Kuklen",
+        "stateId": "728194",
+        "latitude": 42.03725,
+        "longitude": 24.77949
+    }
+]

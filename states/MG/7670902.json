@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8299293",
+        "name": "Morombe District",
+        "stateId": "7670902",
+        "latitude": -22.096,
+        "longitude": 43.774
+    },
+    {
+        "cityId": "8299297",
+        "name": "Miandrivazo District",
+        "stateId": "7670902",
+        "latitude": -19.1789,
+        "longitude": 45.38727
+    },
+    {
+        "cityId": "8335339",
+        "name": "Morondava District",
+        "stateId": "7670902",
+        "latitude": -20.527,
+        "longitude": 44.368
+    },
+    {
+        "cityId": "8335340",
+        "name": "Mahabo District",
+        "stateId": "7670902",
+        "latitude": -20.636,
+        "longitude": 45.165
+    },
+    {
+        "cityId": "8335351",
+        "name": "Manja District",
+        "stateId": "7670902",
+        "latitude": -21.436,
+        "longitude": 44.182
+    }
+]

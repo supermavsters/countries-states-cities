@@ -1,0 +1,534 @@
+[
+    {
+        "cityId": "662701",
+        "name": "Comuna Vi\u015feu de Jos",
+        "stateId": "673887",
+        "latitude": 47.7276,
+        "longitude": 24.36306
+    },
+    {
+        "cityId": "663839",
+        "name": "Comuna Valea Chioarului",
+        "stateId": "673887",
+        "latitude": 47.40706,
+        "longitude": 23.46101
+    },
+    {
+        "cityId": "664026",
+        "name": "Comuna Vadu Izei",
+        "stateId": "673887",
+        "latitude": 47.88131,
+        "longitude": 23.96081
+    },
+    {
+        "cityId": "664307",
+        "name": "Ora\u015f Ulmeni",
+        "stateId": "673887",
+        "latitude": 47.46209,
+        "longitude": 23.27925
+    },
+    {
+        "cityId": "665008",
+        "name": "Ora\u0219 T\u00e2rgu L\u0103pu\u015f",
+        "stateId": "673887",
+        "latitude": 47.46124,
+        "longitude": 23.85353
+    },
+    {
+        "cityId": "665381",
+        "name": "Ora\u0219 T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
+        "stateId": "673887",
+        "latitude": 47.72129,
+        "longitude": 23.48601
+    },
+    {
+        "cityId": "665841",
+        "name": "Comuna Suciu de Sus",
+        "stateId": "673887",
+        "latitude": 47.44309,
+        "longitude": 24.04303
+    },
+    {
+        "cityId": "665944",
+        "name": "Comuna Str\u00e2mtura",
+        "stateId": "673887",
+        "latitude": 47.75156,
+        "longitude": 24.10267
+    },
+    {
+        "cityId": "666474",
+        "name": "Ora\u0219 \u015eomcuta Mare",
+        "stateId": "673887",
+        "latitude": 47.51667,
+        "longitude": 23.46667
+    },
+    {
+        "cityId": "666798",
+        "name": "Comuna \u015ei\u015fe\u015fti",
+        "stateId": "673887",
+        "latitude": 47.61329,
+        "longitude": 23.74104
+    },
+    {
+        "cityId": "667436",
+        "name": "Ora\u0219 Seini",
+        "stateId": "673887",
+        "latitude": 47.75,
+        "longitude": 23.28333
+    },
+    {
+        "cityId": "667880",
+        "name": "Comuna Satulung",
+        "stateId": "673887",
+        "latitude": 47.57189,
+        "longitude": 23.41978
+    },
+    {
+        "cityId": "668055",
+        "name": "Comuna S\u0103r\u0103s\u0103u",
+        "stateId": "673887",
+        "latitude": 47.95,
+        "longitude": 23.81667
+    },
+    {
+        "cityId": "668074",
+        "name": "Comuna S\u00e3p\u00e2n\u0163a",
+        "stateId": "673887",
+        "latitude": 47.96933,
+        "longitude": 23.69818
+    },
+    {
+        "cityId": "668127",
+        "name": "Comuna S\u0103lsig",
+        "stateId": "673887",
+        "latitude": 47.51934,
+        "longitude": 23.3027
+    },
+    {
+        "cityId": "668141",
+        "name": "Ora\u0219 S\u0103li\u015ftea de Sus",
+        "stateId": "673887",
+        "latitude": 47.66019,
+        "longitude": 24.35336
+    },
+    {
+        "cityId": "668317",
+        "name": "Comuna S\u0103cel",
+        "stateId": "673887",
+        "latitude": 47.6369,
+        "longitude": 24.43508
+    },
+    {
+        "cityId": "668343",
+        "name": "Comuna S\u0103c\u0103l\u0103\u015feni",
+        "stateId": "673887",
+        "latitude": 47.57041,
+        "longitude": 23.57207
+    },
+    {
+        "cityId": "668409",
+        "name": "Comuna Ru\u015fcova",
+        "stateId": "673887",
+        "latitude": 47.79289,
+        "longitude": 24.28546
+    },
+    {
+        "cityId": "668547",
+        "name": "Comuna Rozavlea",
+        "stateId": "673887",
+        "latitude": 47.73791,
+        "longitude": 24.20116
+    },
+    {
+        "cityId": "668680",
+        "name": "Comuna Rona de Sus",
+        "stateId": "673887",
+        "latitude": 47.90184,
+        "longitude": 24.03877
+    },
+    {
+        "cityId": "668682",
+        "name": "Comuna Rona de Jos",
+        "stateId": "673887",
+        "latitude": 47.91667,
+        "longitude": 24.01667
+    },
+    {
+        "cityId": "668961",
+        "name": "Comuna Repedea",
+        "stateId": "673887",
+        "latitude": 47.83212,
+        "longitude": 24.40142
+    },
+    {
+        "cityId": "668970",
+        "name": "Comuna Reme\u0163i",
+        "stateId": "673887",
+        "latitude": 47.9963,
+        "longitude": 23.58741
+    },
+    {
+        "cityId": "668982",
+        "name": "Comuna Remetea Chioarului",
+        "stateId": "673887",
+        "latitude": 47.52129,
+        "longitude": 23.52891
+    },
+    {
+        "cityId": "669039",
+        "name": "Comuna Recea",
+        "stateId": "673887",
+        "latitude": 47.63108,
+        "longitude": 23.4861
+    },
+    {
+        "cityId": "669994",
+        "name": "Comuna Poienile de sub Munte",
+        "stateId": "673887",
+        "latitude": 47.82371,
+        "longitude": 24.43674
+    },
+    {
+        "cityId": "670933",
+        "name": "Comuna Petrova",
+        "stateId": "673887",
+        "latitude": 47.83003,
+        "longitude": 24.21603
+    },
+    {
+        "cityId": "671809",
+        "name": "Comuna Once\u015fti",
+        "stateId": "673887",
+        "latitude": 47.84814,
+        "longitude": 23.98183
+    },
+    {
+        "cityId": "672020",
+        "name": "Comuna Ocna \u015eugatag",
+        "stateId": "673887",
+        "latitude": 47.77493,
+        "longitude": 23.91268
+    },
+    {
+        "cityId": "672106",
+        "name": "Comuna Oar\u0163a De Jos",
+        "stateId": "673887",
+        "latitude": 47.45,
+        "longitude": 23.1
+    },
+    {
+        "cityId": "672921",
+        "name": "Comuna Moisei",
+        "stateId": "673887",
+        "latitude": 47.65612,
+        "longitude": 24.53988
+    },
+    {
+        "cityId": "673122",
+        "name": "Comuna Mire\u015fu Mare",
+        "stateId": "673887",
+        "latitude": 47.50011,
+        "longitude": 23.3642
+    },
+    {
+        "cityId": "674879",
+        "name": "Comuna Leordina",
+        "stateId": "673887",
+        "latitude": 47.78306,
+        "longitude": 24.26401
+    },
+    {
+        "cityId": "675044",
+        "name": "Comuna L\u0103pu\u015f",
+        "stateId": "673887",
+        "latitude": 47.49363,
+        "longitude": 24.00646
+    },
+    {
+        "cityId": "675720",
+        "name": "Comuna Ieud",
+        "stateId": "673887",
+        "latitude": 47.67739,
+        "longitude": 24.23378
+    },
+    {
+        "cityId": "676649",
+        "name": "Comuna Gro\u015fi",
+        "stateId": "673887",
+        "latitude": 47.61193,
+        "longitude": 23.58661
+    },
+    {
+        "cityId": "676650",
+        "name": "Comuna Gro\u015fii \u0162ible\u015fului",
+        "stateId": "673887",
+        "latitude": 47.48983,
+        "longitude": 24.06368
+    },
+    {
+        "cityId": "677140",
+        "name": "Comuna Giule\u015fti",
+        "stateId": "673887",
+        "latitude": 47.82215,
+        "longitude": 23.92994
+    },
+    {
+        "cityId": "678435",
+        "name": "Comuna F\u0103rca\u015fa",
+        "stateId": "673887",
+        "latitude": 47.59482,
+        "longitude": 23.34826
+    },
+    {
+        "cityId": "678675",
+        "name": "Comuna Dumbr\u0103vi\u0163a",
+        "stateId": "673887",
+        "latitude": 47.60118,
+        "longitude": 23.65726
+    },
+    {
+        "cityId": "678917",
+        "name": "Ora\u0219 Dragomire\u015fti",
+        "stateId": "673887",
+        "latitude": 47.6686,
+        "longitude": 24.29542
+    },
+    {
+        "cityId": "679460",
+        "name": "Comuna Dese\u015fti",
+        "stateId": "673887",
+        "latitude": 47.77004,
+        "longitude": 23.859
+    },
+    {
+        "cityId": "679950",
+        "name": "Comuna Cup\u015feni",
+        "stateId": "673887",
+        "latitude": 47.53255,
+        "longitude": 23.94243
+    },
+    {
+        "cityId": "679992",
+        "name": "Comuna Bogdan Vod\u0103",
+        "stateId": "673887",
+        "latitude": 47.6948,
+        "longitude": 24.29548
+    },
+    {
+        "cityId": "680700",
+        "name": "Comuna Coroieni",
+        "stateId": "673887",
+        "latitude": 47.36635,
+        "longitude": 23.77764
+    },
+    {
+        "cityId": "680906",
+        "name": "Comuna Copalnic M\u0103n\u0103\u015ftur",
+        "stateId": "673887",
+        "latitude": 47.5225,
+        "longitude": 23.68782
+    },
+    {
+        "cityId": "681277",
+        "name": "Comuna Coa\u015f",
+        "stateId": "673887",
+        "latitude": 47.51282,
+        "longitude": 23.60046
+    },
+    {
+        "cityId": "681846",
+        "name": "Comuna C\u00e2mpulung la Tisa",
+        "stateId": "673887",
+        "latitude": 47.98651,
+        "longitude": 23.77263
+    },
+    {
+        "cityId": "681941",
+        "name": "Comuna Cic\u00e2rl\u0103u",
+        "stateId": "673887",
+        "latitude": 47.70582,
+        "longitude": 23.38142
+    },
+    {
+        "cityId": "682310",
+        "name": "Comuna Cerne\u015fti",
+        "stateId": "673887",
+        "latitude": 47.53576,
+        "longitude": 23.78366
+    },
+    {
+        "cityId": "682507",
+        "name": "Ora\u0219 Cavnic",
+        "stateId": "673887",
+        "latitude": 47.64989,
+        "longitude": 23.82547
+    },
+    {
+        "cityId": "682942",
+        "name": "Comuna C\u0103line\u015fti",
+        "stateId": "673887",
+        "latitude": 47.78502,
+        "longitude": 23.97011
+    },
+    {
+        "cityId": "683428",
+        "name": "Comuna Bude\u015fti",
+        "stateId": "673887",
+        "latitude": 47.74615,
+        "longitude": 23.94569
+    },
+    {
+        "cityId": "684053",
+        "name": "Comuna Botiza",
+        "stateId": "673887",
+        "latitude": 47.66818,
+        "longitude": 24.15035
+    },
+    {
+        "cityId": "684152",
+        "name": "Ora\u015f Bor\u015fa",
+        "stateId": "673887",
+        "latitude": 47.66965,
+        "longitude": 24.68846
+    },
+    {
+        "cityId": "684307",
+        "name": "Comuna Boiu Mare",
+        "stateId": "673887",
+        "latitude": 47.40202,
+        "longitude": 23.59965
+    },
+    {
+        "cityId": "684495",
+        "name": "Comuna Bocicoiu Mare",
+        "stateId": "673887",
+        "latitude": 47.94673,
+        "longitude": 24.01121
+    },
+    {
+        "cityId": "684672",
+        "name": "Comuna Bistra",
+        "stateId": "673887",
+        "latitude": 47.8686,
+        "longitude": 24.19291
+    },
+    {
+        "cityId": "684768",
+        "name": "Comuna B\u00e2rsana",
+        "stateId": "673887",
+        "latitude": 47.815,
+        "longitude": 24.05731
+    },
+    {
+        "cityId": "684920",
+        "name": "Comuna Bicaz",
+        "stateId": "673887",
+        "latitude": 47.46241,
+        "longitude": 23.01474
+    },
+    {
+        "cityId": "685295",
+        "name": "Comuna B\u0103se\u015fti",
+        "stateId": "673887",
+        "latitude": 47.49608,
+        "longitude": 23.10786
+    },
+    {
+        "cityId": "685758",
+        "name": "Comuna B\u0103iu\u0163",
+        "stateId": "673887",
+        "latitude": 47.60191,
+        "longitude": 24.0018
+    },
+    {
+        "cityId": "685763",
+        "name": "Comuna B\u0103i\u0163a de sub Codru",
+        "stateId": "673887",
+        "latitude": 47.53333,
+        "longitude": 23.15
+    },
+    {
+        "cityId": "686073",
+        "name": "Comuna Asuaju de Sus",
+        "stateId": "673887",
+        "latitude": 47.55,
+        "longitude": 23.2
+    },
+    {
+        "cityId": "686156",
+        "name": "Comuna Arini\u015f",
+        "stateId": "673887",
+        "latitude": 47.50757,
+        "longitude": 23.22435
+    },
+    {
+        "cityId": "686202",
+        "name": "Comuna Ardusat",
+        "stateId": "673887",
+        "latitude": 47.63241,
+        "longitude": 23.39156
+    },
+    {
+        "cityId": "8334661",
+        "name": "Comuna \u015eieu",
+        "stateId": "673887",
+        "latitude": 47.72462,
+        "longitude": 24.22389
+    },
+    {
+        "cityId": "8334737",
+        "name": "Comuna Vima Mic\u00e3",
+        "stateId": "673887",
+        "latitude": 47.41766,
+        "longitude": 23.68841
+    },
+    {
+        "cityId": "8334748",
+        "name": "Ora\u015f Baia Sprie",
+        "stateId": "673887",
+        "latitude": 47.66446,
+        "longitude": 23.6697
+    },
+    {
+        "cityId": "8334765",
+        "name": "Ora\u015f Vi\u015feu De Sus",
+        "stateId": "673887",
+        "latitude": 47.71493,
+        "longitude": 24.41707
+    },
+    {
+        "cityId": "8334809",
+        "name": "Comuna G\u00e2rdani",
+        "stateId": "673887",
+        "latitude": 47.55135,
+        "longitude": 23.3088
+    },
+    {
+        "cityId": "8334813",
+        "name": "Comuna Colt\u00e3u",
+        "stateId": "673887",
+        "latitude": 47.60118,
+        "longitude": 23.5345
+    },
+    {
+        "cityId": "8334962",
+        "name": "Municipiul Sighetu Marma\u0163iei",
+        "stateId": "673887",
+        "latitude": 47.91914,
+        "longitude": 23.88679
+    },
+    {
+        "cityId": "8334980",
+        "name": "Municipiul Baia Mare",
+        "stateId": "673887",
+        "latitude": 47.74048,
+        "longitude": 23.60337
+    },
+    {
+        "cityId": "8334998",
+        "name": "Comuna Poienile Izei",
+        "stateId": "673887",
+        "latitude": 47.70309,
+        "longitude": 24.11276
+    }
+]

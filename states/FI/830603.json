@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "9610705",
+        "name": "Rovaniemi",
+        "stateId": "830603",
+        "latitude": 66.39165,
+        "longitude": 26.15868
+    },
+    {
+        "cityId": "9610706",
+        "name": "Kemi-Tornio",
+        "stateId": "830603",
+        "latitude": 65.94914,
+        "longitude": 24.75035
+    },
+    {
+        "cityId": "9610707",
+        "name": "Torniolaakso",
+        "stateId": "830603",
+        "latitude": 66.60337,
+        "longitude": 24.2883
+    },
+    {
+        "cityId": "9610708",
+        "name": "It\u00e4-Lappi",
+        "stateId": "830603",
+        "latitude": 66.66866,
+        "longitude": 28.07252
+    },
+    {
+        "cityId": "9610709",
+        "name": "Tunturi-Lappi",
+        "stateId": "830603",
+        "latitude": 67.98617,
+        "longitude": 24.00038
+    },
+    {
+        "cityId": "9610712",
+        "name": "Pohjois-Lappi",
+        "stateId": "830603",
+        "latitude": 68.71316,
+        "longitude": 27.17596
+    }
+]

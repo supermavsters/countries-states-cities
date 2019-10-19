@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "3057139",
+        "name": "Okres Tren\u010d\u00edn",
+        "stateId": "3343957",
+        "latitude": 48.8952,
+        "longitude": 18.04264
+    },
+    {
+        "cityId": "3057999",
+        "name": "Okres Prievidza",
+        "stateId": "3343957",
+        "latitude": 48.76667,
+        "longitude": 18.63333
+    },
+    {
+        "cityId": "3058059",
+        "name": "Okres Pova\u017esk\u00e1 Bystrica",
+        "stateId": "3343957",
+        "latitude": 49.11667,
+        "longitude": 18.45
+    },
+    {
+        "cityId": "3058476",
+        "name": "Okres Nov\u00e9 Mesto nad V\u00e1hom",
+        "stateId": "3343957",
+        "latitude": 48.75466,
+        "longitude": 17.83506
+    },
+    {
+        "cityId": "3058609",
+        "name": "Okres Myjava",
+        "stateId": "3343957",
+        "latitude": 48.75,
+        "longitude": 17.58333
+    },
+    {
+        "cityId": "8986282",
+        "name": "Okres B\u00e1novce nad Bebravou",
+        "stateId": "3343957",
+        "latitude": 48.71908,
+        "longitude": 18.25773
+    },
+    {
+        "cityId": "8986287",
+        "name": "Okres Ilava",
+        "stateId": "3343957",
+        "latitude": 48.99641,
+        "longitude": 18.23374
+    },
+    {
+        "cityId": "8986293",
+        "name": "Okres Partiz\u00e1nske",
+        "stateId": "3343957",
+        "latitude": 48.62613,
+        "longitude": 18.37957
+    },
+    {
+        "cityId": "8986298",
+        "name": "Okres P\u00fachov",
+        "stateId": "3343957",
+        "latitude": 49.12406,
+        "longitude": 18.32477
+    }
+]

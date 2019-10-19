@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "10295149",
+        "name": "Fatu-Hiva",
+        "stateId": "4019991",
+        "latitude": -10.47031,
+        "longitude": -138.64351
+    },
+    {
+        "cityId": "10295183",
+        "name": "Hiva-Oa",
+        "stateId": "4019991",
+        "latitude": -9.7515,
+        "longitude": -139.00525
+    },
+    {
+        "cityId": "10295204",
+        "name": "Nuku-Hiva",
+        "stateId": "4019991",
+        "latitude": -8.85138,
+        "longitude": -140.17937
+    },
+    {
+        "cityId": "10295205",
+        "name": "Tahuata",
+        "stateId": "4019991",
+        "latitude": -9.95073,
+        "longitude": -139.08713
+    },
+    {
+        "cityId": "10295206",
+        "name": "Ua Huka",
+        "stateId": "4019991",
+        "latitude": -8.89988,
+        "longitude": -139.55512
+    },
+    {
+        "cityId": "10295207",
+        "name": "Ua-Pou",
+        "stateId": "4019991",
+        "latitude": -9.39216,
+        "longitude": -140.07594
+    }
+]

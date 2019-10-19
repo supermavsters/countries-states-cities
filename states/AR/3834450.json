@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3833365",
+        "name": "Departamento de Ushuaia",
+        "stateId": "3834450",
+        "latitude": -54.62912,
+        "longitude": -67.8962
+    },
+    {
+        "cityId": "3836551",
+        "name": "Departamento de R\u00edo Grande",
+        "stateId": "3834450",
+        "latitude": -53.5,
+        "longitude": -68.33333
+    },
+    {
+        "cityId": "11524834",
+        "name": "Ant\u00e1rtida Argentina",
+        "stateId": "3834450",
+        "latitude": -82.78066,
+        "longitude": -50.6785
+    },
+    {
+        "cityId": "11524835",
+        "name": "Islas del Atl\u00e1ntico Sur",
+        "stateId": "3834450",
+        "latitude": -51.94426,
+        "longitude": -59.21631
+    }
+]

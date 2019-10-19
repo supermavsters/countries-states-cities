@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "3536726",
+        "name": "Municipio de Santiago de Cuba",
+        "stateId": "3536725",
+        "latitude": 20.01667,
+        "longitude": -75.81667
+    },
+    {
+        "cityId": "3539073",
+        "name": "Municipio de San Luis",
+        "stateId": "3536725",
+        "latitude": 20.18333,
+        "longitude": -75.85
+    },
+    {
+        "cityId": "3545062",
+        "name": "Municipio de Palma Soriano",
+        "stateId": "3536725",
+        "latitude": 20.21667,
+        "longitude": -76
+    },
+    {
+        "cityId": "11288243",
+        "name": "Contramaestre",
+        "stateId": "3536725",
+        "latitude": 20.29157,
+        "longitude": -76.23881
+    },
+    {
+        "cityId": "11288244",
+        "name": "Guama",
+        "stateId": "3536725",
+        "latitude": 19.96958,
+        "longitude": -76.43828
+    },
+    {
+        "cityId": "11288245",
+        "name": "Mella",
+        "stateId": "3536725",
+        "latitude": 20.3636,
+        "longitude": -75.906
+    },
+    {
+        "cityId": "11288246",
+        "name": "Segundo Frente",
+        "stateId": "3536725",
+        "latitude": 20.41284,
+        "longitude": -75.49646
+    },
+    {
+        "cityId": "11288247",
+        "name": "Tercer Frente",
+        "stateId": "3536725",
+        "latitude": 20.159,
+        "longitude": -76.30975
+    },
+    {
+        "cityId": "11288254",
+        "name": "Songo - La Maya",
+        "stateId": "3536725",
+        "latitude": 20.16392,
+        "longitude": -75.69769
+    }
+]

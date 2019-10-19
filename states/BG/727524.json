@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "725933",
+        "name": "Obshtina Vetovo",
+        "stateId": "727524",
+        "latitude": 43.71667,
+        "longitude": 26.33333
+    },
+    {
+        "cityId": "726244",
+        "name": "Obshtina Tsenovo",
+        "stateId": "727524",
+        "latitude": 43.58333,
+        "longitude": 25.61667
+    },
+    {
+        "cityId": "727066",
+        "name": "Obshtina Slivo Pole",
+        "stateId": "727524",
+        "latitude": 43.96667,
+        "longitude": 26.3
+    },
+    {
+        "cityId": "727522",
+        "name": "Obshtina Ruse",
+        "stateId": "727524",
+        "latitude": 43.85,
+        "longitude": 26.08333
+    },
+    {
+        "cityId": "730851",
+        "name": "Obshtina Ivanovo",
+        "stateId": "727524",
+        "latitude": 43.7,
+        "longitude": 25.98333
+    },
+    {
+        "cityId": "731770",
+        "name": "Obshtina Dve Mogili",
+        "stateId": "727524",
+        "latitude": 43.51667,
+        "longitude": 25.96667
+    },
+    {
+        "cityId": "732719",
+        "name": "Obshtina Byala",
+        "stateId": "727524",
+        "latitude": 43.41667,
+        "longitude": 25.83333
+    },
+    {
+        "cityId": "733042",
+        "name": "Obshtina Borovo",
+        "stateId": "727524",
+        "latitude": 43.6,
+        "longitude": 25.8
+    }
+]

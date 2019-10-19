@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "3131969",
+        "name": "Lillesand",
+        "stateId": "3162354",
+        "latitude": 58.24982,
+        "longitude": 8.37848
+    },
+    {
+        "cityId": "3132337",
+        "name": "Veg\u00e5rshei",
+        "stateId": "3162354",
+        "latitude": 58.75092,
+        "longitude": 8.86453
+    },
+    {
+        "cityId": "3132848",
+        "name": "Valle",
+        "stateId": "3162354",
+        "latitude": 59.21194,
+        "longitude": 7.53341
+    },
+    {
+        "cityId": "3133680",
+        "name": "Tvedestrand",
+        "stateId": "3162354",
+        "latitude": 58.62616,
+        "longitude": 8.92637
+    },
+    {
+        "cityId": "3150950",
+        "name": "Iveland",
+        "stateId": "3162354",
+        "latitude": 58.4574,
+        "longitude": 7.91817
+    },
+    {
+        "cityId": "3155672",
+        "name": "Gjerstad",
+        "stateId": "3162354",
+        "latitude": 58.88133,
+        "longitude": 9.01917
+    },
+    {
+        "cityId": "3156455",
+        "name": "Froland",
+        "stateId": "3162354",
+        "latitude": 58.50724,
+        "longitude": 8.6293
+    },
+    {
+        "cityId": "3157976",
+        "name": "Evje og Hornnes",
+        "stateId": "3162354",
+        "latitude": 58.56199,
+        "longitude": 7.78036
+    },
+    {
+        "cityId": "3159574",
+        "name": "Bykle",
+        "stateId": "3162354",
+        "latitude": 59.35692,
+        "longitude": 7.35807
+    },
+    {
+        "cityId": "3159581",
+        "name": "Bygland",
+        "stateId": "3162354",
+        "latitude": 58.83133,
+        "longitude": 7.7972
+    },
+    {
+        "cityId": "3161528",
+        "name": "Birkenes",
+        "stateId": "3162354",
+        "latitude": 58.33479,
+        "longitude": 8.23271
+    },
+    {
+        "cityId": "3163213",
+        "name": "\u00c5mli",
+        "stateId": "3162354",
+        "latitude": 58.76599,
+        "longitude": 8.48531
+    },
+    {
+        "cityId": "6453397",
+        "name": "Ris\u00f8r",
+        "stateId": "3162354",
+        "latitude": 58.71858,
+        "longitude": 9.21205
+    },
+    {
+        "cityId": "6453399",
+        "name": "Arendal",
+        "stateId": "3162354",
+        "latitude": 58.46039,
+        "longitude": 8.76501
+    },
+    {
+        "cityId": "6453401",
+        "name": "Grimstad",
+        "stateId": "3162354",
+        "latitude": 58.34623,
+        "longitude": 8.59703
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "467477",
+        "name": "Yenotayevskiy Rayon",
+        "stateId": "580491",
+        "latitude": 47.16667,
+        "longitude": 47
+    },
+    {
+        "cityId": "472484",
+        "name": "Volodarskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46.25,
+        "longitude": 48.75
+    },
+    {
+        "cityId": "505051",
+        "name": "Privolzhskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46.25,
+        "longitude": 48.16667
+    },
+    {
+        "cityId": "523439",
+        "name": "Narimanovskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46.41667,
+        "longitude": 47.5
+    },
+    {
+        "cityId": "535210",
+        "name": "Limanskiy Rayon",
+        "stateId": "580491",
+        "latitude": 45.83333,
+        "longitude": 47.25
+    },
+    {
+        "cityId": "542131",
+        "name": "Krasnoyarskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46.83333,
+        "longitude": 48.25
+    },
+    {
+        "cityId": "550669",
+        "name": "Kharabalinskiy Rayon",
+        "stateId": "580491",
+        "latitude": 47.25,
+        "longitude": 47.5
+    },
+    {
+        "cityId": "553246",
+        "name": "Kamyzyakskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46,
+        "longitude": 48.16667
+    },
+    {
+        "cityId": "557391",
+        "name": "Ikryaninskiy Rayon",
+        "stateId": "580491",
+        "latitude": 46,
+        "longitude": 47.66667
+    },
+    {
+        "cityId": "568698",
+        "name": "Chernoyarskiy Rayon",
+        "stateId": "580491",
+        "latitude": 48.08333,
+        "longitude": 45.75
+    },
+    {
+        "cityId": "583796",
+        "name": "Akhtubinskiy Rayon",
+        "stateId": "580491",
+        "latitude": 48.16667,
+        "longitude": 46.25
+    },
+    {
+        "cityId": "824964",
+        "name": "Gorod Astrakhan\u2019",
+        "stateId": "580491",
+        "latitude": 46.36667,
+        "longitude": 48.08333
+    }
+]

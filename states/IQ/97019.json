@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "90509",
+        "name": "Suq Al-Shoyokh District",
+        "stateId": "97019",
+        "latitude": 30.84846,
+        "longitude": 46.50261
+    },
+    {
+        "cityId": "98623",
+        "name": "Al-Shatra District",
+        "stateId": "97019",
+        "latitude": 31.4,
+        "longitude": 46.3
+    },
+    {
+        "cityId": "98700",
+        "name": "Al-Rifa'i District",
+        "stateId": "97019",
+        "latitude": 31.7,
+        "longitude": 46.1
+    },
+    {
+        "cityId": "98855",
+        "name": "Nassriya District",
+        "stateId": "97019",
+        "latitude": 31.04064,
+        "longitude": 46.25841
+    },
+    {
+        "cityId": "99185",
+        "name": "Al-Chibayish District",
+        "stateId": "97019",
+        "latitude": 31,
+        "longitude": 47
+    }
+]

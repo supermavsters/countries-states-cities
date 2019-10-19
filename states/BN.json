@@ -1,0 +1,30 @@
+[
+    {
+        "stateId": "1820869",
+        "name": "Belait District",
+        "countryId": "1820814",
+        "latitude": 4.41667,
+        "longitude": 114.58333
+    },
+    {
+        "stateId": "1820818",
+        "name": "Brunei and Muara District",
+        "countryId": "1820814",
+        "latitude": 4.83333,
+        "longitude": 114.91667
+    },
+    {
+        "stateId": "1820106",
+        "name": "Temburong District",
+        "countryId": "1820814",
+        "latitude": 4.58333,
+        "longitude": 115.16667
+    },
+    {
+        "stateId": "1820068",
+        "name": "Tutong District",
+        "countryId": "1820814",
+        "latitude": 4.58333,
+        "longitude": 114.66667
+    }
+]

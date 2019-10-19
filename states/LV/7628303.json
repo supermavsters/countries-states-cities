@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352595",
+        "name": "B\u0101rtas pagasts",
+        "stateId": "7628303",
+        "latitude": 56.37773,
+        "longitude": 21.32851
+    },
+    {
+        "cityId": "11352596",
+        "name": "Gaviezes pagasts",
+        "stateId": "7628303",
+        "latitude": 56.46938,
+        "longitude": 21.31337
+    },
+    {
+        "cityId": "11352597",
+        "name": "Grobi\u0146as pagasts",
+        "stateId": "7628303",
+        "latitude": 56.50822,
+        "longitude": 21.16919
+    },
+    {
+        "cityId": "11352599",
+        "name": "Medzes pagasts",
+        "stateId": "7628303",
+        "latitude": 56.61014,
+        "longitude": 21.15485
+    },
+    {
+        "cityId": "11352985",
+        "name": "Grobi\u0146a",
+        "stateId": "7628303",
+        "latitude": 56.53875,
+        "longitude": 21.16682
+    }
+]

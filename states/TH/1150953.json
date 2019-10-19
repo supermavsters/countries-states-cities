@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1149891",
+        "name": "Amphoe Wat Phleng",
+        "stateId": "1150953",
+        "latitude": 13.44705,
+        "longitude": 99.86959
+    },
+    {
+        "cityId": "1151339",
+        "name": "Amphoe Photharam",
+        "stateId": "1150953",
+        "latitude": 13.70707,
+        "longitude": 99.75622
+    },
+    {
+        "cityId": "1151566",
+        "name": "Amphoe Pak Tho",
+        "stateId": "1150953",
+        "latitude": 13.38761,
+        "longitude": 99.677
+    },
+    {
+        "cityId": "1151981",
+        "name": "Amphoe Mueang Ratchaburi",
+        "stateId": "1150953",
+        "latitude": 13.54559,
+        "longitude": 99.77678
+    },
+    {
+        "cityId": "1153645",
+        "name": "Amphoe Chom Bueng",
+        "stateId": "1150953",
+        "latitude": 13.6252,
+        "longitude": 99.5187
+    },
+    {
+        "cityId": "1155127",
+        "name": "Amphoe Ban Pong",
+        "stateId": "1150953",
+        "latitude": 13.8166,
+        "longitude": 99.82147
+    },
+    {
+        "cityId": "1157682",
+        "name": "Amphoe Bang Phae",
+        "stateId": "1150953",
+        "latitude": 13.68333,
+        "longitude": 99.98333
+    },
+    {
+        "cityId": "1610974",
+        "name": "Amphoe Damnoen Saduak",
+        "stateId": "1150953",
+        "latitude": 13.56537,
+        "longitude": 99.97042
+    },
+    {
+        "cityId": "7510625",
+        "name": "Amphoe Ban Kha",
+        "stateId": "1150953",
+        "latitude": 13.32374,
+        "longitude": 99.37323
+    },
+    {
+        "cityId": "7510627",
+        "name": "Amphoe Suan Phueng",
+        "stateId": "1150953",
+        "latitude": 13.56361,
+        "longitude": 99.31133
+    }
+]

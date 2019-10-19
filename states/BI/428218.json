@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7670611",
+        "name": "Nyabikere",
+        "stateId": "428218",
+        "latitude": -3.26447,
+        "longitude": 30.14118
+    },
+    {
+        "cityId": "9171852",
+        "name": "Shombo",
+        "stateId": "428218",
+        "latitude": -3.28524,
+        "longitude": 30.05391
+    },
+    {
+        "cityId": "9171861",
+        "name": "Gitaramuka",
+        "stateId": "428218",
+        "latitude": -2.97503,
+        "longitude": 30.16317
+    },
+    {
+        "cityId": "9171866",
+        "name": "Bugenyuzi",
+        "stateId": "428218",
+        "latitude": -3.07874,
+        "longitude": 30.06062
+    },
+    {
+        "cityId": "9171872",
+        "name": "Gihogazi",
+        "stateId": "428218",
+        "latitude": -3.14103,
+        "longitude": 29.98018
+    },
+    {
+        "cityId": "9171878",
+        "name": "Mutumba",
+        "stateId": "428218",
+        "latitude": -3.2021,
+        "longitude": 30.24248
+    },
+    {
+        "cityId": "9171879",
+        "name": "Buhiga",
+        "stateId": "428218",
+        "latitude": -3.08549,
+        "longitude": 30.18761
+    }
+]

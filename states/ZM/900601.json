@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "175966",
+        "name": "Mporokoso District",
+        "stateId": "900601",
+        "latitude": -9.6869,
+        "longitude": 30.19776
+    },
+    {
+        "cityId": "176143",
+        "name": "Mbala District",
+        "stateId": "900601",
+        "latitude": -9.195,
+        "longitude": 31.622
+    },
+    {
+        "cityId": "176756",
+        "name": "Kaputa District",
+        "stateId": "900601",
+        "latitude": -8.7505,
+        "longitude": 29.43523
+    },
+    {
+        "cityId": "908911",
+        "name": "Luwingu District",
+        "stateId": "900601",
+        "latitude": -10.48829,
+        "longitude": 29.9182
+    },
+    {
+        "cityId": "912763",
+        "name": "Kasama District",
+        "stateId": "900601",
+        "latitude": -10.35783,
+        "longitude": 30.98983
+    },
+    {
+        "cityId": "8260556",
+        "name": "Mpulungu District",
+        "stateId": "900601",
+        "latitude": -8.982,
+        "longitude": 30.794
+    },
+    {
+        "cityId": "8260557",
+        "name": "Mungwi District",
+        "stateId": "900601",
+        "latitude": -9.93,
+        "longitude": 31.735
+    },
+    {
+        "cityId": "10800890",
+        "name": "Chilubi",
+        "stateId": "900601",
+        "latitude": -11.03808,
+        "longitude": 30.26299
+    },
+    {
+        "cityId": "10815866",
+        "name": "Nsama District",
+        "stateId": "900601",
+        "latitude": -8.75612,
+        "longitude": 29.97167
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "98179",
+        "name": "Baghdad",
+        "stateId": "98180",
+        "latitude": 33.32475,
+        "longitude": 44.42129
+    },
+    {
+        "cityId": "99101",
+        "name": "Mahmudiya District",
+        "stateId": "98180",
+        "latitude": 33.08333,
+        "longitude": 44.25
+    },
+    {
+        "cityId": "99173",
+        "name": "Al-K\u0101\u017cimiyyah",
+        "stateId": "98180",
+        "latitude": 33.45,
+        "longitude": 44.16667
+    },
+    {
+        "cityId": "9166542",
+        "name": "Abu Ghraib District",
+        "stateId": "98180",
+        "latitude": 33.29194,
+        "longitude": 44.06919
+    },
+    {
+        "cityId": "9166545",
+        "name": "Karkh",
+        "stateId": "98180",
+        "latitude": 33.25362,
+        "longitude": 44.27742
+    },
+    {
+        "cityId": "9166561",
+        "name": "Sadr",
+        "stateId": "98180",
+        "latitude": 33.38298,
+        "longitude": 44.46253
+    },
+    {
+        "cityId": "9166564",
+        "name": "Taji District",
+        "stateId": "98180",
+        "latitude": 33.51026,
+        "longitude": 44.23499
+    },
+    {
+        "cityId": "9166569",
+        "name": "Al Tarmia District",
+        "stateId": "98180",
+        "latitude": 33.66435,
+        "longitude": 44.37378
+    },
+    {
+        "cityId": "9166668",
+        "name": "Al Rusafa",
+        "stateId": "98180",
+        "latitude": 33.31676,
+        "longitude": 44.47929
+    },
+    {
+        "cityId": "9167771",
+        "name": "Thawra",
+        "stateId": "98180",
+        "latitude": 33.39035,
+        "longitude": 44.45886
+    },
+    {
+        "cityId": "9179819",
+        "name": "Al-Mada'in District",
+        "stateId": "98180",
+        "latitude": 33.09947,
+        "longitude": 44.58561
+    },
+    {
+        "cityId": "9873556",
+        "name": "Qa\u1e11\u0101\u2019 ar Ru\u015f\u0101fah",
+        "stateId": "98180",
+        "latitude": 33.32156,
+        "longitude": 44.47925
+    },
+    {
+        "cityId": "9873561",
+        "name": "Qa\u1e11\u0101\u2019 al A\u2018z\u0327am\u012byah",
+        "stateId": "98180",
+        "latitude": 33.48091,
+        "longitude": 44.36648
+    },
+    {
+        "cityId": "9874049",
+        "name": "Qa\u1e11\u0101\u2019 Ab\u016b Ghurayb",
+        "stateId": "98180",
+        "latitude": 33.28139,
+        "longitude": 44.07434
+    },
+    {
+        "cityId": "9874067",
+        "name": "Qa\u1e11\u0101\u2019 al Mad\u0101\u2019in",
+        "stateId": "98180",
+        "latitude": 33.25751,
+        "longitude": 44.70697
+    },
+    {
+        "cityId": "9890735",
+        "name": "Qa\u1e11\u0101\u2019 a\u0163 \u0162\u0101rm\u012byah",
+        "stateId": "98180",
+        "latitude": 33.66143,
+        "longitude": 44.28012
+    }
+]

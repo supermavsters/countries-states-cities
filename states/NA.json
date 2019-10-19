@@ -1,0 +1,100 @@
+[
+    {
+        "stateId": "3371199",
+        "name": "Erongo",
+        "countryId": "3355338",
+        "latitude": -22.08333,
+        "longitude": 15.33333
+    },
+    {
+        "stateId": "3371200",
+        "name": "Hardap",
+        "countryId": "3355338",
+        "latitude": -24.5,
+        "longitude": 17.25
+    },
+    {
+        "stateId": "3371201",
+        "name": "Karas",
+        "countryId": "3355338",
+        "latitude": -27,
+        "longitude": 17.5
+    },
+    {
+        "stateId": "8693188",
+        "name": "Kavango East Region",
+        "countryId": "3355338",
+        "latitude": -18.33333,
+        "longitude": 20.58333
+    },
+    {
+        "stateId": "8693189",
+        "name": "Kavango West Region",
+        "countryId": "3355338",
+        "latitude": -18.25,
+        "longitude": 18.91667
+    },
+    {
+        "stateId": "3352137",
+        "name": "Khomas",
+        "countryId": "3355338",
+        "latitude": -22.75,
+        "longitude": 17.08333
+    },
+    {
+        "stateId": "3371202",
+        "name": "Kunene",
+        "countryId": "3355338",
+        "latitude": -19.41667,
+        "longitude": 13.75
+    },
+    {
+        "stateId": "3371203",
+        "name": "Ohangwena",
+        "countryId": "3355338",
+        "latitude": -17.58333,
+        "longitude": 16.75
+    },
+    {
+        "stateId": "3371205",
+        "name": "Omaheke",
+        "countryId": "3355338",
+        "latitude": -21.75,
+        "longitude": 19.41667
+    },
+    {
+        "stateId": "3371206",
+        "name": "Omusati",
+        "countryId": "3355338",
+        "latitude": -18.33333,
+        "longitude": 14.83333
+    },
+    {
+        "stateId": "3371207",
+        "name": "Oshana",
+        "countryId": "3355338",
+        "latitude": -18.5,
+        "longitude": 15.75
+    },
+    {
+        "stateId": "3371208",
+        "name": "Oshikoto",
+        "countryId": "3355338",
+        "latitude": -18.5,
+        "longitude": 17.08333
+    },
+    {
+        "stateId": "3371209",
+        "name": "Otjozondjupa",
+        "countryId": "3355338",
+        "latitude": -20.33333,
+        "longitude": 18
+    },
+    {
+        "stateId": "1090052",
+        "name": "Zambezi Region",
+        "countryId": "3355338",
+        "latitude": -17.83333,
+        "longitude": 23.75
+    }
+]

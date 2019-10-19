@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "879178",
+        "name": "Hwedza District",
+        "stateId": "886842",
+        "latitude": -18.72729,
+        "longitude": 31.65355
+    },
+    {
+        "cityId": "881519",
+        "name": "Seke District",
+        "stateId": "886842",
+        "latitude": -18.23573,
+        "longitude": 30.95649
+    },
+    {
+        "cityId": "884926",
+        "name": "Mutoko District",
+        "stateId": "886842",
+        "latitude": -17.46615,
+        "longitude": 32.29419
+    },
+    {
+        "cityId": "885172",
+        "name": "Murehwa District",
+        "stateId": "886842",
+        "latitude": -17.80057,
+        "longitude": 31.83083
+    },
+    {
+        "cityId": "885457",
+        "name": "Mudzi District",
+        "stateId": "886842",
+        "latitude": -17.04711,
+        "longitude": 32.65279
+    },
+    {
+        "cityId": "886989",
+        "name": "Marondera District",
+        "stateId": "886842",
+        "latitude": -18.29214,
+        "longitude": 31.51252
+    },
+    {
+        "cityId": "890848",
+        "name": "Goromonzi District",
+        "stateId": "886842",
+        "latitude": -17.80695,
+        "longitude": 31.36372
+    },
+    {
+        "cityId": "894293",
+        "name": "Chikomba District",
+        "stateId": "886842",
+        "latitude": -18.88846,
+        "longitude": 31.09751
+    },
+    {
+        "cityId": "10800411",
+        "name": "Uzumba-Maramba-Pfungwe District",
+        "stateId": "886842",
+        "latitude": -17.03775,
+        "longitude": 32.0257
+    }
+]

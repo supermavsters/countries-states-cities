@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "9610684",
+        "name": "Luoteis-Pirkanmaa",
+        "stateId": "830704",
+        "latitude": 61.97729,
+        "longitude": 23.06801
+    },
+    {
+        "cityId": "9610685",
+        "name": "Etel\u00e4-Pirkanmaa",
+        "stateId": "830704",
+        "latitude": 61.14637,
+        "longitude": 23.71874
+    },
+    {
+        "cityId": "9610686",
+        "name": "Tampere",
+        "stateId": "830704",
+        "latitude": 61.57018,
+        "longitude": 23.92509
+    },
+    {
+        "cityId": "9610687",
+        "name": "Lounais-Pirkanmaa",
+        "stateId": "830704",
+        "latitude": 61.36155,
+        "longitude": 22.92897
+    },
+    {
+        "cityId": "9610688",
+        "name": "Yl\u00e4-Pirkanmaa",
+        "stateId": "830704",
+        "latitude": 62.09625,
+        "longitude": 24.04921
+    }
+]

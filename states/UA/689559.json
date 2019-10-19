@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "687747",
+        "name": "Zamostyanskiy Rayon",
+        "stateId": "689559",
+        "latitude": 49.24562,
+        "longitude": 28.51639
+    },
+    {
+        "cityId": "689560",
+        "name": "Vinnitskiy Rayon",
+        "stateId": "689559",
+        "latitude": 49.23531,
+        "longitude": 28.47588
+    },
+    {
+        "cityId": "692823",
+        "name": "Starogorodskoy Ryon",
+        "stateId": "689559",
+        "latitude": 49.21962,
+        "longitude": 28.49201
+    },
+    {
+        "cityId": "702929",
+        "name": "Lityns\u2019kyy Rayon",
+        "stateId": "689559",
+        "latitude": 49.37138,
+        "longitude": 28.07033
+    },
+    {
+        "cityId": "703008",
+        "name": "Lypovets\u2019kyy Rayon",
+        "stateId": "689559",
+        "latitude": 49.28006,
+        "longitude": 28.93205
+    },
+    {
+        "cityId": "703238",
+        "name": "Leninskiy Rayon",
+        "stateId": "689559",
+        "latitude": 49.225,
+        "longitude": 28.42472
+    },
+    {
+        "cityId": "710890",
+        "name": "Chechel\u2019nyts\u2019kyy Rayon",
+        "stateId": "689559",
+        "latitude": 48.20207,
+        "longitude": 29.34908
+    },
+    {
+        "cityId": "9639576",
+        "name": "Vinnyts\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 49.23419,
+        "longitude": 28.47812
+    },
+    {
+        "cityId": "9640165",
+        "name": "Mohyliv-Podil\u2019s\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 48.44761,
+        "longitude": 27.81524
+    },
+    {
+        "cityId": "9640174",
+        "name": "Zhmeryns\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 49.03732,
+        "longitude": 28.10801
+    },
+    {
+        "cityId": "9640241",
+        "name": "Kozyatyns\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 49.71601,
+        "longitude": 28.83315
+    },
+    {
+        "cityId": "9640641",
+        "name": "Chernivets\u2019kyy Rayon",
+        "stateId": "689559",
+        "latitude": 48.51106,
+        "longitude": 28.14191
+    },
+    {
+        "cityId": "9640642",
+        "name": "Ladyzhyns\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 48.66495,
+        "longitude": 29.12298
+    },
+    {
+        "cityId": "9640643",
+        "name": "Khmil\u2019nyts\u2019ka Mis\u2019krada",
+        "stateId": "689559",
+        "latitude": 49.55607,
+        "longitude": 27.94213
+    }
+]

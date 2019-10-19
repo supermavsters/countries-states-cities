@@ -1,0 +1,86 @@
+[
+    {
+        "stateId": "443120",
+        "name": "Ajloun",
+        "countryId": "248816",
+        "latitude": 32.33333,
+        "longitude": 35.75
+    },
+    {
+        "stateId": "250625",
+        "name": "Al Karak",
+        "countryId": "248816",
+        "latitude": 31.16667,
+        "longitude": 35.75
+    },
+    {
+        "stateId": "250583",
+        "name": "Al Mafraq",
+        "countryId": "248816",
+        "latitude": 32.33333,
+        "longitude": 37.91667
+    },
+    {
+        "stateId": "250439",
+        "name": "Amman Governorate",
+        "countryId": "248816",
+        "latitude": 31.58369,
+        "longitude": 36.33335
+    },
+    {
+        "stateId": "248944",
+        "name": "Irbid",
+        "countryId": "248816",
+        "latitude": 32.5,
+        "longitude": 35.83333
+    },
+    {
+        "stateId": "443121",
+        "name": "Jerash",
+        "countryId": "248816",
+        "latitude": 32.25,
+        "longitude": 35.91667
+    },
+    {
+        "stateId": "248380",
+        "name": "Mu\u1e29\u0101faz\u0327at Ma\u2018\u0101n",
+        "countryId": "248816",
+        "latitude": 30.33333,
+        "longitude": 36.58333
+    },
+    {
+        "stateId": "443123",
+        "name": "Mu\u1e29\u0101faz\u0327at M\u0101dab\u0101",
+        "countryId": "248816",
+        "latitude": 31.58333,
+        "longitude": 35.66667
+    },
+    {
+        "stateId": "250751",
+        "name": "Mu\u1e29\u0101faz\u0327at al Balq\u0101\u2019",
+        "countryId": "248816",
+        "latitude": 32,
+        "longitude": 35.66667
+    },
+    {
+        "stateId": "443122",
+        "name": "Mu\u1e29\u0101faz\u0327at al \u2018Aqabah",
+        "countryId": "248816",
+        "latitude": 29.75,
+        "longitude": 35.33333
+    },
+    {
+        "stateId": "250092",
+        "name": "Mu\u1e29\u0101faz\u0327at az Zarq\u0101\u2019",
+        "countryId": "248816",
+        "latitude": 32.08374,
+        "longitude": 36.07773
+    },
+    {
+        "stateId": "250199",
+        "name": "Mu\u1e29\u0101faz\u0327at a\u0163 \u0162af\u012blah",
+        "countryId": "248816",
+        "latitude": 30.75,
+        "longitude": 35.58333
+    }
+]

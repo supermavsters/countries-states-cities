@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "1605460",
+        "name": "Amphoe Thepha",
+        "stateId": "1606146",
+        "latitude": 6.79726,
+        "longitude": 100.91025
+    },
+    {
+        "cityId": "1606393",
+        "name": "Amphoe Sathing Phra",
+        "stateId": "1606146",
+        "latitude": 7.47963,
+        "longitude": 100.42227
+    },
+    {
+        "cityId": "1606938",
+        "name": "Amphoe Sadao",
+        "stateId": "1606146",
+        "latitude": 6.67135,
+        "longitude": 100.42409
+    },
+    {
+        "cityId": "1606943",
+        "name": "Amphoe Saba Yoi",
+        "stateId": "1606146",
+        "latitude": 6.52971,
+        "longitude": 100.91232
+    },
+    {
+        "cityId": "1607027",
+        "name": "Amphoe Rattaphum",
+        "stateId": "1606146",
+        "latitude": 7.07488,
+        "longitude": 100.19515
+    },
+    {
+        "cityId": "1607067",
+        "name": "Amphoe Ranot",
+        "stateId": "1606146",
+        "latitude": 7.8139,
+        "longitude": 100.28323
+    },
+    {
+        "cityId": "1608401",
+        "name": "Amphoe Na Thawi",
+        "stateId": "1606146",
+        "latitude": 6.63849,
+        "longitude": 100.68173
+    },
+    {
+        "cityId": "1608615",
+        "name": "Amphoe Mueang Songkhla",
+        "stateId": "1606146",
+        "latitude": 7.11075,
+        "longitude": 100.60814
+    },
+    {
+        "cityId": "1610779",
+        "name": "Amphoe Hat Yai",
+        "stateId": "1606146",
+        "latitude": 6.98092,
+        "longitude": 100.46539
+    },
+    {
+        "cityId": "1611323",
+        "name": "Amphoe Chana",
+        "stateId": "1606146",
+        "latitude": 6.89584,
+        "longitude": 100.70126
+    },
+    {
+        "cityId": "6791114",
+        "name": "Amphoe Singhanakhon",
+        "stateId": "1606146",
+        "latitude": 7.28453,
+        "longitude": 100.48809
+    },
+    {
+        "cityId": "7095964",
+        "name": "Amphoe Na Mom",
+        "stateId": "1606146",
+        "latitude": 6.9599,
+        "longitude": 100.57161
+    },
+    {
+        "cityId": "7465824",
+        "name": "Amphoe Khlong Hoi Khong",
+        "stateId": "1606146",
+        "latitude": 6.86623,
+        "longitude": 100.35353
+    },
+    {
+        "cityId": "7510671",
+        "name": "Amphoe Khuan Niang",
+        "stateId": "1606146",
+        "latitude": 7.18231,
+        "longitude": 100.37403
+    },
+    {
+        "cityId": "7510672",
+        "name": "Amphoe Bang Klam",
+        "stateId": "1606146",
+        "latitude": 7.06404,
+        "longitude": 100.40664
+    },
+    {
+        "cityId": "7603496",
+        "name": "Amphoe Krasae Sin",
+        "stateId": "1606146",
+        "latitude": 7.61254,
+        "longitude": 100.32827
+    }
+]

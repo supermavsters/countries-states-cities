@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "1220107",
+        "name": "Yavanskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 38.25,
+        "longitude": 69
+    },
+    {
+        "cityId": "1220445",
+        "name": "Sovetskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 38.08333,
+        "longitude": 69.58333
+    },
+    {
+        "cityId": "1221090",
+        "name": "Muminobodskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 38.08333,
+        "longitude": 70
+    },
+    {
+        "cityId": "1221253",
+        "name": "Bokhtarskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 37.865,
+        "longitude": 68.85
+    },
+    {
+        "cityId": "1221320",
+        "name": "Khovalingskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 38.35,
+        "longitude": 69.96667
+    },
+    {
+        "cityId": "1221646",
+        "name": "Gozimalikskiy Rayon",
+        "stateId": "1347488",
+        "latitude": 38.13333,
+        "longitude": 68.66667
+    },
+    {
+        "cityId": "7670506",
+        "name": "Shuro-obod District",
+        "stateId": "1347488",
+        "latitude": 37.8,
+        "longitude": 70
+    },
+    {
+        "cityId": "7670570",
+        "name": "Norak",
+        "stateId": "1347488",
+        "latitude": 38.375,
+        "longitude": 69.32488
+    },
+    {
+        "cityId": "7798497",
+        "name": "Qumsangir District",
+        "stateId": "1347488",
+        "latitude": 37.45111,
+        "longitude": 68.63889
+    },
+    {
+        "cityId": "8220956",
+        "name": "Nohiyai Abdurahmoni Jom\u00ed",
+        "stateId": "1347488",
+        "latitude": 38.05115,
+        "longitude": 68.81425
+    },
+    {
+        "cityId": "8220957",
+        "name": "Nohiyai Baljuvon",
+        "stateId": "1347488",
+        "latitude": 38.49763,
+        "longitude": 69.84949
+    },
+    {
+        "cityId": "8220958",
+        "name": "Nohiyai Bokhtar",
+        "stateId": "1347488",
+        "latitude": 37.84527,
+        "longitude": 68.85842
+    },
+    {
+        "cityId": "8220959",
+        "name": "Nohiyai Vakhsh",
+        "stateId": "1347488",
+        "latitude": 37.75602,
+        "longitude": 68.94138
+    },
+    {
+        "cityId": "8221033",
+        "name": "Nohiyai Vose\u2019",
+        "stateId": "1347488",
+        "latitude": 37.92785,
+        "longitude": 69.62226
+    },
+    {
+        "cityId": "8221235",
+        "name": "Nohiyai Danghara",
+        "stateId": "1347488",
+        "latitude": 38.08511,
+        "longitude": 69.26995
+    },
+    {
+        "cityId": "8221240",
+        "name": "Nohiyai Yovon",
+        "stateId": "1347488",
+        "latitude": 38.28737,
+        "longitude": 69.00417
+    },
+    {
+        "cityId": "8221250",
+        "name": "Nohiyai Kolkhozobod",
+        "stateId": "1347488",
+        "latitude": 37.57277,
+        "longitude": 68.81528
+    },
+    {
+        "cityId": "8221255",
+        "name": "Nohiyai Qubodiyon",
+        "stateId": "1347488",
+        "latitude": 37.49623,
+        "longitude": 68.26299
+    },
+    {
+        "cityId": "8221261",
+        "name": "Nohiyai K\u016dlob",
+        "stateId": "1347488",
+        "latitude": 38.01318,
+        "longitude": 69.8086
+    },
+    {
+        "cityId": "8221269",
+        "name": "Nohiyai M\u016d\u2019minobod",
+        "stateId": "1347488",
+        "latitude": 38.14097,
+        "longitude": 70.02559
+    },
+    {
+        "cityId": "8221272",
+        "name": "Nohiyai Nosiri Khusrav",
+        "stateId": "1347488",
+        "latitude": 37.20954,
+        "longitude": 67.91996
+    },
+    {
+        "cityId": "8221276",
+        "name": "Nohiyai Panj",
+        "stateId": "1347488",
+        "latitude": 37.31611,
+        "longitude": 69.16679
+    },
+    {
+        "cityId": "8221279",
+        "name": "Nohiyai Sarband",
+        "stateId": "1347488",
+        "latitude": 37.95331,
+        "longitude": 68.97307
+    },
+    {
+        "cityId": "8221283",
+        "name": "Nohiyai Temurmalik",
+        "stateId": "1347488",
+        "latitude": 38.176,
+        "longitude": 69.56783
+    },
+    {
+        "cityId": "8221284",
+        "name": "Nohiyai Farkhor",
+        "stateId": "1347488",
+        "latitude": 37.52526,
+        "longitude": 69.33277
+    },
+    {
+        "cityId": "8221285",
+        "name": "Nohiyai Khovaling",
+        "stateId": "1347488",
+        "latitude": 38.40851,
+        "longitude": 70.10587
+    },
+    {
+        "cityId": "8221286",
+        "name": "Nohiyai Khuroson",
+        "stateId": "1347488",
+        "latitude": 38.06667,
+        "longitude": 68.68333
+    },
+    {
+        "cityId": "8221287",
+        "name": "Nohiyai Hamadon\u00ed",
+        "stateId": "1347488",
+        "latitude": 37.7036,
+        "longitude": 69.65214
+    },
+    {
+        "cityId": "8221288",
+        "name": "Nohiyai Jilik\u016dl",
+        "stateId": "1347488",
+        "latitude": 37.55438,
+        "longitude": 68.47444
+    },
+    {
+        "cityId": "8221292",
+        "name": "Nohiyai Shahritus",
+        "stateId": "1347488",
+        "latitude": 37.47042,
+        "longitude": 68.03759
+    }
+]

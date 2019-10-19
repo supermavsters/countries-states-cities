@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "5847795",
+        "name": "Kalawao County",
+        "stateId": "5855797",
+        "latitude": 21.18569,
+        "longitude": -156.95944
+    },
+    {
+        "cityId": "5848514",
+        "name": "Kauai County",
+        "stateId": "5855797",
+        "latitude": 22.01108,
+        "longitude": -159.70544
+    },
+    {
+        "cityId": "5850871",
+        "name": "Maui County",
+        "stateId": "5855797",
+        "latitude": 20.86774,
+        "longitude": -156.61706
+    },
+    {
+        "cityId": "5855765",
+        "name": "Hawaii County",
+        "stateId": "5855797",
+        "latitude": 19.6024,
+        "longitude": -155.52289
+    },
+    {
+        "cityId": "5856194",
+        "name": "Honolulu County",
+        "stateId": "5855797",
+        "latitude": 21.45543,
+        "longitude": -157.96138
+    }
+]

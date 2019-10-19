@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "3625123",
+        "name": "Municipio Zamora",
+        "stateId": "3649110",
+        "latitude": 10.06667,
+        "longitude": -67.5
+    },
+    {
+        "cityId": "3625660",
+        "name": "Municipio Urdaneta",
+        "stateId": "3649110",
+        "latitude": 9.71667,
+        "longitude": -66.8
+    },
+    {
+        "cityId": "3626659",
+        "name": "Municipio Sucre",
+        "stateId": "3649110",
+        "latitude": 10.16667,
+        "longitude": -67.45
+    },
+    {
+        "cityId": "3627638",
+        "name": "Municipio San Sebasti\u00e1n",
+        "stateId": "3649110",
+        "latitude": 10,
+        "longitude": -67.16667
+    },
+    {
+        "cityId": "3628486",
+        "name": "Municipio San Casimiro",
+        "stateId": "3649110",
+        "latitude": 10,
+        "longitude": -66.91667
+    },
+    {
+        "cityId": "3640595",
+        "name": "Municipio Girardot",
+        "stateId": "3649110",
+        "latitude": 10.41667,
+        "longitude": -67.66667
+    },
+    {
+        "cityId": "8129149",
+        "name": "Municipio Santos Michelena",
+        "stateId": "3649110",
+        "latitude": 10.25237,
+        "longitude": -67.18472
+    },
+    {
+        "cityId": "8129176",
+        "name": "Municipio Jos\u00e9 Rafael Revenga",
+        "stateId": "3649110",
+        "latitude": 10.23717,
+        "longitude": -67.27141
+    },
+    {
+        "cityId": "8129202",
+        "name": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+        "stateId": "3649110",
+        "latitude": 10.21844,
+        "longitude": -67.33017
+    },
+    {
+        "cityId": "8129205",
+        "name": "Municipio Santiago Mari\u00f1o",
+        "stateId": "3649110",
+        "latitude": 10.22388,
+        "longitude": -67.47288
+    },
+    {
+        "cityId": "8129206",
+        "name": "Municipio Bol\u00edvar",
+        "stateId": "3649110",
+        "latitude": 10.21302,
+        "longitude": -67.42365
+    },
+    {
+        "cityId": "8129226",
+        "name": "Municipio Jos\u00e9 Angel Lamas",
+        "stateId": "3649110",
+        "latitude": 10.18,
+        "longitude": -67.51184
+    },
+    {
+        "cityId": "8129235",
+        "name": "Municipio Ocumare de La Costa de Oro",
+        "stateId": "3649110",
+        "latitude": 10.46127,
+        "longitude": -67.76872
+    },
+    {
+        "cityId": "8129237",
+        "name": "Municipio Libertador",
+        "stateId": "3649110",
+        "latitude": 10.17389,
+        "longitude": -67.54194
+    },
+    {
+        "cityId": "8129250",
+        "name": "Municipio Camatagua",
+        "stateId": "3649110",
+        "latitude": 9.78762,
+        "longitude": -66.90619
+    },
+    {
+        "cityId": "8131393",
+        "name": "Municipio Mario Brice\u00f1o Iragorry",
+        "stateId": "3649110",
+        "latitude": 10.30314,
+        "longitude": -67.6172
+    },
+    {
+        "cityId": "8131394",
+        "name": "Municipio Tovar",
+        "stateId": "3649110",
+        "latitude": 10.40353,
+        "longitude": -67.2916
+    },
+    {
+        "cityId": "8131395",
+        "name": "Municipio Francisco Linares Alc\u00e1ntara",
+        "stateId": "3649110",
+        "latitude": 10.20028,
+        "longitude": -67.55139
+    }
+]

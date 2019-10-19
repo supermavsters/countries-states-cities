@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8347353",
+        "name": "Ekurhuleni Metropolitan Municipality",
+        "stateId": "1085594",
+        "latitude": -26.1989,
+        "longitude": 28.31262
+    },
+    {
+        "cityId": "8347354",
+        "name": "City of Johannesburg Metropolitan Municipality",
+        "stateId": "1085594",
+        "latitude": -26.17673,
+        "longitude": 27.96353
+    },
+    {
+        "cityId": "8347355",
+        "name": "City of Tshwane Metropolitan Municipality",
+        "stateId": "1085594",
+        "latitude": -25.65985,
+        "longitude": 28.44343
+    },
+    {
+        "cityId": "8347377",
+        "name": "Sedibeng District Municipality",
+        "stateId": "1085594",
+        "latitude": -26.56686,
+        "longitude": 28.18277
+    },
+    {
+        "cityId": "8347381",
+        "name": "West Rand District Municipality",
+        "stateId": "1085594",
+        "latitude": -26.24565,
+        "longitude": 27.55538
+    }
+]

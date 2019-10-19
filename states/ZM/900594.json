@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "895952",
+        "name": "Zambezi District",
+        "stateId": "900594",
+        "latitude": -13.58963,
+        "longitude": 22.95404
+    },
+    {
+        "cityId": "897041",
+        "name": "Solwezi District",
+        "stateId": "900594",
+        "latitude": -12.39277,
+        "longitude": 26.04287
+    },
+    {
+        "cityId": "902616",
+        "name": "Mwinilunga District",
+        "stateId": "900594",
+        "latitude": -12.00079,
+        "longitude": 24.58469
+    },
+    {
+        "cityId": "912623",
+        "name": "Kasempa District",
+        "stateId": "900594",
+        "latitude": -13.63667,
+        "longitude": 26.2258
+    },
+    {
+        "cityId": "916244",
+        "name": "Kabompo District",
+        "stateId": "900594",
+        "latitude": -13.48946,
+        "longitude": 23.95609
+    },
+    {
+        "cityId": "10801775",
+        "name": "Ikelenge",
+        "stateId": "900594",
+        "latitude": -11.23772,
+        "longitude": 24.20839
+    },
+    {
+        "cityId": "10801797",
+        "name": "Chavuma",
+        "stateId": "900594",
+        "latitude": -13.19765,
+        "longitude": 22.38958
+    },
+    {
+        "cityId": "10801798",
+        "name": "Mufumbwe",
+        "stateId": "900594",
+        "latitude": -13.76211,
+        "longitude": 25.14392
+    },
+    {
+        "cityId": "10814730",
+        "name": "Manyinga District",
+        "stateId": "900594",
+        "latitude": -12.9722,
+        "longitude": 24.32063
+    }
+]

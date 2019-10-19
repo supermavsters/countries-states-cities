@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1621175",
+        "name": "Kota Yogyakarta",
+        "stateId": "1621176",
+        "latitude": -7.8,
+        "longitude": 110.375
+    },
+    {
+        "cityId": "1643604",
+        "name": "Kabupaten Gunung Kidul",
+        "stateId": "1621176",
+        "latitude": -7.98333,
+        "longitude": 110.61667
+    },
+    {
+        "cityId": "1650117",
+        "name": "Kabupaten Bantul",
+        "stateId": "1621176",
+        "latitude": -7.9,
+        "longitude": 110.36667
+    },
+    {
+        "cityId": "6258231",
+        "name": "Kabupaten Sleman",
+        "stateId": "1621176",
+        "latitude": -7.68167,
+        "longitude": 110.32333
+    },
+    {
+        "cityId": "7910930",
+        "name": "Kabupaten Kulon Progo",
+        "stateId": "1621176",
+        "latitude": -7.645,
+        "longitude": 110.02694
+    }
+]

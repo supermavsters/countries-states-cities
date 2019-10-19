@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "728055",
+        "name": "Obshtina Pordim",
+        "stateId": "728204",
+        "latitude": 43.38333,
+        "longitude": 24.9
+    },
+    {
+        "cityId": "728202",
+        "name": "Obshtina Pleven",
+        "stateId": "728204",
+        "latitude": 43.4,
+        "longitude": 24.7
+    },
+    {
+        "cityId": "728347",
+        "name": "Obshtina Iskar",
+        "stateId": "728204",
+        "latitude": 43.5,
+        "longitude": 24.28333
+    },
+    {
+        "cityId": "728781",
+        "name": "Obshtina Nikopol",
+        "stateId": "728204",
+        "latitude": 43.6,
+        "longitude": 24.93333
+    },
+    {
+        "cityId": "729635",
+        "name": "Obshtina Levski",
+        "stateId": "728204",
+        "latitude": 43.43333,
+        "longitude": 25.1
+    },
+    {
+        "cityId": "730286",
+        "name": "Obshtina Knezha",
+        "stateId": "728204",
+        "latitude": 43.5,
+        "longitude": 24.11667
+    },
+    {
+        "cityId": "730981",
+        "name": "Obshtina Gulyantsi",
+        "stateId": "728204",
+        "latitude": 43.68333,
+        "longitude": 24.65
+    },
+    {
+        "cityId": "732098",
+        "name": "Obshtina Dolni Dabnik",
+        "stateId": "728204",
+        "latitude": 43.36667,
+        "longitude": 24.41667
+    },
+    {
+        "cityId": "732121",
+        "name": "Obshtina Dolna Mitropolia",
+        "stateId": "728204",
+        "latitude": 43.58333,
+        "longitude": 24.41667
+    },
+    {
+        "cityId": "732490",
+        "name": "Obshtina Cherven Bryag",
+        "stateId": "728204",
+        "latitude": 43.33333,
+        "longitude": 24.13333
+    },
+    {
+        "cityId": "733358",
+        "name": "Obshtina Belene",
+        "stateId": "728204",
+        "latitude": 43.63333,
+        "longitude": 25.13333
+    }
+]

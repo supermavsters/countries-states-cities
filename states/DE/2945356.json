@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "2852455",
+        "name": "Kreisfreie Stadt Potsdam",
+        "stateId": "2945356",
+        "latitude": 52.40444,
+        "longitude": 13.04722
+    },
+    {
+        "cityId": "2852456",
+        "name": "Landkreis Potsdam-Mittelmark",
+        "stateId": "2945356",
+        "latitude": 52.21944,
+        "longitude": 12.675
+    },
+    {
+        "cityId": "2925534",
+        "name": "Frankfurt (Oder)",
+        "stateId": "2945356",
+        "latitude": 52.33694,
+        "longitude": 14.49222
+    },
+    {
+        "cityId": "2939810",
+        "name": "Kreisfreie Stadt Cottbus",
+        "stateId": "2945356",
+        "latitude": 51.75753,
+        "longitude": 14.32343
+    },
+    {
+        "cityId": "2945354",
+        "name": "Kreisfreie Stadt Brandenburg an der Havel",
+        "stateId": "2945356",
+        "latitude": 52.40528,
+        "longitude": 12.51389
+    },
+    {
+        "cityId": "3249079",
+        "name": "Landkreis Barnim",
+        "stateId": "2945356",
+        "latitude": 52.84306,
+        "longitude": 13.70917
+    },
+    {
+        "cityId": "3249080",
+        "name": "Landkreis Dahme-Spreewald",
+        "stateId": "2945356",
+        "latitude": 52.01361,
+        "longitude": 13.88444
+    },
+    {
+        "cityId": "3249081",
+        "name": "Landkreis Elbe-Elster",
+        "stateId": "2945356",
+        "latitude": 51.63389,
+        "longitude": 13.44
+    },
+    {
+        "cityId": "3249082",
+        "name": "Landkreis Havelland",
+        "stateId": "2945356",
+        "latitude": 52.6425,
+        "longitude": 12.67222
+    },
+    {
+        "cityId": "3249083",
+        "name": "Landkreis M\u00e4rkisch-Oderland",
+        "stateId": "2945356",
+        "latitude": 52.6375,
+        "longitude": 14.17667
+    },
+    {
+        "cityId": "3249084",
+        "name": "Landkreis Oberhavel",
+        "stateId": "2945356",
+        "latitude": 52.95167,
+        "longitude": 13.23278
+    },
+    {
+        "cityId": "3249085",
+        "name": "Landkreis Oberspreewald-Lausitz",
+        "stateId": "2945356",
+        "latitude": 51.64167,
+        "longitude": 13.99944
+    },
+    {
+        "cityId": "3249086",
+        "name": "Landkreis Oder-Spree",
+        "stateId": "2945356",
+        "latitude": 52.24944,
+        "longitude": 14.24028
+    },
+    {
+        "cityId": "3249087",
+        "name": "Landkreis Ostprignitz-Ruppin",
+        "stateId": "2945356",
+        "latitude": 52.99778,
+        "longitude": 12.67389
+    },
+    {
+        "cityId": "3249088",
+        "name": "Landkreis Prignitz",
+        "stateId": "2945356",
+        "latitude": 53.11528,
+        "longitude": 11.98944
+    },
+    {
+        "cityId": "3249089",
+        "name": "Landkreis Spree-Nei\u00dfe",
+        "stateId": "2945356",
+        "latitude": 51.75056,
+        "longitude": 14.41833
+    },
+    {
+        "cityId": "3249090",
+        "name": "Landkreis Teltow-Fl\u00e4ming",
+        "stateId": "2945356",
+        "latitude": 52.12278,
+        "longitude": 13.27222
+    },
+    {
+        "cityId": "3249091",
+        "name": "Landkreis Uckermark",
+        "stateId": "2945356",
+        "latitude": 53.22583,
+        "longitude": 13.84639
+    }
+]

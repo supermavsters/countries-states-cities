@@ -1,0 +1,380 @@
+[
+    {
+        "cityId": "2743607",
+        "name": "Gemeente Zutphen",
+        "stateId": "2755634",
+        "latitude": 52.13145,
+        "longitude": 6.23132
+    },
+    {
+        "cityId": "2743948",
+        "name": "Gemeente Zevenaar",
+        "stateId": "2755634",
+        "latitude": 51.95376,
+        "longitude": 6.07727
+    },
+    {
+        "cityId": "2744101",
+        "name": "Gemeente Zaltbommel",
+        "stateId": "2755634",
+        "latitude": 51.7868,
+        "longitude": 5.15254
+    },
+    {
+        "cityId": "2744331",
+        "name": "Gemeente Winterswijk",
+        "stateId": "2755634",
+        "latitude": 51.97226,
+        "longitude": 6.72544
+    },
+    {
+        "cityId": "2744513",
+        "name": "Gemeente Wijchen",
+        "stateId": "2755634",
+        "latitude": 51.81884,
+        "longitude": 5.69862
+    },
+    {
+        "cityId": "2744674",
+        "name": "Gemeente Westervoort",
+        "stateId": "2755634",
+        "latitude": 51.95949,
+        "longitude": 5.97435
+    },
+    {
+        "cityId": "2745087",
+        "name": "Gemeente Wageningen",
+        "stateId": "2755634",
+        "latitude": 51.96876,
+        "longitude": 5.66675
+    },
+    {
+        "cityId": "2745295",
+        "name": "Gemeente Voorst",
+        "stateId": "2755634",
+        "latitude": 52.22965,
+        "longitude": 6.09992
+    },
+    {
+        "cityId": "2746330",
+        "name": "Gemeente Tiel",
+        "stateId": "2755634",
+        "latitude": 51.88463,
+        "longitude": 5.40429
+    },
+    {
+        "cityId": "2747605",
+        "name": "Gemeente Scherpenzeel",
+        "stateId": "2755634",
+        "latitude": 52.08773,
+        "longitude": 5.48698
+    },
+    {
+        "cityId": "2747863",
+        "name": "Gemeente Rozendaal",
+        "stateId": "2755634",
+        "latitude": 52.03913,
+        "longitude": 5.97268
+    },
+    {
+        "cityId": "2748200",
+        "name": "Gemeente Rheden",
+        "stateId": "2755634",
+        "latitude": 52.03386,
+        "longitude": 6.04547
+    },
+    {
+        "cityId": "2748235",
+        "name": "Gemeente Renkum",
+        "stateId": "2755634",
+        "latitude": 51.99036,
+        "longitude": 5.78723
+    },
+    {
+        "cityId": "2748391",
+        "name": "Gemeente Putten",
+        "stateId": "2755634",
+        "latitude": 52.24438,
+        "longitude": 5.57827
+    },
+    {
+        "cityId": "2749667",
+        "name": "Gemeente Oldebroek",
+        "stateId": "2755634",
+        "latitude": 52.44502,
+        "longitude": 5.90086
+    },
+    {
+        "cityId": "2749754",
+        "name": "Gemeente Nunspeet",
+        "stateId": "2755634",
+        "latitude": 52.33524,
+        "longitude": 5.78771
+    },
+    {
+        "cityId": "2750052",
+        "name": "Gemeente Nijmegen",
+        "stateId": "2755634",
+        "latitude": 51.84168,
+        "longitude": 5.83813
+    },
+    {
+        "cityId": "2750064",
+        "name": "Gemeente Nijkerk",
+        "stateId": "2755634",
+        "latitude": 52.217,
+        "longitude": 5.483
+    },
+    {
+        "cityId": "2751295",
+        "name": "Gemeente Maasdriel",
+        "stateId": "2755634",
+        "latitude": 51.77337,
+        "longitude": 5.29711
+    },
+    {
+        "cityId": "2751536",
+        "name": "Gemeente Lochem",
+        "stateId": "2755634",
+        "latitude": 52.18478,
+        "longitude": 6.337
+    },
+    {
+        "cityId": "2754146",
+        "name": "Gemeente Heumen",
+        "stateId": "2755634",
+        "latitude": 51.77438,
+        "longitude": 5.81312
+    },
+    {
+        "cityId": "2754680",
+        "name": "Gemeente Heerde",
+        "stateId": "2755634",
+        "latitude": 52.38833,
+        "longitude": 6.03889
+    },
+    {
+        "cityId": "2754767",
+        "name": "Gemeente Hattem",
+        "stateId": "2755634",
+        "latitude": 52.47566,
+        "longitude": 6.05195
+    },
+    {
+        "cityId": "2754846",
+        "name": "Gemeente Harderwijk",
+        "stateId": "2755634",
+        "latitude": 52.3454,
+        "longitude": 5.63948
+    },
+    {
+        "cityId": "2755270",
+        "name": "Gemeente Berg en Dal",
+        "stateId": "2755634",
+        "latitude": 51.78412,
+        "longitude": 5.92968
+    },
+    {
+        "cityId": "2755632",
+        "name": "Gemeente Geldermalsen",
+        "stateId": "2755634",
+        "latitude": 51.88881,
+        "longitude": 5.22689
+    },
+    {
+        "cityId": "2756038",
+        "name": "Gemeente Ermelo",
+        "stateId": "2755634",
+        "latitude": 52.28826,
+        "longitude": 5.65538
+    },
+    {
+        "cityId": "2756058",
+        "name": "Gemeente Epe",
+        "stateId": "2755634",
+        "latitude": 52.33394,
+        "longitude": 5.96175
+    },
+    {
+        "cityId": "2756231",
+        "name": "Gemeente Elburg",
+        "stateId": "2755634",
+        "latitude": 52.41487,
+        "longitude": 5.84868
+    },
+    {
+        "cityId": "2756428",
+        "name": "Gemeente Ede",
+        "stateId": "2755634",
+        "latitude": 52.08118,
+        "longitude": 5.7449
+    },
+    {
+        "cityId": "2756506",
+        "name": "Gemeente Duiven",
+        "stateId": "2755634",
+        "latitude": 51.9474,
+        "longitude": 6.0172
+    },
+    {
+        "cityId": "2756538",
+        "name": "Gemeente Druten",
+        "stateId": "2755634",
+        "latitude": 51.87184,
+        "longitude": 5.61322
+    },
+    {
+        "cityId": "2756766",
+        "name": "Gemeente Doetinchem",
+        "stateId": "2755634",
+        "latitude": 51.96216,
+        "longitude": 6.27955
+    },
+    {
+        "cityId": "2756770",
+        "name": "Gemeente Doesburg",
+        "stateId": "2755634",
+        "latitude": 52.01935,
+        "longitude": 6.14855
+    },
+    {
+        "cityId": "2757871",
+        "name": "Gemeente Culemborg",
+        "stateId": "2755634",
+        "latitude": 51.94465,
+        "longitude": 5.20946
+    },
+    {
+        "cityId": "2758095",
+        "name": "Gemeente Buren",
+        "stateId": "2755634",
+        "latitude": 51.90901,
+        "longitude": 5.33403
+    },
+    {
+        "cityId": "2758176",
+        "name": "Gemeente Brummen",
+        "stateId": "2755634",
+        "latitude": 52.11063,
+        "longitude": 6.11791
+    },
+    {
+        "cityId": "2759014",
+        "name": "Gemeente Beuningen",
+        "stateId": "2755634",
+        "latitude": 51.8595,
+        "longitude": 5.74362
+    },
+    {
+        "cityId": "2759406",
+        "name": "Gemeente Barneveld",
+        "stateId": "2755634",
+        "latitude": 52.1688,
+        "longitude": 5.63985
+    },
+    {
+        "cityId": "2759660",
+        "name": "Gemeente Arnhem",
+        "stateId": "2755634",
+        "latitude": 52.00113,
+        "longitude": 5.89641
+    },
+    {
+        "cityId": "2759705",
+        "name": "Gemeente Apeldoorn",
+        "stateId": "2755634",
+        "latitude": 52.18722,
+        "longitude": 5.91969
+    },
+    {
+        "cityId": "2760122",
+        "name": "Gemeente Aalten",
+        "stateId": "2755634",
+        "latitude": 51.9242,
+        "longitude": 6.56574
+    },
+    {
+        "cityId": "6544222",
+        "name": "Oude IJsselstreek",
+        "stateId": "2755634",
+        "latitude": 51.89963,
+        "longitude": 6.38078
+    },
+    {
+        "cityId": "6544228",
+        "name": "Oost Gelre",
+        "stateId": "2755634",
+        "latitude": 52.00425,
+        "longitude": 6.54958
+    },
+    {
+        "cityId": "6544236",
+        "name": "Gemeente Lingewaard",
+        "stateId": "2755634",
+        "latitude": 51.89558,
+        "longitude": 5.94577
+    },
+    {
+        "cityId": "6544243",
+        "name": "Gemeente Lingewaal",
+        "stateId": "2755634",
+        "latitude": 51.85097,
+        "longitude": 5.07685
+    },
+    {
+        "cityId": "6544256",
+        "name": "Gemeente Montferland",
+        "stateId": "2755634",
+        "latitude": 51.91925,
+        "longitude": 6.21333
+    },
+    {
+        "cityId": "6544265",
+        "name": "Gemeente West Maas en Waal",
+        "stateId": "2755634",
+        "latitude": 51.84494,
+        "longitude": 5.51074
+    },
+    {
+        "cityId": "6544269",
+        "name": "Gemeente Neder-Betuwe",
+        "stateId": "2755634",
+        "latitude": 51.91442,
+        "longitude": 5.57147
+    },
+    {
+        "cityId": "6544274",
+        "name": "Gemeente Rijnwaarden",
+        "stateId": "2755634",
+        "latitude": 51.876,
+        "longitude": 6.09139
+    },
+    {
+        "cityId": "6544276",
+        "name": "Gemeente Overbetuwe",
+        "stateId": "2755634",
+        "latitude": 51.91843,
+        "longitude": 5.78686
+    },
+    {
+        "cityId": "6544286",
+        "name": "Berkelland",
+        "stateId": "2755634",
+        "latitude": 52.10606,
+        "longitude": 6.56748
+    },
+    {
+        "cityId": "6544290",
+        "name": "Gemeente Bronckhorst",
+        "stateId": "2755634",
+        "latitude": 52.04401,
+        "longitude": 6.30378
+    },
+    {
+        "cityId": "6544294",
+        "name": "Gemeente Neerijnen",
+        "stateId": "2755634",
+        "latitude": 51.83109,
+        "longitude": 5.28632
+    }
+]

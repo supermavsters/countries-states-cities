@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1734461",
+        "name": "Tanah Merah",
+        "stateId": "1733044",
+        "latitude": 5.66667,
+        "longitude": 102
+    },
+    {
+        "cityId": "1736375",
+        "name": "Kota Bharu",
+        "stateId": "1733044",
+        "latitude": 6.05666,
+        "longitude": 102.26451
+    },
+    {
+        "cityId": "7067991",
+        "name": "Jeli",
+        "stateId": "1733044",
+        "latitude": 5.58762,
+        "longitude": 101.81001
+    },
+    {
+        "cityId": "9781089",
+        "name": "Kuala Krai",
+        "stateId": "1733044",
+        "latitude": 5.57362,
+        "longitude": 102.21405
+    }
+]

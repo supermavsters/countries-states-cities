@@ -1,0 +1,170 @@
+[
+    {
+        "stateId": "3660130",
+        "name": "Provincia de Bol\u00edvar",
+        "countryId": "3658394",
+        "latitude": -1.58333,
+        "longitude": -79.08333
+    },
+    {
+        "stateId": "3658766",
+        "name": "Provincia de Cotopaxi",
+        "countryId": "3658394",
+        "latitude": -0.83333,
+        "longitude": -78.83333
+    },
+    {
+        "stateId": "3658195",
+        "name": "Provincia de El Oro",
+        "countryId": "3658394",
+        "latitude": -3.5,
+        "longitude": -79.83333
+    },
+    {
+        "stateId": "3657986",
+        "name": "Provincia de Esmeraldas",
+        "countryId": "3658394",
+        "latitude": 0.83333,
+        "longitude": -79.25
+    },
+    {
+        "stateId": "3830306",
+        "name": "Provincia de Francisco de Orellana",
+        "countryId": "3658394",
+        "latitude": -0.75,
+        "longitude": -76.41667
+    },
+    {
+        "stateId": "3657879",
+        "name": "Provincia de Gal\u00e1pagos",
+        "countryId": "3658394",
+        "latitude": -0.67015,
+        "longitude": -90.87341
+    },
+    {
+        "stateId": "3655635",
+        "name": "Provincia de Imbabura",
+        "countryId": "3658394",
+        "latitude": 0.37631,
+        "longitude": -78.32371
+    },
+    {
+        "stateId": "3654665",
+        "name": "Provincia de Loja",
+        "countryId": "3658394",
+        "latitude": -4.16667,
+        "longitude": -79.5
+    },
+    {
+        "stateId": "3654592",
+        "name": "Provincia de Los R\u00edos",
+        "countryId": "3658394",
+        "latitude": -1.41667,
+        "longitude": -79.58333
+    },
+    {
+        "stateId": "3654451",
+        "name": "Provincia de Manab\u00ed",
+        "countryId": "3658394",
+        "latitude": -0.66667,
+        "longitude": -80.08333
+    },
+    {
+        "stateId": "3654005",
+        "name": "Provincia de Morona-Santiago",
+        "countryId": "3658394",
+        "latitude": -2.5,
+        "longitude": -77.91667
+    },
+    {
+        "stateId": "3653890",
+        "name": "Provincia de Napo",
+        "countryId": "3658394",
+        "latitude": -0.62915,
+        "longitude": -77.83164
+    },
+    {
+        "stateId": "3653224",
+        "name": "Provincia de Pichincha",
+        "countryId": "3658394",
+        "latitude": -0.08333,
+        "longitude": -78.5
+    },
+    {
+        "stateId": "7062138",
+        "name": "Provincia de Santa Elena",
+        "countryId": "3658394",
+        "latitude": -2.08333,
+        "longitude": -80.58333
+    },
+    {
+        "stateId": "7062136",
+        "name": "Provincia de Santo Domingo de los Ts\u00e1chilas",
+        "countryId": "3658394",
+        "latitude": -0.28945,
+        "longitude": -79.18577
+    },
+    {
+        "stateId": "3830305",
+        "name": "Provincia de Sucumb\u00edos",
+        "countryId": "3658394",
+        "latitude": 0.1,
+        "longitude": -76.86667
+    },
+    {
+        "stateId": "3649953",
+        "name": "Provincia de Zamora-Chinchipe",
+        "countryId": "3658394",
+        "latitude": -4.25,
+        "longitude": -78.83333
+    },
+    {
+        "stateId": "3660431",
+        "name": "Provincia del Azuay",
+        "countryId": "3658394",
+        "latitude": -3.08333,
+        "longitude": -79.33333
+    },
+    {
+        "stateId": "3659718",
+        "name": "Provincia del Carchi",
+        "countryId": "3658394",
+        "latitude": 0.75,
+        "longitude": -78.08333
+    },
+    {
+        "stateId": "3659849",
+        "name": "Provincia del Ca\u00f1ar",
+        "countryId": "3658394",
+        "latitude": -2.5,
+        "longitude": -79
+    },
+    {
+        "stateId": "3659237",
+        "name": "Provincia del Chimborazo",
+        "countryId": "3658394",
+        "latitude": -1.91667,
+        "longitude": -78.75
+    },
+    {
+        "stateId": "3657505",
+        "name": "Provincia del Guayas",
+        "countryId": "3658394",
+        "latitude": -2,
+        "longitude": -79.83333
+    },
+    {
+        "stateId": "3653392",
+        "name": "Provincia del Pastaza",
+        "countryId": "3658394",
+        "latitude": -1.66667,
+        "longitude": -76.83333
+    },
+    {
+        "stateId": "3650445",
+        "name": "Provincia del Tungurahua",
+        "countryId": "3658394",
+        "latitude": -1.25,
+        "longitude": -78.5
+    }
+]

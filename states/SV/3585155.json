@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3583530",
+        "name": "Distrito de San Juan Opico",
+        "stateId": "3585155",
+        "latitude": 13.86667,
+        "longitude": -89.4
+    },
+    {
+        "cityId": "3583980",
+        "name": "Distrito de Quezaltepeque",
+        "stateId": "3585155",
+        "latitude": 13.91667,
+        "longitude": -89.25
+    },
+    {
+        "cityId": "3584256",
+        "name": "Distrito de Santa Tecla",
+        "stateId": "3585155",
+        "latitude": 13.63333,
+        "longitude": -89.36667
+    }
+]

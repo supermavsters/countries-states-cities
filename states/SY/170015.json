@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "164946",
+        "name": "Al-Salamiyah District",
+        "stateId": "170015",
+        "latitude": 35.14398,
+        "longitude": 37.59235
+    },
+    {
+        "cityId": "167044",
+        "name": "Masyaf District",
+        "stateId": "170015",
+        "latitude": 35.10335,
+        "longitude": 36.3392
+    },
+    {
+        "cityId": "170016",
+        "name": "Hama District",
+        "stateId": "170015",
+        "latitude": 35.28577,
+        "longitude": 37.12626
+    },
+    {
+        "cityId": "173885",
+        "name": "Al-Suqaylabiyah District",
+        "stateId": "170015",
+        "latitude": 35.48102,
+        "longitude": 36.32441
+    },
+    {
+        "cityId": "8276860",
+        "name": "Mhardeh District",
+        "stateId": "170015",
+        "latitude": 35.30023,
+        "longitude": 36.54844
+    }
+]

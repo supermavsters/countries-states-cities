@@ -1,0 +1,72 @@
+[
+    {
+        "stateId": "3379515",
+        "name": "Barima-Waini Region",
+        "countryId": "3378535",
+        "latitude": 7.66667,
+        "longitude": -59.75
+    },
+    {
+        "stateId": "3379023",
+        "name": "Cuyuni-Mazaruni Region",
+        "countryId": "3378535",
+        "latitude": 6,
+        "longitude": -60
+    },
+    {
+        "stateId": "3378950",
+        "name": "Demerara-Mahaica Region",
+        "countryId": "3378535",
+        "latitude": 6.5,
+        "longitude": -58.08333
+    },
+    {
+        "stateId": "3378840",
+        "name": "East Berbice-Corentyne Region",
+        "countryId": "3378535",
+        "latitude": 4,
+        "longitude": -58.16667
+    },
+    {
+        "stateId": "3378741",
+        "name": "Essequibo Islands-West Demerara Region",
+        "countryId": "3378535",
+        "latitude": 6.66667,
+        "longitude": -58.5
+    },
+    {
+        "stateId": "3377274",
+        "name": "Mahaica-Berbice Region",
+        "countryId": "3378535",
+        "latitude": 6.25,
+        "longitude": -57.83333
+    },
+    {
+        "stateId": "3376407",
+        "name": "Pomeroon-Supenaam Region",
+        "countryId": "3378535",
+        "latitude": 7.08333,
+        "longitude": -58.83333
+    },
+    {
+        "stateId": "3376386",
+        "name": "Potaro-Siparuni Region",
+        "countryId": "3378535",
+        "latitude": 4.9,
+        "longitude": -59.3
+    },
+    {
+        "stateId": "3375469",
+        "name": "Upper Demerara-Berbice Region",
+        "countryId": "3378535",
+        "latitude": 5.5,
+        "longitude": -58.33333
+    },
+    {
+        "stateId": "3375463",
+        "name": "Upper Takutu-Upper Essequibo Region",
+        "countryId": "3378535",
+        "latitude": 2.91667,
+        "longitude": -59
+    }
+]

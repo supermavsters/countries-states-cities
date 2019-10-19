@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "449505",
+        "name": "Shahrest\u0101n-e P\u0101kdasht",
+        "stateId": "110791",
+        "latitude": 35.49448,
+        "longitude": 51.75302
+    },
+    {
+        "cityId": "449506",
+        "name": "Shahrest\u0101n-e Tehr\u0101n",
+        "stateId": "110791",
+        "latitude": 35.71006,
+        "longitude": 51.41744
+    },
+    {
+        "cityId": "449507",
+        "name": "Shahrest\u0101n-e Dam\u0101vand",
+        "stateId": "110791",
+        "latitude": 35.63005,
+        "longitude": 52.1375
+    },
+    {
+        "cityId": "449508",
+        "name": "Shahrest\u0101n-e Rob\u0101\u0163 Kar\u012bm",
+        "stateId": "110791",
+        "latitude": 35.52115,
+        "longitude": 51.03074
+    },
+    {
+        "cityId": "449509",
+        "name": "Rey",
+        "stateId": "110791",
+        "latitude": 35.37448,
+        "longitude": 51.27743
+    },
+    {
+        "cityId": "449511",
+        "name": "Shahrest\u0101n-e Shem\u012br\u0101n\u0101t",
+        "stateId": "110791",
+        "latitude": 35.93141,
+        "longitude": 51.58997
+    },
+    {
+        "cityId": "449512",
+        "name": "Shahrest\u0101n-e Shahr\u012b\u0101r",
+        "stateId": "110791",
+        "latitude": 35.62828,
+        "longitude": 51.06632
+    },
+    {
+        "cityId": "449513",
+        "name": "Shahrest\u0101n-e F\u012br\u016bzk\u016bh",
+        "stateId": "110791",
+        "latitude": 35.72852,
+        "longitude": 52.74164
+    },
+    {
+        "cityId": "449516",
+        "name": "Shahrest\u0101n-e Var\u0101m\u012bn",
+        "stateId": "110791",
+        "latitude": 35.33081,
+        "longitude": 51.64124
+    },
+    {
+        "cityId": "9533736",
+        "name": "Shahrest\u0101n-e Mal\u0101rd",
+        "stateId": "110791",
+        "latitude": 35.63333,
+        "longitude": 50.65
+    },
+    {
+        "cityId": "9533737",
+        "name": "Qods",
+        "stateId": "110791",
+        "latitude": 35.71667,
+        "longitude": 51.06667
+    },
+    {
+        "cityId": "9533739",
+        "name": "Shahrest\u0101n-e Bah\u0101rest\u0101n",
+        "stateId": "110791",
+        "latitude": 35.53333,
+        "longitude": 51.15
+    },
+    {
+        "cityId": "9533740",
+        "name": "Shahrest\u0101n-e Esl\u0101mshahr",
+        "stateId": "110791",
+        "latitude": 35.58333,
+        "longitude": 51.25
+    },
+    {
+        "cityId": "9533741",
+        "name": "Shahrest\u0101n-e P\u012bshv\u0101",
+        "stateId": "110791",
+        "latitude": 35.35,
+        "longitude": 51.71667
+    }
+]

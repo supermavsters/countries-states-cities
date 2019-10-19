@@ -1,0 +1,401 @@
+[
+    {
+        "cityId": "11351415",
+        "name": "Ti Boug",
+        "stateId": "3576441",
+        "latitude": 13.83744,
+        "longitude": -61.0246
+    },
+    {
+        "cityId": "11351416",
+        "name": "Belle Plaine",
+        "stateId": "3576441",
+        "latitude": 13.827,
+        "longitude": -61.03127
+    },
+    {
+        "cityId": "11351418",
+        "name": "Migny",
+        "stateId": "3576441",
+        "latitude": 13.84166,
+        "longitude": -61.01808
+    },
+    {
+        "cityId": "11351439",
+        "name": "Ti Delcer",
+        "stateId": "3576441",
+        "latitude": 13.83386,
+        "longitude": -61.0641
+    },
+    {
+        "cityId": "11351444",
+        "name": "Compar",
+        "stateId": "3576441",
+        "latitude": 13.83586,
+        "longitude": -61.05934
+    },
+    {
+        "cityId": "11351446",
+        "name": "St Remy Estate",
+        "stateId": "3576441",
+        "latitude": 13.81773,
+        "longitude": -61.04591
+    },
+    {
+        "cityId": "11351447",
+        "name": "Morne Bonin",
+        "stateId": "3576441",
+        "latitude": 13.83174,
+        "longitude": -61.03285
+    },
+    {
+        "cityId": "11351507",
+        "name": "Cresslands",
+        "stateId": "3576441",
+        "latitude": 13.85999,
+        "longitude": -61.04032
+    },
+    {
+        "cityId": "11351509",
+        "name": "Morne Lastic\/Desruisseaux",
+        "stateId": "3576441",
+        "latitude": 13.86628,
+        "longitude": -61.05894
+    },
+    {
+        "cityId": "11351514",
+        "name": "Sapphire",
+        "stateId": "3576441",
+        "latitude": 13.84954,
+        "longitude": -61.04786
+    },
+    {
+        "cityId": "11351518",
+        "name": "Soufriere Estate",
+        "stateId": "3576441",
+        "latitude": 13.85174,
+        "longitude": -61.0542
+    },
+    {
+        "cityId": "11351523",
+        "name": "Rabot",
+        "stateId": "3576441",
+        "latitude": 13.8338,
+        "longitude": -61.0454
+    },
+    {
+        "cityId": "11351527",
+        "name": "Chateau Belair",
+        "stateId": "3576441",
+        "latitude": 13.8183,
+        "longitude": -61.0535
+    },
+    {
+        "cityId": "11351535",
+        "name": "Fond Doux",
+        "stateId": "3576441",
+        "latitude": 13.82096,
+        "longitude": -61.04952
+    },
+    {
+        "cityId": "11351539",
+        "name": "La Dauphine",
+        "stateId": "3576441",
+        "latitude": 13.82187,
+        "longitude": -61.04228
+    },
+    {
+        "cityId": "11351540",
+        "name": "Ruby Estate",
+        "stateId": "3576441",
+        "latitude": 13.85812,
+        "longitude": -61.04983
+    },
+    {
+        "cityId": "11351546",
+        "name": "Anse Chastanet",
+        "stateId": "3576441",
+        "latitude": 13.86426,
+        "longitude": -61.07016
+    },
+    {
+        "cityId": "11351549",
+        "name": "Bouton",
+        "stateId": "3576441",
+        "latitude": 13.87936,
+        "longitude": -61.06449
+    },
+    {
+        "cityId": "11351693",
+        "name": "Mocha",
+        "stateId": "3576441",
+        "latitude": 13.83117,
+        "longitude": -61.02503
+    },
+    {
+        "cityId": "11351708",
+        "name": "Morne Tabac",
+        "stateId": "3576441",
+        "latitude": 13.87293,
+        "longitude": -61.03214
+    },
+    {
+        "cityId": "11351718",
+        "name": "Stonefield",
+        "stateId": "3576441",
+        "latitude": 13.84513,
+        "longitude": -61.0599
+    },
+    {
+        "cityId": "11351733",
+        "name": "Sulphur Springs",
+        "stateId": "3576441",
+        "latitude": 13.84002,
+        "longitude": -61.04512
+    },
+    {
+        "cityId": "11351763",
+        "name": "Toraille",
+        "stateId": "3576441",
+        "latitude": 13.85704,
+        "longitude": -61.03296
+    },
+    {
+        "cityId": "11351765",
+        "name": "Zenon",
+        "stateId": "3576441",
+        "latitude": 13.85953,
+        "longitude": -61.03394
+    },
+    {
+        "cityId": "11351774",
+        "name": "La Haut",
+        "stateId": "3576441",
+        "latitude": 13.86276,
+        "longitude": -61.05584
+    },
+    {
+        "cityId": "11351777",
+        "name": "Terre Blanche",
+        "stateId": "3576441",
+        "latitude": 13.84229,
+        "longitude": -61.05011
+    },
+    {
+        "cityId": "11351781",
+        "name": "Fond Gens Libre",
+        "stateId": "3576441",
+        "latitude": 13.80791,
+        "longitude": -61.06259
+    },
+    {
+        "cityId": "11351788",
+        "name": "Coubaril Estate",
+        "stateId": "3576441",
+        "latitude": 13.84696,
+        "longitude": -61.05555
+    },
+    {
+        "cityId": "11351805",
+        "name": "Cenac",
+        "stateId": "3576441",
+        "latitude": 13.87207,
+        "longitude": -61.04243
+    },
+    {
+        "cityId": "11351826",
+        "name": "St Phillip",
+        "stateId": "3576441",
+        "latitude": 13.84432,
+        "longitude": -61.02766
+    },
+    {
+        "cityId": "11351833",
+        "name": "New Development",
+        "stateId": "3576441",
+        "latitude": 13.86176,
+        "longitude": -61.04791
+    },
+    {
+        "cityId": "11351842",
+        "name": "Morne La Croix",
+        "stateId": "3576441",
+        "latitude": 13.81762,
+        "longitude": -61.06146
+    },
+    {
+        "cityId": "11351868",
+        "name": "Beasejour\/Myers Bridge",
+        "stateId": "3576441",
+        "latitude": 13.82147,
+        "longitude": -61.03396
+    },
+    {
+        "cityId": "11351870",
+        "name": "Bellefond",
+        "stateId": "3576441",
+        "latitude": 13.82753,
+        "longitude": -61.04269
+    },
+    {
+        "cityId": "11351875",
+        "name": "Belvedere",
+        "stateId": "3576441",
+        "latitude": 13.8344,
+        "longitude": -61.01771
+    },
+    {
+        "cityId": "11351876",
+        "name": "Bois D'Inde",
+        "stateId": "3576441",
+        "latitude": 13.8365,
+        "longitude": -61.03491
+    },
+    {
+        "cityId": "11351879",
+        "name": "Calvary\/Calvaire",
+        "stateId": "3576441",
+        "latitude": 13.85035,
+        "longitude": -61.0562
+    },
+    {
+        "cityId": "11351880",
+        "name": "Colombette",
+        "stateId": "3576441",
+        "latitude": 13.86861,
+        "longitude": -61.0499
+    },
+    {
+        "cityId": "11351882",
+        "name": "Fond Bernier",
+        "stateId": "3576441",
+        "latitude": 13.85845,
+        "longitude": -61.05949
+    },
+    {
+        "cityId": "11351884",
+        "name": "Fond Cacoa",
+        "stateId": "3576441",
+        "latitude": 13.85442,
+        "longitude": -61.05077
+    },
+    {
+        "cityId": "11351889",
+        "name": "Deville",
+        "stateId": "3576441",
+        "latitude": 13.81372,
+        "longitude": -61.05049
+    },
+    {
+        "cityId": "11351890",
+        "name": "Diamond\/Diamond Estate",
+        "stateId": "3576441",
+        "latitude": 13.85168,
+        "longitude": -61.04352
+    },
+    {
+        "cityId": "11351891",
+        "name": "Esperance",
+        "stateId": "3576441",
+        "latitude": 13.84562,
+        "longitude": -61.03713
+    },
+    {
+        "cityId": "11351892",
+        "name": "Etangs",
+        "stateId": "3576441",
+        "latitude": 13.81902,
+        "longitude": -61.04056
+    },
+    {
+        "cityId": "11351893",
+        "name": "Plat Pays",
+        "stateId": "3576441",
+        "latitude": 13.84085,
+        "longitude": -61.05571
+    },
+    {
+        "cityId": "11351894",
+        "name": "Jalousie",
+        "stateId": "3576441",
+        "latitude": 13.82811,
+        "longitude": -61.05891
+    },
+    {
+        "cityId": "11351895",
+        "name": "La Pearle",
+        "stateId": "3576441",
+        "latitude": 13.8574,
+        "longitude": -61.0476
+    },
+    {
+        "cityId": "11351896",
+        "name": "Descolons",
+        "stateId": "3576441",
+        "latitude": 13.86255,
+        "longitude": -61.02531
+    },
+    {
+        "cityId": "11351897",
+        "name": "Mal Maison",
+        "stateId": "3576441",
+        "latitude": 13.87361,
+        "longitude": -61.04825
+    },
+    {
+        "cityId": "11351898",
+        "name": "Malgretoute",
+        "stateId": "3576441",
+        "latitude": 13.84233,
+        "longitude": -61.05998
+    },
+    {
+        "cityId": "11351899",
+        "name": "Palmiste",
+        "stateId": "3576441",
+        "latitude": 13.85843,
+        "longitude": -61.05575
+    },
+    {
+        "cityId": "11351900",
+        "name": "Ravine Claire",
+        "stateId": "3576441",
+        "latitude": 13.85262,
+        "longitude": -61.02892
+    },
+    {
+        "cityId": "11351901",
+        "name": "Town",
+        "stateId": "3576441",
+        "latitude": 13.85491,
+        "longitude": -61.05764
+    },
+    {
+        "cityId": "11351902",
+        "name": "Barons Drive\/Coin De L'Anse",
+        "stateId": "3576441",
+        "latitude": 13.85138,
+        "longitude": -61.05939
+    },
+    {
+        "cityId": "11351903",
+        "name": "Lenny Hill",
+        "stateId": "3576441",
+        "latitude": 13.85059,
+        "longitude": -61.05906
+    },
+    {
+        "cityId": "11351904",
+        "name": "Union Vale",
+        "stateId": "3576441",
+        "latitude": 13.81103,
+        "longitude": -61.05686
+    },
+    {
+        "cityId": "11351908",
+        "name": "Gros Piton",
+        "stateId": "3576441",
+        "latitude": 13.80855,
+        "longitude": -61.0688
+    }
+]

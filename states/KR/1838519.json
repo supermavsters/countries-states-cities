@@ -1,0 +1,114 @@
+[
+    {
+        "cityId": "1832581",
+        "name": "Yeongdo-gu",
+        "stateId": "1838519",
+        "latitude": 35.07849,
+        "longitude": 129.06483
+    },
+    {
+        "cityId": "1834199",
+        "name": "Dongnae-gu",
+        "stateId": "1838519",
+        "latitude": 35.20447,
+        "longitude": 129.078
+    },
+    {
+        "cityId": "1834284",
+        "name": "Dong-gu",
+        "stateId": "1838519",
+        "latitude": 35.12468,
+        "longitude": 129.03432
+    },
+    {
+        "cityId": "1836645",
+        "name": "Seo-gu",
+        "stateId": "1838519",
+        "latitude": 35.12529,
+        "longitude": 129.01946
+    },
+    {
+        "cityId": "1845069",
+        "name": "Jung-gu",
+        "stateId": "1838519",
+        "latitude": 35.10594,
+        "longitude": 129.03331
+    },
+    {
+        "cityId": "1979341",
+        "name": "Saha-gu",
+        "stateId": "1838519",
+        "latitude": 35.08552,
+        "longitude": 128.98725
+    },
+    {
+        "cityId": "8462803",
+        "name": "Sasang-gu",
+        "stateId": "1838519",
+        "latitude": 35.14479,
+        "longitude": 128.97986
+    },
+    {
+        "cityId": "8462807",
+        "name": "Yeonje-gu",
+        "stateId": "1838519",
+        "latitude": 35.18206,
+        "longitude": 129.08285
+    },
+    {
+        "cityId": "8462808",
+        "name": "Haeundae-gu",
+        "stateId": "1838519",
+        "latitude": 35.16665,
+        "longitude": 129.16792
+    },
+    {
+        "cityId": "8462812",
+        "name": "Gangseo-gu",
+        "stateId": "1838519",
+        "latitude": 35.1593,
+        "longitude": 128.933
+    },
+    {
+        "cityId": "8462814",
+        "name": "Geumjeong-gu",
+        "stateId": "1838519",
+        "latitude": 35.25863,
+        "longitude": 129.0901
+    },
+    {
+        "cityId": "8462815",
+        "name": "Gijang-gun",
+        "stateId": "1838519",
+        "latitude": 35.29721,
+        "longitude": 129.20076
+    },
+    {
+        "cityId": "8541971",
+        "name": "Suyeong-gu",
+        "stateId": "1838519",
+        "latitude": 35.15627,
+        "longitude": 129.11253
+    },
+    {
+        "cityId": "8604807",
+        "name": "Busanjin-gu",
+        "stateId": "1838519",
+        "latitude": 35.16293,
+        "longitude": 129.05133
+    },
+    {
+        "cityId": "8616848",
+        "name": "Buk-gu",
+        "stateId": "1838519",
+        "latitude": 35.19724,
+        "longitude": 128.99134
+    },
+    {
+        "cityId": "8616850",
+        "name": "Nam-gu",
+        "stateId": "1838519",
+        "latitude": 35.13648,
+        "longitude": 129.08266
+    }
+]

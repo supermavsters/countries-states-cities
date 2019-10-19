@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3064370",
+        "name": "Okres Tachov",
+        "stateId": "3339575",
+        "latitude": 49.76667,
+        "longitude": 12.75
+    },
+    {
+        "cityId": "3066793",
+        "name": "Okres Rokycany",
+        "stateId": "3339575",
+        "latitude": 49.78333,
+        "longitude": 13.66667
+    },
+    {
+        "cityId": "3068157",
+        "name": "Okres Plze\u0148-Sever",
+        "stateId": "3339575",
+        "latitude": 49.91667,
+        "longitude": 13.25
+    },
+    {
+        "cityId": "3068158",
+        "name": "Okres Plze\u0148-M\u011bsto",
+        "stateId": "3339575",
+        "latitude": 49.75,
+        "longitude": 13.36667
+    },
+    {
+        "cityId": "3068159",
+        "name": "Okres Plze\u0148-Jih",
+        "stateId": "3339575",
+        "latitude": 49.58333,
+        "longitude": 13.5
+    },
+    {
+        "cityId": "3073659",
+        "name": "Okres Klatovy",
+        "stateId": "3339575",
+        "latitude": 49.25,
+        "longitude": 13.41667
+    },
+    {
+        "cityId": "3076586",
+        "name": "Okres Doma\u017elice",
+        "stateId": "3339575",
+        "latitude": 49.5,
+        "longitude": 12.91667
+    }
+]

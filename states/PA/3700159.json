@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "3700886",
+        "name": "Distrito de Son\u00e1",
+        "stateId": "3700159",
+        "latitude": 7.84378,
+        "longitude": -81.36612
+    },
+    {
+        "cityId": "3701113",
+        "name": "Distrito de Santiago",
+        "stateId": "3700159",
+        "latitude": 8.12425,
+        "longitude": -80.87827
+    },
+    {
+        "cityId": "3701191",
+        "name": "Distrito de Santa F\u00e9",
+        "stateId": "3700159",
+        "latitude": 8.72063,
+        "longitude": -80.95858
+    },
+    {
+        "cityId": "3701474",
+        "name": "Distrito de San Francisco",
+        "stateId": "3700159",
+        "latitude": 8.26965,
+        "longitude": -81.00108
+    },
+    {
+        "cityId": "3701878",
+        "name": "Distrito de R\u00edo de Jes\u00fas",
+        "stateId": "3700159",
+        "latitude": 7.91438,
+        "longitude": -81.16133
+    },
+    {
+        "cityId": "3704121",
+        "name": "Distrito de Montijo",
+        "stateId": "3700159",
+        "latitude": 7.95316,
+        "longitude": -81.05301
+    },
+    {
+        "cityId": "3706289",
+        "name": "Distrito de Las Palmas",
+        "stateId": "3700159",
+        "latitude": 8.14532,
+        "longitude": -81.42849
+    },
+    {
+        "cityId": "3707217",
+        "name": "Distrito de La Mesa",
+        "stateId": "3700159",
+        "latitude": 8.10976,
+        "longitude": -81.17767
+    },
+    {
+        "cityId": "3713184",
+        "name": "Distrito de Ca\u00f1azas",
+        "stateId": "3700159",
+        "latitude": 8.35596,
+        "longitude": -81.28633
+    },
+    {
+        "cityId": "3713393",
+        "name": "Distrito de Calobre",
+        "stateId": "3700159",
+        "latitude": 8.39684,
+        "longitude": -80.85124
+    },
+    {
+        "cityId": "3714595",
+        "name": "Distrito de Atalaya",
+        "stateId": "3700159",
+        "latitude": 8.02899,
+        "longitude": -80.91739
+    },
+    {
+        "cityId": "9857610",
+        "name": "Mariato District",
+        "stateId": "3700159",
+        "latitude": 7.6781,
+        "longitude": -81.00409
+    }
+]

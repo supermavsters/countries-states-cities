@@ -1,0 +1,128 @@
+[
+    {
+        "stateId": "7533598",
+        "name": "Central and Western District",
+        "countryId": "1819730",
+        "latitude": 22.28219,
+        "longitude": 114.14486
+    },
+    {
+        "stateId": "7533608",
+        "name": "Eastern",
+        "countryId": "1819730",
+        "latitude": 22.27722,
+        "longitude": 114.22519
+    },
+    {
+        "stateId": "1819708",
+        "name": "Islands District",
+        "countryId": "1819730",
+        "latitude": 22.26382,
+        "longitude": 113.96038
+    },
+    {
+        "stateId": "7533612",
+        "name": "Kowloon City",
+        "countryId": "1819730",
+        "latitude": 22.32866,
+        "longitude": 114.19121
+    },
+    {
+        "stateId": "7533615",
+        "name": "Kwai Tsing",
+        "countryId": "1819730",
+        "latitude": 22.35288,
+        "longitude": 114.10004
+    },
+    {
+        "stateId": "7533614",
+        "name": "Kwun Tong",
+        "countryId": "1819730",
+        "latitude": 22.31326,
+        "longitude": 114.22581
+    },
+    {
+        "stateId": "7533617",
+        "name": "North",
+        "countryId": "1819730",
+        "latitude": 22.49471,
+        "longitude": 114.13812
+    },
+    {
+        "stateId": "1819049",
+        "name": "Sai Kung District",
+        "countryId": "1819730",
+        "latitude": 22.38198,
+        "longitude": 114.27017
+    },
+    {
+        "stateId": "7533618",
+        "name": "Sha Tin",
+        "countryId": "1819730",
+        "latitude": 22.38715,
+        "longitude": 114.19534
+    },
+    {
+        "stateId": "7533611",
+        "name": "Sham Shui Po",
+        "countryId": "1819730",
+        "latitude": 22.32989,
+        "longitude": 114.1625
+    },
+    {
+        "stateId": "7533609",
+        "name": "Southern",
+        "countryId": "1819730",
+        "latitude": 22.24112,
+        "longitude": 114.20769
+    },
+    {
+        "stateId": "1818672",
+        "name": "Tai Po District",
+        "countryId": "1819730",
+        "latitude": 22.43995,
+        "longitude": 114.1654
+    },
+    {
+        "stateId": "1818458",
+        "name": "Tsuen Wan District",
+        "countryId": "1819730",
+        "latitude": 22.37908,
+        "longitude": 114.10598
+    },
+    {
+        "stateId": "7533616",
+        "name": "Tuen Mun",
+        "countryId": "1819730",
+        "latitude": 22.39161,
+        "longitude": 113.96792
+    },
+    {
+        "stateId": "7533607",
+        "name": "Wan Chai",
+        "countryId": "1819730",
+        "latitude": 22.27702,
+        "longitude": 114.17232
+    },
+    {
+        "stateId": "7533613",
+        "name": "Wong Tai Sin",
+        "countryId": "1819730",
+        "latitude": 22.34299,
+        "longitude": 114.19302
+    },
+    {
+        "stateId": "7533610",
+        "name": "Yau Tsim Mong",
+        "countryId": "1819730",
+        "latitude": 22.32105,
+        "longitude": 114.17261
+    },
+    {
+        "stateId": "1818224",
+        "name": "Yuen Long District",
+        "countryId": "1819730",
+        "latitude": 22.41667,
+        "longitude": 114.05
+    }
+]

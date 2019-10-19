@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7268070",
+        "name": "Charcas Barrio",
+        "stateId": "4567734",
+        "latitude": 18.40851,
+        "longitude": -66.93261
+    },
+    {
+        "cityId": "7268093",
+        "name": "Cocos Barrio",
+        "stateId": "4567734",
+        "latitude": 18.45658,
+        "longitude": -66.91258
+    },
+    {
+        "cityId": "7268283",
+        "name": "Cacao Barrio",
+        "stateId": "4567734",
+        "latitude": 18.45424,
+        "longitude": -66.94519
+    },
+    {
+        "cityId": "7268414",
+        "name": "Guajataca Barrio",
+        "stateId": "4567734",
+        "latitude": 18.38897,
+        "longitude": -66.91017
+    },
+    {
+        "cityId": "7268868",
+        "name": "Quebradillas Barrio-Pueblo",
+        "stateId": "4567734",
+        "latitude": 18.47277,
+        "longitude": -66.938
+    },
+    {
+        "cityId": "7268964",
+        "name": "San Antonio Barrio",
+        "stateId": "4567734",
+        "latitude": 18.42755,
+        "longitude": -66.91944
+    },
+    {
+        "cityId": "7268973",
+        "name": "San Jos\u00e9 Barrio",
+        "stateId": "4567734",
+        "latitude": 18.47697,
+        "longitude": -66.9156
+    },
+    {
+        "cityId": "7269033",
+        "name": "Terranova Barrio",
+        "stateId": "4567734",
+        "latitude": 18.48011,
+        "longitude": -66.93167
+    }
+]

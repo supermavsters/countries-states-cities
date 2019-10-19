@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1527296",
+        "name": "Talasskiy Rayon",
+        "stateId": "1527297",
+        "latitude": 42.18647,
+        "longitude": 72.69408
+    },
+    {
+        "cityId": "1527687",
+        "name": "Bakay-Atinskiy Rayon",
+        "stateId": "1527297",
+        "latitude": 42.48333,
+        "longitude": 71.91667
+    },
+    {
+        "cityId": "1527920",
+        "name": "Kara-Buurinskiy Rayon",
+        "stateId": "1527297",
+        "latitude": 42.5,
+        "longitude": 71.41667
+    },
+    {
+        "cityId": "9165692",
+        "name": "Manas",
+        "stateId": "1527297",
+        "latitude": 42.72306,
+        "longitude": 71.6
+    }
+]

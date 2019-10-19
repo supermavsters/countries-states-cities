@@ -1,0 +1,128 @@
+[
+    {
+        "stateId": "408648",
+        "name": "Al Jazirah State",
+        "countryId": "366755",
+        "latitude": 14.6,
+        "longitude": 33.35
+    },
+    {
+        "stateId": "408649",
+        "name": "Al Qadarif State",
+        "countryId": "366755",
+        "latitude": 14.05,
+        "longitude": 35.35
+    },
+    {
+        "stateId": "408654",
+        "name": "Blue Nile",
+        "countryId": "366755",
+        "latitude": 11.15,
+        "longitude": 34.1
+    },
+    {
+        "stateId": "8394436",
+        "name": "Central Darfur State",
+        "countryId": "366755",
+        "latitude": 12.38333,
+        "longitude": 23.3
+    },
+    {
+        "stateId": "8394435",
+        "name": "East Darfur",
+        "countryId": "366755",
+        "latitude": 11.16667,
+        "longitude": 26.5
+    },
+    {
+        "stateId": "408663",
+        "name": "Kassala State",
+        "countryId": "366755",
+        "latitude": 15.9,
+        "longitude": 35.65
+    },
+    {
+        "stateId": "379253",
+        "name": "Khartoum",
+        "countryId": "366755",
+        "latitude": 15.8,
+        "longitude": 33
+    },
+    {
+        "stateId": "408666",
+        "name": "North Darfur",
+        "countryId": "366755",
+        "latitude": 16,
+        "longitude": 25.5
+    },
+    {
+        "stateId": "408667",
+        "name": "North Kordofan",
+        "countryId": "366755",
+        "latitude": 14.68333,
+        "longitude": 29.93333
+    },
+    {
+        "stateId": "378389",
+        "name": "Northern",
+        "countryId": "366755",
+        "latitude": 19.3,
+        "longitude": 29.5
+    },
+    {
+        "stateId": "408646",
+        "name": "Red Sea",
+        "countryId": "366755",
+        "latitude": 19.96667,
+        "longitude": 35.66667
+    },
+    {
+        "stateId": "408664",
+        "name": "River Nile",
+        "countryId": "366755",
+        "latitude": 19,
+        "longitude": 33.2
+    },
+    {
+        "stateId": "408669",
+        "name": "Sennar",
+        "countryId": "366755",
+        "latitude": 13,
+        "longitude": 34
+    },
+    {
+        "stateId": "408660",
+        "name": "South Darfur",
+        "countryId": "366755",
+        "latitude": 11.5,
+        "longitude": 24.66667
+    },
+    {
+        "stateId": "408661",
+        "name": "South Kordofan",
+        "countryId": "366755",
+        "latitude": 11.26667,
+        "longitude": 30.83333
+    },
+    {
+        "stateId": "408658",
+        "name": "West Darfur",
+        "countryId": "366755",
+        "latitude": 13.41667,
+        "longitude": 22.66667
+    },
+    {
+        "stateId": "408659",
+        "name": "West Kordofan State",
+        "countryId": "366755",
+        "latitude": 11.83333,
+        "longitude": 28.31667
+    },
+    {
+        "stateId": "408653",
+        "name": "White Nile",
+        "countryId": "366755",
+        "latitude": 13.5,
+        "longitude": 32.4
+    }
+]

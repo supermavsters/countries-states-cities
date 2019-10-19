@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2467453",
+        "name": "Sfax Ville",
+        "stateId": "2467450",
+        "latitude": 34.74388,
+        "longitude": 10.7631
+    },
+    {
+        "cityId": "2473571",
+        "name": "Mu\u2018tamad\u012byat al Ma\u1e29ras",
+        "stateId": "2467450",
+        "latitude": 34.54898,
+        "longitude": 10.48096
+    },
+    {
+        "cityId": "11104958",
+        "name": "Sfax Ouest",
+        "stateId": "2467450",
+        "latitude": 34.74044,
+        "longitude": 10.72196
+    },
+    {
+        "cityId": "11104959",
+        "name": "Thyna",
+        "stateId": "2467450",
+        "latitude": 34.68915,
+        "longitude": 10.67853
+    },
+    {
+        "cityId": "11104960",
+        "name": "Sfax Sud",
+        "stateId": "2467450",
+        "latitude": 34.8314,
+        "longitude": 10.66673
+    },
+    {
+        "cityId": "11104961",
+        "name": "Sakiet Ezzit",
+        "stateId": "2467450",
+        "latitude": 34.85697,
+        "longitude": 10.74409
+    },
+    {
+        "cityId": "11104962",
+        "name": "Sakiet Eddaier",
+        "stateId": "2467450",
+        "latitude": 34.83271,
+        "longitude": 10.81816
+    },
+    {
+        "cityId": "11105076",
+        "name": "El Amra",
+        "stateId": "2467450",
+        "latitude": 34.95186,
+        "longitude": 10.87016
+    },
+    {
+        "cityId": "11105077",
+        "name": "El Hencha",
+        "stateId": "2467450",
+        "latitude": 35.09019,
+        "longitude": 10.72856
+    },
+    {
+        "cityId": "11105078",
+        "name": "Agareb",
+        "stateId": "2467450",
+        "latitude": 34.74406,
+        "longitude": 10.4611
+    },
+    {
+        "cityId": "11105079",
+        "name": "Ghraiba",
+        "stateId": "2467450",
+        "latitude": 34.50085,
+        "longitude": 10.21986
+    },
+    {
+        "cityId": "11105080",
+        "name": "Skhira",
+        "stateId": "2467450",
+        "latitude": 34.34155,
+        "longitude": 9.97468
+    }
+]

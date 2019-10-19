@@ -1,0 +1,135 @@
+[
+    {
+        "cityId": "2273621",
+        "name": "Three B",
+        "stateId": "2276630",
+        "latitude": 6.25,
+        "longitude": -9.33333
+    },
+    {
+        "cityId": "2273622",
+        "name": "Three A",
+        "stateId": "2276630",
+        "latitude": 6,
+        "longitude": -9.75
+    },
+    {
+        "cityId": "2273635",
+        "name": "Tenor",
+        "stateId": "2276630",
+        "latitude": 6.33333,
+        "longitude": -10.16667
+    },
+    {
+        "cityId": "2276367",
+        "name": "Jayah",
+        "stateId": "2276630",
+        "latitude": 6.16667,
+        "longitude": -10.16667
+    },
+    {
+        "cityId": "2276820",
+        "name": "Glarkon",
+        "stateId": "2276630",
+        "latitude": 6.16667,
+        "longitude": -9.91667
+    },
+    {
+        "cityId": "2277306",
+        "name": "Trade Town",
+        "stateId": "2276630",
+        "latitude": 5.75056,
+        "longitude": -9.74972
+    },
+    {
+        "cityId": "2277366",
+        "name": "Five A",
+        "stateId": "2276630",
+        "latitude": 5.66667,
+        "longitude": -9.41667
+    },
+    {
+        "cityId": "2278080",
+        "name": "Campwood",
+        "stateId": "2276630",
+        "latitude": 6.5,
+        "longitude": -9.75
+    },
+    {
+        "cityId": "7669301",
+        "name": "District #1",
+        "stateId": "2276630",
+        "latitude": 6.24263,
+        "longitude": -10.18592
+    },
+    {
+        "cityId": "7669302",
+        "name": "District #2",
+        "stateId": "2276630",
+        "latitude": 6.30016,
+        "longitude": -9.931
+    },
+    {
+        "cityId": "7669303",
+        "name": "District #3",
+        "stateId": "2276630",
+        "latitude": 6.23302,
+        "longitude": -9.64126
+    },
+    {
+        "cityId": "9645122",
+        "name": "Owensgrove District",
+        "stateId": "2276630",
+        "latitude": 6.19737,
+        "longitude": -10.28389
+    },
+    {
+        "cityId": "9645125",
+        "name": "Saint John River City District",
+        "stateId": "2276630",
+        "latitude": 6.0587,
+        "longitude": -10.03274
+    },
+    {
+        "cityId": "9645126",
+        "name": "Neekreen District",
+        "stateId": "2276630",
+        "latitude": 5.93846,
+        "longitude": -9.92462
+    },
+    {
+        "cityId": "9645127",
+        "name": "Commonwealth District",
+        "stateId": "2276630",
+        "latitude": 5.8781,
+        "longitude": -10.04171
+    },
+    {
+        "cityId": "9645128",
+        "name": "District Number One",
+        "stateId": "2276630",
+        "latitude": 6.28076,
+        "longitude": -10.14741
+    },
+    {
+        "cityId": "9645129",
+        "name": "District Number Two",
+        "stateId": "2276630",
+        "latitude": 6.40682,
+        "longitude": -9.86765
+    },
+    {
+        "cityId": "9645130",
+        "name": "District Number Three",
+        "stateId": "2276630",
+        "latitude": 6.34282,
+        "longitude": -9.54571
+    },
+    {
+        "cityId": "9645131",
+        "name": "District Number Four",
+        "stateId": "2276630",
+        "latitude": 5.9307,
+        "longitude": -9.73286
+    }
+]

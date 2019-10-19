@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "3926436",
+        "name": "Provincia de Urubamba",
+        "stateId": "3941583",
+        "latitude": -13.25,
+        "longitude": -72.33333
+    },
+    {
+        "cityId": "3930646",
+        "name": "Provincia de Quispicanchis",
+        "stateId": "3941583",
+        "latitude": -13.41667,
+        "longitude": -71
+    },
+    {
+        "cityId": "3932649",
+        "name": "Provincia de Paucartambo",
+        "stateId": "3941583",
+        "latitude": -13.16667,
+        "longitude": -71.41667
+    },
+    {
+        "cityId": "3932863",
+        "name": "Provincia de Paruro",
+        "stateId": "3941583",
+        "latitude": -13.91667,
+        "longitude": -71.91667
+    },
+    {
+        "cityId": "3937248",
+        "name": "Provincia de La Convenci\u00f3n",
+        "stateId": "3941583",
+        "latitude": -12,
+        "longitude": -73
+    },
+    {
+        "cityId": "3941092",
+        "name": "Provincia de Espinar",
+        "stateId": "3941583",
+        "latitude": -14.75,
+        "longitude": -71.41667
+    },
+    {
+        "cityId": "3941582",
+        "name": "Provincia de Cusco",
+        "stateId": "3941583",
+        "latitude": -13.5,
+        "longitude": -72
+    },
+    {
+        "cityId": "3943263",
+        "name": "Provincia de Chumbivilcas",
+        "stateId": "3941583",
+        "latitude": -14.41667,
+        "longitude": -72
+    },
+    {
+        "cityId": "3945823",
+        "name": "Provincia de Canchis",
+        "stateId": "3941583",
+        "latitude": -14.08194,
+        "longitude": -71.18556
+    },
+    {
+        "cityId": "3945875",
+        "name": "Provincia de Canas",
+        "stateId": "3941583",
+        "latitude": -14.41083,
+        "longitude": -71.33694
+    },
+    {
+        "cityId": "3946176",
+        "name": "Provincia de Calca",
+        "stateId": "3941583",
+        "latitude": -13,
+        "longitude": -72.16667
+    },
+    {
+        "cityId": "3947623",
+        "name": "Provincia de Anta",
+        "stateId": "3941583",
+        "latitude": -13.5,
+        "longitude": -72.33333
+    },
+    {
+        "cityId": "3948442",
+        "name": "Provincia de Acomayo",
+        "stateId": "3941583",
+        "latitude": -13.91667,
+        "longitude": -71.66667
+    }
+]

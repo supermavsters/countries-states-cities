@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2960031",
+        "name": "Troisvierges",
+        "stateId": "2960683",
+        "latitude": 50.14377,
+        "longitude": 6.00201
+    },
+    {
+        "cityId": "6693296",
+        "name": "Wincrange",
+        "stateId": "2960683",
+        "latitude": 50.05333,
+        "longitude": 5.91917
+    },
+    {
+        "cityId": "6693297",
+        "name": "Clervaux",
+        "stateId": "2960683",
+        "latitude": 50.05472,
+        "longitude": 6.03139
+    },
+    {
+        "cityId": "6693302",
+        "name": "Weiswampach",
+        "stateId": "2960683",
+        "latitude": 50.13722,
+        "longitude": 6.075
+    },
+    {
+        "cityId": "11353099",
+        "name": "Parc Hosingen",
+        "stateId": "2960683",
+        "latitude": 49.99744,
+        "longitude": 6.09067
+    }
+]

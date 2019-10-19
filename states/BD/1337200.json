@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1337192",
+        "name": "Brahmanbaria",
+        "stateId": "1337200",
+        "latitude": 23.98333,
+        "longitude": 91.16667
+    },
+    {
+        "cityId": "1337193",
+        "name": "Comilla",
+        "stateId": "1337200",
+        "latitude": 23.4417,
+        "longitude": 91.00987
+    },
+    {
+        "cityId": "1337194",
+        "name": "Chandpur",
+        "stateId": "1337200",
+        "latitude": 23.25,
+        "longitude": 90.83333
+    },
+    {
+        "cityId": "1337195",
+        "name": "Lakshmipur",
+        "stateId": "1337200",
+        "latitude": 22.91667,
+        "longitude": 90.83333
+    },
+    {
+        "cityId": "1337196",
+        "name": "Noakhali",
+        "stateId": "1337200",
+        "latitude": 22.75,
+        "longitude": 91.16667
+    },
+    {
+        "cityId": "1337197",
+        "name": "Feni",
+        "stateId": "1337200",
+        "latitude": 22.96667,
+        "longitude": 91.31667
+    },
+    {
+        "cityId": "1337198",
+        "name": "Khagrachhari",
+        "stateId": "1337200",
+        "latitude": 23.16667,
+        "longitude": 91.9
+    },
+    {
+        "cityId": "1337199",
+        "name": "Chittagong",
+        "stateId": "1337200",
+        "latitude": 22.4875,
+        "longitude": 91.96333
+    },
+    {
+        "cityId": "1337201",
+        "name": "Bandarban",
+        "stateId": "1337200",
+        "latitude": 22,
+        "longitude": 92.33333
+    },
+    {
+        "cityId": "1337202",
+        "name": "Cox's Bazar",
+        "stateId": "1337200",
+        "latitude": 21.58389,
+        "longitude": 92.01528
+    },
+    {
+        "cityId": "7873929",
+        "name": "Rangamati",
+        "stateId": "1337200",
+        "latitude": 22.63333,
+        "longitude": 92.2
+    }
+]

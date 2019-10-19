@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "211067",
+        "name": "Lubero",
+        "stateId": "206938",
+        "latitude": -0.16667,
+        "longitude": 29.23333
+    },
+    {
+        "cityId": "216279",
+        "name": "Goma",
+        "stateId": "206938",
+        "latitude": -1.68333,
+        "longitude": 29.23333
+    },
+    {
+        "cityId": "219056",
+        "name": "Beni",
+        "stateId": "206938",
+        "latitude": 0.5,
+        "longitude": 29.46667
+    },
+    {
+        "cityId": "8260563",
+        "name": "North Kivu",
+        "stateId": "206938",
+        "latitude": -0.65515,
+        "longitude": 29.03398
+    },
+    {
+        "cityId": "8260598",
+        "name": "Nyirangongo",
+        "stateId": "206938",
+        "latitude": -1.55515,
+        "longitude": 29.286
+    },
+    {
+        "cityId": "8260604",
+        "name": "Butembo",
+        "stateId": "206938",
+        "latitude": 0.14231,
+        "longitude": 29.28185
+    },
+    {
+        "cityId": "8260605",
+        "name": "Oicha",
+        "stateId": "206938",
+        "latitude": 0.41849,
+        "longitude": 29.55072
+    },
+    {
+        "cityId": "9179534",
+        "name": "Masisi Territory",
+        "stateId": "206938",
+        "latitude": -1.4,
+        "longitude": 28.81667
+    },
+    {
+        "cityId": "9179537",
+        "name": "Rutshuru Territory",
+        "stateId": "206938",
+        "latitude": -1.18727,
+        "longitude": 29.446
+    }
+]

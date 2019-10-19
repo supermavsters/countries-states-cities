@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "7647383",
+        "name": "Talensi-Nabdam",
+        "stateId": "2294291",
+        "latitude": 10.71667,
+        "longitude": -0.8
+    },
+    {
+        "cityId": "7647384",
+        "name": "Garu-Tempane",
+        "stateId": "2294291",
+        "latitude": 10.85,
+        "longitude": -0.18333
+    },
+    {
+        "cityId": "7647385",
+        "name": "Builsa",
+        "stateId": "2294291",
+        "latitude": 10.73472,
+        "longitude": -1.29056
+    },
+    {
+        "cityId": "7647386",
+        "name": "Bongo",
+        "stateId": "2294291",
+        "latitude": 10.90778,
+        "longitude": -0.80806
+    },
+    {
+        "cityId": "7647390",
+        "name": "Bawku West",
+        "stateId": "2294291",
+        "latitude": 10.91667,
+        "longitude": -0.51667
+    },
+    {
+        "cityId": "7648956",
+        "name": "Bawku",
+        "stateId": "2294291",
+        "latitude": 11.05806,
+        "longitude": -0.24167
+    },
+    {
+        "cityId": "7648966",
+        "name": "Bolgatanga",
+        "stateId": "2294291",
+        "latitude": 10.78556,
+        "longitude": -0.85139
+    },
+    {
+        "cityId": "7648992",
+        "name": "Kassena Nankana",
+        "stateId": "2294291",
+        "latitude": 10.895,
+        "longitude": -1.09389
+    },
+    {
+        "cityId": "9782064",
+        "name": "Kassena Nankana West",
+        "stateId": "2294291",
+        "latitude": 10.9589,
+        "longitude": -1.1133
+    },
+    {
+        "cityId": "10303430",
+        "name": "Bawku Municipal District",
+        "stateId": "2294291",
+        "latitude": 11.05,
+        "longitude": -0.2333
+    },
+    {
+        "cityId": "10303439",
+        "name": "Bawku West District",
+        "stateId": "2294291",
+        "latitude": 10.9167,
+        "longitude": -0.5167
+    },
+    {
+        "cityId": "10303443",
+        "name": "Binduri District",
+        "stateId": "2294291",
+        "latitude": 10.97214,
+        "longitude": -0.30837
+    }
+]

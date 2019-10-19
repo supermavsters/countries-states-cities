@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "7873875",
+        "name": "Odigbo",
+        "stateId": "2326168",
+        "latitude": 6.765,
+        "longitude": 4.727
+    },
+    {
+        "cityId": "7873876",
+        "name": "Idanre",
+        "stateId": "2326168",
+        "latitude": 6.986,
+        "longitude": 5.209
+    },
+    {
+        "cityId": "8636746",
+        "name": "Ilaje",
+        "stateId": "2326168",
+        "latitude": 6.20323,
+        "longitude": 4.76788
+    },
+    {
+        "cityId": "8636747",
+        "name": "Ese Odo",
+        "stateId": "2326168",
+        "latitude": 6.21743,
+        "longitude": 4.96459
+    },
+    {
+        "cityId": "8636748",
+        "name": "Okitipupa",
+        "stateId": "2326168",
+        "latitude": 6.54797,
+        "longitude": 4.69894
+    },
+    {
+        "cityId": "8636749",
+        "name": "Irele",
+        "stateId": "2326168",
+        "latitude": 6.53479,
+        "longitude": 5.0092
+    },
+    {
+        "cityId": "8636750",
+        "name": "Ondo West",
+        "stateId": "2326168",
+        "latitude": 7.01642,
+        "longitude": 4.74558
+    },
+    {
+        "cityId": "8636751",
+        "name": "Ondo East",
+        "stateId": "2326168",
+        "latitude": 7.09145,
+        "longitude": 4.96053
+    },
+    {
+        "cityId": "8636752",
+        "name": "Ile Oluji\/Okeigbo",
+        "stateId": "2326168",
+        "latitude": 7.27801,
+        "longitude": 4.88753
+    },
+    {
+        "cityId": "8636753",
+        "name": "Ifedore",
+        "stateId": "2326168",
+        "latitude": 7.36318,
+        "longitude": 5.08829
+    },
+    {
+        "cityId": "8636754",
+        "name": "Akure South",
+        "stateId": "2326168",
+        "latitude": 7.20501,
+        "longitude": 5.18766
+    },
+    {
+        "cityId": "8636755",
+        "name": "Akure North",
+        "stateId": "2326168",
+        "latitude": 7.26382,
+        "longitude": 5.31136
+    },
+    {
+        "cityId": "8636756",
+        "name": "Owo",
+        "stateId": "2326168",
+        "latitude": 7.16648,
+        "longitude": 5.58005
+    },
+    {
+        "cityId": "8636757",
+        "name": "Ose",
+        "stateId": "2326168",
+        "latitude": 7.05495,
+        "longitude": 5.7433
+    },
+    {
+        "cityId": "8636758",
+        "name": "Akoko South West",
+        "stateId": "2326168",
+        "latitude": 7.39766,
+        "longitude": 5.69463
+    },
+    {
+        "cityId": "8636759",
+        "name": "Akoko South East",
+        "stateId": "2326168",
+        "latitude": 7.41794,
+        "longitude": 5.91161
+    },
+    {
+        "cityId": "8636760",
+        "name": "Akoko North East",
+        "stateId": "2326168",
+        "latitude": 7.52744,
+        "longitude": 5.81022
+    },
+    {
+        "cityId": "8636761",
+        "name": "Akoko North West",
+        "stateId": "2326168",
+        "latitude": 7.641,
+        "longitude": 5.79399
+    }
+]

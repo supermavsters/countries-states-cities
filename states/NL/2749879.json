@@ -1,0 +1,338 @@
+[
+    {
+        "cityId": "2744040",
+        "name": "Gemeente Zandvoort",
+        "stateId": "2749879",
+        "latitude": 52.35769,
+        "longitude": 4.54388
+    },
+    {
+        "cityId": "2744113",
+        "name": "Gemeente Zaanstad",
+        "stateId": "2749879",
+        "latitude": 52.45308,
+        "longitude": 4.81253
+    },
+    {
+        "cityId": "2744903",
+        "name": "Gemeente Weesp",
+        "stateId": "2749879",
+        "latitude": 52.30575,
+        "longitude": 5.04152
+    },
+    {
+        "cityId": "2745675",
+        "name": "Gemeente Velsen",
+        "stateId": "2749879",
+        "latitude": 52.45182,
+        "longitude": 4.63211
+    },
+    {
+        "cityId": "2745972",
+        "name": "Gemeente Uithoorn",
+        "stateId": "2749879",
+        "latitude": 52.23999,
+        "longitude": 4.83072
+    },
+    {
+        "cityId": "2745977",
+        "name": "Gemeente Uitgeest",
+        "stateId": "2749879",
+        "latitude": 52.52855,
+        "longitude": 4.71176
+    },
+    {
+        "cityId": "2746383",
+        "name": "Gemeente Texel",
+        "stateId": "2749879",
+        "latitude": 53.07883,
+        "longitude": 4.81166
+    },
+    {
+        "cityId": "2747719",
+        "name": "Gemeente Schagen",
+        "stateId": "2749879",
+        "latitude": 52.78823,
+        "longitude": 4.79965
+    },
+    {
+        "cityId": "2748412",
+        "name": "Gemeente Purmerend",
+        "stateId": "2749879",
+        "latitude": 52.50515,
+        "longitude": 4.95243
+    },
+    {
+        "cityId": "2749027",
+        "name": "Gemeente Ouder-Amstel",
+        "stateId": "2749879",
+        "latitude": 52.30659,
+        "longitude": 4.91432
+    },
+    {
+        "cityId": "2749285",
+        "name": "Gemeente Opmeer",
+        "stateId": "2749879",
+        "latitude": 52.71468,
+        "longitude": 4.95334
+    },
+    {
+        "cityId": "2749319",
+        "name": "Gemeente Oostzaan",
+        "stateId": "2749879",
+        "latitude": 52.4378,
+        "longitude": 4.87604
+    },
+    {
+        "cityId": "2751072",
+        "name": "Gemeente Medemblik",
+        "stateId": "2749879",
+        "latitude": 52.72496,
+        "longitude": 5.12204
+    },
+    {
+        "cityId": "2751873",
+        "name": "Gemeente Laren",
+        "stateId": "2749879",
+        "latitude": 52.24518,
+        "longitude": 5.21701
+    },
+    {
+        "cityId": "2751962",
+        "name": "Gemeente Langedijk",
+        "stateId": "2749879",
+        "latitude": 52.69151,
+        "longitude": 4.78659
+    },
+    {
+        "cityId": "2751979",
+        "name": "Gemeente Landsmeer",
+        "stateId": "2749879",
+        "latitude": 52.431,
+        "longitude": 4.9157
+    },
+    {
+        "cityId": "2753467",
+        "name": "Gemeente Huizen",
+        "stateId": "2749879",
+        "latitude": 52.29664,
+        "longitude": 5.24132
+    },
+    {
+        "cityId": "2753635",
+        "name": "Gemeente Hoorn",
+        "stateId": "2749879",
+        "latitude": 52.64312,
+        "longitude": 5.05779
+    },
+    {
+        "cityId": "2754063",
+        "name": "Gemeente Hilversum",
+        "stateId": "2749879",
+        "latitude": 52.22252,
+        "longitude": 5.16789
+    },
+    {
+        "cityId": "2754515",
+        "name": "Gemeente Heiloo",
+        "stateId": "2749879",
+        "latitude": 52.60122,
+        "longitude": 4.70945
+    },
+    {
+        "cityId": "2754658",
+        "name": "Gemeente Heerhugowaard",
+        "stateId": "2749879",
+        "latitude": 52.6821,
+        "longitude": 4.84363
+    },
+    {
+        "cityId": "2754691",
+        "name": "Gemeente Heemstede",
+        "stateId": "2749879",
+        "latitude": 52.34719,
+        "longitude": 4.61838
+    },
+    {
+        "cityId": "2754696",
+        "name": "Gemeente Heemskerk",
+        "stateId": "2749879",
+        "latitude": 52.50945,
+        "longitude": 4.65386
+    },
+    {
+        "cityId": "2754999",
+        "name": "Gemeente Haarlemmermeer",
+        "stateId": "2749879",
+        "latitude": 52.30623,
+        "longitude": 4.68418
+    },
+    {
+        "cityId": "2755000",
+        "name": "Gemeente Haarlemmerliede en Spaarnwoude",
+        "stateId": "2749879",
+        "latitude": 52.38828,
+        "longitude": 4.73888
+    },
+    {
+        "cityId": "2755002",
+        "name": "Gemeente Haarlem",
+        "stateId": "2749879",
+        "latitude": 52.38074,
+        "longitude": 4.644
+    },
+    {
+        "cityId": "2756076",
+        "name": "Gemeente Enkhuizen",
+        "stateId": "2749879",
+        "latitude": 52.71653,
+        "longitude": 5.27615
+    },
+    {
+        "cityId": "2756430",
+        "name": "Gemeente Edam-Volendam",
+        "stateId": "2749879",
+        "latitude": 52.50556,
+        "longitude": 5.0592
+    },
+    {
+        "cityId": "2756887",
+        "name": "Gemeente Diemen",
+        "stateId": "2749879",
+        "latitude": 52.34163,
+        "longitude": 4.96805
+    },
+    {
+        "cityId": "2757219",
+        "name": "Gemeente Den Helder",
+        "stateId": "2749879",
+        "latitude": 52.92366,
+        "longitude": 4.75793
+    },
+    {
+        "cityId": "2757990",
+        "name": "Gemeente Castricum",
+        "stateId": "2749879",
+        "latitude": 52.55577,
+        "longitude": 4.68945
+    },
+    {
+        "cityId": "2758257",
+        "name": "Gemeente Waterland",
+        "stateId": "2749879",
+        "latitude": 52.4376,
+        "longitude": 5.01371
+    },
+    {
+        "cityId": "2758802",
+        "name": "Gemeente Bloemendaal",
+        "stateId": "2749879",
+        "latitude": 52.3623,
+        "longitude": 4.58968
+    },
+    {
+        "cityId": "2758867",
+        "name": "Gemeente Blaricum",
+        "stateId": "2749879",
+        "latitude": 52.28548,
+        "longitude": 5.2683
+    },
+    {
+        "cityId": "2758997",
+        "name": "Gemeente Beverwijk",
+        "stateId": "2749879",
+        "latitude": 52.48273,
+        "longitude": 4.65468
+    },
+    {
+        "cityId": "2759151",
+        "name": "Gemeente Bergen",
+        "stateId": "2749879",
+        "latitude": 52.65783,
+        "longitude": 4.6761
+    },
+    {
+        "cityId": "2759320",
+        "name": "Gemeente Beemster",
+        "stateId": "2749879",
+        "latitude": 52.55402,
+        "longitude": 4.9181
+    },
+    {
+        "cityId": "2759793",
+        "name": "Gemeente Amsterdam",
+        "stateId": "2749879",
+        "latitude": 52.37302,
+        "longitude": 4.89856
+    },
+    {
+        "cityId": "2759797",
+        "name": "Gemeente Amstelveen",
+        "stateId": "2749879",
+        "latitude": 52.2984,
+        "longitude": 4.85767
+    },
+    {
+        "cityId": "2759898",
+        "name": "Gemeente Alkmaar",
+        "stateId": "2749879",
+        "latitude": 52.6289,
+        "longitude": 4.74403
+    },
+    {
+        "cityId": "2760133",
+        "name": "Gemeente Aalsmeer",
+        "stateId": "2749879",
+        "latitude": 52.26406,
+        "longitude": 4.76532
+    },
+    {
+        "cityId": "3345301",
+        "name": "Gemeente Wijdemeren",
+        "stateId": "2749879",
+        "latitude": 52.22756,
+        "longitude": 5.08445
+    },
+    {
+        "cityId": "6544220",
+        "name": "Gemeente Koggenland",
+        "stateId": "2749879",
+        "latitude": 52.64163,
+        "longitude": 4.94909
+    },
+    {
+        "cityId": "6544238",
+        "name": "Gemeente Stede Broec",
+        "stateId": "2749879",
+        "latitude": 52.69617,
+        "longitude": 5.22389
+    },
+    {
+        "cityId": "6544254",
+        "name": "Gemeente Drechterland",
+        "stateId": "2749879",
+        "latitude": 52.66454,
+        "longitude": 5.16569
+    },
+    {
+        "cityId": "6544263",
+        "name": "Gemeente Wormerland",
+        "stateId": "2749879",
+        "latitude": 52.497,
+        "longitude": 4.83364
+    },
+    {
+        "cityId": "8426240",
+        "name": "Gemeente Hollands Kroon",
+        "stateId": "2749879",
+        "latitude": 52.84882,
+        "longitude": 4.90711
+    },
+    {
+        "cityId": "11189015",
+        "name": "Gooise Meren",
+        "stateId": "2749879",
+        "latitude": 52.29735,
+        "longitude": 5.13371
+    }
+]

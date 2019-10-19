@@ -1,0 +1,506 @@
+[
+    {
+        "stateId": "587245",
+        "name": "Absheron Rayon",
+        "countryId": "587116",
+        "latitude": 40.41667,
+        "longitude": 49.33333
+    },
+    {
+        "stateId": "148617",
+        "name": "Aghdam Rayon",
+        "countryId": "587116",
+        "latitude": 40,
+        "longitude": 47
+    },
+    {
+        "stateId": "587376",
+        "name": "Aghdash Rayon",
+        "countryId": "587116",
+        "latitude": 40.58333,
+        "longitude": 47.41667
+    },
+    {
+        "stateId": "148615",
+        "name": "Aghjabadi Rayon",
+        "countryId": "587116",
+        "latitude": 40,
+        "longitude": 47.41667
+    },
+    {
+        "stateId": "828297",
+        "name": "Aghstafa Rayon",
+        "countryId": "587116",
+        "latitude": 41.25,
+        "longitude": 45.5
+    },
+    {
+        "stateId": "587342",
+        "name": "Aghsu Rayon",
+        "countryId": "587116",
+        "latitude": 40.5,
+        "longitude": 48.33333
+    },
+    {
+        "stateId": "148442",
+        "name": "Astara District",
+        "countryId": "587116",
+        "latitude": 38.5,
+        "longitude": 48.66667
+    },
+    {
+        "stateId": "587081",
+        "name": "Baku City",
+        "countryId": "587116",
+        "latitude": 40.39802,
+        "longitude": 49.72414
+    },
+    {
+        "stateId": "587010",
+        "name": "Balakan Rayon",
+        "countryId": "587116",
+        "latitude": 41.75,
+        "longitude": 46.41667
+    },
+    {
+        "stateId": "587056",
+        "name": "Barda Rayon",
+        "countryId": "587116",
+        "latitude": 40.33333,
+        "longitude": 47.16667
+    },
+    {
+        "stateId": "146879",
+        "name": "Beylagan Rayon",
+        "countryId": "587116",
+        "latitude": 39.75,
+        "longitude": 47.66667
+    },
+    {
+        "stateId": "147310",
+        "name": "Bilasuvar Rayon",
+        "countryId": "587116",
+        "latitude": 39.5,
+        "longitude": 48.41667
+    },
+    {
+        "stateId": "586771",
+        "name": "Dashkasan Rayon",
+        "countryId": "587116",
+        "latitude": 40.41667,
+        "longitude": 46
+    },
+    {
+        "stateId": "148107",
+        "name": "Fizuli Rayon",
+        "countryId": "587116",
+        "latitude": 39.58333,
+        "longitude": 47.33333
+    },
+    {
+        "stateId": "627535",
+        "name": "Gadabay Rayon",
+        "countryId": "587116",
+        "latitude": 40.5,
+        "longitude": 45.66667
+    },
+    {
+        "stateId": "828298",
+        "name": "Ganja City",
+        "countryId": "587116",
+        "latitude": 40.6937,
+        "longitude": 46.34082
+    },
+    {
+        "stateId": "828301",
+        "name": "Gobustan Rayon",
+        "countryId": "587116",
+        "latitude": 40.5,
+        "longitude": 49
+    },
+    {
+        "stateId": "586112",
+        "name": "Goranboy Rayon",
+        "countryId": "587116",
+        "latitude": 40.58333,
+        "longitude": 46.66667
+    },
+    {
+        "stateId": "586482",
+        "name": "Goychay Rayon",
+        "countryId": "587116",
+        "latitude": 40.58333,
+        "longitude": 47.83333
+    },
+    {
+        "stateId": "585967",
+        "name": "Goygol Rayon",
+        "countryId": "587116",
+        "latitude": 40.5,
+        "longitude": 46.33333
+    },
+    {
+        "stateId": "828315",
+        "name": "Hajigabul Rayon",
+        "countryId": "587116",
+        "latitude": 40.08333,
+        "longitude": 48.91667
+    },
+    {
+        "stateId": "147983",
+        "name": "Imishli Rayon",
+        "countryId": "587116",
+        "latitude": 39.83333,
+        "longitude": 48.08333
+    },
+    {
+        "stateId": "586320",
+        "name": "Ismayilli Rayon",
+        "countryId": "587116",
+        "latitude": 40.83333,
+        "longitude": 48.16667
+    },
+    {
+        "stateId": "148140",
+        "name": "Jabrayil District",
+        "countryId": "587116",
+        "latitude": 39.33333,
+        "longitude": 47
+    },
+    {
+        "stateId": "148155",
+        "name": "Jalilabad",
+        "countryId": "587116",
+        "latitude": 39.25,
+        "longitude": 48.5
+    },
+    {
+        "stateId": "586047",
+        "name": "Kalbajar District",
+        "countryId": "587116",
+        "latitude": 40.1027,
+        "longitude": 46.1747
+    },
+    {
+        "stateId": "586001",
+        "name": "Khachmaz Rayon",
+        "countryId": "587116",
+        "latitude": 41.58333,
+        "longitude": 48.75
+    },
+    {
+        "stateId": "828306",
+        "name": "Khizi Rayon",
+        "countryId": "587116",
+        "latitude": 40.75,
+        "longitude": 49.16667
+    },
+    {
+        "stateId": "409423",
+        "name": "Khojavend District",
+        "countryId": "587116",
+        "latitude": 39.66667,
+        "longitude": 47
+    },
+    {
+        "stateId": "585686",
+        "name": "Kurdamir Rayon",
+        "countryId": "587116",
+        "latitude": 40.25,
+        "longitude": 48.16667
+    },
+    {
+        "stateId": "147613",
+        "name": "Lankaran Rayon",
+        "countryId": "587116",
+        "latitude": 38.70071,
+        "longitude": 48.75551
+    },
+    {
+        "stateId": "409418",
+        "name": "Lankaran Sahari",
+        "countryId": "587116",
+        "latitude": 38.73333,
+        "longitude": 48.83333
+    },
+    {
+        "stateId": "147626",
+        "name": "La\u00e7\u0131n Rayonu",
+        "countryId": "587116",
+        "latitude": 39.65073,
+        "longitude": 46.39913
+    },
+    {
+        "stateId": "147610",
+        "name": "Lerik Rayon",
+        "countryId": "587116",
+        "latitude": 38.75,
+        "longitude": 48.41667
+    },
+    {
+        "stateId": "147551",
+        "name": "Masally District",
+        "countryId": "587116",
+        "latitude": 39,
+        "longitude": 48.66667
+    },
+    {
+        "stateId": "828299",
+        "name": "Mingacevir City",
+        "countryId": "587116",
+        "latitude": 40.76667,
+        "longitude": 47
+    },
+    {
+        "stateId": "828300",
+        "name": "Naftalan City",
+        "countryId": "587116",
+        "latitude": 40.50525,
+        "longitude": 46.81163
+    },
+    {
+        "stateId": "8411069",
+        "name": "Nakhchivan",
+        "countryId": "587116",
+        "latitude": 39.2,
+        "longitude": 45.41667
+    },
+    {
+        "stateId": "147435",
+        "name": "Nakhchivan Autonomous Republic",
+        "countryId": "587116",
+        "latitude": 39.20991,
+        "longitude": 45.41817
+    },
+    {
+        "stateId": "147422",
+        "name": "Neftchala Rayon",
+        "countryId": "587116",
+        "latitude": 39.33333,
+        "longitude": 49
+    },
+    {
+        "stateId": "584742",
+        "name": "Oghuz Rayon",
+        "countryId": "587116",
+        "latitude": 41.08333,
+        "longitude": 47.5
+    },
+    {
+        "stateId": "585738",
+        "name": "Qabala Rayon",
+        "countryId": "587116",
+        "latitude": 40.91667,
+        "longitude": 47.83333
+    },
+    {
+        "stateId": "586290",
+        "name": "Qakh Rayon",
+        "countryId": "587116",
+        "latitude": 41.33333,
+        "longitude": 46.75
+    },
+    {
+        "stateId": "586087",
+        "name": "Qazakh Rayon",
+        "countryId": "587116",
+        "latitude": 41.26,
+        "longitude": 45.09
+    },
+    {
+        "stateId": "585786",
+        "name": "Quba Rayon",
+        "countryId": "587116",
+        "latitude": 41.16667,
+        "longitude": 48.41667
+    },
+    {
+        "stateId": "147694",
+        "name": "Qubadli Rayon",
+        "countryId": "587116",
+        "latitude": 39.33333,
+        "longitude": 46.58333
+    },
+    {
+        "stateId": "585749",
+        "name": "Qusar Rayon",
+        "countryId": "587116",
+        "latitude": 41.41667,
+        "longitude": 48.25
+    },
+    {
+        "stateId": "147287",
+        "name": "Saatly Rayon",
+        "countryId": "587116",
+        "latitude": 39.83333,
+        "longitude": 48.41667
+    },
+    {
+        "stateId": "147284",
+        "name": "Sabirabad Rayon",
+        "countryId": "587116",
+        "latitude": 39.91667,
+        "longitude": 48.66667
+    },
+    {
+        "stateId": "147269",
+        "name": "Salyan Rayon",
+        "countryId": "587116",
+        "latitude": 39.66667,
+        "longitude": 49
+    },
+    {
+        "stateId": "828302",
+        "name": "Samukh Rayon",
+        "countryId": "587116",
+        "latitude": 40.91667,
+        "longitude": 46.41667
+    },
+    {
+        "stateId": "586725",
+        "name": "Shabran Rayon",
+        "countryId": "587116",
+        "latitude": 41.18542,
+        "longitude": 48.8275
+    },
+    {
+        "stateId": "585031",
+        "name": "Shaki Rayon",
+        "countryId": "587116",
+        "latitude": 41.08333,
+        "longitude": 47.16667
+    },
+    {
+        "stateId": "828303",
+        "name": "Shaki city",
+        "countryId": "587116",
+        "latitude": 41.18333,
+        "longitude": 47.16667
+    },
+    {
+        "stateId": "585030",
+        "name": "Shamakhi Rayon",
+        "countryId": "587116",
+        "latitude": 40.58333,
+        "longitude": 48.66667
+    },
+    {
+        "stateId": "585059",
+        "name": "Shamkir Rayon",
+        "countryId": "587116",
+        "latitude": 40.83333,
+        "longitude": 46.08333
+    },
+    {
+        "stateId": "409417",
+        "name": "Shirvan",
+        "countryId": "587116",
+        "latitude": 39.9604,
+        "longitude": 48.88181
+    },
+    {
+        "stateId": "409419",
+        "name": "Shusha",
+        "countryId": "587116",
+        "latitude": 39.75,
+        "longitude": 46.75
+    },
+    {
+        "stateId": "828304",
+        "name": "Siazan Rayon",
+        "countryId": "587116",
+        "latitude": 41,
+        "longitude": 49.08333
+    },
+    {
+        "stateId": "828305",
+        "name": "Sumqayit City",
+        "countryId": "587116",
+        "latitude": 40.59466,
+        "longitude": 49.62799
+    },
+    {
+        "stateId": "409420",
+        "name": "Tartar Rayon",
+        "countryId": "587116",
+        "latitude": 40.33054,
+        "longitude": 46.94289
+    },
+    {
+        "stateId": "584861",
+        "name": "Tovuz Rayon",
+        "countryId": "587116",
+        "latitude": 41,
+        "longitude": 45.75
+    },
+    {
+        "stateId": "584783",
+        "name": "Ujar Rayon",
+        "countryId": "587116",
+        "latitude": 40.41667,
+        "longitude": 47.75
+    },
+    {
+        "stateId": "409421",
+        "name": "Xankandi Sahari",
+        "countryId": "587116",
+        "latitude": 39.81744,
+        "longitude": 46.75318
+    },
+    {
+        "stateId": "148449",
+        "name": "Xocal\u0131 Rayonu",
+        "countryId": "587116",
+        "latitude": 39.83333,
+        "longitude": 46.75
+    },
+    {
+        "stateId": "146962",
+        "name": "Yardymli Rayon",
+        "countryId": "587116",
+        "latitude": 38.91667,
+        "longitude": 48.25
+    },
+    {
+        "stateId": "828307",
+        "name": "Yevlakh City",
+        "countryId": "587116",
+        "latitude": 40.58333,
+        "longitude": 47.16667
+    },
+    {
+        "stateId": "584650",
+        "name": "Yevlakh Rayon",
+        "countryId": "587116",
+        "latitude": 40.66667,
+        "longitude": 47
+    },
+    {
+        "stateId": "146900",
+        "name": "Zangilan Rayon",
+        "countryId": "587116",
+        "latitude": 39.08333,
+        "longitude": 46.66667
+    },
+    {
+        "stateId": "584604",
+        "name": "Zaqatala Rayon",
+        "countryId": "587116",
+        "latitude": 41.58333,
+        "longitude": 46.66667
+    },
+    {
+        "stateId": "584583",
+        "name": "Zardab Rayon",
+        "countryId": "587116",
+        "latitude": 40.25,
+        "longitude": 47.75
+    },
+    {
+        "stateId": "147163",
+        "name": "\u015eu\u015fa Rayonu",
+        "countryId": "587116",
+        "latitude": 39.66667,
+        "longitude": 46.66667
+    }
+]

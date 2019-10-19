@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2275770",
+        "name": "Kongba District",
+        "stateId": "2593119",
+        "latitude": 7.67325,
+        "longitude": -10.51118
+    },
+    {
+        "cityId": "2276743",
+        "name": "Goije",
+        "stateId": "2593119",
+        "latitude": 7.14685,
+        "longitude": -10.86242
+    },
+    {
+        "cityId": "2278250",
+        "name": "Bopolu",
+        "stateId": "2593119",
+        "latitude": 7.14631,
+        "longitude": -10.42113
+    },
+    {
+        "cityId": "2278379",
+        "name": "Bokomu",
+        "stateId": "2593119",
+        "latitude": 7.24136,
+        "longitude": -10.17378
+    },
+    {
+        "cityId": "2278733",
+        "name": "Belleh",
+        "stateId": "2593119",
+        "latitude": 7.54596,
+        "longitude": -9.98924
+    },
+    {
+        "cityId": "9645007",
+        "name": "Gounwolaila District",
+        "stateId": "2593119",
+        "latitude": 7.22691,
+        "longitude": -9.95311
+    },
+    {
+        "cityId": "9645008",
+        "name": "Gbarma District",
+        "stateId": "2593119",
+        "latitude": 7.17688,
+        "longitude": -10.64681
+    }
+]

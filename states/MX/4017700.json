@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "6942830",
+        "name": "Ensenada",
+        "stateId": "4017700",
+        "latitude": 31.86667,
+        "longitude": -116.61666
+    },
+    {
+        "cityId": "6942831",
+        "name": "Mexicali",
+        "stateId": "4017700",
+        "latitude": 32.50513,
+        "longitude": -115.14771
+    },
+    {
+        "cityId": "6942832",
+        "name": "Tecate",
+        "stateId": "4017700",
+        "latitude": 32.55029,
+        "longitude": -116.63223
+    },
+    {
+        "cityId": "6942833",
+        "name": "Tijuana",
+        "stateId": "4017700",
+        "latitude": 32.50223,
+        "longitude": -116.97212
+    },
+    {
+        "cityId": "6942834",
+        "name": "Playas de Rosarito",
+        "stateId": "4017700",
+        "latitude": 32.34342,
+        "longitude": -117.03186
+    }
+]

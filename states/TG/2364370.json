@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2364751",
+        "name": "Pr\u00e9fecture du Haho",
+        "stateId": "2364370",
+        "latitude": 7.08333,
+        "longitude": 1.25
+    },
+    {
+        "cityId": "2365976",
+        "name": "Pr\u00e9fecture du Kloto",
+        "stateId": "2364370",
+        "latitude": 7.08333,
+        "longitude": 0.75
+    },
+    {
+        "cityId": "2367659",
+        "name": "Pr\u00e9fecture de Wawa",
+        "stateId": "2364370",
+        "latitude": 7.75,
+        "longitude": 0.75
+    },
+    {
+        "cityId": "2367885",
+        "name": "Pr\u00e9fecture de l\u2019Ogou",
+        "stateId": "2364370",
+        "latitude": 7.5,
+        "longitude": 1.33333
+    },
+    {
+        "cityId": "2368034",
+        "name": "Pr\u00e9fecture d\u2019Amou",
+        "stateId": "2364370",
+        "latitude": 7.5,
+        "longitude": 1.05
+    },
+    {
+        "cityId": "2597441",
+        "name": "Pr\u00e9fecture d\u2019Agou",
+        "stateId": "2364370",
+        "latitude": 6.73333,
+        "longitude": 0.76667
+    },
+    {
+        "cityId": "2597442",
+        "name": "Pr\u00e9fecture d\u2019Est-Mono",
+        "stateId": "2364370",
+        "latitude": 8.08333,
+        "longitude": 1.43333
+    },
+    {
+        "cityId": "2597443",
+        "name": "Pr\u00e9fecture du Moyen-Mono",
+        "stateId": "2364370",
+        "latitude": 7.2,
+        "longitude": 1.55
+    },
+    {
+        "cityId": "2597444",
+        "name": "Pr\u00e9fecture de Danyi",
+        "stateId": "2364370",
+        "latitude": 7.28333,
+        "longitude": 0.7
+    }
+]

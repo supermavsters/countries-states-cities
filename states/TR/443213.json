@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "437251",
+        "name": "Musabeyli \u0130l\u00e7esi",
+        "stateId": "443213",
+        "latitude": 36.90472,
+        "longitude": 36.96278
+    },
+    {
+        "cityId": "437627",
+        "name": "Polateli \u0130l\u00e7esi",
+        "stateId": "443213",
+        "latitude": 36.83694,
+        "longitude": 37.15083
+    },
+    {
+        "cityId": "437628",
+        "name": "Kilis Merkez",
+        "stateId": "443213",
+        "latitude": 36.71522,
+        "longitude": 37.12349
+    },
+    {
+        "cityId": "437629",
+        "name": "Elbeyli \u0130l\u00e7esi",
+        "stateId": "443213",
+        "latitude": 36.72556,
+        "longitude": 37.44
+    }
+]

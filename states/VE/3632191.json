@@ -1,0 +1,149 @@
+[
+    {
+        "cityId": "3625122",
+        "name": "Municipio Zamora",
+        "stateId": "3632191",
+        "latitude": 10.5,
+        "longitude": -66.5
+    },
+    {
+        "cityId": "3625659",
+        "name": "Municipio Urdaneta",
+        "stateId": "3632191",
+        "latitude": 10.16667,
+        "longitude": -66.91667
+    },
+    {
+        "cityId": "3630003",
+        "name": "Municipio Plaza",
+        "stateId": "3632191",
+        "latitude": 10.5,
+        "longitude": -66.66667
+    },
+    {
+        "cityId": "3630495",
+        "name": "Municipio Paz Castillo",
+        "stateId": "3632191",
+        "latitude": 10.33333,
+        "longitude": -66.66667
+    },
+    {
+        "cityId": "3631169",
+        "name": "Municipio P\u00e1ez",
+        "stateId": "3632191",
+        "latitude": 10.16667,
+        "longitude": -65.83333
+    },
+    {
+        "cityId": "3637011",
+        "name": "Municipio Lander",
+        "stateId": "3632191",
+        "latitude": 10.08333,
+        "longitude": -66.75
+    },
+    {
+        "cityId": "3639385",
+        "name": "Municipio Independencia",
+        "stateId": "3632191",
+        "latitude": 10.2,
+        "longitude": -66.6
+    },
+    {
+        "cityId": "3640380",
+        "name": "Municipio Guaicaipuro",
+        "stateId": "3632191",
+        "latitude": 10.25,
+        "longitude": -67
+    },
+    {
+        "cityId": "3644938",
+        "name": "Municipio Crist\u00f3bal Rojas",
+        "stateId": "3632191",
+        "latitude": 10.25,
+        "longitude": -66.83333
+    },
+    {
+        "cityId": "3647945",
+        "name": "Municipio Bri\u00f3n",
+        "stateId": "3632191",
+        "latitude": 10.41667,
+        "longitude": -66.16667
+    },
+    {
+        "cityId": "3649812",
+        "name": "Municipio Acevedo",
+        "stateId": "3632191",
+        "latitude": 10.25,
+        "longitude": -66.33333
+    },
+    {
+        "cityId": "8129175",
+        "name": "Municipio Sucre",
+        "stateId": "3632191",
+        "latitude": 10.47226,
+        "longitude": -66.80155
+    },
+    {
+        "cityId": "8129178",
+        "name": "Municipio Chacao",
+        "stateId": "3632191",
+        "latitude": 10.49598,
+        "longitude": -66.85347
+    },
+    {
+        "cityId": "8129186",
+        "name": "Municipio Sim\u00f3n Bol\u00edvar",
+        "stateId": "3632191",
+        "latitude": 10.17793,
+        "longitude": -66.74649
+    },
+    {
+        "cityId": "8129188",
+        "name": "Municipio Buroz",
+        "stateId": "3632191",
+        "latitude": 10.36461,
+        "longitude": -66.13044
+    },
+    {
+        "cityId": "8129201",
+        "name": "Municipio El Hatillo",
+        "stateId": "3632191",
+        "latitude": 10.42994,
+        "longitude": -66.8161
+    },
+    {
+        "cityId": "8129204",
+        "name": "Municipio Los Salias",
+        "stateId": "3632191",
+        "latitude": 10.38853,
+        "longitude": -66.95179
+    },
+    {
+        "cityId": "8131441",
+        "name": "Municipio Andr\u00e9s Bello",
+        "stateId": "3632191",
+        "latitude": 10.29735,
+        "longitude": -65.99556
+    },
+    {
+        "cityId": "8131442",
+        "name": "Municipio Baruta",
+        "stateId": "3632191",
+        "latitude": 10.43346,
+        "longitude": -66.87541
+    },
+    {
+        "cityId": "8131443",
+        "name": "Municipio Carrizal",
+        "stateId": "3632191",
+        "latitude": 10.3514,
+        "longitude": -66.9936
+    },
+    {
+        "cityId": "8131444",
+        "name": "Municipio Pedro Gual",
+        "stateId": "3632191",
+        "latitude": 10.16103,
+        "longitude": -65.7009
+    }
+]

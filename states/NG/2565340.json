@@ -1,0 +1,135 @@
+[
+    {
+        "cityId": "7701336",
+        "name": "Aba North",
+        "stateId": "2565340",
+        "latitude": 5.09386,
+        "longitude": 7.39479
+    },
+    {
+        "cityId": "7701374",
+        "name": "Aba South",
+        "stateId": "2565340",
+        "latitude": 5.1,
+        "longitude": 7.35
+    },
+    {
+        "cityId": "7701376",
+        "name": "Ikwuano",
+        "stateId": "2565340",
+        "latitude": 5.43333,
+        "longitude": 7.56667
+    },
+    {
+        "cityId": "7701380",
+        "name": "Ukwa East",
+        "stateId": "2565340",
+        "latitude": 4.9,
+        "longitude": 7.36667
+    },
+    {
+        "cityId": "7729963",
+        "name": "Ohafia",
+        "stateId": "2565340",
+        "latitude": 5.65835,
+        "longitude": 7.76939
+    },
+    {
+        "cityId": "7730382",
+        "name": "Isiala-Ngwa South",
+        "stateId": "2565340",
+        "latitude": 5.36241,
+        "longitude": 7.39998
+    },
+    {
+        "cityId": "7730384",
+        "name": "Ugwunagbo",
+        "stateId": "2565340",
+        "latitude": 5.00628,
+        "longitude": 7.33943
+    },
+    {
+        "cityId": "7730386",
+        "name": "Ukwa West",
+        "stateId": "2565340",
+        "latitude": 4.95401,
+        "longitude": 7.23927
+    },
+    {
+        "cityId": "7730388",
+        "name": "Umuahia South",
+        "stateId": "2565340",
+        "latitude": 5.46234,
+        "longitude": 7.43997
+    },
+    {
+        "cityId": "7873936",
+        "name": "Isuikwuato",
+        "stateId": "2565340",
+        "latitude": 5.76185,
+        "longitude": 7.46446
+    },
+    {
+        "cityId": "7932084",
+        "name": "Umu-Nneochi",
+        "stateId": "2565340",
+        "latitude": 5.93998,
+        "longitude": 7.41034
+    },
+    {
+        "cityId": "7932085",
+        "name": "Umuahia North",
+        "stateId": "2565340",
+        "latitude": 5.558,
+        "longitude": 7.46869
+    },
+    {
+        "cityId": "7932087",
+        "name": "Isiala-Ngwa North",
+        "stateId": "2565340",
+        "latitude": 5.26783,
+        "longitude": 7.39057
+    },
+    {
+        "cityId": "7932088",
+        "name": "Obi Nwga",
+        "stateId": "2565340",
+        "latitude": 5.12713,
+        "longitude": 7.45578
+    },
+    {
+        "cityId": "8638388",
+        "name": "Bende",
+        "stateId": "2565340",
+        "latitude": 5.64971,
+        "longitude": 7.58999
+    },
+    {
+        "cityId": "8638389",
+        "name": "Arochukwu",
+        "stateId": "2565340",
+        "latitude": 5.48569,
+        "longitude": 7.7658
+    },
+    {
+        "cityId": "8638391",
+        "name": "Osisioma Ngwa",
+        "stateId": "2565340",
+        "latitude": 5.19934,
+        "longitude": 7.33067
+    },
+    {
+        "cityId": "9485480",
+        "name": "Isiala Ngwa North Local Government Area",
+        "stateId": "2565340",
+        "latitude": 5.40305,
+        "longitude": 7.41986
+    },
+    {
+        "cityId": "9485481",
+        "name": "Isiala Ngwa South Local Government Area",
+        "stateId": "2565340",
+        "latitude": 5.32707,
+        "longitude": 7.39233
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3697795",
+        "name": "Provincia de Coronel Portillo",
+        "stateId": "3691099",
+        "latitude": -9.5,
+        "longitude": -73.33333
+    },
+    {
+        "cityId": "8349580",
+        "name": "Atalaya",
+        "stateId": "3691099",
+        "latitude": -10.3898,
+        "longitude": -73.21977
+    },
+    {
+        "cityId": "8349581",
+        "name": "Padre Abad",
+        "stateId": "3691099",
+        "latitude": -8.7968,
+        "longitude": -75.4285
+    },
+    {
+        "cityId": "8349582",
+        "name": "Purus",
+        "stateId": "3691099",
+        "latitude": -10.37331,
+        "longitude": -71.58231
+    }
+]

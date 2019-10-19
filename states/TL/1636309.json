@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "8618005",
+        "name": "Alas",
+        "stateId": "1636309",
+        "latitude": -9.0273,
+        "longitude": 125.7868
+    },
+    {
+        "cityId": "8628952",
+        "name": "Same",
+        "stateId": "1636309",
+        "latitude": -9,
+        "longitude": 125.65
+    },
+    {
+        "cityId": "8629268",
+        "name": "Fatuberliu",
+        "stateId": "1636309",
+        "latitude": -8.9479,
+        "longitude": 125.86633
+    },
+    {
+        "cityId": "8629269",
+        "name": "Turiscai",
+        "stateId": "1636309",
+        "latitude": -8.82371,
+        "longitude": 125.70454
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1149963",
+        "name": "Amphoe U Thong",
+        "stateId": "1606032",
+        "latitude": 14.41093,
+        "longitude": 99.88949
+    },
+    {
+        "cityId": "1150807",
+        "name": "Amphoe Sam Chuk",
+        "stateId": "1606032",
+        "latitude": 14.75598,
+        "longitude": 100.0648
+    },
+    {
+        "cityId": "1606138",
+        "name": "Amphoe Song Phi Nong",
+        "stateId": "1606032",
+        "latitude": 14.18895,
+        "longitude": 99.9758
+    },
+    {
+        "cityId": "1606256",
+        "name": "Amphoe Si Prachan",
+        "stateId": "1606032",
+        "latitude": 14.6381,
+        "longitude": 100.1505
+    },
+    {
+        "cityId": "1608613",
+        "name": "Amphoe Mueang Suphan Buri",
+        "stateId": "1606032",
+        "latitude": 14.49189,
+        "longitude": 100.07458
+    },
+    {
+        "cityId": "1610899",
+        "name": "Amphoe Don Chedi",
+        "stateId": "1606032",
+        "latitude": 14.64804,
+        "longitude": 99.94734
+    },
+    {
+        "cityId": "1610910",
+        "name": "Amphoe Doembang Nangbuat",
+        "stateId": "1606032",
+        "latitude": 14.87394,
+        "longitude": 100.04669
+    },
+    {
+        "cityId": "1619297",
+        "name": "Amphoe Bang Pla Ma",
+        "stateId": "1606032",
+        "latitude": 14.34985,
+        "longitude": 100.14479
+    },
+    {
+        "cityId": "7510655",
+        "name": "Amphoe Nong Yasai",
+        "stateId": "1606032",
+        "latitude": 14.77644,
+        "longitude": 99.85751
+    },
+    {
+        "cityId": "7510658",
+        "name": "Amphoe Dan Chang",
+        "stateId": "1606032",
+        "latitude": 14.88388,
+        "longitude": 99.51642
+    }
+]

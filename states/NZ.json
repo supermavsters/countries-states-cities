@@ -1,0 +1,121 @@
+[
+    {
+        "stateId": "2193734",
+        "name": "Auckland",
+        "countryId": "2186224",
+        "latitude": -36.85,
+        "longitude": 174.78333
+    },
+    {
+        "stateId": "2182560",
+        "name": "Bay of Plenty",
+        "countryId": "2186224",
+        "latitude": -38.1648,
+        "longitude": 176.91284
+    },
+    {
+        "stateId": "2192628",
+        "name": "Canterbury",
+        "countryId": "2186224",
+        "latitude": -43.5,
+        "longitude": 171.5
+    },
+    {
+        "stateId": "4033013",
+        "name": "Chatham Islands",
+        "countryId": "2186224",
+        "latitude": -44,
+        "longitude": -176.5
+    },
+    {
+        "stateId": "2190767",
+        "name": "Gisborne",
+        "countryId": "2186224",
+        "latitude": -38.65,
+        "longitude": 178
+    },
+    {
+        "stateId": "2190146",
+        "name": "Hawke's Bay",
+        "countryId": "2186224",
+        "latitude": -39.66667,
+        "longitude": 176.5
+    },
+    {
+        "stateId": "2179671",
+        "name": "Manawatu-Wanganui",
+        "countryId": "2186224",
+        "latitude": -39.95,
+        "longitude": 175.01667
+    },
+    {
+        "stateId": "2187304",
+        "name": "Marlborough",
+        "countryId": "2186224",
+        "latitude": -41.66667,
+        "longitude": 173.5
+    },
+    {
+        "stateId": "6612108",
+        "name": "Nelson",
+        "countryId": "2186224",
+        "latitude": -41.27089,
+        "longitude": 173.28401
+    },
+    {
+        "stateId": "2185978",
+        "name": "Northland",
+        "countryId": "2186224",
+        "latitude": -35.5,
+        "longitude": 174
+    },
+    {
+        "stateId": "6612109",
+        "name": "Otago",
+        "countryId": "2186224",
+        "latitude": -45.26392,
+        "longitude": 169.53501
+    },
+    {
+        "stateId": "2182501",
+        "name": "Southland",
+        "countryId": "2186224",
+        "latitude": -45.66667,
+        "longitude": 168
+    },
+    {
+        "stateId": "2181872",
+        "name": "Taranaki",
+        "countryId": "2186224",
+        "latitude": -39.16667,
+        "longitude": 174.66667
+    },
+    {
+        "stateId": "2181818",
+        "name": "Tasman",
+        "countryId": "2186224",
+        "latitude": -41.2,
+        "longitude": 173.05
+    },
+    {
+        "stateId": "2180293",
+        "name": "Waikato",
+        "countryId": "2186224",
+        "latitude": -37.5,
+        "longitude": 175.33333
+    },
+    {
+        "stateId": "2179538",
+        "name": "Wellington",
+        "countryId": "2186224",
+        "latitude": -41.28333,
+        "longitude": 174.76667
+    },
+    {
+        "stateId": "6612113",
+        "name": "West Coast",
+        "countryId": "2186224",
+        "latitude": -42.45658,
+        "longitude": 171.22081
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1635881",
+        "name": "Kota Mataram",
+        "stateId": "1633792",
+        "latitude": -8.5833,
+        "longitude": 116.1167
+    },
+    {
+        "cityId": "1637365",
+        "name": "Kabupaten Lombok Timur",
+        "stateId": "1633792",
+        "latitude": -8.53333,
+        "longitude": 116.53333
+    },
+    {
+        "cityId": "1637366",
+        "name": "Kabupaten Lombok Tengah",
+        "stateId": "1633792",
+        "latitude": -8.7,
+        "longitude": 116.3
+    },
+    {
+        "cityId": "1637367",
+        "name": "Kabupaten Lombok Barat",
+        "stateId": "1633792",
+        "latitude": -8.69583,
+        "longitude": 116.11667
+    },
+    {
+        "cityId": "1648758",
+        "name": "Kabupaten Bima",
+        "stateId": "1633792",
+        "latitude": -8.6,
+        "longitude": 118.61667
+    },
+    {
+        "cityId": "6984549",
+        "name": "Kabupaten Sumbawa Barat",
+        "stateId": "1633792",
+        "latitude": -8.75159,
+        "longitude": 116.92132
+    },
+    {
+        "cityId": "7057508",
+        "name": "Kabupaten Dompu",
+        "stateId": "1633792",
+        "latitude": -8.5094,
+        "longitude": 118.4816
+    },
+    {
+        "cityId": "8594735",
+        "name": "Kabupaten Sumbawa",
+        "stateId": "1633792",
+        "latitude": -8.7439,
+        "longitude": 117.3324
+    },
+    {
+        "cityId": "8659092",
+        "name": "Kabupaten Lombok Utara",
+        "stateId": "1633792",
+        "latitude": -8.35214,
+        "longitude": 116.40152
+    },
+    {
+        "cityId": "8659101",
+        "name": "Kota Bima",
+        "stateId": "1633792",
+        "latitude": -8.46728,
+        "longitude": 118.75259
+    }
+]

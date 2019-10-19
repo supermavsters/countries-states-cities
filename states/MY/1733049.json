@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1732686",
+        "name": "Daerah Batu Pahat",
+        "stateId": "1733049",
+        "latitude": 1.93333,
+        "longitude": 103
+    },
+    {
+        "cityId": "1732707",
+        "name": "Daerah Pontian",
+        "stateId": "1733049",
+        "latitude": 1.5,
+        "longitude": 103.5
+    },
+    {
+        "cityId": "1732737",
+        "name": "Daerah Kota Tinggi",
+        "stateId": "1733049",
+        "latitude": 1.81667,
+        "longitude": 103.96667
+    },
+    {
+        "cityId": "1732751",
+        "name": "Daerah Johor Baharu",
+        "stateId": "1733049",
+        "latitude": 1.65,
+        "longitude": 103.6
+    },
+    {
+        "cityId": "1732810",
+        "name": "Daerah Keluang",
+        "stateId": "1733049",
+        "latitude": 2.2,
+        "longitude": 103.33333
+    },
+    {
+        "cityId": "1732827",
+        "name": "Daerah Mersing",
+        "stateId": "1733049",
+        "latitude": 2.31667,
+        "longitude": 103.71667
+    },
+    {
+        "cityId": "1732847",
+        "name": "Daerah Segamat",
+        "stateId": "1733049",
+        "latitude": 2.6,
+        "longitude": 102.81667
+    },
+    {
+        "cityId": "1732868",
+        "name": "Daerah Muar",
+        "stateId": "1733049",
+        "latitude": 2.25,
+        "longitude": 102.75
+    },
+    {
+        "cityId": "1734905",
+        "name": "Daerha Rompin",
+        "stateId": "1733049",
+        "latitude": 2,
+        "longitude": 103
+    }
+]

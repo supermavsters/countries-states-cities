@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "8224935",
+        "name": "Magwi County",
+        "stateId": "11550567",
+        "latitude": 4.12532,
+        "longitude": 32.30148
+    },
+    {
+        "cityId": "9409219",
+        "name": "Ikotos",
+        "stateId": "11550567",
+        "latitude": 4.07833,
+        "longitude": 33.10889
+    },
+    {
+        "cityId": "10345217",
+        "name": "Torit County",
+        "stateId": "11550567",
+        "latitude": 4.5,
+        "longitude": 32.5
+    },
+    {
+        "cityId": "10346346",
+        "name": "Lafon County",
+        "stateId": "11550567",
+        "latitude": 5.03323,
+        "longitude": 32.46906
+    }
+]

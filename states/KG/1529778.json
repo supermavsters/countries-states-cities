@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1527194",
+        "name": "Toktogul District",
+        "stateId": "1529778",
+        "latitude": 41.75,
+        "longitude": 73
+    },
+    {
+        "cityId": "7910407",
+        "name": "Suzak",
+        "stateId": "1529778",
+        "latitude": 41.08,
+        "longitude": 73.28
+    },
+    {
+        "cityId": "8139375",
+        "name": "Aksy",
+        "stateId": "1529778",
+        "latitude": 41.49634,
+        "longitude": 71.9975
+    },
+    {
+        "cityId": "8139376",
+        "name": "Chatkal",
+        "stateId": "1529778",
+        "latitude": 41.87043,
+        "longitude": 71.00866
+    },
+    {
+        "cityId": "9165680",
+        "name": "Bazar-Korgon",
+        "stateId": "1529778",
+        "latitude": 41.02806,
+        "longitude": 72.74361
+    },
+    {
+        "cityId": "9165682",
+        "name": "Ala-Buka",
+        "stateId": "1529778",
+        "latitude": 41.40806,
+        "longitude": 71.46306
+    },
+    {
+        "cityId": "9165683",
+        "name": "Nooken",
+        "stateId": "1529778",
+        "latitude": 41.062,
+        "longitude": 72.6321
+    },
+    {
+        "cityId": "9165780",
+        "name": "Toguz-Toro",
+        "stateId": "1529778",
+        "latitude": 41.405,
+        "longitude": 74.037
+    }
+]

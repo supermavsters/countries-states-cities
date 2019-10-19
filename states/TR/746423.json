@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7732375",
+        "name": "Merkez",
+        "stateId": "746423",
+        "latitude": 40.46843,
+        "longitude": 39.67441
+    },
+    {
+        "cityId": "8631615",
+        "name": "K\u00f6se \u0130l\u00e7esi",
+        "stateId": "746423",
+        "latitude": 40.21025,
+        "longitude": 39.65402
+    },
+    {
+        "cityId": "8631616",
+        "name": "Torul \u0130l\u00e7esi",
+        "stateId": "746423",
+        "latitude": 40.56034,
+        "longitude": 39.29671
+    },
+    {
+        "cityId": "8631617",
+        "name": "K\u00fcrt\u00fcn \u0130l\u00e7esi",
+        "stateId": "746423",
+        "latitude": 40.69966,
+        "longitude": 39.09801
+    },
+    {
+        "cityId": "8631618",
+        "name": "\u015eiran \u0130l\u00e7esi",
+        "stateId": "746423",
+        "latitude": 40.19084,
+        "longitude": 39.12484
+    },
+    {
+        "cityId": "8631619",
+        "name": "Kelkit \u0130l\u00e7esi",
+        "stateId": "746423",
+        "latitude": 40.12952,
+        "longitude": 39.4371
+    }
+]

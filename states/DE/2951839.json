@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2819564",
+        "name": "Regierungsbezirk Unterfranken",
+        "stateId": "2951839",
+        "latitude": 50,
+        "longitude": 10
+    },
+    {
+        "cityId": "2835521",
+        "name": "Swabia",
+        "stateId": "2951839",
+        "latitude": 48.33333,
+        "longitude": 10.5
+    },
+    {
+        "cityId": "2859444",
+        "name": "Upper Palatinate",
+        "stateId": "2951839",
+        "latitude": 49.5,
+        "longitude": 12
+    },
+    {
+        "cityId": "2860681",
+        "name": "Upper Franconia",
+        "stateId": "2951839",
+        "latitude": 49.83333,
+        "longitude": 11.33333
+    },
+    {
+        "cityId": "2861322",
+        "name": "Upper Bavaria",
+        "stateId": "2951839",
+        "latitude": 48,
+        "longitude": 11
+    },
+    {
+        "cityId": "2863622",
+        "name": "Lower Bavaria",
+        "stateId": "2951839",
+        "latitude": 48.75,
+        "longitude": 12.83333
+    },
+    {
+        "cityId": "2870736",
+        "name": "Regierungsbezirk Mittelfranken",
+        "stateId": "2951839",
+        "latitude": 49.33333,
+        "longitude": 10.83333
+    }
+]

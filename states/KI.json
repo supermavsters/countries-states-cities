@@ -1,0 +1,23 @@
+[
+    {
+        "stateId": "2110215",
+        "name": "Gilbert Islands",
+        "countryId": "4030945",
+        "latitude": 1.42,
+        "longitude": 172.984
+    },
+    {
+        "stateId": "4030940",
+        "name": "Line Islands",
+        "countryId": "4030945",
+        "latitude": 1.942,
+        "longitude": -157.475
+    },
+    {
+        "stateId": "7521379",
+        "name": "Phoenix Islands",
+        "countryId": "4030945",
+        "latitude": -2.808,
+        "longitude": -171.678
+    }
+]

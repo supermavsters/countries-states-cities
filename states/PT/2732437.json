@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "8010637",
+        "name": "Alij\u00f3",
+        "stateId": "2732437",
+        "latitude": 41.28447,
+        "longitude": -7.48545
+    },
+    {
+        "cityId": "8010638",
+        "name": "Boticas",
+        "stateId": "2732437",
+        "latitude": 41.67585,
+        "longitude": -7.71604
+    },
+    {
+        "cityId": "8010639",
+        "name": "Chaves",
+        "stateId": "2732437",
+        "latitude": 41.73961,
+        "longitude": -7.4503
+    },
+    {
+        "cityId": "8010640",
+        "name": "Mes\u00e3o Frio",
+        "stateId": "2732437",
+        "latitude": 41.1619,
+        "longitude": -7.87284
+    },
+    {
+        "cityId": "8010641",
+        "name": "Mondim de Basto",
+        "stateId": "2732437",
+        "latitude": 41.41347,
+        "longitude": -7.95479
+    },
+    {
+        "cityId": "8010642",
+        "name": "Montalegre",
+        "stateId": "2732437",
+        "latitude": 41.8318,
+        "longitude": -7.78999
+    },
+    {
+        "cityId": "8010643",
+        "name": "Mur\u00e7a",
+        "stateId": "2732437",
+        "latitude": 41.41825,
+        "longitude": -7.45121
+    },
+    {
+        "cityId": "8010644",
+        "name": "Peso da R\u00e9gua",
+        "stateId": "2732437",
+        "latitude": 41.19157,
+        "longitude": -7.83668
+    },
+    {
+        "cityId": "8010645",
+        "name": "Ribeira de Pena",
+        "stateId": "2732437",
+        "latitude": 41.51021,
+        "longitude": -7.79673
+    },
+    {
+        "cityId": "8010646",
+        "name": "Sabrosa",
+        "stateId": "2732437",
+        "latitude": 41.25318,
+        "longitude": -7.5902
+    },
+    {
+        "cityId": "8010647",
+        "name": "Santa Marta de Penagui\u00e3o",
+        "stateId": "2732437",
+        "latitude": 41.22136,
+        "longitude": -7.79634
+    },
+    {
+        "cityId": "8010648",
+        "name": "Valpa\u00e7os",
+        "stateId": "2732437",
+        "latitude": 41.62082,
+        "longitude": -7.33607
+    },
+    {
+        "cityId": "8010649",
+        "name": "Vila Pouca de Aguiar",
+        "stateId": "2732437",
+        "latitude": 41.52079,
+        "longitude": -7.63671
+    },
+    {
+        "cityId": "8010650",
+        "name": "Vila Real",
+        "stateId": "2732437",
+        "latitude": 41.30021,
+        "longitude": -7.73985
+    }
+]

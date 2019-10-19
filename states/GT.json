@@ -1,0 +1,156 @@
+[
+    {
+        "stateId": "3599773",
+        "name": "Departamento de Alta Verapaz",
+        "countryId": "3595528",
+        "latitude": 15.66667,
+        "longitude": -90
+    },
+    {
+        "stateId": "3599602",
+        "name": "Departamento de Baja Verapaz",
+        "countryId": "3595528",
+        "latitude": 15.08333,
+        "longitude": -90.33333
+    },
+    {
+        "stateId": "3598571",
+        "name": "Departamento de Chimaltenango",
+        "countryId": "3595528",
+        "latitude": 14.66667,
+        "longitude": -90.91667
+    },
+    {
+        "stateId": "3598464",
+        "name": "Departamento de Chiquimula",
+        "countryId": "3595528",
+        "latitude": 14.66667,
+        "longitude": -89.41667
+    },
+    {
+        "stateId": "3596416",
+        "name": "Departamento de El Progreso",
+        "countryId": "3595528",
+        "latitude": 14.83333,
+        "longitude": -90
+    },
+    {
+        "stateId": "3595802",
+        "name": "Departamento de Escuintla",
+        "countryId": "3595528",
+        "latitude": 14.16667,
+        "longitude": -91
+    },
+    {
+        "stateId": "3595530",
+        "name": "Departamento de Guatemala",
+        "countryId": "3595528",
+        "latitude": 14.66667,
+        "longitude": -90.5
+    },
+    {
+        "stateId": "3595415",
+        "name": "Departamento de Huehuetenango",
+        "countryId": "3595528",
+        "latitude": 15.66667,
+        "longitude": -91.58333
+    },
+    {
+        "stateId": "3595259",
+        "name": "Departamento de Izabal",
+        "countryId": "3595528",
+        "latitude": 15.5,
+        "longitude": -89
+    },
+    {
+        "stateId": "3595236",
+        "name": "Departamento de Jalapa",
+        "countryId": "3595528",
+        "latitude": 14.58333,
+        "longitude": -89.91667
+    },
+    {
+        "stateId": "3595067",
+        "name": "Departamento de Jutiapa",
+        "countryId": "3595528",
+        "latitude": 14.16667,
+        "longitude": -89.83333
+    },
+    {
+        "stateId": "3590978",
+        "name": "Departamento de Quetzaltenango",
+        "countryId": "3595528",
+        "latitude": 14.75,
+        "longitude": -91.66667
+    },
+    {
+        "stateId": "3590857",
+        "name": "Departamento de Retalhuleu",
+        "countryId": "3595528",
+        "latitude": 14.33333,
+        "longitude": -91.83333
+    },
+    {
+        "stateId": "3590686",
+        "name": "Departamento de Sacatep\u00e9quez",
+        "countryId": "3595528",
+        "latitude": 14.58333,
+        "longitude": -90.75
+    },
+    {
+        "stateId": "3589801",
+        "name": "Departamento de San Marcos",
+        "countryId": "3595528",
+        "latitude": 15,
+        "longitude": -91.91667
+    },
+    {
+        "stateId": "3589172",
+        "name": "Departamento de Santa Rosa",
+        "countryId": "3595528",
+        "latitude": 14.16667,
+        "longitude": -90.3
+    },
+    {
+        "stateId": "3588697",
+        "name": "Departamento de Solol\u00e1",
+        "countryId": "3595528",
+        "latitude": 14.66667,
+        "longitude": -91.25
+    },
+    {
+        "stateId": "3588668",
+        "name": "Departamento de Suchitep\u00e9quez",
+        "countryId": "3595528",
+        "latitude": 14.38084,
+        "longitude": -91.43046
+    },
+    {
+        "stateId": "3588257",
+        "name": "Departamento de Totonicap\u00e1n",
+        "countryId": "3595528",
+        "latitude": 15,
+        "longitude": -91.33333
+    },
+    {
+        "stateId": "3587586",
+        "name": "Departamento de Zacapa",
+        "countryId": "3595528",
+        "latitude": 15,
+        "longitude": -89.5
+    },
+    {
+        "stateId": "3591410",
+        "name": "Departamento del Pet\u00e9n",
+        "countryId": "3595528",
+        "latitude": 16.83333,
+        "longitude": -90
+    },
+    {
+        "stateId": "3590964",
+        "name": "Departamento del Quich\u00e9",
+        "countryId": "3595528",
+        "latitude": 15.5,
+        "longitude": -90.91667
+    }
+]

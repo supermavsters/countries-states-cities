@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "3617561",
+        "name": "Municipio de Muelle de los Bueyes",
+        "stateId": "3830308",
+        "latitude": 12.08333,
+        "longitude": -84.5
+    },
+    {
+        "cityId": "3618617",
+        "name": "Municipio de La Cruz de R\u00edo Grande",
+        "stateId": "3830308",
+        "latitude": 13.2,
+        "longitude": -84.5
+    },
+    {
+        "cityId": "3620265",
+        "name": "Municipio de Corn Island",
+        "stateId": "3830308",
+        "latitude": 12.16667,
+        "longitude": -83.08333
+    },
+    {
+        "cityId": "3620678",
+        "name": "Municipio de Bluefields",
+        "stateId": "3830308",
+        "latitude": 12,
+        "longitude": -83.75
+    },
+    {
+        "cityId": "8335438",
+        "name": "Municipio El Tortuguero",
+        "stateId": "3830308",
+        "latitude": 12.82079,
+        "longitude": -84.20021
+    },
+    {
+        "cityId": "8335440",
+        "name": "Municipio de Bocana de Paiwas",
+        "stateId": "3830308",
+        "latitude": 12.8,
+        "longitude": -85.13334
+    },
+    {
+        "cityId": "9161306",
+        "name": "Desembocadura de la Cruz de Rio Grande",
+        "stateId": "3830308",
+        "latitude": 12.9319,
+        "longitude": -83.5769
+    },
+    {
+        "cityId": "9165985",
+        "name": "El Rama",
+        "stateId": "3830308",
+        "latitude": 12.15,
+        "longitude": -84.21667
+    },
+    {
+        "cityId": "9166071",
+        "name": "Municipio de Kukra Hill",
+        "stateId": "3830308",
+        "latitude": 12.24046,
+        "longitude": -83.74655
+    },
+    {
+        "cityId": "9166072",
+        "name": "Municipio de Laguna",
+        "stateId": "3830308",
+        "latitude": 12.34189,
+        "longitude": -83.67162
+    },
+    {
+        "cityId": "9612993",
+        "name": "Nueva Guinea",
+        "stateId": "3830308",
+        "latitude": 11.6833,
+        "longitude": -84.45
+    },
+    {
+        "cityId": "10301387",
+        "name": "Municipio El Ayote",
+        "stateId": "3830308",
+        "latitude": 12.5,
+        "longitude": -84.81667
+    }
+]

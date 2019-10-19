@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3870304",
+        "name": "Provincia de Talagante",
+        "stateId": "3873544",
+        "latitude": -33.66667,
+        "longitude": -70.91667
+    },
+    {
+        "cityId": "3871332",
+        "name": "Provincia de Santiago",
+        "stateId": "3873544",
+        "latitude": -33.33333,
+        "longitude": -70.66667
+    },
+    {
+        "cityId": "3880106",
+        "name": "Provincia de Melipilla",
+        "stateId": "3873544",
+        "latitude": -33.75,
+        "longitude": -71.16667
+    },
+    {
+        "cityId": "3880987",
+        "name": "Provincia de Maipo",
+        "stateId": "3873544",
+        "latitude": -33.83333,
+        "longitude": -70.75
+    },
+    {
+        "cityId": "8181716",
+        "name": "Provincia de Cordillera",
+        "stateId": "3873544",
+        "latitude": -33.67921,
+        "longitude": -70.54665
+    },
+    {
+        "cityId": "8181717",
+        "name": "Provincia de Chacabuco",
+        "stateId": "3873544",
+        "latitude": -33.1594,
+        "longitude": -70.8165
+    }
+]

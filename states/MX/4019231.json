@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "6942835",
+        "name": "Aguascalientes",
+        "stateId": "4019231",
+        "latitude": 21.88333,
+        "longitude": -102.3
+    },
+    {
+        "cityId": "6942836",
+        "name": "Asientos",
+        "stateId": "4019231",
+        "latitude": 22.23333,
+        "longitude": -102.08333
+    },
+    {
+        "cityId": "6942837",
+        "name": "Calvillo",
+        "stateId": "4019231",
+        "latitude": 21.85,
+        "longitude": -102.71666
+    },
+    {
+        "cityId": "6942838",
+        "name": "Cos\u00edo",
+        "stateId": "4019231",
+        "latitude": 22.36667,
+        "longitude": -102.3
+    },
+    {
+        "cityId": "6942839",
+        "name": "Jes\u00fas Mar\u00eda",
+        "stateId": "4019231",
+        "latitude": 21.96667,
+        "longitude": -102.35
+    },
+    {
+        "cityId": "6942840",
+        "name": "Pabell\u00f3n de Arteaga",
+        "stateId": "4019231",
+        "latitude": 22.15,
+        "longitude": -102.26666
+    },
+    {
+        "cityId": "6942841",
+        "name": "Rinc\u00f3n de Romos",
+        "stateId": "4019231",
+        "latitude": 22.23333,
+        "longitude": -102.31666
+    },
+    {
+        "cityId": "6942843",
+        "name": "San Jos\u00e9 de Gracia",
+        "stateId": "4019231",
+        "latitude": 22.15,
+        "longitude": -102.41666
+    },
+    {
+        "cityId": "6942844",
+        "name": "Tepezal\u00e1",
+        "stateId": "4019231",
+        "latitude": 22.21667,
+        "longitude": -102.16666
+    },
+    {
+        "cityId": "6942845",
+        "name": "El Llano",
+        "stateId": "4019231",
+        "latitude": 21.91667,
+        "longitude": -101.96666
+    },
+    {
+        "cityId": "6942846",
+        "name": "San Francisco de los Romo",
+        "stateId": "4019231",
+        "latitude": 22.03307,
+        "longitude": -102.22902
+    }
+]

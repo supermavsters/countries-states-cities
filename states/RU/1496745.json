@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "1485310",
+        "name": "Zdvinskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.66667,
+        "longitude": 78.75
+    },
+    {
+        "cityId": "1487613",
+        "name": "Vengerovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.91667,
+        "longitude": 76.91667
+    },
+    {
+        "cityId": "1488072",
+        "name": "Ust\u2019-Tarkskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.75,
+        "longitude": 75.83333
+    },
+    {
+        "cityId": "1488709",
+        "name": "Ubinskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.25,
+        "longitude": 79.5
+    },
+    {
+        "cityId": "1489505",
+        "name": "Toguchinskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.25,
+        "longitude": 84.33333
+    },
+    {
+        "cityId": "1489996",
+        "name": "Tatarskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.25,
+        "longitude": 76
+    },
+    {
+        "cityId": "1490549",
+        "name": "Suzunskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 53.83333,
+        "longitude": 82.5
+    },
+    {
+        "cityId": "1492577",
+        "name": "Severnyy Rayon",
+        "stateId": "1496745",
+        "latitude": 56.33333,
+        "longitude": 78.5
+    },
+    {
+        "cityId": "1496101",
+        "name": "Ordynskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.33333,
+        "longitude": 81.66667
+    },
+    {
+        "cityId": "1496742",
+        "name": "Novosibirskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55,
+        "longitude": 83
+    },
+    {
+        "cityId": "1498386",
+        "name": "Moshkovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.3,
+        "longitude": 83.61667
+    },
+    {
+        "cityId": "1499244",
+        "name": "Maslyaninskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.5,
+        "longitude": 84.5
+    },
+    {
+        "cityId": "1500998",
+        "name": "Kyshtovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 56.75,
+        "longitude": 77
+    },
+    {
+        "cityId": "1501129",
+        "name": "Kuybyshevskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.5,
+        "longitude": 78.25
+    },
+    {
+        "cityId": "1501362",
+        "name": "Kupinskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.5,
+        "longitude": 77.5
+    },
+    {
+        "cityId": "1501989",
+        "name": "Krasnozerskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54,
+        "longitude": 79.25
+    },
+    {
+        "cityId": "1502815",
+        "name": "Kolyvanskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.83333,
+        "longitude": 82.66667
+    },
+    {
+        "cityId": "1503053",
+        "name": "Kochkovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.33333,
+        "longitude": 80.5
+    },
+    {
+        "cityId": "1503080",
+        "name": "Kochenevskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55,
+        "longitude": 82
+    },
+    {
+        "cityId": "1504377",
+        "name": "Kargatskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.25,
+        "longitude": 80.25
+    },
+    {
+        "cityId": "1504478",
+        "name": "Karasukskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 53.75,
+        "longitude": 78.08333
+    },
+    {
+        "cityId": "1505424",
+        "name": "Iskitimskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.66667,
+        "longitude": 83.25
+    },
+    {
+        "cityId": "1507221",
+        "name": "Dovolenskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.5,
+        "longitude": 79.75
+    },
+    {
+        "cityId": "1507674",
+        "name": "Chulymskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55,
+        "longitude": 81
+    },
+    {
+        "cityId": "1507795",
+        "name": "Chistoozernyy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.58333,
+        "longitude": 76.25
+    },
+    {
+        "cityId": "1508155",
+        "name": "Cherepanovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.25,
+        "longitude": 83.25
+    },
+    {
+        "cityId": "1508459",
+        "name": "Chanovskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.25,
+        "longitude": 77
+    },
+    {
+        "cityId": "1509820",
+        "name": "Bolotninskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.75,
+        "longitude": 84.25
+    },
+    {
+        "cityId": "1510911",
+        "name": "Barabinskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 55.08333,
+        "longitude": 78.33333
+    },
+    {
+        "cityId": "1511087",
+        "name": "Baganskiy Rayon",
+        "stateId": "1496745",
+        "latitude": 54.08333,
+        "longitude": 77.66667
+    }
+]

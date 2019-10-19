@@ -1,0 +1,58 @@
+[
+    {
+        "stateId": "2177478",
+        "name": "Australian Capital Territory",
+        "countryId": "2077456",
+        "latitude": -35.5,
+        "longitude": 149
+    },
+    {
+        "stateId": "2064513",
+        "name": "Northern Territory",
+        "countryId": "2077456",
+        "latitude": -20,
+        "longitude": 134
+    },
+    {
+        "stateId": "2155400",
+        "name": "State of New South Wales",
+        "countryId": "2077456",
+        "latitude": -33,
+        "longitude": 146
+    },
+    {
+        "stateId": "2152274",
+        "name": "State of Queensland",
+        "countryId": "2077456",
+        "latitude": -20,
+        "longitude": 145
+    },
+    {
+        "stateId": "2061327",
+        "name": "State of South Australia",
+        "countryId": "2077456",
+        "latitude": -30,
+        "longitude": 135
+    },
+    {
+        "stateId": "2147291",
+        "name": "State of Tasmania",
+        "countryId": "2077456",
+        "latitude": -42,
+        "longitude": 147
+    },
+    {
+        "stateId": "2145234",
+        "name": "State of Victoria",
+        "countryId": "2077456",
+        "latitude": -37,
+        "longitude": 145
+    },
+    {
+        "stateId": "2058645",
+        "name": "State of Western Australia",
+        "countryId": "2077456",
+        "latitude": -25,
+        "longitude": 122
+    }
+]

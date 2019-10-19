@@ -1,0 +1,380 @@
+[
+    {
+        "cityId": "1850731",
+        "name": "Tama-shi",
+        "stateId": "1850144",
+        "latitude": 35.63054,
+        "longitude": 139.43976
+    },
+    {
+        "cityId": "1851306",
+        "name": "Tachikawa-shi",
+        "stateId": "1850144",
+        "latitude": 35.71447,
+        "longitude": 139.40453
+    },
+    {
+        "cityId": "1851451",
+        "name": "Sumida-ku",
+        "stateId": "1850144",
+        "latitude": 35.71072,
+        "longitude": 139.8015
+    },
+    {
+        "cityId": "1851510",
+        "name": "Suginami-ku",
+        "stateId": "1850144",
+        "latitude": 35.69951,
+        "longitude": 139.63641
+    },
+    {
+        "cityId": "1852083",
+        "name": "Shinjuku-ku",
+        "stateId": "1850144",
+        "latitude": 35.69384,
+        "longitude": 139.70355
+    },
+    {
+        "cityId": "1852140",
+        "name": "Shinagawa-ku",
+        "stateId": "1850144",
+        "latitude": 35.60902,
+        "longitude": 139.73017
+    },
+    {
+        "cityId": "1852582",
+        "name": "Shibuya-ku",
+        "stateId": "1850144",
+        "latitude": 35.66404,
+        "longitude": 139.69821
+    },
+    {
+        "cityId": "1852675",
+        "name": "Setagaya-ku",
+        "stateId": "1850144",
+        "latitude": 35.64657,
+        "longitude": 139.65325
+    },
+    {
+        "cityId": "1853655",
+        "name": "\u014cta-ku",
+        "stateId": "1850144",
+        "latitude": 35.56126,
+        "longitude": 139.71605
+    },
+    {
+        "cityId": "1853724",
+        "name": "\u014cshima Shich\u014d",
+        "stateId": "1850144",
+        "latitude": 34.74048,
+        "longitude": 139.40964
+    },
+    {
+        "cityId": "1854160",
+        "name": "\u014cme-shi",
+        "stateId": "1850144",
+        "latitude": 35.78814,
+        "longitude": 139.27501
+    },
+    {
+        "cityId": "1855156",
+        "name": "Nishitama-gun",
+        "stateId": "1850144",
+        "latitude": 35.78829,
+        "longitude": 139.09514
+    },
+    {
+        "cityId": "1855502",
+        "name": "Nerima-ku",
+        "stateId": "1850144",
+        "latitude": 35.73551,
+        "longitude": 139.65168
+    },
+    {
+        "cityId": "1855848",
+        "name": "Nakano-ku",
+        "stateId": "1850144",
+        "latitude": 35.71091,
+        "longitude": 139.66248
+    },
+    {
+        "cityId": "1856366",
+        "name": "Musashino-shi",
+        "stateId": "1850144",
+        "latitude": 35.71771,
+        "longitude": 139.566
+    },
+    {
+        "cityId": "1856368",
+        "name": "Musashimurayama-shi",
+        "stateId": "1850144",
+        "latitude": 35.75037,
+        "longitude": 139.38391
+    },
+    {
+        "cityId": "1856786",
+        "name": "Miyake Shich\u014d",
+        "stateId": "1850144",
+        "latitude": 34.07541,
+        "longitude": 139.51538
+    },
+    {
+        "cityId": "1856942",
+        "name": "Mitaka-shi",
+        "stateId": "1850144",
+        "latitude": 35.68351,
+        "longitude": 139.55963
+    },
+    {
+        "cityId": "1857091",
+        "name": "Minato-ku",
+        "stateId": "1850144",
+        "latitude": 35.65,
+        "longitude": 139.73333
+    },
+    {
+        "cityId": "1857420",
+        "name": "Meguro-ku",
+        "stateId": "1850144",
+        "latitude": 35.64146,
+        "longitude": 139.69817
+    },
+    {
+        "cityId": "1857869",
+        "name": "Machida-shi",
+        "stateId": "1850144",
+        "latitude": 35.57626,
+        "longitude": 139.42998
+    },
+    {
+        "cityId": "1858346",
+        "name": "Kunitachi-shi",
+        "stateId": "1850144",
+        "latitude": 35.68634,
+        "longitude": 139.43878
+    },
+    {
+        "cityId": "1858665",
+        "name": "K\u014dt\u014d-ku",
+        "stateId": "1850144",
+        "latitude": 35.66667,
+        "longitude": 139.81667
+    },
+    {
+        "cityId": "1858941",
+        "name": "Komae-shi",
+        "stateId": "1850144",
+        "latitude": 35.63487,
+        "longitude": 139.57723
+    },
+    {
+        "cityId": "1858962",
+        "name": "Kokubunji-shi",
+        "stateId": "1850144",
+        "latitude": 35.70552,
+        "longitude": 139.46125
+    },
+    {
+        "cityId": "1859087",
+        "name": "Koganei-shi",
+        "stateId": "1850144",
+        "latitude": 35.70108,
+        "longitude": 139.51104
+    },
+    {
+        "cityId": "1859115",
+        "name": "Kodaira-shi",
+        "stateId": "1850144",
+        "latitude": 35.72738,
+        "longitude": 139.48173
+    },
+    {
+        "cityId": "1859211",
+        "name": "Kiyose-shi",
+        "stateId": "1850144",
+        "latitude": 35.78551,
+        "longitude": 139.52628
+    },
+    {
+        "cityId": "1859308",
+        "name": "Kita-ku",
+        "stateId": "1850144",
+        "latitude": 35.75264,
+        "longitude": 139.73348
+    },
+    {
+        "cityId": "1859779",
+        "name": "Katsushika Ku",
+        "stateId": "1850144",
+        "latitude": 35.75324,
+        "longitude": 139.85567
+    },
+    {
+        "cityId": "1861322",
+        "name": "Itabashi-ku",
+        "stateId": "1850144",
+        "latitude": 35.75118,
+        "longitude": 139.70927
+    },
+    {
+        "cityId": "1861634",
+        "name": "Inagi-shi",
+        "stateId": "1850144",
+        "latitude": 35.6329,
+        "longitude": 139.49291
+    },
+    {
+        "cityId": "1862576",
+        "name": "Hino-shi",
+        "stateId": "1850144",
+        "latitude": 35.66333,
+        "longitude": 139.39865
+    },
+    {
+        "cityId": "1862703",
+        "name": "Higashiyamato-shi",
+        "stateId": "1850144",
+        "latitude": 35.75031,
+        "longitude": 139.4266
+    },
+    {
+        "cityId": "1862768",
+        "name": "Higashi-murayama-shi",
+        "stateId": "1850144",
+        "latitude": 35.75529,
+        "longitude": 139.46972
+    },
+    {
+        "cityId": "1862785",
+        "name": "Higashikurume-shi",
+        "stateId": "1850144",
+        "latitude": 35.75821,
+        "longitude": 139.52954
+    },
+    {
+        "cityId": "1863251",
+        "name": "Hamura-shi",
+        "stateId": "1850144",
+        "latitude": 35.76351,
+        "longitude": 139.31411
+    },
+    {
+        "cityId": "1863453",
+        "name": "Hachij\u014d Shich\u014d",
+        "stateId": "1850144",
+        "latitude": 33.06344,
+        "longitude": 139.79656
+    },
+    {
+        "cityId": "1863780",
+        "name": "Fussa-shi",
+        "stateId": "1850144",
+        "latitude": 35.73581,
+        "longitude": 139.33638
+    },
+    {
+        "cityId": "1864148",
+        "name": "Fuch\u016b-shi",
+        "stateId": "1850144",
+        "latitude": 35.66667,
+        "longitude": 139.5
+    },
+    {
+        "cityId": "1864242",
+        "name": "Edogawa Ku",
+        "stateId": "1850144",
+        "latitude": 35.69242,
+        "longitude": 139.87567
+    },
+    {
+        "cityId": "1864487",
+        "name": "Ch\u016b\u014d Ku",
+        "stateId": "1850144",
+        "latitude": 35.66993,
+        "longitude": 139.77705
+    },
+    {
+        "cityId": "1864514",
+        "name": "Ch\u014dfu-shi",
+        "stateId": "1850144",
+        "latitude": 35.65,
+        "longitude": 139.55
+    },
+    {
+        "cityId": "1864529",
+        "name": "Chiyoda-ku",
+        "stateId": "1850144",
+        "latitude": 35.69402,
+        "longitude": 139.75363
+    },
+    {
+        "cityId": "1865187",
+        "name": "Arakawa Ku",
+        "stateId": "1850144",
+        "latitude": 35.73993,
+        "longitude": 139.7813
+    },
+    {
+        "cityId": "1865425",
+        "name": "Akishima-shi",
+        "stateId": "1850144",
+        "latitude": 35.70782,
+        "longitude": 139.36418
+    },
+    {
+        "cityId": "1865750",
+        "name": "Adachi Ku",
+        "stateId": "1850144",
+        "latitude": 35.7788,
+        "longitude": 139.79509
+    },
+    {
+        "cityId": "2111520",
+        "name": "Ogasawara Shich\u014d",
+        "stateId": "1850144",
+        "latitude": 27.05913,
+        "longitude": 142.21252
+    },
+    {
+        "cityId": "7475133",
+        "name": "Bunky\u014d-ku",
+        "stateId": "1850144",
+        "latitude": 35.71745,
+        "longitude": 139.74729
+    },
+    {
+        "cityId": "7475134",
+        "name": "Tait\u014d-ku",
+        "stateId": "1850144",
+        "latitude": 35.71261,
+        "longitude": 139.78
+    },
+    {
+        "cityId": "7475135",
+        "name": "Toshima-ku",
+        "stateId": "1850144",
+        "latitude": 35.73246,
+        "longitude": 139.7154
+    },
+    {
+        "cityId": "8304374",
+        "name": "Akiruno-shi",
+        "stateId": "1850144",
+        "latitude": 35.73285,
+        "longitude": 139.22525
+    },
+    {
+        "cityId": "8304375",
+        "name": "Hachi\u014dji-shi",
+        "stateId": "1850144",
+        "latitude": 35.65983,
+        "longitude": 139.28766
+    },
+    {
+        "cityId": "8304376",
+        "name": "Nishit\u014dky\u014d-shi",
+        "stateId": "1850144",
+        "latitude": 35.73485,
+        "longitude": 139.54624
+    }
+]

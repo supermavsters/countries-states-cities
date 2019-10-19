@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2662880",
+        "name": "Vimmerby Kommun",
+        "stateId": "2702259",
+        "latitude": 57.69009,
+        "longitude": 15.86741
+    },
+    {
+        "cityId": "2664201",
+        "name": "V\u00e4sterviks Kommun",
+        "stateId": "2702259",
+        "latitude": 57.85242,
+        "longitude": 16.3894
+    },
+    {
+        "cityId": "2667902",
+        "name": "Tors\u00e5s Kommun",
+        "stateId": "2702259",
+        "latitude": 56.42649,
+        "longitude": 15.89128
+    },
+    {
+        "cityId": "2686161",
+        "name": "Oskarshamns Kommun",
+        "stateId": "2702259",
+        "latitude": 57.37339,
+        "longitude": 16.38303
+    },
+    {
+        "cityId": "2687897",
+        "name": "Nybro Kommun",
+        "stateId": "2702259",
+        "latitude": 56.82435,
+        "longitude": 15.88969
+    },
+    {
+        "cityId": "2691347",
+        "name": "M\u00f6rbyl\u00e5nga Kommun",
+        "stateId": "2702259",
+        "latitude": 56.5,
+        "longitude": 16.5
+    },
+    {
+        "cityId": "2691406",
+        "name": "M\u00f6nster\u00e5s Kommun",
+        "stateId": "2702259",
+        "latitude": 57.06625,
+        "longitude": 16.38621
+    },
+    {
+        "cityId": "2702260",
+        "name": "Kalmar Kommun",
+        "stateId": "2702259",
+        "latitude": 56.66361,
+        "longitude": 16.18569
+    },
+    {
+        "cityId": "2704397",
+        "name": "Hultsfreds Kommun",
+        "stateId": "2702259",
+        "latitude": 57.4,
+        "longitude": 15.8
+    },
+    {
+        "cityId": "2705716",
+        "name": "H\u00f6gsby Kommun",
+        "stateId": "2702259",
+        "latitude": 57.15537,
+        "longitude": 15.91674
+    },
+    {
+        "cityId": "2716280",
+        "name": "Emmaboda Kommun",
+        "stateId": "2702259",
+        "latitude": 56.63333,
+        "longitude": 15.53333
+    },
+    {
+        "cityId": "2720436",
+        "name": "Borgholms Kommun",
+        "stateId": "2702259",
+        "latitude": 57.09747,
+        "longitude": 16.94092
+    }
+]

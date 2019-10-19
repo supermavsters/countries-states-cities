@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3345667",
+        "name": "Ucuma",
+        "stateId": "3348310",
+        "latitude": -12.73883,
+        "longitude": 15.12358
+    },
+    {
+        "cityId": "3345909",
+        "name": "Chinjenje",
+        "stateId": "3348310",
+        "latitude": -12.81723,
+        "longitude": 14.93115
+    },
+    {
+        "cityId": "3345923",
+        "name": "Chicala Cholohanga",
+        "stateId": "3348310",
+        "latitude": -12.83861,
+        "longitude": 16.07624
+    },
+    {
+        "cityId": "3347110",
+        "name": "Mungo",
+        "stateId": "3348310",
+        "latitude": -11.74816,
+        "longitude": 16.17364
+    },
+    {
+        "cityId": "3347852",
+        "name": "Longonjo",
+        "stateId": "3348310",
+        "latitude": -13.0548,
+        "longitude": 15.29938
+    },
+    {
+        "cityId": "3347879",
+        "name": "Londuimbali",
+        "stateId": "3348310",
+        "latitude": -12.21855,
+        "longitude": 15.28513
+    },
+    {
+        "cityId": "3348093",
+        "name": "Cachiungo",
+        "stateId": "3348310",
+        "latitude": -12.78634,
+        "longitude": 16.32331
+    },
+    {
+        "cityId": "3348311",
+        "name": "Huambo",
+        "stateId": "3348310",
+        "latitude": -12.79347,
+        "longitude": 15.79115
+    },
+    {
+        "cityId": "3348773",
+        "name": "Ecunha",
+        "stateId": "3348310",
+        "latitude": -12.52264,
+        "longitude": 15.48944
+    },
+    {
+        "cityId": "3351497",
+        "name": "Ca\u00e1la",
+        "stateId": "3348310",
+        "latitude": -13.20684,
+        "longitude": 15.54883
+    },
+    {
+        "cityId": "3351782",
+        "name": "Bailundo",
+        "stateId": "3348310",
+        "latitude": -12.00711,
+        "longitude": 15.77928
+    }
+]

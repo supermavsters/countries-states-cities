@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "611818",
+        "name": "Sukhumi District",
+        "stateId": "6643410",
+        "latitude": 43.25,
+        "longitude": 41
+    },
+    {
+        "cityId": "612651",
+        "name": "Ochamchira District",
+        "stateId": "6643410",
+        "latitude": 42.74802,
+        "longitude": 41.48438
+    },
+    {
+        "cityId": "614378",
+        "name": "Gulripshi district",
+        "stateId": "6643410",
+        "latitude": 42.93732,
+        "longitude": 41.13419
+    },
+    {
+        "cityId": "614407",
+        "name": "Gudauta District",
+        "stateId": "6643410",
+        "latitude": 43.25,
+        "longitude": 40.66667
+    },
+    {
+        "cityId": "614611",
+        "name": "Gali District",
+        "stateId": "6643410",
+        "latitude": 42.66667,
+        "longitude": 41.75
+    },
+    {
+        "cityId": "9021892",
+        "name": "Gagra District",
+        "stateId": "6643410",
+        "latitude": 43.32282,
+        "longitude": 40.25312
+    },
+    {
+        "cityId": "9883703",
+        "name": "Tkvarcheli district",
+        "stateId": "6643410",
+        "latitude": 42.87294,
+        "longitude": 41.67526
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "cityId": "2038726",
+        "name": "Okushiri-gun",
+        "stateId": "2130037",
+        "latitude": 42.16667,
+        "longitude": 139.48333
+    },
+    {
+        "cityId": "2127415",
+        "name": "Y\u016bbari-shi",
+        "stateId": "2130037",
+        "latitude": 43.04336,
+        "longitude": 142.11065
+    },
+    {
+        "cityId": "2127440",
+        "name": "Yoichi-gun",
+        "stateId": "2130037",
+        "latitude": 43.09705,
+        "longitude": 140.8282
+    },
+    {
+        "cityId": "2127513",
+        "name": "Wakkanai Shi",
+        "stateId": "2130037",
+        "latitude": 45.33243,
+        "longitude": 141.82831
+    },
+    {
+        "cityId": "2127544",
+        "name": "Utashinai-shi",
+        "stateId": "2130037",
+        "latitude": 43.49366,
+        "longitude": 142.03878
+    },
+    {
+        "cityId": "2127730",
+        "name": "Tomamae Gun",
+        "stateId": "2130037",
+        "latitude": 44.32326,
+        "longitude": 141.85421
+    },
+    {
+        "cityId": "2127732",
+        "name": "Tomakomai Shi",
+        "stateId": "2130037",
+        "latitude": 42.68226,
+        "longitude": 141.57948
+    },
+    {
+        "cityId": "2127817",
+        "name": "Teshio Gun",
+        "stateId": "2130037",
+        "latitude": 44.91,
+        "longitude": 141.88757
+    },
+    {
+        "cityId": "2127895",
+        "name": "Takikawa-shi",
+        "stateId": "2130037",
+        "latitude": 43.60837,
+        "longitude": 141.94988
+    },
+    {
+        "cityId": "2127954",
+        "name": "Sunagawa-shi",
+        "stateId": "2130037",
+        "latitude": 43.50328,
+        "longitude": 141.93274
+    },
+    {
+        "cityId": "2128201",
+        "name": "Shibetsu Shi",
+        "stateId": "2130037",
+        "latitude": 44.11522,
+        "longitude": 142.54054
+    },
+    {
+        "cityId": "2128291",
+        "name": "Sapporo-shi",
+        "stateId": "2130037",
+        "latitude": 43.06667,
+        "longitude": 141.35
+    },
+    {
+        "cityId": "2128378",
+        "name": "Rumoi-shi",
+        "stateId": "2130037",
+        "latitude": 43.8856,
+        "longitude": 141.75567
+    },
+    {
+        "cityId": "2128405",
+        "name": "Rishiri Gun",
+        "stateId": "2130037",
+        "latitude": 45.18244,
+        "longitude": 141.22859
+    },
+    {
+        "cityId": "2128418",
+        "name": "Rebun Gun",
+        "stateId": "2130037",
+        "latitude": 45.38263,
+        "longitude": 141.02839
+    },
+    {
+        "cityId": "2128570",
+        "name": "Otaru-shi",
+        "stateId": "2130037",
+        "latitude": 43.15628,
+        "longitude": 141.02572
+    },
+    {
+        "cityId": "2128812",
+        "name": "Obihiro Shi",
+        "stateId": "2130037",
+        "latitude": 42.75736,
+        "longitude": 143.03061
+    },
+    {
+        "cityId": "2128892",
+        "name": "Noboribetsu-shi",
+        "stateId": "2130037",
+        "latitude": 42.46565,
+        "longitude": 141.07578
+    },
+    {
+        "cityId": "2128971",
+        "name": "Nemuro-shi",
+        "stateId": "2130037",
+        "latitude": 43.33333,
+        "longitude": 145.61667
+    },
+    {
+        "cityId": "2129098",
+        "name": "Muroran-shi",
+        "stateId": "2130037",
+        "latitude": 42.36659,
+        "longitude": 140.98845
+    },
+    {
+        "cityId": "2129370",
+        "name": "Kushiro Shi",
+        "stateId": "2130037",
+        "latitude": 43.1591,
+        "longitude": 144.06647
+    },
+    {
+        "cityId": "2129373",
+        "name": "Kushiro-gun",
+        "stateId": "2130037",
+        "latitude": 43.03032,
+        "longitude": 144.53184
+    },
+    {
+        "cityId": "2129532",
+        "name": "Ktiami Shi",
+        "stateId": "2130037",
+        "latitude": 43.8516,
+        "longitude": 143.7152
+    },
+    {
+        "cityId": "2129597",
+        "name": "Kayabe-gun",
+        "stateId": "2130037",
+        "latitude": 42.07104,
+        "longitude": 140.61132
+    },
+    {
+        "cityId": "2129758",
+        "name": "Kamikawa-gun",
+        "stateId": "2130037",
+        "latitude": 43.59432,
+        "longitude": 142.83737
+    },
+    {
+        "cityId": "2129763",
+        "name": "Kamiiso-gun",
+        "stateId": "2130037",
+        "latitude": 41.67899,
+        "longitude": 140.37775
+    },
+    {
+        "cityId": "2129779",
+        "name": "Kameda-gun",
+        "stateId": "2130037",
+        "latitude": 41.95426,
+        "longitude": 140.70307
+    },
+    {
+        "cityId": "2129864",
+        "name": "Iwanai-gun",
+        "stateId": "2130037",
+        "latitude": 42.98333,
+        "longitude": 140.63333
+    },
+    {
+        "cityId": "2129869",
+        "name": "Iwamizawa-shi",
+        "stateId": "2130037",
+        "latitude": 43.18086,
+        "longitude": 141.79744
+    },
+    {
+        "cityId": "2130044",
+        "name": "Hiyama-gun",
+        "stateId": "2130037",
+        "latitude": 41.81245,
+        "longitude": 140.24429
+    },
+    {
+        "cityId": "2130058",
+        "name": "Hiroo-gun",
+        "stateId": "2130037",
+        "latitude": 42.42973,
+        "longitude": 143.18051
+    },
+    {
+        "cityId": "2130184",
+        "name": "Hakodate-shi",
+        "stateId": "2130037",
+        "latitude": 41.83754,
+        "longitude": 140.92597
+    },
+    {
+        "cityId": "2130287",
+        "name": "Furubira-gun",
+        "stateId": "2130037",
+        "latitude": 43.19715,
+        "longitude": 140.61132
+    },
+    {
+        "cityId": "2130304",
+        "name": "Furano-shi",
+        "stateId": "2130037",
+        "latitude": 43.28182,
+        "longitude": 142.47349
+    },
+    {
+        "cityId": "2130331",
+        "name": "Fukagawa-shi",
+        "stateId": "2130037",
+        "latitude": 43.79334,
+        "longitude": 142.09923
+    },
+    {
+        "cityId": "2130385",
+        "name": "Eniwa-shi",
+        "stateId": "2130037",
+        "latitude": 42.88333,
+        "longitude": 141.56667
+    },
+    {
+        "cityId": "2130402",
+        "name": "Ebetsu-shi",
+        "stateId": "2130037",
+        "latitude": 43.10729,
+        "longitude": 141.54391
+    },
+    {
+        "cityId": "2130419",
+        "name": "Date-shi",
+        "stateId": "2130037",
+        "latitude": 42.49337,
+        "longitude": 140.89142
+    },
+    {
+        "cityId": "2130449",
+        "name": "Chitose Shi",
+        "stateId": "2130037",
+        "latitude": 42.80048,
+        "longitude": 141.50951
+    },
+    {
+        "cityId": "2130533",
+        "name": "Bibai-shi",
+        "stateId": "2130037",
+        "latitude": 43.33805,
+        "longitude": 141.88184
+    },
+    {
+        "cityId": "2130609",
+        "name": "Ashibetsu-shi",
+        "stateId": "2130037",
+        "latitude": 43.42542,
+        "longitude": 142.20161
+    },
+    {
+        "cityId": "2130628",
+        "name": "Asahikawa-shi",
+        "stateId": "2130037",
+        "latitude": 43.77066,
+        "longitude": 142.36473
+    },
+    {
+        "cityId": "2130704",
+        "name": "Akabira-shi",
+        "stateId": "2130037",
+        "latitude": 43.5679,
+        "longitude": 142.06281
+    },
+    {
+        "cityId": "2130724",
+        "name": "Abuta-gun",
+        "stateId": "2130037",
+        "latitude": 42.79676,
+        "longitude": 140.81151
+    },
+    {
+        "cityId": "2130736",
+        "name": "Abashiri Shi",
+        "stateId": "2130037",
+        "latitude": 43.98565,
+        "longitude": 144.21051
+    },
+    {
+        "cityId": "7428076",
+        "name": "Abashiri-gun",
+        "stateId": "2130037",
+        "latitude": 43.6893,
+        "longitude": 144.09808
+    },
+    {
+        "cityId": "7428077",
+        "name": "Akan-gun",
+        "stateId": "2130037",
+        "latitude": 43.25554,
+        "longitude": 144.28994
+    },
+    {
+        "cityId": "7428078",
+        "name": "Akkeshi-gun",
+        "stateId": "2130037",
+        "latitude": 43.15544,
+        "longitude": 144.90721
+    },
+    {
+        "cityId": "7428079",
+        "name": "Ashoro-gun",
+        "stateId": "2130037",
+        "latitude": 43.40569,
+        "longitude": 143.61427
+    },
+    {
+        "cityId": "7428080",
+        "name": "Esashi Gun",
+        "stateId": "2130037",
+        "latitude": 44.86546,
+        "longitude": 142.43811
+    },
+    {
+        "cityId": "7428081",
+        "name": "Furuu-gun",
+        "stateId": "2130037",
+        "latitude": 43.16378,
+        "longitude": 140.46117
+    },
+    {
+        "cityId": "7428082",
+        "name": "Futami-gun",
+        "stateId": "2130037",
+        "latitude": 42.18782,
+        "longitude": 140.19424
+    },
+    {
+        "cityId": "7428083",
+        "name": "Hidaka-gun",
+        "stateId": "2130037",
+        "latitude": 42.42139,
+        "longitude": 142.63831
+    },
+    {
+        "cityId": "7428084",
+        "name": "Horoizumi-gun",
+        "stateId": "2130037",
+        "latitude": 42.0627,
+        "longitude": 143.22222
+    },
+    {
+        "cityId": "7428085",
+        "name": "Ishikari-gun",
+        "stateId": "2130037",
+        "latitude": 43.33896,
+        "longitude": 141.57059
+    },
+    {
+        "cityId": "7428086",
+        "name": "Isoya-gun",
+        "stateId": "2130037",
+        "latitude": 42.8051,
+        "longitude": 140.49453
+    },
+    {
+        "cityId": "7428087",
+        "name": "Kabato-gun",
+        "stateId": "2130037",
+        "latitude": 43.53081,
+        "longitude": 141.72908
+    },
+    {
+        "cityId": "7428088",
+        "name": "Kasai-gun",
+        "stateId": "2130037",
+        "latitude": 42.64626,
+        "longitude": 143.1508
+    },
+    {
+        "cityId": "7428089",
+        "name": "Kat\u014d-gun",
+        "stateId": "2130037",
+        "latitude": 43.23886,
+        "longitude": 143.16383
+    },
+    {
+        "cityId": "7428090",
+        "name": "Kawakami-gun",
+        "stateId": "2130037",
+        "latitude": 43.40569,
+        "longitude": 144.49013
+    },
+    {
+        "cityId": "7428091",
+        "name": "Kud\u014d-gun",
+        "stateId": "2130037",
+        "latitude": 42.39636,
+        "longitude": 139.89394
+    },
+    {
+        "cityId": "7428092",
+        "name": "Mashike-gun",
+        "stateId": "2130037",
+        "latitude": 43.7894,
+        "longitude": 141.53723
+    },
+    {
+        "cityId": "7428093",
+        "name": "Matsumae-gun",
+        "stateId": "2130037",
+        "latitude": 41.52884,
+        "longitude": 140.14419
+    },
+    {
+        "cityId": "7428094",
+        "name": "Menashi-gun",
+        "stateId": "2130037",
+        "latitude": 44.04799,
+        "longitude": 145.14077
+    },
+    {
+        "cityId": "7428095",
+        "name": "Monbetsu Gun",
+        "stateId": "2130037",
+        "latitude": 44.19384,
+        "longitude": 143.03106
+    },
+    {
+        "cityId": "7428096",
+        "name": "Nakagawa Gun",
+        "stateId": "2130037",
+        "latitude": 44.64024,
+        "longitude": 142.2546
+    },
+    {
+        "cityId": "7428097",
+        "name": "Nakagawa-gun",
+        "stateId": "2130037",
+        "latitude": 42.88851,
+        "longitude": 143.44744
+    },
+    {
+        "cityId": "7428098",
+        "name": "Niikappu-gun",
+        "stateId": "2130037",
+        "latitude": 42.54651,
+        "longitude": 142.47148
+    },
+    {
+        "cityId": "7428099",
+        "name": "Nishi-gun",
+        "stateId": "2130037",
+        "latitude": 42.03768,
+        "longitude": 140.17756
+    },
+    {
+        "cityId": "7428100",
+        "name": "Notsuke-gun",
+        "stateId": "2130037",
+        "latitude": 43.389,
+        "longitude": 145.02399
+    },
+    {
+        "cityId": "7428101",
+        "name": "Rumoi Gun",
+        "stateId": "2130037",
+        "latitude": 44.06467,
+        "longitude": 141.83752
+    },
+    {
+        "cityId": "7428102",
+        "name": "Samani-gun",
+        "stateId": "2130037",
+        "latitude": 42.15446,
+        "longitude": 143.04705
+    },
+    {
+        "cityId": "7428103",
+        "name": "Saru-gun",
+        "stateId": "2130037",
+        "latitude": 42.73837,
+        "longitude": 142.39641
+    },
+    {
+        "cityId": "7428104",
+        "name": "Setana-gun",
+        "stateId": "2130037",
+        "latitude": 42.44641,
+        "longitude": 140.09414
+    },
+    {
+        "cityId": "7428105",
+        "name": "Shakotan-gun",
+        "stateId": "2130037",
+        "latitude": 43.29725,
+        "longitude": 140.46951
+    },
+    {
+        "cityId": "7428106",
+        "name": "Shari-gun",
+        "stateId": "2130037",
+        "latitude": 43.88116,
+        "longitude": 144.73204
+    },
+    {
+        "cityId": "7428107",
+        "name": "Shibetsu-gun",
+        "stateId": "2130037",
+        "latitude": 43.66428,
+        "longitude": 144.89887
+    },
+    {
+        "cityId": "7428108",
+        "name": "Shimamaki-gun",
+        "stateId": "2130037",
+        "latitude": 42.65495,
+        "longitude": 140.06077
+    },
+    {
+        "cityId": "7428109",
+        "name": "Shiranuka-gun",
+        "stateId": "2130037",
+        "latitude": 43.13876,
+        "longitude": 143.96462
+    },
+    {
+        "cityId": "7428110",
+        "name": "Shiraoi-gun",
+        "stateId": "2130037",
+        "latitude": 42.59656,
+        "longitude": 141.24527
+    },
+    {
+        "cityId": "7428111",
+        "name": "Sorachi-gun",
+        "stateId": "2130037",
+        "latitude": 43.42952,
+        "longitude": 141.95462
+    },
+    {
+        "cityId": "7428112",
+        "name": "S\u014dya Gun",
+        "stateId": "2130037",
+        "latitude": 45.24083,
+        "longitude": 142.12114
+    },
+    {
+        "cityId": "7428113",
+        "name": "Suttsu-gun",
+        "stateId": "2130037",
+        "latitude": 42.705,
+        "longitude": 140.34439
+    },
+    {
+        "cityId": "7428114",
+        "name": "Tokachi-gun",
+        "stateId": "2130037",
+        "latitude": 42.92188,
+        "longitude": 143.681
+    },
+    {
+        "cityId": "7428115",
+        "name": "Tokoro-gun",
+        "stateId": "2130037",
+        "latitude": 43.64499,
+        "longitude": 143.58111
+    },
+    {
+        "cityId": "7428116",
+        "name": "Urukawa-gun",
+        "stateId": "2130037",
+        "latitude": 42.30461,
+        "longitude": 142.88021
+    },
+    {
+        "cityId": "7428117",
+        "name": "Ury\u016b Gun",
+        "stateId": "2130037",
+        "latitude": 43.81013,
+        "longitude": 141.90674
+    },
+    {
+        "cityId": "7428118",
+        "name": "Usu-gun",
+        "stateId": "2130037",
+        "latitude": 42.57988,
+        "longitude": 140.95332
+    },
+    {
+        "cityId": "7428119",
+        "name": "Yamakoshi-gun",
+        "stateId": "2130037",
+        "latitude": 42.52983,
+        "longitude": 140.30268
+    },
+    {
+        "cityId": "7428120",
+        "name": "Y\u016bbari-gun",
+        "stateId": "2130037",
+        "latitude": 42.98861,
+        "longitude": 141.8125
+    },
+    {
+        "cityId": "7428121",
+        "name": "Y\u016bfutsu-gun",
+        "stateId": "2130037",
+        "latitude": 42.83846,
+        "longitude": 142.16284
+    },
+    {
+        "cityId": "7429513",
+        "name": "Hokuto-shi",
+        "stateId": "2130037",
+        "latitude": 41.86411,
+        "longitude": 140.55424
+    },
+    {
+        "cityId": "7429514",
+        "name": "Ishikari-shi",
+        "stateId": "2130037",
+        "latitude": 43.46596,
+        "longitude": 141.44298
+    },
+    {
+        "cityId": "7429515",
+        "name": "Monbetsu Shi",
+        "stateId": "2130037",
+        "latitude": 44.20323,
+        "longitude": 143.29293
+    },
+    {
+        "cityId": "7429516",
+        "name": "Nayoro Shi",
+        "stateId": "2130037",
+        "latitude": 44.33951,
+        "longitude": 142.45932
+    },
+    {
+        "cityId": "8301405",
+        "name": "Mikasa-shi",
+        "stateId": "2130037",
+        "latitude": 43.23976,
+        "longitude": 141.99273
+    },
+    {
+        "cityId": "9072585",
+        "name": "Kitahiroshima-shi",
+        "stateId": "2130037",
+        "latitude": 42.98581,
+        "longitude": 141.55678
+    },
+    {
+        "cityId": "11497558",
+        "name": "Kamikawa-gun",
+        "stateId": "2130037",
+        "latitude": 43.01218,
+        "longitude": 142.87308
+    },
+    {
+        "cityId": "11497755",
+        "name": "Kamikawa-gun (Teshio no kuni)",
+        "stateId": "2130037",
+        "latitude": 44.05601,
+        "longitude": 142.38144
+    }
+]

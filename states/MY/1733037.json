@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1732890",
+        "name": "Kuala Selangor",
+        "stateId": "1733037",
+        "latitude": 3.33333,
+        "longitude": 101.25
+    },
+    {
+        "cityId": "1732904",
+        "name": "Klang",
+        "stateId": "1733037",
+        "latitude": 3.08333,
+        "longitude": 101.41667
+    },
+    {
+        "cityId": "1734782",
+        "name": "Kuala Langat",
+        "stateId": "1733037",
+        "latitude": 2.75,
+        "longitude": 101.5
+    },
+    {
+        "cityId": "1734789",
+        "name": "Sepang",
+        "stateId": "1733037",
+        "latitude": 2.75,
+        "longitude": 101.66667
+    },
+    {
+        "cityId": "1735136",
+        "name": "Gombak",
+        "stateId": "1733037",
+        "latitude": 3.3,
+        "longitude": 101.7
+    },
+    {
+        "cityId": "1735145",
+        "name": "Hulu Selangor",
+        "stateId": "1733037",
+        "latitude": 3.5,
+        "longitude": 101.58333
+    },
+    {
+        "cityId": "1735156",
+        "name": "Petaling",
+        "stateId": "1733037",
+        "latitude": 3.08333,
+        "longitude": 101.58333
+    },
+    {
+        "cityId": "1735173",
+        "name": "Hulu Langat",
+        "stateId": "1733037",
+        "latitude": 3.08333,
+        "longitude": 101.83333
+    },
+    {
+        "cityId": "1735194",
+        "name": "Sabak Bernam",
+        "stateId": "1733037",
+        "latitude": 3.58333,
+        "longitude": 101.11667
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1685214",
+        "name": "Province of Surigao del Sur",
+        "stateId": "7521299",
+        "latitude": 8.80908,
+        "longitude": 126.12854
+    },
+    {
+        "cityId": "1685215",
+        "name": "Province of Surigao del Norte",
+        "stateId": "7521299",
+        "latitude": 9.66303,
+        "longitude": 125.52704
+    },
+    {
+        "cityId": "1714796",
+        "name": "Dinagat Islands",
+        "stateId": "7521299",
+        "latitude": 10.12301,
+        "longitude": 125.55725
+    },
+    {
+        "cityId": "1731818",
+        "name": "Province of Agusan del Sur",
+        "stateId": "7521299",
+        "latitude": 8.5,
+        "longitude": 125.83333
+    },
+    {
+        "cityId": "1731819",
+        "name": "Province of Agusan del Norte",
+        "stateId": "7521299",
+        "latitude": 8.9936,
+        "longitude": 125.57098
+    }
+]

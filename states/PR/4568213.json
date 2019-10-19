@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7268148",
+        "name": "Descalabrado Barrio",
+        "stateId": "4568213",
+        "latitude": 17.99684,
+        "longitude": -66.4247
+    },
+    {
+        "cityId": "7268258",
+        "name": "Boca Vel\u00e1zquez Barrio",
+        "stateId": "4568213",
+        "latitude": 17.96651,
+        "longitude": -66.42092
+    },
+    {
+        "cityId": "7268387",
+        "name": "Felicia 1 Barrio",
+        "stateId": "4568213",
+        "latitude": 17.95651,
+        "longitude": -66.38973
+    },
+    {
+        "cityId": "7268388",
+        "name": "Felicia 2 Barrio",
+        "stateId": "4568213",
+        "latitude": 17.99369,
+        "longitude": -66.3861
+    },
+    {
+        "cityId": "7268519",
+        "name": "Jauca 1 Barrio",
+        "stateId": "4568213",
+        "latitude": 17.94717,
+        "longitude": -66.35849
+    },
+    {
+        "cityId": "7268520",
+        "name": "Jauca 2 Barrio",
+        "stateId": "4568213",
+        "latitude": 18.00671,
+        "longitude": -66.35842
+    },
+    {
+        "cityId": "7268771",
+        "name": "Playa Barrio",
+        "stateId": "4568213",
+        "latitude": 17.95445,
+        "longitude": -66.40884
+    },
+    {
+        "cityId": "7268989",
+        "name": "Santa Isabel Barrio-Pueblo",
+        "stateId": "4568213",
+        "latitude": 17.96848,
+        "longitude": -66.40494
+    }
+]

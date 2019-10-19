@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1653892",
+        "name": "Muang Ph\u00f4ngsali",
+        "stateId": "1653893",
+        "latitude": 21.86402,
+        "longitude": 102.20075
+    },
+    {
+        "cityId": "1656290",
+        "name": "Muang Khoa",
+        "stateId": "1653893",
+        "latitude": 21.06711,
+        "longitude": 102.37624
+    },
+    {
+        "cityId": "1657870",
+        "name": "Muang Boun Tai",
+        "stateId": "1653893",
+        "latitude": 21.33209,
+        "longitude": 101.99845
+    },
+    {
+        "cityId": "1904828",
+        "name": "Muang Mai",
+        "stateId": "1653893",
+        "latitude": 21.38471,
+        "longitude": 102.72594
+    },
+    {
+        "cityId": "1904829",
+        "name": "Muang Boun-Nua",
+        "stateId": "1653893",
+        "latitude": 21.66787,
+        "longitude": 101.89396
+    },
+    {
+        "cityId": "1904830",
+        "name": "Muang Gnot-Ou",
+        "stateId": "1653893",
+        "latitude": 22.19586,
+        "longitude": 101.874
+    },
+    {
+        "cityId": "7647987",
+        "name": "Samphanh",
+        "stateId": "1653893",
+        "latitude": 21.57,
+        "longitude": 102.41
+    }
+]

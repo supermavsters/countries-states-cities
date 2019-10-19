@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2039548",
+        "name": "Unh\u016dng-gun",
+        "stateId": "2039332",
+        "latitude": 41.33333,
+        "longitude": 128.5
+    },
+    {
+        "cityId": "2040183",
+        "name": "Taehongdan-gun",
+        "stateId": "2039332",
+        "latitude": 41.94528,
+        "longitude": 128.69111
+    },
+    {
+        "cityId": "2041411",
+        "name": "Samsu-gun",
+        "stateId": "2039332",
+        "latitude": 41.23083,
+        "longitude": 127.97639
+    },
+    {
+        "cityId": "2041443",
+        "name": "Samjiy\u014fn-gun",
+        "stateId": "2039332",
+        "latitude": 41.83333,
+        "longitude": 128.25
+    },
+    {
+        "cityId": "2041726",
+        "name": "P\u2019ungs\u014f-gun",
+        "stateId": "2039332",
+        "latitude": 40.91667,
+        "longitude": 128
+    },
+    {
+        "cityId": "2041732",
+        "name": "Kimhy\u014fnggw\u014fn-gun",
+        "stateId": "2039332",
+        "latitude": 40.75,
+        "longitude": 128.16667
+    },
+    {
+        "cityId": "2041997",
+        "name": "Poch\u2019\u014fn-gun",
+        "stateId": "2039332",
+        "latitude": 41.57083,
+        "longitude": 128.51444
+    },
+    {
+        "cityId": "2042211",
+        "name": "Paegam-gun",
+        "stateId": "2039332",
+        "latitude": 41.59194,
+        "longitude": 128.80306
+    },
+    {
+        "cityId": "2043475",
+        "name": "Kimj\u014fngsuk-kun",
+        "stateId": "2039332",
+        "latitude": 41.25,
+        "longitude": 127.66667
+    },
+    {
+        "cityId": "2043532",
+        "name": "Kapsan-gun",
+        "stateId": "2039332",
+        "latitude": 41.12278,
+        "longitude": 128.38639
+    },
+    {
+        "cityId": "2043834",
+        "name": "Hyesan-si",
+        "stateId": "2039332",
+        "latitude": 41.35556,
+        "longitude": 128.24667
+    },
+    {
+        "cityId": "2044027",
+        "name": "Kimhy\u014fngjik-kun",
+        "stateId": "2039332",
+        "latitude": 41.40028,
+        "longitude": 127.20083
+    }
+]

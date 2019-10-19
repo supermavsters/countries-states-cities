@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7690207",
+        "name": "Nyabihu District",
+        "stateId": "6413340",
+        "latitude": -1.65275,
+        "longitude": 29.50684
+    },
+    {
+        "cityId": "7690208",
+        "name": "Ngororero District",
+        "stateId": "6413340",
+        "latitude": -1.87822,
+        "longitude": 29.56904
+    },
+    {
+        "cityId": "7690209",
+        "name": "Rubavu District",
+        "stateId": "6413340",
+        "latitude": -1.68126,
+        "longitude": 29.32932
+    },
+    {
+        "cityId": "7690210",
+        "name": "Rutsiro District",
+        "stateId": "6413340",
+        "latitude": -1.9145,
+        "longitude": 29.31507
+    },
+    {
+        "cityId": "7690211",
+        "name": "Karongi District",
+        "stateId": "6413340",
+        "latitude": -2.1296,
+        "longitude": 29.36172
+    },
+    {
+        "cityId": "7690212",
+        "name": "Nyamasheke District",
+        "stateId": "6413340",
+        "latitude": -2.36154,
+        "longitude": 29.14791
+    },
+    {
+        "cityId": "7690213",
+        "name": "Rusizi District",
+        "stateId": "6413340",
+        "latitude": -2.57016,
+        "longitude": 29.07535
+    }
+]

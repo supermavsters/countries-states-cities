@@ -1,0 +1,485 @@
+[
+    {
+        "cityId": "11351393",
+        "name": "Cazuca",
+        "stateId": "3576567",
+        "latitude": 13.80002,
+        "longitude": -60.90481
+    },
+    {
+        "cityId": "11351396",
+        "name": "Patience",
+        "stateId": "3576567",
+        "latitude": 13.85,
+        "longitude": -60.90874
+    },
+    {
+        "cityId": "11351397",
+        "name": "Troumassee",
+        "stateId": "3576567",
+        "latitude": 13.80892,
+        "longitude": -60.90341
+    },
+    {
+        "cityId": "11351401",
+        "name": "Village",
+        "stateId": "3576567",
+        "latitude": 13.81904,
+        "longitude": -60.89692
+    },
+    {
+        "cityId": "11351402",
+        "name": "Bois Canot",
+        "stateId": "3576567",
+        "latitude": 13.83945,
+        "longitude": -60.93162
+    },
+    {
+        "cityId": "11351404",
+        "name": "Mamiku",
+        "stateId": "3576567",
+        "latitude": 13.86744,
+        "longitude": -60.90184
+    },
+    {
+        "cityId": "11351412",
+        "name": "Calypso",
+        "stateId": "3576567",
+        "latitude": 13.82552,
+        "longitude": -60.9611
+    },
+    {
+        "cityId": "11351428",
+        "name": "Choucomel",
+        "stateId": "3576567",
+        "latitude": 13.83383,
+        "longitude": -60.95853
+    },
+    {
+        "cityId": "11351429",
+        "name": "Praslin",
+        "stateId": "3576567",
+        "latitude": 13.88469,
+        "longitude": -60.8965
+    },
+    {
+        "cityId": "11351431",
+        "name": "Coolie Town",
+        "stateId": "3576567",
+        "latitude": 13.85429,
+        "longitude": -60.9138
+    },
+    {
+        "cityId": "11351432",
+        "name": "Rouarne",
+        "stateId": "3576567",
+        "latitude": 13.77751,
+        "longitude": -60.91606
+    },
+    {
+        "cityId": "11351433",
+        "name": "Savannes",
+        "stateId": "3576567",
+        "latitude": 13.77098,
+        "longitude": -60.92017
+    },
+    {
+        "cityId": "11351434",
+        "name": "Saint Marie Road",
+        "stateId": "3576567",
+        "latitude": 13.85444,
+        "longitude": -60.91803
+    },
+    {
+        "cityId": "11351435",
+        "name": "Ti Rocher",
+        "stateId": "3576567",
+        "latitude": 13.81734,
+        "longitude": -60.92858
+    },
+    {
+        "cityId": "11351436",
+        "name": "St Helen Estate",
+        "stateId": "3576567",
+        "latitude": 13.78735,
+        "longitude": -60.90726
+    },
+    {
+        "cityId": "11351438",
+        "name": "Mon Repos",
+        "stateId": "3576567",
+        "latitude": 13.85865,
+        "longitude": -60.89591
+    },
+    {
+        "cityId": "11351449",
+        "name": "Raillon Road",
+        "stateId": "3576567",
+        "latitude": 13.87073,
+        "longitude": -60.93414
+    },
+    {
+        "cityId": "11351455",
+        "name": "Anse Ger",
+        "stateId": "3576567",
+        "latitude": 13.79567,
+        "longitude": -60.91567
+    },
+    {
+        "cityId": "11351469",
+        "name": "Mine",
+        "stateId": "3576567",
+        "latitude": 13.87312,
+        "longitude": -60.9095
+    },
+    {
+        "cityId": "11351477",
+        "name": "Lombard",
+        "stateId": "3576567",
+        "latitude": 13.85772,
+        "longitude": -60.9151
+    },
+    {
+        "cityId": "11351482",
+        "name": "Canelles",
+        "stateId": "3576567",
+        "latitude": 13.78515,
+        "longitude": -60.91789
+    },
+    {
+        "cityId": "11351483",
+        "name": "L'Eau Mineau",
+        "stateId": "3576567",
+        "latitude": 13.80672,
+        "longitude": -60.92103
+    },
+    {
+        "cityId": "11351484",
+        "name": "Blanchard",
+        "stateId": "3576567",
+        "latitude": 13.80616,
+        "longitude": -60.9463
+    },
+    {
+        "cityId": "11351485",
+        "name": "Dugard",
+        "stateId": "3576567",
+        "latitude": 13.8109,
+        "longitude": -60.91415
+    },
+    {
+        "cityId": "11351495",
+        "name": "Mount Erole",
+        "stateId": "3576567",
+        "latitude": 13.8602,
+        "longitude": -60.91198
+    },
+    {
+        "cityId": "11351529",
+        "name": "Pelouze",
+        "stateId": "3576567",
+        "latitude": 13.8783,
+        "longitude": -60.91772
+    },
+    {
+        "cityId": "11351531",
+        "name": "Desruisseaux",
+        "stateId": "3576567",
+        "latitude": 13.7964,
+        "longitude": -60.9354
+    },
+    {
+        "cityId": "11351532",
+        "name": "En Mango",
+        "stateId": "3576567",
+        "latitude": 13.8,
+        "longitude": -60.92456
+    },
+    {
+        "cityId": "11351533",
+        "name": "London Road",
+        "stateId": "3576567",
+        "latitude": 13.79744,
+        "longitude": -60.94224
+    },
+    {
+        "cityId": "11351534",
+        "name": "Saut",
+        "stateId": "3576567",
+        "latitude": 13.81272,
+        "longitude": -60.94375
+    },
+    {
+        "cityId": "11351536",
+        "name": "Honeymoon Beach",
+        "stateId": "3576567",
+        "latitude": 13.77746,
+        "longitude": -60.90493
+    },
+    {
+        "cityId": "11351537",
+        "name": "Descatier\/Six Miles",
+        "stateId": "3576567",
+        "latitude": 13.84022,
+        "longitude": -60.97833
+    },
+    {
+        "cityId": "11351538",
+        "name": "L'Orangerie Road",
+        "stateId": "3576567",
+        "latitude": 13.85625,
+        "longitude": -60.93552
+    },
+    {
+        "cityId": "11351544",
+        "name": "Planard",
+        "stateId": "3576567",
+        "latitude": 13.80521,
+        "longitude": -60.9154
+    },
+    {
+        "cityId": "11351552",
+        "name": "Palmiste Estate",
+        "stateId": "3576567",
+        "latitude": 13.85377,
+        "longitude": -60.96007
+    },
+    {
+        "cityId": "11351557",
+        "name": "Fond D'Lor\/Dugard",
+        "stateId": "3576567",
+        "latitude": 13.81069,
+        "longitude": -60.92119
+    },
+    {
+        "cityId": "11351559",
+        "name": "Myette Gardens",
+        "stateId": "3576567",
+        "latitude": 13.81862,
+        "longitude": -60.9044
+    },
+    {
+        "cityId": "11351564",
+        "name": "Moreau",
+        "stateId": "3576567",
+        "latitude": 13.82676,
+        "longitude": -60.94238
+    },
+    {
+        "cityId": "11351569",
+        "name": "Malgretoute",
+        "stateId": "3576567",
+        "latitude": 13.84199,
+        "longitude": -60.90411
+    },
+    {
+        "cityId": "11351581",
+        "name": "Escap",
+        "stateId": "3576567",
+        "latitude": 13.83031,
+        "longitude": -60.89673
+    },
+    {
+        "cityId": "11351586",
+        "name": "Delomel",
+        "stateId": "3576567",
+        "latitude": 13.80338,
+        "longitude": -60.92927
+    },
+    {
+        "cityId": "11351589",
+        "name": "Fond Estate",
+        "stateId": "3576567",
+        "latitude": 13.84243,
+        "longitude": -60.91862
+    },
+    {
+        "cityId": "11351603",
+        "name": "Beauchamp",
+        "stateId": "3576567",
+        "latitude": 13.81778,
+        "longitude": -60.91528
+    },
+    {
+        "cityId": "11351839",
+        "name": "Lezy",
+        "stateId": "3576567",
+        "latitude": 13.80372,
+        "longitude": -60.93906
+    },
+    {
+        "cityId": "11351843",
+        "name": "Morne Vient",
+        "stateId": "3576567",
+        "latitude": 13.80646,
+        "longitude": -60.95241
+    },
+    {
+        "cityId": "11351847",
+        "name": "La Tille",
+        "stateId": "3576567",
+        "latitude": 13.82744,
+        "longitude": -60.91716
+    },
+    {
+        "cityId": "11351852",
+        "name": "La Haut",
+        "stateId": "3576567",
+        "latitude": 13.85888,
+        "longitude": -60.90678
+    },
+    {
+        "cityId": "11351857",
+        "name": "Catter Beaufond",
+        "stateId": "3576567",
+        "latitude": 13.84249,
+        "longitude": -60.94596
+    },
+    {
+        "cityId": "11351859",
+        "name": "La Gwen Ba",
+        "stateId": "3576567",
+        "latitude": 13.87662,
+        "longitude": -60.9121
+    },
+    {
+        "cityId": "11351860",
+        "name": "La Croix",
+        "stateId": "3576567",
+        "latitude": 13.87382,
+        "longitude": -60.90185
+    },
+    {
+        "cityId": "11351861",
+        "name": "L'Union",
+        "stateId": "3576567",
+        "latitude": 13.87652,
+        "longitude": -60.90083
+    },
+    {
+        "cityId": "11351862",
+        "name": "Gouette",
+        "stateId": "3576567",
+        "latitude": 13.8065,
+        "longitude": -60.93964
+    },
+    {
+        "cityId": "11351863",
+        "name": "Fond\/Desruisseaux",
+        "stateId": "3576567",
+        "latitude": 13.79421,
+        "longitude": -60.94128
+    },
+    {
+        "cityId": "11351865",
+        "name": "Anbre",
+        "stateId": "3576567",
+        "latitude": 13.82686,
+        "longitude": -60.92775
+    },
+    {
+        "cityId": "11351866",
+        "name": "Chique\/Blanchard",
+        "stateId": "3576567",
+        "latitude": 13.8012,
+        "longitude": -60.9497
+    },
+    {
+        "cityId": "11351867",
+        "name": "Gomier",
+        "stateId": "3576567",
+        "latitude": 13.81485,
+        "longitude": -60.95252
+    },
+    {
+        "cityId": "11351869",
+        "name": "Carriere",
+        "stateId": "3576567",
+        "latitude": 13.83609,
+        "longitude": -60.94545
+    },
+    {
+        "cityId": "11351871",
+        "name": "Galba",
+        "stateId": "3576567",
+        "latitude": 13.83592,
+        "longitude": -60.93931
+    },
+    {
+        "cityId": "11351872",
+        "name": "La Courville",
+        "stateId": "3576567",
+        "latitude": 13.81056,
+        "longitude": -60.92766
+    },
+    {
+        "cityId": "11351873",
+        "name": "La Fille",
+        "stateId": "3576567",
+        "latitude": 13.83517,
+        "longitude": -60.93401
+    },
+    {
+        "cityId": "11351874",
+        "name": "La Pointe",
+        "stateId": "3576567",
+        "latitude": 13.84593,
+        "longitude": -60.89332
+    },
+    {
+        "cityId": "11351877",
+        "name": "New Village",
+        "stateId": "3576567",
+        "latitude": 13.82446,
+        "longitude": -60.89864
+    },
+    {
+        "cityId": "11351878",
+        "name": "Mahaut",
+        "stateId": "3576567",
+        "latitude": 13.84391,
+        "longitude": -60.95397
+    },
+    {
+        "cityId": "11351881",
+        "name": "Ti Riviere",
+        "stateId": "3576567",
+        "latitude": 13.83006,
+        "longitude": -60.93774
+    },
+    {
+        "cityId": "11351883",
+        "name": "Des Blanchard",
+        "stateId": "3576567",
+        "latitude": 13.81155,
+        "longitude": -60.93423
+    },
+    {
+        "cityId": "11351885",
+        "name": "Paix Bouche",
+        "stateId": "3576567",
+        "latitude": 13.81556,
+        "longitude": -60.94073
+    },
+    {
+        "cityId": "11351886",
+        "name": "Tou Cochan\/Ti Rocher",
+        "stateId": "3576567",
+        "latitude": 13.82175,
+        "longitude": -60.94731
+    },
+    {
+        "cityId": "11351887",
+        "name": "Volet",
+        "stateId": "3576567",
+        "latitude": 13.82626,
+        "longitude": -60.90789
+    },
+    {
+        "cityId": "11351888",
+        "name": "Rameau",
+        "stateId": "3576567",
+        "latitude": 13.83055,
+        "longitude": -60.92375
+    }
+]

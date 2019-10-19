@@ -1,0 +1,240 @@
+[
+    {
+        "cityId": "3186602",
+        "name": "Grad Sveti Ivan Zelina",
+        "stateId": "3337531",
+        "latitude": 45.96667,
+        "longitude": 16.25
+    },
+    {
+        "cityId": "3186780",
+        "name": "Grad Zapre\u0161i\u0107",
+        "stateId": "3337531",
+        "latitude": 45.86667,
+        "longitude": 15.8
+    },
+    {
+        "cityId": "3187264",
+        "name": "Grad Vrbovec",
+        "stateId": "3337531",
+        "latitude": 45.86667,
+        "longitude": 16.43333
+    },
+    {
+        "cityId": "3188243",
+        "name": "Grad Velika Gorica",
+        "stateId": "3337531",
+        "latitude": 45.7,
+        "longitude": 16.08333
+    },
+    {
+        "cityId": "3191315",
+        "name": "Grad Samobor",
+        "stateId": "3337531",
+        "latitude": 45.8,
+        "longitude": 15.7
+    },
+    {
+        "cityId": "3198798",
+        "name": "Grad Jastrebarsko",
+        "stateId": "3337531",
+        "latitude": 45.66667,
+        "longitude": 15.66667
+    },
+    {
+        "cityId": "3199068",
+        "name": "Ivani\u0107-Grad",
+        "stateId": "3337531",
+        "latitude": 45.7,
+        "longitude": 16.4
+    },
+    {
+        "cityId": "3201007",
+        "name": "Grad Dugo Selo",
+        "stateId": "3337531",
+        "latitude": 45.809,
+        "longitude": 16.24123
+    },
+    {
+        "cityId": "8260123",
+        "name": "Op\u0107ina Dubrava",
+        "stateId": "3337531",
+        "latitude": 45.83759,
+        "longitude": 16.53683
+    },
+    {
+        "cityId": "11048980",
+        "name": "Bedenica",
+        "stateId": "3337531",
+        "latitude": 46.03257,
+        "longitude": 16.24947
+    },
+    {
+        "cityId": "11048981",
+        "name": "Brckovljani",
+        "stateId": "3337531",
+        "latitude": 45.83597,
+        "longitude": 16.29315
+    },
+    {
+        "cityId": "11048982",
+        "name": "Brdovec",
+        "stateId": "3337531",
+        "latitude": 45.87003,
+        "longitude": 15.76409
+    },
+    {
+        "cityId": "11048983",
+        "name": "Farka\u0161evac",
+        "stateId": "3337531",
+        "latitude": 45.87899,
+        "longitude": 16.63467
+    },
+    {
+        "cityId": "11048984",
+        "name": "Dubravica",
+        "stateId": "3337531",
+        "latitude": 45.95728,
+        "longitude": 15.73259
+    },
+    {
+        "cityId": "11048985",
+        "name": "Gradec",
+        "stateId": "3337531",
+        "latitude": 45.9132,
+        "longitude": 16.48022
+    },
+    {
+        "cityId": "11048986",
+        "name": "Jakovlje",
+        "stateId": "3337531",
+        "latitude": 45.93603,
+        "longitude": 15.85353
+    },
+    {
+        "cityId": "11048987",
+        "name": "Klin\u010da Sela",
+        "stateId": "3337531",
+        "latitude": 45.69121,
+        "longitude": 15.74234
+    },
+    {
+        "cityId": "11048989",
+        "name": "Klo\u0161tar Ivani\u0107",
+        "stateId": "3337531",
+        "latitude": 45.7375,
+        "longitude": 16.41297
+    },
+    {
+        "cityId": "11048992",
+        "name": "Kra\u0161i\u0107",
+        "stateId": "3337531",
+        "latitude": 45.65343,
+        "longitude": 15.51703
+    },
+    {
+        "cityId": "11048993",
+        "name": "Kravarsko",
+        "stateId": "3337531",
+        "latitude": 45.58561,
+        "longitude": 16.04691
+    },
+    {
+        "cityId": "11048994",
+        "name": "Kri\u017e",
+        "stateId": "3337531",
+        "latitude": 45.66396,
+        "longitude": 16.51983
+    },
+    {
+        "cityId": "11048995",
+        "name": "Luka",
+        "stateId": "3337531",
+        "latitude": 45.95878,
+        "longitude": 15.81975
+    },
+    {
+        "cityId": "11048997",
+        "name": "Marija Gorica",
+        "stateId": "3337531",
+        "latitude": 45.91072,
+        "longitude": 15.7256
+    },
+    {
+        "cityId": "11048998",
+        "name": "Orle",
+        "stateId": "3337531",
+        "latitude": 45.68474,
+        "longitude": 16.2341
+    },
+    {
+        "cityId": "11048999",
+        "name": "Pisarovina",
+        "stateId": "3337531",
+        "latitude": 45.58824,
+        "longitude": 15.85954
+    },
+    {
+        "cityId": "11049000",
+        "name": "Pokupsko",
+        "stateId": "3337531",
+        "latitude": 45.48522,
+        "longitude": 15.99197
+    },
+    {
+        "cityId": "11049001",
+        "name": "Preseka",
+        "stateId": "3337531",
+        "latitude": 45.97456,
+        "longitude": 16.38697
+    },
+    {
+        "cityId": "11049002",
+        "name": "Pu\u0161\u0107a",
+        "stateId": "3337531",
+        "latitude": 45.91567,
+        "longitude": 15.78049
+    },
+    {
+        "cityId": "11049003",
+        "name": "Rakovec",
+        "stateId": "3337531",
+        "latitude": 45.93228,
+        "longitude": 16.31457
+    },
+    {
+        "cityId": "11049004",
+        "name": "Rugvica",
+        "stateId": "3337531",
+        "latitude": 45.74146,
+        "longitude": 16.22861
+    },
+    {
+        "cityId": "11049005",
+        "name": "Stupnik",
+        "stateId": "3337531",
+        "latitude": 45.75314,
+        "longitude": 15.84078
+    },
+    {
+        "cityId": "11049006",
+        "name": "\u017dumberak",
+        "stateId": "3337531",
+        "latitude": 45.76704,
+        "longitude": 15.41545
+    },
+    {
+        "cityId": "11054888",
+        "name": "Bistra",
+        "stateId": "3337531",
+        "latitude": 45.90657,
+        "longitude": 15.85087
+    },
+    {
+        "cityId": "11054889",
+        "name": "Sveta Nedelja",
+        "stateId": "3337531",
+        "latitude": 45.79617,
+        "longitude": 15.77971
+    }
+]

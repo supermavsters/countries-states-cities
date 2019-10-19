@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1652593",
+        "name": "Muang Thath\u00f4m",
+        "stateId": "11395958",
+        "latitude": 19.0013,
+        "longitude": 103.61572
+    },
+    {
+        "cityId": "1904796",
+        "name": "Muang Longxan",
+        "stateId": "11395958",
+        "latitude": 18.61782,
+        "longitude": 102.88079
+    },
+    {
+        "cityId": "1904798",
+        "name": "Muang H\u00f4m",
+        "stateId": "11395958",
+        "latitude": 18.69246,
+        "longitude": 103.29486
+    },
+    {
+        "cityId": "11550446",
+        "name": "Anouvong district",
+        "stateId": "11395958",
+        "latitude": 18.89731,
+        "longitude": 103.09274
+    },
+    {
+        "cityId": "11550496",
+        "name": "Longchaeng",
+        "stateId": "11395958",
+        "latitude": 18.89394,
+        "longitude": 103.14274
+    }
+]

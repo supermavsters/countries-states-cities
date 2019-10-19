@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "7268169",
+        "name": "Aguacate Barrio",
+        "stateId": "4568909",
+        "latitude": 18.09112,
+        "longitude": -65.86026
+    },
+    {
+        "cityId": "7268298",
+        "name": "Calabazas Barrio",
+        "stateId": "4568909",
+        "latitude": 18.05366,
+        "longitude": -65.91123
+    },
+    {
+        "cityId": "7268307",
+        "name": "Camino Nuevo Barrio",
+        "stateId": "4568909",
+        "latitude": 18.02803,
+        "longitude": -65.80435
+    },
+    {
+        "cityId": "7268437",
+        "name": "Guayabota Barrio",
+        "stateId": "4568909",
+        "latitude": 18.07167,
+        "longitude": -65.9684
+    },
+    {
+        "cityId": "7268503",
+        "name": "J\u00e1canas Barrio",
+        "stateId": "4568909",
+        "latitude": 18.09716,
+        "longitude": -65.91716
+    },
+    {
+        "cityId": "7268531",
+        "name": "Juan Mart\u00edn Barrio",
+        "stateId": "4568909",
+        "latitude": 18.05064,
+        "longitude": -65.86044
+    },
+    {
+        "cityId": "7268561",
+        "name": "Limones Barrio",
+        "stateId": "4568909",
+        "latitude": 18.07997,
+        "longitude": -65.88885
+    },
+    {
+        "cityId": "7268772",
+        "name": "Playa Barrio",
+        "stateId": "4568909",
+        "latitude": 18.07509,
+        "longitude": -65.82708
+    },
+    {
+        "cityId": "7269031",
+        "name": "Tejas Barrio",
+        "stateId": "4568909",
+        "latitude": 18.10956,
+        "longitude": -65.88972
+    },
+    {
+        "cityId": "7269085",
+        "name": "Yabucoa Barrio-Pueblo",
+        "stateId": "4568909",
+        "latitude": 18.0473,
+        "longitude": -65.88008
+    }
+]

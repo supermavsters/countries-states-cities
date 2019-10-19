@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "3542500",
+        "name": "Municipio de Regla",
+        "stateId": "3564073",
+        "latitude": 23.11667,
+        "longitude": -82.33333
+    },
+    {
+        "cityId": "3547639",
+        "name": "Municipio de Marianao",
+        "stateId": "3564073",
+        "latitude": 23.08333,
+        "longitude": -82.43333
+    },
+    {
+        "cityId": "3557845",
+        "name": "Municipio de Guanabacoa",
+        "stateId": "3564073",
+        "latitude": 23.11667,
+        "longitude": -82.3
+    },
+    {
+        "cityId": "11288065",
+        "name": "Arroyo Naranjo",
+        "stateId": "3564073",
+        "latitude": 23.03589,
+        "longitude": -82.37103
+    },
+    {
+        "cityId": "11288067",
+        "name": "Boyeros",
+        "stateId": "3564073",
+        "latitude": 23.00429,
+        "longitude": -82.39433
+    },
+    {
+        "cityId": "11288068",
+        "name": "Centro Habana",
+        "stateId": "3564073",
+        "latitude": 23.13798,
+        "longitude": -82.36184
+    },
+    {
+        "cityId": "11288069",
+        "name": "Cerro",
+        "stateId": "3564073",
+        "latitude": 23.11035,
+        "longitude": -82.37987
+    },
+    {
+        "cityId": "11288070",
+        "name": "Cotorro",
+        "stateId": "3564073",
+        "latitude": 23.03853,
+        "longitude": -82.26511
+    },
+    {
+        "cityId": "11288071",
+        "name": "Diez De Octubre",
+        "stateId": "3564073",
+        "latitude": 23.08694,
+        "longitude": -82.36
+    },
+    {
+        "cityId": "11288072",
+        "name": "La Habana Del Este",
+        "stateId": "3564073",
+        "latitude": 23.15822,
+        "longitude": -82.32553
+    },
+    {
+        "cityId": "11288073",
+        "name": "La Habana Vieja",
+        "stateId": "3564073",
+        "latitude": 23.12981,
+        "longitude": -82.35171
+    },
+    {
+        "cityId": "11288074",
+        "name": "La Lisa",
+        "stateId": "3564073",
+        "latitude": 23.0657,
+        "longitude": -82.43463
+    },
+    {
+        "cityId": "11288075",
+        "name": "Plaza De La Revolucion",
+        "stateId": "3564073",
+        "latitude": 23.11832,
+        "longitude": -82.39377
+    },
+    {
+        "cityId": "11288076",
+        "name": "San Miguel Del Padron",
+        "stateId": "3564073",
+        "latitude": 23.06495,
+        "longitude": -82.29528
+    },
+    {
+        "cityId": "11288253",
+        "name": "Playa",
+        "stateId": "3564073",
+        "latitude": 23.09934,
+        "longitude": -82.44844
+    }
+]

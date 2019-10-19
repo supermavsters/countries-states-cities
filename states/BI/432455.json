@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7670591",
+        "name": "Busoni",
+        "stateId": "432455",
+        "latitude": -2.46876,
+        "longitude": 30.25406
+    },
+    {
+        "cityId": "7670618",
+        "name": "Vumbi",
+        "stateId": "432455",
+        "latitude": -2.68472,
+        "longitude": 30.10198
+    },
+    {
+        "cityId": "9072886",
+        "name": "Commune of Kirundo",
+        "stateId": "432455",
+        "latitude": -2.58472,
+        "longitude": 30.09722
+    },
+    {
+        "cityId": "9072890",
+        "name": "Commune of Bwambarangwe",
+        "stateId": "432455",
+        "latitude": -2.5525,
+        "longitude": 30.34083
+    },
+    {
+        "cityId": "9171827",
+        "name": "Bugabira",
+        "stateId": "432455",
+        "latitude": -2.42966,
+        "longitude": 30.01979
+    },
+    {
+        "cityId": "9171870",
+        "name": "Ntega",
+        "stateId": "432455",
+        "latitude": -2.59047,
+        "longitude": 29.99156
+    },
+    {
+        "cityId": "9171886",
+        "name": "Gitobe",
+        "stateId": "432455",
+        "latitude": -2.64207,
+        "longitude": 30.22952
+    }
+]

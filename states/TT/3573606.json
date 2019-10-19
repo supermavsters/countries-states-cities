@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3573759",
+        "name": "Saint Paul",
+        "stateId": "3573606",
+        "latitude": 11.26667,
+        "longitude": -60.56667
+    },
+    {
+        "cityId": "3573761",
+        "name": "Saint Patrick",
+        "stateId": "3573606",
+        "latitude": 11.16667,
+        "longitude": -60.8
+    },
+    {
+        "cityId": "3573766",
+        "name": "Saint Mary",
+        "stateId": "3573606",
+        "latitude": 11.23333,
+        "longitude": -60.63333
+    },
+    {
+        "cityId": "3573778",
+        "name": "Saint John",
+        "stateId": "3573606",
+        "latitude": 11.3,
+        "longitude": -60.61667
+    },
+    {
+        "cityId": "3573784",
+        "name": "Saint George",
+        "stateId": "3573606",
+        "latitude": 11.21667,
+        "longitude": -60.7
+    },
+    {
+        "cityId": "3573793",
+        "name": "Saint David",
+        "stateId": "3573606",
+        "latitude": 11.25,
+        "longitude": -60.71667
+    },
+    {
+        "cityId": "3573805",
+        "name": "Saint Andrew",
+        "stateId": "3573606",
+        "latitude": 11.18333,
+        "longitude": -60.75
+    }
+]

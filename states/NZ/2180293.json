@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2179779",
+        "name": "Waitomo District",
+        "stateId": "2180293",
+        "latitude": -38.5,
+        "longitude": 175
+    },
+    {
+        "cityId": "2181244",
+        "name": "Thames-Coromandel District",
+        "stateId": "2180293",
+        "latitude": -37,
+        "longitude": 175.66667
+    },
+    {
+        "cityId": "2181743",
+        "name": "Taupo District",
+        "stateId": "2180293",
+        "latitude": -38.68333,
+        "longitude": 176.08333
+    },
+    {
+        "cityId": "2185244",
+        "name": "Otorohanga District",
+        "stateId": "2180293",
+        "latitude": -38.25,
+        "longitude": 175.33333
+    },
+    {
+        "cityId": "7910041",
+        "name": "Hamilton City",
+        "stateId": "2180293",
+        "latitude": -37.7779,
+        "longitude": 175.25975
+    },
+    {
+        "cityId": "7910042",
+        "name": "Hauraki District",
+        "stateId": "2180293",
+        "latitude": -37.29415,
+        "longitude": 175.58022
+    },
+    {
+        "cityId": "7910053",
+        "name": "Matamata-Piako District",
+        "stateId": "2180293",
+        "latitude": -37.68545,
+        "longitude": 175.67254
+    },
+    {
+        "cityId": "7910063",
+        "name": "South Waikato District",
+        "stateId": "2180293",
+        "latitude": -38.16797,
+        "longitude": 175.88624
+    },
+    {
+        "cityId": "7910068",
+        "name": "Waikato District",
+        "stateId": "2180293",
+        "latitude": -37.51578,
+        "longitude": 175.10095
+    },
+    {
+        "cityId": "7910070",
+        "name": "Waipa District",
+        "stateId": "2180293",
+        "latitude": -37.98385,
+        "longitude": 175.35818
+    }
+]

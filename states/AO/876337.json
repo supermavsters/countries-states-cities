@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "875819",
+        "name": "Rivungo",
+        "stateId": "876337",
+        "latitude": -16.65204,
+        "longitude": 21.81556
+    },
+    {
+        "cityId": "876017",
+        "name": "Mavinga",
+        "stateId": "876337",
+        "latitude": -16.07771,
+        "longitude": 20.17004
+    },
+    {
+        "cityId": "876291",
+        "name": "Dirico",
+        "stateId": "876337",
+        "latitude": -17.5,
+        "longitude": 20.83333
+    },
+    {
+        "cityId": "3347005",
+        "name": "Nancova",
+        "stateId": "876337",
+        "latitude": -16.39678,
+        "longitude": 18.73876
+    },
+    {
+        "cityId": "3347352",
+        "name": "Menongue",
+        "stateId": "876337",
+        "latitude": -15.10681,
+        "longitude": 17.69949
+    },
+    {
+        "cityId": "3349148",
+        "name": "Cuito Cuanavale",
+        "stateId": "876337",
+        "latitude": -14.93816,
+        "longitude": 18.82081
+    },
+    {
+        "cityId": "3349195",
+        "name": "Cuchi",
+        "stateId": "876337",
+        "latitude": -14.63731,
+        "longitude": 16.96106
+    },
+    {
+        "cityId": "3349243",
+        "name": "Cuangar",
+        "stateId": "876337",
+        "latitude": -17.01062,
+        "longitude": 18.19656
+    },
+    {
+        "cityId": "3351214",
+        "name": "Calai",
+        "stateId": "876337",
+        "latitude": -17.32632,
+        "longitude": 19.37381
+    }
+]

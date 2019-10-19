@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7732206",
+        "name": "Merkez",
+        "stateId": "321022",
+        "latitude": 38.31702,
+        "longitude": 42.10065
+    },
+    {
+        "cityId": "8630852",
+        "name": "G\u00fcroymak \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.57743,
+        "longitude": 42.01997
+    },
+    {
+        "cityId": "8630853",
+        "name": "Hizan \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.226,
+        "longitude": 42.42491
+    },
+    {
+        "cityId": "8630854",
+        "name": "Tatvan \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.49535,
+        "longitude": 42.28578
+    },
+    {
+        "cityId": "8630855",
+        "name": "Ahlat \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.75452,
+        "longitude": 42.48809
+    },
+    {
+        "cityId": "8630856",
+        "name": "Adilcevaz \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.80582,
+        "longitude": 42.73654
+    },
+    {
+        "cityId": "8630857",
+        "name": "Mutki \u0130l\u00e7esi",
+        "stateId": "321022",
+        "latitude": 38.40978,
+        "longitude": 41.92298
+    }
+]

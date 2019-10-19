@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7732944",
+        "name": "Merkez",
+        "stateId": "304041",
+        "latitude": 38.83793,
+        "longitude": 41.48332
+    },
+    {
+        "cityId": "8630858",
+        "name": "Malazgirt \u0130l\u00e7esi",
+        "stateId": "304041",
+        "latitude": 39.15089,
+        "longitude": 42.54543
+    },
+    {
+        "cityId": "8630859",
+        "name": "Bulan\u0131k \u0130l\u00e7esi",
+        "stateId": "304041",
+        "latitude": 39.09285,
+        "longitude": 42.27316
+    },
+    {
+        "cityId": "8630861",
+        "name": "Varto \u0130l\u00e7esi",
+        "stateId": "304041",
+        "latitude": 39.1709,
+        "longitude": 41.4544
+    },
+    {
+        "cityId": "8630862",
+        "name": "Korkut \u0130l\u00e7esi",
+        "stateId": "304041",
+        "latitude": 38.73826,
+        "longitude": 41.78689
+    },
+    {
+        "cityId": "8630863",
+        "name": "Hask\u00f6y \u0130l\u00e7esi",
+        "stateId": "304041",
+        "latitude": 38.68464,
+        "longitude": 41.68831
+    }
+]

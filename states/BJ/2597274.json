@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7669263",
+        "name": "Ouake",
+        "stateId": "2597274",
+        "latitude": 9.59959,
+        "longitude": 1.43707
+    },
+    {
+        "cityId": "7669275",
+        "name": "Copargo",
+        "stateId": "2597274",
+        "latitude": 9.8375,
+        "longitude": 1.54806
+    },
+    {
+        "cityId": "8260658",
+        "name": "Commune of Djougou",
+        "stateId": "2597274",
+        "latitude": 9.643,
+        "longitude": 1.896
+    },
+    {
+        "cityId": "10344470",
+        "name": "Bassila",
+        "stateId": "2597274",
+        "latitude": 9.01667,
+        "longitude": 1.66667
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "1255438",
+        "name": "Sundargarh",
+        "stateId": "1261029",
+        "latitude": 22.25,
+        "longitude": 84.5
+    },
+    {
+        "cityId": "1257544",
+        "name": "Sambalpur",
+        "stateId": "1261029",
+        "latitude": 21.4,
+        "longitude": 83.88333
+    },
+    {
+        "cityId": "1263245",
+        "name": "May\u016brbhanj",
+        "stateId": "1261029",
+        "latitude": 21.75,
+        "longitude": 86.5
+    },
+    {
+        "cityId": "1266129",
+        "name": "Koraput",
+        "stateId": "1261029",
+        "latitude": 19,
+        "longitude": 83
+    },
+    {
+        "cityId": "1267268",
+        "name": "Kendujhar",
+        "stateId": "1261029",
+        "latitude": 21.5,
+        "longitude": 85.5
+    },
+    {
+        "cityId": "1268508",
+        "name": "K\u0101l\u0101handi",
+        "stateId": "1261029",
+        "latitude": 19.75,
+        "longitude": 83
+    },
+    {
+        "cityId": "1271622",
+        "name": "Ganj\u0101m",
+        "stateId": "1261029",
+        "latitude": 19.5,
+        "longitude": 84.5
+    },
+    {
+        "cityId": "1272781",
+        "name": "Dhenk\u0101n\u0101l",
+        "stateId": "1261029",
+        "latitude": 20.75,
+        "longitude": 85.5
+    },
+    {
+        "cityId": "1273781",
+        "name": "Cuttack",
+        "stateId": "1261029",
+        "latitude": 20.5,
+        "longitude": 86.25
+    },
+    {
+        "cityId": "1277600",
+        "name": "B\u0101leshwar",
+        "stateId": "1261029",
+        "latitude": 21.5,
+        "longitude": 86.75
+    },
+    {
+        "cityId": "1277644",
+        "name": "Bal\u0101ng\u012br",
+        "stateId": "1261029",
+        "latitude": 20.75,
+        "longitude": 83.25
+    },
+    {
+        "cityId": "7627179",
+        "name": "Jharsuguda",
+        "stateId": "1261029",
+        "latitude": 21.85,
+        "longitude": 84
+    },
+    {
+        "cityId": "7627181",
+        "name": "Kandhamal",
+        "stateId": "1261029",
+        "latitude": 20.3,
+        "longitude": 84
+    },
+    {
+        "cityId": "7627182",
+        "name": "Malkangiri",
+        "stateId": "1261029",
+        "latitude": 18.25,
+        "longitude": 81.95
+    },
+    {
+        "cityId": "7627183",
+        "name": "Rayagada",
+        "stateId": "1261029",
+        "latitude": 19.4,
+        "longitude": 83.5
+    },
+    {
+        "cityId": "7644924",
+        "name": "Bhadrak",
+        "stateId": "1261029",
+        "latitude": 21,
+        "longitude": 86.6
+    },
+    {
+        "cityId": "7644925",
+        "name": "Jagatsinghpur",
+        "stateId": "1261029",
+        "latitude": 20.2,
+        "longitude": 86.3
+    },
+    {
+        "cityId": "7644926",
+        "name": "Kendrapara",
+        "stateId": "1261029",
+        "latitude": 20.5,
+        "longitude": 86.5
+    },
+    {
+        "cityId": "7644927",
+        "name": "Khordha",
+        "stateId": "1261029",
+        "latitude": 20.2,
+        "longitude": 85.6
+    },
+    {
+        "cityId": "7644928",
+        "name": "Puri",
+        "stateId": "1261029",
+        "latitude": 19.9,
+        "longitude": 85.6
+    },
+    {
+        "cityId": "8533697",
+        "name": "Nuapada",
+        "stateId": "1261029",
+        "latitude": 20.6,
+        "longitude": 82.5
+    },
+    {
+        "cityId": "8533699",
+        "name": "Gajapati",
+        "stateId": "1261029",
+        "latitude": 18.91,
+        "longitude": 84.2
+    },
+    {
+        "cityId": "8740091",
+        "name": "Baragarh",
+        "stateId": "1261029",
+        "latitude": 21.33333,
+        "longitude": 83.61667
+    },
+    {
+        "cityId": "8908677",
+        "name": "Nabarangpur",
+        "stateId": "1261029",
+        "latitude": 19.2333,
+        "longitude": 82.55
+    },
+    {
+        "cityId": "8986057",
+        "name": "Angul District",
+        "stateId": "1261029",
+        "latitude": 20.84903,
+        "longitude": 85.06079
+    },
+    {
+        "cityId": "8986741",
+        "name": "Nayagarh District",
+        "stateId": "1261029",
+        "latitude": 20.13,
+        "longitude": 85.1
+    },
+    {
+        "cityId": "8996923",
+        "name": "Baudh",
+        "stateId": "1261029",
+        "latitude": 20.833,
+        "longitude": 84.333
+    },
+    {
+        "cityId": "9645384",
+        "name": "Jajpur",
+        "stateId": "1261029",
+        "latitude": 20.84149,
+        "longitude": 86.31237
+    },
+    {
+        "cityId": "9747968",
+        "name": "Debagarh",
+        "stateId": "1261029",
+        "latitude": 21.46594,
+        "longitude": 84.80371
+    },
+    {
+        "cityId": "9748032",
+        "name": "Subarnapur",
+        "stateId": "1261029",
+        "latitude": 20.93154,
+        "longitude": 83.82486
+    }
+]

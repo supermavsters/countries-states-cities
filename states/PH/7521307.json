@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1685725",
+        "name": "Province of Southern Leyte",
+        "stateId": "7521307",
+        "latitude": 10.33333,
+        "longitude": 125.08333
+    },
+    {
+        "cityId": "1690649",
+        "name": "Province of Samar",
+        "stateId": "7521307",
+        "latitude": 11.83333,
+        "longitude": 125
+    },
+    {
+        "cityId": "1697549",
+        "name": "Province of Northern Samar",
+        "stateId": "7521307",
+        "latitude": 12.33333,
+        "longitude": 124.66667
+    },
+    {
+        "cityId": "1706800",
+        "name": "Province of Leyte",
+        "stateId": "7521307",
+        "latitude": 11.08138,
+        "longitude": 124.82666
+    },
+    {
+        "cityId": "1713986",
+        "name": "Province of Eastern Samar",
+        "stateId": "7521307",
+        "latitude": 11.53054,
+        "longitude": 125.47647
+    },
+    {
+        "cityId": "1725260",
+        "name": "Biliran",
+        "stateId": "7521307",
+        "latitude": 11.48333,
+        "longitude": 124.48333
+    }
+]

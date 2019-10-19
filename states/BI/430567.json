@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7670590",
+        "name": "Busiga",
+        "stateId": "430567",
+        "latitude": -2.85881,
+        "longitude": 29.70638
+    },
+    {
+        "cityId": "7670594",
+        "name": "Gashikanwa",
+        "stateId": "430567",
+        "latitude": -2.89389,
+        "longitude": 29.90753
+    },
+    {
+        "cityId": "7670614",
+        "name": "Ruhororo",
+        "stateId": "430567",
+        "latitude": -3.00896,
+        "longitude": 29.93898
+    },
+    {
+        "cityId": "7670617",
+        "name": "Tangara",
+        "stateId": "430567",
+        "latitude": -2.91358,
+        "longitude": 30.07244
+    },
+    {
+        "cityId": "7670822",
+        "name": "Ngozi",
+        "stateId": "430567",
+        "latitude": -2.94806,
+        "longitude": 29.83045
+    },
+    {
+        "cityId": "9171858",
+        "name": "Mwumba",
+        "stateId": "430567",
+        "latitude": -2.82501,
+        "longitude": 29.80057
+    },
+    {
+        "cityId": "9171863",
+        "name": "Nyamurenza",
+        "stateId": "430567",
+        "latitude": -2.81363,
+        "longitude": 29.88102
+    },
+    {
+        "cityId": "9171867",
+        "name": "Marangara",
+        "stateId": "430567",
+        "latitude": -2.73417,
+        "longitude": 29.96231
+    },
+    {
+        "cityId": "9171874",
+        "name": "Kiremba",
+        "stateId": "430567",
+        "latitude": -2.83607,
+        "longitude": 30.03245
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3869715",
+        "name": "Provincia de Tocopilla",
+        "stateId": "3899537",
+        "latitude": -22.02949,
+        "longitude": -69.64006
+    },
+    {
+        "cityId": "3891149",
+        "name": "Provincia de El Loa",
+        "stateId": "3899537",
+        "latitude": -22.96764,
+        "longitude": -68.18716
+    },
+    {
+        "cityId": "3899538",
+        "name": "Provincia de Antofagasta",
+        "stateId": "3899537",
+        "latitude": -24.31122,
+        "longitude": -69.57084
+    }
+]

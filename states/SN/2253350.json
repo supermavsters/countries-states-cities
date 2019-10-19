@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7732977",
+        "name": "Dakar Department",
+        "stateId": "2253350",
+        "latitude": 14.71403,
+        "longitude": -17.45534
+    },
+    {
+        "cityId": "7732979",
+        "name": "Pikine Department",
+        "stateId": "2253350",
+        "latitude": 14.76515,
+        "longitude": -17.35198
+    },
+    {
+        "cityId": "7733009",
+        "name": "Rufisque Department",
+        "stateId": "2253350",
+        "latitude": 14.74339,
+        "longitude": -17.19841
+    },
+    {
+        "cityId": "9180011",
+        "name": "Gu\u00e9diawaye Department",
+        "stateId": "2253350",
+        "latitude": 14.7761,
+        "longitude": -17.3956
+    },
+    {
+        "cityId": "10775338",
+        "name": "D\u00e9partement de Gu\u00e9diawaye",
+        "stateId": "2253350",
+        "latitude": 14.77999,
+        "longitude": -17.39664
+    }
+]

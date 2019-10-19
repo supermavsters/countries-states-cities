@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3573680",
+        "name": "Ward of Siparia",
+        "stateId": "7521945",
+        "latitude": 10.15,
+        "longitude": -61.46667
+    },
+    {
+        "cityId": "3574352",
+        "name": "Ward of La Brea",
+        "stateId": "7521945",
+        "latitude": 10.16667,
+        "longitude": -61.65
+    },
+    {
+        "cityId": "3574590",
+        "name": "Ward of Erin",
+        "stateId": "7521945",
+        "latitude": 10.08333,
+        "longitude": -61.63333
+    },
+    {
+        "cityId": "3574824",
+        "name": "Ward of Cedros",
+        "stateId": "7521945",
+        "latitude": 10.09802,
+        "longitude": -61.79996
+    }
+]

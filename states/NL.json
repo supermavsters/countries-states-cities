@@ -1,0 +1,86 @@
+[
+    {
+        "stateId": "2756631",
+        "name": "Provincie Drenthe",
+        "countryId": "2750405",
+        "latitude": 52.83333,
+        "longitude": 6.58333
+    },
+    {
+        "stateId": "3319179",
+        "name": "Provincie Flevoland",
+        "countryId": "2750405",
+        "latitude": 52.53333,
+        "longitude": 5.66667
+    },
+    {
+        "stateId": "2755812",
+        "name": "Provincie Friesland",
+        "countryId": "2750405",
+        "latitude": 53.16667,
+        "longitude": 5.83333
+    },
+    {
+        "stateId": "2755634",
+        "name": "Provincie Gelderland",
+        "countryId": "2750405",
+        "latitude": 52,
+        "longitude": 5.83333
+    },
+    {
+        "stateId": "2755249",
+        "name": "Provincie Groningen",
+        "countryId": "2750405",
+        "latitude": 53.25,
+        "longitude": 6.75
+    },
+    {
+        "stateId": "2751596",
+        "name": "Provincie Limburg",
+        "countryId": "2750405",
+        "latitude": 51.25,
+        "longitude": 6
+    },
+    {
+        "stateId": "2749990",
+        "name": "Provincie Noord-Brabant",
+        "countryId": "2750405",
+        "latitude": 51.66667,
+        "longitude": 5
+    },
+    {
+        "stateId": "2749879",
+        "name": "Provincie Noord-Holland",
+        "countryId": "2750405",
+        "latitude": 52.58333,
+        "longitude": 4.91667
+    },
+    {
+        "stateId": "2748838",
+        "name": "Provincie Overijssel",
+        "countryId": "2750405",
+        "latitude": 52.41667,
+        "longitude": 6.5
+    },
+    {
+        "stateId": "2745909",
+        "name": "Provincie Utrecht",
+        "countryId": "2750405",
+        "latitude": 52,
+        "longitude": 5.25
+    },
+    {
+        "stateId": "2744011",
+        "name": "Provincie Zeeland",
+        "countryId": "2750405",
+        "latitude": 51.41667,
+        "longitude": 3.75
+    },
+    {
+        "stateId": "2743698",
+        "name": "Provincie Zuid-Holland",
+        "countryId": "2750405",
+        "latitude": 52,
+        "longitude": 4.66667
+    }
+]

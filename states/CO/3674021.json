@@ -1,0 +1,450 @@
+[
+    {
+        "cityId": "3665812",
+        "name": "Yacuanquer",
+        "stateId": "3674021",
+        "latitude": 1.12504,
+        "longitude": -77.4242
+    },
+    {
+        "cityId": "3666583",
+        "name": "T\u00faquerres",
+        "stateId": "3674021",
+        "latitude": 1.13545,
+        "longitude": -77.63089
+    },
+    {
+        "cityId": "3667448",
+        "name": "Tangua",
+        "stateId": "3674021",
+        "latitude": 1.09189,
+        "longitude": -77.38645
+    },
+    {
+        "cityId": "3667472",
+        "name": "Taminango",
+        "stateId": "3674021",
+        "latitude": 1.59388,
+        "longitude": -77.35522
+    },
+    {
+        "cityId": "3668269",
+        "name": "Sapuyes",
+        "stateId": "3674021",
+        "latitude": 1.05954,
+        "longitude": -77.70662
+    },
+    {
+        "cityId": "3668834",
+        "name": "Santacruz",
+        "stateId": "3674021",
+        "latitude": 1.33333,
+        "longitude": -77.7
+    },
+    {
+        "cityId": "3668921",
+        "name": "Santa B\u00e1rbara",
+        "stateId": "3674021",
+        "latitude": 2.33333,
+        "longitude": -77.91667
+    },
+    {
+        "cityId": "3669217",
+        "name": "San Pablo",
+        "stateId": "3674021",
+        "latitude": 1.6702,
+        "longitude": -77.02373
+    },
+    {
+        "cityId": "3669441",
+        "name": "San Lorenzo",
+        "stateId": "3674021",
+        "latitude": 1.55731,
+        "longitude": -77.24599
+    },
+    {
+        "cityId": "3669939",
+        "name": "Sandon\u00e1",
+        "stateId": "3674021",
+        "latitude": 1.30722,
+        "longitude": -77.48284
+    },
+    {
+        "cityId": "3670294",
+        "name": "Samaniego",
+        "stateId": "3674021",
+        "latitude": 1.41667,
+        "longitude": -77.66667
+    },
+    {
+        "cityId": "3670681",
+        "name": "Roberto Pay\u00e1n",
+        "stateId": "3674021",
+        "latitude": 1.91667,
+        "longitude": -78.33333
+    },
+    {
+        "cityId": "3670819",
+        "name": "Ricaurte",
+        "stateId": "3674021",
+        "latitude": 1.18788,
+        "longitude": -78.05537
+    },
+    {
+        "cityId": "3671229",
+        "name": "Pupiales",
+        "stateId": "3674021",
+        "latitude": 0.91667,
+        "longitude": -77.66667
+    },
+    {
+        "cityId": "3671578",
+        "name": "Puerres",
+        "stateId": "3674021",
+        "latitude": 0.82122,
+        "longitude": -77.31978
+    },
+    {
+        "cityId": "3671849",
+        "name": "Potos\u00ed",
+        "stateId": "3674021",
+        "latitude": 0.75,
+        "longitude": -77.41667
+    },
+    {
+        "cityId": "3672667",
+        "name": "Mag\u00fci",
+        "stateId": "3674021",
+        "latitude": 1.90504,
+        "longitude": -78.04916
+    },
+    {
+        "cityId": "3672779",
+        "name": "Pasto",
+        "stateId": "3674021",
+        "latitude": 1.21467,
+        "longitude": -77.27865
+    },
+    {
+        "cityId": "3673483",
+        "name": "Ospina",
+        "stateId": "3674021",
+        "latitude": 1.02962,
+        "longitude": -77.55252
+    },
+    {
+        "cityId": "3674296",
+        "name": "Mosquera",
+        "stateId": "3674021",
+        "latitude": 2.49139,
+        "longitude": -78.44307
+    },
+    {
+        "cityId": "3675578",
+        "name": "Mallama",
+        "stateId": "3674021",
+        "latitude": 1.08333,
+        "longitude": -77.81667
+    },
+    {
+        "cityId": "3676357",
+        "name": "Los Andes",
+        "stateId": "3674021",
+        "latitude": 1.58333,
+        "longitude": -77.58333
+    },
+    {
+        "cityId": "3676541",
+        "name": "Linares",
+        "stateId": "3674021",
+        "latitude": 1.40053,
+        "longitude": -77.54422
+    },
+    {
+        "cityId": "3676938",
+        "name": "La Uni\u00f3n",
+        "stateId": "3674021",
+        "latitude": 1.62689,
+        "longitude": -77.15916
+    },
+    {
+        "cityId": "3679009",
+        "name": "La Florida",
+        "stateId": "3674021",
+        "latitude": 1.35693,
+        "longitude": -77.41271
+    },
+    {
+        "cityId": "3679381",
+        "name": "La Cruz",
+        "stateId": "3674021",
+        "latitude": 1.55,
+        "longitude": -76.88333
+    },
+    {
+        "cityId": "3680540",
+        "name": "Ipiales",
+        "stateId": "3674021",
+        "latitude": 0.58333,
+        "longitude": -77.41667
+    },
+    {
+        "cityId": "3680602",
+        "name": "Imu\u00e9s",
+        "stateId": "3674021",
+        "latitude": 1.05,
+        "longitude": -77.5
+    },
+    {
+        "cityId": "3680617",
+        "name": "Iles",
+        "stateId": "3674021",
+        "latitude": 0.98002,
+        "longitude": -77.51918
+    },
+    {
+        "cityId": "3681620",
+        "name": "Gualmat\u00e1n",
+        "stateId": "3674021",
+        "latitude": 0.92856,
+        "longitude": -77.58274
+    },
+    {
+        "cityId": "3681645",
+        "name": "Guaitarilla",
+        "stateId": "3674021",
+        "latitude": 1.17931,
+        "longitude": -77.55838
+    },
+    {
+        "cityId": "3681757",
+        "name": "Guachucal",
+        "stateId": "3674021",
+        "latitude": 1,
+        "longitude": -77.75
+    },
+    {
+        "cityId": "3682284",
+        "name": "Funes",
+        "stateId": "3674021",
+        "latitude": 0.93182,
+        "longitude": -77.35218
+    },
+    {
+        "cityId": "3682967",
+        "name": "El Tambo",
+        "stateId": "3674021",
+        "latitude": 1.43049,
+        "longitude": -77.38326
+    },
+    {
+        "cityId": "3682983",
+        "name": "El Tabl\u00f3n de G\u00f3mez",
+        "stateId": "3674021",
+        "latitude": 1.41201,
+        "longitude": -76.98526
+    },
+    {
+        "cityId": "3683153",
+        "name": "El Rosario",
+        "stateId": "3674021",
+        "latitude": 1.83333,
+        "longitude": -77.33333
+    },
+    {
+        "cityId": "3684581",
+        "name": "El Charco",
+        "stateId": "3674021",
+        "latitude": 2.4691,
+        "longitude": -78.09975
+    },
+    {
+        "cityId": "3685433",
+        "name": "Cumbal",
+        "stateId": "3674021",
+        "latitude": 0.91667,
+        "longitude": -77.91667
+    },
+    {
+        "cityId": "3685615",
+        "name": "Cuaspud",
+        "stateId": "3674021",
+        "latitude": 0.8757,
+        "longitude": -77.7364
+    },
+    {
+        "cityId": "3685905",
+        "name": "C\u00f3rdoba",
+        "stateId": "3674021",
+        "latitude": 0.78333,
+        "longitude": -77.33333
+    },
+    {
+        "cityId": "3685975",
+        "name": "Contadero",
+        "stateId": "3674021",
+        "latitude": 0.91667,
+        "longitude": -77.53333
+    },
+    {
+        "cityId": "3685985",
+        "name": "Consaca",
+        "stateId": "3674021",
+        "latitude": 1.20841,
+        "longitude": -77.46323
+    },
+    {
+        "cityId": "3686108",
+        "name": "Col\u00f3n",
+        "stateId": "3674021",
+        "latitude": 1.6285,
+        "longitude": -77.02927
+    },
+    {
+        "cityId": "3688267",
+        "name": "Buesaco",
+        "stateId": "3674021",
+        "latitude": 1.25,
+        "longitude": -77.08333
+    },
+    {
+        "cityId": "3689229",
+        "name": "Barbacoas",
+        "stateId": "3674021",
+        "latitude": 1.58333,
+        "longitude": -78
+    },
+    {
+        "cityId": "3689706",
+        "name": "Arboleda",
+        "stateId": "3674021",
+        "latitude": 1.4983,
+        "longitude": -77.13613
+    },
+    {
+        "cityId": "3689916",
+        "name": "Ancuy\u00e1",
+        "stateId": "3674021",
+        "latitude": 1.26538,
+        "longitude": -77.53258
+    },
+    {
+        "cityId": "3690227",
+        "name": "Aldana",
+        "stateId": "3674021",
+        "latitude": 0.88162,
+        "longitude": -77.70046
+    },
+    {
+        "cityId": "3690268",
+        "name": "Alb\u00e1n",
+        "stateId": "3674021",
+        "latitude": 1.4705,
+        "longitude": -77.06846
+    },
+    {
+        "cityId": "9172161",
+        "name": "Chachag\u00fc\u00ed",
+        "stateId": "3674021",
+        "latitude": 1.38731,
+        "longitude": -77.26927
+    },
+    {
+        "cityId": "9172330",
+        "name": "San Pedro de Cartago",
+        "stateId": "3674021",
+        "latitude": 1.55533,
+        "longitude": -77.12984
+    },
+    {
+        "cityId": "9172332",
+        "name": "Providencia",
+        "stateId": "3674021",
+        "latitude": 1.24204,
+        "longitude": -77.60468
+    },
+    {
+        "cityId": "9172334",
+        "name": "Policarpa",
+        "stateId": "3674021",
+        "latitude": 1.73298,
+        "longitude": -77.49181
+    },
+    {
+        "cityId": "9172338",
+        "name": "San Bernardo",
+        "stateId": "3674021",
+        "latitude": 1.53859,
+        "longitude": -77.03795
+    },
+    {
+        "cityId": "9172341",
+        "name": "Leiva",
+        "stateId": "3674021",
+        "latitude": 1.96147,
+        "longitude": -77.37561
+    },
+    {
+        "cityId": "9172343",
+        "name": "La Tola",
+        "stateId": "3674021",
+        "latitude": 2.33584,
+        "longitude": -78.20676
+    },
+    {
+        "cityId": "9172345",
+        "name": "La Llanada",
+        "stateId": "3674021",
+        "latitude": 1.51233,
+        "longitude": -77.70535
+    },
+    {
+        "cityId": "9172348",
+        "name": "Francisco Pizarro",
+        "stateId": "3674021",
+        "latitude": 2.14713,
+        "longitude": -78.58883
+    },
+    {
+        "cityId": "9172354",
+        "name": "Cumbitara",
+        "stateId": "3674021",
+        "latitude": 1.67681,
+        "longitude": -77.59294
+    },
+    {
+        "cityId": "9172355",
+        "name": "Bel\u00e9n",
+        "stateId": "3674021",
+        "latitude": 1.59366,
+        "longitude": -77.03726
+    },
+    {
+        "cityId": "9172359",
+        "name": "Olaya Herrera",
+        "stateId": "3674021",
+        "latitude": 2.21927,
+        "longitude": -78.32235
+    },
+    {
+        "cityId": "9609526",
+        "name": "El Pe\u00f1ol",
+        "stateId": "3674021",
+        "latitude": 1.51285,
+        "longitude": -77.43077
+    },
+    {
+        "cityId": "9609527",
+        "name": "Nari\u00f1o",
+        "stateId": "3674021",
+        "latitude": 1.30292,
+        "longitude": -77.34595
+    },
+    {
+        "cityId": "9609528",
+        "name": "San Andres de Tumaco",
+        "stateId": "3674021",
+        "latitude": 1.63766,
+        "longitude": -78.61218
+    }
+]

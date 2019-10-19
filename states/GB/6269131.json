@@ -1,0 +1,842 @@
+[
+    {
+        "cityId": "2633351",
+        "name": "City of York",
+        "stateId": "6269131",
+        "latitude": 53.96396,
+        "longitude": -1.09142
+    },
+    {
+        "cityId": "2633560",
+        "name": "Worcestershire",
+        "stateId": "6269131",
+        "latitude": 52.16667,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "2633840",
+        "name": "Royal Borough of Windsor and Maidenhead",
+        "stateId": "6269131",
+        "latitude": 51.46667,
+        "longitude": -0.66667
+    },
+    {
+        "cityId": "2633868",
+        "name": "Wiltshire",
+        "stateId": "6269131",
+        "latitude": 51.25,
+        "longitude": -1.91667
+    },
+    {
+        "cityId": "2634258",
+        "name": "West Sussex",
+        "stateId": "6269131",
+        "latitude": 51,
+        "longitude": -0.41667
+    },
+    {
+        "cityId": "2634723",
+        "name": "Warwickshire",
+        "stateId": "6269131",
+        "latitude": 52.33333,
+        "longitude": -1.58333
+    },
+    {
+        "cityId": "2635885",
+        "name": "Borough of Thurrock",
+        "stateId": "6269131",
+        "latitude": 51.5,
+        "longitude": 0.41667
+    },
+    {
+        "cityId": "2636512",
+        "name": "Surrey",
+        "stateId": "6269131",
+        "latitude": 51.25,
+        "longitude": -0.33333
+    },
+    {
+        "cityId": "2636561",
+        "name": "Suffolk",
+        "stateId": "6269131",
+        "latitude": 52.16667,
+        "longitude": 1
+    },
+    {
+        "cityId": "2637141",
+        "name": "Staffordshire",
+        "stateId": "6269131",
+        "latitude": 52.83333,
+        "longitude": -2
+    },
+    {
+        "cityId": "2637532",
+        "name": "Somerset",
+        "stateId": "6269131",
+        "latitude": 51.08333,
+        "longitude": -3
+    },
+    {
+        "cityId": "2638384",
+        "name": "Isles of Scilly",
+        "stateId": "6269131",
+        "latitude": 49.92117,
+        "longitude": -6.29431
+    },
+    {
+        "cityId": "2638655",
+        "name": "Shropshire",
+        "stateId": "6269131",
+        "latitude": 52.66667,
+        "longitude": -2.75
+    },
+    {
+        "cityId": "2638918",
+        "name": "District of Rutland",
+        "stateId": "6269131",
+        "latitude": 52.66667,
+        "longitude": -0.66667
+    },
+    {
+        "cityId": "2640726",
+        "name": "Oxfordshire",
+        "stateId": "6269131",
+        "latitude": 51.83333,
+        "longitude": -1.25
+    },
+    {
+        "cityId": "2641169",
+        "name": "Nottinghamshire",
+        "stateId": "6269131",
+        "latitude": 53.16667,
+        "longitude": -1
+    },
+    {
+        "cityId": "2641209",
+        "name": "North Yorkshire",
+        "stateId": "6269131",
+        "latitude": 54.16667,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "2641235",
+        "name": "Northumberland",
+        "stateId": "6269131",
+        "latitude": 55.25,
+        "longitude": -2
+    },
+    {
+        "cityId": "2641238",
+        "name": "Borough of North Tyneside",
+        "stateId": "6269131",
+        "latitude": 55.03333,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "2641429",
+        "name": "Northamptonshire",
+        "stateId": "6269131",
+        "latitude": 52.25,
+        "longitude": -0.83333
+    },
+    {
+        "cityId": "2641455",
+        "name": "Norfolk",
+        "stateId": "6269131",
+        "latitude": 52.66667,
+        "longitude": 1
+    },
+    {
+        "cityId": "2644486",
+        "name": "Lincolnshire",
+        "stateId": "6269131",
+        "latitude": 53.16667,
+        "longitude": -0.25
+    },
+    {
+        "cityId": "2644667",
+        "name": "Leicestershire",
+        "stateId": "6269131",
+        "latitude": 52.66667,
+        "longitude": -1
+    },
+    {
+        "cityId": "2644974",
+        "name": "Lancashire",
+        "stateId": "6269131",
+        "latitude": 53.83333,
+        "longitude": -2.5
+    },
+    {
+        "cityId": "2646007",
+        "name": "Isle of Wight",
+        "stateId": "6269131",
+        "latitude": 50.66667,
+        "longitude": -1.33333
+    },
+    {
+        "cityId": "2647043",
+        "name": "Hertfordshire",
+        "stateId": "6269131",
+        "latitude": 51.83333,
+        "longitude": -0.25
+    },
+    {
+        "cityId": "2647071",
+        "name": "Herefordshire",
+        "stateId": "6269131",
+        "latitude": 52.08333,
+        "longitude": -2.75
+    },
+    {
+        "cityId": "2647554",
+        "name": "Hampshire",
+        "stateId": "6269131",
+        "latitude": 51,
+        "longitude": -1.25
+    },
+    {
+        "cityId": "2647601",
+        "name": "Borough of Halton",
+        "stateId": "6269131",
+        "latitude": 53.33333,
+        "longitude": -2.75
+    },
+    {
+        "cityId": "2648110",
+        "name": "Greater London",
+        "stateId": "6269131",
+        "latitude": 51.5,
+        "longitude": -0.16667
+    },
+    {
+        "cityId": "2648402",
+        "name": "Gloucestershire",
+        "stateId": "6269131",
+        "latitude": 51.83333,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "2648772",
+        "name": "Gateshead",
+        "stateId": "6269131",
+        "latitude": 54.93333,
+        "longitude": -1.66667
+    },
+    {
+        "cityId": "2649889",
+        "name": "Essex",
+        "stateId": "6269131",
+        "latitude": 51.83333,
+        "longitude": 0.58333
+    },
+    {
+        "cityId": "2650328",
+        "name": "East Sussex",
+        "stateId": "6269131",
+        "latitude": 50.91667,
+        "longitude": 0.33333
+    },
+    {
+        "cityId": "2650345",
+        "name": "East Riding of Yorkshire",
+        "stateId": "6269131",
+        "latitude": 53.91667,
+        "longitude": -0.5
+    },
+    {
+        "cityId": "2650629",
+        "name": "County Durham",
+        "stateId": "6269131",
+        "latitude": 54.7768,
+        "longitude": -1.57575
+    },
+    {
+        "cityId": "2651079",
+        "name": "Dorset",
+        "stateId": "6269131",
+        "latitude": 50.75,
+        "longitude": -2.33333
+    },
+    {
+        "cityId": "2651292",
+        "name": "Devon",
+        "stateId": "6269131",
+        "latitude": 50.75,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "2651346",
+        "name": "Derbyshire",
+        "stateId": "6269131",
+        "latitude": 53.16667,
+        "longitude": -1.58333
+    },
+    {
+        "cityId": "2651712",
+        "name": "Cumbria",
+        "stateId": "6269131",
+        "latitude": 54.58333,
+        "longitude": -2.83333
+    },
+    {
+        "cityId": "2652355",
+        "name": "Cornwall",
+        "stateId": "6269131",
+        "latitude": 50.41667,
+        "longitude": -4.75
+    },
+    {
+        "cityId": "2653940",
+        "name": "Cambridgeshire",
+        "stateId": "6269131",
+        "latitude": 52.33333,
+        "longitude": 0.08333
+    },
+    {
+        "cityId": "2654408",
+        "name": "Buckinghamshire",
+        "stateId": "6269131",
+        "latitude": 51.75,
+        "longitude": -0.75
+    },
+    {
+        "cityId": "3333122",
+        "name": "Barnsley",
+        "stateId": "6269131",
+        "latitude": 53.53333,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "3333123",
+        "name": "Bath and North East Somerset",
+        "stateId": "6269131",
+        "latitude": 51.33333,
+        "longitude": -2.5
+    },
+    {
+        "cityId": "3333125",
+        "name": "City and Borough of Birmingham",
+        "stateId": "6269131",
+        "latitude": 52.48048,
+        "longitude": -1.89823
+    },
+    {
+        "cityId": "3333126",
+        "name": "Blackburn with Darwen",
+        "stateId": "6269131",
+        "latitude": 53.66667,
+        "longitude": -2.46667
+    },
+    {
+        "cityId": "3333127",
+        "name": "Blackpool",
+        "stateId": "6269131",
+        "latitude": 53.83333,
+        "longitude": -3.03333
+    },
+    {
+        "cityId": "3333128",
+        "name": "Borough of Bolton",
+        "stateId": "6269131",
+        "latitude": 53.58333,
+        "longitude": -2.5
+    },
+    {
+        "cityId": "3333129",
+        "name": "Bournemouth",
+        "stateId": "6269131",
+        "latitude": 50.71918,
+        "longitude": -1.87806
+    },
+    {
+        "cityId": "3333130",
+        "name": "Bracknell Forest",
+        "stateId": "6269131",
+        "latitude": 51.41667,
+        "longitude": -0.75
+    },
+    {
+        "cityId": "3333131",
+        "name": "Bradford",
+        "stateId": "6269131",
+        "latitude": 53.83333,
+        "longitude": -1.83333
+    },
+    {
+        "cityId": "3333133",
+        "name": "Brighton and Hove",
+        "stateId": "6269131",
+        "latitude": 50.83333,
+        "longitude": -0.13333
+    },
+    {
+        "cityId": "3333134",
+        "name": "Bristol",
+        "stateId": "6269131",
+        "latitude": 51.45,
+        "longitude": -2.6
+    },
+    {
+        "cityId": "3333136",
+        "name": "Borough of Bury",
+        "stateId": "6269131",
+        "latitude": 53.58333,
+        "longitude": -2.33333
+    },
+    {
+        "cityId": "3333137",
+        "name": "Calderdale",
+        "stateId": "6269131",
+        "latitude": 53.7,
+        "longitude": -2
+    },
+    {
+        "cityId": "3333139",
+        "name": "Coventry",
+        "stateId": "6269131",
+        "latitude": 52.41667,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "3333141",
+        "name": "Darlington",
+        "stateId": "6269131",
+        "latitude": 54.53333,
+        "longitude": -1.53333
+    },
+    {
+        "cityId": "3333142",
+        "name": "Derby",
+        "stateId": "6269131",
+        "latitude": 52.9207,
+        "longitude": -1.47217
+    },
+    {
+        "cityId": "3333143",
+        "name": "Doncaster",
+        "stateId": "6269131",
+        "latitude": 53.5,
+        "longitude": -1.08333
+    },
+    {
+        "cityId": "3333144",
+        "name": "Dudley",
+        "stateId": "6269131",
+        "latitude": 52.5,
+        "longitude": -2.11667
+    },
+    {
+        "cityId": "3333152",
+        "name": "Hartlepool",
+        "stateId": "6269131",
+        "latitude": 54.66667,
+        "longitude": -1.25
+    },
+    {
+        "cityId": "3333158",
+        "name": "Kent",
+        "stateId": "6269131",
+        "latitude": 51.16667,
+        "longitude": 0.66667
+    },
+    {
+        "cityId": "3333159",
+        "name": "City of Kingston upon Hull",
+        "stateId": "6269131",
+        "latitude": 53.75,
+        "longitude": -0.33333
+    },
+    {
+        "cityId": "3333161",
+        "name": "Kirklees",
+        "stateId": "6269131",
+        "latitude": 53.58333,
+        "longitude": -1.75
+    },
+    {
+        "cityId": "3333162",
+        "name": "Knowsley",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.83333
+    },
+    {
+        "cityId": "3333164",
+        "name": "City and Borough of Leeds",
+        "stateId": "6269131",
+        "latitude": 53.79644,
+        "longitude": -1.5477
+    },
+    {
+        "cityId": "3333165",
+        "name": "City of Leicester",
+        "stateId": "6269131",
+        "latitude": 52.63333,
+        "longitude": -1.13333
+    },
+    {
+        "cityId": "3333167",
+        "name": "Liverpool",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.91667
+    },
+    {
+        "cityId": "3333168",
+        "name": "Luton",
+        "stateId": "6269131",
+        "latitude": 51.8911,
+        "longitude": -0.42793
+    },
+    {
+        "cityId": "3333169",
+        "name": "Manchester",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.25
+    },
+    {
+        "cityId": "3333170",
+        "name": "Medway",
+        "stateId": "6269131",
+        "latitude": 51.41667,
+        "longitude": 0.5
+    },
+    {
+        "cityId": "3333172",
+        "name": "Middlesbrough",
+        "stateId": "6269131",
+        "latitude": 54.53333,
+        "longitude": -1.2
+    },
+    {
+        "cityId": "3333173",
+        "name": "Milton Keynes",
+        "stateId": "6269131",
+        "latitude": 52.08333,
+        "longitude": -0.75
+    },
+    {
+        "cityId": "3333174",
+        "name": "Newcastle upon Tyne",
+        "stateId": "6269131",
+        "latitude": 55,
+        "longitude": -1.66667
+    },
+    {
+        "cityId": "3333175",
+        "name": "North East Lincolnshire",
+        "stateId": "6269131",
+        "latitude": 53.53333,
+        "longitude": -0.08333
+    },
+    {
+        "cityId": "3333176",
+        "name": "North Lincolnshire",
+        "stateId": "6269131",
+        "latitude": 53.58333,
+        "longitude": -0.5
+    },
+    {
+        "cityId": "3333177",
+        "name": "North Somerset",
+        "stateId": "6269131",
+        "latitude": 51.33333,
+        "longitude": -2.83333
+    },
+    {
+        "cityId": "3333178",
+        "name": "Nottingham",
+        "stateId": "6269131",
+        "latitude": 52.96667,
+        "longitude": -1.15
+    },
+    {
+        "cityId": "3333179",
+        "name": "Borough of Oldham",
+        "stateId": "6269131",
+        "latitude": 53.55,
+        "longitude": -2.08333
+    },
+    {
+        "cityId": "3333180",
+        "name": "Peterborough",
+        "stateId": "6269131",
+        "latitude": 52.58333,
+        "longitude": -0.25
+    },
+    {
+        "cityId": "3333181",
+        "name": "Plymouth",
+        "stateId": "6269131",
+        "latitude": 50.38333,
+        "longitude": -4.13333
+    },
+    {
+        "cityId": "3333182",
+        "name": "Poole",
+        "stateId": "6269131",
+        "latitude": 50.73333,
+        "longitude": -1.96667
+    },
+    {
+        "cityId": "3333183",
+        "name": "Portsmouth",
+        "stateId": "6269131",
+        "latitude": 50.8,
+        "longitude": -1.06667
+    },
+    {
+        "cityId": "3333184",
+        "name": "Reading",
+        "stateId": "6269131",
+        "latitude": 51.45,
+        "longitude": -0.96667
+    },
+    {
+        "cityId": "3333186",
+        "name": "Redcar and Cleveland",
+        "stateId": "6269131",
+        "latitude": 54.55,
+        "longitude": -1
+    },
+    {
+        "cityId": "3333188",
+        "name": "Borough of Rochdale",
+        "stateId": "6269131",
+        "latitude": 53.58333,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "3333189",
+        "name": "Rotherham",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -1.25
+    },
+    {
+        "cityId": "3333190",
+        "name": "City and Borough of Salford",
+        "stateId": "6269131",
+        "latitude": 53.5,
+        "longitude": -2.33333
+    },
+    {
+        "cityId": "3333191",
+        "name": "Sandwell",
+        "stateId": "6269131",
+        "latitude": 52.5,
+        "longitude": -2
+    },
+    {
+        "cityId": "3333192",
+        "name": "Sefton",
+        "stateId": "6269131",
+        "latitude": 53.5,
+        "longitude": -3
+    },
+    {
+        "cityId": "3333193",
+        "name": "Sheffield",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "3333194",
+        "name": "Slough",
+        "stateId": "6269131",
+        "latitude": 51.5,
+        "longitude": -0.56667
+    },
+    {
+        "cityId": "3333195",
+        "name": "Solihull",
+        "stateId": "6269131",
+        "latitude": 52.41667,
+        "longitude": -1.75
+    },
+    {
+        "cityId": "3333196",
+        "name": "Southampton",
+        "stateId": "6269131",
+        "latitude": 50.91667,
+        "longitude": -1.38333
+    },
+    {
+        "cityId": "3333197",
+        "name": "Southend-on-Sea",
+        "stateId": "6269131",
+        "latitude": 51.53333,
+        "longitude": 0.7
+    },
+    {
+        "cityId": "3333198",
+        "name": "South Gloucestershire",
+        "stateId": "6269131",
+        "latitude": 51.5,
+        "longitude": -2.41667
+    },
+    {
+        "cityId": "3333199",
+        "name": "South Tyneside",
+        "stateId": "6269131",
+        "latitude": 54.95,
+        "longitude": -1.41667
+    },
+    {
+        "cityId": "3333201",
+        "name": "St. Helens",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.75
+    },
+    {
+        "cityId": "3333202",
+        "name": "Borough of Stockport",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "3333203",
+        "name": "Stockton-on-Tees",
+        "stateId": "6269131",
+        "latitude": 54.55,
+        "longitude": -1.33333
+    },
+    {
+        "cityId": "3333204",
+        "name": "Stoke-on-Trent",
+        "stateId": "6269131",
+        "latitude": 53,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "3333205",
+        "name": "Sunderland",
+        "stateId": "6269131",
+        "latitude": 54.88333,
+        "longitude": -1.41667
+    },
+    {
+        "cityId": "3333207",
+        "name": "Borough of Swindon",
+        "stateId": "6269131",
+        "latitude": 51.58333,
+        "longitude": -1.75
+    },
+    {
+        "cityId": "3333208",
+        "name": "Borough of Tameside",
+        "stateId": "6269131",
+        "latitude": 53.5,
+        "longitude": -2.08333
+    },
+    {
+        "cityId": "3333209",
+        "name": "Telford and Wrekin",
+        "stateId": "6269131",
+        "latitude": 52.75,
+        "longitude": -2.5
+    },
+    {
+        "cityId": "3333210",
+        "name": "Borough of Torbay",
+        "stateId": "6269131",
+        "latitude": 50.4516,
+        "longitude": -3.55785
+    },
+    {
+        "cityId": "3333211",
+        "name": "Trafford",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.33333
+    },
+    {
+        "cityId": "3333212",
+        "name": "City and Borough of Wakefield",
+        "stateId": "6269131",
+        "latitude": 53.68085,
+        "longitude": -1.49895
+    },
+    {
+        "cityId": "3333213",
+        "name": "Walsall",
+        "stateId": "6269131",
+        "latitude": 52.58333,
+        "longitude": -2
+    },
+    {
+        "cityId": "3333216",
+        "name": "Warrington",
+        "stateId": "6269131",
+        "latitude": 53.41667,
+        "longitude": -2.58333
+    },
+    {
+        "cityId": "3333217",
+        "name": "West Berkshire",
+        "stateId": "6269131",
+        "latitude": 51.41667,
+        "longitude": -1.25
+    },
+    {
+        "cityId": "3333219",
+        "name": "Borough of Wigan",
+        "stateId": "6269131",
+        "latitude": 53.5,
+        "longitude": -2.58333
+    },
+    {
+        "cityId": "3333220",
+        "name": "Metropolitan Borough of Wirral",
+        "stateId": "6269131",
+        "latitude": 53.33333,
+        "longitude": -3.08333
+    },
+    {
+        "cityId": "3333221",
+        "name": "Wokingham",
+        "stateId": "6269131",
+        "latitude": 51.41667,
+        "longitude": -0.91667
+    },
+    {
+        "cityId": "3333222",
+        "name": "Wolverhampton",
+        "stateId": "6269131",
+        "latitude": 52.58333,
+        "longitude": -2.11667
+    },
+    {
+        "cityId": "7290534",
+        "name": "Bedford",
+        "stateId": "6269131",
+        "latitude": 52.18831,
+        "longitude": -0.45316
+    },
+    {
+        "cityId": "7290535",
+        "name": "Central Bedfordshire",
+        "stateId": "6269131",
+        "latitude": 51.99755,
+        "longitude": -0.42148
+    },
+    {
+        "cityId": "7290536",
+        "name": "Cheshire East",
+        "stateId": "6269131",
+        "latitude": 53.16702,
+        "longitude": -2.36245
+    },
+    {
+        "cityId": "7290537",
+        "name": "Cheshire West and Chester",
+        "stateId": "6269131",
+        "latitude": 53.16352,
+        "longitude": -2.73595
+    }
+]

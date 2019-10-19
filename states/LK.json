@@ -1,0 +1,65 @@
+[
+    {
+        "stateId": "1249296",
+        "name": "Central Province",
+        "countryId": "1227603",
+        "latitude": 7.33333,
+        "longitude": 80.75
+    },
+    {
+        "stateId": "8133521",
+        "name": "Eastern Province",
+        "countryId": "1227603",
+        "latitude": 8.60614,
+        "longitude": 81.20201
+    },
+    {
+        "stateId": "1232870",
+        "name": "North Central Province",
+        "countryId": "1227603",
+        "latitude": 8.33333,
+        "longitude": 80.5
+    },
+    {
+        "stateId": "1232860",
+        "name": "North Western Province",
+        "countryId": "1227603",
+        "latitude": 7.75,
+        "longitude": 80.16667
+    },
+    {
+        "stateId": "7671049",
+        "name": "Northern Province",
+        "countryId": "1227603",
+        "latitude": 9.16667,
+        "longitude": 80.41667
+    },
+    {
+        "stateId": "1228435",
+        "name": "Province of Sabaragamuwa",
+        "countryId": "1227603",
+        "latitude": 6.75,
+        "longitude": 80.5
+    },
+    {
+        "stateId": "1225265",
+        "name": "Province of Uva",
+        "countryId": "1227603",
+        "latitude": 6.98472,
+        "longitude": 81.05639
+    },
+    {
+        "stateId": "1227618",
+        "name": "Southern Province",
+        "countryId": "1227603",
+        "latitude": 6.16667,
+        "longitude": 80.75
+    },
+    {
+        "stateId": "1223421",
+        "name": "Western Province",
+        "countryId": "1227603",
+        "latitude": 6.83333,
+        "longitude": 80.08333
+    }
+]

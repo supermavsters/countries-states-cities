@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7670605",
+        "name": "Mugamba",
+        "stateId": "423327",
+        "latitude": -3.67227,
+        "longitude": 29.58494
+    },
+    {
+        "cityId": "9157454",
+        "name": "Commune of Matana",
+        "stateId": "423327",
+        "latitude": -3.74306,
+        "longitude": 29.67056
+    },
+    {
+        "cityId": "9171804",
+        "name": "Bururi",
+        "stateId": "423327",
+        "latitude": -3.96327,
+        "longitude": 29.67386
+    },
+    {
+        "cityId": "9171811",
+        "name": "Vyanda",
+        "stateId": "423327",
+        "latitude": -4.06981,
+        "longitude": 29.59638
+    },
+    {
+        "cityId": "9171812",
+        "name": "Songa",
+        "stateId": "423327",
+        "latitude": -3.85336,
+        "longitude": 29.66759
+    },
+    {
+        "cityId": "9171840",
+        "name": "Rutovu",
+        "stateId": "423327",
+        "latitude": -3.87817,
+        "longitude": 29.83199
+    }
+]

@@ -1,0 +1,947 @@
+[
+    {
+        "cityId": "3427212",
+        "name": "Partido de Z\u00e1rate",
+        "stateId": "3435907",
+        "latitude": -34,
+        "longitude": -59.16667
+    },
+    {
+        "cityId": "3427504",
+        "name": "Partido de Vicente L\u00f3pez",
+        "stateId": "3435907",
+        "latitude": -34.52353,
+        "longitude": -58.47439
+    },
+    {
+        "cityId": "3427655",
+        "name": "Partido de Tres de Febrero",
+        "stateId": "3435907",
+        "latitude": -34.59987,
+        "longitude": -58.56606
+    },
+    {
+        "cityId": "3427709",
+        "name": "Partido de Tordillo",
+        "stateId": "3435907",
+        "latitude": -36.5,
+        "longitude": -57.25
+    },
+    {
+        "cityId": "3427753",
+        "name": "Partido de Tigre",
+        "stateId": "3435907",
+        "latitude": -34.42058,
+        "longitude": -58.58279
+    },
+    {
+        "cityId": "3427832",
+        "name": "Partido de Tandil",
+        "stateId": "3435907",
+        "latitude": -37.33333,
+        "longitude": -59.25
+    },
+    {
+        "cityId": "3427896",
+        "name": "Partido de Suipacha",
+        "stateId": "3435907",
+        "latitude": -34.75,
+        "longitude": -59.75
+    },
+    {
+        "cityId": "3428056",
+        "name": "Partido de San Vicente",
+        "stateId": "3435907",
+        "latitude": -35.08333,
+        "longitude": -58.5
+    },
+    {
+        "cityId": "3428533",
+        "name": "Partido de San Pedro",
+        "stateId": "3435907",
+        "latitude": -33.75,
+        "longitude": -59.75
+    },
+    {
+        "cityId": "3428983",
+        "name": "Partido de San Isidro",
+        "stateId": "3435907",
+        "latitude": -34.49009,
+        "longitude": -58.53028
+    },
+    {
+        "cityId": "3429088",
+        "name": "Partido de San Fernando",
+        "stateId": "3435907",
+        "latitude": -34.44542,
+        "longitude": -58.54202
+    },
+    {
+        "cityId": "3429168",
+        "name": "Partido de San Cayetano",
+        "stateId": "3435907",
+        "latitude": -38.41667,
+        "longitude": -59.66667
+    },
+    {
+        "cityId": "3429247",
+        "name": "San Antonio de Areco",
+        "stateId": "3435907",
+        "latitude": -34.24236,
+        "longitude": -59.46899
+    },
+    {
+        "cityId": "3429308",
+        "name": "Partido de San Andr\u00e9s de Giles",
+        "stateId": "3435907",
+        "latitude": -34.5,
+        "longitude": -59.5
+    },
+    {
+        "cityId": "3429389",
+        "name": "Partido de Saladillo",
+        "stateId": "3435907",
+        "latitude": -35.75,
+        "longitude": -59.66667
+    },
+    {
+        "cityId": "3429449",
+        "name": "Partido de Roque P\u00e9rez",
+        "stateId": "3435907",
+        "latitude": -35.44512,
+        "longitude": -59.41064
+    },
+    {
+        "cityId": "3429601",
+        "name": "Partido de Rauch",
+        "stateId": "3435907",
+        "latitude": -36.58333,
+        "longitude": -58.83333
+    },
+    {
+        "cityId": "3429651",
+        "name": "Partido de Quilmes",
+        "stateId": "3435907",
+        "latitude": -34.75,
+        "longitude": -58.25
+    },
+    {
+        "cityId": "3429979",
+        "name": "Partido de Pilar",
+        "stateId": "3435907",
+        "latitude": -34.41667,
+        "longitude": -58.83333
+    },
+    {
+        "cityId": "3429987",
+        "name": "Partido de Pila",
+        "stateId": "3435907",
+        "latitude": -36.25,
+        "longitude": -58.33333
+    },
+    {
+        "cityId": "3430442",
+        "name": "Partido de Necochea",
+        "stateId": "3435907",
+        "latitude": -38.25,
+        "longitude": -59.25
+    },
+    {
+        "cityId": "3430454",
+        "name": "Partido de Navarro",
+        "stateId": "3435907",
+        "latitude": -35,
+        "longitude": -59.5
+    },
+    {
+        "cityId": "3430544",
+        "name": "Partido de Mor\u00f3n",
+        "stateId": "3435907",
+        "latitude": -34.65139,
+        "longitude": -58.62194
+    },
+    {
+        "cityId": "3430550",
+        "name": "Partido de Moreno",
+        "stateId": "3435907",
+        "latitude": -34.6349,
+        "longitude": -58.79059
+    },
+    {
+        "cityId": "3430604",
+        "name": "Partido de Monte",
+        "stateId": "3435907",
+        "latitude": -35.5,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3430696",
+        "name": "Partido de Merlo",
+        "stateId": "3435907",
+        "latitude": -34.66583,
+        "longitude": -58.72828
+    },
+    {
+        "cityId": "3430705",
+        "name": "Partido de Mercedes",
+        "stateId": "3435907",
+        "latitude": -34.66667,
+        "longitude": -59.41667
+    },
+    {
+        "cityId": "3430786",
+        "name": "Partido de La Matanza",
+        "stateId": "3435907",
+        "latitude": -34.75,
+        "longitude": -58.58333
+    },
+    {
+        "cityId": "3430859",
+        "name": "Partido de Presidente Per\u00f3n",
+        "stateId": "3435907",
+        "latitude": -34.91778,
+        "longitude": -58.37917
+    },
+    {
+        "cityId": "3430860",
+        "name": "Partido de Pinamar",
+        "stateId": "3435907",
+        "latitude": -37.11028,
+        "longitude": -56.855
+    },
+    {
+        "cityId": "3430867",
+        "name": "Partido de Marcos Paz",
+        "stateId": "3435907",
+        "latitude": -34.83333,
+        "longitude": -58.83333
+    },
+    {
+        "cityId": "3430869",
+        "name": "Partido de Mar Chiquita",
+        "stateId": "3435907",
+        "latitude": -37.5,
+        "longitude": -57.75
+    },
+    {
+        "cityId": "3430945",
+        "name": "Partido de Maip\u00fa",
+        "stateId": "3435907",
+        "latitude": -36.83333,
+        "longitude": -57.5
+    },
+    {
+        "cityId": "3430951",
+        "name": "Partido de Magdalena",
+        "stateId": "3435907",
+        "latitude": -35.18487,
+        "longitude": -57.68628
+    },
+    {
+        "cityId": "3430982",
+        "name": "Partido de Luj\u00e1n",
+        "stateId": "3435907",
+        "latitude": -34.58333,
+        "longitude": -59.16667
+    },
+    {
+        "cityId": "3431270",
+        "name": "Partido de Lomas de Zamora",
+        "stateId": "3435907",
+        "latitude": -34.75,
+        "longitude": -58.41667
+    },
+    {
+        "cityId": "3431309",
+        "name": "Partido de Lobos",
+        "stateId": "3435907",
+        "latitude": -35.25,
+        "longitude": -59.16667
+    },
+    {
+        "cityId": "3431318",
+        "name": "Partido de Lober\u00eda",
+        "stateId": "3435907",
+        "latitude": -38.08333,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3431782",
+        "name": "Partido de Las Flores",
+        "stateId": "3435907",
+        "latitude": -36.08333,
+        "longitude": -59.08333
+    },
+    {
+        "cityId": "3432039",
+        "name": "Partido de La Plata",
+        "stateId": "3435907",
+        "latitude": -35,
+        "longitude": -58
+    },
+    {
+        "cityId": "3432134",
+        "name": "Partido de Lan\u00fas",
+        "stateId": "3435907",
+        "latitude": -34.66667,
+        "longitude": -58.41667
+    },
+    {
+        "cityId": "3433284",
+        "name": "Partido de Benito Ju\u00e1rez",
+        "stateId": "3435907",
+        "latitude": -37.5,
+        "longitude": -59.91667
+    },
+    {
+        "cityId": "3433328",
+        "name": "Partido de Jos\u00e9 C. Paz",
+        "stateId": "3435907",
+        "latitude": -34.5,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3433417",
+        "name": "Partido de Punta Indio",
+        "stateId": "3435907",
+        "latitude": -35.38722,
+        "longitude": -57.33833
+    },
+    {
+        "cityId": "3433778",
+        "name": "Partido de General San Mart\u00edn",
+        "stateId": "3435907",
+        "latitude": -34.5733,
+        "longitude": -58.54099
+    },
+    {
+        "cityId": "3433780",
+        "name": "Partido de General Rodr\u00edguez",
+        "stateId": "3435907",
+        "latitude": -34.66667,
+        "longitude": -59
+    },
+    {
+        "cityId": "3433782",
+        "name": "Partido de General Pueyrred\u00f3n",
+        "stateId": "3435907",
+        "latitude": -38,
+        "longitude": -57.75
+    },
+    {
+        "cityId": "3433785",
+        "name": "Partido de General Paz",
+        "stateId": "3435907",
+        "latitude": -35.5,
+        "longitude": -58.41667
+    },
+    {
+        "cityId": "3433794",
+        "name": "Partido de General Lavalle",
+        "stateId": "3435907",
+        "latitude": -36.66667,
+        "longitude": -57
+    },
+    {
+        "cityId": "3433798",
+        "name": "Partido de General Las Heras",
+        "stateId": "3435907",
+        "latitude": -34.83333,
+        "longitude": -59
+    },
+    {
+        "cityId": "3433800",
+        "name": "Partido de General Madariaga",
+        "stateId": "3435907",
+        "latitude": -37.25,
+        "longitude": -57.25
+    },
+    {
+        "cityId": "3433805",
+        "name": "Partido de General Guido",
+        "stateId": "3435907",
+        "latitude": -36.75,
+        "longitude": -58
+    },
+    {
+        "cityId": "3433816",
+        "name": "Partido de General Belgrano",
+        "stateId": "3435907",
+        "latitude": -35.8487,
+        "longitude": -58.67023
+    },
+    {
+        "cityId": "3433821",
+        "name": "Partido de General Alvarado",
+        "stateId": "3435907",
+        "latitude": -38.16667,
+        "longitude": -58.08333
+    },
+    {
+        "cityId": "3433922",
+        "name": "Partido de Florencio Varela",
+        "stateId": "3435907",
+        "latitude": -34.83333,
+        "longitude": -58.25
+    },
+    {
+        "cityId": "3433977",
+        "name": "Partido de Exaltaci\u00f3n de la Cruz",
+        "stateId": "3435907",
+        "latitude": -34.25,
+        "longitude": -59.25
+    },
+    {
+        "cityId": "3434003",
+        "name": "Partido de Esteban Echeverr\u00eda",
+        "stateId": "3435907",
+        "latitude": -34.81917,
+        "longitude": -58.46583
+    },
+    {
+        "cityId": "3434130",
+        "name": "Partido de Escobar",
+        "stateId": "3435907",
+        "latitude": -34.33333,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3434140",
+        "name": "Partido de Ensenada",
+        "stateId": "3435907",
+        "latitude": -34.85833,
+        "longitude": -57.91889
+    },
+    {
+        "cityId": "3435032",
+        "name": "Partido de Dolores",
+        "stateId": "3435907",
+        "latitude": -36.41667,
+        "longitude": -57.66667
+    },
+    {
+        "cityId": "3435406",
+        "name": "Partido de Chivilcoy",
+        "stateId": "3435907",
+        "latitude": -34.91667,
+        "longitude": -59.91667
+    },
+    {
+        "cityId": "3435446",
+        "name": "Partido de Chascom\u00fas",
+        "stateId": "3435907",
+        "latitude": -35.47745,
+        "longitude": -57.9776
+    },
+    {
+        "cityId": "3435603",
+        "name": "Partido de Castelli",
+        "stateId": "3435907",
+        "latitude": -36,
+        "longitude": -57.66667
+    },
+    {
+        "cityId": "3435643",
+        "name": "Partido de Carmen de Areco",
+        "stateId": "3435907",
+        "latitude": -34.33333,
+        "longitude": -59.83333
+    },
+    {
+        "cityId": "3435689",
+        "name": "Partido de Capit\u00e1n Sarmiento",
+        "stateId": "3435907",
+        "latitude": -34.16667,
+        "longitude": -59.83333
+    },
+    {
+        "cityId": "3435710",
+        "name": "Partido de Canuelas",
+        "stateId": "3435907",
+        "latitude": -35.08333,
+        "longitude": -58.75
+    },
+    {
+        "cityId": "3435809",
+        "name": "Partido de Campana",
+        "stateId": "3435907",
+        "latitude": -34.16667,
+        "longitude": -58.91667
+    },
+    {
+        "cityId": "3435962",
+        "name": "Partido de Brandsen",
+        "stateId": "3435907",
+        "latitude": -35.25,
+        "longitude": -58.16667
+    },
+    {
+        "cityId": "3436038",
+        "name": "Partido de Berisso",
+        "stateId": "3435907",
+        "latitude": -34.91667,
+        "longitude": -57.83333
+    },
+    {
+        "cityId": "3436042",
+        "name": "Partido de Berazategui",
+        "stateId": "3435907",
+        "latitude": -34.83333,
+        "longitude": -58.16667
+    },
+    {
+        "cityId": "3436101",
+        "name": "Partido de Arrecifes",
+        "stateId": "3435907",
+        "latitude": -34,
+        "longitude": -60
+    },
+    {
+        "cityId": "3436149",
+        "name": "Partido de Baradero",
+        "stateId": "3435907",
+        "latitude": -33.83333,
+        "longitude": -59.5
+    },
+    {
+        "cityId": "3436176",
+        "name": "Partido de Balcarce",
+        "stateId": "3435907",
+        "latitude": -37.75,
+        "longitude": -58.25
+    },
+    {
+        "cityId": "3436197",
+        "name": "Partido de Azul",
+        "stateId": "3435907",
+        "latitude": -36.75,
+        "longitude": -59.66667
+    },
+    {
+        "cityId": "3436219",
+        "name": "Partido de Ayacucho",
+        "stateId": "3435907",
+        "latitude": -37,
+        "longitude": -58.5
+    },
+    {
+        "cityId": "3436227",
+        "name": "Partido de Avellaneda",
+        "stateId": "3435907",
+        "latitude": -34.66667,
+        "longitude": -58.33333
+    },
+    {
+        "cityId": "3436394",
+        "name": "Partido de Almirante Brown",
+        "stateId": "3435907",
+        "latitude": -34.83333,
+        "longitude": -58.33333
+    },
+    {
+        "cityId": "3832640",
+        "name": "Partido de Villarino",
+        "stateId": "3435907",
+        "latitude": -39,
+        "longitude": -62.75
+    },
+    {
+        "cityId": "3833100",
+        "name": "Partido de Veinticinco de Mayo",
+        "stateId": "3435907",
+        "latitude": -35.5,
+        "longitude": -60.25
+    },
+    {
+        "cityId": "3833857",
+        "name": "Partido de Tres Arroyos",
+        "stateId": "3435907",
+        "latitude": -38.5,
+        "longitude": -60.25
+    },
+    {
+        "cityId": "3833874",
+        "name": "Partido de Trenque Lauquen",
+        "stateId": "3435907",
+        "latitude": -36,
+        "longitude": -62.66667
+    },
+    {
+        "cityId": "3834182",
+        "name": "Partido de Tornquist",
+        "stateId": "3435907",
+        "latitude": -38.25,
+        "longitude": -62.25
+    },
+    {
+        "cityId": "3834646",
+        "name": "Partido de Tapalqu\u00e9",
+        "stateId": "3435907",
+        "latitude": -36.33333,
+        "longitude": -60.08333
+    },
+    {
+        "cityId": "3836848",
+        "name": "Partido de San Nicol\u00e1s",
+        "stateId": "3435907",
+        "latitude": -33.5,
+        "longitude": -60.33333
+    },
+    {
+        "cityId": "3838222",
+        "name": "Partido de Salto",
+        "stateId": "3435907",
+        "latitude": -34.25,
+        "longitude": -60.25
+    },
+    {
+        "cityId": "3838240",
+        "name": "Partido de Salliquel\u00f3",
+        "stateId": "3435907",
+        "latitude": -36.66667,
+        "longitude": -63.08333
+    },
+    {
+        "cityId": "3838468",
+        "name": "Partido de Saavedra",
+        "stateId": "3435907",
+        "latitude": -37.75,
+        "longitude": -62.5
+    },
+    {
+        "cityId": "3838646",
+        "name": "Partido de Rojas",
+        "stateId": "3435907",
+        "latitude": -34.25,
+        "longitude": -60.75
+    },
+    {
+        "cityId": "3838745",
+        "name": "Partido de Rivadavia",
+        "stateId": "3435907",
+        "latitude": -35.5,
+        "longitude": -63
+    },
+    {
+        "cityId": "3839441",
+        "name": "Partido de Ramallo",
+        "stateId": "3435907",
+        "latitude": -33.5,
+        "longitude": -60.08333
+    },
+    {
+        "cityId": "3840251",
+        "name": "Partido de Puan",
+        "stateId": "3435907",
+        "latitude": -38.16667,
+        "longitude": -63
+    },
+    {
+        "cityId": "3841488",
+        "name": "Partido de Pergamino",
+        "stateId": "3435907",
+        "latitude": -33.75,
+        "longitude": -60.58333
+    },
+    {
+        "cityId": "3841610",
+        "name": "Partido de Pellegrini",
+        "stateId": "3435907",
+        "latitude": -36.2628,
+        "longitude": -63.11853
+    },
+    {
+        "cityId": "3841678",
+        "name": "Partido de Pehuaj\u00f3",
+        "stateId": "3435907",
+        "latitude": -35.91667,
+        "longitude": -61.75
+    },
+    {
+        "cityId": "3841799",
+        "name": "Partido de Patagones",
+        "stateId": "3435907",
+        "latitude": -40.25,
+        "longitude": -62.91667
+    },
+    {
+        "cityId": "3842669",
+        "name": "Partido de Olavarr\u00eda",
+        "stateId": "3435907",
+        "latitude": -36.75,
+        "longitude": -60.75
+    },
+    {
+        "cityId": "3842871",
+        "name": "Partido de Nueve de Julio",
+        "stateId": "3435907",
+        "latitude": -35.5,
+        "longitude": -61
+    },
+    {
+        "cityId": "3846861",
+        "name": "Partido de Lincoln",
+        "stateId": "3435907",
+        "latitude": -34.8684,
+        "longitude": -61.52962
+    },
+    {
+        "cityId": "3847097",
+        "name": "Partido de Leandro N. Alem",
+        "stateId": "3435907",
+        "latitude": -34.5,
+        "longitude": -61.5
+    },
+    {
+        "cityId": "3849298",
+        "name": "Partido de Laprida",
+        "stateId": "3435907",
+        "latitude": -37.5,
+        "longitude": -60.75
+    },
+    {
+        "cityId": "3853351",
+        "name": "Partido de Jun\u00edn",
+        "stateId": "3435907",
+        "latitude": -34.5,
+        "longitude": -61
+    },
+    {
+        "cityId": "3854283",
+        "name": "Partido de Hip\u00f3lito Yrigoyen",
+        "stateId": "3435907",
+        "latitude": -36.25,
+        "longitude": -61.66667
+    },
+    {
+        "cityId": "3854602",
+        "name": "Partido de Guamin\u00ed",
+        "stateId": "3435907",
+        "latitude": -36.75,
+        "longitude": -62.5
+    },
+    {
+        "cityId": "3854937",
+        "name": "Partido de Adolfo Gonz\u00e1lez Chaves",
+        "stateId": "3435907",
+        "latitude": -38,
+        "longitude": -60.25
+    },
+    {
+        "cityId": "3855039",
+        "name": "Partido de General Villegas",
+        "stateId": "3435907",
+        "latitude": -34.75,
+        "longitude": -63
+    },
+    {
+        "cityId": "3855042",
+        "name": "Partido de General Viamonte",
+        "stateId": "3435907",
+        "latitude": -35,
+        "longitude": -61
+    },
+    {
+        "cityId": "3855071",
+        "name": "Partido de General Pinto",
+        "stateId": "3435907",
+        "latitude": -34.71779,
+        "longitude": -62.00155
+    },
+    {
+        "cityId": "3855102",
+        "name": "Partido de General La Madrid",
+        "stateId": "3435907",
+        "latitude": -37.5,
+        "longitude": -61.25
+    },
+    {
+        "cityId": "3855132",
+        "name": "Partido de General Arenales",
+        "stateId": "3435907",
+        "latitude": -34.25,
+        "longitude": -61.25
+    },
+    {
+        "cityId": "3855135",
+        "name": "Partido de General Alvear",
+        "stateId": "3435907",
+        "latitude": -36,
+        "longitude": -60.08333
+    },
+    {
+        "cityId": "3860163",
+        "name": "Partido de Coronel Su\u00e1rez",
+        "stateId": "3435907",
+        "latitude": -37.5,
+        "longitude": -61.83333
+    },
+    {
+        "cityId": "3860172",
+        "name": "Partido de Coronel Pringles",
+        "stateId": "3435907",
+        "latitude": -38.25,
+        "longitude": -61.33333
+    },
+    {
+        "cityId": "3860198",
+        "name": "Partido de Coronel Dorrego",
+        "stateId": "3435907",
+        "latitude": -38.66667,
+        "longitude": -61.16667
+    },
+    {
+        "cityId": "3860201",
+        "name": "Partido de Coronel Rosales",
+        "stateId": "3435907",
+        "latitude": -38.83333,
+        "longitude": -61.83333
+    },
+    {
+        "cityId": "3860822",
+        "name": "Partido de Col\u00f3n",
+        "stateId": "3435907",
+        "latitude": -33.83333,
+        "longitude": -61
+    },
+    {
+        "cityId": "3861944",
+        "name": "Partido de Chacabuco",
+        "stateId": "3435907",
+        "latitude": -34.66667,
+        "longitude": -60.33333
+    },
+    {
+        "cityId": "3862356",
+        "name": "Partido de Daireaux",
+        "stateId": "3435907",
+        "latitude": -36.59806,
+        "longitude": -61.74306
+    },
+    {
+        "cityId": "3862599",
+        "name": "Partido de Carlos Tejedor",
+        "stateId": "3435907",
+        "latitude": -35.41667,
+        "longitude": -62.41667
+    },
+    {
+        "cityId": "3862606",
+        "name": "Partido de Carlos Casares",
+        "stateId": "3435907",
+        "latitude": -35.75,
+        "longitude": -61.25
+    },
+    {
+        "cityId": "3863881",
+        "name": "Partido de Bragado",
+        "stateId": "3435907",
+        "latitude": -35,
+        "longitude": -60.66667
+    },
+    {
+        "cityId": "3863998",
+        "name": "Partido de Bol\u00edvar",
+        "stateId": "3435907",
+        "latitude": -36.33333,
+        "longitude": -61.08333
+    },
+    {
+        "cityId": "3864881",
+        "name": "Partido de Monte Hermoso",
+        "stateId": "3435907",
+        "latitude": -38.97944,
+        "longitude": -61.29667
+    },
+    {
+        "cityId": "3865084",
+        "name": "Partido de Bah\u00eda Blanca",
+        "stateId": "3435907",
+        "latitude": -38.66667,
+        "longitude": -62.33333
+    },
+    {
+        "cityId": "3866414",
+        "name": "Partido de Alberti",
+        "stateId": "3435907",
+        "latitude": -35,
+        "longitude": -60.33333
+    },
+    {
+        "cityId": "3866926",
+        "name": "Partido de Adolfo Alsina",
+        "stateId": "3435907",
+        "latitude": -37.25,
+        "longitude": -63
+    },
+    {
+        "cityId": "7289234",
+        "name": "Partido de San Miguel",
+        "stateId": "3435907",
+        "latitude": -34.55209,
+        "longitude": -58.69171
+    },
+    {
+        "cityId": "8063197",
+        "name": "Partido de La Costa",
+        "stateId": "3435907",
+        "latitude": -36.57722,
+        "longitude": -56.6875
+    },
+    {
+        "cityId": "8063203",
+        "name": "Partido de Ezeiza",
+        "stateId": "3435907",
+        "latitude": -34.85417,
+        "longitude": -58.52472
+    },
+    {
+        "cityId": "8063213",
+        "name": "Partido de Florentino Ameghino",
+        "stateId": "3435907",
+        "latitude": -34.83889,
+        "longitude": -62.46722
+    },
+    {
+        "cityId": "8063217",
+        "name": "Partido de Hurlingham",
+        "stateId": "3435907",
+        "latitude": -34.58694,
+        "longitude": -58.62806
+    },
+    {
+        "cityId": "8063220",
+        "name": "Partido de Ituzaing\u00f3",
+        "stateId": "3435907",
+        "latitude": -34.66028,
+        "longitude": -58.66611
+    },
+    {
+        "cityId": "8063222",
+        "name": "Partido de Tres Lomas",
+        "stateId": "3435907",
+        "latitude": -36.45278,
+        "longitude": -62.8625
+    },
+    {
+        "cityId": "8063223",
+        "name": "Partido de Villa Gesell",
+        "stateId": "3435907",
+        "latitude": -37.26167,
+        "longitude": -56.9725
+    },
+    {
+        "cityId": "8715332",
+        "name": "Partido de Malvinas Argentinas",
+        "stateId": "3435907",
+        "latitude": -34.50771,
+        "longitude": -58.6956
+    },
+    {
+        "cityId": "8715333",
+        "name": "Partido de Lezama",
+        "stateId": "3435907",
+        "latitude": -35.88015,
+        "longitude": -57.89692
+    }
+]

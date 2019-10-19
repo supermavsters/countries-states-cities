@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2991879",
+        "name": "Morbihan",
+        "stateId": "3030293",
+        "latitude": 47.84765,
+        "longitude": -2.7776
+    },
+    {
+        "cityId": "3012849",
+        "name": "D\u00e9partement d'Ille-et-Vilaine",
+        "stateId": "3030293",
+        "latitude": 48.16667,
+        "longitude": -1.5
+    },
+    {
+        "cityId": "3018471",
+        "name": "D\u00e9partement du Finist\u00e8re",
+        "stateId": "3030293",
+        "latitude": 48.25224,
+        "longitude": -3.99263
+    },
+    {
+        "cityId": "3023414",
+        "name": "D\u00e9partement des C\u00f4tes-d\u2019Armor",
+        "stateId": "3030293",
+        "latitude": 48.34295,
+        "longitude": -2.78216
+    }
+]

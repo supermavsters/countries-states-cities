@@ -1,0 +1,324 @@
+[
+    {
+        "cityId": "2803461",
+        "name": "Landkreis Hildesheim",
+        "stateId": "2862926",
+        "latitude": 52.12667,
+        "longitude": 9.965
+    },
+    {
+        "cityId": "2817598",
+        "name": "Landkreis Verden",
+        "stateId": "2862926",
+        "latitude": 52.98139,
+        "longitude": 9.16778
+    },
+    {
+        "cityId": "2831482",
+        "name": "Landkreis Heidekreis",
+        "stateId": "2862926",
+        "latitude": 52.93778,
+        "longitude": 9.77083
+    },
+    {
+        "cityId": "2840133",
+        "name": "Landkreis Schaumburg",
+        "stateId": "2862926",
+        "latitude": 52.31528,
+        "longitude": 9.19972
+    },
+    {
+        "cityId": "2857455",
+        "name": "Landkreis Oldenburg",
+        "stateId": "2862926",
+        "latitude": 53.03722,
+        "longitude": 8.36
+    },
+    {
+        "cityId": "2862622",
+        "name": "Landkreis Nienburg\/Weser",
+        "stateId": "2862926",
+        "latitude": 52.65278,
+        "longitude": 9.16694
+    },
+    {
+        "cityId": "2910684",
+        "name": "Landkreis Harburg",
+        "stateId": "2862926",
+        "latitude": 53.32861,
+        "longitude": 9.96972
+    },
+    {
+        "cityId": "2920479",
+        "name": "Landkreis Gifhorn",
+        "stateId": "2862926",
+        "latitude": 52.59,
+        "longitude": 10.63056
+    },
+    {
+        "cityId": "2924362",
+        "name": "Landkreis Friesland",
+        "stateId": "2862926",
+        "latitude": 53.50028,
+        "longitude": 8.00639
+    },
+    {
+        "cityId": "2939657",
+        "name": "Landkreis Cuxhaven",
+        "stateId": "2862926",
+        "latitude": 53.60278,
+        "longitude": 8.84944
+    },
+    {
+        "cityId": "2940212",
+        "name": "Landkreis Celle",
+        "stateId": "2862926",
+        "latitude": 52.74722,
+        "longitude": 10.11611
+    },
+    {
+        "cityId": "3221011",
+        "name": "Kreisfreie Stadt Braunschweig",
+        "stateId": "2862926",
+        "latitude": 52.28528,
+        "longitude": 10.53528
+    },
+    {
+        "cityId": "3221012",
+        "name": "Landkreis Goslar",
+        "stateId": "2862926",
+        "latitude": 51.90972,
+        "longitude": 10.41806
+    },
+    {
+        "cityId": "3221013",
+        "name": "Landkreis G\u00f6ttingen",
+        "stateId": "2862926",
+        "latitude": 51.51083,
+        "longitude": 9.91361
+    },
+    {
+        "cityId": "3221014",
+        "name": "Landkreis Helmstedt",
+        "stateId": "2862926",
+        "latitude": 52.27806,
+        "longitude": 10.90833
+    },
+    {
+        "cityId": "3221015",
+        "name": "Landkreis Northeim",
+        "stateId": "2862926",
+        "latitude": 51.75361,
+        "longitude": 9.88083
+    },
+    {
+        "cityId": "3221016",
+        "name": "Landkreis Osterode am Harz",
+        "stateId": "2862926",
+        "latitude": 51.67444,
+        "longitude": 10.38028
+    },
+    {
+        "cityId": "3221017",
+        "name": "Landkreis Peine",
+        "stateId": "2862926",
+        "latitude": 52.31722,
+        "longitude": 10.26111
+    },
+    {
+        "cityId": "3221018",
+        "name": "Kreisfreie Stadt Salzgitter",
+        "stateId": "2862926",
+        "latitude": 52.14139,
+        "longitude": 10.38306
+    },
+    {
+        "cityId": "3221020",
+        "name": "Landkreis Wolfenb\u00fcttel",
+        "stateId": "2862926",
+        "latitude": 52.155,
+        "longitude": 10.6625
+    },
+    {
+        "cityId": "3221023",
+        "name": "Kreisfreie Stadt Wolfsburg",
+        "stateId": "2862926",
+        "latitude": 52.42944,
+        "longitude": 10.79528
+    },
+    {
+        "cityId": "3221024",
+        "name": "Landkreis Diepholz",
+        "stateId": "2862926",
+        "latitude": 52.74917,
+        "longitude": 8.73417
+    },
+    {
+        "cityId": "3221027",
+        "name": "Landkreis Hameln-Pyrmont",
+        "stateId": "2862926",
+        "latitude": 52.11111,
+        "longitude": 9.40111
+    },
+    {
+        "cityId": "3221033",
+        "name": "Region Hannover",
+        "stateId": "2862926",
+        "latitude": 52.44889,
+        "longitude": 9.74
+    },
+    {
+        "cityId": "3221036",
+        "name": "Landkreis Holzminden",
+        "stateId": "2862926",
+        "latitude": 51.89833,
+        "longitude": 9.58167
+    },
+    {
+        "cityId": "3221038",
+        "name": "Landkreis L\u00fcchow-Dannenberg",
+        "stateId": "2862926",
+        "latitude": 53.03222,
+        "longitude": 11.14611
+    },
+    {
+        "cityId": "3221040",
+        "name": "Landkreis L\u00fcneburg",
+        "stateId": "2862926",
+        "latitude": 53.29389,
+        "longitude": 10.56611
+    },
+    {
+        "cityId": "3221042",
+        "name": "Landkreis Osterholz",
+        "stateId": "2862926",
+        "latitude": 53.26389,
+        "longitude": 8.82389
+    },
+    {
+        "cityId": "3221044",
+        "name": "Rotenburg (W\u00fcmme)",
+        "stateId": "2862926",
+        "latitude": 53.26222,
+        "longitude": 9.32611
+    },
+    {
+        "cityId": "3221046",
+        "name": "Landkreis Stade",
+        "stateId": "2862926",
+        "latitude": 53.60861,
+        "longitude": 9.40611
+    },
+    {
+        "cityId": "3221049",
+        "name": "Landkreis Uelzen",
+        "stateId": "2862926",
+        "latitude": 52.99917,
+        "longitude": 10.55222
+    },
+    {
+        "cityId": "3221058",
+        "name": "Landkreis Ammerland",
+        "stateId": "2862926",
+        "latitude": 53.2325,
+        "longitude": 8.02167
+    },
+    {
+        "cityId": "3221059",
+        "name": "Landkreis Aurich",
+        "stateId": "2862926",
+        "latitude": 53.49222,
+        "longitude": 7.31389
+    },
+    {
+        "cityId": "3221064",
+        "name": "Landkreis Cloppenburg",
+        "stateId": "2862926",
+        "latitude": 52.90861,
+        "longitude": 7.98639
+    },
+    {
+        "cityId": "3221066",
+        "name": "Kreisfreie Stadt Delmenhorst",
+        "stateId": "2862926",
+        "latitude": 53.065,
+        "longitude": 8.66528
+    },
+    {
+        "cityId": "3221070",
+        "name": "Kreisfreie Stadt Emden",
+        "stateId": "2862926",
+        "latitude": 53.3625,
+        "longitude": 7.18361
+    },
+    {
+        "cityId": "3221073",
+        "name": "Landkreis Emsland",
+        "stateId": "2862926",
+        "latitude": 52.74611,
+        "longitude": 7.39583
+    },
+    {
+        "cityId": "3221075",
+        "name": "Landkreis Grafschaft Bentheim",
+        "stateId": "2862926",
+        "latitude": 52.51917,
+        "longitude": 7.06778
+    },
+    {
+        "cityId": "3221094",
+        "name": "Landkreis Leer",
+        "stateId": "2862926",
+        "latitude": 53.24694,
+        "longitude": 7.47111
+    },
+    {
+        "cityId": "3221095",
+        "name": "Kreisfreie Stadt Oldenburg",
+        "stateId": "2862926",
+        "latitude": 53.155,
+        "longitude": 8.23528
+    },
+    {
+        "cityId": "3221096",
+        "name": "Kreisfreie Stadt Osnabr\u00fcck",
+        "stateId": "2862926",
+        "latitude": 52.28972,
+        "longitude": 8.04944
+    },
+    {
+        "cityId": "3221097",
+        "name": "Landkreis Vechta",
+        "stateId": "2862926",
+        "latitude": 52.6875,
+        "longitude": 8.2
+    },
+    {
+        "cityId": "3221098",
+        "name": "Landkreis Osnabr\u00fcck",
+        "stateId": "2862926",
+        "latitude": 52.4125,
+        "longitude": 8.04722
+    },
+    {
+        "cityId": "3221099",
+        "name": "Landkreis Wesermarsch",
+        "stateId": "2862926",
+        "latitude": 53.35,
+        "longitude": 8.34944
+    },
+    {
+        "cityId": "3221100",
+        "name": "Kreisfreie Stadt Wilhelmshaven",
+        "stateId": "2862926",
+        "latitude": 53.57028,
+        "longitude": 8.08417
+    },
+    {
+        "cityId": "3221101",
+        "name": "Landkreis Wittmund",
+        "stateId": "2862926",
+        "latitude": 53.59611,
+        "longitude": 7.68611
+    }
+]

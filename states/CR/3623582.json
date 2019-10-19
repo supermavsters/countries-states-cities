@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3621277",
+        "name": "Tilar\u00e1n",
+        "stateId": "3623582",
+        "latitude": 10.45878,
+        "longitude": -84.97513
+    },
+    {
+        "cityId": "3621604",
+        "name": "Santa Cruz",
+        "stateId": "3623582",
+        "latitude": 10.25,
+        "longitude": -85.66667
+    },
+    {
+        "cityId": "3622715",
+        "name": "Nicoya",
+        "stateId": "3623582",
+        "latitude": 10.08333,
+        "longitude": -85.5
+    },
+    {
+        "cityId": "3622764",
+        "name": "Nandayure",
+        "stateId": "3623582",
+        "latitude": 9.91667,
+        "longitude": -85.28333
+    },
+    {
+        "cityId": "3623075",
+        "name": "Liberia",
+        "stateId": "3623582",
+        "latitude": 10.75,
+        "longitude": -85.5
+    },
+    {
+        "cityId": "3623257",
+        "name": "La Cruz",
+        "stateId": "3623582",
+        "latitude": 11,
+        "longitude": -85.58333
+    },
+    {
+        "cityId": "3623453",
+        "name": "Hojancha",
+        "stateId": "3623582",
+        "latitude": 9.96667,
+        "longitude": -85.41667
+    },
+    {
+        "cityId": "3624381",
+        "name": "Carrillo",
+        "stateId": "3623582",
+        "latitude": 10.41667,
+        "longitude": -85.58333
+    },
+    {
+        "cityId": "3624467",
+        "name": "Ca\u00f1as",
+        "stateId": "3623582",
+        "latitude": 10.48005,
+        "longitude": -85.11349
+    },
+    {
+        "cityId": "3624821",
+        "name": "Bagaces",
+        "stateId": "3623582",
+        "latitude": 10.5,
+        "longitude": -85.25
+    },
+    {
+        "cityId": "3625024",
+        "name": "Abangares",
+        "stateId": "3623582",
+        "latitude": 10.21667,
+        "longitude": -85
+    }
+]

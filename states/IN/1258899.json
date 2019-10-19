@@ -1,0 +1,233 @@
+[
+    {
+        "cityId": "1253989",
+        "name": "Udaipur",
+        "stateId": "1258899",
+        "latitude": 24.33,
+        "longitude": 73.77
+    },
+    {
+        "cityId": "1254242",
+        "name": "Tonk",
+        "stateId": "1258899",
+        "latitude": 26.16667,
+        "longitude": 75.58333
+    },
+    {
+        "cityId": "1256068",
+        "name": "Sirohi",
+        "stateId": "1258899",
+        "latitude": 24.83333,
+        "longitude": 72.75
+    },
+    {
+        "cityId": "1256321",
+        "name": "S\u012bkar",
+        "stateId": "1258899",
+        "latitude": 27.58333,
+        "longitude": 75.16667
+    },
+    {
+        "cityId": "1256950",
+        "name": "Saw\u0101i M\u0101dhopur",
+        "stateId": "1258899",
+        "latitude": 26.18,
+        "longitude": 76.4
+    },
+    {
+        "cityId": "1260724",
+        "name": "P\u0101li",
+        "stateId": "1258899",
+        "latitude": 25.75,
+        "longitude": 73.5
+    },
+    {
+        "cityId": "1262217",
+        "name": "N\u0101gaur",
+        "stateId": "1258899",
+        "latitude": 27,
+        "longitude": 74.25
+    },
+    {
+        "cityId": "1266054",
+        "name": "Kota",
+        "stateId": "1258899",
+        "latitude": 25.17512,
+        "longitude": 75.84412
+    },
+    {
+        "cityId": "1268867",
+        "name": "Jodhpur",
+        "stateId": "1258899",
+        "latitude": 26.75,
+        "longitude": 72.75
+    },
+    {
+        "cityId": "1268937",
+        "name": "Jhunjhun\u016bn",
+        "stateId": "1258899",
+        "latitude": 28,
+        "longitude": 75.5
+    },
+    {
+        "cityId": "1269028",
+        "name": "Jh\u0101l\u0101w\u0101r",
+        "stateId": "1258899",
+        "latitude": 24.41667,
+        "longitude": 76.25
+    },
+    {
+        "cityId": "1269393",
+        "name": "Jalore",
+        "stateId": "1258899",
+        "latitude": 25.08,
+        "longitude": 72.29
+    },
+    {
+        "cityId": "1269508",
+        "name": "Jaisalmer",
+        "stateId": "1258899",
+        "latitude": 26.99382,
+        "longitude": 71.00889
+    },
+    {
+        "cityId": "1269519",
+        "name": "Jaipur",
+        "stateId": "1258899",
+        "latitude": 27,
+        "longitude": 76
+    },
+    {
+        "cityId": "1271686",
+        "name": "Gang\u0101nagar",
+        "stateId": "1258899",
+        "latitude": 29.49,
+        "longitude": 73.61
+    },
+    {
+        "cityId": "1272203",
+        "name": "D\u016bngarpur",
+        "stateId": "1258899",
+        "latitude": 23.75,
+        "longitude": 73.85
+    },
+    {
+        "cityId": "1273894",
+        "name": "Ch\u016bru",
+        "stateId": "1258899",
+        "latitude": 28.5,
+        "longitude": 74.5
+    },
+    {
+        "cityId": "1274041",
+        "name": "Chittaurgarh",
+        "stateId": "1258899",
+        "latitude": 24.5,
+        "longitude": 74.5
+    },
+    {
+        "cityId": "1275104",
+        "name": "B\u016bndi",
+        "stateId": "1258899",
+        "latitude": 25.5,
+        "longitude": 75.83333
+    },
+    {
+        "cityId": "1275666",
+        "name": "B\u012bk\u0101ner",
+        "stateId": "1258899",
+        "latitude": 28.16667,
+        "longitude": 73.16667
+    },
+    {
+        "cityId": "1275961",
+        "name": "Bh\u012blw\u0101ra",
+        "stateId": "1258899",
+        "latitude": 25.5,
+        "longitude": 74.75
+    },
+    {
+        "cityId": "1276130",
+        "name": "Bharatpur",
+        "stateId": "1258899",
+        "latitude": 27.21,
+        "longitude": 77.29
+    },
+    {
+        "cityId": "1276902",
+        "name": "B\u0101rmer",
+        "stateId": "1258899",
+        "latitude": 25.75,
+        "longitude": 71.5
+    },
+    {
+        "cityId": "1277215",
+        "name": "B\u0101nsw\u0101ra",
+        "stateId": "1258899",
+        "latitude": 23.5,
+        "longitude": 74.33333
+    },
+    {
+        "cityId": "1278947",
+        "name": "Alwar",
+        "stateId": "1258899",
+        "latitude": 27.5,
+        "longitude": 76.5
+    },
+    {
+        "cityId": "1279160",
+        "name": "Ajmer",
+        "stateId": "1258899",
+        "latitude": 26.25,
+        "longitude": 74.66667
+    },
+    {
+        "cityId": "7701203",
+        "name": "Dausa",
+        "stateId": "1258899",
+        "latitude": 26.88269,
+        "longitude": 76.57053
+    },
+    {
+        "cityId": "7701204",
+        "name": "Dhaulpur",
+        "stateId": "1258899",
+        "latitude": 26.71183,
+        "longitude": 77.73956
+    },
+    {
+        "cityId": "7701209",
+        "name": "Karauli",
+        "stateId": "1258899",
+        "latitude": 26.58,
+        "longitude": 77.1
+    },
+    {
+        "cityId": "7701212",
+        "name": "Baran",
+        "stateId": "1258899",
+        "latitude": 25.09,
+        "longitude": 76.66
+    },
+    {
+        "cityId": "7701213",
+        "name": "Rajsamand",
+        "stateId": "1258899",
+        "latitude": 25.23822,
+        "longitude": 73.93503
+    },
+    {
+        "cityId": "7729742",
+        "name": "Hanumangarh",
+        "stateId": "1258899",
+        "latitude": 29.11,
+        "longitude": 74.6
+    },
+    {
+        "cityId": "8224619",
+        "name": "Pratapgarh",
+        "stateId": "1258899",
+        "latitude": 24.03,
+        "longitude": 74.78
+    }
+]

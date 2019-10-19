@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3333223",
+        "name": "City of Belfast",
+        "stateId": "2641364",
+        "latitude": 54.58333,
+        "longitude": -5.91667
+    },
+    {
+        "cityId": "11353068",
+        "name": "Mid Ulster",
+        "stateId": "2641364",
+        "latitude": 54.6219,
+        "longitude": -6.79097
+    },
+    {
+        "cityId": "11353069",
+        "name": "Antrim and Newtownabbey",
+        "stateId": "2641364",
+        "latitude": 54.70177,
+        "longitude": -6.1977
+    },
+    {
+        "cityId": "11353070",
+        "name": "Causeway Coast and Glens",
+        "stateId": "2641364",
+        "latitude": 55.06014,
+        "longitude": -6.59081
+    },
+    {
+        "cityId": "11353071",
+        "name": "Fermanagh and Omagh",
+        "stateId": "2641364",
+        "latitude": 54.44257,
+        "longitude": -7.50299
+    },
+    {
+        "cityId": "11353072",
+        "name": "Lisburn and Castlereagh",
+        "stateId": "2641364",
+        "latitude": 54.50824,
+        "longitude": -6.05246
+    },
+    {
+        "cityId": "11353073",
+        "name": "Derry City and Strabane",
+        "stateId": "2641364",
+        "latitude": 54.82045,
+        "longitude": -7.35958
+    },
+    {
+        "cityId": "11353074",
+        "name": "Ards and North Down",
+        "stateId": "2641364",
+        "latitude": 54.53439,
+        "longitude": -5.62947
+    },
+    {
+        "cityId": "11353076",
+        "name": "Armagh City Banbridge and Craigavon",
+        "stateId": "2641364",
+        "latitude": 54.36922,
+        "longitude": -6.45651
+    },
+    {
+        "cityId": "11353077",
+        "name": "Newry Mourne and Down",
+        "stateId": "2641364",
+        "latitude": 54.23616,
+        "longitude": -6.06687
+    },
+    {
+        "cityId": "11353078",
+        "name": "Mid and East Antrim",
+        "stateId": "2641364",
+        "latitude": 54.87436,
+        "longitude": -6.10141
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "cityId": "1489868",
+        "name": "Tayshetskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 56,
+        "longitude": 98
+    },
+    {
+        "cityId": "1497548",
+        "name": "Nizhneudinskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 54.33333,
+        "longitude": 98.5
+    },
+    {
+        "cityId": "1507634",
+        "name": "Chunskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 56.66667,
+        "longitude": 99.5
+    },
+    {
+        "cityId": "2012482",
+        "name": "Ziminskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 55.83333,
+        "longitude": 101.66667
+    },
+    {
+        "cityId": "2012531",
+        "name": "Zhigalovskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 55,
+        "longitude": 105.5
+    },
+    {
+        "cityId": "2012700",
+        "name": "Zalarinskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.16667,
+        "longitude": 101.5
+    },
+    {
+        "cityId": "2013864",
+        "name": "Ust\u2019-Udinskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 55,
+        "longitude": 103.66667
+    },
+    {
+        "cityId": "2013922",
+        "name": "Ust\u2019-Kutskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 57,
+        "longitude": 106
+    },
+    {
+        "cityId": "2013951",
+        "name": "Ust\u2019-Ilimskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 58,
+        "longitude": 102.5
+    },
+    {
+        "cityId": "2014025",
+        "name": "Usol\u2019skiy Rayon",
+        "stateId": "2023468",
+        "latitude": 52.5,
+        "longitude": 103.25
+    },
+    {
+        "cityId": "2014922",
+        "name": "Tulunskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 54.16667,
+        "longitude": 100.33333
+    },
+    {
+        "cityId": "2016415",
+        "name": "Slyudyanskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 51.5,
+        "longitude": 104
+    },
+    {
+        "cityId": "2018281",
+        "name": "Osinskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.58333,
+        "longitude": 104
+    },
+    {
+        "cityId": "2018527",
+        "name": "Ol\u2019khonskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53,
+        "longitude": 106.5
+    },
+    {
+        "cityId": "2018795",
+        "name": "Nukutskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.75,
+        "longitude": 102.83333
+    },
+    {
+        "cityId": "2019196",
+        "name": "Nizhneilimskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 57,
+        "longitude": 103.5
+    },
+    {
+        "cityId": "2020302",
+        "name": "Mamsko-Chuyskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 58,
+        "longitude": 112.5
+    },
+    {
+        "cityId": "2021089",
+        "name": "Kuytunskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 54.5,
+        "longitude": 101.66667
+    },
+    {
+        "cityId": "2022082",
+        "name": "Kirenskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 58,
+        "longitude": 109.25
+    },
+    {
+        "cityId": "2023030",
+        "name": "Kazachinsko-Lenskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 56,
+        "longitude": 108
+    },
+    {
+        "cityId": "2023075",
+        "name": "Katangskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 61,
+        "longitude": 108
+    },
+    {
+        "cityId": "2023332",
+        "name": "Kachugskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 54,
+        "longitude": 106.5
+    },
+    {
+        "cityId": "2023464",
+        "name": "Irkutskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 52.33333,
+        "longitude": 104.66667
+    },
+    {
+        "cityId": "2024464",
+        "name": "Ekhirit-Bulagatskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53,
+        "longitude": 104.83333
+    },
+    {
+        "cityId": "2025526",
+        "name": "Cheremkhovskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 52.66667,
+        "longitude": 102.33333
+    },
+    {
+        "cityId": "2026092",
+        "name": "Bratskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 56,
+        "longitude": 102
+    },
+    {
+        "cityId": "2026543",
+        "name": "Bokhanskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.16667,
+        "longitude": 104
+    },
+    {
+        "cityId": "2026584",
+        "name": "Bodaybinskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 58.5,
+        "longitude": 116
+    },
+    {
+        "cityId": "2027003",
+        "name": "Bayandayevskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.08333,
+        "longitude": 105.58333
+    },
+    {
+        "cityId": "2027984",
+        "name": "Alarskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 53.33333,
+        "longitude": 103
+    },
+    {
+        "cityId": "2050918",
+        "name": "Angarskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 52.33333,
+        "longitude": 103.66667
+    },
+    {
+        "cityId": "2050919",
+        "name": "Balaganskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 54.66667,
+        "longitude": 102.83333
+    },
+    {
+        "cityId": "2050920",
+        "name": "Shelekhovskiy Rayon",
+        "stateId": "2023468",
+        "latitude": 52,
+        "longitude": 103.83333
+    },
+    {
+        "cityId": "11749372",
+        "name": "Bratsk Urban Okrug",
+        "stateId": "2023468",
+        "latitude": 56.12489,
+        "longitude": 101.62697
+    }
+]

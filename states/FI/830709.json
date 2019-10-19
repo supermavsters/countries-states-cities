@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9610677",
+        "name": "Helsinki",
+        "stateId": "830709",
+        "latitude": 60.3694,
+        "longitude": 24.60851
+    },
+    {
+        "cityId": "9610695",
+        "name": "Raaseporin",
+        "stateId": "830709",
+        "latitude": 60.00273,
+        "longitude": 23.55499
+    },
+    {
+        "cityId": "9610696",
+        "name": "Porvoo",
+        "stateId": "830709",
+        "latitude": 60.43829,
+        "longitude": 25.69312
+    },
+    {
+        "cityId": "9610697",
+        "name": "Loviisa",
+        "stateId": "830709",
+        "latitude": 60.49076,
+        "longitude": 26.19313
+    }
+]

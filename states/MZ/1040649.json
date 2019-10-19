@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "1039852",
+        "name": "Concelho de Matola",
+        "stateId": "1040649",
+        "latitude": -25.83472,
+        "longitude": 32.49516
+    },
+    {
+        "cityId": "1090080",
+        "name": "Manhica",
+        "stateId": "1040649",
+        "latitude": -25.39417,
+        "longitude": 32.83389
+    },
+    {
+        "cityId": "7670756",
+        "name": "Matutiune District",
+        "stateId": "1040649",
+        "latitude": -26.43418,
+        "longitude": 32.5882
+    },
+    {
+        "cityId": "7701205",
+        "name": "Aeroporto",
+        "stateId": "1040649",
+        "latitude": -25.90857,
+        "longitude": 32.58043
+    },
+    {
+        "cityId": "7701206",
+        "name": "Distrito Municipal 1",
+        "stateId": "1040649",
+        "latitude": -26.03715,
+        "longitude": 32.52295
+    },
+    {
+        "cityId": "7701207",
+        "name": "Distrito Municipal 2",
+        "stateId": "1040649",
+        "latitude": -25.94356,
+        "longitude": 32.55676
+    },
+    {
+        "cityId": "7701208",
+        "name": "Distrito Municipal 3",
+        "stateId": "1040649",
+        "latitude": -25.94026,
+        "longitude": 32.5957
+    },
+    {
+        "cityId": "7701210",
+        "name": "Distrito Municipal 4",
+        "stateId": "1040649",
+        "latitude": -25.88537,
+        "longitude": 32.63625
+    },
+    {
+        "cityId": "7701211",
+        "name": "Distrito Municipal 5",
+        "stateId": "1040649",
+        "latitude": -25.88958,
+        "longitude": 32.56346
+    },
+    {
+        "cityId": "7873976",
+        "name": "Magude District",
+        "stateId": "1040649",
+        "latitude": -25.02389,
+        "longitude": 32.6515
+    },
+    {
+        "cityId": "7873980",
+        "name": "Moamba District",
+        "stateId": "1040649",
+        "latitude": -25.60934,
+        "longitude": 32.24321
+    },
+    {
+        "cityId": "7873983",
+        "name": "Boane District",
+        "stateId": "1040649",
+        "latitude": -26.029,
+        "longitude": 32.389
+    },
+    {
+        "cityId": "8301113",
+        "name": "Namaacha District",
+        "stateId": "1040649",
+        "latitude": -26.109,
+        "longitude": 32.18
+    },
+    {
+        "cityId": "8693192",
+        "name": "Marracuene District",
+        "stateId": "1040649",
+        "latitude": -25.73938,
+        "longitude": 32.67436
+    }
+]

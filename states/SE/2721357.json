@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2675364",
+        "name": "S\u00f6lvesborgs kommun",
+        "stateId": "2721357",
+        "latitude": 56.0891,
+        "longitude": 14.64518
+    },
+    {
+        "cityId": "2681821",
+        "name": "Ronneby Kommun",
+        "stateId": "2721357",
+        "latitude": 56.31031,
+        "longitude": 15.24038
+    },
+    {
+        "cityId": "2687061",
+        "name": "Olofstr\u00f6ms Kommun",
+        "stateId": "2721357",
+        "latitude": 56.32305,
+        "longitude": 14.56561
+    },
+    {
+        "cityId": "2701712",
+        "name": "Karlskrona Kommun",
+        "stateId": "2721357",
+        "latitude": 56.28167,
+        "longitude": 15.66848
+    },
+    {
+        "cityId": "2701725",
+        "name": "Karlshamns kommun",
+        "stateId": "2721357",
+        "latitude": 56.25,
+        "longitude": 14.86667
+    }
+]

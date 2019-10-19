@@ -1,0 +1,597 @@
+[
+    {
+        "stateId": "7056266",
+        "name": "Aerodrom",
+        "countryId": "718075",
+        "latitude": 41.98806,
+        "longitude": 21.45944
+    },
+    {
+        "stateId": "863485",
+        "name": "Berovo",
+        "countryId": "718075",
+        "latitude": 41.7097,
+        "longitude": 22.84796
+    },
+    {
+        "stateId": "863486",
+        "name": "Bitola",
+        "countryId": "718075",
+        "latitude": 41.01667,
+        "longitude": 21.31667
+    },
+    {
+        "stateId": "862950",
+        "name": "Bogdanci",
+        "countryId": "718075",
+        "latitude": 41.2,
+        "longitude": 22.6
+    },
+    {
+        "stateId": "863834",
+        "name": "Bogovinje",
+        "countryId": "718075",
+        "latitude": 41.95028,
+        "longitude": 20.88222
+    },
+    {
+        "stateId": "862946",
+        "name": "Bosilovo",
+        "countryId": "718075",
+        "latitude": 41.46667,
+        "longitude": 22.78333
+    },
+    {
+        "stateId": "863835",
+        "name": "Brvenica",
+        "countryId": "718075",
+        "latitude": 41.88333,
+        "longitude": 21.03333
+    },
+    {
+        "stateId": "7056269",
+        "name": "Butel",
+        "countryId": "718075",
+        "latitude": 42.08194,
+        "longitude": 21.46889
+    },
+    {
+        "stateId": "863843",
+        "name": "Debar",
+        "countryId": "718075",
+        "latitude": 41.5325,
+        "longitude": 20.58444
+    },
+    {
+        "stateId": "7056271",
+        "name": "Debarca",
+        "countryId": "718075",
+        "latitude": 41.33417,
+        "longitude": 20.82222
+    },
+    {
+        "stateId": "863846",
+        "name": "Demir Hisar",
+        "countryId": "718075",
+        "latitude": 41.28083,
+        "longitude": 21.14389
+    },
+    {
+        "stateId": "862961",
+        "name": "Demir Kapija",
+        "countryId": "718075",
+        "latitude": 41.38333,
+        "longitude": 22.25
+    },
+    {
+        "stateId": "863849",
+        "name": "Dolneni",
+        "countryId": "718075",
+        "latitude": 41.48333,
+        "longitude": 21.43333
+    },
+    {
+        "stateId": "863851",
+        "name": "Drugovo",
+        "countryId": "718075",
+        "latitude": 41.46667,
+        "longitude": 20.91667
+    },
+    {
+        "stateId": "863853",
+        "name": "Gazi Baba",
+        "countryId": "718075",
+        "latitude": 42.05,
+        "longitude": 21.51667
+    },
+    {
+        "stateId": "863854",
+        "name": "Gevgelija",
+        "countryId": "718075",
+        "latitude": 41.2,
+        "longitude": 22.4
+    },
+    {
+        "stateId": "863855",
+        "name": "Gostivar",
+        "countryId": "718075",
+        "latitude": 41.79306,
+        "longitude": 20.83222
+    },
+    {
+        "stateId": "11398357",
+        "name": "Grad Skopje",
+        "countryId": "718075",
+        "latitude": 42.005,
+        "longitude": 21.42889
+    },
+    {
+        "stateId": "862974",
+        "name": "Gradsko",
+        "countryId": "718075",
+        "latitude": 41.6,
+        "longitude": 21.91667
+    },
+    {
+        "stateId": "863856",
+        "name": "Ilinden",
+        "countryId": "718075",
+        "latitude": 42,
+        "longitude": 21.63333
+    },
+    {
+        "stateId": "863858",
+        "name": "Jegunovce",
+        "countryId": "718075",
+        "latitude": 42.11306,
+        "longitude": 21.14528
+    },
+    {
+        "stateId": "862960",
+        "name": "Karbinci",
+        "countryId": "718075",
+        "latitude": 41.8,
+        "longitude": 22.28333
+    },
+    {
+        "stateId": "863861",
+        "name": "Kavadarci",
+        "countryId": "718075",
+        "latitude": 41.285,
+        "longitude": 22.00139
+    },
+    {
+        "stateId": "863863",
+        "name": "Kisela Voda",
+        "countryId": "718075",
+        "latitude": 41.95,
+        "longitude": 21.51667
+    },
+    {
+        "stateId": "789090",
+        "name": "Kratovo",
+        "countryId": "718075",
+        "latitude": 42.08333,
+        "longitude": 22.16667
+    },
+    {
+        "stateId": "863869",
+        "name": "Kriva Palanka",
+        "countryId": "718075",
+        "latitude": 42.25,
+        "longitude": 22.33333
+    },
+    {
+        "stateId": "863873",
+        "name": "Kumanovo",
+        "countryId": "718075",
+        "latitude": 42.08944,
+        "longitude": 21.77278
+    },
+    {
+        "stateId": "862975",
+        "name": "Lozovo",
+        "countryId": "718075",
+        "latitude": 41.75,
+        "longitude": 21.93333
+    },
+    {
+        "stateId": "862956",
+        "name": "Makedonska Kamenica",
+        "countryId": "718075",
+        "latitude": 42.05,
+        "longitude": 22.58333
+    },
+    {
+        "stateId": "863877",
+        "name": "Makedonski Brod",
+        "countryId": "718075",
+        "latitude": 41.65556,
+        "longitude": 21.23333
+    },
+    {
+        "stateId": "863488",
+        "name": "Mogila",
+        "countryId": "718075",
+        "latitude": 41.15806,
+        "longitude": 21.43556
+    },
+    {
+        "stateId": "863881",
+        "name": "Negotino",
+        "countryId": "718075",
+        "latitude": 41.51667,
+        "longitude": 22.15
+    },
+    {
+        "stateId": "863468",
+        "name": "Novaci",
+        "countryId": "718075",
+        "latitude": 41.01944,
+        "longitude": 21.6675
+    },
+    {
+        "stateId": "862945",
+        "name": "Novo Selo",
+        "countryId": "718075",
+        "latitude": 41.41667,
+        "longitude": 22.9
+    },
+    {
+        "stateId": "863883",
+        "name": "Ohrid",
+        "countryId": "718075",
+        "latitude": 41.13083,
+        "longitude": 20.87028
+    },
+    {
+        "stateId": "863850",
+        "name": "Opstina Gjorce Petrov",
+        "countryId": "718075",
+        "latitude": 42.06086,
+        "longitude": 21.31927
+    },
+    {
+        "stateId": "863831",
+        "name": "Op\u0161tina Ara\u010dinovo",
+        "countryId": "718075",
+        "latitude": 42.05,
+        "longitude": 21.58333
+    },
+    {
+        "stateId": "863840",
+        "name": "Op\u0161tina Centar",
+        "countryId": "718075",
+        "latitude": 42.005,
+        "longitude": 21.42889
+    },
+    {
+        "stateId": "863841",
+        "name": "Op\u0161tina Centar \u017dupa",
+        "countryId": "718075",
+        "latitude": 41.46667,
+        "longitude": 20.58333
+    },
+    {
+        "stateId": "863844",
+        "name": "Op\u0161tina Del\u010devo",
+        "countryId": "718075",
+        "latitude": 41.93333,
+        "longitude": 22.76667
+    },
+    {
+        "stateId": "862949",
+        "name": "Op\u0161tina Dojran",
+        "countryId": "718075",
+        "latitude": 41.23333,
+        "longitude": 22.7
+    },
+    {
+        "stateId": "863860",
+        "name": "Op\u0161tina Karpo\u0161",
+        "countryId": "718075",
+        "latitude": 42,
+        "longitude": 21.38333
+    },
+    {
+        "stateId": "863862",
+        "name": "Op\u0161tina Ki\u010devo",
+        "countryId": "718075",
+        "latitude": 41.51667,
+        "longitude": 20.95
+    },
+    {
+        "stateId": "862953",
+        "name": "Op\u0161tina Kon\u010de",
+        "countryId": "718075",
+        "latitude": 41.53333,
+        "longitude": 22.4
+    },
+    {
+        "stateId": "863865",
+        "name": "Op\u0161tina Ko\u010dani",
+        "countryId": "718075",
+        "latitude": 41.98333,
+        "longitude": 22.4
+    },
+    {
+        "stateId": "863870",
+        "name": "Op\u0161tina Krivoga\u0161tani",
+        "countryId": "718075",
+        "latitude": 41.33333,
+        "longitude": 21.36667
+    },
+    {
+        "stateId": "863871",
+        "name": "Op\u0161tina Kru\u0161evo",
+        "countryId": "718075",
+        "latitude": 41.36667,
+        "longitude": 21.26667
+    },
+    {
+        "stateId": "863875",
+        "name": "Op\u0161tina Lipkovo",
+        "countryId": "718075",
+        "latitude": 42.16667,
+        "longitude": 21.6
+    },
+    {
+        "stateId": "863892",
+        "name": "Op\u0161tina Mavrovo i Rostu\u0161a",
+        "countryId": "718075",
+        "latitude": 41.65778,
+        "longitude": 20.68389
+    },
+    {
+        "stateId": "862938",
+        "name": "Op\u0161tina Peh\u010devo",
+        "countryId": "718075",
+        "latitude": 41.78333,
+        "longitude": 22.91667
+    },
+    {
+        "stateId": "863889",
+        "name": "Op\u0161tina Probi\u0161tip",
+        "countryId": "718075",
+        "latitude": 41.96667,
+        "longitude": 22.15
+    },
+    {
+        "stateId": "863890",
+        "name": "Op\u0161tina Radovi\u0161",
+        "countryId": "718075",
+        "latitude": 41.65,
+        "longitude": 22.5
+    },
+    {
+        "stateId": "863891",
+        "name": "Op\u0161tina Rankovce",
+        "countryId": "718075",
+        "latitude": 42.21667,
+        "longitude": 22.15
+    },
+    {
+        "stateId": "863896",
+        "name": "Op\u0161tina Sopi\u0161te",
+        "countryId": "718075",
+        "latitude": 41.89,
+        "longitude": 21.32
+    },
+    {
+        "stateId": "863899",
+        "name": "Op\u0161tina Staro Nagori\u010dane",
+        "countryId": "718075",
+        "latitude": 42.23333,
+        "longitude": 21.93333
+    },
+    {
+        "stateId": "863903",
+        "name": "Op\u0161tina Studeni\u010dani",
+        "countryId": "718075",
+        "latitude": 41.83333,
+        "longitude": 21.43333
+    },
+    {
+        "stateId": "863911",
+        "name": "Op\u0161tina Vev\u010dani",
+        "countryId": "718075",
+        "latitude": 41.23333,
+        "longitude": 20.58333
+    },
+    {
+        "stateId": "863913",
+        "name": "Op\u0161tina Vrane\u0161tica",
+        "countryId": "718075",
+        "latitude": 41.5,
+        "longitude": 21.05
+    },
+    {
+        "stateId": "863914",
+        "name": "Op\u0161tina Vrap\u010di\u0161te",
+        "countryId": "718075",
+        "latitude": 41.85,
+        "longitude": 20.85
+    },
+    {
+        "stateId": "863838",
+        "name": "Op\u0161tina \u010ca\u0161ka",
+        "countryId": "718075",
+        "latitude": 41.59833,
+        "longitude": 21.59028
+    },
+    {
+        "stateId": "863842",
+        "name": "Op\u0161tina \u010cu\u010der-Sandevo",
+        "countryId": "718075",
+        "latitude": 42.16667,
+        "longitude": 21.41667
+    },
+    {
+        "stateId": "863900",
+        "name": "Op\u0161tina \u0160tip",
+        "countryId": "718075",
+        "latitude": 41.7,
+        "longitude": 22.2
+    },
+    {
+        "stateId": "863919",
+        "name": "Op\u0161tina \u017delino",
+        "countryId": "718075",
+        "latitude": 41.93333,
+        "longitude": 21.13333
+    },
+    {
+        "stateId": "863885",
+        "name": "Oslomej",
+        "countryId": "718075",
+        "latitude": 41.6,
+        "longitude": 21.05
+    },
+    {
+        "stateId": "863886",
+        "name": "Petrovec",
+        "countryId": "718075",
+        "latitude": 41.91667,
+        "longitude": 21.71667
+    },
+    {
+        "stateId": "863887",
+        "name": "Plasnica",
+        "countryId": "718075",
+        "latitude": 41.45,
+        "longitude": 21.11667
+    },
+    {
+        "stateId": "863888",
+        "name": "Prilep",
+        "countryId": "718075",
+        "latitude": 41.28778,
+        "longitude": 21.67583
+    },
+    {
+        "stateId": "786339",
+        "name": "Resen",
+        "countryId": "718075",
+        "latitude": 41.03333,
+        "longitude": 21.01667
+    },
+    {
+        "stateId": "862973",
+        "name": "Rosoman",
+        "countryId": "718075",
+        "latitude": 41.51,
+        "longitude": 21.92
+    },
+    {
+        "stateId": "863894",
+        "name": "Saraj",
+        "countryId": "718075",
+        "latitude": 41.98333,
+        "longitude": 21.26667
+    },
+    {
+        "stateId": "863901",
+        "name": "Struga",
+        "countryId": "718075",
+        "latitude": 41.28139,
+        "longitude": 20.63361
+    },
+    {
+        "stateId": "863902",
+        "name": "Strumica",
+        "countryId": "718075",
+        "latitude": 41.41111,
+        "longitude": 22.64639
+    },
+    {
+        "stateId": "863905",
+        "name": "Sveti Nikole",
+        "countryId": "718075",
+        "latitude": 41.9,
+        "longitude": 21.98333
+    },
+    {
+        "stateId": "863906",
+        "name": "Tearce",
+        "countryId": "718075",
+        "latitude": 42.1,
+        "longitude": 21.05
+    },
+    {
+        "stateId": "863907",
+        "name": "Tetovo",
+        "countryId": "718075",
+        "latitude": 42.04444,
+        "longitude": 20.9025
+    },
+    {
+        "stateId": "784732",
+        "name": "Valandovo",
+        "countryId": "718075",
+        "latitude": 41.33444,
+        "longitude": 22.53222
+    },
+    {
+        "stateId": "862947",
+        "name": "Vasilevo",
+        "countryId": "718075",
+        "latitude": 41.53333,
+        "longitude": 22.66667
+    },
+    {
+        "stateId": "863909",
+        "name": "Veles",
+        "countryId": "718075",
+        "latitude": 41.77583,
+        "longitude": 21.76278
+    },
+    {
+        "stateId": "863912",
+        "name": "Vinica",
+        "countryId": "718075",
+        "latitude": 41.85917,
+        "longitude": 22.58417
+    },
+    {
+        "stateId": "863917",
+        "name": "Zajas",
+        "countryId": "718075",
+        "latitude": 41.6,
+        "longitude": 20.9
+    },
+    {
+        "stateId": "863918",
+        "name": "Zelenikovo",
+        "countryId": "718075",
+        "latitude": 41.83333,
+        "longitude": 21.58333
+    },
+    {
+        "stateId": "862958",
+        "name": "Zrnovci",
+        "countryId": "718075",
+        "latitude": 41.83333,
+        "longitude": 22.45
+    },
+    {
+        "stateId": "863836",
+        "name": "\u010cair",
+        "countryId": "718075",
+        "latitude": 42.07917,
+        "longitude": 21.44389
+    },
+    {
+        "stateId": "862977",
+        "name": "\u010ce\u0161inovo-Oble\u0161evo",
+        "countryId": "718075",
+        "latitude": 41.9,
+        "longitude": 22.26667
+    },
+    {
+        "stateId": "863904",
+        "name": "\u0160uto Orizari",
+        "countryId": "718075",
+        "latitude": 42.05,
+        "longitude": 21.41667
+    }
+]

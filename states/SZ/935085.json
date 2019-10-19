@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7910683",
+        "name": "Motjane",
+        "stateId": "935085",
+        "latitude": -26.29764,
+        "longitude": 31.02262
+    },
+    {
+        "cityId": "7910859",
+        "name": "Mayiwane",
+        "stateId": "935085",
+        "latitude": -25.86448,
+        "longitude": 31.51809
+    },
+    {
+        "cityId": "7911058",
+        "name": "Emkhuzweni Mission",
+        "stateId": "935085",
+        "latitude": -25.76667,
+        "longitude": 31.36667
+    },
+    {
+        "cityId": "11127724",
+        "name": "Nkhaba",
+        "stateId": "935085",
+        "latitude": -26.15728,
+        "longitude": 31.16391
+    },
+    {
+        "cityId": "11127739",
+        "name": "Mhlangatane",
+        "stateId": "935085",
+        "latitude": -26.305,
+        "longitude": 31.11472
+    },
+    {
+        "cityId": "11127989",
+        "name": "Hhukwini",
+        "stateId": "935085",
+        "latitude": -26.31972,
+        "longitude": 31.22222
+    },
+    {
+        "cityId": "11205013",
+        "name": "Madlangempisi",
+        "stateId": "935085",
+        "latitude": -26.09012,
+        "longitude": 31.55013
+    },
+    {
+        "cityId": "11256900",
+        "name": "Ntfonjeni",
+        "stateId": "935085",
+        "latitude": -25.82627,
+        "longitude": 31.32115
+    },
+    {
+        "cityId": "11257269",
+        "name": "Maphalaleni",
+        "stateId": "935085",
+        "latitude": -26.20099,
+        "longitude": 31.36792
+    }
+]

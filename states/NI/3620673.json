@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3616069",
+        "name": "Municipio de Teustepe",
+        "stateId": "3620673",
+        "latitude": 12.45,
+        "longitude": -85.8
+    },
+    {
+        "cityId": "3616455",
+        "name": "Municipio de Santa Luc\u00eda",
+        "stateId": "3620673",
+        "latitude": 12.53333,
+        "longitude": -85.7
+    },
+    {
+        "cityId": "3616705",
+        "name": "Municipio de San Lorenzo",
+        "stateId": "3620673",
+        "latitude": 12.25,
+        "longitude": -85.66667
+    },
+    {
+        "cityId": "3616752",
+        "name": "Municipio de San Jos\u00e9 de los Remates",
+        "stateId": "3620673",
+        "latitude": 12.58333,
+        "longitude": -85.75
+    },
+    {
+        "cityId": "3620543",
+        "name": "Municipio de Camoapa",
+        "stateId": "3620673",
+        "latitude": 12.5,
+        "longitude": -85.16667
+    },
+    {
+        "cityId": "3620672",
+        "name": "Municipio de Boaco",
+        "stateId": "3620673",
+        "latitude": 12.58333,
+        "longitude": -85.41667
+    }
+]

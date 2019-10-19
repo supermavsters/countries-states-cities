@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "728994",
+        "name": "Obshtina Momchilgrad",
+        "stateId": "864553",
+        "latitude": 41.53333,
+        "longitude": 25.5
+    },
+    {
+        "cityId": "729792",
+        "name": "Obshtina Kardzhali",
+        "stateId": "864553",
+        "latitude": 41.68333,
+        "longitude": 25.43333
+    },
+    {
+        "cityId": "729895",
+        "name": "Obshtina Krumovgrad",
+        "stateId": "864553",
+        "latitude": 41.45,
+        "longitude": 25.7
+    },
+    {
+        "cityId": "730353",
+        "name": "Obshtina Kirkovo",
+        "stateId": "864553",
+        "latitude": 41.35816,
+        "longitude": 25.33731
+    },
+    {
+        "cityId": "731740",
+        "name": "Obshtina Dzhebel",
+        "stateId": "864553",
+        "latitude": 41.5,
+        "longitude": 25.26667
+    },
+    {
+        "cityId": "732516",
+        "name": "Obshtina Chernoochene",
+        "stateId": "864553",
+        "latitude": 41.78333,
+        "longitude": 25.25
+    },
+    {
+        "cityId": "733637",
+        "name": "Obshtina Ardino",
+        "stateId": "864553",
+        "latitude": 41.6,
+        "longitude": 25.15
+    }
+]

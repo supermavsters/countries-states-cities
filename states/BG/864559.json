@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "726847",
+        "name": "Obshtina Stara Zagora",
+        "stateId": "864559",
+        "latitude": 42.41667,
+        "longitude": 25.63333
+    },
+    {
+        "cityId": "727837",
+        "name": "Obshtina Radnevo",
+        "stateId": "864559",
+        "latitude": 42.3,
+        "longitude": 25.93333
+    },
+    {
+        "cityId": "728388",
+        "name": "Obshtina Pavel Banya",
+        "stateId": "864559",
+        "latitude": 42.63333,
+        "longitude": 25.13333
+    },
+    {
+        "cityId": "728626",
+        "name": "Obshtina Opan",
+        "stateId": "864559",
+        "latitude": 42.21667,
+        "longitude": 25.7
+    },
+    {
+        "cityId": "728927",
+        "name": "Obshtina Maglizh",
+        "stateId": "864559",
+        "latitude": 42.63333,
+        "longitude": 25.61667
+    },
+    {
+        "cityId": "730495",
+        "name": "Obshtina Kazanl\u016dk",
+        "stateId": "864559",
+        "latitude": 42.61943,
+        "longitude": 25.39885
+    },
+    {
+        "cityId": "730965",
+        "name": "Obshtina Gurkovo",
+        "stateId": "864559",
+        "latitude": 42.71667,
+        "longitude": 25.8
+    },
+    {
+        "cityId": "730984",
+        "name": "Obshtina Galabovo",
+        "stateId": "864559",
+        "latitude": 42.15,
+        "longitude": 25.96667
+    },
+    {
+        "cityId": "732451",
+        "name": "Obshtina Chirpan",
+        "stateId": "864559",
+        "latitude": 42.23333,
+        "longitude": 25.38333
+    },
+    {
+        "cityId": "732919",
+        "name": "Obshtina Bratya Daskalovi",
+        "stateId": "864559",
+        "latitude": 42.3,
+        "longitude": 25.21667
+    },
+    {
+        "cityId": "864599",
+        "name": "Obshtina Nikolaevo",
+        "stateId": "864559",
+        "latitude": 42.6,
+        "longitude": 25.78333
+    }
+]

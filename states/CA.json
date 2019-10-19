@@ -1,0 +1,93 @@
+[
+    {
+        "stateId": "5883102",
+        "name": "Alberta",
+        "countryId": "6251999",
+        "latitude": 52.28333,
+        "longitude": -117.469
+    },
+    {
+        "stateId": "5909050",
+        "name": "British Columbia",
+        "countryId": "6251999",
+        "latitude": 53.99983,
+        "longitude": -125.0032
+    },
+    {
+        "stateId": "6065171",
+        "name": "Manitoba",
+        "countryId": "6251999",
+        "latitude": 55.00019,
+        "longitude": -97.00049
+    },
+    {
+        "stateId": "6087430",
+        "name": "New Brunswick\/Nouveau-Brunswick",
+        "countryId": "6251999",
+        "latitude": 46.5001,
+        "longitude": -65.99878
+    },
+    {
+        "stateId": "6354959",
+        "name": "Newfoundland and Labrador",
+        "countryId": "6251999",
+        "latitude": 52,
+        "longitude": -56
+    },
+    {
+        "stateId": "6091069",
+        "name": "Northwest Territories",
+        "countryId": "6251999",
+        "latitude": 69.50061,
+        "longitude": -121.50445
+    },
+    {
+        "stateId": "6091530",
+        "name": "Nova Scotia",
+        "countryId": "6251999",
+        "latitude": 45.00015,
+        "longitude": -62.99865
+    },
+    {
+        "stateId": "6091732",
+        "name": "Nunavut",
+        "countryId": "6251999",
+        "latitude": 66.03478,
+        "longitude": -100.07813
+    },
+    {
+        "stateId": "6093943",
+        "name": "Ontario",
+        "countryId": "6251999",
+        "latitude": 49.25014,
+        "longitude": -84.49983
+    },
+    {
+        "stateId": "6113358",
+        "name": "Prince Edward Island",
+        "countryId": "6251999",
+        "latitude": 46.39808,
+        "longitude": -63.29844
+    },
+    {
+        "stateId": "6115047",
+        "name": "Qu\u00e9bec",
+        "countryId": "6251999",
+        "latitude": 52.00017,
+        "longitude": -71.99907
+    },
+    {
+        "stateId": "6141242",
+        "name": "Saskatchewan",
+        "countryId": "6251999",
+        "latitude": 54.0001,
+        "longitude": -106.00099
+    },
+    {
+        "stateId": "6185811",
+        "name": "Yukon",
+        "countryId": "6251999",
+        "latitude": 62.99962,
+        "longitude": -135.00404
+    }
+]

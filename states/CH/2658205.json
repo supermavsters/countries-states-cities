@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "2659097",
+        "name": "Raron District",
+        "stateId": "2658205",
+        "latitude": 46.3,
+        "longitude": 7.8
+    },
+    {
+        "cityId": "2659752",
+        "name": "Martigny District",
+        "stateId": "2658205",
+        "latitude": 46.12386,
+        "longitude": 7.10354
+    },
+    {
+        "cityId": "6458745",
+        "name": "Sion District",
+        "stateId": "2658205",
+        "latitude": 46.23343,
+        "longitude": 7.34939
+    },
+    {
+        "cityId": "6458753",
+        "name": "Leuk District",
+        "stateId": "2658205",
+        "latitude": 46.31439,
+        "longitude": 7.67291
+    },
+    {
+        "cityId": "6458766",
+        "name": "Goms District",
+        "stateId": "2658205",
+        "latitude": 46.46161,
+        "longitude": 8.2219
+    },
+    {
+        "cityId": "6458768",
+        "name": "Entremont District",
+        "stateId": "2658205",
+        "latitude": 46.02099,
+        "longitude": 7.2126
+    },
+    {
+        "cityId": "6458795",
+        "name": "Sierre District",
+        "stateId": "2658205",
+        "latitude": 46.27052,
+        "longitude": 7.5157
+    },
+    {
+        "cityId": "6458821",
+        "name": "Brig District",
+        "stateId": "2658205",
+        "latitude": 46.28255,
+        "longitude": 8.01185
+    },
+    {
+        "cityId": "6458832",
+        "name": "Saint-Maurice District",
+        "stateId": "2658205",
+        "latitude": 46.15384,
+        "longitude": 6.99823
+    },
+    {
+        "cityId": "6458844",
+        "name": "Visp District",
+        "stateId": "2658205",
+        "latitude": 46.17612,
+        "longitude": 7.85609
+    },
+    {
+        "cityId": "6458845",
+        "name": "Monthey District",
+        "stateId": "2658205",
+        "latitude": 46.27043,
+        "longitude": 6.90274
+    },
+    {
+        "cityId": "6458850",
+        "name": "Conthey District",
+        "stateId": "2658205",
+        "latitude": 46.20485,
+        "longitude": 7.27857
+    },
+    {
+        "cityId": "6458872",
+        "name": "H\u00e9rens District",
+        "stateId": "2658205",
+        "latitude": 46.19407,
+        "longitude": 7.42391
+    }
+]

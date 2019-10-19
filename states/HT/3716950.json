@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3723778",
+        "name": "Arrondissement de Jacmel",
+        "stateId": "3716950",
+        "latitude": 18.33333,
+        "longitude": -72.5
+    },
+    {
+        "cityId": "3730361",
+        "name": "Arrondissement de Belle-Anse",
+        "stateId": "3716950",
+        "latitude": 18.25,
+        "longitude": -72
+    },
+    {
+        "cityId": "3730910",
+        "name": "Arrondissement de Bainet",
+        "stateId": "3716950",
+        "latitude": 18.25,
+        "longitude": -72.85
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "cityId": "2012529",
+        "name": "Zhigansky District",
+        "stateId": "2013162",
+        "latitude": 66.75,
+        "longitude": 123.25
+    },
+    {
+        "cityId": "2013462",
+        "name": "Verkhoyansky District",
+        "stateId": "2013162",
+        "latitude": 68,
+        "longitude": 136
+    },
+    {
+        "cityId": "2013638",
+        "name": "Verkhnevilyuysky District",
+        "stateId": "2013162",
+        "latitude": 63,
+        "longitude": 120.5
+    },
+    {
+        "cityId": "2013847",
+        "name": "Ust\u2019-Yanskiy Rayon",
+        "stateId": "2013162",
+        "latitude": 69.33333,
+        "longitude": 139.91667
+    },
+    {
+        "cityId": "2013999",
+        "name": "Ust-Aldansky District",
+        "stateId": "2013162",
+        "latitude": 63,
+        "longitude": 132
+    },
+    {
+        "cityId": "2015174",
+        "name": "Tomponskiy District",
+        "stateId": "2013162",
+        "latitude": 62.75,
+        "longitude": 135.41667
+    },
+    {
+        "cityId": "2015912",
+        "name": "Suntarskiy District",
+        "stateId": "2013162",
+        "latitude": 63,
+        "longitude": 115
+    },
+    {
+        "cityId": "2018564",
+        "name": "Olenyoksky District",
+        "stateId": "2013162",
+        "latitude": 68.32018,
+        "longitude": 112.59338
+    },
+    {
+        "cityId": "2018569",
+        "name": "Olyokminsky District",
+        "stateId": "2013162",
+        "latitude": 59,
+        "longitude": 121
+    },
+    {
+        "cityId": "2020847",
+        "name": "Nyurbinsky District",
+        "stateId": "2013162",
+        "latitude": 63.25,
+        "longitude": 118.41667
+    },
+    {
+        "cityId": "2027729",
+        "name": "Anabarskiy Rayon",
+        "stateId": "2013162",
+        "latitude": 72.5,
+        "longitude": 116
+    },
+    {
+        "cityId": "2119872",
+        "name": "Verkhnekolymsky District",
+        "stateId": "2013162",
+        "latitude": 65.75,
+        "longitude": 150.83333
+    },
+    {
+        "cityId": "2121024",
+        "name": "Srednekolymsky District",
+        "stateId": "2013162",
+        "latitude": 68,
+        "longitude": 153
+    },
+    {
+        "cityId": "2122308",
+        "name": "Oymyakonskiy District",
+        "stateId": "2013162",
+        "latitude": 63,
+        "longitude": 144
+    },
+    {
+        "cityId": "2123220",
+        "name": "Momsky District",
+        "stateId": "2013162",
+        "latitude": 66,
+        "longitude": 144
+    },
+    {
+        "cityId": "2127365",
+        "name": "Abyysky District",
+        "stateId": "2013162",
+        "latitude": 68.33333,
+        "longitude": 146
+    },
+    {
+        "cityId": "8617188",
+        "name": "Yakutsk",
+        "stateId": "2013162",
+        "latitude": 61.97382,
+        "longitude": 129.75403
+    },
+    {
+        "cityId": "8617246",
+        "name": "Eveno-Bytantaysky National District",
+        "stateId": "2013162",
+        "latitude": 67.82428,
+        "longitude": 130.44617
+    },
+    {
+        "cityId": "8617247",
+        "name": "Vilyuysky District",
+        "stateId": "2013162",
+        "latitude": 63.76398,
+        "longitude": 121.65436
+    }
+]

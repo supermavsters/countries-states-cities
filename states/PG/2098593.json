@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2094124",
+        "name": "Kerowagi",
+        "stateId": "2098593",
+        "latitude": -5.93333,
+        "longitude": 144.88333
+    },
+    {
+        "cityId": "2094554",
+        "name": "Karimui Nomane",
+        "stateId": "2098593",
+        "latitude": -6.58333,
+        "longitude": 144.83333
+    },
+    {
+        "cityId": "2096611",
+        "name": "Gumine",
+        "stateId": "2098593",
+        "latitude": -6.25,
+        "longitude": 144.88333
+    },
+    {
+        "cityId": "2098576",
+        "name": "Chuave",
+        "stateId": "2098593",
+        "latitude": -6.16667,
+        "longitude": 145.08333
+    },
+    {
+        "cityId": "8657200",
+        "name": "Kundiawa",
+        "stateId": "2098593",
+        "latitude": -5.91667,
+        "longitude": 145.05
+    },
+    {
+        "cityId": "8657204",
+        "name": "Sinasina Yonggamugl",
+        "stateId": "2098593",
+        "latitude": -6.08333,
+        "longitude": 145.01667
+    }
+]

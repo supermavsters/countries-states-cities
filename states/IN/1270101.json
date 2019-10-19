@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "1255851",
+        "name": "Solan",
+        "stateId": "1270101",
+        "latitude": 31.08333,
+        "longitude": 76.83333
+    },
+    {
+        "cityId": "1256073",
+        "name": "Sirmaur",
+        "stateId": "1270101",
+        "latitude": 30.75,
+        "longitude": 77.5
+    },
+    {
+        "cityId": "1256238",
+        "name": "Shimla",
+        "stateId": "1270101",
+        "latitude": 31.16667,
+        "longitude": 77.58333
+    },
+    {
+        "cityId": "1263863",
+        "name": "Mandi",
+        "stateId": "1270101",
+        "latitude": 31.75,
+        "longitude": 77
+    },
+    {
+        "cityId": "1265292",
+        "name": "L\u0101hul and Spiti",
+        "stateId": "1270101",
+        "latitude": 32.5,
+        "longitude": 77.83333
+    },
+    {
+        "cityId": "1265710",
+        "name": "Kulu",
+        "stateId": "1270101",
+        "latitude": 32,
+        "longitude": 77.25
+    },
+    {
+        "cityId": "1266519",
+        "name": "Kinnaur",
+        "stateId": "1270101",
+        "latitude": 31.58333,
+        "longitude": 78.41667
+    },
+    {
+        "cityId": "1268085",
+        "name": "K\u0101ngra",
+        "stateId": "1270101",
+        "latitude": 32.16667,
+        "longitude": 76.25
+    },
+    {
+        "cityId": "1270456",
+        "name": "Ham\u012brpur",
+        "stateId": "1270101",
+        "latitude": 31.75,
+        "longitude": 76.5
+    },
+    {
+        "cityId": "1274849",
+        "name": "Chamba",
+        "stateId": "1270101",
+        "latitude": 32.57147,
+        "longitude": 76.10229
+    },
+    {
+        "cityId": "1275638",
+        "name": "Bil\u0101spur",
+        "stateId": "1270101",
+        "latitude": 31.33333,
+        "longitude": 76.75
+    },
+    {
+        "cityId": "7701379",
+        "name": "Una",
+        "stateId": "1270101",
+        "latitude": 31.58369,
+        "longitude": 76.19283
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "11352819",
+        "name": "Bunkas pagasts",
+        "stateId": "7628306",
+        "latitude": 56.52429,
+        "longitude": 21.52639
+    },
+    {
+        "cityId": "11352820",
+        "name": "Gramzdas pagasts",
+        "stateId": "7628306",
+        "latitude": 56.35762,
+        "longitude": 21.65646
+    },
+    {
+        "cityId": "11352821",
+        "name": "Kal\u0113tu pagasts",
+        "stateId": "7628306",
+        "latitude": 56.33695,
+        "longitude": 21.49921
+    },
+    {
+        "cityId": "11352822",
+        "name": "Priekules pagasts",
+        "stateId": "7628306",
+        "latitude": 56.45839,
+        "longitude": 21.62878
+    },
+    {
+        "cityId": "11352824",
+        "name": "Virgas pagasts",
+        "stateId": "7628306",
+        "latitude": 56.43508,
+        "longitude": 21.46779
+    },
+    {
+        "cityId": "11352988",
+        "name": "Priekule",
+        "stateId": "7628306",
+        "latitude": 56.44691,
+        "longitude": 21.59919
+    }
+]

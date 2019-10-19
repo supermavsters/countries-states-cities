@@ -1,0 +1,23 @@
+[
+    {
+        "stateId": "931597",
+        "name": "Central Region",
+        "countryId": "927384",
+        "latitude": -13.5,
+        "longitude": 34
+    },
+    {
+        "stateId": "924591",
+        "name": "Northern Region",
+        "countryId": "927384",
+        "latitude": -11,
+        "longitude": 34
+    },
+    {
+        "stateId": "923817",
+        "name": "Southern Region",
+        "countryId": "927384",
+        "latitude": -15.5,
+        "longitude": 35
+    }
+]

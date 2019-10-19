@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1604978",
+        "name": "Amphoe Yaha",
+        "stateId": "1604869",
+        "latitude": 6.40529,
+        "longitude": 101.12679
+    },
+    {
+        "cityId": "1607096",
+        "name": "Amphoe Raman",
+        "stateId": "1604869",
+        "latitude": 6.48985,
+        "longitude": 101.43442
+    },
+    {
+        "cityId": "1608605",
+        "name": "Amphoe Mueang Yala",
+        "stateId": "1604869",
+        "latitude": 6.54378,
+        "longitude": 101.25105
+    },
+    {
+        "cityId": "1616197",
+        "name": "Amphoe Bannang Sata",
+        "stateId": "1604869",
+        "latitude": 6.25643,
+        "longitude": 101.27852
+    },
+    {
+        "cityId": "6975772",
+        "name": "Amphoe Than To",
+        "stateId": "1604869",
+        "latitude": 6.08042,
+        "longitude": 101.25941
+    },
+    {
+        "cityId": "6976014",
+        "name": "Amphoe Kabang",
+        "stateId": "1604869",
+        "latitude": 6.37923,
+        "longitude": 100.98348
+    },
+    {
+        "cityId": "7013560",
+        "name": "Amphoe Krong Pinang",
+        "stateId": "1604869",
+        "latitude": 6.39932,
+        "longitude": 101.2571
+    },
+    {
+        "cityId": "8305286",
+        "name": "Amphoe Betong",
+        "stateId": "1604869",
+        "latitude": 5.86362,
+        "longitude": 101.22737
+    }
+]

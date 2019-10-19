@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1652070",
+        "name": "Muang Ngeun",
+        "stateId": "1652210",
+        "latitude": 19.72046,
+        "longitude": 101.13548
+    },
+    {
+        "cityId": "1652081",
+        "name": "Muang Xianghon",
+        "stateId": "1652210",
+        "latitude": 19.70479,
+        "longitude": 100.83458
+    },
+    {
+        "cityId": "1652209",
+        "name": "Muang Xaignabouli",
+        "stateId": "1652210",
+        "latitude": 19.3229,
+        "longitude": 101.59536
+    },
+    {
+        "cityId": "1654398",
+        "name": "Muang Paklay",
+        "stateId": "1652210",
+        "latitude": 18.39471,
+        "longitude": 101.50389
+    },
+    {
+        "cityId": "1656626",
+        "name": "Muang K\u00e8nthao",
+        "stateId": "1652210",
+        "latitude": 17.85156,
+        "longitude": 101.3167
+    },
+    {
+        "cityId": "1657146",
+        "name": "Muang H\u00f4ngsa",
+        "stateId": "1652210",
+        "latitude": 19.69815,
+        "longitude": 101.49796
+    },
+    {
+        "cityId": "1904805",
+        "name": "Muang Phiang",
+        "stateId": "1652210",
+        "latitude": 18.87675,
+        "longitude": 101.47001
+    },
+    {
+        "cityId": "1904806",
+        "name": "Muang Khop",
+        "stateId": "1652210",
+        "latitude": 19.66457,
+        "longitude": 100.56103
+    },
+    {
+        "cityId": "8739950",
+        "name": "Botene",
+        "stateId": "1652210",
+        "latitude": 17.59298,
+        "longitude": 101.1858
+    },
+    {
+        "cityId": "11550488",
+        "name": "Thongmyxay",
+        "stateId": "1652210",
+        "latitude": 17.67543,
+        "longitude": 101.02478
+    },
+    {
+        "cityId": "11550489",
+        "name": "Xaysathan",
+        "stateId": "1652210",
+        "latitude": 17.59052,
+        "longitude": 101.021
+    }
+]

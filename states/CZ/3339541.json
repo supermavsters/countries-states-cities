@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3066219",
+        "name": "Okres Semily",
+        "stateId": "3339541",
+        "latitude": 50.61667,
+        "longitude": 15.41667
+    },
+    {
+        "cityId": "3071960",
+        "name": "Okres Liberec",
+        "stateId": "3339541",
+        "latitude": 50.83333,
+        "longitude": 15.08333
+    },
+    {
+        "cityId": "3074602",
+        "name": "Okres Jablonec nad Nisou",
+        "stateId": "3339541",
+        "latitude": 50.75,
+        "longitude": 15.25
+    },
+    {
+        "cityId": "3077928",
+        "name": "Okres \u010cesk\u00e1 L\u00edpa",
+        "stateId": "3339541",
+        "latitude": 50.66667,
+        "longitude": 14.66667
+    }
+]

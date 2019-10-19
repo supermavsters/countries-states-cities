@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1607839",
+        "name": "Amphoe Phana",
+        "stateId": "1906689",
+        "latitude": 15.66895,
+        "longitude": 104.85675
+    },
+    {
+        "cityId": "1611260",
+        "name": "Amphoe Chanuman",
+        "stateId": "1906689",
+        "latitude": 16.12553,
+        "longitude": 104.92279
+    },
+    {
+        "cityId": "1621059",
+        "name": "Amphoe Mueang Amnat Charoen",
+        "stateId": "1906689",
+        "latitude": 15.87864,
+        "longitude": 104.64284
+    },
+    {
+        "cityId": "7510834",
+        "name": "Amphoe Hua Taphan",
+        "stateId": "1906689",
+        "latitude": 15.67594,
+        "longitude": 104.52702
+    },
+    {
+        "cityId": "7510854",
+        "name": "Amphoe Pathum Ratchawongsa",
+        "stateId": "1906689",
+        "latitude": 15.89542,
+        "longitude": 104.89611
+    },
+    {
+        "cityId": "7510856",
+        "name": "Amphoe Lue Amnat",
+        "stateId": "1906689",
+        "latitude": 15.70781,
+        "longitude": 104.71118
+    },
+    {
+        "cityId": "7510857",
+        "name": "Amphoe Senangkhanikhom",
+        "stateId": "1906689",
+        "latitude": 16.0513,
+        "longitude": 104.68441
+    }
+]

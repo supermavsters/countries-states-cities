@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "149579",
+        "name": "Tarime",
+        "stateId": "154775",
+        "latitude": -1.3784,
+        "longitude": 34.47682
+    },
+    {
+        "cityId": "150095",
+        "name": "Serengeti",
+        "stateId": "154775",
+        "latitude": -1.98342,
+        "longitude": 34.71762
+    },
+    {
+        "cityId": "152450",
+        "name": "Musoma",
+        "stateId": "154775",
+        "latitude": -1.84608,
+        "longitude": 33.58961
+    },
+    {
+        "cityId": "160891",
+        "name": "Bunda",
+        "stateId": "154775",
+        "latitude": -2.01405,
+        "longitude": 33.84536
+    },
+    {
+        "cityId": "9998136",
+        "name": "Butiama",
+        "stateId": "154775",
+        "latitude": -1.68396,
+        "longitude": 33.96374
+    },
+    {
+        "cityId": "9998138",
+        "name": "Musoma Municipal",
+        "stateId": "154775",
+        "latitude": -1.52007,
+        "longitude": 33.79722
+    },
+    {
+        "cityId": "9998141",
+        "name": "Rorya",
+        "stateId": "154775",
+        "latitude": -1.28912,
+        "longitude": 34.07161
+    }
+]

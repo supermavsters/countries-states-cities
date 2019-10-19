@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2240660",
+        "name": "Cacongo",
+        "stateId": "2243266",
+        "latitude": -5.03817,
+        "longitude": 12.23852
+    },
+    {
+        "cityId": "2243267",
+        "name": "Cabinda",
+        "stateId": "2243266",
+        "latitude": -5.45348,
+        "longitude": 12.3731
+    },
+    {
+        "cityId": "2243457",
+        "name": "Buco Zau",
+        "stateId": "2243266",
+        "latitude": -4.79507,
+        "longitude": 12.54675
+    },
+    {
+        "cityId": "2243645",
+        "name": "Belize",
+        "stateId": "2243266",
+        "latitude": -4.58379,
+        "longitude": 12.83037
+    }
+]

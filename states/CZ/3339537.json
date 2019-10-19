@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3064377",
+        "name": "Okres T\u00e1bor",
+        "stateId": "3339537",
+        "latitude": 49.41667,
+        "longitude": 14.66667
+    },
+    {
+        "cityId": "3065066",
+        "name": "Okres Strakonice",
+        "stateId": "3339537",
+        "latitude": 49.26667,
+        "longitude": 13.9
+    },
+    {
+        "cityId": "3067712",
+        "name": "Okres Prachatice",
+        "stateId": "3339537",
+        "latitude": 49,
+        "longitude": 13.86667
+    },
+    {
+        "cityId": "3068289",
+        "name": "Okres P\u00edsek",
+        "stateId": "3339537",
+        "latitude": 49.4,
+        "longitude": 14.2
+    },
+    {
+        "cityId": "3074148",
+        "name": "Okres Jind\u0159ich\u016fv Hradec",
+        "stateId": "3339537",
+        "latitude": 49.08333,
+        "longitude": 15.16667
+    },
+    {
+        "cityId": "3077888",
+        "name": "Okres \u010cesk\u00fd Krumlov",
+        "stateId": "3339537",
+        "latitude": 48.75,
+        "longitude": 14.33333
+    },
+    {
+        "cityId": "3077915",
+        "name": "Okres \u010cesk\u00e9 Bud\u011bjovice",
+        "stateId": "3339537",
+        "latitude": 49,
+        "longitude": 14.5
+    }
+]

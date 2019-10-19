@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "2610019",
+        "name": "Vordingborg Kommune",
+        "stateId": "6418541",
+        "latitude": 55.01383,
+        "longitude": 12.10008
+    },
+    {
+        "cityId": "2612565",
+        "name": "Stevns Kommune",
+        "stateId": "6418541",
+        "latitude": 55.33373,
+        "longitude": 12.30692
+    },
+    {
+        "cityId": "2612863",
+        "name": "Sor\u00f8 Kommune",
+        "stateId": "6418541",
+        "latitude": 55.48268,
+        "longitude": 11.55693
+    },
+    {
+        "cityId": "2613235",
+        "name": "Solr\u00f8d Kommune",
+        "stateId": "6418541",
+        "latitude": 55.53553,
+        "longitude": 12.17337
+    },
+    {
+        "cityId": "2613459",
+        "name": "Slagelse Kommune",
+        "stateId": "6418541",
+        "latitude": 55.34546,
+        "longitude": 11.3339
+    },
+    {
+        "cityId": "2614478",
+        "name": "Roskilde Kommune",
+        "stateId": "6418541",
+        "latitude": 55.65,
+        "longitude": 12.1
+    },
+    {
+        "cityId": "2614761",
+        "name": "Ringsted Kommune",
+        "stateId": "6418541",
+        "latitude": 55.44721,
+        "longitude": 11.8172
+    },
+    {
+        "cityId": "2616037",
+        "name": "N\u00e6stved Kommune",
+        "stateId": "6418541",
+        "latitude": 55.25855,
+        "longitude": 11.74615
+    },
+    {
+        "cityId": "2617831",
+        "name": "Lejre Kommune",
+        "stateId": "6418541",
+        "latitude": 55.63375,
+        "longitude": 11.92234
+    },
+    {
+        "cityId": "2618557",
+        "name": "K\u00f8ge Kommune",
+        "stateId": "6418541",
+        "latitude": 55.45668,
+        "longitude": 12.07332
+    },
+    {
+        "cityId": "2619152",
+        "name": "Kalundborg Kommune",
+        "stateId": "6418541",
+        "latitude": 55.63545,
+        "longitude": 11.19993
+    },
+    {
+        "cityId": "2620141",
+        "name": "Holb\u00e6k Kommune",
+        "stateId": "6418541",
+        "latitude": 55.65919,
+        "longitude": 11.62049
+    },
+    {
+        "cityId": "2621218",
+        "name": "Greve Kommune",
+        "stateId": "6418541",
+        "latitude": 55.5877,
+        "longitude": 12.2506
+    },
+    {
+        "cityId": "6543928",
+        "name": "Odsherred Kommune",
+        "stateId": "6418541",
+        "latitude": 55.88333,
+        "longitude": 11.59444
+    },
+    {
+        "cityId": "6543931",
+        "name": "Faxe Kommune",
+        "stateId": "6418541",
+        "latitude": 55.29444,
+        "longitude": 12.06111
+    },
+    {
+        "cityId": "6543949",
+        "name": "Guldborgsund Kommune",
+        "stateId": "6418541",
+        "latitude": 54.76944,
+        "longitude": 11.83611
+    },
+    {
+        "cityId": "6543950",
+        "name": "Lolland Kommune",
+        "stateId": "6418541",
+        "latitude": 54.80238,
+        "longitude": 11.29524
+    }
+]

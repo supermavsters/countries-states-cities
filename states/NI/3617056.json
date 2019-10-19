@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3616653",
+        "name": "Municipio de San Miguelito",
+        "stateId": "3617056",
+        "latitude": 11.46667,
+        "longitude": -84.71667
+    },
+    {
+        "cityId": "3616908",
+        "name": "Municipio de San Carlos",
+        "stateId": "3617056",
+        "latitude": 11.16667,
+        "longitude": -84.5
+    },
+    {
+        "cityId": "3617574",
+        "name": "Municipio de Morrito",
+        "stateId": "3617056",
+        "latitude": 11.75,
+        "longitude": -84.88333
+    },
+    {
+        "cityId": "9166157",
+        "name": "El Almendro",
+        "stateId": "3617056",
+        "latitude": 11.67838,
+        "longitude": -84.7018
+    },
+    {
+        "cityId": "9166159",
+        "name": "El Castillo",
+        "stateId": "3617056",
+        "latitude": 11.01787,
+        "longitude": -84.39693
+    },
+    {
+        "cityId": "11002676",
+        "name": "San Juan del Nicaragua",
+        "stateId": "3617056",
+        "latitude": 10.94673,
+        "longitude": -83.73539
+    }
+]

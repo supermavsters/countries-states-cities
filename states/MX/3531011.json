@@ -1,0 +1,828 @@
+[
+    {
+        "cityId": "6955066",
+        "name": "Acacoyagua",
+        "stateId": "3531011",
+        "latitude": 15.41414,
+        "longitude": -92.68169
+    },
+    {
+        "cityId": "6955067",
+        "name": "Acala",
+        "stateId": "3531011",
+        "latitude": 16.55394,
+        "longitude": -92.81765
+    },
+    {
+        "cityId": "6955068",
+        "name": "Acapetahua",
+        "stateId": "3531011",
+        "latitude": 15.28333,
+        "longitude": -92.68333
+    },
+    {
+        "cityId": "6955069",
+        "name": "Aldama",
+        "stateId": "3531011",
+        "latitude": 16.91667,
+        "longitude": -92.68333
+    },
+    {
+        "cityId": "6955070",
+        "name": "Altamirano",
+        "stateId": "3531011",
+        "latitude": 16.69868,
+        "longitude": -92.00981
+    },
+    {
+        "cityId": "6955071",
+        "name": "Amat\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.36667,
+        "longitude": -92.81667
+    },
+    {
+        "cityId": "6955072",
+        "name": "Amatenango de la Frontera",
+        "stateId": "3531011",
+        "latitude": 15.43333,
+        "longitude": -92.11667
+    },
+    {
+        "cityId": "6955073",
+        "name": "Amatenango del Valle",
+        "stateId": "3531011",
+        "latitude": 16.53333,
+        "longitude": -92.43333
+    },
+    {
+        "cityId": "6955074",
+        "name": "\u00c1ngel Albino Corzo",
+        "stateId": "3531011",
+        "latitude": 15.86624,
+        "longitude": -92.72324
+    },
+    {
+        "cityId": "6955075",
+        "name": "Arriaga",
+        "stateId": "3531011",
+        "latitude": 16.235,
+        "longitude": -93.89556
+    },
+    {
+        "cityId": "6955076",
+        "name": "Bejucal de Ocampo",
+        "stateId": "3531011",
+        "latitude": 15.45,
+        "longitude": -92.16667
+    },
+    {
+        "cityId": "6955077",
+        "name": "Bella Vista",
+        "stateId": "3531011",
+        "latitude": 15.58333,
+        "longitude": -92.21667
+    },
+    {
+        "cityId": "6955078",
+        "name": "Benem\u00e9rito de las Am\u00e9ricas",
+        "stateId": "3531011",
+        "latitude": 16.51722,
+        "longitude": -90.65306
+    },
+    {
+        "cityId": "6955079",
+        "name": "Berrioz\u00e1bal",
+        "stateId": "3531011",
+        "latitude": 16.8,
+        "longitude": -93.26667
+    },
+    {
+        "cityId": "6955080",
+        "name": "Bochil",
+        "stateId": "3531011",
+        "latitude": 16.98333,
+        "longitude": -92.91667
+    },
+    {
+        "cityId": "6955081",
+        "name": "El Bosque",
+        "stateId": "3531011",
+        "latitude": 17.06667,
+        "longitude": -92.71667
+    },
+    {
+        "cityId": "6955082",
+        "name": "Cacahoat\u00e1n",
+        "stateId": "3531011",
+        "latitude": 15.06151,
+        "longitude": -92.15881
+    },
+    {
+        "cityId": "6955083",
+        "name": "Catazaj\u00e1",
+        "stateId": "3531011",
+        "latitude": 17.73333,
+        "longitude": -92.01667
+    },
+    {
+        "cityId": "6955084",
+        "name": "Chalchihuit\u00e1n",
+        "stateId": "3531011",
+        "latitude": 16.96667,
+        "longitude": -92.65
+    },
+    {
+        "cityId": "6955085",
+        "name": "Chamula",
+        "stateId": "3531011",
+        "latitude": 16.78333,
+        "longitude": -92.68333
+    },
+    {
+        "cityId": "6955086",
+        "name": "Chanal",
+        "stateId": "3531011",
+        "latitude": 16.65395,
+        "longitude": -92.25014
+    },
+    {
+        "cityId": "6955087",
+        "name": "Chapultenango",
+        "stateId": "3531011",
+        "latitude": 17.33333,
+        "longitude": -93.13333
+    },
+    {
+        "cityId": "6955088",
+        "name": "Chenalh\u00f3",
+        "stateId": "3531011",
+        "latitude": 16.88333,
+        "longitude": -92.63333
+    },
+    {
+        "cityId": "6955089",
+        "name": "Chiapa de Corzo",
+        "stateId": "3531011",
+        "latitude": 16.70197,
+        "longitude": -93.00854
+    },
+    {
+        "cityId": "6955090",
+        "name": "Chiapilla",
+        "stateId": "3531011",
+        "latitude": 16.55397,
+        "longitude": -92.72594
+    },
+    {
+        "cityId": "6955091",
+        "name": "Chicoas\u00e9n",
+        "stateId": "3531011",
+        "latitude": 16.96528,
+        "longitude": -93.10472
+    },
+    {
+        "cityId": "6955092",
+        "name": "Chicomuselo",
+        "stateId": "3531011",
+        "latitude": 15.76667,
+        "longitude": -92.26667
+    },
+    {
+        "cityId": "6955093",
+        "name": "Chil\u00f3n",
+        "stateId": "3531011",
+        "latitude": 17.11667,
+        "longitude": -92.28333
+    },
+    {
+        "cityId": "6955094",
+        "name": "Cintalapa",
+        "stateId": "3531011",
+        "latitude": 16.68778,
+        "longitude": -93.71083
+    },
+    {
+        "cityId": "6955095",
+        "name": "Coapilla",
+        "stateId": "3531011",
+        "latitude": 17.13333,
+        "longitude": -93.16667
+    },
+    {
+        "cityId": "6955096",
+        "name": "Comit\u00e1n Municipality",
+        "stateId": "3531011",
+        "latitude": 16.24105,
+        "longitude": -92.13203
+    },
+    {
+        "cityId": "6955097",
+        "name": "La Concordia",
+        "stateId": "3531011",
+        "latitude": 16.11667,
+        "longitude": -92.68333
+    },
+    {
+        "cityId": "6955098",
+        "name": "Copainal\u00e1",
+        "stateId": "3531011",
+        "latitude": 17.08333,
+        "longitude": -93.2
+    },
+    {
+        "cityId": "6955099",
+        "name": "Escuintla",
+        "stateId": "3531011",
+        "latitude": 15.33333,
+        "longitude": -92.63333
+    },
+    {
+        "cityId": "6955100",
+        "name": "Francisco Le\u00f3n",
+        "stateId": "3531011",
+        "latitude": 17.31667,
+        "longitude": -93.25
+    },
+    {
+        "cityId": "7778823",
+        "name": "San Cristobal De Casas",
+        "stateId": "3531011",
+        "latitude": 16.7,
+        "longitude": -92.6
+    },
+    {
+        "cityId": "8581703",
+        "name": "Tuxtla Chico",
+        "stateId": "3531011",
+        "latitude": 14.92411,
+        "longitude": -92.18978
+    },
+    {
+        "cityId": "8581716",
+        "name": "Venustiano Carranza",
+        "stateId": "3531011",
+        "latitude": 16.32314,
+        "longitude": -92.55844
+    },
+    {
+        "cityId": "8581720",
+        "name": "Frontera Hidalgo",
+        "stateId": "3531011",
+        "latitude": 14.75148,
+        "longitude": -92.20712
+    },
+    {
+        "cityId": "8581721",
+        "name": "La Grandeza",
+        "stateId": "3531011",
+        "latitude": 15.50828,
+        "longitude": -92.22279
+    },
+    {
+        "cityId": "8581722",
+        "name": "Huehuet\u00e1n",
+        "stateId": "3531011",
+        "latitude": 15.03045,
+        "longitude": -92.40093
+    },
+    {
+        "cityId": "8581723",
+        "name": "Huixt\u00e1n",
+        "stateId": "3531011",
+        "latitude": 16.706,
+        "longitude": -92.40104
+    },
+    {
+        "cityId": "8581724",
+        "name": "Huitiup\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.23899,
+        "longitude": -92.70811
+    },
+    {
+        "cityId": "8581726",
+        "name": "Huixtla",
+        "stateId": "3531011",
+        "latitude": 15.14286,
+        "longitude": -92.5122
+    },
+    {
+        "cityId": "8581727",
+        "name": "La Independencia",
+        "stateId": "3531011",
+        "latitude": 16.21503,
+        "longitude": -91.74111
+    },
+    {
+        "cityId": "8581728",
+        "name": "Ixhuat\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.29816,
+        "longitude": -93.00808
+    },
+    {
+        "cityId": "8581729",
+        "name": "Ixtacomit\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.42668,
+        "longitude": -93.0943
+    },
+    {
+        "cityId": "8581730",
+        "name": "Ixtapa",
+        "stateId": "3531011",
+        "latitude": 16.81299,
+        "longitude": -92.91332
+    },
+    {
+        "cityId": "8581731",
+        "name": "Ixtapangajoya",
+        "stateId": "3531011",
+        "latitude": 17.47893,
+        "longitude": -92.98738
+    },
+    {
+        "cityId": "8581732",
+        "name": "Jiquipilas",
+        "stateId": "3531011",
+        "latitude": 16.56952,
+        "longitude": -93.64175
+    },
+    {
+        "cityId": "8581733",
+        "name": "Jitotol",
+        "stateId": "3531011",
+        "latitude": 17.0961,
+        "longitude": -92.83769
+    },
+    {
+        "cityId": "8581734",
+        "name": "Ju\u00e1rez",
+        "stateId": "3531011",
+        "latitude": 17.6938,
+        "longitude": -93.18834
+    },
+    {
+        "cityId": "8581735",
+        "name": "Larr\u00e1inzar",
+        "stateId": "3531011",
+        "latitude": 16.91366,
+        "longitude": -92.76373
+    },
+    {
+        "cityId": "8581736",
+        "name": "La Libertad",
+        "stateId": "3531011",
+        "latitude": 17.57345,
+        "longitude": -91.74985
+    },
+    {
+        "cityId": "8581737",
+        "name": "Mapastepec",
+        "stateId": "3531011",
+        "latitude": 15.41979,
+        "longitude": -92.94922
+    },
+    {
+        "cityId": "8581738",
+        "name": "Las Margaritas",
+        "stateId": "3531011",
+        "latitude": 16.3856,
+        "longitude": -91.74028
+    },
+    {
+        "cityId": "8581739",
+        "name": "Mazapa de Madero",
+        "stateId": "3531011",
+        "latitude": 15.36461,
+        "longitude": -92.18762
+    },
+    {
+        "cityId": "8581740",
+        "name": "Mazat\u00e1n",
+        "stateId": "3531011",
+        "latitude": 14.87945,
+        "longitude": -92.46766
+    },
+    {
+        "cityId": "8581741",
+        "name": "Metapa",
+        "stateId": "3531011",
+        "latitude": 14.82509,
+        "longitude": -92.19777
+    },
+    {
+        "cityId": "8581742",
+        "name": "Mitontic",
+        "stateId": "3531011",
+        "latitude": 16.8754,
+        "longitude": -92.5713
+    },
+    {
+        "cityId": "8581743",
+        "name": "Motozintla",
+        "stateId": "3531011",
+        "latitude": 15.29745,
+        "longitude": -92.34344
+    },
+    {
+        "cityId": "8581744",
+        "name": "Nicol\u00e1s Ru\u00edz",
+        "stateId": "3531011",
+        "latitude": 16.44833,
+        "longitude": -92.60361
+    },
+    {
+        "cityId": "8581745",
+        "name": "Ocosingo",
+        "stateId": "3531011",
+        "latitude": 16.8721,
+        "longitude": -91.80196
+    },
+    {
+        "cityId": "8581746",
+        "name": "Ocotepec",
+        "stateId": "3531011",
+        "latitude": 17.21915,
+        "longitude": -93.17244
+    },
+    {
+        "cityId": "8581747",
+        "name": "Ocozocoautla de Espinosa",
+        "stateId": "3531011",
+        "latitude": 16.78617,
+        "longitude": -93.43433
+    },
+    {
+        "cityId": "8581748",
+        "name": "Ostuac\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.44081,
+        "longitude": -93.41707
+    },
+    {
+        "cityId": "8581749",
+        "name": "Osumacinta",
+        "stateId": "3531011",
+        "latitude": 16.8878,
+        "longitude": -93.07006
+    },
+    {
+        "cityId": "8581750",
+        "name": "Oxchuc",
+        "stateId": "3531011",
+        "latitude": 16.79884,
+        "longitude": -92.29757
+    },
+    {
+        "cityId": "8581751",
+        "name": "Palenque",
+        "stateId": "3531011",
+        "latitude": 17.50435,
+        "longitude": -91.89544
+    },
+    {
+        "cityId": "8581752",
+        "name": "Pantelh\u00f3",
+        "stateId": "3531011",
+        "latitude": 17.0637,
+        "longitude": -92.4552
+    },
+    {
+        "cityId": "8581753",
+        "name": "Pantepec",
+        "stateId": "3531011",
+        "latitude": 17.18721,
+        "longitude": -93.05422
+    },
+    {
+        "cityId": "8581754",
+        "name": "Pichucalco",
+        "stateId": "3531011",
+        "latitude": 17.53928,
+        "longitude": -93.16116
+    },
+    {
+        "cityId": "8581755",
+        "name": "Pijijiapan",
+        "stateId": "3531011",
+        "latitude": 15.64619,
+        "longitude": -93.20291
+    },
+    {
+        "cityId": "8581756",
+        "name": "El Porvenir",
+        "stateId": "3531011",
+        "latitude": 15.43092,
+        "longitude": -92.26447
+    },
+    {
+        "cityId": "8581757",
+        "name": "Villa Comaltitl\u00e1n",
+        "stateId": "3531011",
+        "latitude": 15.18645,
+        "longitude": -92.59053
+    },
+    {
+        "cityId": "8581758",
+        "name": "Pueblo Nuevo Solistahuac\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.21162,
+        "longitude": -92.85475
+    },
+    {
+        "cityId": "8581759",
+        "name": "Ray\u00f3n",
+        "stateId": "3531011",
+        "latitude": 17.20063,
+        "longitude": -92.99756
+    },
+    {
+        "cityId": "8581760",
+        "name": "Reforma",
+        "stateId": "3531011",
+        "latitude": 17.86876,
+        "longitude": -93.22673
+    },
+    {
+        "cityId": "8581761",
+        "name": "Las Rosas",
+        "stateId": "3531011",
+        "latitude": 16.35655,
+        "longitude": -92.37021
+    },
+    {
+        "cityId": "8581762",
+        "name": "Sabanilla",
+        "stateId": "3531011",
+        "latitude": 17.30308,
+        "longitude": -92.58368
+    },
+    {
+        "cityId": "8581763",
+        "name": "Salto de Agua",
+        "stateId": "3531011",
+        "latitude": 17.42001,
+        "longitude": -92.2064
+    },
+    {
+        "cityId": "8581764",
+        "name": "San Fernando",
+        "stateId": "3531011",
+        "latitude": 16.904,
+        "longitude": -93.22282
+    },
+    {
+        "cityId": "8581765",
+        "name": "Siltepec",
+        "stateId": "3531011",
+        "latitude": 15.55383,
+        "longitude": -92.43138
+    },
+    {
+        "cityId": "8581766",
+        "name": "Simojovel",
+        "stateId": "3531011",
+        "latitude": 17.14736,
+        "longitude": -92.67154
+    },
+    {
+        "cityId": "8581767",
+        "name": "Sital\u00e1",
+        "stateId": "3531011",
+        "latitude": 17.03982,
+        "longitude": -92.35195
+    },
+    {
+        "cityId": "8581768",
+        "name": "Socoltenango",
+        "stateId": "3531011",
+        "latitude": 16.17412,
+        "longitude": -92.36658
+    },
+    {
+        "cityId": "8581769",
+        "name": "Solosuchiapa",
+        "stateId": "3531011",
+        "latitude": 17.39364,
+        "longitude": -93.01301
+    },
+    {
+        "cityId": "8581770",
+        "name": "Soyal\u00f3",
+        "stateId": "3531011",
+        "latitude": 16.91352,
+        "longitude": -92.96579
+    },
+    {
+        "cityId": "8581771",
+        "name": "Suchiapa",
+        "stateId": "3531011",
+        "latitude": 16.60775,
+        "longitude": -93.10003
+    },
+    {
+        "cityId": "8581772",
+        "name": "Suchiate",
+        "stateId": "3531011",
+        "latitude": 14.64138,
+        "longitude": -92.22252
+    },
+    {
+        "cityId": "8581773",
+        "name": "Sunuapa",
+        "stateId": "3531011",
+        "latitude": 17.48316,
+        "longitude": -93.24699
+    },
+    {
+        "cityId": "8581774",
+        "name": "Tapachula",
+        "stateId": "3531011",
+        "latitude": 14.94755,
+        "longitude": -92.30211
+    },
+    {
+        "cityId": "8581775",
+        "name": "Tapalapa",
+        "stateId": "3531011",
+        "latitude": 17.22618,
+        "longitude": -93.11552
+    },
+    {
+        "cityId": "8581776",
+        "name": "Tapilula",
+        "stateId": "3531011",
+        "latitude": 17.25355,
+        "longitude": -93.00933
+    },
+    {
+        "cityId": "8581777",
+        "name": "Tecpat\u00e1n",
+        "stateId": "3531011",
+        "latitude": 17.18448,
+        "longitude": -93.47103
+    },
+    {
+        "cityId": "8581778",
+        "name": "Tenejapa",
+        "stateId": "3531011",
+        "latitude": 16.84359,
+        "longitude": -92.48134
+    },
+    {
+        "cityId": "8581779",
+        "name": "Teopisca",
+        "stateId": "3531011",
+        "latitude": 16.55969,
+        "longitude": -92.51672
+    },
+    {
+        "cityId": "8581780",
+        "name": "Tila",
+        "stateId": "3531011",
+        "latitude": 17.35066,
+        "longitude": -92.48176
+    },
+    {
+        "cityId": "8581781",
+        "name": "Tonal\u00e1",
+        "stateId": "3531011",
+        "latitude": 15.98275,
+        "longitude": -93.67062
+    },
+    {
+        "cityId": "8581782",
+        "name": "Totolapa",
+        "stateId": "3531011",
+        "latitude": 16.51695,
+        "longitude": -92.67359
+    },
+    {
+        "cityId": "8581783",
+        "name": "La Trinitaria",
+        "stateId": "3531011",
+        "latitude": 16.01755,
+        "longitude": -91.93339
+    },
+    {
+        "cityId": "8581784",
+        "name": "Tumbal\u00e1",
+        "stateId": "3531011",
+        "latitude": 17.3079,
+        "longitude": -92.27788
+    },
+    {
+        "cityId": "8581785",
+        "name": "Tuxtla Guti\u00e9rrez",
+        "stateId": "3531011",
+        "latitude": 16.70842,
+        "longitude": -93.13618
+    },
+    {
+        "cityId": "8581786",
+        "name": "Tuzant\u00e1n",
+        "stateId": "3531011",
+        "latitude": 15.13561,
+        "longitude": -92.42137
+    },
+    {
+        "cityId": "8581787",
+        "name": "Tzimol",
+        "stateId": "3531011",
+        "latitude": 16.1212,
+        "longitude": -92.24463
+    },
+    {
+        "cityId": "8581788",
+        "name": "Uni\u00f3n Ju\u00e1rez",
+        "stateId": "3531011",
+        "latitude": 15.06191,
+        "longitude": -92.09668
+    },
+    {
+        "cityId": "8581789",
+        "name": "Villa Corzo",
+        "stateId": "3531011",
+        "latitude": 16.11981,
+        "longitude": -93.20835
+    },
+    {
+        "cityId": "8581790",
+        "name": "Villaflores",
+        "stateId": "3531011",
+        "latitude": 16.34149,
+        "longitude": -93.33191
+    },
+    {
+        "cityId": "8581791",
+        "name": "Yajal\u00f3n",
+        "stateId": "3531011",
+        "latitude": 17.18519,
+        "longitude": -92.32715
+    },
+    {
+        "cityId": "8581792",
+        "name": "San Lucas",
+        "stateId": "3531011",
+        "latitude": 16.60112,
+        "longitude": -92.69771
+    },
+    {
+        "cityId": "8581793",
+        "name": "Zinacant\u00e1n",
+        "stateId": "3531011",
+        "latitude": 16.72425,
+        "longitude": -92.77572
+    },
+    {
+        "cityId": "8581794",
+        "name": "San Juan Cancuc",
+        "stateId": "3531011",
+        "latitude": 16.94034,
+        "longitude": -92.38839
+    },
+    {
+        "cityId": "8581795",
+        "name": "Maravilla Tenejapa",
+        "stateId": "3531011",
+        "latitude": 16.20391,
+        "longitude": -91.26093
+    },
+    {
+        "cityId": "8581796",
+        "name": "Marqu\u00e9s de Comillas",
+        "stateId": "3531011",
+        "latitude": 16.21471,
+        "longitude": -90.75917
+    },
+    {
+        "cityId": "8581797",
+        "name": "Montecristo de Guerrero",
+        "stateId": "3531011",
+        "latitude": 15.67526,
+        "longitude": -92.64399
+    },
+    {
+        "cityId": "8581798",
+        "name": "San Andr\u00e9s Duraznal",
+        "stateId": "3531011",
+        "latitude": 17.15653,
+        "longitude": -92.79606
+    },
+    {
+        "cityId": "8581799",
+        "name": "Santiago el Pinar",
+        "stateId": "3531011",
+        "latitude": 16.94838,
+        "longitude": -92.72074
+    },
+    {
+        "cityId": "8583641",
+        "name": "Frontera Comalapa",
+        "stateId": "3531011",
+        "latitude": 15.74099,
+        "longitude": -92.07667
+    }
+]

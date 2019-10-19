@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1606290",
+        "name": "Amphoe Si Maha Phot",
+        "stateId": "1906687",
+        "latitude": 13.89041,
+        "longitude": 101.54181
+    },
+    {
+        "cityId": "1607282",
+        "name": "Amphoe Prachantakham",
+        "stateId": "1906687",
+        "latitude": 14.22813,
+        "longitude": 101.5744
+    },
+    {
+        "cityId": "1608629",
+        "name": "Amphoe Mueang Prachin Buri",
+        "stateId": "1906687",
+        "latitude": 14.09335,
+        "longitude": 101.39776
+    },
+    {
+        "cityId": "1610537",
+        "name": "Amphoe Kabin Buri",
+        "stateId": "1906687",
+        "latitude": 13.9,
+        "longitude": 101.8
+    },
+    {
+        "cityId": "1613406",
+        "name": "Amphoe Ban Sang",
+        "stateId": "1906687",
+        "latitude": 13.95005,
+        "longitude": 101.25063
+    },
+    {
+        "cityId": "7510706",
+        "name": "Amphoe Si Mahosot",
+        "stateId": "1906687",
+        "latitude": 13.87669,
+        "longitude": 101.42499
+    },
+    {
+        "cityId": "7510726",
+        "name": "Amphoe Na Di",
+        "stateId": "1906687",
+        "latitude": 14.19253,
+        "longitude": 101.84557
+    }
+]

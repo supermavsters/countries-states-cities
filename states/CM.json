@@ -1,0 +1,72 @@
+[
+    {
+        "stateId": "2236015",
+        "name": "Adamaoua Region",
+        "countryId": "2233387",
+        "latitude": 6.83333,
+        "longitude": 13.25
+    },
+    {
+        "stateId": "2233376",
+        "name": "Centre Region",
+        "countryId": "2233387",
+        "latitude": 4.75,
+        "longitude": 11.83333
+    },
+    {
+        "stateId": "2231835",
+        "name": "East Region",
+        "countryId": "2233387",
+        "latitude": 3.83333,
+        "longitude": 14.16667
+    },
+    {
+        "stateId": "2231755",
+        "name": "Far North Region",
+        "countryId": "2233387",
+        "latitude": 11,
+        "longitude": 14.5
+    },
+    {
+        "stateId": "2229336",
+        "name": "Littoral Region",
+        "countryId": "2233387",
+        "latitude": 4.26667,
+        "longitude": 10.13333
+    },
+    {
+        "stateId": "2223603",
+        "name": "North Region",
+        "countryId": "2233387",
+        "latitude": 8.5,
+        "longitude": 14
+    },
+    {
+        "stateId": "2223602",
+        "name": "North-West Region",
+        "countryId": "2233387",
+        "latitude": 6.36667,
+        "longitude": 10.36667
+    },
+    {
+        "stateId": "2221789",
+        "name": "South Region",
+        "countryId": "2233387",
+        "latitude": 2.75,
+        "longitude": 11.58333
+    },
+    {
+        "stateId": "2221788",
+        "name": "South-West Region",
+        "countryId": "2233387",
+        "latitude": 5.2,
+        "longitude": 9.3
+    },
+    {
+        "stateId": "2222934",
+        "name": "West Region",
+        "countryId": "2233387",
+        "latitude": 5.5,
+        "longitude": 10.66667
+    }
+]

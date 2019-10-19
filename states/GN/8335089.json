@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2414544",
+        "name": "Tougue Prefecture",
+        "stateId": "8335089",
+        "latitude": 11.46667,
+        "longitude": -11.6
+    },
+    {
+        "cityId": "2417885",
+        "name": "Mali Prefecture",
+        "stateId": "8335089",
+        "latitude": 12.08333,
+        "longitude": -12.08333
+    },
+    {
+        "cityId": "2418360",
+        "name": "Labe Prefecture",
+        "stateId": "8335089",
+        "latitude": 11.366,
+        "longitude": -12.3
+    },
+    {
+        "cityId": "2595302",
+        "name": "Koubia",
+        "stateId": "8335089",
+        "latitude": 11.58333,
+        "longitude": -11.83333
+    },
+    {
+        "cityId": "2595303",
+        "name": "Lelouma Prefecture",
+        "stateId": "8335089",
+        "latitude": 11.41667,
+        "longitude": -12.66667
+    }
+]

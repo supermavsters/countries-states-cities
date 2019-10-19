@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "9212606",
+        "name": "Aioun",
+        "stateId": "2379024",
+        "latitude": 16.80461,
+        "longitude": -9.25297
+    },
+    {
+        "cityId": "9212607",
+        "name": "Tamchakett",
+        "stateId": "2379024",
+        "latitude": 17.08635,
+        "longitude": -10.46313
+    },
+    {
+        "cityId": "9212625",
+        "name": "Tintane",
+        "stateId": "2379024",
+        "latitude": 15.98133,
+        "longitude": -10.31841
+    },
+    {
+        "cityId": "9212627",
+        "name": "Kobenni",
+        "stateId": "2379024",
+        "latitude": 15.91751,
+        "longitude": -9.45314
+    },
+    {
+        "cityId": "9224942",
+        "name": "Ayoun el Atrous",
+        "stateId": "2379024",
+        "latitude": 16.66658,
+        "longitude": -9.61692
+    },
+    {
+        "cityId": "9226673",
+        "name": "Tamchekett",
+        "stateId": "2379024",
+        "latitude": 17.24562,
+        "longitude": -10.67017
+    },
+    {
+        "cityId": "9226996",
+        "name": "Djigueni",
+        "stateId": "2379024",
+        "latitude": 15.75489,
+        "longitude": -8.66544
+    }
+]

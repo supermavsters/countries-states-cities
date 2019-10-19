@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2960631",
+        "name": "Echternach",
+        "stateId": "2960629",
+        "latitude": 49.81307,
+        "longitude": 6.42185
+    },
+    {
+        "cityId": "6693334",
+        "name": "Beaufort",
+        "stateId": "2960629",
+        "latitude": 49.83583,
+        "longitude": 6.29167
+    },
+    {
+        "cityId": "6693335",
+        "name": "Bech",
+        "stateId": "2960629",
+        "latitude": 49.74611,
+        "longitude": 6.36361
+    },
+    {
+        "cityId": "6693336",
+        "name": "Berdorf",
+        "stateId": "2960629",
+        "latitude": 49.81361,
+        "longitude": 6.35028
+    },
+    {
+        "cityId": "6693337",
+        "name": "Consdorf",
+        "stateId": "2960629",
+        "latitude": 49.77306,
+        "longitude": 6.33833
+    },
+    {
+        "cityId": "6693338",
+        "name": "Mompach",
+        "stateId": "2960629",
+        "latitude": 49.74611,
+        "longitude": 6.465
+    },
+    {
+        "cityId": "6693339",
+        "name": "Rosport",
+        "stateId": "2960629",
+        "latitude": 49.79778,
+        "longitude": 6.50417
+    },
+    {
+        "cityId": "6693340",
+        "name": "Waldbillig",
+        "stateId": "2960629",
+        "latitude": 49.78889,
+        "longitude": 6.28667
+    }
+]

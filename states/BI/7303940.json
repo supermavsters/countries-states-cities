@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "7670608",
+        "name": "Commune of Mutimbuzi",
+        "stateId": "7303940",
+        "latitude": -3.293,
+        "longitude": 29.325
+    },
+    {
+        "cityId": "9171805",
+        "name": "Kanyosha1",
+        "stateId": "7303940",
+        "latitude": -3.43097,
+        "longitude": 29.41531
+    },
+    {
+        "cityId": "9171806",
+        "name": "Kabezi",
+        "stateId": "7303940",
+        "latitude": -3.5311,
+        "longitude": 29.36997
+    },
+    {
+        "cityId": "9171807",
+        "name": "Mukike",
+        "stateId": "7303940",
+        "latitude": -3.56457,
+        "longitude": 29.51392
+    },
+    {
+        "cityId": "9171808",
+        "name": "Mutambu",
+        "stateId": "7303940",
+        "latitude": -3.5285,
+        "longitude": 29.43279
+    },
+    {
+        "cityId": "9171809",
+        "name": "Nyabiraba",
+        "stateId": "7303940",
+        "latitude": -3.45759,
+        "longitude": 29.47524
+    },
+    {
+        "cityId": "9171815",
+        "name": "Mugongomanga",
+        "stateId": "7303940",
+        "latitude": -3.44141,
+        "longitude": 29.54853
+    },
+    {
+        "cityId": "9171821",
+        "name": "Isale",
+        "stateId": "7303940",
+        "latitude": -3.36344,
+        "longitude": 29.47045
+    },
+    {
+        "cityId": "9171825",
+        "name": "Mubimbi",
+        "stateId": "7303940",
+        "latitude": -3.29574,
+        "longitude": 29.48403
+    }
+]

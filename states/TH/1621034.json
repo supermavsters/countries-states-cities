@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1605017",
+        "name": "Amphoe Wiset Chai Chan",
+        "stateId": "1621034",
+        "latitude": 14.5499,
+        "longitude": 100.31743
+    },
+    {
+        "cityId": "1606373",
+        "name": "Amphoe Sawaeng Ha",
+        "stateId": "1621034",
+        "latitude": 14.74635,
+        "longitude": 100.28963
+    },
+    {
+        "cityId": "1606683",
+        "name": "Amphoe Sam Ko",
+        "stateId": "1621034",
+        "latitude": 14.59982,
+        "longitude": 100.25404
+    },
+    {
+        "cityId": "1607578",
+        "name": "Amphoe Pho Thong",
+        "stateId": "1621034",
+        "latitude": 14.67344,
+        "longitude": 100.34569
+    },
+    {
+        "cityId": "1608010",
+        "name": "Amphoe Pa Mok",
+        "stateId": "1621034",
+        "latitude": 14.4862,
+        "longitude": 100.4573
+    },
+    {
+        "cityId": "1608665",
+        "name": "Amphoe Mueang Ang Thong",
+        "stateId": "1621034",
+        "latitude": 14.57815,
+        "longitude": 100.44393
+    },
+    {
+        "cityId": "1611404",
+        "name": "Amphoe Chaiyo",
+        "stateId": "1621034",
+        "latitude": 14.67225,
+        "longitude": 100.46786
+    }
+]

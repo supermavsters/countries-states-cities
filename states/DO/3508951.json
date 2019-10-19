@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3493888",
+        "name": "Restauraci\u00f3n",
+        "stateId": "3508951",
+        "latitude": 19.3,
+        "longitude": -71.58333
+    },
+    {
+        "cityId": "3499604",
+        "name": "Loma de Cabrera",
+        "stateId": "3508951",
+        "latitude": 19.41667,
+        "longitude": -71.58333
+    },
+    {
+        "cityId": "3508954",
+        "name": "Dajab\u00f3n",
+        "stateId": "3508951",
+        "latitude": 19.58333,
+        "longitude": -71.58333
+    },
+    {
+        "cityId": "11154539",
+        "name": "Partido",
+        "stateId": "3508951",
+        "latitude": 19.50119,
+        "longitude": -71.5181
+    },
+    {
+        "cityId": "11154540",
+        "name": "El Pino",
+        "stateId": "3508951",
+        "latitude": 19.40619,
+        "longitude": -71.49764
+    }
+]

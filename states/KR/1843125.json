@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "1832256",
+        "name": "Yeongwol-gun",
+        "stateId": "1843125",
+        "latitude": 37.1833,
+        "longitude": 128.4615
+    },
+    {
+        "cityId": "1832808",
+        "name": "Yangyang-gun",
+        "stateId": "1843125",
+        "latitude": 38.06215,
+        "longitude": 128.61471
+    },
+    {
+        "cityId": "1832908",
+        "name": "Yanggu-gun",
+        "stateId": "1843125",
+        "latitude": 38.1016,
+        "longitude": 127.98555
+    },
+    {
+        "cityId": "1833099",
+        "name": "Wonju-si",
+        "stateId": "1843125",
+        "latitude": 37.32104,
+        "longitude": 127.92132
+    },
+    {
+        "cityId": "1834262",
+        "name": "Donghae-si",
+        "stateId": "1843125",
+        "latitude": 37.52345,
+        "longitude": 129.11357
+    },
+    {
+        "cityId": "1836534",
+        "name": "Sokcho-si",
+        "stateId": "1843125",
+        "latitude": 38.20725,
+        "longitude": 128.59275
+    },
+    {
+        "cityId": "1838467",
+        "name": "Pyeongchang-gun",
+        "stateId": "1843125",
+        "latitude": 37.3682,
+        "longitude": 128.3955
+    },
+    {
+        "cityId": "1842514",
+        "name": "Goseong-gun",
+        "stateId": "1843125",
+        "latitude": 38.37945,
+        "longitude": 128.46755
+    },
+    {
+        "cityId": "1843136",
+        "name": "Gangneung-si",
+        "stateId": "1843125",
+        "latitude": 37.7519,
+        "longitude": 128.87825
+    },
+    {
+        "cityId": "1843543",
+        "name": "Inje-gun",
+        "stateId": "1843125",
+        "latitude": 38.04416,
+        "longitude": 128.27876
+    },
+    {
+        "cityId": "1844190",
+        "name": "Hongcheon-gun",
+        "stateId": "1843125",
+        "latitude": 37.76058,
+        "longitude": 128.02823
+    },
+    {
+        "cityId": "1844239",
+        "name": "Hoengseong-gun",
+        "stateId": "1843125",
+        "latitude": 37.48817,
+        "longitude": 127.9857
+    },
+    {
+        "cityId": "1845134",
+        "name": "Chuncheon-si",
+        "stateId": "1843125",
+        "latitude": 37.88048,
+        "longitude": 127.72776
+    },
+    {
+        "cityId": "1845344",
+        "name": "Cheorwon-gun",
+        "stateId": "1843125",
+        "latitude": 38.24391,
+        "longitude": 127.44522
+    },
+    {
+        "cityId": "1845515",
+        "name": "Jeongseon-gun",
+        "stateId": "1843125",
+        "latitude": 37.38911,
+        "longitude": 128.72995
+    },
+    {
+        "cityId": "8393538",
+        "name": "Hwacheon-gun",
+        "stateId": "1843125",
+        "latitude": 38.14212,
+        "longitude": 127.67615
+    },
+    {
+        "cityId": "8393711",
+        "name": "Taebaek-si",
+        "stateId": "1843125",
+        "latitude": 37.1652,
+        "longitude": 128.9857
+    },
+    {
+        "cityId": "8604737",
+        "name": "Samcheok-si",
+        "stateId": "1843125",
+        "latitude": 37.45013,
+        "longitude": 129.16626
+    }
+]

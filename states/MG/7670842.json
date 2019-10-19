@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9534953",
+        "name": "Antsiranana I",
+        "stateId": "7670842",
+        "latitude": -12.31049,
+        "longitude": 49.2778
+    },
+    {
+        "cityId": "9534954",
+        "name": "Antsiranana II",
+        "stateId": "7670842",
+        "latitude": -12.46071,
+        "longitude": 49.23935
+    },
+    {
+        "cityId": "11072841",
+        "name": "Nosy Be",
+        "stateId": "7670842",
+        "latitude": -13.34196,
+        "longitude": 48.25779
+    },
+    {
+        "cityId": "11427437",
+        "name": "Ambilobe",
+        "stateId": "7670842",
+        "latitude": -13.20261,
+        "longitude": 49.05141
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "3925567",
+        "name": "Provincia de Yauyos",
+        "stateId": "3936452",
+        "latitude": -12.41667,
+        "longitude": -76
+    },
+    {
+        "cityId": "3939153",
+        "name": "Provincia de Huarochir\u00ed",
+        "stateId": "3936452",
+        "latitude": -11.91667,
+        "longitude": -76.41667
+    },
+    {
+        "cityId": "3939284",
+        "name": "Provincia de Huaral",
+        "stateId": "3936452",
+        "latitude": -11.25,
+        "longitude": -76.91667
+    },
+    {
+        "cityId": "3945748",
+        "name": "Provincia de Canta",
+        "stateId": "3936452",
+        "latitude": -11.46667,
+        "longitude": -76.61667
+    },
+    {
+        "cityId": "3945799",
+        "name": "Provincia de Ca\u00f1ete",
+        "stateId": "3936452",
+        "latitude": -12.75,
+        "longitude": -76.33333
+    },
+    {
+        "cityId": "3946262",
+        "name": "Provincia de Cajatambo",
+        "stateId": "3936452",
+        "latitude": -10.66667,
+        "longitude": -77
+    },
+    {
+        "cityId": "8349564",
+        "name": "Barranca",
+        "stateId": "3936452",
+        "latitude": -10.66599,
+        "longitude": -77.65707
+    },
+    {
+        "cityId": "8349565",
+        "name": "Huaura",
+        "stateId": "3936452",
+        "latitude": -11.03363,
+        "longitude": -77.23795
+    },
+    {
+        "cityId": "8349566",
+        "name": "Oyon",
+        "stateId": "3936452",
+        "latitude": -10.75869,
+        "longitude": -76.87634
+    },
+    {
+        "cityId": "8349601",
+        "name": "Lima",
+        "stateId": "3936452",
+        "latitude": -12.0179,
+        "longitude": -76.90432
+    }
+]

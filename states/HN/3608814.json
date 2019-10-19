@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3600485",
+        "name": "Utila",
+        "stateId": "3608814",
+        "latitude": 16.1,
+        "longitude": -86.91667
+    },
+    {
+        "cityId": "3602737",
+        "name": "Roat\u00e1n",
+        "stateId": "3608814",
+        "latitude": 16.34098,
+        "longitude": -86.53763
+    },
+    {
+        "cityId": "3608605",
+        "name": "Jos\u00e9 Santos Guardiola",
+        "stateId": "3608814",
+        "latitude": 16.41667,
+        "longitude": -86.25
+    },
+    {
+        "cityId": "3609294",
+        "name": "Guanaja",
+        "stateId": "3608814",
+        "latitude": 16.45,
+        "longitude": -85.9
+    }
+]

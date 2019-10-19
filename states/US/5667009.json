@@ -1,0 +1,394 @@
+[
+    {
+        "cityId": "5639238",
+        "name": "Beaverhead County",
+        "stateId": "5667009",
+        "latitude": 45.13273,
+        "longitude": -112.89889
+    },
+    {
+        "cityId": "5639974",
+        "name": "Big Horn County",
+        "stateId": "5667009",
+        "latitude": 45.42346,
+        "longitude": -107.4897
+    },
+    {
+        "cityId": "5640934",
+        "name": "Blaine County",
+        "stateId": "5667009",
+        "latitude": 48.43276,
+        "longitude": -108.95866
+    },
+    {
+        "cityId": "5642059",
+        "name": "Broadwater County",
+        "stateId": "5667009",
+        "latitude": 46.33199,
+        "longitude": -111.49547
+    },
+    {
+        "cityId": "5643686",
+        "name": "Carbon County",
+        "stateId": "5667009",
+        "latitude": 45.22737,
+        "longitude": -109.02832
+    },
+    {
+        "cityId": "5643864",
+        "name": "Carter County",
+        "stateId": "5667009",
+        "latitude": 45.51677,
+        "longitude": -104.53616
+    },
+    {
+        "cityId": "5643929",
+        "name": "Cascade County",
+        "stateId": "5667009",
+        "latitude": 47.30802,
+        "longitude": -111.34715
+    },
+    {
+        "cityId": "5644870",
+        "name": "Chouteau County",
+        "stateId": "5667009",
+        "latitude": 47.88056,
+        "longitude": -110.4352
+    },
+    {
+        "cityId": "5647449",
+        "name": "Custer County",
+        "stateId": "5667009",
+        "latitude": 46.2527,
+        "longitude": -105.57178
+    },
+    {
+        "cityId": "5647744",
+        "name": "Daniels County",
+        "stateId": "5667009",
+        "latitude": 48.78381,
+        "longitude": -105.54857
+    },
+    {
+        "cityId": "5647905",
+        "name": "Dawson County",
+        "stateId": "5667009",
+        "latitude": 47.26638,
+        "longitude": -104.89946
+    },
+    {
+        "cityId": "5648270",
+        "name": "Deer Lodge County",
+        "stateId": "5667009",
+        "latitude": 46.06079,
+        "longitude": -113.06775
+    },
+    {
+        "cityId": "5651490",
+        "name": "Fallon County",
+        "stateId": "5667009",
+        "latitude": 46.33402,
+        "longitude": -104.41742
+    },
+    {
+        "cityId": "5651735",
+        "name": "Fergus County",
+        "stateId": "5667009",
+        "latitude": 47.26357,
+        "longitude": -109.22433
+    },
+    {
+        "cityId": "5652361",
+        "name": "Flathead County",
+        "stateId": "5667009",
+        "latitude": 48.29516,
+        "longitude": -114.04981
+    },
+    {
+        "cityId": "5653656",
+        "name": "Gallatin County",
+        "stateId": "5667009",
+        "latitude": 45.54049,
+        "longitude": -111.17035
+    },
+    {
+        "cityId": "5653782",
+        "name": "Garfield County",
+        "stateId": "5667009",
+        "latitude": 47.2777,
+        "longitude": -106.99283
+    },
+    {
+        "cityId": "5654267",
+        "name": "Glacier County",
+        "stateId": "5667009",
+        "latitude": 48.70508,
+        "longitude": -112.99475
+    },
+    {
+        "cityId": "5654674",
+        "name": "Golden Valley County",
+        "stateId": "5667009",
+        "latitude": 46.38126,
+        "longitude": -109.17494
+    },
+    {
+        "cityId": "5654985",
+        "name": "Granite County",
+        "stateId": "5667009",
+        "latitude": 46.40444,
+        "longitude": -113.44026
+    },
+    {
+        "cityId": "5657400",
+        "name": "Hill County",
+        "stateId": "5667009",
+        "latitude": 48.62823,
+        "longitude": -110.11131
+    },
+    {
+        "cityId": "5659534",
+        "name": "Jefferson County",
+        "stateId": "5667009",
+        "latitude": 46.14849,
+        "longitude": -112.09374
+    },
+    {
+        "cityId": "5660055",
+        "name": "Judith Basin County",
+        "stateId": "5667009",
+        "latitude": 47.04546,
+        "longitude": -110.26607
+    },
+    {
+        "cityId": "5661385",
+        "name": "Lake County",
+        "stateId": "5667009",
+        "latitude": 47.64594,
+        "longitude": -114.08935
+    },
+    {
+        "cityId": "5662129",
+        "name": "Lewis and Clark County",
+        "stateId": "5667009",
+        "latitude": 47.12234,
+        "longitude": -112.39035
+    },
+    {
+        "cityId": "5662222",
+        "name": "Liberty County",
+        "stateId": "5667009",
+        "latitude": 48.56169,
+        "longitude": -111.02461
+    },
+    {
+        "cityId": "5662406",
+        "name": "Lincoln County",
+        "stateId": "5667009",
+        "latitude": 48.54253,
+        "longitude": -115.40519
+    },
+    {
+        "cityId": "5664295",
+        "name": "Madison County",
+        "stateId": "5667009",
+        "latitude": 45.30074,
+        "longitude": -111.92033
+    },
+    {
+        "cityId": "5665177",
+        "name": "McCone County",
+        "stateId": "5667009",
+        "latitude": 47.64523,
+        "longitude": -105.79534
+    },
+    {
+        "cityId": "5665612",
+        "name": "Meagher County",
+        "stateId": "5667009",
+        "latitude": 46.59819,
+        "longitude": -110.88564
+    },
+    {
+        "cityId": "5666480",
+        "name": "Mineral County",
+        "stateId": "5667009",
+        "latitude": 47.14732,
+        "longitude": -114.9985
+    },
+    {
+        "cityId": "5666648",
+        "name": "Missoula County",
+        "stateId": "5667009",
+        "latitude": 47.03649,
+        "longitude": -113.92371
+    },
+    {
+        "cityId": "5667879",
+        "name": "Musselshell County",
+        "stateId": "5667009",
+        "latitude": 46.49655,
+        "longitude": -108.39771
+    },
+    {
+        "cityId": "5670652",
+        "name": "Park County",
+        "stateId": "5667009",
+        "latitude": 45.48834,
+        "longitude": -110.52632
+    },
+    {
+        "cityId": "5671200",
+        "name": "Petroleum County",
+        "stateId": "5667009",
+        "latitude": 47.11751,
+        "longitude": -108.25012
+    },
+    {
+        "cityId": "5671269",
+        "name": "Phillips County",
+        "stateId": "5667009",
+        "latitude": 48.25909,
+        "longitude": -107.91329
+    },
+    {
+        "cityId": "5672061",
+        "name": "Pondera County",
+        "stateId": "5667009",
+        "latitude": 48.22798,
+        "longitude": -112.22639
+    },
+    {
+        "cityId": "5672326",
+        "name": "Powder River County",
+        "stateId": "5667009",
+        "latitude": 45.39501,
+        "longitude": -105.6301
+    },
+    {
+        "cityId": "5672344",
+        "name": "Powell County",
+        "stateId": "5667009",
+        "latitude": 46.85663,
+        "longitude": -112.9362
+    },
+    {
+        "cityId": "5672408",
+        "name": "Prairie County",
+        "stateId": "5667009",
+        "latitude": 46.86049,
+        "longitude": -105.37794
+    },
+    {
+        "cityId": "5673204",
+        "name": "Ravalli County",
+        "stateId": "5667009",
+        "latitude": 46.0817,
+        "longitude": -114.12069
+    },
+    {
+        "cityId": "5673849",
+        "name": "Richland County",
+        "stateId": "5667009",
+        "latitude": 47.78792,
+        "longitude": -104.56134
+    },
+    {
+        "cityId": "5674655",
+        "name": "Roosevelt County",
+        "stateId": "5667009",
+        "latitude": 48.29455,
+        "longitude": -105.01652
+    },
+    {
+        "cityId": "5674707",
+        "name": "Rosebud County",
+        "stateId": "5667009",
+        "latitude": 46.22974,
+        "longitude": -106.73082
+    },
+    {
+        "cityId": "5676299",
+        "name": "Sanders County",
+        "stateId": "5667009",
+        "latitude": 47.67483,
+        "longitude": -115.13329
+    },
+    {
+        "cityId": "5677503",
+        "name": "Sheridan County",
+        "stateId": "5667009",
+        "latitude": 48.7212,
+        "longitude": -104.50468
+    },
+    {
+        "cityId": "5677822",
+        "name": "Silver Bow County",
+        "stateId": "5667009",
+        "latitude": 45.90236,
+        "longitude": -112.65672
+    },
+    {
+        "cityId": "5680538",
+        "name": "Stillwater County",
+        "stateId": "5667009",
+        "latitude": 45.66944,
+        "longitude": -109.39477
+    },
+    {
+        "cityId": "5681435",
+        "name": "Sweet Grass County",
+        "stateId": "5667009",
+        "latitude": 45.81373,
+        "longitude": -109.94105
+    },
+    {
+        "cityId": "5681965",
+        "name": "Teton County",
+        "stateId": "5667009",
+        "latitude": 47.83729,
+        "longitude": -112.2408
+    },
+    {
+        "cityId": "5682810",
+        "name": "Toole County",
+        "stateId": "5667009",
+        "latitude": 48.6553,
+        "longitude": -111.6957
+    },
+    {
+        "cityId": "5683061",
+        "name": "Treasure County",
+        "stateId": "5667009",
+        "latitude": 46.21147,
+        "longitude": -107.2717
+    },
+    {
+        "cityId": "5684246",
+        "name": "Valley County",
+        "stateId": "5667009",
+        "latitude": 48.36531,
+        "longitude": -106.66752
+    },
+    {
+        "cityId": "5685886",
+        "name": "Wheatland County",
+        "stateId": "5667009",
+        "latitude": 46.46634,
+        "longitude": -109.8444
+    },
+    {
+        "cityId": "5686294",
+        "name": "Wibaux County",
+        "stateId": "5667009",
+        "latitude": 46.96535,
+        "longitude": -104.24897
+    },
+    {
+        "cityId": "5687489",
+        "name": "Yellowstone County",
+        "stateId": "5667009",
+        "latitude": 45.93725,
+        "longitude": -108.27435
+    }
+]

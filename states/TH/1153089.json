@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1151307",
+        "name": "Amphoe Phran Kratai",
+        "stateId": "1153089",
+        "latitude": 16.70541,
+        "longitude": 99.53704
+    },
+    {
+        "cityId": "1151997",
+        "name": "Amphoe Mueang Kamphaeng Phet",
+        "stateId": "1153089",
+        "latitude": 16.43254,
+        "longitude": 99.48831
+    },
+    {
+        "cityId": "1152853",
+        "name": "Amphoe Khlong Khlung",
+        "stateId": "1153089",
+        "latitude": 16.22191,
+        "longitude": 99.67654
+    },
+    {
+        "cityId": "1152952",
+        "name": "Amphoe Khanu Woralaksaburi",
+        "stateId": "1153089",
+        "latitude": 16.00233,
+        "longitude": 99.67618
+    },
+    {
+        "cityId": "7510630",
+        "name": "Amphoe Khlong Lan",
+        "stateId": "1153089",
+        "latitude": 16.25992,
+        "longitude": 99.21806
+    },
+    {
+        "cityId": "7510631",
+        "name": "Amphoe Pang Sila Thong",
+        "stateId": "1153089",
+        "latitude": 16.02525,
+        "longitude": 99.35593
+    },
+    {
+        "cityId": "7510632",
+        "name": "Amphoe Kosamphi Nakhon",
+        "stateId": "1153089",
+        "latitude": 16.60702,
+        "longitude": 99.34795
+    },
+    {
+        "cityId": "7510664",
+        "name": "Amphoe Sai Thong Watthana",
+        "stateId": "1153089",
+        "latitude": 16.30859,
+        "longitude": 99.87854
+    },
+    {
+        "cityId": "7510665",
+        "name": "Amphoe Bueng Samakkhi",
+        "stateId": "1153089",
+        "latitude": 16.21262,
+        "longitude": 99.9672
+    },
+    {
+        "cityId": "7510666",
+        "name": "Amphoe Lan Krabue",
+        "stateId": "1153089",
+        "latitude": 16.60348,
+        "longitude": 99.86521
+    },
+    {
+        "cityId": "8534567",
+        "name": "Amphoe Sai Ngam",
+        "stateId": "1153089",
+        "latitude": 16.43956,
+        "longitude": 99.87457
+    }
+]

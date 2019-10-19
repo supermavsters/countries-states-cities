@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "596240",
+        "name": "Palanga",
+        "stateId": "864478",
+        "latitude": 55.91667,
+        "longitude": 21.05
+    },
+    {
+        "cityId": "596644",
+        "name": "Neringa",
+        "stateId": "864478",
+        "latitude": 55.36667,
+        "longitude": 21.06667
+    },
+    {
+        "cityId": "598095",
+        "name": "Klaip\u0117dos rajonas",
+        "stateId": "864478",
+        "latitude": 55.71667,
+        "longitude": 21.4
+    },
+    {
+        "cityId": "598099",
+        "name": "Klaip\u0117da",
+        "stateId": "864478",
+        "latitude": 55.71667,
+        "longitude": 21.11667
+    },
+    {
+        "cityId": "864494",
+        "name": "Kretinga",
+        "stateId": "864478",
+        "latitude": 55.88333,
+        "longitude": 21.25
+    },
+    {
+        "cityId": "864495",
+        "name": "Skuodas",
+        "stateId": "864478",
+        "latitude": 56.26667,
+        "longitude": 21.53333
+    },
+    {
+        "cityId": "864496",
+        "name": "\u0160ilut\u0117",
+        "stateId": "864478",
+        "latitude": 55.35,
+        "longitude": 21.48333
+    }
+]

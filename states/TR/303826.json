@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7732948",
+        "name": "Merkez",
+        "stateId": "303826",
+        "latitude": 38.10332,
+        "longitude": 34.80184
+    },
+    {
+        "cityId": "7910465",
+        "name": "Ulukisla",
+        "stateId": "303826",
+        "latitude": 37.54592,
+        "longitude": 34.58737
+    },
+    {
+        "cityId": "7910467",
+        "name": "Bor",
+        "stateId": "303826",
+        "latitude": 37.8354,
+        "longitude": 34.50313
+    },
+    {
+        "cityId": "8631911",
+        "name": "Altunhisar \u0130l\u00e7esi",
+        "stateId": "303826",
+        "latitude": 38.00044,
+        "longitude": 34.36067
+    },
+    {
+        "cityId": "8631912",
+        "name": "\u00c7amard\u0131 \u0130l\u00e7esi",
+        "stateId": "303826",
+        "latitude": 37.84157,
+        "longitude": 34.99005
+    },
+    {
+        "cityId": "8631913",
+        "name": "\u00c7iftlik \u0130l\u00e7esi",
+        "stateId": "303826",
+        "latitude": 38.18584,
+        "longitude": 34.47465
+    }
+]

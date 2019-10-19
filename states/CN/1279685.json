@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1279714",
+        "name": "Rikaze Diqu",
+        "stateId": "1279685",
+        "latitude": 29.10584,
+        "longitude": 86.8754
+    },
+    {
+        "cityId": "1280019",
+        "name": "Shannan Diqu",
+        "stateId": "1279685",
+        "latitude": 28.5563,
+        "longitude": 92.55684
+    },
+    {
+        "cityId": "1280280",
+        "name": "Qamdo Shi",
+        "stateId": "1279685",
+        "latitude": 31.5837,
+        "longitude": 97.22304
+    },
+    {
+        "cityId": "1280390",
+        "name": "Nyingchi Prefecture",
+        "stateId": "1279685",
+        "latitude": 29.60092,
+        "longitude": 94.42406
+    },
+    {
+        "cityId": "1280456",
+        "name": "Ngari Diqu",
+        "stateId": "1279685",
+        "latitude": 33.21836,
+        "longitude": 82.57507
+    },
+    {
+        "cityId": "1280515",
+        "name": "Nagqu Diqu",
+        "stateId": "1279685",
+        "latitude": 32.66357,
+        "longitude": 88.93146
+    },
+    {
+        "cityId": "1280735",
+        "name": "Lhasa Shi",
+        "stateId": "1279685",
+        "latitude": 30.31159,
+        "longitude": 91.31109
+    }
+]

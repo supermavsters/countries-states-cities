@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1732585",
+        "name": "Temerluh",
+        "stateId": "1733042",
+        "latitude": 3.66667,
+        "longitude": 102.25
+    },
+    {
+        "cityId": "1734988",
+        "name": "Bera",
+        "stateId": "1733042",
+        "latitude": 3.33333,
+        "longitude": 102.5
+    },
+    {
+        "cityId": "1735203",
+        "name": "Daerah Jerantut",
+        "stateId": "1733042",
+        "latitude": 4.25,
+        "longitude": 102.66667
+    },
+    {
+        "cityId": "1735261",
+        "name": "Cameron Highlands",
+        "stateId": "1733042",
+        "latitude": 4.4709,
+        "longitude": 101.3764
+    }
+]

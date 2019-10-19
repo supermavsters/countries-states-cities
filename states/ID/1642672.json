@@ -1,0 +1,191 @@
+[
+    {
+        "cityId": "1624645",
+        "name": "Kota Tasikmalaya",
+        "stateId": "1642672",
+        "latitude": -7.35,
+        "longitude": 108.21667
+    },
+    {
+        "cityId": "1624646",
+        "name": "Kabupaten Tasikmalaya",
+        "stateId": "1642672",
+        "latitude": -7.5,
+        "longitude": 108.13333
+    },
+    {
+        "cityId": "1626102",
+        "name": "Kabupaten Sumedang",
+        "stateId": "1642672",
+        "latitude": -6.81667,
+        "longitude": 107.98333
+    },
+    {
+        "cityId": "1626379",
+        "name": "Kota Sukabumi",
+        "stateId": "1642672",
+        "latitude": -6.95,
+        "longitude": 106.93333
+    },
+    {
+        "cityId": "1626380",
+        "name": "Kabupaten Sukabumi",
+        "stateId": "1642672",
+        "latitude": -7.06667,
+        "longitude": 106.7
+    },
+    {
+        "cityId": "1630340",
+        "name": "Kabupaten Purwakarta",
+        "stateId": "1642672",
+        "latitude": -6.58333,
+        "longitude": 107.45
+    },
+    {
+        "cityId": "1636815",
+        "name": "Kabupaten Majalengka",
+        "stateId": "1642672",
+        "latitude": -6.81667,
+        "longitude": 108.28333
+    },
+    {
+        "cityId": "1639093",
+        "name": "Kabupaten Kuningan",
+        "stateId": "1642672",
+        "latitude": -7,
+        "longitude": 108.55
+    },
+    {
+        "cityId": "1641133",
+        "name": "Kabupaten Karawang",
+        "stateId": "1642672",
+        "latitude": -6.26667,
+        "longitude": 107.41667
+    },
+    {
+        "cityId": "1643077",
+        "name": "Kabupaten Indramayu",
+        "stateId": "1642672",
+        "latitude": -6.45,
+        "longitude": 108.16667
+    },
+    {
+        "cityId": "1644408",
+        "name": "Kabupaten Garut",
+        "stateId": "1642672",
+        "latitude": -7.38333,
+        "longitude": 107.76667
+    },
+    {
+        "cityId": "1646168",
+        "name": "Kota Cirebon",
+        "stateId": "1642672",
+        "latitude": -6.75,
+        "longitude": 108.55
+    },
+    {
+        "cityId": "1646169",
+        "name": "Kabupaten Cirebon",
+        "stateId": "1642672",
+        "latitude": -6.8,
+        "longitude": 108.56667
+    },
+    {
+        "cityId": "1646446",
+        "name": "Kota Cimahi",
+        "stateId": "1642672",
+        "latitude": -6.89167,
+        "longitude": 107.55
+    },
+    {
+        "cityId": "1647148",
+        "name": "Kabupaten Ciamis",
+        "stateId": "1642672",
+        "latitude": -7.28333,
+        "longitude": 108.41667
+    },
+    {
+        "cityId": "1648470",
+        "name": "Kota Bogor",
+        "stateId": "1642672",
+        "latitude": -6.59167,
+        "longitude": 106.8
+    },
+    {
+        "cityId": "1648471",
+        "name": "Kabupaten Bogor",
+        "stateId": "1642672",
+        "latitude": -6.58333,
+        "longitude": 106.71667
+    },
+    {
+        "cityId": "1649377",
+        "name": "Kabupaten Bekasi",
+        "stateId": "1642672",
+        "latitude": -6.24667,
+        "longitude": 107.10833
+    },
+    {
+        "cityId": "1650352",
+        "name": "Kabupaten Bandung",
+        "stateId": "1642672",
+        "latitude": -7.1,
+        "longitude": 107.6
+    },
+    {
+        "cityId": "6559695",
+        "name": "Kota Bandung",
+        "stateId": "1642672",
+        "latitude": -6.9175,
+        "longitude": 107.62444
+    },
+    {
+        "cityId": "6581948",
+        "name": "Kabupaten Subang",
+        "stateId": "1642672",
+        "latitude": -6.50833,
+        "longitude": 107.7025
+    },
+    {
+        "cityId": "6588980",
+        "name": "Kabupaten Cianjur",
+        "stateId": "1642672",
+        "latitude": -6.7725,
+        "longitude": 107.08306
+    },
+    {
+        "cityId": "6599302",
+        "name": "Kota Bekasi",
+        "stateId": "1642672",
+        "latitude": -6.28333,
+        "longitude": 106.98333
+    },
+    {
+        "cityId": "6751097",
+        "name": "Kota Depok",
+        "stateId": "1642672",
+        "latitude": -6.4,
+        "longitude": 106.81667
+    },
+    {
+        "cityId": "7910336",
+        "name": "Kabupaten Bandung Barat",
+        "stateId": "1642672",
+        "latitude": -6.83333,
+        "longitude": 107.48333
+    },
+    {
+        "cityId": "9827974",
+        "name": "Kabupaten Pangandaran",
+        "stateId": "1642672",
+        "latitude": -7.6673,
+        "longitude": 108.64037
+    },
+    {
+        "cityId": "9855467",
+        "name": "Kota Banjar",
+        "stateId": "1642672",
+        "latitude": -7.36996,
+        "longitude": 108.53209
+    }
+]

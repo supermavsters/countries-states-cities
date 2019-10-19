@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1632653",
+        "name": "Kota Pangkal Pinang",
+        "stateId": "1923047",
+        "latitude": -2.13333,
+        "longitude": 106.13333
+    },
+    {
+        "cityId": "1649281",
+        "name": "Kabupaten Belitung",
+        "stateId": "1923047",
+        "latitude": -2.86667,
+        "longitude": 107.7
+    },
+    {
+        "cityId": "1650314",
+        "name": "Kabupaten Bangka",
+        "stateId": "1923047",
+        "latitude": -1.91667,
+        "longitude": 105.93333
+    },
+    {
+        "cityId": "9821904",
+        "name": "Kabupaten Bangka Selatan",
+        "stateId": "1923047",
+        "latitude": -2.66803,
+        "longitude": 106.01257
+    },
+    {
+        "cityId": "9821905",
+        "name": "Kabupaten Bangka Tengah",
+        "stateId": "1923047",
+        "latitude": -2.33989,
+        "longitude": 106.1142
+    },
+    {
+        "cityId": "9821906",
+        "name": "Kabupaten Bangka Barat",
+        "stateId": "1923047",
+        "latitude": -1.95839,
+        "longitude": 105.53741
+    },
+    {
+        "cityId": "9821907",
+        "name": "Kabupaten Belitung Timur",
+        "stateId": "1923047",
+        "latitude": -2.9627,
+        "longitude": 108.15216
+    }
+]

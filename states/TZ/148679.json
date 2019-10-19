@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "151710",
+        "name": "Ngara",
+        "stateId": "148679",
+        "latitude": -2.64363,
+        "longitude": 30.66136
+    },
+    {
+        "cityId": "152569",
+        "name": "Muleba",
+        "stateId": "148679",
+        "latitude": -1.85664,
+        "longitude": 31.54392
+    },
+    {
+        "cityId": "158337",
+        "name": "Karagwe",
+        "stateId": "148679",
+        "latitude": -1.69053,
+        "longitude": 31.04259
+    },
+    {
+        "cityId": "160960",
+        "name": "Bukoba",
+        "stateId": "148679",
+        "latitude": -1.4157,
+        "longitude": 31.64538
+    },
+    {
+        "cityId": "161153",
+        "name": "Biharamulo District",
+        "stateId": "148679",
+        "latitude": -2.766,
+        "longitude": 31.459
+    },
+    {
+        "cityId": "9998074",
+        "name": "Bukoba Municipal",
+        "stateId": "148679",
+        "latitude": -1.32076,
+        "longitude": 31.80428
+    },
+    {
+        "cityId": "9998075",
+        "name": "Kyerwa",
+        "stateId": "148679",
+        "latitude": -1.26036,
+        "longitude": 30.79555
+    },
+    {
+        "cityId": "9998076",
+        "name": "Missenyi",
+        "stateId": "148679",
+        "latitude": -1.13218,
+        "longitude": 31.43796
+    }
+]

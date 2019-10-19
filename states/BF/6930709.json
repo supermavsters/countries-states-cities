@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2354771",
+        "name": "Province de la Tapoa",
+        "stateId": "6930709",
+        "latitude": 12,
+        "longitude": 1.75
+    },
+    {
+        "cityId": "2360223",
+        "name": "Province du Gourma",
+        "stateId": "6930709",
+        "latitude": 12.08333,
+        "longitude": 0.5
+    },
+    {
+        "cityId": "2360516",
+        "name": "Gnagna Province",
+        "stateId": "6930709",
+        "latitude": 12.9188,
+        "longitude": 0.0392
+    },
+    {
+        "cityId": "2597259",
+        "name": "Province de la Komandjoari",
+        "stateId": "6930709",
+        "latitude": 12.66667,
+        "longitude": 0.66667
+    },
+    {
+        "cityId": "2597260",
+        "name": "Province de la Kompienga",
+        "stateId": "6930709",
+        "latitude": 11.41667,
+        "longitude": 0.91667
+    }
+]

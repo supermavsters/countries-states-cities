@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7688799",
+        "name": "Nyagatare District",
+        "stateId": "6413337",
+        "latitude": -1.31455,
+        "longitude": 30.37242
+    },
+    {
+        "cityId": "7688800",
+        "name": "Gatsibo District",
+        "stateId": "6413337",
+        "latitude": -1.59185,
+        "longitude": 30.45535
+    },
+    {
+        "cityId": "7688801",
+        "name": "Kayonza District",
+        "stateId": "6413337",
+        "latitude": -1.85101,
+        "longitude": 30.65102
+    },
+    {
+        "cityId": "7688802",
+        "name": "Rwamagana District",
+        "stateId": "6413337",
+        "latitude": -1.97281,
+        "longitude": 30.35428
+    },
+    {
+        "cityId": "7688803",
+        "name": "Bugesera District",
+        "stateId": "6413337",
+        "latitude": -2.23456,
+        "longitude": 30.14825
+    },
+    {
+        "cityId": "7688804",
+        "name": "Ngoma District",
+        "stateId": "6413337",
+        "latitude": -2.18532,
+        "longitude": 30.46961
+    },
+    {
+        "cityId": "7688805",
+        "name": "Kirehe District",
+        "stateId": "6413337",
+        "latitude": -2.25659,
+        "longitude": 30.72617
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7732999",
+        "name": "Merkez",
+        "stateId": "298298",
+        "latitude": 38.68463,
+        "longitude": 29.29455
+    },
+    {
+        "cityId": "8632458",
+        "name": "Karahall\u0131 \u0130l\u00e7esi",
+        "stateId": "298298",
+        "latitude": 38.3309,
+        "longitude": 29.53923
+    },
+    {
+        "cityId": "8632459",
+        "name": "Ulubey",
+        "stateId": "298298",
+        "latitude": 38.4296,
+        "longitude": 29.2964
+    },
+    {
+        "cityId": "8632460",
+        "name": "Sivasl\u0131 \u0130l\u00e7esi",
+        "stateId": "298298",
+        "latitude": 38.50848,
+        "longitude": 29.69016
+    },
+    {
+        "cityId": "8632461",
+        "name": "Banaz \u0130l\u00e7esi",
+        "stateId": "298298",
+        "latitude": 38.74669,
+        "longitude": 29.75798
+    },
+    {
+        "cityId": "8632462",
+        "name": "E\u015fme \u0130l\u00e7esi",
+        "stateId": "298298",
+        "latitude": 38.4093,
+        "longitude": 28.97578
+    }
+]

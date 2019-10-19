@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1487858",
+        "name": "Vagayskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 57.58333,
+        "longitude": 69.16667
+    },
+    {
+        "cityId": "1488464",
+        "name": "Uporovskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56.16667,
+        "longitude": 66.33333
+    },
+    {
+        "cityId": "1491718",
+        "name": "Sladkovskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 55.66667,
+        "longitude": 70.16667
+    },
+    {
+        "cityId": "1496141",
+        "name": "Omutinskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56.41667,
+        "longitude": 67.58333
+    },
+    {
+        "cityId": "1504020",
+        "name": "Kazanskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 55.58333,
+        "longitude": 69.41667
+    },
+    {
+        "cityId": "1505447",
+        "name": "Ishimskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56.16667,
+        "longitude": 69.41667
+    },
+    {
+        "cityId": "1505468",
+        "name": "Isetskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56.5,
+        "longitude": 65.41667
+    },
+    {
+        "cityId": "1506420",
+        "name": "Golyshmanovskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56.41667,
+        "longitude": 68.41667
+    },
+    {
+        "cityId": "1510344",
+        "name": "Berdyuzhskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 55.83333,
+        "longitude": 68.58333
+    },
+    {
+        "cityId": "1511383",
+        "name": "Armizonskiy Rayon",
+        "stateId": "1488747",
+        "latitude": 56,
+        "longitude": 67.58333
+    }
+]

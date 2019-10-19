@@ -1,0 +1,114 @@
+[
+    {
+        "stateId": "7668824",
+        "name": "Artemisa",
+        "countryId": "3562981",
+        "latitude": 22.814,
+        "longitude": -82.75606
+    },
+    {
+        "stateId": "3564073",
+        "name": "La Habana",
+        "countryId": "3562981",
+        "latitude": 23.08333,
+        "longitude": -82.3
+    },
+    {
+        "stateId": "3550595",
+        "name": "Las Tunas",
+        "countryId": "3562981",
+        "latitude": 21.1,
+        "longitude": -76.9
+    },
+    {
+        "stateId": "3556608",
+        "name": "Municipio Especial Isla de la Juventud",
+        "countryId": "3562981",
+        "latitude": 21.7,
+        "longitude": -82.81667
+    },
+    {
+        "stateId": "3558052",
+        "name": "Provincia Granma",
+        "countryId": "3562981",
+        "latitude": 20.28333,
+        "longitude": -76.86667
+    },
+    {
+        "stateId": "7668827",
+        "name": "Provincia Mayabeque",
+        "countryId": "3562981",
+        "latitude": 22.96155,
+        "longitude": -82.14718
+    },
+    {
+        "stateId": "3566062",
+        "name": "Provincia de Camag\u00fcey",
+        "countryId": "3562981",
+        "latitude": 21.35,
+        "longitude": -77.85
+    },
+    {
+        "stateId": "3564175",
+        "name": "Provincia de Ciego de \u00c1vila",
+        "countryId": "3562981",
+        "latitude": 21.96667,
+        "longitude": -78.63333
+    },
+    {
+        "stateId": "3564120",
+        "name": "Provincia de Cienfuegos",
+        "countryId": "3562981",
+        "latitude": 22.26667,
+        "longitude": -80.45
+    },
+    {
+        "stateId": "3557685",
+        "name": "Provincia de Guant\u00e1namo",
+        "countryId": "3562981",
+        "latitude": 20.21667,
+        "longitude": -74.86667
+    },
+    {
+        "stateId": "3556965",
+        "name": "Provincia de Holgu\u00edn",
+        "countryId": "3562981",
+        "latitude": 20.75,
+        "longitude": -75.91667
+    },
+    {
+        "stateId": "3547394",
+        "name": "Provincia de Matanzas",
+        "countryId": "3562981",
+        "latitude": 22.66667,
+        "longitude": -81.16667
+    },
+    {
+        "stateId": "3544088",
+        "name": "Provincia de Pinar del R\u00edo",
+        "countryId": "3562981",
+        "latitude": 22.41667,
+        "longitude": -83.83333
+    },
+    {
+        "stateId": "3540665",
+        "name": "Provincia de Sancti Sp\u00edritus",
+        "countryId": "3562981",
+        "latitude": 21.91667,
+        "longitude": -79.41667
+    },
+    {
+        "stateId": "3536725",
+        "name": "Provincia de Santiago de Cuba",
+        "countryId": "3562981",
+        "latitude": 20.2,
+        "longitude": -75.93333
+    },
+    {
+        "stateId": "3534168",
+        "name": "Provincia de Villa Clara",
+        "countryId": "3562981",
+        "latitude": 22.56667,
+        "longitude": -80
+    }
+]

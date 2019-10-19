@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3537524",
+        "name": "Municipio de Santa Isabel de las Lajas",
+        "stateId": "3564120",
+        "latitude": 22.41667,
+        "longitude": -80.3
+    },
+    {
+        "cityId": "3541997",
+        "name": "Municipio de Rodas",
+        "stateId": "3564120",
+        "latitude": 22.33333,
+        "longitude": -80.55
+    },
+    {
+        "cityId": "3545037",
+        "name": "Municipio de Palmira",
+        "stateId": "3564120",
+        "latitude": 22.25,
+        "longitude": -80.4
+    },
+    {
+        "cityId": "3563143",
+        "name": "Municipio de Cruces",
+        "stateId": "3564120",
+        "latitude": 22.33333,
+        "longitude": -80.26667
+    },
+    {
+        "cityId": "3564121",
+        "name": "Municipio de Cienfuegos",
+        "stateId": "3564120",
+        "latitude": 22.15,
+        "longitude": -80.45
+    },
+    {
+        "cityId": "3569544",
+        "name": "Municipio de Aguada de Pasajeros",
+        "stateId": "3564120",
+        "latitude": 22.39698,
+        "longitude": -80.84702
+    },
+    {
+        "cityId": "3569740",
+        "name": "Municipio de Abreus",
+        "stateId": "3564120",
+        "latitude": 22.28333,
+        "longitude": -80.56667
+    },
+    {
+        "cityId": "11288191",
+        "name": "Cumanayagua",
+        "stateId": "3564120",
+        "latitude": 22.14979,
+        "longitude": -80.19908
+    }
+]

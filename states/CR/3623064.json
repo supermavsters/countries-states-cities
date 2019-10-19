@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3621369",
+        "name": "Talamanca",
+        "stateId": "3623064",
+        "latitude": 9.5,
+        "longitude": -83.08333
+    },
+    {
+        "cityId": "3621439",
+        "name": "Siquirres",
+        "stateId": "3623064",
+        "latitude": 10.11667,
+        "longitude": -83.5
+    },
+    {
+        "cityId": "3622326",
+        "name": "Pococ\u00ed",
+        "stateId": "3623064",
+        "latitude": 10.5,
+        "longitude": -83.63333
+    },
+    {
+        "cityId": "3622893",
+        "name": "Matina",
+        "stateId": "3623064",
+        "latitude": 10,
+        "longitude": -83.25
+    },
+    {
+        "cityId": "3623065",
+        "name": "Lim\u00f3n",
+        "stateId": "3623064",
+        "latitude": 9.76667,
+        "longitude": -83.16667
+    },
+    {
+        "cityId": "3623600",
+        "name": "Gu\u00e1cimo",
+        "stateId": "3623064",
+        "latitude": 10.2,
+        "longitude": -83.66667
+    }
+]

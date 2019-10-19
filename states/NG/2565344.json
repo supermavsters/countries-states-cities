@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "7730007",
+        "name": "Enugu East",
+        "stateId": "2565344",
+        "latitude": 6.53333,
+        "longitude": 7.53333
+    },
+    {
+        "cityId": "7730008",
+        "name": "Igbo-Eze-North",
+        "stateId": "2565344",
+        "latitude": 6.98333,
+        "longitude": 7.45
+    },
+    {
+        "cityId": "7730010",
+        "name": "Udi",
+        "stateId": "2565344",
+        "latitude": 6.51181,
+        "longitude": 7.35535
+    },
+    {
+        "cityId": "7873925",
+        "name": "Oji-River",
+        "stateId": "2565344",
+        "latitude": 6.17032,
+        "longitude": 7.27723
+    },
+    {
+        "cityId": "7873926",
+        "name": "Enugu South",
+        "stateId": "2565344",
+        "latitude": 6.39173,
+        "longitude": 7.51096
+    },
+    {
+        "cityId": "7873937",
+        "name": "Awgu",
+        "stateId": "2565344",
+        "latitude": 6.14311,
+        "longitude": 7.43658
+    },
+    {
+        "cityId": "7873938",
+        "name": "Nkanu East",
+        "stateId": "2565344",
+        "latitude": 6.31519,
+        "longitude": 7.62422
+    },
+    {
+        "cityId": "7932063",
+        "name": "Isi-Uzo",
+        "stateId": "2565344",
+        "latitude": 6.73066,
+        "longitude": 7.69294
+    },
+    {
+        "cityId": "7932082",
+        "name": "Nkanu West",
+        "stateId": "2565344",
+        "latitude": 6.31098,
+        "longitude": 7.50902
+    },
+    {
+        "cityId": "7932491",
+        "name": "Uzo-Uwani",
+        "stateId": "2565344",
+        "latitude": 6.74135,
+        "longitude": 7.13794
+    },
+    {
+        "cityId": "8659719",
+        "name": "Udenu",
+        "stateId": "2565344",
+        "latitude": 6.87201,
+        "longitude": 7.56714
+    },
+    {
+        "cityId": "8659737",
+        "name": "Igbo-Eze-South",
+        "stateId": "2565344",
+        "latitude": 6.93368,
+        "longitude": 7.36673
+    },
+    {
+        "cityId": "8659738",
+        "name": "Nsukka",
+        "stateId": "2565344",
+        "latitude": 6.85329,
+        "longitude": 7.34801
+    },
+    {
+        "cityId": "8659739",
+        "name": "Igbo-Etiti",
+        "stateId": "2565344",
+        "latitude": 6.68151,
+        "longitude": 7.41959
+    },
+    {
+        "cityId": "8659740",
+        "name": "Enugu North",
+        "stateId": "2565344",
+        "latitude": 6.44476,
+        "longitude": 7.53521
+    },
+    {
+        "cityId": "8659741",
+        "name": "Ezeagu",
+        "stateId": "2565344",
+        "latitude": 6.41062,
+        "longitude": 7.21477
+    },
+    {
+        "cityId": "8659742",
+        "name": "Aninri",
+        "stateId": "2565344",
+        "latitude": 6.06155,
+        "longitude": 7.59137
+    }
+]

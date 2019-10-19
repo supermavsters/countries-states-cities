@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "9610654",
+        "name": "Jyv\u00e4skyl\u00e4",
+        "stateId": "830685",
+        "latitude": 62.27185,
+        "longitude": 25.81903
+    },
+    {
+        "cityId": "9610655",
+        "name": "Joutsa",
+        "stateId": "830685",
+        "latitude": 61.80583,
+        "longitude": 26.06793
+    },
+    {
+        "cityId": "9610657",
+        "name": "Keuruu",
+        "stateId": "830685",
+        "latitude": 62.33721,
+        "longitude": 24.66969
+    },
+    {
+        "cityId": "9610658",
+        "name": "J\u00e4ms\u00e4",
+        "stateId": "830685",
+        "latitude": 61.81793,
+        "longitude": 25.08038
+    },
+    {
+        "cityId": "9610659",
+        "name": "\u00c4\u00e4nekoski",
+        "stateId": "830685",
+        "latitude": 62.6785,
+        "longitude": 26.01072
+    },
+    {
+        "cityId": "9610660",
+        "name": "Saarij\u00e4rvi-Viitasaari",
+        "stateId": "830685",
+        "latitude": 63.04126,
+        "longitude": 25.30067
+    }
+]

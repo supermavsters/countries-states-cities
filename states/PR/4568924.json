@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7268396",
+        "name": "Florida Barrio",
+        "stateId": "4568924",
+        "latitude": 18.14327,
+        "longitude": -65.47723
+    },
+    {
+        "cityId": "7268495",
+        "name": "Isabel Segunda",
+        "stateId": "4568924",
+        "latitude": 18.14721,
+        "longitude": -65.44282
+    },
+    {
+        "cityId": "7268570",
+        "name": "Llave Barrio",
+        "stateId": "4568924",
+        "latitude": 18.09566,
+        "longitude": -65.52347
+    },
+    {
+        "cityId": "7268684",
+        "name": "Mosquito Barrio",
+        "stateId": "4568924",
+        "latitude": 18.1257,
+        "longitude": -65.51938
+    },
+    {
+        "cityId": "7268825",
+        "name": "Puerto Diablo Barrio",
+        "stateId": "4568924",
+        "latitude": 18.13848,
+        "longitude": -65.35538
+    },
+    {
+        "cityId": "7268826",
+        "name": "Puerto Ferro Barrio",
+        "stateId": "4568924",
+        "latitude": 18.1161,
+        "longitude": -65.41757
+    },
+    {
+        "cityId": "7268829",
+        "name": "Puerto Real Barrio",
+        "stateId": "4568924",
+        "latitude": 18.10603,
+        "longitude": -65.46942
+    },
+    {
+        "cityId": "7268836",
+        "name": "Punta Arenas Barrio",
+        "stateId": "4568924",
+        "latitude": 18.1063,
+        "longitude": -65.56038
+    }
+]

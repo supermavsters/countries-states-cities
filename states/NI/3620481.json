@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3616367",
+        "name": "Municipio de Santa Teresa",
+        "stateId": "3620481",
+        "latitude": 11.73333,
+        "longitude": -86.21667
+    },
+    {
+        "cityId": "3616675",
+        "name": "Municipio de San Marcos",
+        "stateId": "3620481",
+        "latitude": 11.91667,
+        "longitude": -86.25
+    },
+    {
+        "cityId": "3618409",
+        "name": "Municipio de La Paz de Oriente",
+        "stateId": "3620481",
+        "latitude": 11.81667,
+        "longitude": -86.13333
+    },
+    {
+        "cityId": "3618634",
+        "name": "Municipio de La Conquista",
+        "stateId": "3620481",
+        "latitude": 11.75,
+        "longitude": -86.16667
+    },
+    {
+        "cityId": "3618925",
+        "name": "Municipio de Jinotepe",
+        "stateId": "3620481",
+        "latitude": 11.75,
+        "longitude": -86.21667
+    },
+    {
+        "cityId": "3619409",
+        "name": "Municipio de El Rosario",
+        "stateId": "3620481",
+        "latitude": 11.83333,
+        "longitude": -86.16667
+    },
+    {
+        "cityId": "3620161",
+        "name": "Municipio de Dolores",
+        "stateId": "3620481",
+        "latitude": 11.86667,
+        "longitude": -86.18333
+    },
+    {
+        "cityId": "3620169",
+        "name": "Municipio de Diriamba",
+        "stateId": "3620481",
+        "latitude": 11.78333,
+        "longitude": -86.33333
+    }
+]

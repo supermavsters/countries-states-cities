@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "3169524",
+        "name": "Provincia di Reggio Emilia",
+        "stateId": "3177401",
+        "latitude": 44.61667,
+        "longitude": 10.61667
+    },
+    {
+        "cityId": "3169560",
+        "name": "Provincia di Ravenna",
+        "stateId": "3177401",
+        "latitude": 44.41667,
+        "longitude": 11.98333
+    },
+    {
+        "cityId": "3171057",
+        "name": "Provincia di Piacenza",
+        "stateId": "3177401",
+        "latitude": 44.88333,
+        "longitude": 9.58333
+    },
+    {
+        "cityId": "3171456",
+        "name": "Provincia di Parma",
+        "stateId": "3177401",
+        "latitude": 44.7,
+        "longitude": 10.08333
+    },
+    {
+        "cityId": "3173330",
+        "name": "Provincia di Modena",
+        "stateId": "3177401",
+        "latitude": 44.5,
+        "longitude": 10.9
+    },
+    {
+        "cityId": "3176745",
+        "name": "Provincia di Forl\u00ec-Cesena",
+        "stateId": "3177401",
+        "latitude": 44.08333,
+        "longitude": 12.03333
+    },
+    {
+        "cityId": "3177088",
+        "name": "Provincia di Ferrara",
+        "stateId": "3177401",
+        "latitude": 44.8,
+        "longitude": 11.83333
+    },
+    {
+        "cityId": "3181927",
+        "name": "Provincia di Bologna",
+        "stateId": "3177401",
+        "latitude": 44.46667,
+        "longitude": 11.43333
+    },
+    {
+        "cityId": "6457404",
+        "name": "Provincia di Rimini",
+        "stateId": "3177401",
+        "latitude": 44.02405,
+        "longitude": 12.51858
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8347379",
+        "name": "John Taolo Gaetsewe District Municipality",
+        "stateId": "1085596",
+        "latitude": -27.04549,
+        "longitude": 23.04706
+    },
+    {
+        "cityId": "8347382",
+        "name": "Namakwa District Municipality",
+        "stateId": "1085596",
+        "latitude": -30.53561,
+        "longitude": 19.42892
+    },
+    {
+        "cityId": "8347383",
+        "name": "Pixley ka Seme District Municipality",
+        "stateId": "1085596",
+        "latitude": -30.2892,
+        "longitude": 23.25818
+    },
+    {
+        "cityId": "8347384",
+        "name": "Siyanda District Municipality",
+        "stateId": "1085596",
+        "latitude": -28.00013,
+        "longitude": 21.18459
+    },
+    {
+        "cityId": "8347385",
+        "name": "Frances Baard District Municipality",
+        "stateId": "1085596",
+        "latitude": -28.30003,
+        "longitude": 24.38188
+    }
+]

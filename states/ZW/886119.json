@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "878548",
+        "name": "Zvishavane District",
+        "stateId": "886119",
+        "latitude": -20.30345,
+        "longitude": 30.07514
+    },
+    {
+        "cityId": "881163",
+        "name": "Shurugwi District",
+        "stateId": "886119",
+        "latitude": -19.75,
+        "longitude": 30.16667
+    },
+    {
+        "cityId": "886328",
+        "name": "Mberengwa District",
+        "stateId": "886119",
+        "latitude": -20.72579,
+        "longitude": 30.00962
+    },
+    {
+        "cityId": "888708",
+        "name": "Kwekwe District",
+        "stateId": "886119",
+        "latitude": -18.75,
+        "longitude": 29.5
+    },
+    {
+        "cityId": "890420",
+        "name": "Gweru District",
+        "stateId": "886119",
+        "latitude": -19.45665,
+        "longitude": 29.64495
+    },
+    {
+        "cityId": "890981",
+        "name": "Gokwe North District",
+        "stateId": "886119",
+        "latitude": -17.53,
+        "longitude": 28.91
+    },
+    {
+        "cityId": "893405",
+        "name": "Chirumanzu District",
+        "stateId": "886119",
+        "latitude": -19.29944,
+        "longitude": 30.52133
+    },
+    {
+        "cityId": "8260609",
+        "name": "Gokwe South District",
+        "stateId": "886119",
+        "latitude": -18.24,
+        "longitude": 28.65
+    }
+]

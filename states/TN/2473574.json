@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2466895",
+        "name": "Chorbane",
+        "stateId": "2473574",
+        "latitude": 35.22118,
+        "longitude": 10.42743
+    },
+    {
+        "cityId": "2467180",
+        "name": "Souassi",
+        "stateId": "2473574",
+        "latitude": 35.34496,
+        "longitude": 10.53233
+    },
+    {
+        "cityId": "2473573",
+        "name": "Mahdia",
+        "stateId": "2473574",
+        "latitude": 35.49141,
+        "longitude": 10.95503
+    },
+    {
+        "cityId": "2473655",
+        "name": "El Jem",
+        "stateId": "2473574",
+        "latitude": 35.30034,
+        "longitude": 10.72729
+    },
+    {
+        "cityId": "7870311",
+        "name": "Chebba",
+        "stateId": "2473574",
+        "latitude": 35.23895,
+        "longitude": 11.05567
+    },
+    {
+        "cityId": "11104978",
+        "name": "Ouled Chamekh",
+        "stateId": "2473574",
+        "latitude": 35.45733,
+        "longitude": 10.33585
+    },
+    {
+        "cityId": "11104979",
+        "name": "D\u00e9l\u00e9gation de Bou Merd\u00e8s",
+        "stateId": "2473574",
+        "latitude": 35.42314,
+        "longitude": 10.71054
+    },
+    {
+        "cityId": "11104980",
+        "name": "Hbira",
+        "stateId": "2473574",
+        "latitude": 35.26685,
+        "longitude": 10.23468
+    },
+    {
+        "cityId": "11104981",
+        "name": "Sidi Alouane",
+        "stateId": "2473574",
+        "latitude": 35.28987,
+        "longitude": 10.89196
+    },
+    {
+        "cityId": "11105072",
+        "name": "Melloulech",
+        "stateId": "2473574",
+        "latitude": 35.17056,
+        "longitude": 10.98057
+    }
+]

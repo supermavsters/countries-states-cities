@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7870640",
+        "name": "Divenie",
+        "stateId": "2256175",
+        "latitude": -2.6397,
+        "longitude": 11.98046
+    },
+    {
+        "cityId": "7870641",
+        "name": "Kibangou",
+        "stateId": "2256175",
+        "latitude": -3.38221,
+        "longitude": 12.19339
+    },
+    {
+        "cityId": "7870642",
+        "name": "Kimongo",
+        "stateId": "2256175",
+        "latitude": -4.4413,
+        "longitude": 12.9135
+    },
+    {
+        "cityId": "7870646",
+        "name": "Louvakou",
+        "stateId": "2256175",
+        "latitude": -3.996,
+        "longitude": 12.584
+    },
+    {
+        "cityId": "7870650",
+        "name": "Mayoko",
+        "stateId": "2256175",
+        "latitude": -2.2847,
+        "longitude": 12.80832
+    },
+    {
+        "cityId": "7870655",
+        "name": "Mossendjo",
+        "stateId": "2256175",
+        "latitude": -2.96552,
+        "longitude": 12.72788
+    }
+]

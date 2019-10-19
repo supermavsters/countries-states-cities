@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "1848276",
+        "name": "Yonago Shi",
+        "stateId": "1849890",
+        "latitude": 35.43486,
+        "longitude": 133.35873
+    },
+    {
+        "cityId": "1848416",
+        "name": "Yazu-gun",
+        "stateId": "1849890",
+        "latitude": 35.31935,
+        "longitude": 134.34058
+    },
+    {
+        "cityId": "1849887",
+        "name": "Tottori-shi",
+        "stateId": "1849890",
+        "latitude": 35.43255,
+        "longitude": 134.15576
+    },
+    {
+        "cityId": "1850247",
+        "name": "T\u014dhaku-gun",
+        "stateId": "1849890",
+        "latitude": 35.38743,
+        "longitude": 133.92513
+    },
+    {
+        "cityId": "1853173",
+        "name": "Sakaiminato Shi",
+        "stateId": "1849890",
+        "latitude": 35.52034,
+        "longitude": 133.22704
+    },
+    {
+        "cityId": "1853248",
+        "name": "Saihaku-gun",
+        "stateId": "1849890",
+        "latitude": 35.38183,
+        "longitude": 133.45482
+    },
+    {
+        "cityId": "1862590",
+        "name": "Hino Gun",
+        "stateId": "1849890",
+        "latitude": 35.19922,
+        "longitude": 133.34949
+    },
+    {
+        "cityId": "7392255",
+        "name": "Kurayoshi-shi",
+        "stateId": "1849890",
+        "latitude": 35.3911,
+        "longitude": 133.74577
+    },
+    {
+        "cityId": "7392260",
+        "name": "Iwami-gun",
+        "stateId": "1849890",
+        "latitude": 35.54617,
+        "longitude": 134.36246
+    }
+]

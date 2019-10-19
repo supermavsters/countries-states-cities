@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "3104469",
+        "name": "Bizkaia",
+        "stateId": "3336903",
+        "latitude": 43.25,
+        "longitude": -2.91667
+    },
+    {
+        "cityId": "3120935",
+        "name": "Gipuzkoa",
+        "stateId": "3336903",
+        "latitude": 43.16667,
+        "longitude": -2.16667
+    },
+    {
+        "cityId": "3130717",
+        "name": "Araba \/ \u00c1lava",
+        "stateId": "3336903",
+        "latitude": 42.83333,
+        "longitude": -2.75
+    }
+]

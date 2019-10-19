@@ -1,0 +1,814 @@
+[
+    {
+        "cityId": "3665543",
+        "name": "Zipaquir\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.02632,
+        "longitude": -74.04206
+    },
+    {
+        "cityId": "3665545",
+        "name": "Zipac\u00f3n",
+        "stateId": "3685413",
+        "latitude": 4.75453,
+        "longitude": -74.38765
+    },
+    {
+        "cityId": "3665814",
+        "name": "Yacop\u00ed",
+        "stateId": "3685413",
+        "latitude": 5.66667,
+        "longitude": -74.41667
+    },
+    {
+        "cityId": "3665882",
+        "name": "Viot\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.42054,
+        "longitude": -74.50811
+    },
+    {
+        "cityId": "3665896",
+        "name": "Villeta",
+        "stateId": "3685413",
+        "latitude": 5.00008,
+        "longitude": -74.50498
+    },
+    {
+        "cityId": "3665925",
+        "name": "Villapinz\u00f3n",
+        "stateId": "3685413",
+        "latitude": 5.20883,
+        "longitude": -73.60536
+    },
+    {
+        "cityId": "3666088",
+        "name": "Vian\u00ed",
+        "stateId": "3685413",
+        "latitude": 4.91667,
+        "longitude": -74.55
+    },
+    {
+        "cityId": "3666112",
+        "name": "Vergara",
+        "stateId": "3685413",
+        "latitude": 5.16667,
+        "longitude": -74.33333
+    },
+    {
+        "cityId": "3666364",
+        "name": "\u00datica",
+        "stateId": "3685413",
+        "latitude": 5.16977,
+        "longitude": -74.50134
+    },
+    {
+        "cityId": "3666482",
+        "name": "Une",
+        "stateId": "3685413",
+        "latitude": 4.33333,
+        "longitude": -74.08333
+    },
+    {
+        "cityId": "3666523",
+        "name": "Ubaque",
+        "stateId": "3685413",
+        "latitude": 4.48436,
+        "longitude": -73.99661
+    },
+    {
+        "cityId": "3666527",
+        "name": "Ubal\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.83333,
+        "longitude": -73.5
+    },
+    {
+        "cityId": "3666904",
+        "name": "Topaip\u00ed",
+        "stateId": "3685413",
+        "latitude": 5.33885,
+        "longitude": -74.31328
+    },
+    {
+        "cityId": "3666998",
+        "name": "Tocancip\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.9481,
+        "longitude": -73.94826
+    },
+    {
+        "cityId": "3667004",
+        "name": "Tocaima",
+        "stateId": "3685413",
+        "latitude": 4.5,
+        "longitude": -74.66667
+    },
+    {
+        "cityId": "3667206",
+        "name": "Tibirita",
+        "stateId": "3685413",
+        "latitude": 5.08516,
+        "longitude": -73.51369
+    },
+    {
+        "cityId": "3667223",
+        "name": "Tibacuy",
+        "stateId": "3685413",
+        "latitude": 4.30606,
+        "longitude": -74.51639
+    },
+    {
+        "cityId": "3667292",
+        "name": "Tenjo",
+        "stateId": "3685413",
+        "latitude": 4.8232,
+        "longitude": -74.16568
+    },
+    {
+        "cityId": "3667311",
+        "name": "Tena",
+        "stateId": "3685413",
+        "latitude": 4.64863,
+        "longitude": -74.39924
+    },
+    {
+        "cityId": "3667352",
+        "name": "Tausa",
+        "stateId": "3685413",
+        "latitude": 5.17637,
+        "longitude": -73.9694
+    },
+    {
+        "cityId": "3667630",
+        "name": "Tabio",
+        "stateId": "3685413",
+        "latitude": 4.93513,
+        "longitude": -74.10211
+    },
+    {
+        "cityId": "3667650",
+        "name": "Sutatausa",
+        "stateId": "3685413",
+        "latitude": 5.22898,
+        "longitude": -73.87912
+    },
+    {
+        "cityId": "3667666",
+        "name": "Susa",
+        "stateId": "3685413",
+        "latitude": 5.427,
+        "longitude": -73.84786
+    },
+    {
+        "cityId": "3667702",
+        "name": "Supat\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.08333,
+        "longitude": -74.25
+    },
+    {
+        "cityId": "3667718",
+        "name": "Suesca",
+        "stateId": "3685413",
+        "latitude": 5.12612,
+        "longitude": -73.8036
+    },
+    {
+        "cityId": "3667761",
+        "name": "Subachoque",
+        "stateId": "3685413",
+        "latitude": 5,
+        "longitude": -74.16667
+    },
+    {
+        "cityId": "3667808",
+        "name": "Sop\u00f3",
+        "stateId": "3685413",
+        "latitude": 4.87157,
+        "longitude": -73.98616
+    },
+    {
+        "cityId": "3667906",
+        "name": "Soacha",
+        "stateId": "3685413",
+        "latitude": 4.58333,
+        "longitude": -74.25
+    },
+    {
+        "cityId": "3668018",
+        "name": "Simijaca",
+        "stateId": "3685413",
+        "latitude": 5.50415,
+        "longitude": -73.86944
+    },
+    {
+        "cityId": "3668029",
+        "name": "Silvania",
+        "stateId": "3685413",
+        "latitude": 4.42513,
+        "longitude": -74.38425
+    },
+    {
+        "cityId": "3668139",
+        "name": "Sesquil\u00e9",
+        "stateId": "3685413",
+        "latitude": 4.98827,
+        "longitude": -73.80045
+    },
+    {
+        "cityId": "3668229",
+        "name": "Sasaima",
+        "stateId": "3685413",
+        "latitude": 4.92891,
+        "longitude": -74.42797
+    },
+    {
+        "cityId": "3669465",
+        "name": "San Juan de R\u00edo Seco",
+        "stateId": "3685413",
+        "latitude": 4.83077,
+        "longitude": -74.68248
+    },
+    {
+        "cityId": "3669885",
+        "name": "San Francisco",
+        "stateId": "3685413",
+        "latitude": 5,
+        "longitude": -74.28333
+    },
+    {
+        "cityId": "3669986",
+        "name": "San Cayetano",
+        "stateId": "3685413",
+        "latitude": 5.33333,
+        "longitude": -74.08333
+    },
+    {
+        "cityId": "3670036",
+        "name": "San Bernardo",
+        "stateId": "3685413",
+        "latitude": 4.12956,
+        "longitude": -74.35903
+    },
+    {
+        "cityId": "3671021",
+        "name": "Apulo",
+        "stateId": "3685413",
+        "latitude": 4.50902,
+        "longitude": -74.59774
+    },
+    {
+        "cityId": "3671073",
+        "name": "Quipile",
+        "stateId": "3685413",
+        "latitude": 4.75,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3671120",
+        "name": "Quetame",
+        "stateId": "3685413",
+        "latitude": 4.33333,
+        "longitude": -73.83333
+    },
+    {
+        "cityId": "3671164",
+        "name": "Quebradanegra",
+        "stateId": "3685413",
+        "latitude": 5.08262,
+        "longitude": -74.52117
+    },
+    {
+        "cityId": "3671280",
+        "name": "Pul\u00ed",
+        "stateId": "3685413",
+        "latitude": 4.67855,
+        "longitude": -74.69526
+    },
+    {
+        "cityId": "3671331",
+        "name": "Puerto Salgar",
+        "stateId": "3685413",
+        "latitude": 5.5,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3672814",
+        "name": "Pasca",
+        "stateId": "3685413",
+        "latitude": 4.33333,
+        "longitude": -74.28333
+    },
+    {
+        "cityId": "3672998",
+        "name": "Pandi",
+        "stateId": "3685413",
+        "latitude": 4.18032,
+        "longitude": -74.47099
+    },
+    {
+        "cityId": "3673373",
+        "name": "Paime",
+        "stateId": "3685413",
+        "latitude": 5.41667,
+        "longitude": -74.16667
+    },
+    {
+        "cityId": "3673425",
+        "name": "Pacho",
+        "stateId": "3685413",
+        "latitude": 5.14994,
+        "longitude": -74.18067
+    },
+    {
+        "cityId": "3673827",
+        "name": "Nocaima",
+        "stateId": "3685413",
+        "latitude": 5.04767,
+        "longitude": -74.40465
+    },
+    {
+        "cityId": "3673846",
+        "name": "Nimaima",
+        "stateId": "3685413",
+        "latitude": 5.11741,
+        "longitude": -74.4034
+    },
+    {
+        "cityId": "3673850",
+        "name": "Nilo",
+        "stateId": "3685413",
+        "latitude": 4.33333,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3673888",
+        "name": "Nemoc\u00f3n",
+        "stateId": "3685413",
+        "latitude": 5.06966,
+        "longitude": -73.90606
+    },
+    {
+        "cityId": "3674033",
+        "name": "Nari\u00f1o",
+        "stateId": "3685413",
+        "latitude": 4.39913,
+        "longitude": -74.82239
+    },
+    {
+        "cityId": "3674295",
+        "name": "Mosquera",
+        "stateId": "3685413",
+        "latitude": 4.68935,
+        "longitude": -74.23599
+    },
+    {
+        "cityId": "3674933",
+        "name": "Medina",
+        "stateId": "3685413",
+        "latitude": 4.5,
+        "longitude": -73.33333
+    },
+    {
+        "cityId": "3675433",
+        "name": "Manta",
+        "stateId": "3685413",
+        "latitude": 4.9572,
+        "longitude": -73.58583
+    },
+    {
+        "cityId": "3675708",
+        "name": "Madrid",
+        "stateId": "3685413",
+        "latitude": 4.75564,
+        "longitude": -74.27708
+    },
+    {
+        "cityId": "3675758",
+        "name": "Macheta",
+        "stateId": "3685413",
+        "latitude": 5.08333,
+        "longitude": -73.61667
+    },
+    {
+        "cityId": "3676645",
+        "name": "Lenguazaque",
+        "stateId": "3685413",
+        "latitude": 5.28533,
+        "longitude": -73.7102
+    },
+    {
+        "cityId": "3676870",
+        "name": "La Vega",
+        "stateId": "3685413",
+        "latitude": 5,
+        "longitude": -74.35
+    },
+    {
+        "cityId": "3678169",
+        "name": "La Pe\u00f1a",
+        "stateId": "3685413",
+        "latitude": 5.25,
+        "longitude": -74.41667
+    },
+    {
+        "cityId": "3678287",
+        "name": "La Palma",
+        "stateId": "3685413",
+        "latitude": 5.31732,
+        "longitude": -74.43003
+    },
+    {
+        "cityId": "3678411",
+        "name": "La Mesa",
+        "stateId": "3685413",
+        "latitude": 4.66667,
+        "longitude": -74.5
+    },
+    {
+        "cityId": "3679663",
+        "name": "La Calera",
+        "stateId": "3685413",
+        "latitude": 4.68678,
+        "longitude": -73.9359
+    },
+    {
+        "cityId": "3680116",
+        "name": "Jun\u00edn",
+        "stateId": "3685413",
+        "latitude": 4.75,
+        "longitude": -73.66667
+    },
+    {
+        "cityId": "3680310",
+        "name": "Jerusal\u00e9n",
+        "stateId": "3685413",
+        "latitude": 4.55678,
+        "longitude": -74.70941
+    },
+    {
+        "cityId": "3681177",
+        "name": "Guti\u00e9rrez",
+        "stateId": "3685413",
+        "latitude": 4.25,
+        "longitude": -74
+    },
+    {
+        "cityId": "3681307",
+        "name": "Guayabal de Siquima",
+        "stateId": "3685413",
+        "latitude": 4.87881,
+        "longitude": -74.48306
+    },
+    {
+        "cityId": "3681361",
+        "name": "Guatavita",
+        "stateId": "3685413",
+        "latitude": 4.91121,
+        "longitude": -73.83988
+    },
+    {
+        "cityId": "3681365",
+        "name": "Guataqu\u00ed",
+        "stateId": "3685413",
+        "latitude": 4.58333,
+        "longitude": -74.8
+    },
+    {
+        "cityId": "3681405",
+        "name": "Guasca",
+        "stateId": "3685413",
+        "latitude": 4.83333,
+        "longitude": -73.83333
+    },
+    {
+        "cityId": "3681703",
+        "name": "Guaduas",
+        "stateId": "3685413",
+        "latitude": 5.0743,
+        "longitude": -74.59854
+    },
+    {
+        "cityId": "3681768",
+        "name": "Guachet\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.41667,
+        "longitude": -73.7
+    },
+    {
+        "cityId": "3682029",
+        "name": "Girardot",
+        "stateId": "3685413",
+        "latitude": 4.31802,
+        "longitude": -74.83504
+    },
+    {
+        "cityId": "3682186",
+        "name": "Gama",
+        "stateId": "3685413",
+        "latitude": 4.70984,
+        "longitude": -73.62002
+    },
+    {
+        "cityId": "3682259",
+        "name": "Gachet\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.91667,
+        "longitude": -73.66667
+    },
+    {
+        "cityId": "3682263",
+        "name": "Gachancip\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.01024,
+        "longitude": -73.87796
+    },
+    {
+        "cityId": "3682267",
+        "name": "Gachala",
+        "stateId": "3685413",
+        "latitude": 4.66667,
+        "longitude": -73.5
+    },
+    {
+        "cityId": "3682275",
+        "name": "Fusagasug\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.2924,
+        "longitude": -74.38332
+    },
+    {
+        "cityId": "3682280",
+        "name": "F\u00faquene",
+        "stateId": "3685413",
+        "latitude": 5.41988,
+        "longitude": -73.76997
+    },
+    {
+        "cityId": "3682282",
+        "name": "Funza",
+        "stateId": "3685413",
+        "latitude": 4.73058,
+        "longitude": -74.21787
+    },
+    {
+        "cityId": "3682359",
+        "name": "Fosca",
+        "stateId": "3685413",
+        "latitude": 4.3018,
+        "longitude": -73.97404
+    },
+    {
+        "cityId": "3682381",
+        "name": "Fomeque",
+        "stateId": "3685413",
+        "latitude": 4.52806,
+        "longitude": -73.78879
+    },
+    {
+        "cityId": "3682517",
+        "name": "Facatativ\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.81962,
+        "longitude": -74.35893
+    },
+    {
+        "cityId": "3683506",
+        "name": "El Pe\u00f1\u00f3n",
+        "stateId": "3685413",
+        "latitude": 5.26,
+        "longitude": -74.33333
+    },
+    {
+        "cityId": "3684506",
+        "name": "El Colegio",
+        "stateId": "3685413",
+        "latitude": 4.58333,
+        "longitude": -74.45
+    },
+    {
+        "cityId": "3685541",
+        "name": "Cucunub\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.21626,
+        "longitude": -73.80756
+    },
+    {
+        "cityId": "3685734",
+        "name": "Cota",
+        "stateId": "3685413",
+        "latitude": 4.77601,
+        "longitude": -74.14335
+    },
+    {
+        "cityId": "3686135",
+        "name": "Cogua",
+        "stateId": "3685413",
+        "latitude": 5.08474,
+        "longitude": -73.9949
+    },
+    {
+        "cityId": "3686423",
+        "name": "Chocont\u00e1",
+        "stateId": "3685413",
+        "latitude": 5.16667,
+        "longitude": -73.66667
+    },
+    {
+        "cityId": "3686442",
+        "name": "Choach\u00ed",
+        "stateId": "3685413",
+        "latitude": 4.58333,
+        "longitude": -73.91667
+    },
+    {
+        "cityId": "3686533",
+        "name": "Chipaque",
+        "stateId": "3685413",
+        "latitude": 4.41481,
+        "longitude": -74.07541
+    },
+    {
+        "cityId": "3686677",
+        "name": "Ch\u00eda",
+        "stateId": "3685413",
+        "latitude": 4.84452,
+        "longitude": -74.05848
+    },
+    {
+        "cityId": "3686852",
+        "name": "Chaguan\u00ed",
+        "stateId": "3685413",
+        "latitude": 4.94554,
+        "longitude": -74.65954
+    },
+    {
+        "cityId": "3687322",
+        "name": "Carmen de Carupa",
+        "stateId": "3685413",
+        "latitude": 5.33333,
+        "longitude": -73.91667
+    },
+    {
+        "cityId": "3687477",
+        "name": "Caqueza",
+        "stateId": "3685413",
+        "latitude": 4.38708,
+        "longitude": -73.95722
+    },
+    {
+        "cityId": "3687506",
+        "name": "Caparrap\u00ed",
+        "stateId": "3685413",
+        "latitude": 5.41667,
+        "longitude": -74.58333
+    },
+    {
+        "cityId": "3688007",
+        "name": "Cajic\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.91284,
+        "longitude": -74.05261
+    },
+    {
+        "cityId": "3688674",
+        "name": "Bojac\u00e1",
+        "stateId": "3685413",
+        "latitude": 4.68719,
+        "longitude": -74.33706
+    },
+    {
+        "cityId": "3688812",
+        "name": "Bituima",
+        "stateId": "3685413",
+        "latitude": 4.82896,
+        "longitude": -74.55203
+    },
+    {
+        "cityId": "3688919",
+        "name": "Beltr\u00e1n",
+        "stateId": "3685413",
+        "latitude": 4.71947,
+        "longitude": -74.7566
+    },
+    {
+        "cityId": "3689710",
+        "name": "Arbel\u00e1ez",
+        "stateId": "3685413",
+        "latitude": 4.21251,
+        "longitude": -74.41464
+    },
+    {
+        "cityId": "3689842",
+        "name": "Anolaima",
+        "stateId": "3685413",
+        "latitude": 4.77621,
+        "longitude": -74.48412
+    },
+    {
+        "cityId": "3689942",
+        "name": "Anapoima",
+        "stateId": "3685413",
+        "latitude": 4.54363,
+        "longitude": -74.54686
+    },
+    {
+        "cityId": "3690267",
+        "name": "Alb\u00e1n",
+        "stateId": "3685413",
+        "latitude": 4.89432,
+        "longitude": -74.44388
+    },
+    {
+        "cityId": "3690430",
+        "name": "Agua de Dios",
+        "stateId": "3685413",
+        "latitude": 4.35842,
+        "longitude": -74.69002
+    },
+    {
+        "cityId": "9073272",
+        "name": "Paratebueno",
+        "stateId": "3685413",
+        "latitude": 4.41691,
+        "longitude": -73.18559
+    },
+    {
+        "cityId": "9172260",
+        "name": "Ricaurte",
+        "stateId": "3685413",
+        "latitude": 4.29127,
+        "longitude": -74.75432
+    },
+    {
+        "cityId": "9172349",
+        "name": "Cachipay",
+        "stateId": "3685413",
+        "latitude": 4.70422,
+        "longitude": -74.48706
+    },
+    {
+        "cityId": "9172353",
+        "name": "Guayabetal",
+        "stateId": "3685413",
+        "latitude": 4.17508,
+        "longitude": -73.88117
+    },
+    {
+        "cityId": "9172375",
+        "name": "Sibat\u00e9",
+        "stateId": "3685413",
+        "latitude": 4.4491,
+        "longitude": -74.28287
+    },
+    {
+        "cityId": "9172376",
+        "name": "Villag\u00f3mez",
+        "stateId": "3685413",
+        "latitude": 5.27104,
+        "longitude": -74.191
+    },
+    {
+        "cityId": "9178694",
+        "name": "Cabrera",
+        "stateId": "3685413",
+        "latitude": 3.87443,
+        "longitude": -74.4719
+    },
+    {
+        "cityId": "9179699",
+        "name": "Venecia",
+        "stateId": "3685413",
+        "latitude": 4.08861,
+        "longitude": -74.4775
+    },
+    {
+        "cityId": "9179702",
+        "name": "Granada",
+        "stateId": "3685413",
+        "latitude": 4.51861,
+        "longitude": -74.35139
+    },
+    {
+        "cityId": "9179884",
+        "name": "El Rosal",
+        "stateId": "3685413",
+        "latitude": 4.85,
+        "longitude": -74.2667
+    },
+    {
+        "cityId": "9179893",
+        "name": "San Antonio del Tequendama",
+        "stateId": "3685413",
+        "latitude": 4.61667,
+        "longitude": -74.35
+    },
+    {
+        "cityId": "9609539",
+        "name": "Villa de San Diego de Ubate",
+        "stateId": "3685413",
+        "latitude": 5.31544,
+        "longitude": -73.82045
+    }
+]

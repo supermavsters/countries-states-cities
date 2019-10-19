@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "7268108",
+        "name": "Corcovado Barrio",
+        "stateId": "4565348",
+        "latitude": 18.45056,
+        "longitude": -66.77942
+    },
+    {
+        "cityId": "7268176",
+        "name": "Aibonito Barrio",
+        "stateId": "4565348",
+        "latitude": 18.3565,
+        "longitude": -66.78135
+    },
+    {
+        "cityId": "7268248",
+        "name": "Bayaney Barrio",
+        "stateId": "4565348",
+        "latitude": 18.35215,
+        "longitude": -66.80662
+    },
+    {
+        "cityId": "7268271",
+        "name": "Buena Vista Barrio",
+        "stateId": "4565348",
+        "latitude": 18.40939,
+        "longitude": -66.80509
+    },
+    {
+        "cityId": "7268308",
+        "name": "Campo Alegre Barrio",
+        "stateId": "4565348",
+        "latitude": 18.40742,
+        "longitude": -66.78213
+    },
+    {
+        "cityId": "7268337",
+        "name": "Cap\u00e1ez Barrio",
+        "stateId": "4565348",
+        "latitude": 18.46118,
+        "longitude": -66.81203
+    },
+    {
+        "cityId": "7268351",
+        "name": "Carrizales Barrio",
+        "stateId": "4565348",
+        "latitude": 18.48108,
+        "longitude": -66.78887
+    },
+    {
+        "cityId": "7268452",
+        "name": "Hatillo Barrio",
+        "stateId": "4565348",
+        "latitude": 18.48065,
+        "longitude": -66.82082
+    },
+    {
+        "cityId": "7268453",
+        "name": "Hatillo Barrio-Pueblo",
+        "stateId": "4565348",
+        "latitude": 18.48533,
+        "longitude": -66.8254
+    },
+    {
+        "cityId": "7268693",
+        "name": "Naranjito Barrio",
+        "stateId": "4565348",
+        "latitude": 18.43644,
+        "longitude": -66.80863
+    }
+]

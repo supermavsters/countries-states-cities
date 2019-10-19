@@ -1,0 +1,233 @@
+[
+    {
+        "stateId": "1923045",
+        "name": "Banten",
+        "countryId": "1643084",
+        "latitude": -6.5,
+        "longitude": 106.25
+    },
+    {
+        "stateId": "1621176",
+        "name": "Daerah Istimewa Yogyakarta",
+        "countryId": "1643084",
+        "latitude": -7.8008,
+        "longitude": 110.34393
+    },
+    {
+        "stateId": "1642907",
+        "name": "Daerah Khusus Ibukota Jakarta",
+        "countryId": "1643084",
+        "latitude": -6.2182,
+        "longitude": 106.8584
+    },
+    {
+        "stateId": "1642672",
+        "name": "Jawa Barat",
+        "countryId": "1643084",
+        "latitude": -6.75,
+        "longitude": 107.5
+    },
+    {
+        "stateId": "1642668",
+        "name": "Jawa Timur",
+        "countryId": "1643084",
+        "latitude": -7.7394,
+        "longitude": 112.5099
+    },
+    {
+        "stateId": "1923047",
+        "name": "Kepulauan Bangka Belitung",
+        "countryId": "1643084",
+        "latitude": -2.66667,
+        "longitude": 106.66667
+    },
+    {
+        "stateId": "1215638",
+        "name": "Nanggroe Aceh Darussalam Province",
+        "countryId": "1643084",
+        "latitude": 4,
+        "longitude": 97
+    },
+    {
+        "stateId": "8604684",
+        "name": "North Kalimantan",
+        "countryId": "1643084",
+        "latitude": 3.35989,
+        "longitude": 116.53198
+    },
+    {
+        "stateId": "1649147",
+        "name": "Propinsi Bengkulu",
+        "countryId": "1643084",
+        "latitude": -3.79965,
+        "longitude": 102.26683
+    },
+    {
+        "stateId": "1650535",
+        "name": "Provinsi Bali",
+        "countryId": "1643084",
+        "latitude": -8.5,
+        "longitude": 115
+    },
+    {
+        "stateId": "1923046",
+        "name": "Provinsi Gorontalo",
+        "countryId": "1643084",
+        "latitude": 0.693,
+        "longitude": 122.4704
+    },
+    {
+        "stateId": "1642856",
+        "name": "Provinsi Jambi",
+        "countryId": "1643084",
+        "latitude": -1.5,
+        "longitude": 103
+    },
+    {
+        "stateId": "1642669",
+        "name": "Provinsi Jawa Tengah",
+        "countryId": "1643084",
+        "latitude": -7.5,
+        "longitude": 110
+    },
+    {
+        "stateId": "1641899",
+        "name": "Provinsi Kalimantan Selatan",
+        "countryId": "1643084",
+        "latitude": -2.5,
+        "longitude": 115.5
+    },
+    {
+        "stateId": "1641898",
+        "name": "Provinsi Kalimantan Tengah",
+        "countryId": "1643084",
+        "latitude": -2,
+        "longitude": 113.5
+    },
+    {
+        "stateId": "1641897",
+        "name": "Provinsi Kalimantan Timur",
+        "countryId": "1643084",
+        "latitude": 0.5,
+        "longitude": 116.5
+    },
+    {
+        "stateId": "1996551",
+        "name": "Provinsi Kepulauan Riau",
+        "countryId": "1643084",
+        "latitude": 0.63333,
+        "longitude": 107.01868
+    },
+    {
+        "stateId": "1638535",
+        "name": "Provinsi Lampung",
+        "countryId": "1643084",
+        "latitude": -5,
+        "longitude": 105
+    },
+    {
+        "stateId": "1636627",
+        "name": "Provinsi Maluku",
+        "countryId": "1643084",
+        "latitude": -3.23846,
+        "longitude": 130.14527
+    },
+    {
+        "stateId": "1958070",
+        "name": "Provinsi Maluku Utara",
+        "countryId": "1643084",
+        "latitude": 0.62621,
+        "longitude": 127.84241
+    },
+    {
+        "stateId": "1633791",
+        "name": "Provinsi Nusa Tenggara Timur",
+        "countryId": "1643084",
+        "latitude": -8.65738,
+        "longitude": 121.07937
+    },
+    {
+        "stateId": "1643012",
+        "name": "Provinsi Papua",
+        "countryId": "1643084",
+        "latitude": -4.75,
+        "longitude": 138
+    },
+    {
+        "stateId": "1996549",
+        "name": "Provinsi Papua Barat",
+        "countryId": "1643084",
+        "latitude": -0.86531,
+        "longitude": 134.06118
+    },
+    {
+        "stateId": "1629652",
+        "name": "Provinsi Riau",
+        "countryId": "1643084",
+        "latitude": 0.5005,
+        "longitude": 101.749
+    },
+    {
+        "stateId": "1996550",
+        "name": "Provinsi Sulawesi Barat",
+        "countryId": "1643084",
+        "latitude": -2.5,
+        "longitude": 119.3333
+    },
+    {
+        "stateId": "1626232",
+        "name": "Provinsi Sulawesi Selatan",
+        "countryId": "1643084",
+        "latitude": -4.33333,
+        "longitude": 120.25
+    },
+    {
+        "stateId": "1626197",
+        "name": "Provinsi Sumatera Barat",
+        "countryId": "1643084",
+        "latitude": -1,
+        "longitude": 100.5
+    },
+    {
+        "stateId": "1626231",
+        "name": "Sulawesi Tengah",
+        "countryId": "1643084",
+        "latitude": -0.9166,
+        "longitude": 122.3538
+    },
+    {
+        "stateId": "1626230",
+        "name": "Sulawesi Tenggara",
+        "countryId": "1643084",
+        "latitude": -4.3935,
+        "longitude": 122.2149
+    },
+    {
+        "stateId": "1626229",
+        "name": "Sulawesi Utara",
+        "countryId": "1643084",
+        "latitude": 1.25,
+        "longitude": 124.83333
+    },
+    {
+        "stateId": "1626196",
+        "name": "Sumatera Selatan",
+        "countryId": "1643084",
+        "latitude": -2.75,
+        "longitude": 103.83333
+    },
+    {
+        "stateId": "1213642",
+        "name": "Sumatera Utara",
+        "countryId": "1643084",
+        "latitude": 2,
+        "longitude": 99
+    },
+    {
+        "stateId": "1633792",
+        "name": "West Nusa Tenggara",
+        "countryId": "1643084",
+        "latitude": -8.74,
+        "longitude": 117.5333
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2760633",
+        "name": "Politischer Bezirk Zell am See",
+        "stateId": "2766823",
+        "latitude": 47.28333,
+        "longitude": 12.7
+    },
+    {
+        "cityId": "2763928",
+        "name": "Politischer Bezirk Tamsweg",
+        "stateId": "2766823",
+        "latitude": 47.15,
+        "longitude": 13.7
+    },
+    {
+        "cityId": "2766642",
+        "name": "Politischer Bezirk Sankt Johann im Pongau",
+        "stateId": "2766823",
+        "latitude": 47.3,
+        "longitude": 13.3
+    },
+    {
+        "cityId": "2766817",
+        "name": "Politischer Bezirk Salzburg-Umgebung",
+        "stateId": "2766823",
+        "latitude": 47.84019,
+        "longitude": 13.18799
+    },
+    {
+        "cityId": "2766818",
+        "name": "Salzburg Stadt",
+        "stateId": "2766823",
+        "latitude": 47.80067,
+        "longitude": 13.04532
+    },
+    {
+        "cityId": "2776950",
+        "name": "Politischer Bezirk Hallein",
+        "stateId": "2766823",
+        "latitude": 47.6,
+        "longitude": 13.3
+    }
+]

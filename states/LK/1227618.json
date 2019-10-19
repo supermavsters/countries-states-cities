@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "1235845",
+        "name": "Matara District",
+        "stateId": "1227618",
+        "latitude": 6.1329,
+        "longitude": 80.528
+    },
+    {
+        "cityId": "1244925",
+        "name": "Hambantota District",
+        "stateId": "1227618",
+        "latitude": 6.25,
+        "longitude": 81.16667
+    },
+    {
+        "cityId": "1246292",
+        "name": "Galle District",
+        "stateId": "1227618",
+        "latitude": 6.25,
+        "longitude": 80.25
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "596130",
+        "name": "Panev\u0117\u017eys District Municipality",
+        "stateId": "864480",
+        "latitude": 55.73301,
+        "longitude": 24.37609
+    },
+    {
+        "cityId": "596132",
+        "name": "Panev\u0117\u017eys City",
+        "stateId": "864480",
+        "latitude": 55.736,
+        "longitude": 24.34347
+    },
+    {
+        "cityId": "864499",
+        "name": "Bir\u017eai",
+        "stateId": "864480",
+        "latitude": 56.2,
+        "longitude": 24.75
+    },
+    {
+        "cityId": "864500",
+        "name": "Kupi\u0161kis",
+        "stateId": "864480",
+        "latitude": 55.83333,
+        "longitude": 24.96667
+    },
+    {
+        "cityId": "864501",
+        "name": "Pasvalys",
+        "stateId": "864480",
+        "latitude": 56.06667,
+        "longitude": 24.4
+    },
+    {
+        "cityId": "864502",
+        "name": "Roki\u0161kis",
+        "stateId": "864480",
+        "latitude": 55.96667,
+        "longitude": 25.58333
+    }
+]

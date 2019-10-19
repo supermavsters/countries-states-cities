@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2529313",
+        "name": "Taza",
+        "stateId": "11281876",
+        "latitude": 34.25,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "2530153",
+        "name": "Taounate",
+        "stateId": "11281876",
+        "latitude": 34.5,
+        "longitude": -4.83333
+    },
+    {
+        "cityId": "2546906",
+        "name": "Ifrane",
+        "stateId": "11281876",
+        "latitude": 33.33333,
+        "longitude": -5.25
+    },
+    {
+        "cityId": "2554387",
+        "name": "Boulemane",
+        "stateId": "11281876",
+        "latitude": 33.16667,
+        "longitude": -4
+    },
+    {
+        "cityId": "6547283",
+        "name": "Meknes",
+        "stateId": "11281876",
+        "latitude": 33.97761,
+        "longitude": -5.52496
+    },
+    {
+        "cityId": "6547286",
+        "name": "Sefrou",
+        "stateId": "11281876",
+        "latitude": 33.79979,
+        "longitude": -4.68
+    },
+    {
+        "cityId": "6547295",
+        "name": "Moulay-Yacoub",
+        "stateId": "11281876",
+        "latitude": 34.14558,
+        "longitude": -5.10259
+    },
+    {
+        "cityId": "6547296",
+        "name": "El-Hajeb",
+        "stateId": "11281876",
+        "latitude": 33.72883,
+        "longitude": -5.46119
+    },
+    {
+        "cityId": "6547300",
+        "name": "Fes",
+        "stateId": "11281876",
+        "latitude": 34.04,
+        "longitude": -4.87
+    }
+]

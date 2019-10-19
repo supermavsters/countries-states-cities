@@ -1,0 +1,576 @@
+[
+    {
+        "cityId": "11494927",
+        "name": "Negril",
+        "stateId": "3488081",
+        "latitude": 18.27459,
+        "longitude": -78.33928
+    },
+    {
+        "cityId": "11494928",
+        "name": "Little London",
+        "stateId": "3488081",
+        "latitude": 18.24523,
+        "longitude": -78.22653
+    },
+    {
+        "cityId": "11494929",
+        "name": "Frome",
+        "stateId": "3488081",
+        "latitude": 18.27974,
+        "longitude": -78.14903
+    },
+    {
+        "cityId": "11494930",
+        "name": "Bethel Town",
+        "stateId": "3488081",
+        "latitude": 18.29183,
+        "longitude": -77.93958
+    },
+    {
+        "cityId": "11494931",
+        "name": "Darliston",
+        "stateId": "3488081",
+        "latitude": 18.24159,
+        "longitude": -77.98215
+    },
+    {
+        "cityId": "11494933",
+        "name": "Water Works",
+        "stateId": "3488081",
+        "latitude": 18.23319,
+        "longitude": -78.04296
+    },
+    {
+        "cityId": "11494936",
+        "name": "Smithfield",
+        "stateId": "3488081",
+        "latitude": 18.22275,
+        "longitude": -78.08785
+    },
+    {
+        "cityId": "11494937",
+        "name": "Gooden's River",
+        "stateId": "3488081",
+        "latitude": 18.24223,
+        "longitude": -78.1284
+    },
+    {
+        "cityId": "11494942",
+        "name": "Chantilly",
+        "stateId": "3488081",
+        "latitude": 18.23059,
+        "longitude": -78.12462
+    },
+    {
+        "cityId": "11494944",
+        "name": "Russia",
+        "stateId": "3488081",
+        "latitude": 18.21649,
+        "longitude": -78.12361
+    },
+    {
+        "cityId": "11494945",
+        "name": "Harmony Town",
+        "stateId": "3488081",
+        "latitude": 18.21987,
+        "longitude": -78.13687
+    },
+    {
+        "cityId": "11494963",
+        "name": "Content",
+        "stateId": "3488081",
+        "latitude": 18.18288,
+        "longitude": -77.99915
+    },
+    {
+        "cityId": "11494974",
+        "name": "Bluefields",
+        "stateId": "3488081",
+        "latitude": 18.14251,
+        "longitude": -78.00395
+    },
+    {
+        "cityId": "11494991",
+        "name": "Whitehouse",
+        "stateId": "3488081",
+        "latitude": 18.10275,
+        "longitude": -77.95697
+    },
+    {
+        "cityId": "11495004",
+        "name": "Three Mile River",
+        "stateId": "3488081",
+        "latitude": 18.25706,
+        "longitude": -78.14275
+    },
+    {
+        "cityId": "11495028",
+        "name": "Cave",
+        "stateId": "3488081",
+        "latitude": 18.21019,
+        "longitude": -78.0407
+    },
+    {
+        "cityId": "11495029",
+        "name": "Seaton Crescent",
+        "stateId": "3488081",
+        "latitude": 18.21675,
+        "longitude": -78.13603
+    },
+    {
+        "cityId": "11495032",
+        "name": "12th Street",
+        "stateId": "3488081",
+        "latitude": 18.21097,
+        "longitude": -78.13603
+    },
+    {
+        "cityId": "11495034",
+        "name": "New Market Oval",
+        "stateId": "3488081",
+        "latitude": 18.2137,
+        "longitude": -78.13813
+    },
+    {
+        "cityId": "11495153",
+        "name": "Cornwall Mountian",
+        "stateId": "3488081",
+        "latitude": 18.28722,
+        "longitude": -77.98674
+    },
+    {
+        "cityId": "11495165",
+        "name": "Big Bridge",
+        "stateId": "3488081",
+        "latitude": 18.23318,
+        "longitude": -78.16717
+    },
+    {
+        "cityId": "11495265",
+        "name": "St. Leonards",
+        "stateId": "3488081",
+        "latitude": 18.25533,
+        "longitude": -77.88889
+    },
+    {
+        "cityId": "11495281",
+        "name": "Llandilo",
+        "stateId": "3488081",
+        "latitude": 18.23439,
+        "longitude": -78.13895
+    },
+    {
+        "cityId": "11495293",
+        "name": "Town Head",
+        "stateId": "3488081",
+        "latitude": 18.33898,
+        "longitude": -78.13569
+    },
+    {
+        "cityId": "11495294",
+        "name": "Porters Mountain",
+        "stateId": "3488081",
+        "latitude": 18.32909,
+        "longitude": -78.0491
+    },
+    {
+        "cityId": "11495295",
+        "name": "Bath Mountain",
+        "stateId": "3488081",
+        "latitude": 18.34428,
+        "longitude": -78.09928
+    },
+    {
+        "cityId": "11495296",
+        "name": "Truro",
+        "stateId": "3488081",
+        "latitude": 18.31301,
+        "longitude": -78.15489
+    },
+    {
+        "cityId": "11495297",
+        "name": "Grange",
+        "stateId": "3488081",
+        "latitude": 18.33161,
+        "longitude": -78.08036
+    },
+    {
+        "cityId": "11495299",
+        "name": "Jerusalem",
+        "stateId": "3488081",
+        "latitude": 18.32458,
+        "longitude": -78.21563
+    },
+    {
+        "cityId": "11495300",
+        "name": "Delveland",
+        "stateId": "3488081",
+        "latitude": 18.29709,
+        "longitude": -78.23962
+    },
+    {
+        "cityId": "11495301",
+        "name": "Red Hills",
+        "stateId": "3488081",
+        "latitude": 18.3055,
+        "longitude": -78.1128
+    },
+    {
+        "cityId": "11495302",
+        "name": "Georges Plain",
+        "stateId": "3488081",
+        "latitude": 18.2765,
+        "longitude": -78.13118
+    },
+    {
+        "cityId": "11495303",
+        "name": "Burnt Savannah",
+        "stateId": "3488081",
+        "latitude": 18.31676,
+        "longitude": -78.12628
+    },
+    {
+        "cityId": "11495304",
+        "name": "Mackfield",
+        "stateId": "3488081",
+        "latitude": 18.31163,
+        "longitude": -78.02471
+    },
+    {
+        "cityId": "11495305",
+        "name": "Fort Williams",
+        "stateId": "3488081",
+        "latitude": 18.29834,
+        "longitude": -78.06331
+    },
+    {
+        "cityId": "11495306",
+        "name": "Fullersfield",
+        "stateId": "3488081",
+        "latitude": 18.2989,
+        "longitude": -78.19976
+    },
+    {
+        "cityId": "11495307",
+        "name": "Strawberry",
+        "stateId": "3488081",
+        "latitude": 18.30676,
+        "longitude": -78.08945
+    },
+    {
+        "cityId": "11495308",
+        "name": "Mount Stewart",
+        "stateId": "3488081",
+        "latitude": 18.30411,
+        "longitude": -77.99274
+    },
+    {
+        "cityId": "11495309",
+        "name": "Roaring River",
+        "stateId": "3488081",
+        "latitude": 18.30118,
+        "longitude": -78.04324
+    },
+    {
+        "cityId": "11495310",
+        "name": "Shefield",
+        "stateId": "3488081",
+        "latitude": 18.28412,
+        "longitude": -78.29169
+    },
+    {
+        "cityId": "11495311",
+        "name": "Grange Hill",
+        "stateId": "3488081",
+        "latitude": 18.33083,
+        "longitude": -78.18398
+    },
+    {
+        "cityId": "11495312",
+        "name": "Haddo",
+        "stateId": "3488081",
+        "latitude": 18.28606,
+        "longitude": -78.01893
+    },
+    {
+        "cityId": "11495313",
+        "name": "Barneyside",
+        "stateId": "3488081",
+        "latitude": 18.2767,
+        "longitude": -77.96964
+    },
+    {
+        "cityId": "11495314",
+        "name": "Paul Island",
+        "stateId": "3488081",
+        "latitude": 18.272,
+        "longitude": -78.18614
+    },
+    {
+        "cityId": "11495315",
+        "name": "Amity",
+        "stateId": "3488081",
+        "latitude": 18.24822,
+        "longitude": -78.09409
+    },
+    {
+        "cityId": "11495316",
+        "name": "Hertford",
+        "stateId": "3488081",
+        "latitude": 18.27181,
+        "longitude": -78.09078
+    },
+    {
+        "cityId": "11495317",
+        "name": "Bath",
+        "stateId": "3488081",
+        "latitude": 18.25734,
+        "longitude": -78.11751
+    },
+    {
+        "cityId": "11495318",
+        "name": "Lambs River",
+        "stateId": "3488081",
+        "latitude": 18.26823,
+        "longitude": -77.91414
+    },
+    {
+        "cityId": "11495319",
+        "name": "Struie",
+        "stateId": "3488081",
+        "latitude": 18.25317,
+        "longitude": -77.95656
+    },
+    {
+        "cityId": "11495320",
+        "name": "Petersfield",
+        "stateId": "3488081",
+        "latitude": 18.26588,
+        "longitude": -78.05755
+    },
+    {
+        "cityId": "11495323",
+        "name": "Caledonia",
+        "stateId": "3488081",
+        "latitude": 18.25866,
+        "longitude": -78.01173
+    },
+    {
+        "cityId": "11495324",
+        "name": "Mount Airy",
+        "stateId": "3488081",
+        "latitude": 18.24738,
+        "longitude": -78.32279
+    },
+    {
+        "cityId": "11495325",
+        "name": "Revival",
+        "stateId": "3488081",
+        "latitude": 18.24255,
+        "longitude": -78.28437
+    },
+    {
+        "cityId": "11495326",
+        "name": "Ferris",
+        "stateId": "3488081",
+        "latitude": 18.22265,
+        "longitude": -78.05588
+    },
+    {
+        "cityId": "11495327",
+        "name": "Amity",
+        "stateId": "3488081",
+        "latitude": 18.27361,
+        "longitude": -77.89805
+    },
+    {
+        "cityId": "11495328",
+        "name": "Shoalin Grotto",
+        "stateId": "3488081",
+        "latitude": 18.22059,
+        "longitude": -78.14019
+    },
+    {
+        "cityId": "11495329",
+        "name": "Belvedere",
+        "stateId": "3488081",
+        "latitude": 18.25219,
+        "longitude": -77.93208
+    },
+    {
+        "cityId": "11495330",
+        "name": "Seaford Town",
+        "stateId": "3488081",
+        "latitude": 18.24339,
+        "longitude": -77.90504
+    },
+    {
+        "cityId": "11495332",
+        "name": "Orange Hill",
+        "stateId": "3488081",
+        "latitude": 18.23418,
+        "longitude": -78.30277
+    },
+    {
+        "cityId": "11495333",
+        "name": "Savannah-la-mar Business Dist.",
+        "stateId": "3488081",
+        "latitude": 18.21962,
+        "longitude": -78.13034
+    },
+    {
+        "cityId": "11495336",
+        "name": "Ashton",
+        "stateId": "3488081",
+        "latitude": 18.23139,
+        "longitude": -77.92074
+    },
+    {
+        "cityId": "11495337",
+        "name": "Cairn Curran",
+        "stateId": "3488081",
+        "latitude": 18.2284,
+        "longitude": -78.0113
+    },
+    {
+        "cityId": "11495338",
+        "name": "Beaufort",
+        "stateId": "3488081",
+        "latitude": 18.23417,
+        "longitude": -77.95007
+    },
+    {
+        "cityId": "11495339",
+        "name": "Strathbogie",
+        "stateId": "3488081",
+        "latitude": 18.23855,
+        "longitude": -78.11714
+    },
+    {
+        "cityId": "11495340",
+        "name": "Broughton",
+        "stateId": "3488081",
+        "latitude": 18.21747,
+        "longitude": -78.22894
+    },
+    {
+        "cityId": "11495341",
+        "name": "Lenox Bigwoods",
+        "stateId": "3488081",
+        "latitude": 18.21392,
+        "longitude": -77.97214
+    },
+    {
+        "cityId": "11495342",
+        "name": "Leamington",
+        "stateId": "3488081",
+        "latitude": 18.21352,
+        "longitude": -77.92743
+    },
+    {
+        "cityId": "11495343",
+        "name": "Dundee",
+        "stateId": "3488081",
+        "latitude": 18.23679,
+        "longitude": -77.88698
+    },
+    {
+        "cityId": "11495345",
+        "name": "Enfield",
+        "stateId": "3488081",
+        "latitude": 18.21404,
+        "longitude": -77.9527
+    },
+    {
+        "cityId": "11495366",
+        "name": "Berkshire",
+        "stateId": "3488081",
+        "latitude": 18.21293,
+        "longitude": -77.90373
+    },
+    {
+        "cityId": "11495382",
+        "name": "Beeston Spring",
+        "stateId": "3488081",
+        "latitude": 18.16012,
+        "longitude": -77.97545
+    },
+    {
+        "cityId": "11495389",
+        "name": "Bog",
+        "stateId": "3488081",
+        "latitude": 18.15631,
+        "longitude": -77.94364
+    },
+    {
+        "cityId": "11495404",
+        "name": "Carmel",
+        "stateId": "3488081",
+        "latitude": 18.17326,
+        "longitude": -77.93929
+    },
+    {
+        "cityId": "11495440",
+        "name": "Dillion Bigwoods",
+        "stateId": "3488081",
+        "latitude": 18.20944,
+        "longitude": -77.99078
+    },
+    {
+        "cityId": "11495490",
+        "name": "Kilmarnoch",
+        "stateId": "3488081",
+        "latitude": 18.12407,
+        "longitude": -77.92774
+    },
+    {
+        "cityId": "11495514",
+        "name": "Kentucky",
+        "stateId": "3488081",
+        "latitude": 18.19931,
+        "longitude": -78.01767
+    },
+    {
+        "cityId": "11495550",
+        "name": "Mearnsville",
+        "stateId": "3488081",
+        "latitude": 18.18856,
+        "longitude": -78.0287
+    },
+    {
+        "cityId": "11495578",
+        "name": "New Roads",
+        "stateId": "3488081",
+        "latitude": 18.19124,
+        "longitude": -77.93608
+    },
+    {
+        "cityId": "11495579",
+        "name": "New Works",
+        "stateId": "3488081",
+        "latitude": 18.17248,
+        "longitude": -77.96645
+    },
+    {
+        "cityId": "11495590",
+        "name": "Petersville",
+        "stateId": "3488081",
+        "latitude": 18.137,
+        "longitude": -77.95046
+    },
+    {
+        "cityId": "11495685",
+        "name": "Whithorn",
+        "stateId": "3488081",
+        "latitude": 18.27111,
+        "longitude": -78.03811
+    },
+    {
+        "cityId": "11495690",
+        "name": "Williamsfield",
+        "stateId": "3488081",
+        "latitude": 18.33393,
+        "longitude": -78.06957
+    }
+]

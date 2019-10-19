@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "9072892",
+        "name": "Commune of Rutana",
+        "stateId": "434147",
+        "latitude": -3.9282,
+        "longitude": 29.97784
+    },
+    {
+        "cityId": "9171819",
+        "name": "Bukemba",
+        "stateId": "434147",
+        "latitude": -4.02373,
+        "longitude": 30.0735
+    },
+    {
+        "cityId": "9171833",
+        "name": "Musongati",
+        "stateId": "434147",
+        "latitude": -3.75515,
+        "longitude": 30.06959
+    },
+    {
+        "cityId": "9171836",
+        "name": "Gitanga",
+        "stateId": "434147",
+        "latitude": -4.00756,
+        "longitude": 29.90199
+    },
+    {
+        "cityId": "9171847",
+        "name": "Mpinga-Kayove",
+        "stateId": "434147",
+        "latitude": -3.80489,
+        "longitude": 30.13986
+    },
+    {
+        "cityId": "9171849",
+        "name": "Giharo",
+        "stateId": "434147",
+        "latitude": -3.83544,
+        "longitude": 30.23387
+    }
+]

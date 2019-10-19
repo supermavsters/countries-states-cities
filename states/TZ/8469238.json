@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "154646",
+        "name": "Maswa District",
+        "stateId": "8469238",
+        "latitude": -3.2,
+        "longitude": 33.786
+    },
+    {
+        "cityId": "161217",
+        "name": "Bariadi",
+        "stateId": "8469238",
+        "latitude": -2.57538,
+        "longitude": 34.26083
+    },
+    {
+        "cityId": "7646376",
+        "name": "Meatu",
+        "stateId": "8469238",
+        "latitude": -3.425,
+        "longitude": 34.52
+    },
+    {
+        "cityId": "9998185",
+        "name": "Busega",
+        "stateId": "8469238",
+        "latitude": -2.39125,
+        "longitude": 33.76995
+    },
+    {
+        "cityId": "9998187",
+        "name": "Itilima",
+        "stateId": "8469238",
+        "latitude": -2.82147,
+        "longitude": 34.39529
+    }
+]

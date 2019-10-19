@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "7530731",
+        "name": "Powiat \u017carski",
+        "stateId": "3337494",
+        "latitude": 51.62858,
+        "longitude": 14.9617
+    },
+    {
+        "cityId": "7530744",
+        "name": "Gorz\u00f3w Wielkopolski",
+        "stateId": "3337494",
+        "latitude": 52.73056,
+        "longitude": 15.21711
+    },
+    {
+        "cityId": "7530812",
+        "name": "Powiat wschowski",
+        "stateId": "3337494",
+        "latitude": 51.83019,
+        "longitude": 16.12096
+    },
+    {
+        "cityId": "7530855",
+        "name": "Powiat nowosolski",
+        "stateId": "3337494",
+        "latitude": 51.84218,
+        "longitude": 15.72698
+    },
+    {
+        "cityId": "7530856",
+        "name": "Powiat \u017caga\u0144ski",
+        "stateId": "3337494",
+        "latitude": 51.59471,
+        "longitude": 15.42253
+    },
+    {
+        "cityId": "7530978",
+        "name": "Powiat gorzowski",
+        "stateId": "3337494",
+        "latitude": 52.73863,
+        "longitude": 15.08508
+    },
+    {
+        "cityId": "7530979",
+        "name": "Powiat mi\u0119dzyrzecki",
+        "stateId": "3337494",
+        "latitude": 52.49891,
+        "longitude": 15.58284
+    },
+    {
+        "cityId": "7530980",
+        "name": "Powiat s\u0142ubicki",
+        "stateId": "3337494",
+        "latitude": 52.32267,
+        "longitude": 14.78921
+    },
+    {
+        "cityId": "7530981",
+        "name": "Powiat strzelecko-drezdenecki",
+        "stateId": "3337494",
+        "latitude": 52.9122,
+        "longitude": 15.64061
+    },
+    {
+        "cityId": "7530987",
+        "name": "Powiat sul\u0119ci\u0144ski",
+        "stateId": "3337494",
+        "latitude": 52.4285,
+        "longitude": 15.04896
+    },
+    {
+        "cityId": "7530988",
+        "name": "Powiat \u015bwiebodzi\u0144ski",
+        "stateId": "3337494",
+        "latitude": 52.23799,
+        "longitude": 15.48522
+    },
+    {
+        "cityId": "7530991",
+        "name": "Zielona G\u00f3ra",
+        "stateId": "3337494",
+        "latitude": 51.93768,
+        "longitude": 15.51216
+    },
+    {
+        "cityId": "7531003",
+        "name": "Powiat zielonog\u00f3rski",
+        "stateId": "3337494",
+        "latitude": 51.93326,
+        "longitude": 15.44403
+    },
+    {
+        "cityId": "7531030",
+        "name": "Powiat kro\u015bnie\u0144ski",
+        "stateId": "3337494",
+        "latitude": 52.00988,
+        "longitude": 14.95209
+    }
+]

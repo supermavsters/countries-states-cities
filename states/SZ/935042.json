@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7910682",
+        "name": "Siphofaneni",
+        "stateId": "935042",
+        "latitude": -26.67627,
+        "longitude": 31.66478
+    },
+    {
+        "cityId": "7910860",
+        "name": "Lomashasha",
+        "stateId": "935042",
+        "latitude": -26.06644,
+        "longitude": 32.00768
+    },
+    {
+        "cityId": "11128091",
+        "name": "Hlane",
+        "stateId": "935042",
+        "latitude": -26.29832,
+        "longitude": 31.8749
+    },
+    {
+        "cityId": "11128095",
+        "name": "Mpholonjeni",
+        "stateId": "935042",
+        "latitude": -26.58892,
+        "longitude": 31.8292
+    },
+    {
+        "cityId": "11128351",
+        "name": "Dvokodvweni Inkhundla",
+        "stateId": "935042",
+        "latitude": -26.45398,
+        "longitude": 31.76456
+    },
+    {
+        "cityId": "11184879",
+        "name": "Inkhundla Sithobela",
+        "stateId": "935042",
+        "latitude": -26.85103,
+        "longitude": 31.6626
+    }
+]

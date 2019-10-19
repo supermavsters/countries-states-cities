@@ -1,0 +1,702 @@
+[
+    {
+        "cityId": "4452290",
+        "name": "Alamance County",
+        "stateId": "4482348",
+        "latitude": 36.04407,
+        "longitude": -79.39951
+    },
+    {
+        "cityId": "4452352",
+        "name": "Alexander County",
+        "stateId": "4482348",
+        "latitude": 35.92102,
+        "longitude": -81.17702
+    },
+    {
+        "cityId": "4452391",
+        "name": "Alleghany County",
+        "stateId": "4482348",
+        "latitude": 36.49134,
+        "longitude": -81.12719
+    },
+    {
+        "cityId": "4452708",
+        "name": "Anson County",
+        "stateId": "4482348",
+        "latitude": 34.97383,
+        "longitude": -80.10273
+    },
+    {
+        "cityId": "4453028",
+        "name": "Ashe County",
+        "stateId": "4482348",
+        "latitude": 36.43416,
+        "longitude": -81.50034
+    },
+    {
+        "cityId": "4453232",
+        "name": "Avery County",
+        "stateId": "4482348",
+        "latitude": 36.07661,
+        "longitude": -81.92247
+    },
+    {
+        "cityId": "4454373",
+        "name": "Beaufort County",
+        "stateId": "4482348",
+        "latitude": 35.48583,
+        "longitude": -76.84516
+    },
+    {
+        "cityId": "4455071",
+        "name": "Bertie County",
+        "stateId": "4482348",
+        "latitude": 36.06556,
+        "longitude": -76.9666
+    },
+    {
+        "cityId": "4456243",
+        "name": "Bladen County",
+        "stateId": "4482348",
+        "latitude": 34.61431,
+        "longitude": -78.56318
+    },
+    {
+        "cityId": "4457580",
+        "name": "Brunswick County",
+        "stateId": "4482348",
+        "latitude": 34.03897,
+        "longitude": -78.22728
+    },
+    {
+        "cityId": "4458155",
+        "name": "Buncombe County",
+        "stateId": "4482348",
+        "latitude": 35.61122,
+        "longitude": -82.5301
+    },
+    {
+        "cityId": "4458194",
+        "name": "Burke County",
+        "stateId": "4482348",
+        "latitude": 35.74952,
+        "longitude": -81.7047
+    },
+    {
+        "cityId": "4458491",
+        "name": "Cabarrus County",
+        "stateId": "4482348",
+        "latitude": 35.38687,
+        "longitude": -80.55204
+    },
+    {
+        "cityId": "4458601",
+        "name": "Caldwell County",
+        "stateId": "4482348",
+        "latitude": 35.95297,
+        "longitude": -81.54655
+    },
+    {
+        "cityId": "4458740",
+        "name": "Camden County",
+        "stateId": "4482348",
+        "latitude": 36.34145,
+        "longitude": -76.16112
+    },
+    {
+        "cityId": "4459410",
+        "name": "Carteret County",
+        "stateId": "4482348",
+        "latitude": 34.86401,
+        "longitude": -76.53249
+    },
+    {
+        "cityId": "4459547",
+        "name": "Caswell County",
+        "stateId": "4482348",
+        "latitude": 36.39335,
+        "longitude": -79.33359
+    },
+    {
+        "cityId": "4459575",
+        "name": "Catawba County",
+        "stateId": "4482348",
+        "latitude": 35.66261,
+        "longitude": -81.21448
+    },
+    {
+        "cityId": "4460324",
+        "name": "Chatham County",
+        "stateId": "4482348",
+        "latitude": 35.70258,
+        "longitude": -79.25535
+    },
+    {
+        "cityId": "4460366",
+        "name": "Cherokee County",
+        "stateId": "4482348",
+        "latitude": 35.13384,
+        "longitude": -84.06347
+    },
+    {
+        "cityId": "4460702",
+        "name": "Chowan County",
+        "stateId": "4482348",
+        "latitude": 36.12656,
+        "longitude": -76.60216
+    },
+    {
+        "cityId": "4460927",
+        "name": "Clay County",
+        "stateId": "4482348",
+        "latitude": 35.05719,
+        "longitude": -83.75021
+    },
+    {
+        "cityId": "4461030",
+        "name": "Cleveland County",
+        "stateId": "4482348",
+        "latitude": 35.33411,
+        "longitude": -81.55561
+    },
+    {
+        "cityId": "4461503",
+        "name": "Columbus County",
+        "stateId": "4482348",
+        "latitude": 34.2654,
+        "longitude": -78.65507
+    },
+    {
+        "cityId": "4462398",
+        "name": "Craven County",
+        "stateId": "4482348",
+        "latitude": 35.11722,
+        "longitude": -77.08263
+    },
+    {
+        "cityId": "4462716",
+        "name": "Cumberland County",
+        "stateId": "4482348",
+        "latitude": 35.04859,
+        "longitude": -78.82744
+    },
+    {
+        "cityId": "4462764",
+        "name": "Currituck County",
+        "stateId": "4482348",
+        "latitude": 36.36724,
+        "longitude": -75.93683
+    },
+    {
+        "cityId": "4462997",
+        "name": "Dare County",
+        "stateId": "4482348",
+        "latitude": 35.78663,
+        "longitude": -75.78094
+    },
+    {
+        "cityId": "4463056",
+        "name": "Davidson County",
+        "stateId": "4482348",
+        "latitude": 35.79328,
+        "longitude": -80.21269
+    },
+    {
+        "cityId": "4463078",
+        "name": "Davie County",
+        "stateId": "4482348",
+        "latitude": 35.92916,
+        "longitude": -80.54447
+    },
+    {
+        "cityId": "4464351",
+        "name": "Duplin County",
+        "stateId": "4482348",
+        "latitude": 34.93628,
+        "longitude": -77.93294
+    },
+    {
+        "cityId": "4464374",
+        "name": "Durham County",
+        "stateId": "4482348",
+        "latitude": 36.036,
+        "longitude": -78.87632
+    },
+    {
+        "cityId": "4464909",
+        "name": "Edgecombe County",
+        "stateId": "4482348",
+        "latitude": 35.91298,
+        "longitude": -77.59707
+    },
+    {
+        "cityId": "4466900",
+        "name": "Forsyth County",
+        "stateId": "4482348",
+        "latitude": 36.13049,
+        "longitude": -80.25636
+    },
+    {
+        "cityId": "4467141",
+        "name": "Franklin County",
+        "stateId": "4482348",
+        "latitude": 36.08279,
+        "longitude": -78.28561
+    },
+    {
+        "cityId": "4467717",
+        "name": "Gaston County",
+        "stateId": "4482348",
+        "latitude": 35.29437,
+        "longitude": -81.18025
+    },
+    {
+        "cityId": "4467741",
+        "name": "Gates County",
+        "stateId": "4482348",
+        "latitude": 36.44489,
+        "longitude": -76.70049
+    },
+    {
+        "cityId": "4468538",
+        "name": "Graham County",
+        "stateId": "4482348",
+        "latitude": 35.35016,
+        "longitude": -83.83356
+    },
+    {
+        "cityId": "4468623",
+        "name": "Granville County",
+        "stateId": "4482348",
+        "latitude": 36.30402,
+        "longitude": -78.65302
+    },
+    {
+        "cityId": "4469093",
+        "name": "Greene County",
+        "stateId": "4482348",
+        "latitude": 35.48541,
+        "longitude": -77.67587
+    },
+    {
+        "cityId": "4469393",
+        "name": "Guilford County",
+        "stateId": "4482348",
+        "latitude": 36.07945,
+        "longitude": -79.78901
+    },
+    {
+        "cityId": "4469619",
+        "name": "Halifax County",
+        "stateId": "4482348",
+        "latitude": 36.2575,
+        "longitude": -77.65188
+    },
+    {
+        "cityId": "4470002",
+        "name": "Harnett County",
+        "stateId": "4482348",
+        "latitude": 35.3686,
+        "longitude": -78.86931
+    },
+    {
+        "cityId": "4470398",
+        "name": "Haywood County",
+        "stateId": "4482348",
+        "latitude": 35.55605,
+        "longitude": -82.98224
+    },
+    {
+        "cityId": "4470576",
+        "name": "Henderson County",
+        "stateId": "4482348",
+        "latitude": 35.33629,
+        "longitude": -82.47991
+    },
+    {
+        "cityId": "4470729",
+        "name": "Hertford County",
+        "stateId": "4482348",
+        "latitude": 36.35863,
+        "longitude": -76.98066
+    },
+    {
+        "cityId": "4471487",
+        "name": "Hoke County",
+        "stateId": "4482348",
+        "latitude": 35.01736,
+        "longitude": -79.23711
+    },
+    {
+        "cityId": "4472505",
+        "name": "Hyde County",
+        "stateId": "4482348",
+        "latitude": 35.41004,
+        "longitude": -76.1485
+    },
+    {
+        "cityId": "4472769",
+        "name": "Iredell County",
+        "stateId": "4482348",
+        "latitude": 35.80708,
+        "longitude": -80.87344
+    },
+    {
+        "cityId": "4473029",
+        "name": "Jackson County",
+        "stateId": "4482348",
+        "latitude": 35.28739,
+        "longitude": -83.14083
+    },
+    {
+        "cityId": "4473631",
+        "name": "Johnston County",
+        "stateId": "4482348",
+        "latitude": 35.51761,
+        "longitude": -78.36564
+    },
+    {
+        "cityId": "4473713",
+        "name": "Jones County",
+        "stateId": "4482348",
+        "latitude": 35.0217,
+        "longitude": -77.35526
+    },
+    {
+        "cityId": "4475520",
+        "name": "Lee County",
+        "stateId": "4482348",
+        "latitude": 35.47517,
+        "longitude": -79.17143
+    },
+    {
+        "cityId": "4475647",
+        "name": "Lenoir County",
+        "stateId": "4482348",
+        "latitude": 35.23915,
+        "longitude": -77.64127
+    },
+    {
+        "cityId": "4475969",
+        "name": "Lincoln County",
+        "stateId": "4482348",
+        "latitude": 35.48618,
+        "longitude": -81.22387
+    },
+    {
+        "cityId": "4477724",
+        "name": "Macon County",
+        "stateId": "4482348",
+        "latitude": 35.15038,
+        "longitude": -83.4221
+    },
+    {
+        "cityId": "4477734",
+        "name": "Madison County",
+        "stateId": "4482348",
+        "latitude": 35.85809,
+        "longitude": -82.70576
+    },
+    {
+        "cityId": "4478142",
+        "name": "Martin County",
+        "stateId": "4482348",
+        "latitude": 35.8416,
+        "longitude": -77.10708
+    },
+    {
+        "cityId": "4478581",
+        "name": "McDowell County",
+        "stateId": "4482348",
+        "latitude": 35.68124,
+        "longitude": -82.0487
+    },
+    {
+        "cityId": "4478884",
+        "name": "Mecklenburg County",
+        "stateId": "4482348",
+        "latitude": 35.24671,
+        "longitude": -80.83276
+    },
+    {
+        "cityId": "4479817",
+        "name": "Mitchell County",
+        "stateId": "4482348",
+        "latitude": 36.01329,
+        "longitude": -82.16347
+    },
+    {
+        "cityId": "4479988",
+        "name": "Montgomery County",
+        "stateId": "4482348",
+        "latitude": 35.33246,
+        "longitude": -79.90547
+    },
+    {
+        "cityId": "4480053",
+        "name": "Moore County",
+        "stateId": "4482348",
+        "latitude": 35.31072,
+        "longitude": -79.48131
+    },
+    {
+        "cityId": "4481511",
+        "name": "Nash County",
+        "stateId": "4482348",
+        "latitude": 35.96722,
+        "longitude": -77.98648
+    },
+    {
+        "cityId": "4481757",
+        "name": "New Hanover County",
+        "stateId": "4482348",
+        "latitude": 34.18141,
+        "longitude": -77.86561
+    },
+    {
+        "cityId": "4482584",
+        "name": "Northampton County",
+        "stateId": "4482348",
+        "latitude": 36.41766,
+        "longitude": -77.39674
+    },
+    {
+        "cityId": "4483494",
+        "name": "Onslow County",
+        "stateId": "4482348",
+        "latitude": 34.76305,
+        "longitude": -77.39319
+    },
+    {
+        "cityId": "4483525",
+        "name": "Orange County",
+        "stateId": "4482348",
+        "latitude": 36.0613,
+        "longitude": -79.1206
+    },
+    {
+        "cityId": "4483897",
+        "name": "Pamlico County",
+        "stateId": "4482348",
+        "latitude": 35.15152,
+        "longitude": -76.66716
+    },
+    {
+        "cityId": "4484186",
+        "name": "Pasquotank County",
+        "stateId": "4482348",
+        "latitude": 36.2649,
+        "longitude": -76.24913
+    },
+    {
+        "cityId": "4484498",
+        "name": "Pender County",
+        "stateId": "4482348",
+        "latitude": 34.51494,
+        "longitude": -77.88887
+    },
+    {
+        "cityId": "4484605",
+        "name": "Perquimans County",
+        "stateId": "4482348",
+        "latitude": 36.1772,
+        "longitude": -76.40767
+    },
+    {
+        "cityId": "4484671",
+        "name": "Person County",
+        "stateId": "4482348",
+        "latitude": 36.39011,
+        "longitude": -78.97171
+    },
+    {
+        "cityId": "4485631",
+        "name": "Pitt County",
+        "stateId": "4482348",
+        "latitude": 35.59352,
+        "longitude": -77.37465
+    },
+    {
+        "cityId": "4486072",
+        "name": "Polk County",
+        "stateId": "4482348",
+        "latitude": 35.27929,
+        "longitude": -82.16967
+    },
+    {
+        "cityId": "4487127",
+        "name": "Randolph County",
+        "stateId": "4482348",
+        "latitude": 35.71033,
+        "longitude": -79.80616
+    },
+    {
+        "cityId": "4487947",
+        "name": "Richmond County",
+        "stateId": "4482348",
+        "latitude": 35.00594,
+        "longitude": -79.74783
+    },
+    {
+        "cityId": "4488351",
+        "name": "Robeson County",
+        "stateId": "4482348",
+        "latitude": 34.64009,
+        "longitude": -79.10353
+    },
+    {
+        "cityId": "4488575",
+        "name": "Rockingham County",
+        "stateId": "4482348",
+        "latitude": 36.39608,
+        "longitude": -79.77515
+    },
+    {
+        "cityId": "4489163",
+        "name": "Rowan County",
+        "stateId": "4482348",
+        "latitude": 35.63954,
+        "longitude": -80.52464
+    },
+    {
+        "cityId": "4489357",
+        "name": "Rutherford County",
+        "stateId": "4482348",
+        "latitude": 35.40225,
+        "longitude": -81.92009
+    },
+    {
+        "cityId": "4490053",
+        "name": "Sampson County",
+        "stateId": "4482348",
+        "latitude": 34.99163,
+        "longitude": -78.37152
+    },
+    {
+        "cityId": "4490602",
+        "name": "Scotland County",
+        "stateId": "4482348",
+        "latitude": 34.8409,
+        "longitude": -79.48043
+    },
+    {
+        "cityId": "4493238",
+        "name": "Stanly County",
+        "stateId": "4482348",
+        "latitude": 35.31199,
+        "longitude": -80.25092
+    },
+    {
+        "cityId": "4493539",
+        "name": "Stokes County",
+        "stateId": "4482348",
+        "latitude": 36.4019,
+        "longitude": -80.23961
+    },
+    {
+        "cityId": "4494132",
+        "name": "Surry County",
+        "stateId": "4482348",
+        "latitude": 36.41468,
+        "longitude": -80.68749
+    },
+    {
+        "cityId": "4494189",
+        "name": "Swain County",
+        "stateId": "4482348",
+        "latitude": 35.48673,
+        "longitude": -83.49274
+    },
+    {
+        "cityId": "4495544",
+        "name": "Transylvania County",
+        "stateId": "4482348",
+        "latitude": 35.20215,
+        "longitude": -82.7983
+    },
+    {
+        "cityId": "4496070",
+        "name": "Tyrrell County",
+        "stateId": "4482348",
+        "latitude": 35.87018,
+        "longitude": -76.17005
+    },
+    {
+        "cityId": "4496196",
+        "name": "Union County",
+        "stateId": "4482348",
+        "latitude": 34.98837,
+        "longitude": -80.53073
+    },
+    {
+        "cityId": "4496539",
+        "name": "Vance County",
+        "stateId": "4482348",
+        "latitude": 36.36476,
+        "longitude": -78.40833
+    },
+    {
+        "cityId": "4497286",
+        "name": "Wake County",
+        "stateId": "4482348",
+        "latitude": 35.79012,
+        "longitude": -78.65022
+    },
+    {
+        "cityId": "4497598",
+        "name": "Warren County",
+        "stateId": "4482348",
+        "latitude": 36.39659,
+        "longitude": -78.1069
+    },
+    {
+        "cityId": "4497673",
+        "name": "Washington County",
+        "stateId": "4482348",
+        "latitude": 35.83887,
+        "longitude": -76.56868
+    },
+    {
+        "cityId": "4497707",
+        "name": "Watauga County",
+        "stateId": "4482348",
+        "latitude": 36.2311,
+        "longitude": -81.69637
+    },
+    {
+        "cityId": "4497859",
+        "name": "Wayne County",
+        "stateId": "4482348",
+        "latitude": 35.36378,
+        "longitude": -78.00415
+    },
+    {
+        "cityId": "4499127",
+        "name": "Wilkes County",
+        "stateId": "4482348",
+        "latitude": 36.20621,
+        "longitude": -81.16292
+    },
+    {
+        "cityId": "4499428",
+        "name": "Wilson County",
+        "stateId": "4482348",
+        "latitude": 35.70503,
+        "longitude": -77.91862
+    },
+    {
+        "cityId": "4500134",
+        "name": "Yadkin County",
+        "stateId": "4482348",
+        "latitude": 36.16054,
+        "longitude": -80.66534
+    },
+    {
+        "cityId": "4500160",
+        "name": "Yancey County",
+        "stateId": "4482348",
+        "latitude": 35.89888,
+        "longitude": -82.30755
+    }
+]

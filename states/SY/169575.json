@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "163532",
+        "name": "Talkalakh District",
+        "stateId": "169575",
+        "latitude": 34.71846,
+        "longitude": 36.27383
+    },
+    {
+        "cityId": "169576",
+        "name": "Homs District",
+        "stateId": "169575",
+        "latitude": 34.52942,
+        "longitude": 36.89511
+    },
+    {
+        "cityId": "172947",
+        "name": "Al-Rastan District",
+        "stateId": "169575",
+        "latitude": 34.871,
+        "longitude": 36.77245
+    },
+    {
+        "cityId": "173324",
+        "name": "Al-Qusayr District",
+        "stateId": "169575",
+        "latitude": 34.54081,
+        "longitude": 36.55528
+    },
+    {
+        "cityId": "173435",
+        "name": "Al-Mukharram District",
+        "stateId": "169575",
+        "latitude": 34.85057,
+        "longitude": 37.37688
+    },
+    {
+        "cityId": "7895145",
+        "name": "Tadmur District",
+        "stateId": "169575",
+        "latitude": 34.42401,
+        "longitude": 38.6458
+    }
+]

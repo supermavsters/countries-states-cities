@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "8239356",
+        "name": "Yangon South District",
+        "stateId": "1298822",
+        "latitude": 16.74051,
+        "longitude": 96.49989
+    },
+    {
+        "cityId": "8239357",
+        "name": "Yangon East District",
+        "stateId": "1298822",
+        "latitude": 16.87171,
+        "longitude": 96.12894
+    },
+    {
+        "cityId": "11154021",
+        "name": "Yangon (East)",
+        "stateId": "1298822",
+        "latitude": 16.89793,
+        "longitude": 96.24799
+    },
+    {
+        "cityId": "11154022",
+        "name": "Yangon (North)",
+        "stateId": "1298822",
+        "latitude": 17.26922,
+        "longitude": 96.03035
+    }
+]

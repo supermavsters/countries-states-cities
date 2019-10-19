@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2306702",
+        "name": "Sevilla de Niefang",
+        "stateId": "2566980",
+        "latitude": 1.83333,
+        "longitude": 10.25
+    },
+    {
+        "cityId": "2308997",
+        "name": "Evinayong",
+        "stateId": "2566980",
+        "latitude": 1.41667,
+        "longitude": 10.58333
+    },
+    {
+        "cityId": "2310534",
+        "name": "Acurenam",
+        "stateId": "2566980",
+        "latitude": 1.11667,
+        "longitude": 10.66667
+    },
+    {
+        "cityId": "11237870",
+        "name": "Bicurga",
+        "stateId": "2566980",
+        "latitude": 1.58161,
+        "longitude": 10.46834
+    },
+    {
+        "cityId": "11237880",
+        "name": "Nkimi",
+        "stateId": "2566980",
+        "latitude": 1.93167,
+        "longitude": 10.34522
+    }
+]

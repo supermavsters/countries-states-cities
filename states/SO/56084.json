@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "9179638",
+        "name": "Bu'aale",
+        "stateId": "56084",
+        "latitude": 1.19798,
+        "longitude": 42.7408
+    },
+    {
+        "cityId": "9179642",
+        "name": "Jilib",
+        "stateId": "56084",
+        "latitude": 0.64467,
+        "longitude": 43.05657
+    },
+    {
+        "cityId": "9179645",
+        "name": "Saakow",
+        "stateId": "56084",
+        "latitude": 1.62863,
+        "longitude": 42.06274
+    },
+    {
+        "cityId": "9179655",
+        "name": "Baardheere",
+        "stateId": "56084",
+        "latitude": 2.10205,
+        "longitude": 41.70671
+    }
+]

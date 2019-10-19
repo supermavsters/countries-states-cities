@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1642903",
+        "name": "Kota Administrasi Jakarta Utara",
+        "stateId": "1642907",
+        "latitude": -6.1339,
+        "longitude": 106.8823
+    },
+    {
+        "cityId": "1642904",
+        "name": "Kota Administrasi Jakarta Timur",
+        "stateId": "1642907",
+        "latitude": -6.2521,
+        "longitude": 106.884
+    },
+    {
+        "cityId": "1642905",
+        "name": "Kota Administrasi Jakarta Selatan",
+        "stateId": "1642907",
+        "latitude": -6.266,
+        "longitude": 106.8135
+    },
+    {
+        "cityId": "1642908",
+        "name": "Kota Administrasi Jakarta Pusat",
+        "stateId": "1642907",
+        "latitude": -6.1777,
+        "longitude": 106.8403
+    },
+    {
+        "cityId": "1642909",
+        "name": "Kota Administrasi Jakarta Barat",
+        "stateId": "1642907",
+        "latitude": -6.1676,
+        "longitude": 106.7673
+    },
+    {
+        "cityId": "9849799",
+        "name": "Kabupaten Administrasi Kepulauan Seribu",
+        "stateId": "1642907",
+        "latitude": -5.5985,
+        "longitude": 106.55271
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "5881941",
+        "name": "Abitibi-T\u00e9miscamingue",
+        "stateId": "6115047",
+        "latitude": 48.10018,
+        "longitude": -77.7828
+    },
+    {
+        "cityId": "5928473",
+        "name": "C\u00f4te-Nord",
+        "stateId": "6115047",
+        "latitude": 50.86683,
+        "longitude": -65.81541
+    },
+    {
+        "cityId": "5949621",
+        "name": "Estrie",
+        "stateId": "6115047",
+        "latitude": 45.48338,
+        "longitude": -71.66577
+    },
+    {
+        "cityId": "6049141",
+        "name": "Lanaudi\u00e8re",
+        "stateId": "6115047",
+        "latitude": 46.76678,
+        "longitude": -73.83248
+    },
+    {
+        "cityId": "6050541",
+        "name": "Laurentides",
+        "stateId": "6115047",
+        "latitude": 46.4334,
+        "longitude": -74.98257
+    },
+    {
+        "cityId": "6050612",
+        "name": "Laval",
+        "stateId": "6115047",
+        "latitude": 45.58338,
+        "longitude": -73.74918
+    },
+    {
+        "cityId": "6068167",
+        "name": "Mauricie",
+        "stateId": "6115047",
+        "latitude": 47.55009,
+        "longitude": -73.41583
+    },
+    {
+        "cityId": "6074643",
+        "name": "Minganie",
+        "stateId": "6115047",
+        "latitude": 50.23344,
+        "longitude": -63.59862
+    },
+    {
+        "cityId": "6076966",
+        "name": "Mont\u00e9r\u00e9gie",
+        "stateId": "6115047",
+        "latitude": 45.38338,
+        "longitude": -73.09915
+    },
+    {
+        "cityId": "6077246",
+        "name": "Montr\u00e9al",
+        "stateId": "6115047",
+        "latitude": 45.50008,
+        "longitude": -73.68248
+    },
+    {
+        "cityId": "6095306",
+        "name": "Outaouais",
+        "stateId": "6115047",
+        "latitude": 46.26681,
+        "longitude": -76.31606
+    },
+    {
+        "cityId": "6137271",
+        "name": "Saguenay\/Lac-Saint-Jean",
+        "stateId": "6115047",
+        "latitude": 49.86681,
+        "longitude": -71.74901
+    },
+    {
+        "cityId": "6691318",
+        "name": "Bas-Saint-Laurent",
+        "stateId": "6115047",
+        "latitude": 48.0503,
+        "longitude": -68.02266
+    },
+    {
+        "cityId": "6691319",
+        "name": "Capitale-Nationale",
+        "stateId": "6115047",
+        "latitude": 47.376,
+        "longitude": -71.12337
+    },
+    {
+        "cityId": "6691320",
+        "name": "Nord-du-Qu\u00e9bec",
+        "stateId": "6115047",
+        "latitude": 51.962,
+        "longitude": -74.8961
+    },
+    {
+        "cityId": "6691321",
+        "name": "Gasp\u00e9sie-\u00celes-de-la-Madeleine",
+        "stateId": "6115047",
+        "latitude": 48.87555,
+        "longitude": -65.4071
+    },
+    {
+        "cityId": "6691322",
+        "name": "Chaudi\u00e8re-Appalaches",
+        "stateId": "6115047",
+        "latitude": 46.555,
+        "longitude": -70.8308
+    },
+    {
+        "cityId": "8449526",
+        "name": "Centre-du-Qu\u00e9bec",
+        "stateId": "6115047",
+        "latitude": 46.01985,
+        "longitude": -71.98242
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1833760",
+        "name": "Ulju-gun",
+        "stateId": "1833742",
+        "latitude": 35.56233,
+        "longitude": 129.1269
+    },
+    {
+        "cityId": "8605089",
+        "name": "Nam-gu",
+        "stateId": "1833742",
+        "latitude": 35.54382,
+        "longitude": 129.32917
+    },
+    {
+        "cityId": "8605090",
+        "name": "Dong-gu",
+        "stateId": "1833742",
+        "latitude": 35.5047,
+        "longitude": 129.4186
+    },
+    {
+        "cityId": "8605097",
+        "name": "Jung-gu",
+        "stateId": "1833742",
+        "latitude": 35.5684,
+        "longitude": 129.33226
+    },
+    {
+        "cityId": "8605100",
+        "name": "Buk-gu",
+        "stateId": "1833742",
+        "latitude": 35.58243,
+        "longitude": 129.36049
+    }
+]

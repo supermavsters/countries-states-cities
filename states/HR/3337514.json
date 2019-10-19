@@ -1,0 +1,345 @@
+[
+    {
+        "cityId": "3191516",
+        "name": "Grad Rovinj",
+        "stateId": "3337514",
+        "latitude": 45.08333,
+        "longitude": 13.66667
+    },
+    {
+        "cityId": "3192222",
+        "name": "Grad Pula",
+        "stateId": "3337514",
+        "latitude": 44.86667,
+        "longitude": 13.86667
+    },
+    {
+        "cityId": "3192696",
+        "name": "Grad Pore\u010d",
+        "stateId": "3337514",
+        "latitude": 45.25,
+        "longitude": 13.66667
+    },
+    {
+        "cityId": "3193560",
+        "name": "Grad Pazin",
+        "stateId": "3337514",
+        "latitude": 45.23333,
+        "longitude": 13.93333
+    },
+    {
+        "cityId": "3196833",
+        "name": "Grad Labin",
+        "stateId": "3337514",
+        "latitude": 45.08333,
+        "longitude": 14.13333
+    },
+    {
+        "cityId": "3202941",
+        "name": "Grad Buzet",
+        "stateId": "3337514",
+        "latitude": 45.41667,
+        "longitude": 13.96667
+    },
+    {
+        "cityId": "3203088",
+        "name": "Grad Buje",
+        "stateId": "3337514",
+        "latitude": 45.41667,
+        "longitude": 13.66667
+    },
+    {
+        "cityId": "11054745",
+        "name": "Bale-Valle",
+        "stateId": "3337514",
+        "latitude": 45.04089,
+        "longitude": 13.78565
+    },
+    {
+        "cityId": "11054746",
+        "name": "Barban",
+        "stateId": "3337514",
+        "latitude": 45.06393,
+        "longitude": 14.01418
+    },
+    {
+        "cityId": "11054747",
+        "name": "Brtonigla-Verteneglio",
+        "stateId": "3337514",
+        "latitude": 45.37918,
+        "longitude": 13.62554
+    },
+    {
+        "cityId": "11054748",
+        "name": "Buje-Buie",
+        "stateId": "3337514",
+        "latitude": 45.4079,
+        "longitude": 13.65914
+    },
+    {
+        "cityId": "11054749",
+        "name": "Cerovlje",
+        "stateId": "3337514",
+        "latitude": 45.2765,
+        "longitude": 14.0104
+    },
+    {
+        "cityId": "11054750",
+        "name": "Fa\u017eana-Fasana",
+        "stateId": "3337514",
+        "latitude": 44.92822,
+        "longitude": 13.80548
+    },
+    {
+        "cityId": "11054751",
+        "name": "Funtana-Fontane",
+        "stateId": "3337514",
+        "latitude": 45.17483,
+        "longitude": 13.60627
+    },
+    {
+        "cityId": "11054790",
+        "name": "Gra\u010di\u0161\u0107e",
+        "stateId": "3337514",
+        "latitude": 45.21741,
+        "longitude": 14.00976
+    },
+    {
+        "cityId": "11054800",
+        "name": "Gro\u017enjan-Grisignana",
+        "stateId": "3337514",
+        "latitude": 45.37728,
+        "longitude": 13.72145
+    },
+    {
+        "cityId": "11054801",
+        "name": "Kanfanar",
+        "stateId": "3337514",
+        "latitude": 45.12243,
+        "longitude": 13.83681
+    },
+    {
+        "cityId": "11054804",
+        "name": "Karojba",
+        "stateId": "3337514",
+        "latitude": 45.30293,
+        "longitude": 13.82144
+    },
+    {
+        "cityId": "11054805",
+        "name": "Kr\u0161an",
+        "stateId": "3337514",
+        "latitude": 45.17149,
+        "longitude": 14.13597
+    },
+    {
+        "cityId": "11054806",
+        "name": "Li\u017enjan-Lisignano",
+        "stateId": "3337514",
+        "latitude": 44.82765,
+        "longitude": 13.96028
+    },
+    {
+        "cityId": "11054807",
+        "name": "Lupoglav",
+        "stateId": "3337514",
+        "latitude": 45.35204,
+        "longitude": 14.10846
+    },
+    {
+        "cityId": "11054808",
+        "name": "Mar\u010dana",
+        "stateId": "3337514",
+        "latitude": 44.95647,
+        "longitude": 13.95598
+    },
+    {
+        "cityId": "11054809",
+        "name": "Medulin",
+        "stateId": "3337514",
+        "latitude": 44.82144,
+        "longitude": 13.9362
+    },
+    {
+        "cityId": "11054810",
+        "name": "Motovun-Montona",
+        "stateId": "3337514",
+        "latitude": 45.33633,
+        "longitude": 13.82977
+    },
+    {
+        "cityId": "11054811",
+        "name": "Novigrad-Cittanova",
+        "stateId": "3337514",
+        "latitude": 45.31669,
+        "longitude": 13.56155
+    },
+    {
+        "cityId": "11054812",
+        "name": "Oprtalj-Portole",
+        "stateId": "3337514",
+        "latitude": 45.38226,
+        "longitude": 13.82406
+    },
+    {
+        "cityId": "11054813",
+        "name": "Pi\u0107an",
+        "stateId": "3337514",
+        "latitude": 45.20276,
+        "longitude": 14.04156
+    },
+    {
+        "cityId": "11054814",
+        "name": "Pore\u010d-Parenzo",
+        "stateId": "3337514",
+        "latitude": 45.22717,
+        "longitude": 13.59653
+    },
+    {
+        "cityId": "11054815",
+        "name": "Pula-Pola",
+        "stateId": "3337514",
+        "latitude": 44.86711,
+        "longitude": 13.84882
+    },
+    {
+        "cityId": "11054816",
+        "name": "Ra\u0161a",
+        "stateId": "3337514",
+        "latitude": 45.08003,
+        "longitude": 14.08379
+    },
+    {
+        "cityId": "11054817",
+        "name": "Rovinj-Rovigno",
+        "stateId": "3337514",
+        "latitude": 45.0819,
+        "longitude": 13.6397
+    },
+    {
+        "cityId": "11054818",
+        "name": "Sveti Lovre\u010d",
+        "stateId": "3337514",
+        "latitude": 45.1777,
+        "longitude": 13.74317
+    },
+    {
+        "cityId": "11054819",
+        "name": "Sveti Petar u \u0160umi",
+        "stateId": "3337514",
+        "latitude": 45.18348,
+        "longitude": 13.8659
+    },
+    {
+        "cityId": "11054820",
+        "name": "Svetvin\u010denat",
+        "stateId": "3337514",
+        "latitude": 45.08641,
+        "longitude": 13.88123
+    },
+    {
+        "cityId": "11054821",
+        "name": "Tinjan",
+        "stateId": "3337514",
+        "latitude": 45.21771,
+        "longitude": 13.83775
+    },
+    {
+        "cityId": "11054822",
+        "name": "Umag-Umago",
+        "stateId": "3337514",
+        "latitude": 45.43462,
+        "longitude": 13.52589
+    },
+    {
+        "cityId": "11054824",
+        "name": "Vi\u0161njan-Visignano",
+        "stateId": "3337514",
+        "latitude": 45.27614,
+        "longitude": 13.72128
+    },
+    {
+        "cityId": "11054825",
+        "name": "Vi\u017einada-Visinada",
+        "stateId": "3337514",
+        "latitude": 45.33126,
+        "longitude": 13.75943
+    },
+    {
+        "cityId": "11054827",
+        "name": "Vodnjan-Dignano",
+        "stateId": "3337514",
+        "latitude": 44.96187,
+        "longitude": 13.85041
+    },
+    {
+        "cityId": "11054828",
+        "name": "Vrsar-Orsera",
+        "stateId": "3337514",
+        "latitude": 45.15074,
+        "longitude": 13.60558
+    },
+    {
+        "cityId": "11054829",
+        "name": "\u017dminj",
+        "stateId": "3337514",
+        "latitude": 45.1419,
+        "longitude": 13.90822
+    },
+    {
+        "cityId": "11054952",
+        "name": "Ka\u0161telir-Labinci",
+        "stateId": "3337514",
+        "latitude": 45.30277,
+        "longitude": 13.68841
+    },
+    {
+        "cityId": "11072234",
+        "name": "Sveta Nedelja",
+        "stateId": "3337514",
+        "latitude": 45.14932,
+        "longitude": 14.09889
+    },
+    {
+        "cityId": "11072413",
+        "name": "Tar-Vabriga-Torre Abrega",
+        "stateId": "3337514",
+        "latitude": 45.29946,
+        "longitude": 13.62489
+    },
+    {
+        "cityId": "11129767",
+        "name": "Grad Umag",
+        "stateId": "3337514",
+        "latitude": 45.43746,
+        "longitude": 13.55644
+    },
+    {
+        "cityId": "11129768",
+        "name": "Grad Vodnjan",
+        "stateId": "3337514",
+        "latitude": 44.96677,
+        "longitude": 13.84405
+    },
+    {
+        "cityId": "11129784",
+        "name": "Op\u0107ina Vi\u017einada",
+        "stateId": "3337514",
+        "latitude": 45.32856,
+        "longitude": 13.74261
+    },
+    {
+        "cityId": "11129785",
+        "name": "Op\u0107ina Vi\u0161njan",
+        "stateId": "3337514",
+        "latitude": 45.26532,
+        "longitude": 13.74315
+    },
+    {
+        "cityId": "11129787",
+        "name": "Op\u0107ina Lani\u0161\u0107e",
+        "stateId": "3337514",
+        "latitude": 45.4352,
+        "longitude": 14.08196
+    }
+]

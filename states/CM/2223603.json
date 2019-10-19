@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2234396",
+        "name": "D\u00e9partement de la B\u00e9nou\u00e9",
+        "stateId": "2223603",
+        "latitude": 9.2202,
+        "longitude": 13.47663
+    },
+    {
+        "cityId": "8740150",
+        "name": "Mayo-Rey",
+        "stateId": "2223603",
+        "latitude": 8.1263,
+        "longitude": 14.61456
+    },
+    {
+        "cityId": "8740152",
+        "name": "Mayo-Louti",
+        "stateId": "2223603",
+        "latitude": 9.96577,
+        "longitude": 13.72738
+    },
+    {
+        "cityId": "9228189",
+        "name": "Faro Department",
+        "stateId": "2223603",
+        "latitude": 8.25014,
+        "longitude": 12.87829
+    }
+]

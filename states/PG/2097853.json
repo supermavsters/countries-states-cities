@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2087893",
+        "name": "Rabaul",
+        "stateId": "2097853",
+        "latitude": -4.18333,
+        "longitude": 152.16667
+    },
+    {
+        "cityId": "2088199",
+        "name": "Pomio",
+        "stateId": "2097853",
+        "latitude": -5.5,
+        "longitude": 151.33333
+    },
+    {
+        "cityId": "2093683",
+        "name": "Kokopo",
+        "stateId": "2097853",
+        "latitude": -4.4,
+        "longitude": 152.28333
+    },
+    {
+        "cityId": "8657207",
+        "name": "Gazelle",
+        "stateId": "2097853",
+        "latitude": -4.48333,
+        "longitude": 151.86667
+    }
+]

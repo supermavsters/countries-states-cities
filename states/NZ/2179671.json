@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2183713",
+        "name": "Rangitikei District",
+        "stateId": "2179671",
+        "latitude": -39.66667,
+        "longitude": 175.75
+    },
+    {
+        "cityId": "7910043",
+        "name": "Horowhenua District",
+        "stateId": "2179671",
+        "latitude": -40.57733,
+        "longitude": 175.38071
+    },
+    {
+        "cityId": "7910051",
+        "name": "Manawatu District",
+        "stateId": "2179671",
+        "latitude": -40.11979,
+        "longitude": 175.67426
+    },
+    {
+        "cityId": "7910056",
+        "name": "Palmerston North City",
+        "stateId": "2179671",
+        "latitude": -40.4019,
+        "longitude": 175.64397
+    },
+    {
+        "cityId": "7910059",
+        "name": "Ruapehu District",
+        "stateId": "2179671",
+        "latitude": -39.08854,
+        "longitude": 175.408
+    },
+    {
+        "cityId": "7910071",
+        "name": "Wanganui District",
+        "stateId": "2179671",
+        "latitude": -39.63554,
+        "longitude": 175.14082
+    },
+    {
+        "cityId": "11694796",
+        "name": "Tararua District",
+        "stateId": "2179671",
+        "latitude": -40.47777,
+        "longitude": 176.09917
+    }
+]

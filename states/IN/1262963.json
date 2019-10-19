@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7626588",
+        "name": "Aizawl",
+        "stateId": "1262963",
+        "latitude": 23.8,
+        "longitude": 92.9
+    },
+    {
+        "cityId": "7626589",
+        "name": "Lunglei",
+        "stateId": "1262963",
+        "latitude": 22.9,
+        "longitude": 92.75
+    },
+    {
+        "cityId": "7909838",
+        "name": "Mamit",
+        "stateId": "1262963",
+        "latitude": 23.78492,
+        "longitude": 92.46939
+    },
+    {
+        "cityId": "8261085",
+        "name": "Kolasib district",
+        "stateId": "1262963",
+        "latitude": 24.22215,
+        "longitude": 92.67697
+    },
+    {
+        "cityId": "8740316",
+        "name": "Serchhip",
+        "stateId": "1262963",
+        "latitude": 23.28172,
+        "longitude": 92.90039
+    },
+    {
+        "cityId": "9166019",
+        "name": "Champhai",
+        "stateId": "1262963",
+        "latitude": 23.47444,
+        "longitude": 93.32556
+    },
+    {
+        "cityId": "9166022",
+        "name": "Lawngtlai",
+        "stateId": "1262963",
+        "latitude": 22.53,
+        "longitude": 92.9
+    },
+    {
+        "cityId": "9748029",
+        "name": "Saiha",
+        "stateId": "1262963",
+        "latitude": 22.3767,
+        "longitude": 93.01217
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "cityId": "1605480",
+        "name": "Amphoe Tha Tum",
+        "stateId": "1606029",
+        "latitude": 15.3094,
+        "longitude": 103.65111
+    },
+    {
+        "cityId": "1606301",
+        "name": "Amphoe Si Khoraphum",
+        "stateId": "1606029",
+        "latitude": 14.94753,
+        "longitude": 103.7831
+    },
+    {
+        "cityId": "1606542",
+        "name": "Amphoe Sangkha",
+        "stateId": "1606029",
+        "latitude": 14.57051,
+        "longitude": 103.83911
+    },
+    {
+        "cityId": "1606614",
+        "name": "Amphoe Samrong Thap",
+        "stateId": "1606029",
+        "latitude": 15.0398,
+        "longitude": 103.94089
+    },
+    {
+        "cityId": "1607029",
+        "name": "Amphoe Rattanaburi",
+        "stateId": "1606029",
+        "latitude": 15.3378,
+        "longitude": 103.90541
+    },
+    {
+        "cityId": "1607243",
+        "name": "Amphoe Prasat",
+        "stateId": "1606029",
+        "latitude": 14.62602,
+        "longitude": 103.41569
+    },
+    {
+        "cityId": "1608612",
+        "name": "Amphoe Mueang Surin",
+        "stateId": "1606029",
+        "latitude": 14.88359,
+        "longitude": 103.51272
+    },
+    {
+        "cityId": "1610206",
+        "name": "Amphoe Kap Choeng",
+        "stateId": "1606029",
+        "latitude": 14.46795,
+        "longitude": 103.58476
+    },
+    {
+        "cityId": "1611021",
+        "name": "Amphoe Chumphon Buri",
+        "stateId": "1606029",
+        "latitude": 15.37942,
+        "longitude": 103.37095
+    },
+    {
+        "cityId": "1611124",
+        "name": "Amphoe Chom Phra",
+        "stateId": "1606029",
+        "latitude": 15.14356,
+        "longitude": 103.57881
+    },
+    {
+        "cityId": "7443565",
+        "name": "Amphoe Phanom Dong Rak",
+        "stateId": "1606029",
+        "latitude": 14.42745,
+        "longitude": 103.31007
+    },
+    {
+        "cityId": "7443916",
+        "name": "Amphoe Bua Chet",
+        "stateId": "1606029",
+        "latitude": 14.48406,
+        "longitude": 103.97809
+    },
+    {
+        "cityId": "7510804",
+        "name": "Amphoe Si Narong",
+        "stateId": "1606029",
+        "latitude": 14.78085,
+        "longitude": 103.88651
+    },
+    {
+        "cityId": "7510805",
+        "name": "Amphoe Lamduan",
+        "stateId": "1606029",
+        "latitude": 14.71907,
+        "longitude": 103.69911
+    },
+    {
+        "cityId": "7510807",
+        "name": "Amphoe Non Narai",
+        "stateId": "1606029",
+        "latitude": 15.19111,
+        "longitude": 103.92242
+    },
+    {
+        "cityId": "7510808",
+        "name": "Amphoe Khwao Sinarin",
+        "stateId": "1606029",
+        "latitude": 15.00733,
+        "longitude": 103.62064
+    },
+    {
+        "cityId": "8304641",
+        "name": "Amphoe Sanom",
+        "stateId": "1606029",
+        "latitude": 15.17099,
+        "longitude": 103.78475
+    }
+]

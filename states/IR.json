@@ -1,0 +1,219 @@
+[
+    {
+        "stateId": "7648907",
+        "name": "Alborz",
+        "countryId": "130758",
+        "latitude": 36.01117,
+        "longitude": 50.80956
+    },
+    {
+        "stateId": "139816",
+        "name": "Bushehr",
+        "countryId": "130758",
+        "latitude": 28.75,
+        "longitude": 51.5
+    },
+    {
+        "stateId": "142549",
+        "name": "East Azerbaijan",
+        "countryId": "130758",
+        "latitude": 38,
+        "longitude": 46.75
+    },
+    {
+        "stateId": "134766",
+        "name": "Fars",
+        "countryId": "130758",
+        "latitude": 29,
+        "longitude": 53
+    },
+    {
+        "stateId": "131222",
+        "name": "Hormozgan",
+        "countryId": "130758",
+        "latitude": 27.75,
+        "longitude": 56.5
+    },
+    {
+        "stateId": "418862",
+        "name": "Isfahan",
+        "countryId": "130758",
+        "latitude": 33,
+        "longitude": 52.16667
+    },
+    {
+        "stateId": "128231",
+        "name": "Kerman",
+        "countryId": "130758",
+        "latitude": 29.75,
+        "longitude": 57.25
+    },
+    {
+        "stateId": "127082",
+        "name": "Khuzestan",
+        "countryId": "130758",
+        "latitude": 31.5,
+        "longitude": 49
+    },
+    {
+        "stateId": "413931",
+        "name": "Ost\u0101n-e Ardab\u012bl",
+        "countryId": "130758",
+        "latitude": 38.5,
+        "longitude": 48
+    },
+    {
+        "stateId": "139677",
+        "name": "Ost\u0101n-e Chah\u0101r Ma\u1e29\u0101l va Bakht\u012b\u0101r\u012b",
+        "countryId": "130758",
+        "latitude": 32.16667,
+        "longitude": 50.75
+    },
+    {
+        "stateId": "443792",
+        "name": "Ost\u0101n-e Golest\u0101n",
+        "countryId": "130758",
+        "latitude": 37.25,
+        "longitude": 55
+    },
+    {
+        "stateId": "133349",
+        "name": "Ost\u0101n-e G\u012bl\u0101n",
+        "countryId": "130758",
+        "latitude": 37.16667,
+        "longitude": 49.5
+    },
+    {
+        "stateId": "132142",
+        "name": "Ost\u0101n-e Hamad\u0101n",
+        "countryId": "130758",
+        "latitude": 34.83333,
+        "longitude": 48.58333
+    },
+    {
+        "stateId": "128222",
+        "name": "Ost\u0101n-e Kerm\u0101nsh\u0101h",
+        "countryId": "130758",
+        "latitude": 34.41667,
+        "longitude": 46.75
+    },
+    {
+        "stateId": "6201374",
+        "name": "Ost\u0101n-e Khor\u0101s\u0101n-e Jon\u016bb\u012b",
+        "countryId": "130758",
+        "latitude": 32.5,
+        "longitude": 59.5
+    },
+    {
+        "stateId": "6201375",
+        "name": "Ost\u0101n-e Khor\u0101s\u0101n-e Ra\u1e95av\u012b",
+        "countryId": "130758",
+        "latitude": 35.25,
+        "longitude": 59
+    },
+    {
+        "stateId": "6201376",
+        "name": "Ost\u0101n-e Khor\u0101s\u0101n-e Shom\u0101l\u012b",
+        "countryId": "130758",
+        "latitude": 37.5,
+        "longitude": 57
+    },
+    {
+        "stateId": "126878",
+        "name": "Ost\u0101n-e Kohg\u012bl\u016byeh va Bowyer A\u1e29mad",
+        "countryId": "130758",
+        "latitude": 30.83333,
+        "longitude": 50.66667
+    },
+    {
+        "stateId": "126584",
+        "name": "Ost\u0101n-e Kordest\u0101n",
+        "countryId": "130758",
+        "latitude": 35.66667,
+        "longitude": 47
+    },
+    {
+        "stateId": "125605",
+        "name": "Ost\u0101n-e Lorest\u0101n",
+        "countryId": "130758",
+        "latitude": 33.5,
+        "longitude": 48.5
+    },
+    {
+        "stateId": "124763",
+        "name": "Ost\u0101n-e Markaz\u012b",
+        "countryId": "130758",
+        "latitude": 34.33333,
+        "longitude": 49.83333
+    },
+    {
+        "stateId": "124544",
+        "name": "Ost\u0101n-e M\u0101zandar\u0101n",
+        "countryId": "130758",
+        "latitude": 36.25,
+        "longitude": 52.33333
+    },
+    {
+        "stateId": "443793",
+        "name": "Ost\u0101n-e Qazv\u012bn",
+        "countryId": "130758",
+        "latitude": 36,
+        "longitude": 49.75
+    },
+    {
+        "stateId": "116401",
+        "name": "Ost\u0101n-e Semn\u0101n",
+        "countryId": "130758",
+        "latitude": 35.5,
+        "longitude": 55
+    },
+    {
+        "stateId": "110791",
+        "name": "Ost\u0101n-e Tehr\u0101n",
+        "countryId": "130758",
+        "latitude": 35.66667,
+        "longitude": 51.41667
+    },
+    {
+        "stateId": "111452",
+        "name": "Ost\u0101n-e Zanj\u0101n",
+        "countryId": "130758",
+        "latitude": 36.5,
+        "longitude": 48.33333
+    },
+    {
+        "stateId": "142550",
+        "name": "Ost\u0101n-e \u0100z\u0304arb\u0101yj\u0101n-e Gharb\u012b",
+        "countryId": "130758",
+        "latitude": 37.66667,
+        "longitude": 45
+    },
+    {
+        "stateId": "130801",
+        "name": "Ost\u0101n-e \u012al\u0101m",
+        "countryId": "130758",
+        "latitude": 33.16667,
+        "longitude": 47
+    },
+    {
+        "stateId": "443794",
+        "name": "Qom",
+        "countryId": "130758",
+        "latitude": 34.75,
+        "longitude": 51
+    },
+    {
+        "stateId": "1159456",
+        "name": "Sistan and Baluchestan",
+        "countryId": "130758",
+        "latitude": 28.5,
+        "longitude": 60.5
+    },
+    {
+        "stateId": "111821",
+        "name": "Yazd",
+        "countryId": "130758",
+        "latitude": 32.5,
+        "longitude": 55.58333
+    }
+]

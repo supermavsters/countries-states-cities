@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "3701183",
+        "name": "Distrito de Santa Isabel",
+        "stateId": "3712073",
+        "latitude": 9.48333,
+        "longitude": -79.31667
+    },
+    {
+        "cityId": "3702573",
+        "name": "Distrito de Portobelo",
+        "stateId": "3712073",
+        "latitude": 9.49748,
+        "longitude": -79.6073
+    },
+    {
+        "cityId": "3711599",
+        "name": "Distrito de Donoso",
+        "stateId": "3712073",
+        "latitude": 9.01999,
+        "longitude": -80.42967
+    },
+    {
+        "cityId": "3712075",
+        "name": "Distrito de Col\u00f3n",
+        "stateId": "3712073",
+        "latitude": 9.24313,
+        "longitude": -79.79463
+    },
+    {
+        "cityId": "3712596",
+        "name": "Distrito de Chagres",
+        "stateId": "3712073",
+        "latitude": 9.123,
+        "longitude": -80.11841
+    }
+]

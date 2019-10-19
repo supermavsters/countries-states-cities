@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7701481",
+        "name": "Kayes Cercle",
+        "stateId": "2455517",
+        "latitude": 14.53349,
+        "longitude": -11.5459
+    },
+    {
+        "cityId": "7701501",
+        "name": "Kita Cercle",
+        "stateId": "2455517",
+        "latitude": 13.28205,
+        "longitude": -9.39713
+    },
+    {
+        "cityId": "8261489",
+        "name": "Diema Cercle",
+        "stateId": "2455517",
+        "latitude": 14.583,
+        "longitude": -9.25
+    },
+    {
+        "cityId": "8261494",
+        "name": "Nioro Cercle",
+        "stateId": "2455517",
+        "latitude": 14.7,
+        "longitude": -10.3
+    },
+    {
+        "cityId": "8299787",
+        "name": "Kenieba Cercle",
+        "stateId": "2455517",
+        "latitude": 12.66667,
+        "longitude": -11
+    },
+    {
+        "cityId": "8334585",
+        "name": "Bafoulabe Cercle",
+        "stateId": "2455517",
+        "latitude": 13.66667,
+        "longitude": -10.66667
+    },
+    {
+        "cityId": "8631403",
+        "name": "Cercle de Y\u00e9liman\u00e9",
+        "stateId": "2455517",
+        "latitude": 15.10774,
+        "longitude": -10.54491
+    }
+]

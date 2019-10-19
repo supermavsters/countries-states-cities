@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1605670",
+        "name": "Amphoe Tha Chang",
+        "stateId": "1606269",
+        "latitude": 14.77941,
+        "longitude": 100.39349
+    },
+    {
+        "cityId": "1607472",
+        "name": "Amphoe Phrom Buri",
+        "stateId": "1606269",
+        "latitude": 14.78333,
+        "longitude": 100.45
+    },
+    {
+        "cityId": "1608617",
+        "name": "Amphoe Mueang Sing Buri",
+        "stateId": "1606269",
+        "latitude": 14.90239,
+        "longitude": 100.39731
+    },
+    {
+        "cityId": "1610570",
+        "name": "Amphoe In Buri",
+        "stateId": "1606269",
+        "latitude": 15.02057,
+        "longitude": 100.34865
+    },
+    {
+        "cityId": "1619280",
+        "name": "Amphoe Bang Rachan",
+        "stateId": "1606269",
+        "latitude": 14.89959,
+        "longitude": 100.27795
+    },
+    {
+        "cityId": "11496462",
+        "name": "Amphoe Khai Bang Rachan",
+        "stateId": "1606269",
+        "latitude": 14.81438,
+        "longitude": 100.31389
+    }
+]

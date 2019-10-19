@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7732115",
+        "name": "Bossangoa",
+        "stateId": "2383653",
+        "latitude": 6.4068,
+        "longitude": 17.35189
+    },
+    {
+        "cityId": "9143472",
+        "name": "Batangafo",
+        "stateId": "2383653",
+        "latitude": 7.3457,
+        "longitude": 17.96061
+    },
+    {
+        "cityId": "9143477",
+        "name": "Bouca",
+        "stateId": "2383653",
+        "latitude": 6.37248,
+        "longitude": 18.28674
+    },
+    {
+        "cityId": "9143478",
+        "name": "Kabo",
+        "stateId": "2383653",
+        "latitude": 7.79721,
+        "longitude": 18.58635
+    },
+    {
+        "cityId": "9143479",
+        "name": "Markounda",
+        "stateId": "2383653",
+        "latitude": 7.52906,
+        "longitude": 17.25684
+    },
+    {
+        "cityId": "9143480",
+        "name": "Nana-Bakassa",
+        "stateId": "2383653",
+        "latitude": 6.97234,
+        "longitude": 17.3792
+    },
+    {
+        "cityId": "9143481",
+        "name": "Nangha Boguila",
+        "stateId": "2383653",
+        "latitude": 7.06393,
+        "longitude": 16.91968
+    }
+]

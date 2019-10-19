@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352509",
+        "name": "Bl\u012bdenes pagasts",
+        "stateId": "7628309",
+        "latitude": 56.64321,
+        "longitude": 22.74573
+    },
+    {
+        "cityId": "11352510",
+        "name": "Broc\u0113ni",
+        "stateId": "7628309",
+        "latitude": 56.67818,
+        "longitude": 22.57634
+    },
+    {
+        "cityId": "11352511",
+        "name": "Cieceres pagasts",
+        "stateId": "7628309",
+        "latitude": 56.67887,
+        "longitude": 22.60162
+    },
+    {
+        "cityId": "11352512",
+        "name": "Gai\u0137u pagasts",
+        "stateId": "7628309",
+        "latitude": 56.79171,
+        "longitude": 22.53729
+    },
+    {
+        "cityId": "11352513",
+        "name": "Remtes pagasts",
+        "stateId": "7628309",
+        "latitude": 56.75052,
+        "longitude": 22.70911
+    }
+]

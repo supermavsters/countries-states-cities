@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "5221078",
+        "name": "Bristol County",
+        "stateId": "5224323",
+        "latitude": 41.70554,
+        "longitude": -71.28612
+    },
+    {
+        "cityId": "5222961",
+        "name": "Kent County",
+        "stateId": "5224323",
+        "latitude": 41.67334,
+        "longitude": -71.57895
+    },
+    {
+        "cityId": "5223601",
+        "name": "Newport County",
+        "stateId": "5224323",
+        "latitude": 41.4998,
+        "longitude": -71.281
+    },
+    {
+        "cityId": "5224162",
+        "name": "Providence County",
+        "stateId": "5224323",
+        "latitude": 41.87136,
+        "longitude": -71.5786
+    },
+    {
+        "cityId": "5225535",
+        "name": "Washington County",
+        "stateId": "5224323",
+        "latitude": 41.39649,
+        "longitude": -71.61966
+    }
+]

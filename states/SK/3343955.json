@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "8986283",
+        "name": "Okres Bratislava I",
+        "stateId": "3343955",
+        "latitude": 48.14653,
+        "longitude": 17.10584
+    },
+    {
+        "cityId": "8986291",
+        "name": "Okres Malacky",
+        "stateId": "3343955",
+        "latitude": 48.43458,
+        "longitude": 17.02166
+    },
+    {
+        "cityId": "8986294",
+        "name": "Okres Pezinok",
+        "stateId": "3343955",
+        "latitude": 48.28785,
+        "longitude": 17.26799
+    },
+    {
+        "cityId": "8986302",
+        "name": "Okres Senec",
+        "stateId": "3343955",
+        "latitude": 48.22187,
+        "longitude": 17.40328
+    },
+    {
+        "cityId": "8986339",
+        "name": "Okres Bratislava II",
+        "stateId": "3343955",
+        "latitude": 48.1528,
+        "longitude": 17.17764
+    },
+    {
+        "cityId": "8986340",
+        "name": "Okres Bratislava III",
+        "stateId": "3343955",
+        "latitude": 48.18543,
+        "longitude": 17.1379
+    },
+    {
+        "cityId": "8986341",
+        "name": "Okres Bratislava IV",
+        "stateId": "3343955",
+        "latitude": 48.22787,
+        "longitude": 16.99722
+    },
+    {
+        "cityId": "8986342",
+        "name": "Okres Bratislava V",
+        "stateId": "3343955",
+        "latitude": 48.11122,
+        "longitude": 17.09444
+    }
+]

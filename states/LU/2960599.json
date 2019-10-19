@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "2960103",
+        "name": "Schifflange",
+        "stateId": "2960599",
+        "latitude": 49.50556,
+        "longitude": 6.01489
+    },
+    {
+        "cityId": "2960116",
+        "name": "Sanem",
+        "stateId": "2960599",
+        "latitude": 49.53312,
+        "longitude": 5.9363
+    },
+    {
+        "cityId": "2960124",
+        "name": "Rumelange",
+        "stateId": "2960599",
+        "latitude": 49.46137,
+        "longitude": 6.01139
+    },
+    {
+        "cityId": "2960188",
+        "name": "P\u00e9tange",
+        "stateId": "2960599",
+        "latitude": 49.5505,
+        "longitude": 5.85533
+    },
+    {
+        "cityId": "2960392",
+        "name": "Kayl",
+        "stateId": "2960599",
+        "latitude": 49.47912,
+        "longitude": 6.031
+    },
+    {
+        "cityId": "2960635",
+        "name": "Dudelange",
+        "stateId": "2960599",
+        "latitude": 49.48084,
+        "longitude": 6.08773
+    },
+    {
+        "cityId": "2960652",
+        "name": "Differdange",
+        "stateId": "2960599",
+        "latitude": 49.52167,
+        "longitude": 5.88288
+    },
+    {
+        "cityId": "2960778",
+        "name": "Bettembourg",
+        "stateId": "2960599",
+        "latitude": 49.52345,
+        "longitude": 6.08307
+    },
+    {
+        "cityId": "6693269",
+        "name": "Esch-sur-Alzette",
+        "stateId": "2960599",
+        "latitude": 49.49583,
+        "longitude": 5.98056
+    },
+    {
+        "cityId": "6693270",
+        "name": "Frisange",
+        "stateId": "2960599",
+        "latitude": 49.515,
+        "longitude": 6.19167
+    },
+    {
+        "cityId": "6693271",
+        "name": "Leudelange",
+        "stateId": "2960599",
+        "latitude": 49.56833,
+        "longitude": 6.06528
+    },
+    {
+        "cityId": "6693272",
+        "name": "Mondercange",
+        "stateId": "2960599",
+        "latitude": 49.53306,
+        "longitude": 5.98833
+    },
+    {
+        "cityId": "6693273",
+        "name": "Reckange-sur-Mess",
+        "stateId": "2960599",
+        "latitude": 49.5625,
+        "longitude": 6.00889
+    },
+    {
+        "cityId": "6693274",
+        "name": "Roeser",
+        "stateId": "2960599",
+        "latitude": 49.54222,
+        "longitude": 6.15
+    }
+]

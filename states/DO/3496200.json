@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3491906",
+        "name": "Villa V\u00e1squez",
+        "stateId": "3496200",
+        "latitude": 19.80791,
+        "longitude": -71.44
+    },
+    {
+        "cityId": "3495025",
+        "name": "Pepillo Salcedo",
+        "stateId": "3496200",
+        "latitude": 19.66667,
+        "longitude": -71.66667
+    },
+    {
+        "cityId": "3496204",
+        "name": "Monte Cristi",
+        "stateId": "3496200",
+        "latitude": 19.83333,
+        "longitude": -71.61667
+    },
+    {
+        "cityId": "3500369",
+        "name": "Las Matas de Santa Cruz",
+        "stateId": "3496200",
+        "latitude": 19.63333,
+        "longitude": -71.5
+    },
+    {
+        "cityId": "3504946",
+        "name": "Guayub\u00edn",
+        "stateId": "3496200",
+        "latitude": 19.61667,
+        "longitude": -71.33333
+    },
+    {
+        "cityId": "3510084",
+        "name": "Casta\u00f1uelas",
+        "stateId": "3496200",
+        "latitude": 19.71667,
+        "longitude": -71.48333
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "465724",
+        "name": "Zadonskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.41667,
+        "longitude": 38.91667
+    },
+    {
+        "cityId": "467976",
+        "name": "Yeletskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.58333,
+        "longitude": 38.5
+    },
+    {
+        "cityId": "472303",
+        "name": "Volovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52,
+        "longitude": 37.91667
+    },
+    {
+        "cityId": "478304",
+        "name": "Usmanskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52,
+        "longitude": 39.75
+    },
+    {
+        "cityId": "483542",
+        "name": "Terbunskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.16667,
+        "longitude": 38.25
+    },
+    {
+        "cityId": "489297",
+        "name": "Stanovlyanskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.83333,
+        "longitude": 38.33333
+    },
+    {
+        "cityId": "535119",
+        "name": "Lipetskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.58333,
+        "longitude": 39.58333
+    },
+    {
+        "cityId": "535418",
+        "name": "Lev-Tolstovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 53.25,
+        "longitude": 39.5
+    },
+    {
+        "cityId": "536514",
+        "name": "Lebedyanskiy Rayon",
+        "stateId": "535120",
+        "latitude": 53,
+        "longitude": 39.16667
+    },
+    {
+        "cityId": "542484",
+        "name": "Krasninskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.83333,
+        "longitude": 38.75
+    },
+    {
+        "cityId": "550109",
+        "name": "Khlevenskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.16667,
+        "longitude": 39.08333
+    },
+    {
+        "cityId": "554804",
+        "name": "Izmalkovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.66667,
+        "longitude": 38
+    },
+    {
+        "cityId": "558309",
+        "name": "Gryazinskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.5,
+        "longitude": 39.91667
+    },
+    {
+        "cityId": "565604",
+        "name": "Dolgorukovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.33333,
+        "longitude": 38.33333
+    },
+    {
+        "cityId": "565805",
+        "name": "Dobrovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.83333,
+        "longitude": 39.83333
+    },
+    {
+        "cityId": "565845",
+        "name": "Dobrinskiy Rayon",
+        "stateId": "535120",
+        "latitude": 52.16667,
+        "longitude": 40.5
+    },
+    {
+        "cityId": "567100",
+        "name": "Dankovskiy Rayon",
+        "stateId": "535120",
+        "latitude": 53.25,
+        "longitude": 39.16667
+    },
+    {
+        "cityId": "569929",
+        "name": "Chaplyginskiy Rayon",
+        "stateId": "535120",
+        "latitude": 53.25,
+        "longitude": 40
+    }
+]

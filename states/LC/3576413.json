@@ -1,0 +1,324 @@
+[
+    {
+        "cityId": "11351394",
+        "name": "La Retraite",
+        "stateId": "3576413",
+        "latitude": 13.75944,
+        "longitude": -60.96632
+    },
+    {
+        "cityId": "11351413",
+        "name": "Viancelle",
+        "stateId": "3576413",
+        "latitude": 13.81269,
+        "longitude": -60.97399
+    },
+    {
+        "cityId": "11351440",
+        "name": "Black Bay",
+        "stateId": "3576413",
+        "latitude": 13.7433,
+        "longitude": -60.98272
+    },
+    {
+        "cityId": "11351441",
+        "name": "La Resource",
+        "stateId": "3576413",
+        "latitude": 13.74799,
+        "longitude": -60.96237
+    },
+    {
+        "cityId": "11351450",
+        "name": "Vige'",
+        "stateId": "3576413",
+        "latitude": 13.78692,
+        "longitude": -60.9355
+    },
+    {
+        "cityId": "11351468",
+        "name": "Eau Piquant\/St Urbain",
+        "stateId": "3576413",
+        "latitude": 13.76025,
+        "longitude": -60.94012
+    },
+    {
+        "cityId": "11351476",
+        "name": "Moule A Chique",
+        "stateId": "3576413",
+        "latitude": 13.71458,
+        "longitude": -60.94835
+    },
+    {
+        "cityId": "11351508",
+        "name": "Cacoa",
+        "stateId": "3576413",
+        "latitude": 13.77889,
+        "longitude": -60.93862
+    },
+    {
+        "cityId": "11351517",
+        "name": "En Bamboo",
+        "stateId": "3576413",
+        "latitude": 13.78155,
+        "longitude": -60.94763
+    },
+    {
+        "cityId": "11351521",
+        "name": "Industrial Estate",
+        "stateId": "3576413",
+        "latitude": 13.74096,
+        "longitude": -60.97393
+    },
+    {
+        "cityId": "11351541",
+        "name": "Catin",
+        "stateId": "3576413",
+        "latitude": 13.77694,
+        "longitude": -60.97973
+    },
+    {
+        "cityId": "11351542",
+        "name": "Westall Group\/The Mangue",
+        "stateId": "3576413",
+        "latitude": 13.72707,
+        "longitude": -60.95312
+    },
+    {
+        "cityId": "11351587",
+        "name": "Woodlands",
+        "stateId": "3576413",
+        "latitude": 13.79923,
+        "longitude": -60.98052
+    },
+    {
+        "cityId": "11351853",
+        "name": "Anse De Sables\/Beane Field",
+        "stateId": "3576413",
+        "latitude": 13.73154,
+        "longitude": -60.94079
+    },
+    {
+        "cityId": "11351905",
+        "name": "Belle Vue",
+        "stateId": "3576413",
+        "latitude": 13.79218,
+        "longitude": -60.95379
+    },
+    {
+        "cityId": "11351906",
+        "name": "Cocoa Dan",
+        "stateId": "3576413",
+        "latitude": 13.73087,
+        "longitude": -60.97195
+    },
+    {
+        "cityId": "11351907",
+        "name": "Obrier",
+        "stateId": "3576413",
+        "latitude": 13.76831,
+        "longitude": -60.97313
+    },
+    {
+        "cityId": "11351909",
+        "name": "Augier",
+        "stateId": "3576413",
+        "latitude": 13.76669,
+        "longitude": -60.98063
+    },
+    {
+        "cityId": "11351910",
+        "name": "Derierre Bois",
+        "stateId": "3576413",
+        "latitude": 13.76807,
+        "longitude": -60.97725
+    },
+    {
+        "cityId": "11351911",
+        "name": "Carierre",
+        "stateId": "3576413",
+        "latitude": 13.78514,
+        "longitude": -60.96721
+    },
+    {
+        "cityId": "11351912",
+        "name": "Coolie Town",
+        "stateId": "3576413",
+        "latitude": 13.76911,
+        "longitude": -60.9668
+    },
+    {
+        "cityId": "11351913",
+        "name": "Beane Field",
+        "stateId": "3576413",
+        "latitude": 13.73976,
+        "longitude": -60.94741
+    },
+    {
+        "cityId": "11351914",
+        "name": "Beausejour",
+        "stateId": "3576413",
+        "latitude": 13.75229,
+        "longitude": -60.95519
+    },
+    {
+        "cityId": "11351915",
+        "name": "Cantonement",
+        "stateId": "3576413",
+        "latitude": 13.75665,
+        "longitude": -60.97662
+    },
+    {
+        "cityId": "11351916",
+        "name": "Esperance",
+        "stateId": "3576413",
+        "latitude": 13.78854,
+        "longitude": -60.96108
+    },
+    {
+        "cityId": "11351917",
+        "name": "Fond Sabot",
+        "stateId": "3576413",
+        "latitude": 13.77659,
+        "longitude": -60.95546
+    },
+    {
+        "cityId": "11351918",
+        "name": "De Mailly",
+        "stateId": "3576413",
+        "latitude": 13.79649,
+        "longitude": -60.94938
+    },
+    {
+        "cityId": "11351919",
+        "name": "Derierre Morne",
+        "stateId": "3576413",
+        "latitude": 13.74126,
+        "longitude": -60.96057
+    },
+    {
+        "cityId": "11351920",
+        "name": "Hope Estate",
+        "stateId": "3576413",
+        "latitude": 13.76477,
+        "longitude": -60.95831
+    },
+    {
+        "cityId": "11351921",
+        "name": "Hewanorra Orchard",
+        "stateId": "3576413",
+        "latitude": 13.74486,
+        "longitude": -60.97284
+    },
+    {
+        "cityId": "11351922",
+        "name": "Joyeux",
+        "stateId": "3576413",
+        "latitude": 13.78313,
+        "longitude": -60.96068
+    },
+    {
+        "cityId": "11351923",
+        "name": "Docamel\/La Resource",
+        "stateId": "3576413",
+        "latitude": 13.74202,
+        "longitude": -60.95604
+    },
+    {
+        "cityId": "11351924",
+        "name": "Plut",
+        "stateId": "3576413",
+        "latitude": 13.77417,
+        "longitude": -60.96076
+    },
+    {
+        "cityId": "11351925",
+        "name": "Grace",
+        "stateId": "3576413",
+        "latitude": 13.77678,
+        "longitude": -60.96637
+    },
+    {
+        "cityId": "11351926",
+        "name": "La Tourney\/Cedar Heights",
+        "stateId": "3576413",
+        "latitude": 13.74114,
+        "longitude": -60.96517
+    },
+    {
+        "cityId": "11351927",
+        "name": "Maganier",
+        "stateId": "3576413",
+        "latitude": 13.7945,
+        "longitude": -60.98513
+    },
+    {
+        "cityId": "11351928",
+        "name": "Morne Cayenne",
+        "stateId": "3576413",
+        "latitude": 13.78349,
+        "longitude": -60.95506
+    },
+    {
+        "cityId": "11351929",
+        "name": "Bruceville\/Shanty Town",
+        "stateId": "3576413",
+        "latitude": 13.72558,
+        "longitude": -60.94907
+    },
+    {
+        "cityId": "11351930",
+        "name": "Morne Vert",
+        "stateId": "3576413",
+        "latitude": 13.77899,
+        "longitude": -60.97617
+    },
+    {
+        "cityId": "11351931",
+        "name": "Pierrot",
+        "stateId": "3576413",
+        "latitude": 13.76857,
+        "longitude": -60.94381
+    },
+    {
+        "cityId": "11351932",
+        "name": "Tete Morne\/Morne Andrew",
+        "stateId": "3576413",
+        "latitude": 13.77114,
+        "longitude": -60.95194
+    },
+    {
+        "cityId": "11351933",
+        "name": "Pomme",
+        "stateId": "3576413",
+        "latitude": 13.75792,
+        "longitude": -60.98147
+    },
+    {
+        "cityId": "11351934",
+        "name": "St Jude'S Highway",
+        "stateId": "3576413",
+        "latitude": 13.75867,
+        "longitude": -60.9736
+    },
+    {
+        "cityId": "11351935",
+        "name": "Town",
+        "stateId": "3576413",
+        "latitude": 13.72835,
+        "longitude": -60.95408
+    },
+    {
+        "cityId": "11351936",
+        "name": "Vieux Fort\/Laborie Highway",
+        "stateId": "3576413",
+        "latitude": 13.73197,
+        "longitude": -60.95477
+    },
+    {
+        "cityId": "11351937",
+        "name": "Fond Capeche",
+        "stateId": "3576413",
+        "latitude": 13.77449,
+        "longitude": -60.94835
+    }
+]

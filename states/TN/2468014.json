@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2468016",
+        "name": "D\u00e9l\u00e9gation de K\u00e9bili Sud",
+        "stateId": "2468014",
+        "latitude": 33.6149,
+        "longitude": 9.0989
+    },
+    {
+        "cityId": "11105091",
+        "name": "D\u00e9l\u00e9gation de K\u00e9bili Nord",
+        "stateId": "2468014",
+        "latitude": 33.8401,
+        "longitude": 9.16826
+    },
+    {
+        "cityId": "11105092",
+        "name": "Rejim Maatoug",
+        "stateId": "2468014",
+        "latitude": 33.32604,
+        "longitude": 7.95295
+    },
+    {
+        "cityId": "11106372",
+        "name": "El Faouar",
+        "stateId": "2468014",
+        "latitude": 33.36595,
+        "longitude": 8.67036
+    },
+    {
+        "cityId": "11106373",
+        "name": "Souk Lahad",
+        "stateId": "2468014",
+        "latitude": 33.90851,
+        "longitude": 8.83616
+    },
+    {
+        "cityId": "11106374",
+        "name": "Douz Sud",
+        "stateId": "2468014",
+        "latitude": 33.03623,
+        "longitude": 9.16493
+    }
+]

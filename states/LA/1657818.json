@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1653008",
+        "name": "Muang Soukhouma",
+        "stateId": "1657818",
+        "latitude": 14.6256,
+        "longitude": 105.6752
+    },
+    {
+        "cityId": "1653886",
+        "name": "Muang Ph\u00f4nthong",
+        "stateId": "1657818",
+        "latitude": 15.10669,
+        "longitude": 105.6489
+    },
+    {
+        "cityId": "1654276",
+        "name": "Muang Pathoumphon",
+        "stateId": "1657818",
+        "latitude": 14.68453,
+        "longitude": 106.06357
+    },
+    {
+        "cityId": "1654374",
+        "name": "Muang Pakxong",
+        "stateId": "1657818",
+        "latitude": 15.0981,
+        "longitude": 106.43398
+    },
+    {
+        "cityId": "1654378",
+        "name": "Muang Pakx\u00e9",
+        "stateId": "1657818",
+        "latitude": 15.13139,
+        "longitude": 105.81612
+    },
+    {
+        "cityId": "1655243",
+        "name": "Muang Mounlapam\u00f4k",
+        "stateId": "1657818",
+        "latitude": 14.28922,
+        "longitude": 105.56832
+    },
+    {
+        "cityId": "1656331",
+        "name": "Muang Kh\u00f4ng",
+        "stateId": "1657818",
+        "latitude": 14.14696,
+        "longitude": 105.95938
+    },
+    {
+        "cityId": "1657817",
+        "name": "Muang Champasak",
+        "stateId": "1657818",
+        "latitude": 14.85704,
+        "longitude": 105.75334
+    },
+    {
+        "cityId": "1904701",
+        "name": "Muang Bachiangchaleunsook",
+        "stateId": "1657818",
+        "latitude": 15.24426,
+        "longitude": 105.96716
+    },
+    {
+        "cityId": "1904774",
+        "name": "Muang Xanas\u00f4mboun",
+        "stateId": "1657818",
+        "latitude": 15.34107,
+        "longitude": 105.73703
+    }
+]

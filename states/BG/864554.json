@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "726351",
+        "name": "Obshtina Treklyano",
+        "stateId": "864554",
+        "latitude": 42.55,
+        "longitude": 22.6
+    },
+    {
+        "cityId": "726871",
+        "name": "Obshtina Dupnitsa",
+        "stateId": "864554",
+        "latitude": 42.28333,
+        "longitude": 23.15
+    },
+    {
+        "cityId": "727440",
+        "name": "Obshtina Sapareva Banya",
+        "stateId": "864554",
+        "latitude": 42.28333,
+        "longitude": 23.31667
+    },
+    {
+        "cityId": "727627",
+        "name": "Obshtina Rila",
+        "stateId": "864554",
+        "latitude": 42.15,
+        "longitude": 23.31667
+    },
+    {
+        "cityId": "728815",
+        "name": "Obshtina Nevestino",
+        "stateId": "864554",
+        "latitude": 42.16667,
+        "longitude": 22.83333
+    },
+    {
+        "cityId": "729729",
+        "name": "Obshtina Kyustendil",
+        "stateId": "864554",
+        "latitude": 42.28333,
+        "longitude": 22.68333
+    },
+    {
+        "cityId": "730267",
+        "name": "Obshtina Kocherinovo",
+        "stateId": "864554",
+        "latitude": 42.09909,
+        "longitude": 23.02942
+    },
+    {
+        "cityId": "733150",
+        "name": "Obshtina Bobov Dol",
+        "stateId": "864554",
+        "latitude": 42.31667,
+        "longitude": 22.98333
+    },
+    {
+        "cityId": "733152",
+        "name": "Obshtina Boboshevo",
+        "stateId": "864554",
+        "latitude": 42.18333,
+        "longitude": 23.02731
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "725644",
+        "name": "Obshtina Varbitsa",
+        "stateId": "864555",
+        "latitude": 43.01667,
+        "longitude": 26.75
+    },
+    {
+        "cityId": "725966",
+        "name": "Obshtina Venets",
+        "stateId": "864555",
+        "latitude": 43.55,
+        "longitude": 26.93333
+    },
+    {
+        "cityId": "727023",
+        "name": "Obshtina Smyadovo",
+        "stateId": "864555",
+        "latitude": 43.05,
+        "longitude": 27.05
+    },
+    {
+        "cityId": "727232",
+        "name": "Obshtina Shumen",
+        "stateId": "864555",
+        "latitude": 43.26667,
+        "longitude": 26.98333
+    },
+    {
+        "cityId": "727986",
+        "name": "Obshtina Veliki Preslav",
+        "stateId": "864555",
+        "latitude": 43.18333,
+        "longitude": 26.86667
+    },
+    {
+        "cityId": "728733",
+        "name": "Obshtina Novi Pazar",
+        "stateId": "864555",
+        "latitude": 43.41667,
+        "longitude": 27.21667
+    },
+    {
+        "cityId": "728790",
+        "name": "Obshtina Nikola-Kozlevo",
+        "stateId": "864555",
+        "latitude": 43.58333,
+        "longitude": 27.26667
+    },
+    {
+        "cityId": "730540",
+        "name": "Obshtina Kaspichan",
+        "stateId": "864555",
+        "latitude": 43.3,
+        "longitude": 27.18333
+    },
+    {
+        "cityId": "730650",
+        "name": "Obshtina Kaolinovo",
+        "stateId": "864555",
+        "latitude": 43.61667,
+        "longitude": 27.11667
+    },
+    {
+        "cityId": "731519",
+        "name": "Obshtina Hitrino",
+        "stateId": "864555",
+        "latitude": 43.43333,
+        "longitude": 26.91667
+    }
+]

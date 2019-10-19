@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7647528",
+        "name": "Stueng Traeng",
+        "stateId": "1822028",
+        "latitude": 13.65,
+        "longitude": 106.07
+    },
+    {
+        "cityId": "8404435",
+        "name": "Sr\u014fk Sr\u00eas\u00e9n",
+        "stateId": "1822028",
+        "latitude": 13.6053,
+        "longitude": 106.35819
+    },
+    {
+        "cityId": "9253808",
+        "name": "Siem Bouk",
+        "stateId": "1822028",
+        "latitude": 13.30424,
+        "longitude": 105.81812
+    },
+    {
+        "cityId": "9253809",
+        "name": "Siem Pang",
+        "stateId": "1822028",
+        "latitude": 14.17608,
+        "longitude": 106.42437
+    },
+    {
+        "cityId": "9253810",
+        "name": "Thala Barivat",
+        "stateId": "1822028",
+        "latitude": 13.67228,
+        "longitude": 105.79132
+    }
+]

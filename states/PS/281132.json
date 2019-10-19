@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7870260",
+        "name": "Rafah",
+        "stateId": "281132",
+        "latitude": 31.27326,
+        "longitude": 34.26063
+    },
+    {
+        "cityId": "7870263",
+        "name": "North Gaza",
+        "stateId": "281132",
+        "latitude": 31.52467,
+        "longitude": 34.53581
+    },
+    {
+        "cityId": "7870268",
+        "name": "Deir Al Balah",
+        "stateId": "281132",
+        "latitude": 31.40765,
+        "longitude": 34.36736
+    },
+    {
+        "cityId": "7871092",
+        "name": "Khan Yunis Governorate",
+        "stateId": "281132",
+        "latitude": 31.35,
+        "longitude": 34.3
+    },
+    {
+        "cityId": "11184609",
+        "name": "Gaza",
+        "stateId": "281132",
+        "latitude": 31.51065,
+        "longitude": 34.46411
+    }
+]

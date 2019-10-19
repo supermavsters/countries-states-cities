@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3927773",
+        "name": "Provincia de Tarata",
+        "stateId": "3928127",
+        "latitude": -17.41667,
+        "longitude": -70.08333
+    },
+    {
+        "cityId": "3928126",
+        "name": "Provincia de Tacna",
+        "stateId": "3928127",
+        "latitude": -17.83333,
+        "longitude": -70.5
+    },
+    {
+        "cityId": "8349578",
+        "name": "Candarave",
+        "stateId": "3928127",
+        "latitude": -17.11397,
+        "longitude": -70.30211
+    },
+    {
+        "cityId": "8349579",
+        "name": "Jorge Basadre",
+        "stateId": "3928127",
+        "latitude": -17.57919,
+        "longitude": -70.73083
+    }
+]

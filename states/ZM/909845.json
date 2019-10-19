@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "175497",
+        "name": "Nchelenge District",
+        "stateId": "909845",
+        "latitude": -9.30484,
+        "longitude": 28.74873
+    },
+    {
+        "cityId": "176553",
+        "name": "Kawambwa District",
+        "stateId": "909845",
+        "latitude": -9.80804,
+        "longitude": 29.3125
+    },
+    {
+        "cityId": "899273",
+        "name": "Samfya District",
+        "stateId": "909845",
+        "latitude": -11.45375,
+        "longitude": 29.64307
+    },
+    {
+        "cityId": "902718",
+        "name": "Mwense District",
+        "stateId": "909845",
+        "latitude": -10.43985,
+        "longitude": 28.73309
+    },
+    {
+        "cityId": "907767",
+        "name": "Mansa District",
+        "stateId": "909845",
+        "latitude": -11.11672,
+        "longitude": 28.95778
+    },
+    {
+        "cityId": "10800891",
+        "name": "Chienge",
+        "stateId": "909845",
+        "latitude": -8.77369,
+        "longitude": 29.07954
+    },
+    {
+        "cityId": "10800892",
+        "name": "Milenge",
+        "stateId": "909845",
+        "latitude": -11.84879,
+        "longitude": 29.16806
+    },
+    {
+        "cityId": "10815862",
+        "name": "Mwansabombwe District",
+        "stateId": "909845",
+        "latitude": -9.87814,
+        "longitude": 28.78084
+    },
+    {
+        "cityId": "10815863",
+        "name": "Chipili District",
+        "stateId": "909845",
+        "latitude": -10.38368,
+        "longitude": 29.12348
+    },
+    {
+        "cityId": "10815864",
+        "name": "Chembe District",
+        "stateId": "909845",
+        "latitude": -11.70652,
+        "longitude": 28.65445
+    },
+    {
+        "cityId": "10815865",
+        "name": "Lunga District",
+        "stateId": "909845",
+        "latitude": -11.53801,
+        "longitude": 30.09244
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "cityId": "4797875",
+        "name": "Barbour County",
+        "stateId": "4826850",
+        "latitude": 39.13293,
+        "longitude": -80.00303
+    },
+    {
+        "cityId": "4798686",
+        "name": "Berkeley County",
+        "stateId": "4826850",
+        "latitude": 39.46407,
+        "longitude": -78.02754
+    },
+    {
+        "cityId": "4799815",
+        "name": "Boone County",
+        "stateId": "4826850",
+        "latitude": 38.023,
+        "longitude": -81.71121
+    },
+    {
+        "cityId": "4800020",
+        "name": "Braxton County",
+        "stateId": "4826850",
+        "latitude": 38.69987,
+        "longitude": -80.71929
+    },
+    {
+        "cityId": "4800996",
+        "name": "Cabell County",
+        "stateId": "4826850",
+        "latitude": 38.4203,
+        "longitude": -82.24172
+    },
+    {
+        "cityId": "4801086",
+        "name": "Calhoun County",
+        "stateId": "4826850",
+        "latitude": 38.8445,
+        "longitude": -81.11757
+    },
+    {
+        "cityId": "4802346",
+        "name": "Clay County",
+        "stateId": "4826850",
+        "latitude": 38.46253,
+        "longitude": -81.07509
+    },
+    {
+        "cityId": "4804155",
+        "name": "Doddridge County",
+        "stateId": "4826850",
+        "latitude": 39.26917,
+        "longitude": -80.70697
+    },
+    {
+        "cityId": "4805678",
+        "name": "Fayette County",
+        "stateId": "4826850",
+        "latitude": 38.02878,
+        "longitude": -81.08119
+    },
+    {
+        "cityId": "4806966",
+        "name": "Gilmer County",
+        "stateId": "4826850",
+        "latitude": 38.92406,
+        "longitude": -80.85708
+    },
+    {
+        "cityId": "4807365",
+        "name": "Grant County",
+        "stateId": "4826850",
+        "latitude": 39.10513,
+        "longitude": -79.19557
+    },
+    {
+        "cityId": "4807600",
+        "name": "Greenbrier County",
+        "stateId": "4826850",
+        "latitude": 37.94693,
+        "longitude": -80.45295
+    },
+    {
+        "cityId": "4807996",
+        "name": "Hampshire County",
+        "stateId": "4826850",
+        "latitude": 39.31707,
+        "longitude": -78.61417
+    },
+    {
+        "cityId": "4808124",
+        "name": "Hardy County",
+        "stateId": "4826850",
+        "latitude": 39.0075,
+        "longitude": -78.85792
+    },
+    {
+        "cityId": "4808274",
+        "name": "Harrison County",
+        "stateId": "4826850",
+        "latitude": 39.28353,
+        "longitude": -80.37987
+    },
+    {
+        "cityId": "4810022",
+        "name": "Jackson County",
+        "stateId": "4826850",
+        "latitude": 38.83447,
+        "longitude": -81.67479
+    },
+    {
+        "cityId": "4810162",
+        "name": "Jefferson County",
+        "stateId": "4826850",
+        "latitude": 39.30762,
+        "longitude": -77.86274
+    },
+    {
+        "cityId": "4810630",
+        "name": "Kanawha County",
+        "stateId": "4826850",
+        "latitude": 38.33657,
+        "longitude": -81.52812
+    },
+    {
+        "cityId": "4811999",
+        "name": "Lewis County",
+        "stateId": "4826850",
+        "latitude": 38.99587,
+        "longitude": -80.50216
+    },
+    {
+        "cityId": "4812303",
+        "name": "Lincoln County",
+        "stateId": "4826850",
+        "latitude": 38.17536,
+        "longitude": -82.07039
+    },
+    {
+        "cityId": "4812863",
+        "name": "Logan County",
+        "stateId": "4826850",
+        "latitude": 37.83153,
+        "longitude": -81.93534
+    },
+    {
+        "cityId": "4813754",
+        "name": "Marion County",
+        "stateId": "4826850",
+        "latitude": 39.51,
+        "longitude": -80.2434
+    },
+    {
+        "cityId": "4813820",
+        "name": "Marshall County",
+        "stateId": "4826850",
+        "latitude": 39.86061,
+        "longitude": -80.66339
+    },
+    {
+        "cityId": "4813934",
+        "name": "Mason County",
+        "stateId": "4826850",
+        "latitude": 38.76974,
+        "longitude": -82.02654
+    },
+    {
+        "cityId": "4814188",
+        "name": "McDowell County",
+        "stateId": "4826850",
+        "latitude": 37.3785,
+        "longitude": -81.65358
+    },
+    {
+        "cityId": "4814465",
+        "name": "Mercer County",
+        "stateId": "4826850",
+        "latitude": 37.40552,
+        "longitude": -81.11144
+    },
+    {
+        "cityId": "4815060",
+        "name": "Mineral County",
+        "stateId": "4826850",
+        "latitude": 39.41472,
+        "longitude": -78.94375
+    },
+    {
+        "cityId": "4815072",
+        "name": "Mingo County",
+        "stateId": "4826850",
+        "latitude": 37.7264,
+        "longitude": -82.13476
+    },
+    {
+        "cityId": "4815207",
+        "name": "Monongalia County",
+        "stateId": "4826850",
+        "latitude": 39.63028,
+        "longitude": -80.04654
+    },
+    {
+        "cityId": "4815213",
+        "name": "Monroe County",
+        "stateId": "4826850",
+        "latitude": 37.56037,
+        "longitude": -80.55055
+    },
+    {
+        "cityId": "4815321",
+        "name": "Morgan County",
+        "stateId": "4826850",
+        "latitude": 39.56043,
+        "longitude": -78.25773
+    },
+    {
+        "cityId": "4816620",
+        "name": "Nicholas County",
+        "stateId": "4826850",
+        "latitude": 38.2917,
+        "longitude": -80.79933
+    },
+    {
+        "cityId": "4817892",
+        "name": "Pendleton County",
+        "stateId": "4826850",
+        "latitude": 38.68073,
+        "longitude": -79.35089
+    },
+    {
+        "cityId": "4818649",
+        "name": "Pleasants County",
+        "stateId": "4826850",
+        "latitude": 39.37094,
+        "longitude": -81.16063
+    },
+    {
+        "cityId": "4818700",
+        "name": "Pocahontas County",
+        "stateId": "4826850",
+        "latitude": 38.3318,
+        "longitude": -80.00775
+    },
+    {
+        "cityId": "4819019",
+        "name": "Preston County",
+        "stateId": "4826850",
+        "latitude": 39.4693,
+        "longitude": -79.66816
+    },
+    {
+        "cityId": "4819197",
+        "name": "Putnam County",
+        "stateId": "4826850",
+        "latitude": 38.50862,
+        "longitude": -81.90899
+    },
+    {
+        "cityId": "4819310",
+        "name": "Raleigh County",
+        "stateId": "4826850",
+        "latitude": 37.77136,
+        "longitude": -81.24863
+    },
+    {
+        "cityId": "4819366",
+        "name": "Randolph County",
+        "stateId": "4826850",
+        "latitude": 38.77472,
+        "longitude": -79.8758
+    },
+    {
+        "cityId": "4820055",
+        "name": "Ritchie County",
+        "stateId": "4826850",
+        "latitude": 39.17827,
+        "longitude": -81.06295
+    },
+    {
+        "cityId": "4820200",
+        "name": "Roane County",
+        "stateId": "4826850",
+        "latitude": 38.71403,
+        "longitude": -81.34835
+    },
+    {
+        "cityId": "4823985",
+        "name": "Summers County",
+        "stateId": "4826850",
+        "latitude": 37.65587,
+        "longitude": -80.85857
+    },
+    {
+        "cityId": "4824403",
+        "name": "Taylor County",
+        "stateId": "4826850",
+        "latitude": 39.33599,
+        "longitude": -80.04618
+    },
+    {
+        "cityId": "4825147",
+        "name": "Tucker County",
+        "stateId": "4826850",
+        "latitude": 39.1136,
+        "longitude": -79.56497
+    },
+    {
+        "cityId": "4825407",
+        "name": "Tyler County",
+        "stateId": "4826850",
+        "latitude": 39.46528,
+        "longitude": -80.88483
+    },
+    {
+        "cityId": "4825733",
+        "name": "Upshur County",
+        "stateId": "4826850",
+        "latitude": 38.89783,
+        "longitude": -80.23342
+    },
+    {
+        "cityId": "4826596",
+        "name": "Wayne County",
+        "stateId": "4826850",
+        "latitude": 38.14595,
+        "longitude": -82.42695
+    },
+    {
+        "cityId": "4826636",
+        "name": "Webster County",
+        "stateId": "4826850",
+        "latitude": 38.49474,
+        "longitude": -80.42187
+    },
+    {
+        "cityId": "4826911",
+        "name": "Wetzel County",
+        "stateId": "4826850",
+        "latitude": 39.60526,
+        "longitude": -80.6391
+    },
+    {
+        "cityId": "4827540",
+        "name": "Wirt County",
+        "stateId": "4826850",
+        "latitude": 39.02242,
+        "longitude": -81.37862
+    },
+    {
+        "cityId": "4827706",
+        "name": "Wood County",
+        "stateId": "4826850",
+        "latitude": 39.21113,
+        "longitude": -81.51497
+    },
+    {
+        "cityId": "4827881",
+        "name": "Wyoming County",
+        "stateId": "4826850",
+        "latitude": 37.60961,
+        "longitude": -81.54918
+    },
+    {
+        "cityId": "5280114",
+        "name": "Brooke County",
+        "stateId": "4826850",
+        "latitude": 40.27381,
+        "longitude": -80.57642
+    },
+    {
+        "cityId": "5280351",
+        "name": "Hancock County",
+        "stateId": "4826850",
+        "latitude": 40.52185,
+        "longitude": -80.57389
+    },
+    {
+        "cityId": "5280563",
+        "name": "Ohio County",
+        "stateId": "4826850",
+        "latitude": 40.09692,
+        "longitude": -80.61906
+    }
+]

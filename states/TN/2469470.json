@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2469474",
+        "name": "D\u00e9l\u00e9gation de M\u00e9denine Sud",
+        "stateId": "2469470",
+        "latitude": 33.38605,
+        "longitude": 10.64496
+    },
+    {
+        "cityId": "2470172",
+        "name": "Zarzis",
+        "stateId": "2469470",
+        "latitude": 33.43099,
+        "longitude": 10.96374
+    },
+    {
+        "cityId": "7870275",
+        "name": "Beni Khedeche",
+        "stateId": "2469470",
+        "latitude": 33.22934,
+        "longitude": 10.1182
+    },
+    {
+        "cityId": "7870276",
+        "name": "Medenine Nord",
+        "stateId": "2469470",
+        "latitude": 33.37586,
+        "longitude": 10.63359
+    },
+    {
+        "cityId": "7870277",
+        "name": "Medenine Sud",
+        "stateId": "2469470",
+        "latitude": 33.3707,
+        "longitude": 10.38941
+    },
+    {
+        "cityId": "7870278",
+        "name": "Sidi Makhlouf",
+        "stateId": "2469470",
+        "latitude": 33.54716,
+        "longitude": 10.52673
+    },
+    {
+        "cityId": "7870280",
+        "name": "Ben Guerdane",
+        "stateId": "2469470",
+        "latitude": 32.89938,
+        "longitude": 11.20743
+    },
+    {
+        "cityId": "7911269",
+        "name": "Jerba Midoun",
+        "stateId": "2469470",
+        "latitude": 33.77918,
+        "longitude": 10.95215
+    },
+    {
+        "cityId": "7911270",
+        "name": "Jerba Ajim",
+        "stateId": "2469470",
+        "latitude": 33.76593,
+        "longitude": 10.82375
+    }
+]

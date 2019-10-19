@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "877377",
+        "name": "Tunduru",
+        "stateId": "877416",
+        "latitude": -10.9519,
+        "longitude": 37.30018
+    },
+    {
+        "cityId": "877400",
+        "name": "Songea",
+        "stateId": "877416",
+        "latitude": -10.39061,
+        "longitude": 35.40004
+    },
+    {
+        "cityId": "877996",
+        "name": "Mbinga",
+        "stateId": "877416",
+        "latitude": -10.75056,
+        "longitude": 34.96912
+    },
+    {
+        "cityId": "7648510",
+        "name": "Namtumbo",
+        "stateId": "877416",
+        "latitude": -10.46642,
+        "longitude": 36.13009
+    },
+    {
+        "cityId": "9998181",
+        "name": "Nyasa",
+        "stateId": "877416",
+        "latitude": -11.15743,
+        "longitude": 34.76578
+    },
+    {
+        "cityId": "9998183",
+        "name": "Songea Municipal",
+        "stateId": "877416",
+        "latitude": -10.65701,
+        "longitude": 35.62045
+    }
+]

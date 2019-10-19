@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "3582804",
+        "name": "Distrito de Zacatecoluca",
+        "stateId": "3585087",
+        "latitude": 13.4,
+        "longitude": -88.88333
+    },
+    {
+        "cityId": "3583403",
+        "name": "Distrito de San Pedro Nonualco",
+        "stateId": "3585087",
+        "latitude": 13.61667,
+        "longitude": -88.93333
+    },
+    {
+        "cityId": "3583406",
+        "name": "Distrito de San Pedro Masahuat",
+        "stateId": "3585087",
+        "latitude": 13.51667,
+        "longitude": -89.03333
+    },
+    {
+        "cityId": "3584211",
+        "name": "Distrito de Olocuilta",
+        "stateId": "3585087",
+        "latitude": 13.5,
+        "longitude": -89.1
+    },
+    {
+        "cityId": "9165877",
+        "name": "San Luis Talpa",
+        "stateId": "3585087",
+        "latitude": 13.46667,
+        "longitude": -89.08333
+    },
+    {
+        "cityId": "9165882",
+        "name": "Guadalupe",
+        "stateId": "3585087",
+        "latitude": 13.61667,
+        "longitude": -88.86667
+    }
+]

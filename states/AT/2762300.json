@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2779673",
+        "name": "Politischer Bezirk Feldkirch",
+        "stateId": "2762300",
+        "latitude": 47.25535,
+        "longitude": 9.5836
+    },
+    {
+        "cityId": "2780740",
+        "name": "Politischer Bezirk Dornbirn",
+        "stateId": "2762300",
+        "latitude": 47.38349,
+        "longitude": 9.7494
+    },
+    {
+        "cityId": "2781502",
+        "name": "Politischer Bezirk Bregenz",
+        "stateId": "2762300",
+        "latitude": 47.42069,
+        "longitude": 9.91989
+    },
+    {
+        "cityId": "2781679",
+        "name": "Politischer Bezirk Bludenz",
+        "stateId": "2762300",
+        "latitude": 47.15144,
+        "longitude": 9.82452
+    }
+]

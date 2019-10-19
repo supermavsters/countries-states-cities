@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "3104341",
+        "name": "Provincia de Zamora",
+        "stateId": "3336900",
+        "latitude": 41.75,
+        "longitude": -6
+    },
+    {
+        "cityId": "3106671",
+        "name": "Provincia de Valladolid",
+        "stateId": "3336900",
+        "latitude": 41.58333,
+        "longitude": -4.66667
+    },
+    {
+        "cityId": "3108680",
+        "name": "Provincia de Soria",
+        "stateId": "3336900",
+        "latitude": 41.66667,
+        "longitude": -2.66667
+    },
+    {
+        "cityId": "3109254",
+        "name": "Provincia de Segovia",
+        "stateId": "3336900",
+        "latitude": 41.16667,
+        "longitude": -4
+    },
+    {
+        "cityId": "3111107",
+        "name": "Provincia de Salamanca",
+        "stateId": "3336900",
+        "latitude": 40.83333,
+        "longitude": -6
+    },
+    {
+        "cityId": "3114530",
+        "name": "Provincia de Palencia",
+        "stateId": "3336900",
+        "latitude": 42.41667,
+        "longitude": -4.5
+    },
+    {
+        "cityId": "3118528",
+        "name": "Provincia de Le\u00f3n",
+        "stateId": "3336900",
+        "latitude": 42.66667,
+        "longitude": -6
+    },
+    {
+        "cityId": "3127460",
+        "name": "Provincia de Burgos",
+        "stateId": "3336900",
+        "latitude": 42.33939,
+        "longitude": -3.70789
+    },
+    {
+        "cityId": "3129138",
+        "name": "Provincia de \u00c1vila",
+        "stateId": "3336900",
+        "latitude": 40.58333,
+        "longitude": -5
+    }
+]

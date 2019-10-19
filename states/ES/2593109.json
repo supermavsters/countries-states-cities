@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2510910",
+        "name": "Provincia de Sevilla",
+        "stateId": "2593109",
+        "latitude": 37.44701,
+        "longitude": -5.69608
+    },
+    {
+        "cityId": "2514254",
+        "name": "Provincia de M\u00e1laga",
+        "stateId": "2593109",
+        "latitude": 36.8,
+        "longitude": -4.75
+    },
+    {
+        "cityId": "2516394",
+        "name": "Provincia de Ja\u00e9n",
+        "stateId": "2593109",
+        "latitude": 38,
+        "longitude": -3.5
+    },
+    {
+        "cityId": "2516547",
+        "name": "Provincia de Huelva",
+        "stateId": "2593109",
+        "latitude": 37.66667,
+        "longitude": -7
+    },
+    {
+        "cityId": "2517115",
+        "name": "Provincia de Granada",
+        "stateId": "2593109",
+        "latitude": 37.25,
+        "longitude": -3.25
+    },
+    {
+        "cityId": "2519239",
+        "name": "Province of C\u00f3rdoba",
+        "stateId": "2593109",
+        "latitude": 38,
+        "longitude": -4.83333
+    },
+    {
+        "cityId": "2520597",
+        "name": "Provincia de C\u00e1diz",
+        "stateId": "2593109",
+        "latitude": 36.5,
+        "longitude": -5.75
+    },
+    {
+        "cityId": "2521883",
+        "name": "Almer\u00eda",
+        "stateId": "2593109",
+        "latitude": 37.16667,
+        "longitude": -2.33333
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "1853223",
+        "name": "Saito-shi",
+        "stateId": "1856710",
+        "latitude": 32.17288,
+        "longitude": 131.31543
+    },
+    {
+        "cityId": "1855094",
+        "name": "Nobeoka-shi",
+        "stateId": "1856710",
+        "latitude": 32.67238,
+        "longitude": 131.64311
+    },
+    {
+        "cityId": "1855473",
+        "name": "Nichinan Shi",
+        "stateId": "1856710",
+        "latitude": 31.63737,
+        "longitude": 131.33409
+    },
+    {
+        "cityId": "1856706",
+        "name": "Miyazaki-shi",
+        "stateId": "1856710",
+        "latitude": 31.96192,
+        "longitude": 131.38455
+    },
+    {
+        "cityId": "1856774",
+        "name": "Miyakonoj\u014d Shi",
+        "stateId": "1856710",
+        "latitude": 31.8092,
+        "longitude": 131.07904
+    },
+    {
+        "cityId": "1858035",
+        "name": "Kushima Shi",
+        "stateId": "1856710",
+        "latitude": 31.48571,
+        "longitude": 131.26485
+    },
+    {
+        "cityId": "1858599",
+        "name": "K\u014dyu-gun",
+        "stateId": "1856710",
+        "latitude": 32.22348,
+        "longitude": 131.15945
+    },
+    {
+        "cityId": "1862036",
+        "name": "Hy\u016bga-shi",
+        "stateId": "1856710",
+        "latitude": 32.3771,
+        "longitude": 131.52275
+    },
+    {
+        "cityId": "1862717",
+        "name": "Higashiusuki-gun",
+        "stateId": "1856710",
+        "latitude": 32.46851,
+        "longitude": 131.28943
+    },
+    {
+        "cityId": "1864313",
+        "name": "Ebino-shi",
+        "stateId": "1856710",
+        "latitude": 32.01667,
+        "longitude": 130.8
+    },
+    {
+        "cityId": "7413964",
+        "name": "HIgashimorokata Gun",
+        "stateId": "1856710",
+        "latitude": 32.03621,
+        "longitude": 131.2587
+    },
+    {
+        "cityId": "7413965",
+        "name": "Kitamorokata Gun",
+        "stateId": "1856710",
+        "latitude": 31.71818,
+        "longitude": 131.16506
+    },
+    {
+        "cityId": "7413967",
+        "name": "Nishimorokata Gun",
+        "stateId": "1856710",
+        "latitude": 31.93588,
+        "longitude": 130.99834
+    },
+    {
+        "cityId": "7413968",
+        "name": "Nishiusuki-gun",
+        "stateId": "1856710",
+        "latitude": 32.69798,
+        "longitude": 131.32631
+    },
+    {
+        "cityId": "7413970",
+        "name": "Kobayashi Shi",
+        "stateId": "1856710",
+        "latitude": 32.04556,
+        "longitude": 131.02762
+    }
+]

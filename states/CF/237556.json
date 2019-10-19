@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7731888",
+        "name": "Ouango",
+        "stateId": "237556",
+        "latitude": 4.41345,
+        "longitude": 22.53471
+    },
+    {
+        "cityId": "7731889",
+        "name": "Gambo",
+        "stateId": "237556",
+        "latitude": 4.65305,
+        "longitude": 22.15741
+    },
+    {
+        "cityId": "7732064",
+        "name": "Bangassou",
+        "stateId": "237556",
+        "latitude": 5.01352,
+        "longitude": 23.15326
+    },
+    {
+        "cityId": "7732690",
+        "name": "Bakouma",
+        "stateId": "237556",
+        "latitude": 5.5267,
+        "longitude": 22.58557
+    },
+    {
+        "cityId": "9143468",
+        "name": "Rafai",
+        "stateId": "237556",
+        "latitude": 5.81012,
+        "longitude": 24.20305
+    }
+]

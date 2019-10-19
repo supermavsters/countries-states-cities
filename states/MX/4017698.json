@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "6941773",
+        "name": "Los Cabos",
+        "stateId": "4017698",
+        "latitude": 23.27663,
+        "longitude": -109.75322
+    },
+    {
+        "cityId": "6942825",
+        "name": "Loreto",
+        "stateId": "4017698",
+        "latitude": 25.95496,
+        "longitude": -111.45042
+    },
+    {
+        "cityId": "6942826",
+        "name": "La Paz",
+        "stateId": "4017698",
+        "latitude": 24.13333,
+        "longitude": -110.3
+    },
+    {
+        "cityId": "6942828",
+        "name": "Muleg\u00e9",
+        "stateId": "4017698",
+        "latitude": 26.6,
+        "longitude": -112.33333
+    },
+    {
+        "cityId": "6942829",
+        "name": "Comond\u00fa",
+        "stateId": "4017698",
+        "latitude": 26.06667,
+        "longitude": -111.81666
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1605023",
+        "name": "Amphoe Wichian Buri",
+        "stateId": "1607736",
+        "latitude": 15.65,
+        "longitude": 101.1
+    },
+    {
+        "cityId": "1608190",
+        "name": "Amphoe Nong Phai",
+        "stateId": "1607736",
+        "latitude": 16.01162,
+        "longitude": 101.15042
+    },
+    {
+        "cityId": "1608635",
+        "name": "Amphoe Mueang Phetchabun",
+        "stateId": "1607736",
+        "latitude": 16.38215,
+        "longitude": 101.17652
+    },
+    {
+        "cityId": "1609042",
+        "name": "Amphoe Lom Sak",
+        "stateId": "1607736",
+        "latitude": 16.72837,
+        "longitude": 101.31139
+    },
+    {
+        "cityId": "1609047",
+        "name": "Amphoe Lom Kao",
+        "stateId": "1607736",
+        "latitude": 16.97209,
+        "longitude": 101.26185
+    },
+    {
+        "cityId": "1611105",
+        "name": "Amphoe Chon Daen",
+        "stateId": "1607736",
+        "latitude": 16.10735,
+        "longitude": 100.83572
+    },
+    {
+        "cityId": "7510691",
+        "name": "Amphoe Wang Pong",
+        "stateId": "1607736",
+        "latitude": 16.35049,
+        "longitude": 100.80772
+    },
+    {
+        "cityId": "7510716",
+        "name": "Amphoe Bueng Sam Phan",
+        "stateId": "1607736",
+        "latitude": 15.8165,
+        "longitude": 101.00399
+    },
+    {
+        "cityId": "7510730",
+        "name": "Amphoe Nam Nao",
+        "stateId": "1607736",
+        "latitude": 16.84489,
+        "longitude": 101.6008
+    },
+    {
+        "cityId": "7511031",
+        "name": "Amphoe Khao Kho",
+        "stateId": "1607736",
+        "latitude": 16.66313,
+        "longitude": 100.9945
+    },
+    {
+        "cityId": "8304632",
+        "name": "Amphoe Si Thep",
+        "stateId": "1607736",
+        "latitude": 15.44253,
+        "longitude": 101.14767
+    }
+]

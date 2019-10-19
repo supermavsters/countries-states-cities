@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "10683815",
+        "name": "KaMubukwana",
+        "stateId": "1105845",
+        "latitude": -25.8868,
+        "longitude": 32.57261
+    },
+    {
+        "cityId": "10685827",
+        "name": "KaMavota",
+        "stateId": "1105845",
+        "latitude": -25.88719,
+        "longitude": 32.63601
+    },
+    {
+        "cityId": "10685828",
+        "name": "Nhlamankulo",
+        "stateId": "1105845",
+        "latitude": -25.94516,
+        "longitude": 32.5572
+    },
+    {
+        "cityId": "10685829",
+        "name": "KaMaxakeni",
+        "stateId": "1105845",
+        "latitude": -25.93797,
+        "longitude": 32.59732
+    },
+    {
+        "cityId": "10685830",
+        "name": "KaMpfumo",
+        "stateId": "1105845",
+        "latitude": -25.9654,
+        "longitude": 32.58295
+    },
+    {
+        "cityId": "10685831",
+        "name": "KaTembe",
+        "stateId": "1105845",
+        "latitude": -26.02985,
+        "longitude": 32.53204
+    },
+    {
+        "cityId": "10685832",
+        "name": "KaNyaka",
+        "stateId": "1105845",
+        "latitude": -26.01731,
+        "longitude": 32.94305
+    }
+]

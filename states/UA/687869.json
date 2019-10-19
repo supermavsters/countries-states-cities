@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "689104",
+        "name": "Volovets Raion",
+        "stateId": "687869",
+        "latitude": 48.75,
+        "longitude": 23.08333
+    },
+    {
+        "cityId": "689530",
+        "name": "Vynohradiv Raion",
+        "stateId": "687869",
+        "latitude": 48.16667,
+        "longitude": 23
+    },
+    {
+        "cityId": "690085",
+        "name": "Velykyi Bereznyi Raion",
+        "stateId": "687869",
+        "latitude": 48.91667,
+        "longitude": 22.58333
+    },
+    {
+        "cityId": "690549",
+        "name": "Uzhgorodskiy Raion",
+        "stateId": "687869",
+        "latitude": 48.58333,
+        "longitude": 22.33333
+    },
+    {
+        "cityId": "690904",
+        "name": "Tiachiv Raion",
+        "stateId": "687869",
+        "latitude": 48.08333,
+        "longitude": 23.58333
+    },
+    {
+        "cityId": "692126",
+        "name": "Svaliava Raion",
+        "stateId": "687869",
+        "latitude": 48.55,
+        "longitude": 23
+    },
+    {
+        "cityId": "695857",
+        "name": "Rakhiv Raion",
+        "stateId": "687869",
+        "latitude": 48.08333,
+        "longitude": 24.33333
+    },
+    {
+        "cityId": "697749",
+        "name": "Perechyn Raion",
+        "stateId": "687869",
+        "latitude": 48.75,
+        "longitude": 22.66667
+    },
+    {
+        "cityId": "700644",
+        "name": "Mukachevo Raion",
+        "stateId": "687869",
+        "latitude": 48.41667,
+        "longitude": 22.66667
+    },
+    {
+        "cityId": "701301",
+        "name": "Mizhhirya Raion",
+        "stateId": "687869",
+        "latitude": 48.58333,
+        "longitude": 23.5
+    },
+    {
+        "cityId": "706162",
+        "name": "Khust Raion",
+        "stateId": "687869",
+        "latitude": 48.25,
+        "longitude": 23.41667
+    },
+    {
+        "cityId": "707557",
+        "name": "Irshava Raion",
+        "stateId": "687869",
+        "latitude": 48.33333,
+        "longitude": 23.08333
+    },
+    {
+        "cityId": "712424",
+        "name": "Berehove Raion",
+        "stateId": "687869",
+        "latitude": 48.16667,
+        "longitude": 22.66667
+    },
+    {
+        "cityId": "9291195",
+        "name": "Khusts\u2019ka Mis\u2019krada",
+        "stateId": "687869",
+        "latitude": 48.19058,
+        "longitude": 23.30322
+    },
+    {
+        "cityId": "9291259",
+        "name": "Berehivs\u2019ka Mis\u2019krada",
+        "stateId": "687869",
+        "latitude": 48.21255,
+        "longitude": 22.65536
+    },
+    {
+        "cityId": "9291276",
+        "name": "Uzhhorods\u2019ka Mis\u2019krada",
+        "stateId": "687869",
+        "latitude": 48.62309,
+        "longitude": 22.29594
+    },
+    {
+        "cityId": "9291277",
+        "name": "Chops\u2019ka Mis\u2019krada",
+        "stateId": "687869",
+        "latitude": 48.43351,
+        "longitude": 22.23132
+    },
+    {
+        "cityId": "9291358",
+        "name": "Mukachivs\u2019ka Mis\u2019krada",
+        "stateId": "687869",
+        "latitude": 48.43901,
+        "longitude": 22.71939
+    }
+]

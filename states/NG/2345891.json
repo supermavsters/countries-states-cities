@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "7730003",
+        "name": "Boki",
+        "stateId": "2345891",
+        "latitude": 6.25,
+        "longitude": 9.03333
+    },
+    {
+        "cityId": "7932499",
+        "name": "Ikom",
+        "stateId": "2345891",
+        "latitude": 6.08333,
+        "longitude": 8.61667
+    },
+    {
+        "cityId": "7932500",
+        "name": "Ogoja",
+        "stateId": "2345891",
+        "latitude": 6.59671,
+        "longitude": 8.80258
+    },
+    {
+        "cityId": "7932501",
+        "name": "Obubra",
+        "stateId": "2345891",
+        "latitude": 5.9429,
+        "longitude": 8.37883
+    },
+    {
+        "cityId": "7932502",
+        "name": "Abi",
+        "stateId": "2345891",
+        "latitude": 5.90661,
+        "longitude": 8.03799
+    },
+    {
+        "cityId": "7932505",
+        "name": "Obudu",
+        "stateId": "2345891",
+        "latitude": 6.5433,
+        "longitude": 9.04543
+    },
+    {
+        "cityId": "8638513",
+        "name": "Yala",
+        "stateId": "2345891",
+        "latitude": 6.65398,
+        "longitude": 8.54939
+    },
+    {
+        "cityId": "8638542",
+        "name": "Bekwarra",
+        "stateId": "2345891",
+        "latitude": 6.69583,
+        "longitude": 8.91057
+    },
+    {
+        "cityId": "8638544",
+        "name": "Obanliku",
+        "stateId": "2345891",
+        "latitude": 6.53726,
+        "longitude": 9.30699
+    },
+    {
+        "cityId": "8638545",
+        "name": "Etung",
+        "stateId": "2345891",
+        "latitude": 5.85894,
+        "longitude": 8.79164
+    },
+    {
+        "cityId": "8638546",
+        "name": "Yakurr",
+        "stateId": "2345891",
+        "latitude": 5.80608,
+        "longitude": 8.17499
+    },
+    {
+        "cityId": "8638547",
+        "name": "Biase",
+        "stateId": "2345891",
+        "latitude": 5.55942,
+        "longitude": 8.07809
+    },
+    {
+        "cityId": "8638548",
+        "name": "Akamkpa",
+        "stateId": "2345891",
+        "latitude": 5.42728,
+        "longitude": 8.51855
+    },
+    {
+        "cityId": "8638549",
+        "name": "Odukpani",
+        "stateId": "2345891",
+        "latitude": 5.18502,
+        "longitude": 8.13314
+    },
+    {
+        "cityId": "8638550",
+        "name": "Calabar Municipal",
+        "stateId": "2345891",
+        "latitude": 4.99088,
+        "longitude": 8.30343
+    },
+    {
+        "cityId": "8638551",
+        "name": "Calabar South",
+        "stateId": "2345891",
+        "latitude": 4.86413,
+        "longitude": 8.33635
+    },
+    {
+        "cityId": "8638552",
+        "name": "Akpabuyo",
+        "stateId": "2345891",
+        "latitude": 4.90092,
+        "longitude": 8.48111
+    },
+    {
+        "cityId": "9172954",
+        "name": "Bakassi",
+        "stateId": "2345891",
+        "latitude": 4.81714,
+        "longitude": 8.60212
+    }
+]

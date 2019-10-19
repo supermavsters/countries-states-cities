@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "2534445",
+        "name": "Sidi-Kacem",
+        "stateId": "11281877",
+        "latitude": 34.58333,
+        "longitude": -5.75
+    },
+    {
+        "cityId": "2537762",
+        "name": "Sale",
+        "stateId": "11281877",
+        "latitude": 33.99,
+        "longitude": -6.64
+    },
+    {
+        "cityId": "2538474",
+        "name": "Rabat",
+        "stateId": "11281877",
+        "latitude": 33.99111,
+        "longitude": -6.84006
+    },
+    {
+        "cityId": "2544363",
+        "name": "Khemisset",
+        "stateId": "11281877",
+        "latitude": 33.66667,
+        "longitude": -6.25
+    },
+    {
+        "cityId": "2544568",
+        "name": "Kenitra Province",
+        "stateId": "11281877",
+        "latitude": 34.58333,
+        "longitude": -6.33333
+    },
+    {
+        "cityId": "2562053",
+        "name": "Skhirate-Temara",
+        "stateId": "11281877",
+        "latitude": 33.77,
+        "longitude": -6.87
+    },
+    {
+        "cityId": "11282167",
+        "name": "Sidi Slimane",
+        "stateId": "11281877",
+        "latitude": 34.26221,
+        "longitude": -5.92549
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "726417",
+        "name": "Obshtina Dobrich",
+        "stateId": "726419",
+        "latitude": 43.57763,
+        "longitude": 27.80628
+    },
+    {
+        "cityId": "726473",
+        "name": "Obshtina Tervel",
+        "stateId": "726419",
+        "latitude": 43.75,
+        "longitude": 27.4
+    },
+    {
+        "cityId": "727328",
+        "name": "Obshtina Shabla",
+        "stateId": "726419",
+        "latitude": 43.61667,
+        "longitude": 28.51667
+    },
+    {
+        "cityId": "729879",
+        "name": "Obshtina Krushari",
+        "stateId": "726419",
+        "latitude": 43.88333,
+        "longitude": 27.75
+    },
+    {
+        "cityId": "730517",
+        "name": "Obshtina Kavarna",
+        "stateId": "726419",
+        "latitude": 43.5,
+        "longitude": 28.38333
+    },
+    {
+        "cityId": "731463",
+        "name": "Obshtina General Toshevo",
+        "stateId": "726419",
+        "latitude": 43.73333,
+        "longitude": 28.08333
+    },
+    {
+        "cityId": "733513",
+        "name": "Obshtina Balchik",
+        "stateId": "726419",
+        "latitude": 43.5,
+        "longitude": 28.13333
+    },
+    {
+        "cityId": "864565",
+        "name": "Obshtina Dobrich-Selska",
+        "stateId": "726419",
+        "latitude": 43.63333,
+        "longitude": 27.73333
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7910035",
+        "name": "Central Otago District",
+        "stateId": "6612109",
+        "latitude": -45.13088,
+        "longitude": 169.60406
+    },
+    {
+        "cityId": "7910037",
+        "name": "Clutha District",
+        "stateId": "6612109",
+        "latitude": -46.03883,
+        "longitude": 169.60617
+    },
+    {
+        "cityId": "7910038",
+        "name": "Dunedin City",
+        "stateId": "6612109",
+        "latitude": -45.64051,
+        "longitude": 170.24368
+    },
+    {
+        "cityId": "7910058",
+        "name": "Queenstown-Lakes District",
+        "stateId": "6612109",
+        "latitude": -44.66149,
+        "longitude": 168.91809
+    }
+]

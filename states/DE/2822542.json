@@ -1,0 +1,163 @@
+[
+    {
+        "cityId": "2812479",
+        "name": "Kreisfreie Stadt Weimar",
+        "stateId": "2822542",
+        "latitude": 50.97361,
+        "longitude": 11.33806
+    },
+    {
+        "cityId": "2812480",
+        "name": "Weimarer Land",
+        "stateId": "2822542",
+        "latitude": 50.99052,
+        "longitude": 11.41295
+    },
+    {
+        "cityId": "2824945",
+        "name": "Kreisfreie Stadt Suhl",
+        "stateId": "2822542",
+        "latitude": 50.61028,
+        "longitude": 10.70722
+    },
+    {
+        "cityId": "2831245",
+        "name": "Landkreis Sonneberg",
+        "stateId": "2822542",
+        "latitude": 50.42944,
+        "longitude": 11.14722
+    },
+    {
+        "cityId": "2831402",
+        "name": "Landkreis S\u00f6mmerda",
+        "stateId": "2822542",
+        "latitude": 51.17333,
+        "longitude": 11.17722
+    },
+    {
+        "cityId": "2861979",
+        "name": "Landkreis Nordhausen",
+        "stateId": "2822542",
+        "latitude": 51.50667,
+        "longitude": 10.75194
+    },
+    {
+        "cityId": "2895042",
+        "name": "Kreisfreie Stadt Jena",
+        "stateId": "2822542",
+        "latitude": 50.93194,
+        "longitude": 11.59056
+    },
+    {
+        "cityId": "2904803",
+        "name": "Landkreis Hildburghausen",
+        "stateId": "2822542",
+        "latitude": 50.44765,
+        "longitude": 10.73355
+    },
+    {
+        "cityId": "2917735",
+        "name": "Landkreis Greiz",
+        "stateId": "2822542",
+        "latitude": 50.71917,
+        "longitude": 12.1125
+    },
+    {
+        "cityId": "2918750",
+        "name": "Landkreis Gotha",
+        "stateId": "2822542",
+        "latitude": 50.91056,
+        "longitude": 10.71194
+    },
+    {
+        "cityId": "2921230",
+        "name": "Kreisfreie Stadt Gera",
+        "stateId": "2822542",
+        "latitude": 50.88556,
+        "longitude": 12.08056
+    },
+    {
+        "cityId": "2929668",
+        "name": "Kreisfreie Stadt Erfurt",
+        "stateId": "2822542",
+        "latitude": 50.98278,
+        "longitude": 11.0425
+    },
+    {
+        "cityId": "2957763",
+        "name": "Altenburger Land",
+        "stateId": "2822542",
+        "latitude": 50.96,
+        "longitude": 12.41999
+    },
+    {
+        "cityId": "3302169",
+        "name": "Landkreis Schmalkalden-Meiningen",
+        "stateId": "2822542",
+        "latitude": 50.62083,
+        "longitude": 10.41528
+    },
+    {
+        "cityId": "6547386",
+        "name": "Eisenach",
+        "stateId": "2822542",
+        "latitude": 50.97443,
+        "longitude": 10.33407
+    },
+    {
+        "cityId": "6547387",
+        "name": "Eichsfeld",
+        "stateId": "2822542",
+        "latitude": 51.37454,
+        "longitude": 10.21548
+    },
+    {
+        "cityId": "6547388",
+        "name": "Wartburgkreis",
+        "stateId": "2822542",
+        "latitude": 50.85177,
+        "longitude": 10.18759
+    },
+    {
+        "cityId": "6547389",
+        "name": "Unstrut-Hainich-Kreis",
+        "stateId": "2822542",
+        "latitude": 51.18285,
+        "longitude": 10.58562
+    },
+    {
+        "cityId": "6547390",
+        "name": "Kyffh\u00e4userkreis",
+        "stateId": "2822542",
+        "latitude": 51.32474,
+        "longitude": 10.98484
+    },
+    {
+        "cityId": "6547391",
+        "name": "Ilm-Kreis",
+        "stateId": "2822542",
+        "latitude": 50.72918,
+        "longitude": 10.96129
+    },
+    {
+        "cityId": "6547392",
+        "name": "Saalfeld-Rudolstadt",
+        "stateId": "2822542",
+        "latitude": 50.62031,
+        "longitude": 11.29036
+    },
+    {
+        "cityId": "6547393",
+        "name": "Saale-Holzland-Kreis",
+        "stateId": "2822542",
+        "latitude": 50.89226,
+        "longitude": 11.72992
+    },
+    {
+        "cityId": "6547394",
+        "name": "Saale-Orla-Kreis",
+        "stateId": "2822542",
+        "latitude": 50.62459,
+        "longitude": 11.71953
+    }
+]

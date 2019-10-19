@@ -1,0 +1,275 @@
+[
+    {
+        "cityId": "5785282",
+        "name": "Adams County",
+        "stateId": "5815135",
+        "latitude": 46.98338,
+        "longitude": -118.5605
+    },
+    {
+        "cityId": "5785935",
+        "name": "Asotin County",
+        "stateId": "5815135",
+        "latitude": 46.19186,
+        "longitude": -117.20307
+    },
+    {
+        "cityId": "5786991",
+        "name": "Benton County",
+        "stateId": "5815135",
+        "latitude": 46.23978,
+        "longitude": -119.5112
+    },
+    {
+        "cityId": "5789829",
+        "name": "Chelan County",
+        "stateId": "5815135",
+        "latitude": 47.8691,
+        "longitude": -120.61891
+    },
+    {
+        "cityId": "5790164",
+        "name": "Clallam County",
+        "stateId": "5815135",
+        "latitude": 48.11044,
+        "longitude": -123.93432
+    },
+    {
+        "cityId": "5790179",
+        "name": "Clark County",
+        "stateId": "5815135",
+        "latitude": 45.77927,
+        "longitude": -122.48259
+    },
+    {
+        "cityId": "5790614",
+        "name": "Columbia County",
+        "stateId": "5815135",
+        "latitude": 46.29755,
+        "longitude": -117.90788
+    },
+    {
+        "cityId": "5791206",
+        "name": "Cowlitz County",
+        "stateId": "5815135",
+        "latitude": 46.19329,
+        "longitude": -122.68078
+    },
+    {
+        "cityId": "5792681",
+        "name": "Douglas County",
+        "stateId": "5815135",
+        "latitude": 47.73607,
+        "longitude": -119.69172
+    },
+    {
+        "cityId": "5794294",
+        "name": "Ferry County",
+        "stateId": "5815135",
+        "latitude": 48.47007,
+        "longitude": -118.51649
+    },
+    {
+        "cityId": "5794976",
+        "name": "Franklin County",
+        "stateId": "5815135",
+        "latitude": 46.53477,
+        "longitude": -118.89889
+    },
+    {
+        "cityId": "5795265",
+        "name": "Garfield County",
+        "stateId": "5815135",
+        "latitude": 46.43156,
+        "longitude": -117.54519
+    },
+    {
+        "cityId": "5796034",
+        "name": "Grant County",
+        "stateId": "5815135",
+        "latitude": 47.20566,
+        "longitude": -119.45177
+    },
+    {
+        "cityId": "5796126",
+        "name": "Grays Harbor County",
+        "stateId": "5815135",
+        "latitude": 47.14445,
+        "longitude": -123.82847
+    },
+    {
+        "cityId": "5798453",
+        "name": "Island County",
+        "stateId": "5815135",
+        "latitude": 48.2082,
+        "longitude": -122.66922
+    },
+    {
+        "cityId": "5798663",
+        "name": "Jefferson County",
+        "stateId": "5815135",
+        "latitude": 47.77655,
+        "longitude": -123.57431
+    },
+    {
+        "cityId": "5799783",
+        "name": "King County",
+        "stateId": "5815135",
+        "latitude": 47.49084,
+        "longitude": -121.83583
+    },
+    {
+        "cityId": "5799853",
+        "name": "Kitsap County",
+        "stateId": "5815135",
+        "latitude": 47.63983,
+        "longitude": -122.649
+    },
+    {
+        "cityId": "5799889",
+        "name": "Kittitas County",
+        "stateId": "5815135",
+        "latitude": 47.12417,
+        "longitude": -120.67972
+    },
+    {
+        "cityId": "5799909",
+        "name": "Klickitat County",
+        "stateId": "5815135",
+        "latitude": 45.87378,
+        "longitude": -120.78926
+    },
+    {
+        "cityId": "5800813",
+        "name": "Lewis County",
+        "stateId": "5815135",
+        "latitude": 46.57773,
+        "longitude": -122.39241
+    },
+    {
+        "cityId": "5800965",
+        "name": "Lincoln County",
+        "stateId": "5815135",
+        "latitude": 47.57619,
+        "longitude": -118.41879
+    },
+    {
+        "cityId": "5802584",
+        "name": "Mason County",
+        "stateId": "5815135",
+        "latitude": 47.35048,
+        "longitude": -123.18309
+    },
+    {
+        "cityId": "5805553",
+        "name": "Okanogan County",
+        "stateId": "5815135",
+        "latitude": 48.54885,
+        "longitude": -119.74079
+    },
+    {
+        "cityId": "5806002",
+        "name": "Pacific County",
+        "stateId": "5815135",
+        "latitude": 46.55128,
+        "longitude": -123.77886
+    },
+    {
+        "cityId": "5806491",
+        "name": "Pend Oreille County",
+        "stateId": "5815135",
+        "latitude": 48.5323,
+        "longitude": -117.27397
+    },
+    {
+        "cityId": "5806769",
+        "name": "Pierce County",
+        "stateId": "5815135",
+        "latitude": 47.03764,
+        "longitude": -122.13735
+    },
+    {
+        "cityId": "5809422",
+        "name": "San Juan County",
+        "stateId": "5815135",
+        "latitude": 48.53116,
+        "longitude": -123.0249
+    },
+    {
+        "cityId": "5810608",
+        "name": "Skagit County",
+        "stateId": "5815135",
+        "latitude": 48.48215,
+        "longitude": -121.80227
+    },
+    {
+        "cityId": "5810628",
+        "name": "Skamania County",
+        "stateId": "5815135",
+        "latitude": 46.02276,
+        "longitude": -121.9151
+    },
+    {
+        "cityId": "5810982",
+        "name": "Snohomish County",
+        "stateId": "5815135",
+        "latitude": 48.04602,
+        "longitude": -121.72218
+    },
+    {
+        "cityId": "5811704",
+        "name": "Spokane County",
+        "stateId": "5815135",
+        "latitude": 47.62064,
+        "longitude": -117.40401
+    },
+    {
+        "cityId": "5812148",
+        "name": "Stevens County",
+        "stateId": "5815135",
+        "latitude": 48.39906,
+        "longitude": -117.85514
+    },
+    {
+        "cityId": "5813521",
+        "name": "Thurston County",
+        "stateId": "5815135",
+        "latitude": 46.9295,
+        "longitude": -122.83208
+    },
+    {
+        "cityId": "5814851",
+        "name": "Wahkiakum County",
+        "stateId": "5815135",
+        "latitude": 46.29125,
+        "longitude": -123.43316
+    },
+    {
+        "cityId": "5814921",
+        "name": "Walla Walla County",
+        "stateId": "5815135",
+        "latitude": 46.2298,
+        "longitude": -118.47845
+    },
+    {
+        "cityId": "5815675",
+        "name": "Whatcom County",
+        "stateId": "5815135",
+        "latitude": 48.82975,
+        "longitude": -121.87283
+    },
+    {
+        "cityId": "5815891",
+        "name": "Whitman County",
+        "stateId": "5815135",
+        "latitude": 46.90117,
+        "longitude": -117.52299
+    },
+    {
+        "cityId": "5816597",
+        "name": "Yakima County",
+        "stateId": "5815135",
+        "latitude": 46.45685,
+        "longitude": -120.7387
+    }
+]

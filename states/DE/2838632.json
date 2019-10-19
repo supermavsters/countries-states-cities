@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "2838633",
+        "name": "Kreis Schleswig-Flensburg",
+        "stateId": "2838632",
+        "latitude": 54.57778,
+        "longitude": 9.46917
+    },
+    {
+        "cityId": "2853161",
+        "name": "Kreis Pl\u00f6n",
+        "stateId": "2838632",
+        "latitude": 54.23361,
+        "longitude": 10.36972
+    },
+    {
+        "cityId": "2853657",
+        "name": "Kreis Pinneberg",
+        "stateId": "2838632",
+        "latitude": 53.73444,
+        "longitude": 9.75722
+    },
+    {
+        "cityId": "2905434",
+        "name": "Kreis Herzogtum Lauenburg",
+        "stateId": "2838632",
+        "latitude": 53.6075,
+        "longitude": 10.625
+    },
+    {
+        "cityId": "2926272",
+        "name": "Kreisfreie Stadt Flensburg",
+        "stateId": "2838632",
+        "latitude": 54.79472,
+        "longitude": 9.43389
+    },
+    {
+        "cityId": "3249069",
+        "name": "Kreis Dithmarschen",
+        "stateId": "2838632",
+        "latitude": 54.13167,
+        "longitude": 9.05556
+    },
+    {
+        "cityId": "3249070",
+        "name": "Kreisfreie Stadt Kiel",
+        "stateId": "2838632",
+        "latitude": 54.32194,
+        "longitude": 10.13417
+    },
+    {
+        "cityId": "3249071",
+        "name": "Kreisfreie Stadt L\u00fcbeck",
+        "stateId": "2838632",
+        "latitude": 53.89333,
+        "longitude": 10.74361
+    },
+    {
+        "cityId": "3249072",
+        "name": "Kreisfreie Stadt Neum\u00fcnster",
+        "stateId": "2838632",
+        "latitude": 54.09389,
+        "longitude": 9.98944
+    },
+    {
+        "cityId": "3249073",
+        "name": "Kreis Nordfriesland",
+        "stateId": "2838632",
+        "latitude": 54.58389,
+        "longitude": 8.9675
+    },
+    {
+        "cityId": "3249074",
+        "name": "Kreis Ostholstein",
+        "stateId": "2838632",
+        "latitude": 54.16111,
+        "longitude": 10.76972
+    },
+    {
+        "cityId": "3249075",
+        "name": "Kreis Rendsburg-Eckernf\u00f6rde",
+        "stateId": "2838632",
+        "latitude": 54.32222,
+        "longitude": 9.76083
+    },
+    {
+        "cityId": "3249076",
+        "name": "Kreis Segeberg",
+        "stateId": "2838632",
+        "latitude": 53.95472,
+        "longitude": 10.18722
+    },
+    {
+        "cityId": "3249077",
+        "name": "Kreis Steinburg",
+        "stateId": "2838632",
+        "latitude": 53.93306,
+        "longitude": 9.50361
+    },
+    {
+        "cityId": "3249078",
+        "name": "Kreis Stormarn",
+        "stateId": "2838632",
+        "latitude": 53.76472,
+        "longitude": 10.33111
+    }
+]

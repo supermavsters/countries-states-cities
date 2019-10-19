@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3650339",
+        "name": "Francisco de Orellana Canton",
+        "stateId": "3830306",
+        "latitude": -0.46667,
+        "longitude": -76.96667
+    },
+    {
+        "cityId": "3660839",
+        "name": "Cant\u00f3n Aguarico",
+        "stateId": "3830306",
+        "latitude": -0.90097,
+        "longitude": -75.39282
+    },
+    {
+        "cityId": "10743580",
+        "name": "Loreto Canton",
+        "stateId": "3830306",
+        "latitude": -0.69487,
+        "longitude": -77.30255
+    },
+    {
+        "cityId": "10792474",
+        "name": "La Joya De Los Sachas",
+        "stateId": "3830306",
+        "latitude": -0.27894,
+        "longitude": -76.89039
+    }
+]

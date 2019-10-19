@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "2236016",
+        "name": "D\u00e9partement de l\u2019Adamaoua",
+        "stateId": "2236015",
+        "latitude": 7,
+        "longitude": 13.5
+    },
+    {
+        "cityId": "7670946",
+        "name": "Djerem",
+        "stateId": "2236015",
+        "latitude": 6.48112,
+        "longitude": 12.69703
+    },
+    {
+        "cityId": "7670947",
+        "name": "Faro-et-Deo",
+        "stateId": "2236015",
+        "latitude": 7.46684,
+        "longitude": 12.49612
+    },
+    {
+        "cityId": "7670948",
+        "name": "Vina",
+        "stateId": "2236015",
+        "latitude": 7.16365,
+        "longitude": 13.72711
+    },
+    {
+        "cityId": "8299279",
+        "name": "Mbere Department",
+        "stateId": "2236015",
+        "latitude": 6.434,
+        "longitude": 14.243
+    },
+    {
+        "cityId": "9224946",
+        "name": "Mayo-Banyo",
+        "stateId": "2236015",
+        "latitude": 6.58138,
+        "longitude": 11.73522
+    }
+]

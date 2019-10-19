@@ -1,0 +1,156 @@
+[
+    {
+        "cityId": "2633484",
+        "name": "Wrexham",
+        "stateId": "2634895",
+        "latitude": 53,
+        "longitude": -3
+    },
+    {
+        "cityId": "2635028",
+        "name": "Vale of Glamorgan",
+        "stateId": "2634895",
+        "latitude": 51.41667,
+        "longitude": -3.41667
+    },
+    {
+        "cityId": "2639944",
+        "name": "Sir Powys",
+        "stateId": "2634895",
+        "latitude": 52.33333,
+        "longitude": -3.41667
+    },
+    {
+        "cityId": "2640500",
+        "name": "Pembrokeshire",
+        "stateId": "2634895",
+        "latitude": 51.83333,
+        "longitude": -4.91667
+    },
+    {
+        "cityId": "2647716",
+        "name": "Gwynedd",
+        "stateId": "2634895",
+        "latitude": 52.83333,
+        "longitude": -3.91667
+    },
+    {
+        "cityId": "2649298",
+        "name": "County of Flintshire",
+        "stateId": "2634895",
+        "latitude": 53.25,
+        "longitude": -3.16667
+    },
+    {
+        "cityId": "2651385",
+        "name": "Denbighshire",
+        "stateId": "2634895",
+        "latitude": 53.08333,
+        "longitude": -3.33333
+    },
+    {
+        "cityId": "2653753",
+        "name": "Carmarthenshire",
+        "stateId": "2634895",
+        "latitude": 51.83333,
+        "longitude": -4.16667
+    },
+    {
+        "cityId": "2653814",
+        "name": "County of Ceredigion",
+        "stateId": "2634895",
+        "latitude": 52.25,
+        "longitude": -4
+    },
+    {
+        "cityId": "2657311",
+        "name": "Anglesey",
+        "stateId": "2634895",
+        "latitude": 53.25,
+        "longitude": -4.33333
+    },
+    {
+        "cityId": "3333238",
+        "name": "Blaenau Gwent",
+        "stateId": "2634895",
+        "latitude": 51.75,
+        "longitude": -3.16667
+    },
+    {
+        "cityId": "3333239",
+        "name": "Bridgend county borough",
+        "stateId": "2634895",
+        "latitude": 51.55,
+        "longitude": -3.58333
+    },
+    {
+        "cityId": "3333240",
+        "name": "Caerphilly County Borough",
+        "stateId": "2634895",
+        "latitude": 51.66667,
+        "longitude": -3.16667
+    },
+    {
+        "cityId": "3333241",
+        "name": "Cardiff",
+        "stateId": "2634895",
+        "latitude": 51.5,
+        "longitude": -3.16667
+    },
+    {
+        "cityId": "3333242",
+        "name": "Conwy",
+        "stateId": "2634895",
+        "latitude": 53.08333,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "3333243",
+        "name": "Merthyr Tydfil County Borough",
+        "stateId": "2634895",
+        "latitude": 51.75,
+        "longitude": -3.33333
+    },
+    {
+        "cityId": "3333244",
+        "name": "Monmouthshire",
+        "stateId": "2634895",
+        "latitude": 51.75,
+        "longitude": -2.83333
+    },
+    {
+        "cityId": "3333245",
+        "name": "Neath Port Talbot",
+        "stateId": "2634895",
+        "latitude": 51.66667,
+        "longitude": -3.75
+    },
+    {
+        "cityId": "3333246",
+        "name": "Newport",
+        "stateId": "2634895",
+        "latitude": 51.58333,
+        "longitude": -3
+    },
+    {
+        "cityId": "3333247",
+        "name": "Rhondda Cynon Taf",
+        "stateId": "2634895",
+        "latitude": 51.66667,
+        "longitude": -3.5
+    },
+    {
+        "cityId": "3333248",
+        "name": "City and County of Swansea",
+        "stateId": "2634895",
+        "latitude": 51.58333,
+        "longitude": -4
+    },
+    {
+        "cityId": "3333249",
+        "name": "Torfaen County Borough",
+        "stateId": "2634895",
+        "latitude": 51.70146,
+        "longitude": -3.05136
+    }
+]

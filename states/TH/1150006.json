@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "1149756",
+        "name": "Amphoe Yan Ta Khao",
+        "stateId": "1150006",
+        "latitude": 7.4258,
+        "longitude": 99.73438
+    },
+    {
+        "cityId": "1150650",
+        "name": "Amphoe Wang Wiset",
+        "stateId": "1150006",
+        "latitude": 7.76061,
+        "longitude": 99.40861
+    },
+    {
+        "cityId": "1151556",
+        "name": "Amphoe Palian",
+        "stateId": "1150006",
+        "latitude": 7.2334,
+        "longitude": 99.79491
+    },
+    {
+        "cityId": "1151973",
+        "name": "Amphoe Mueang Trang",
+        "stateId": "1150006",
+        "latitude": 7.60944,
+        "longitude": 99.61772
+    },
+    {
+        "cityId": "1153071",
+        "name": "Amphoe Kantang",
+        "stateId": "1150006",
+        "latitude": 7.38563,
+        "longitude": 99.47064
+    },
+    {
+        "cityId": "1153240",
+        "name": "Amphoe Huai Yot",
+        "stateId": "1150006",
+        "latitude": 7.80063,
+        "longitude": 99.605
+    },
+    {
+        "cityId": "7510641",
+        "name": "Amphoe Na Yong",
+        "stateId": "1150006",
+        "latitude": 7.56257,
+        "longitude": 99.74791
+    },
+    {
+        "cityId": "7510642",
+        "name": "Amphoe Ratsada",
+        "stateId": "1150006",
+        "latitude": 7.93779,
+        "longitude": 99.66771
+    },
+    {
+        "cityId": "7603494",
+        "name": "Amphoe Hat Samran",
+        "stateId": "1150006",
+        "latitude": 7.25733,
+        "longitude": 99.5816
+    },
+    {
+        "cityId": "11496468",
+        "name": "Amphoe Sikao",
+        "stateId": "1150006",
+        "latitude": 7.57122,
+        "longitude": 99.33915
+    }
+]

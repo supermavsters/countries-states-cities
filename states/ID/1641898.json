@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "1627443",
+        "name": "Kabupaten Seruyan",
+        "stateId": "1641898",
+        "latitude": -2.33333,
+        "longitude": 112.25
+    },
+    {
+        "cityId": "1633117",
+        "name": "Kota Palangka Raya",
+        "stateId": "1641898",
+        "latitude": -1.76979,
+        "longitude": 113.73126
+    },
+    {
+        "cityId": "1634654",
+        "name": "Kabupaten Murung Raya",
+        "stateId": "1641898",
+        "latitude": -0.01667,
+        "longitude": 114.26667
+    },
+    {
+        "cityId": "1639475",
+        "name": "Kabupaten Kotawaringin Timur",
+        "stateId": "1641898",
+        "latitude": -2.08333,
+        "longitude": 112.75
+    },
+    {
+        "cityId": "1639476",
+        "name": "Kabupaten Kotawaringin Barat",
+        "stateId": "1641898",
+        "latitude": -2.4,
+        "longitude": 111.73333
+    },
+    {
+        "cityId": "1640948",
+        "name": "Kabupaten Katingan",
+        "stateId": "1641898",
+        "latitude": -2.06667,
+        "longitude": 113.4
+    },
+    {
+        "cityId": "1641398",
+        "name": "Kabupaten Kapuas",
+        "stateId": "1641898",
+        "latitude": -2.01667,
+        "longitude": 114.38333
+    },
+    {
+        "cityId": "1643597",
+        "name": "Kabupaten Gunung Mas",
+        "stateId": "1641898",
+        "latitude": -0.95,
+        "longitude": 113.5
+    },
+    {
+        "cityId": "1649989",
+        "name": "Kabupaten Barito Utara",
+        "stateId": "1641898",
+        "latitude": -0.98333,
+        "longitude": 115.1
+    },
+    {
+        "cityId": "1649990",
+        "name": "Kabupaten Barito Timur",
+        "stateId": "1641898",
+        "latitude": -1.93333,
+        "longitude": 115.1
+    },
+    {
+        "cityId": "1649991",
+        "name": "Kabupaten Barito Selatan",
+        "stateId": "1641898",
+        "latitude": -1.86667,
+        "longitude": 114.73333
+    },
+    {
+        "cityId": "8741175",
+        "name": "Kabupaten Pulang Pisau",
+        "stateId": "1641898",
+        "latitude": -3.11858,
+        "longitude": 113.8623
+    },
+    {
+        "cityId": "9165993",
+        "name": "Kabupaten Lamandau",
+        "stateId": "1641898",
+        "latitude": -1.83828,
+        "longitude": 111.2869
+    },
+    {
+        "cityId": "9166125",
+        "name": "Kabupaten Sukamara",
+        "stateId": "1641898",
+        "latitude": -2.62675,
+        "longitude": 111.23681
+    }
+]

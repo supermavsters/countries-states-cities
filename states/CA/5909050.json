@@ -1,0 +1,212 @@
+[
+    {
+        "cityId": "5916420",
+        "name": "Capital Regional District",
+        "stateId": "5909050",
+        "latitude": 48.41633,
+        "longitude": -123.5859
+    },
+    {
+        "cityId": "5916918",
+        "name": "Cariboo Regional District",
+        "stateId": "5909050",
+        "latitude": 52.33313,
+        "longitude": -123.16961
+    },
+    {
+        "cityId": "5919023",
+        "name": "Central Coast Regional District",
+        "stateId": "5909050",
+        "latitude": 52.16638,
+        "longitude": -127.00323
+    },
+    {
+        "cityId": "5926222",
+        "name": "Columbia-Shuswap Regional District",
+        "stateId": "5909050",
+        "latitude": 51.4166,
+        "longitude": -117.66895
+    },
+    {
+        "cityId": "5931136",
+        "name": "Cowichan Valley Regional District",
+        "stateId": "5909050",
+        "latitude": 48.83292,
+        "longitude": -124.21941
+    },
+    {
+        "cityId": "5957659",
+        "name": "Fraser Valley Regional District",
+        "stateId": "5909050",
+        "latitude": 49.58299,
+        "longitude": -121.83587
+    },
+    {
+        "cityId": "5965814",
+        "name": "Metro Vancouver Regional District",
+        "stateId": "5909050",
+        "latitude": 49.33296,
+        "longitude": -123.00264
+    },
+    {
+        "cityId": "6049430",
+        "name": "Langley",
+        "stateId": "5909050",
+        "latitude": 49.08297,
+        "longitude": -122.58589
+    },
+    {
+        "cityId": "6100076",
+        "name": "Peace River Regional District",
+        "stateId": "5909050",
+        "latitude": 56.6665,
+        "longitude": -122.75302
+    },
+    {
+        "cityId": "6112609",
+        "name": "Powell River Regional District",
+        "stateId": "5909050",
+        "latitude": 49.99965,
+        "longitude": -124.50283
+    },
+    {
+        "cityId": "6119125",
+        "name": "Regional District of Alberni-Clayoquot",
+        "stateId": "5909050",
+        "latitude": 49.24962,
+        "longitude": -125.33615
+    },
+    {
+        "cityId": "6119126",
+        "name": "Regional District of Bulkley-Nechako",
+        "stateId": "5909050",
+        "latitude": 54.49982,
+        "longitude": -125.67003
+    },
+    {
+        "cityId": "6119127",
+        "name": "Regional District of Central Kootenay",
+        "stateId": "5909050",
+        "latitude": 49.91655,
+        "longitude": -117.50222
+    },
+    {
+        "cityId": "6119128",
+        "name": "Regional District of Central Okanagan",
+        "stateId": "5909050",
+        "latitude": 49.99978,
+        "longitude": -119.41908
+    },
+    {
+        "cityId": "6119130",
+        "name": "Regional District of East Kootenay",
+        "stateId": "5909050",
+        "latitude": 49.91664,
+        "longitude": -115.75209
+    },
+    {
+        "cityId": "6119131",
+        "name": "Regional District of Fraser-Fort George",
+        "stateId": "5909050",
+        "latitude": 53.69993,
+        "longitude": -121.25281
+    },
+    {
+        "cityId": "6119132",
+        "name": "Regional District of Kitimat-Stikine",
+        "stateId": "5909050",
+        "latitude": 55.33289,
+        "longitude": -129.00362
+    },
+    {
+        "cityId": "6119133",
+        "name": "Regional District of Kootenay-Boundary",
+        "stateId": "5909050",
+        "latitude": 49.33309,
+        "longitude": -118.75231
+    },
+    {
+        "cityId": "6119134",
+        "name": "Regional District of Mount Waddington",
+        "stateId": "5909050",
+        "latitude": 51.28847,
+        "longitude": -126.08511
+    },
+    {
+        "cityId": "6119135",
+        "name": "Regional District of Nanaimo",
+        "stateId": "5909050",
+        "latitude": 49.24959,
+        "longitude": -124.33612
+    },
+    {
+        "cityId": "6119136",
+        "name": "Regional District of North Okanagan",
+        "stateId": "5909050",
+        "latitude": 50.41651,
+        "longitude": -118.75232
+    },
+    {
+        "cityId": "6119137",
+        "name": "Regional District of Okanagan-Similkameen",
+        "stateId": "5909050",
+        "latitude": 49.41647,
+        "longitude": -120.00245
+    },
+    {
+        "cityId": "6148773",
+        "name": "Skeena-Queen Charlotte Regional District",
+        "stateId": "5909050",
+        "latitude": 53.74947,
+        "longitude": -132.00343
+    },
+    {
+        "cityId": "6154640",
+        "name": "Squamish-Lillooet Regional District",
+        "stateId": "5909050",
+        "latitude": 50.4997,
+        "longitude": -123.00276
+    },
+    {
+        "cityId": "6159746",
+        "name": "Sunshine Coast Regional District",
+        "stateId": "5909050",
+        "latitude": 49.99966,
+        "longitude": -123.75279
+    },
+    {
+        "cityId": "6165501",
+        "name": "Thompson-Nicola Regional District",
+        "stateId": "5909050",
+        "latitude": 50.99981,
+        "longitude": -120.50252
+    },
+    {
+        "cityId": "8593703",
+        "name": "Comox Valley Regional District",
+        "stateId": "5909050",
+        "latitude": 49.68696,
+        "longitude": -124.98201
+    },
+    {
+        "cityId": "8593704",
+        "name": "Northern Rockies Regional Municipality",
+        "stateId": "5909050",
+        "latitude": 59.00196,
+        "longitude": -123.75412
+    },
+    {
+        "cityId": "8593705",
+        "name": "Stikine Region",
+        "stateId": "5909050",
+        "latitude": 58.85922,
+        "longitude": -128.75977
+    },
+    {
+        "cityId": "8593707",
+        "name": "Strathcona Regional District",
+        "stateId": "5909050",
+        "latitude": 50.21206,
+        "longitude": -125.51468
+    }
+]

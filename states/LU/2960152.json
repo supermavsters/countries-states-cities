@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "6693348",
+        "name": "Bous",
+        "stateId": "2960152",
+        "latitude": 49.55389,
+        "longitude": 6.32917
+    },
+    {
+        "cityId": "6693350",
+        "name": "Dalheim",
+        "stateId": "2960152",
+        "latitude": 49.54083,
+        "longitude": 6.25972
+    },
+    {
+        "cityId": "6693351",
+        "name": "Lenningen",
+        "stateId": "2960152",
+        "latitude": 49.59861,
+        "longitude": 6.36806
+    },
+    {
+        "cityId": "6693352",
+        "name": "Mondorf-les-Bains",
+        "stateId": "2960152",
+        "latitude": 49.505,
+        "longitude": 6.28111
+    },
+    {
+        "cityId": "6693353",
+        "name": "Schengen",
+        "stateId": "2960152",
+        "latitude": 49.48861,
+        "longitude": 6.35167
+    },
+    {
+        "cityId": "6693354",
+        "name": "Remich",
+        "stateId": "2960152",
+        "latitude": 49.545,
+        "longitude": 6.36694
+    },
+    {
+        "cityId": "6693355",
+        "name": "Stadtbredimus",
+        "stateId": "2960152",
+        "latitude": 49.56278,
+        "longitude": 6.36444
+    },
+    {
+        "cityId": "6693356",
+        "name": "Waldbredimus",
+        "stateId": "2960152",
+        "latitude": 49.555,
+        "longitude": 6.2875
+    }
+]

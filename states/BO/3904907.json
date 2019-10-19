@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "3444670",
+        "name": "Provincia Chiquitos",
+        "stateId": "3904907",
+        "latitude": -18,
+        "longitude": -60
+    },
+    {
+        "cityId": "3444765",
+        "name": "Provincia \u00c1ngel Sandoval",
+        "stateId": "3904907",
+        "latitude": -17.5,
+        "longitude": -58.5
+    },
+    {
+        "cityId": "3901298",
+        "name": "Provincia Warnes",
+        "stateId": "3904907",
+        "latitude": -17.33333,
+        "longitude": -63
+    },
+    {
+        "cityId": "3901825",
+        "name": "Provincia Velasco",
+        "stateId": "3904907",
+        "latitude": -15.5,
+        "longitude": -61
+    },
+    {
+        "cityId": "3901872",
+        "name": "Provincia Vallegrande",
+        "stateId": "3904907",
+        "latitude": -18.5,
+        "longitude": -64.16667
+    },
+    {
+        "cityId": "3904588",
+        "name": "Provincia Sara",
+        "stateId": "3904907",
+        "latitude": -16.83333,
+        "longitude": -63.91667
+    },
+    {
+        "cityId": "3904660",
+        "name": "Provincia Santiesteban",
+        "stateId": "3904907",
+        "latitude": -16.5,
+        "longitude": -63.5
+    },
+    {
+        "cityId": "3909446",
+        "name": "Provincia \u00d1uflo de Ch\u00e1vez",
+        "stateId": "3904907",
+        "latitude": -15.91667,
+        "longitude": -62.5
+    },
+    {
+        "cityId": "3910776",
+        "name": "Provincia Manuel Mar\u00eda Caballero",
+        "stateId": "3904907",
+        "latitude": -17.83333,
+        "longitude": -64.41667
+    },
+    {
+        "cityId": "3914360",
+        "name": "Provincia Ichilo",
+        "stateId": "3904907",
+        "latitude": -17,
+        "longitude": -64
+    },
+    {
+        "cityId": "3915714",
+        "name": "Provincia Florida",
+        "stateId": "3904907",
+        "latitude": -18,
+        "longitude": -63.91667
+    },
+    {
+        "cityId": "3919115",
+        "name": "Provincia Cordillera",
+        "stateId": "3904907",
+        "latitude": -19,
+        "longitude": -61.5
+    },
+    {
+        "cityId": "3923972",
+        "name": "Provincia Andr\u00e9s Ib\u00e1\u00f1ez",
+        "stateId": "3904907",
+        "latitude": -17.75,
+        "longitude": -63.25
+    },
+    {
+        "cityId": "11184252",
+        "name": "German Busch",
+        "stateId": "3904907",
+        "latitude": -17.77317,
+        "longitude": -63.19087
+    },
+    {
+        "cityId": "11184253",
+        "name": "Guarayos",
+        "stateId": "3904907",
+        "latitude": -15.82132,
+        "longitude": -63.2428
+    }
+]

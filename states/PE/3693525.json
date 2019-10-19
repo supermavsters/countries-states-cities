@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "3691580",
+        "name": "Provincia de Talara",
+        "stateId": "3693525",
+        "latitude": -4.41667,
+        "longitude": -81.08333
+    },
+    {
+        "cityId": "3691673",
+        "name": "Provincia de Sullana",
+        "stateId": "3693525",
+        "latitude": -4.5,
+        "longitude": -80.66667
+    },
+    {
+        "cityId": "3693524",
+        "name": "Provincia de Piura",
+        "stateId": "3693525",
+        "latitude": -5.21416,
+        "longitude": -80.40617
+    },
+    {
+        "cityId": "3694110",
+        "name": "Provincia de Paita",
+        "stateId": "3693525",
+        "latitude": -5.10189,
+        "longitude": -81.09695
+    },
+    {
+        "cityId": "3694581",
+        "name": "Morropon",
+        "stateId": "3693525",
+        "latitude": -5.25,
+        "longitude": -80
+    },
+    {
+        "cityId": "3696465",
+        "name": "Provincia de Huancabamba",
+        "stateId": "3693525",
+        "latitude": -5.5,
+        "longitude": -79.58333
+    },
+    {
+        "cityId": "3699501",
+        "name": "Provincia de Ayabaca",
+        "stateId": "3693525",
+        "latitude": -4.75,
+        "longitude": -79.83333
+    },
+    {
+        "cityId": "8349569",
+        "name": "Sechura",
+        "stateId": "3693525",
+        "latitude": -5.87051,
+        "longitude": -80.67181
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "3164418",
+        "name": "Provincia di Vicenza",
+        "stateId": "3164604",
+        "latitude": 45.66667,
+        "longitude": 11.45
+    },
+    {
+        "cityId": "3164526",
+        "name": "Provincia di Verona",
+        "stateId": "3164604",
+        "latitude": 45.41667,
+        "longitude": 11.03333
+    },
+    {
+        "cityId": "3164600",
+        "name": "Provincia di Venezia",
+        "stateId": "3164604",
+        "latitude": 45.44045,
+        "longitude": 12.32632
+    },
+    {
+        "cityId": "3165200",
+        "name": "Provincia di Treviso",
+        "stateId": "3164604",
+        "latitude": 45.83333,
+        "longitude": 12.21667
+    },
+    {
+        "cityId": "3168842",
+        "name": "Provincia di Rovigo",
+        "stateId": "3164604",
+        "latitude": 45.03333,
+        "longitude": 11.83333
+    },
+    {
+        "cityId": "3171727",
+        "name": "Provincia di Padova",
+        "stateId": "3164604",
+        "latitude": 45.35,
+        "longitude": 11.81667
+    },
+    {
+        "cityId": "3182209",
+        "name": "Provincia di Belluno",
+        "stateId": "3164604",
+        "latitude": 46.25,
+        "longitude": 12.13333
+    }
+]

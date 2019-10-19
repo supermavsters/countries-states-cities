@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "1608622",
+        "name": "Amphoe Mueang Samut Sakhon",
+        "stateId": "1606587",
+        "latitude": 13.53163,
+        "longitude": 100.25326
+    },
+    {
+        "cityId": "1609394",
+        "name": "Amphoe Krathum Baen",
+        "stateId": "1606587",
+        "latitude": 13.6557,
+        "longitude": 100.27282
+    },
+    {
+        "cityId": "1614464",
+        "name": "Amphoe Ban Phaeo",
+        "stateId": "1606587",
+        "latitude": 13.58747,
+        "longitude": 100.11789
+    }
+]

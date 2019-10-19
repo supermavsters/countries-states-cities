@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1606322",
+        "name": "Amphoe Si Bun Rueang",
+        "stateId": "1906690",
+        "latitude": 16.99775,
+        "longitude": 102.22528
+    },
+    {
+        "cityId": "1608138",
+        "name": "Amphoe Non Sang",
+        "stateId": "1906690",
+        "latitude": 16.9022,
+        "longitude": 102.53084
+    },
+    {
+        "cityId": "1608268",
+        "name": "Amphoe Mueang Nong Bua Lamphu",
+        "stateId": "1906690",
+        "latitude": 17.15818,
+        "longitude": 102.3986
+    },
+    {
+        "cityId": "1608520",
+        "name": "Amphoe Na Klang",
+        "stateId": "1906690",
+        "latitude": 17.32466,
+        "longitude": 102.21456
+    },
+    {
+        "cityId": "7510751",
+        "name": "Amphoe Na Wang",
+        "stateId": "1906690",
+        "latitude": 17.3429,
+        "longitude": 102.07157
+    },
+    {
+        "cityId": "7510753",
+        "name": "Amphoe Suwannakhuha",
+        "stateId": "1906690",
+        "latitude": 17.54605,
+        "longitude": 102.24852
+    }
+]

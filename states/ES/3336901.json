@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3108287",
+        "name": "Prov\u00edncia de Tarragona",
+        "stateId": "3336901",
+        "latitude": 41.12902,
+        "longitude": 1.24901
+    },
+    {
+        "cityId": "3128759",
+        "name": "Prov\u00edncia de Barcelona",
+        "stateId": "3336901",
+        "latitude": 41.66667,
+        "longitude": 2
+    },
+    {
+        "cityId": "6355230",
+        "name": "Prov\u00edncia de Girona",
+        "stateId": "3336901",
+        "latitude": 41.98916,
+        "longitude": 2.81113
+    },
+    {
+        "cityId": "6355231",
+        "name": "Prov\u00edncia de Lleida",
+        "stateId": "3336901",
+        "latitude": 41.61878,
+        "longitude": 0.57472
+    }
+]

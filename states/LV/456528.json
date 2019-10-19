@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352794",
+        "name": "Prei\u013ci",
+        "stateId": "456528",
+        "latitude": 56.29218,
+        "longitude": 26.72144
+    },
+    {
+        "cityId": "11352809",
+        "name": "Saunas pagasts",
+        "stateId": "456528",
+        "latitude": 56.3912,
+        "longitude": 26.61747
+    },
+    {
+        "cityId": "11352815",
+        "name": "Aizkalnes pagasts",
+        "stateId": "456528",
+        "latitude": 56.20509,
+        "longitude": 26.75387
+    },
+    {
+        "cityId": "11352816",
+        "name": "Pel\u0113\u010du pagasts",
+        "stateId": "456528",
+        "latitude": 56.14698,
+        "longitude": 26.75187
+    },
+    {
+        "cityId": "11352817",
+        "name": "Prei\u013cu pagasts",
+        "stateId": "456528",
+        "latitude": 56.28559,
+        "longitude": 26.69328
+    }
+]

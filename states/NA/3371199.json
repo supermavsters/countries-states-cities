@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7931905",
+        "name": "Daures Constituency",
+        "stateId": "3371199",
+        "latitude": -21.01785,
+        "longitude": 14.1394
+    },
+    {
+        "cityId": "7931906",
+        "name": "Arandis Constituency",
+        "stateId": "3371199",
+        "latitude": -22.38303,
+        "longitude": 14.8305
+    },
+    {
+        "cityId": "7931907",
+        "name": "Swakopmund Constituency",
+        "stateId": "3371199",
+        "latitude": -22.63199,
+        "longitude": 14.60119
+    },
+    {
+        "cityId": "7931908",
+        "name": "Walvis Bay Urban Constituency",
+        "stateId": "3371199",
+        "latitude": -22.96011,
+        "longitude": 14.50135
+    },
+    {
+        "cityId": "7931909",
+        "name": "Walvis Bay Rural Constituency",
+        "stateId": "3371199",
+        "latitude": -23.32983,
+        "longitude": 15.11216
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3889024",
+        "name": "Provincia General Carrera",
+        "stateId": "3900333",
+        "latitude": -46.63435,
+        "longitude": -72.31476
+    },
+    {
+        "cityId": "3896832",
+        "name": "Provincia Capit\u00e1n Prat",
+        "stateId": "3900333",
+        "latitude": -47.9755,
+        "longitude": -73.54155
+    },
+    {
+        "cityId": "3900336",
+        "name": "Provincia de Ais\u00e9n",
+        "stateId": "3900333",
+        "latitude": -45.35626,
+        "longitude": -72.57322
+    },
+    {
+        "cityId": "8181715",
+        "name": "Provincia de Coyhaique",
+        "stateId": "3900333",
+        "latitude": -45.63037,
+        "longitude": -72.32025
+    }
+]

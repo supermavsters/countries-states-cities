@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "7701193",
+        "name": "Commune 3",
+        "stateId": "2460594",
+        "latitude": 12.65427,
+        "longitude": -8.01531
+    },
+    {
+        "cityId": "7701194",
+        "name": "Commune 1",
+        "stateId": "2460594",
+        "latitude": 12.66581,
+        "longitude": -7.94455
+    },
+    {
+        "cityId": "7701195",
+        "name": "Commune 2",
+        "stateId": "2460594",
+        "latitude": 12.6485,
+        "longitude": -7.97782
+    },
+    {
+        "cityId": "7701197",
+        "name": "Commune 5",
+        "stateId": "2460594",
+        "latitude": 12.58297,
+        "longitude": -8.00235
+    },
+    {
+        "cityId": "7701198",
+        "name": "Commune 6",
+        "stateId": "2460594",
+        "latitude": 12.57491,
+        "longitude": -7.94262
+    },
+    {
+        "cityId": "7701199",
+        "name": "Kati Cercle",
+        "stateId": "2460594",
+        "latitude": 12.5629,
+        "longitude": -8.19929
+    },
+    {
+        "cityId": "7701200",
+        "name": "Dioila",
+        "stateId": "2460594",
+        "latitude": 12.33043,
+        "longitude": -6.79164
+    },
+    {
+        "cityId": "7701503",
+        "name": "Koulikoro",
+        "stateId": "2460594",
+        "latitude": 13.2257,
+        "longitude": -7.30327
+    },
+    {
+        "cityId": "8261491",
+        "name": "Kolokani Cercle",
+        "stateId": "2460594",
+        "latitude": 13.75,
+        "longitude": -8.167
+    },
+    {
+        "cityId": "8261492",
+        "name": "Banamba Cercle",
+        "stateId": "2460594",
+        "latitude": 13.75,
+        "longitude": -7.333
+    },
+    {
+        "cityId": "8261493",
+        "name": "Nara Cercle",
+        "stateId": "2460594",
+        "latitude": 15.16846,
+        "longitude": -7.29015
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "725585",
+        "name": "Obshtina Yakoruda",
+        "stateId": "733192",
+        "latitude": 42.08333,
+        "longitude": 23.7
+    },
+    {
+        "cityId": "726692",
+        "name": "Obshtina Strumyani",
+        "stateId": "733192",
+        "latitude": 41.63333,
+        "longitude": 23.2
+    },
+    {
+        "cityId": "727211",
+        "name": "Obshtina Simitli",
+        "stateId": "733192",
+        "latitude": 41.88333,
+        "longitude": 23.16667
+    },
+    {
+        "cityId": "727422",
+        "name": "Obshtina Satovcha",
+        "stateId": "733192",
+        "latitude": 41.59848,
+        "longitude": 24.00781
+    },
+    {
+        "cityId": "727446",
+        "name": "Obshtina Sandanski",
+        "stateId": "733192",
+        "latitude": 41.56667,
+        "longitude": 23.45
+    },
+    {
+        "cityId": "727688",
+        "name": "Obshtina Razlog",
+        "stateId": "733192",
+        "latitude": 41.95,
+        "longitude": 23.46667
+    },
+    {
+        "cityId": "728286",
+        "name": "Obshtina Petrich",
+        "stateId": "733192",
+        "latitude": 41.45,
+        "longitude": 23.16667
+    },
+    {
+        "cityId": "729941",
+        "name": "Obshtina Kresna",
+        "stateId": "733192",
+        "latitude": 41.76667,
+        "longitude": 23.23333
+    },
+    {
+        "cityId": "730463",
+        "name": "Hadzhidimovo",
+        "stateId": "733192",
+        "latitude": 41.5,
+        "longitude": 23.83333
+    },
+    {
+        "cityId": "730959",
+        "name": "Obshtina Garmen",
+        "stateId": "733192",
+        "latitude": 41.7,
+        "longitude": 23.85
+    },
+    {
+        "cityId": "731107",
+        "name": "Obshtina Gotse Delchev",
+        "stateId": "733192",
+        "latitude": 41.63333,
+        "longitude": 23.68333
+    },
+    {
+        "cityId": "733190",
+        "name": "Obshtina Blagoevgrad",
+        "stateId": "733192",
+        "latitude": 42.01667,
+        "longitude": 23.16667
+    },
+    {
+        "cityId": "733315",
+        "name": "Obshtina Belitsa",
+        "stateId": "733192",
+        "latitude": 42.01667,
+        "longitude": 23.58333
+    },
+    {
+        "cityId": "733461",
+        "name": "Obshtina Bansko",
+        "stateId": "733192",
+        "latitude": 41.8,
+        "longitude": 23.6
+    }
+]

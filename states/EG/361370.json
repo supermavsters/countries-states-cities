@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "350200",
+        "name": "Markaz Rash\u012bd",
+        "stateId": "361370",
+        "latitude": 31.34674,
+        "longitude": 30.4225
+    },
+    {
+        "cityId": "354773",
+        "name": "Markaz Kafr ad Daww\u0101r",
+        "stateId": "361370",
+        "latitude": 31.11593,
+        "longitude": 30.08917
+    },
+    {
+        "cityId": "355416",
+        "name": "Markaz \u012at\u0101y al B\u0101r\u016bd",
+        "stateId": "361370",
+        "latitude": 30.86667,
+        "longitude": 30.66667
+    },
+    {
+        "cityId": "355999",
+        "name": "Markaz \u1e28awsh \u2018\u012as\u00e1",
+        "stateId": "361370",
+        "latitude": 30.87303,
+        "longitude": 30.32419
+    },
+    {
+        "cityId": "358446",
+        "name": "Markaz Damanh\u016br",
+        "stateId": "361370",
+        "latitude": 31.00131,
+        "longitude": 30.45678
+    },
+    {
+        "cityId": "360821",
+        "name": "Markaz al Ma\u1e29m\u016bd\u012byah",
+        "stateId": "361370",
+        "latitude": 31.17876,
+        "longitude": 30.50867
+    },
+    {
+        "cityId": "361828",
+        "name": "Markaz ad Dilinj\u0101t",
+        "stateId": "361370",
+        "latitude": 30.83123,
+        "longitude": 30.50237
+    },
+    {
+        "cityId": "362550",
+        "name": "Markaz Ab\u016b \u1e28ummu\u015f",
+        "stateId": "361370",
+        "latitude": 31.11099,
+        "longitude": 30.32886
+    },
+    {
+        "cityId": "362880",
+        "name": "Markaz Ab\u016b al Ma\u0163\u0101m\u012br",
+        "stateId": "361370",
+        "latitude": 30.78102,
+        "longitude": 30.11441
+    },
+    {
+        "cityId": "10430542",
+        "name": "Markaz Idk\u016b",
+        "stateId": "361370",
+        "latitude": 31.30661,
+        "longitude": 30.29742
+    },
+    {
+        "cityId": "10645705",
+        "name": "Markaz ar Ra\u1e29m\u0101n\u012byah",
+        "stateId": "361370",
+        "latitude": 31.09676,
+        "longitude": 30.60554
+    }
+]

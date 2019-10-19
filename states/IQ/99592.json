@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "98678",
+        "name": "Al-Rutba District",
+        "stateId": "99592",
+        "latitude": 33,
+        "longitude": 41
+    },
+    {
+        "cityId": "98718",
+        "name": "Ramadi District",
+        "stateId": "99592",
+        "latitude": 33.41667,
+        "longitude": 43.3
+    },
+    {
+        "cityId": "98884",
+        "name": "Anah District",
+        "stateId": "99592",
+        "latitude": 34.27071,
+        "longitude": 41.81234
+    },
+    {
+        "cityId": "99455",
+        "name": "Falluja District",
+        "stateId": "99592",
+        "latitude": 33.3,
+        "longitude": 43.8
+    },
+    {
+        "cityId": "6765480",
+        "name": "Haditha District",
+        "stateId": "99592",
+        "latitude": 34.12866,
+        "longitude": 42.358
+    },
+    {
+        "cityId": "9166576",
+        "name": "Al-Ka'im District",
+        "stateId": "99592",
+        "latitude": 34.23774,
+        "longitude": 41.05757
+    },
+    {
+        "cityId": "9166579",
+        "name": "H\u012bt District",
+        "stateId": "99592",
+        "latitude": 33.73482,
+        "longitude": 42.68228
+    },
+    {
+        "cityId": "9166650",
+        "name": "Rawah District",
+        "stateId": "99592",
+        "latitude": 34.46892,
+        "longitude": 41.91649
+    },
+    {
+        "cityId": "9873152",
+        "name": "Qa\u1e11\u0101\u2019 al Q\u0101\u2019im",
+        "stateId": "99592",
+        "latitude": 34.23953,
+        "longitude": 41.02107
+    }
+]

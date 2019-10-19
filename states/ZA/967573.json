@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8347359",
+        "name": "Xhariep District Municipality",
+        "stateId": "967573",
+        "latitude": -29.84311,
+        "longitude": 25.83286
+    },
+    {
+        "cityId": "8347360",
+        "name": "Lejweleputswa District Municipality",
+        "stateId": "967573",
+        "latitude": -28.23982,
+        "longitude": 26.12649
+    },
+    {
+        "cityId": "8347361",
+        "name": "Thabo Mofutsanyana District Municipality",
+        "stateId": "967573",
+        "latitude": -28.24378,
+        "longitude": 28.34077
+    },
+    {
+        "cityId": "8347362",
+        "name": "Fezile Dabi District Municipality",
+        "stateId": "967573",
+        "latitude": -27.33918,
+        "longitude": 27.71927
+    },
+    {
+        "cityId": "8347386",
+        "name": "Mangaung Metropolitan Municipality",
+        "stateId": "967573",
+        "latitude": -29.15627,
+        "longitude": 26.35116
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1487567",
+        "name": "Verkhneketskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 59,
+        "longitude": 86
+    },
+    {
+        "cityId": "1489419",
+        "name": "Tomskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 56.5,
+        "longitude": 84.66667
+    },
+    {
+        "cityId": "1489821",
+        "name": "Tegul\u2019detskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 57.5,
+        "longitude": 88.16667
+    },
+    {
+        "cityId": "1498492",
+        "name": "Molchanovskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 57.75,
+        "longitude": 84.33333
+    },
+    {
+        "cityId": "1508481",
+        "name": "Chainskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 57.75,
+        "longitude": 82.5
+    },
+    {
+        "cityId": "1511055",
+        "name": "Bakcharskiy Rayon",
+        "stateId": "1489421",
+        "latitude": 56.91667,
+        "longitude": 82.5
+    },
+    {
+        "cityId": "1511308",
+        "name": "Asinovkiy Rayon",
+        "stateId": "1489421",
+        "latitude": 57.25,
+        "longitude": 85.66667
+    }
+]

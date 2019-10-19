@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2658792",
+        "name": "Wahlkreis Sarganserland",
+        "stateId": "2658821",
+        "latitude": 47.05,
+        "longitude": 9.43333
+    },
+    {
+        "cityId": "6458770",
+        "name": "Wahlkreis St. Gallen",
+        "stateId": "2658821",
+        "latitude": 47.46342,
+        "longitude": 9.39052
+    },
+    {
+        "cityId": "6458838",
+        "name": "Wahlkreis Rorschach",
+        "stateId": "2658821",
+        "latitude": 47.46647,
+        "longitude": 9.44246
+    },
+    {
+        "cityId": "6458840",
+        "name": "Wahlkreis Wil",
+        "stateId": "2658821",
+        "latitude": 47.42591,
+        "longitude": 9.12451
+    },
+    {
+        "cityId": "6458880",
+        "name": "Wahlkreis Werdenberg",
+        "stateId": "2658821",
+        "latitude": 47.17743,
+        "longitude": 9.46299
+    },
+    {
+        "cityId": "7285000",
+        "name": "Wahlkreis Rheintal",
+        "stateId": "2658821",
+        "latitude": 47.37769,
+        "longitude": 9.57903
+    },
+    {
+        "cityId": "7285001",
+        "name": "Wahlkreis Toggenburg",
+        "stateId": "2658821",
+        "latitude": 47.29453,
+        "longitude": 9.17283
+    },
+    {
+        "cityId": "7285010",
+        "name": "Wahlkreis See-Gaster",
+        "stateId": "2658821",
+        "latitude": 47.22459,
+        "longitude": 9.0168
+    }
+]

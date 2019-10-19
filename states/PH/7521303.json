@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1691591",
+        "name": "Province of Rizal",
+        "stateId": "7521303",
+        "latitude": 14.58333,
+        "longitude": 121.16667
+    },
+    {
+        "cityId": "1692194",
+        "name": "Province of Quezon",
+        "stateId": "7521303",
+        "latitude": 14.66667,
+        "longitude": 121.5
+    },
+    {
+        "cityId": "1708026",
+        "name": "Province of Laguna",
+        "stateId": "7521303",
+        "latitude": 14.16667,
+        "longitude": 121.33333
+    },
+    {
+        "cityId": "1717639",
+        "name": "Province of Cavite",
+        "stateId": "7521303",
+        "latitude": 14.25,
+        "longitude": 120.83333
+    },
+    {
+        "cityId": "1726279",
+        "name": "Province of Batangas",
+        "stateId": "7521303",
+        "latitude": 13.91667,
+        "longitude": 121.08333
+    }
+]

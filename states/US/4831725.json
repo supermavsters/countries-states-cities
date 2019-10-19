@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "4834162",
+        "name": "Fairfield County",
+        "stateId": "4831725",
+        "latitude": 41.22496,
+        "longitude": -73.3712
+    },
+    {
+        "cityId": "4835806",
+        "name": "Hartford County",
+        "stateId": "4831725",
+        "latitude": 41.80642,
+        "longitude": -72.73284
+    },
+    {
+        "cityId": "4837802",
+        "name": "Litchfield County",
+        "stateId": "4831725",
+        "latitude": 41.79249,
+        "longitude": -73.24532
+    },
+    {
+        "cityId": "4838627",
+        "name": "Middlesex County",
+        "stateId": "4831725",
+        "latitude": 41.43538,
+        "longitude": -72.52312
+    },
+    {
+        "cityId": "4839373",
+        "name": "New Haven County",
+        "stateId": "4831725",
+        "latitude": 41.34882,
+        "longitude": -72.89986
+    },
+    {
+        "cityId": "4839420",
+        "name": "New London County",
+        "stateId": "4831725",
+        "latitude": 41.46678,
+        "longitude": -72.1065
+    },
+    {
+        "cityId": "4844275",
+        "name": "Tolland County",
+        "stateId": "4831725",
+        "latitude": 41.85501,
+        "longitude": -72.33649
+    },
+    {
+        "cityId": "4845904",
+        "name": "Windham County",
+        "stateId": "4831725",
+        "latitude": 41.83003,
+        "longitude": -71.98749
+    }
+]

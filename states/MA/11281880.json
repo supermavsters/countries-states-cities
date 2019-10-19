@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2537878",
+        "name": "Safi",
+        "stateId": "11281880",
+        "latitude": 32.16667,
+        "longitude": -8.83333
+    },
+    {
+        "cityId": "2549259",
+        "name": "Essaouira",
+        "stateId": "11281880",
+        "latitude": 31.50675,
+        "longitude": -9.75655
+    },
+    {
+        "cityId": "2549978",
+        "name": "Kelaa-Des-Sraghna",
+        "stateId": "11281880",
+        "latitude": 32.16667,
+        "longitude": -7.75
+    },
+    {
+        "cityId": "6547284",
+        "name": "Chichaoua",
+        "stateId": "11281880",
+        "latitude": 31.26365,
+        "longitude": -8.84411
+    },
+    {
+        "cityId": "6547285",
+        "name": "Marrakech",
+        "stateId": "11281880",
+        "latitude": 31.63623,
+        "longitude": -8.01041
+    },
+    {
+        "cityId": "6547292",
+        "name": "Al-Haouz",
+        "stateId": "11281880",
+        "latitude": 31.34083,
+        "longitude": -7.91076
+    },
+    {
+        "cityId": "11282170",
+        "name": "Youssoufia",
+        "stateId": "11281880",
+        "latitude": 32.23541,
+        "longitude": -8.52402
+    },
+    {
+        "cityId": "11282172",
+        "name": "Rehamna",
+        "stateId": "11281880",
+        "latitude": 32.24581,
+        "longitude": -7.93144
+    }
+]

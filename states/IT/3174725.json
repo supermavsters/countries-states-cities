@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3167021",
+        "name": "Provincia di Savona",
+        "stateId": "3174725",
+        "latitude": 44.3,
+        "longitude": 8.26667
+    },
+    {
+        "cityId": "3175080",
+        "name": "Provincia di La Spezia",
+        "stateId": "3174725",
+        "latitude": 44.25,
+        "longitude": 9.7
+    },
+    {
+        "cityId": "3175531",
+        "name": "Provincia di Imperia",
+        "stateId": "3174725",
+        "latitude": 43.96667,
+        "longitude": 7.78333
+    },
+    {
+        "cityId": "3176217",
+        "name": "Provincia di Genova",
+        "stateId": "3174725",
+        "latitude": 44.5,
+        "longitude": 9.06667
+    }
+]

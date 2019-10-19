@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "3626657",
+        "name": "Municipio Sucre",
+        "stateId": "3626655",
+        "latitude": 10.41667,
+        "longitude": -64.08333
+    },
+    {
+        "cityId": "3629182",
+        "name": "Municipio Ribero",
+        "stateId": "3626655",
+        "latitude": 10.41667,
+        "longitude": -63.5
+    },
+    {
+        "cityId": "3632008",
+        "name": "Municipio Montes",
+        "stateId": "3626655",
+        "latitude": 10.25,
+        "longitude": -63.91667
+    },
+    {
+        "cityId": "3632428",
+        "name": "Municipio Mej\u00eda",
+        "stateId": "3626655",
+        "latitude": 10.36667,
+        "longitude": -63.78333
+    },
+    {
+        "cityId": "3632895",
+        "name": "Municipio Mari\u00f1o",
+        "stateId": "3626655",
+        "latitude": 10.61667,
+        "longitude": -62.53333
+    },
+    {
+        "cityId": "3634754",
+        "name": "Municipio Libertador",
+        "stateId": "3626655",
+        "latitude": 10.56667,
+        "longitude": -63
+    },
+    {
+        "cityId": "3648300",
+        "name": "Municipio Berm\u00fadez",
+        "stateId": "3626655",
+        "latitude": 10.66667,
+        "longitude": -63.25
+    },
+    {
+        "cityId": "3648316",
+        "name": "Municipio Ben\u00edtez",
+        "stateId": "3626655",
+        "latitude": 10.27,
+        "longitude": -62.875
+    },
+    {
+        "cityId": "3648882",
+        "name": "Municipio Arismendi",
+        "stateId": "3626655",
+        "latitude": 10.7,
+        "longitude": -62.58333
+    },
+    {
+        "cityId": "3649248",
+        "name": "Municipio Andr\u00e9s Eloy Blanco",
+        "stateId": "3626655",
+        "latitude": 10.55,
+        "longitude": -63.41667
+    },
+    {
+        "cityId": "8129155",
+        "name": "Municipio Bol\u00edvar",
+        "stateId": "3626655",
+        "latitude": 10.44716,
+        "longitude": -63.90449
+    },
+    {
+        "cityId": "8129192",
+        "name": "Municipio Cruz Salmer\u00f3n Acosta",
+        "stateId": "3626655",
+        "latitude": 10.57973,
+        "longitude": -64.25826
+    },
+    {
+        "cityId": "8129221",
+        "name": "Municipio Cajigal",
+        "stateId": "3626655",
+        "latitude": 10.56916,
+        "longitude": -62.82693
+    },
+    {
+        "cityId": "8131450",
+        "name": "Municipio Andr\u00e9s Mata",
+        "stateId": "3626655",
+        "latitude": 10.59877,
+        "longitude": -63.32949
+    },
+    {
+        "cityId": "8131484",
+        "name": "Municipio Valdez",
+        "stateId": "3626655",
+        "latitude": 10.57945,
+        "longitude": -62.30029
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1685754",
+        "name": "Province of Sorsogon",
+        "stateId": "7521310",
+        "latitude": 12.83333,
+        "longitude": 123.91667
+    },
+    {
+        "cityId": "1700711",
+        "name": "Province of Masbate",
+        "stateId": "7521310",
+        "latitude": 12.16667,
+        "longitude": 123.58333
+    },
+    {
+        "cityId": "1717952",
+        "name": "Province of Catanduanes",
+        "stateId": "7521310",
+        "latitude": 13.83333,
+        "longitude": 124.25
+    },
+    {
+        "cityId": "1719845",
+        "name": "Province of Camarines Sur",
+        "stateId": "7521310",
+        "latitude": 13.66667,
+        "longitude": 123.33333
+    },
+    {
+        "cityId": "1719846",
+        "name": "Province of Camarines Norte",
+        "stateId": "7521310",
+        "latitude": 14.16667,
+        "longitude": 122.75
+    },
+    {
+        "cityId": "1731616",
+        "name": "Province of Albay",
+        "stateId": "7521310",
+        "latitude": 13.21667,
+        "longitude": 123.55
+    }
+]

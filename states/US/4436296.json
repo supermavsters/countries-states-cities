@@ -1,0 +1,576 @@
+[
+    {
+        "cityId": "4415912",
+        "name": "Adams County",
+        "stateId": "4436296",
+        "latitude": 31.48294,
+        "longitude": -91.3535
+    },
+    {
+        "cityId": "4416012",
+        "name": "Alcorn County",
+        "stateId": "4436296",
+        "latitude": 34.88077,
+        "longitude": -88.58026
+    },
+    {
+        "cityId": "4416182",
+        "name": "Amite County",
+        "stateId": "4436296",
+        "latitude": 31.1744,
+        "longitude": -90.80443
+    },
+    {
+        "cityId": "4416669",
+        "name": "Attala County",
+        "stateId": "4436296",
+        "latitude": 33.08629,
+        "longitude": -89.58155
+    },
+    {
+        "cityId": "4417738",
+        "name": "Benton County",
+        "stateId": "4436296",
+        "latitude": 34.81729,
+        "longitude": -89.18848
+    },
+    {
+        "cityId": "4419012",
+        "name": "Bolivar County",
+        "stateId": "4436296",
+        "latitude": 33.79554,
+        "longitude": -90.8804
+    },
+    {
+        "cityId": "4420309",
+        "name": "Calhoun County",
+        "stateId": "4436296",
+        "latitude": 33.93645,
+        "longitude": -89.33645
+    },
+    {
+        "cityId": "4420741",
+        "name": "Carroll County",
+        "stateId": "4436296",
+        "latitude": 33.44853,
+        "longitude": -89.9202
+    },
+    {
+        "cityId": "4421449",
+        "name": "Chickasaw County",
+        "stateId": "4436296",
+        "latitude": 33.9208,
+        "longitude": -88.94786
+    },
+    {
+        "cityId": "4421547",
+        "name": "Choctaw County",
+        "stateId": "4436296",
+        "latitude": 33.34731,
+        "longitude": -89.24838
+    },
+    {
+        "cityId": "4421859",
+        "name": "Claiborne County",
+        "stateId": "4436296",
+        "latitude": 31.97369,
+        "longitude": -90.91181
+    },
+    {
+        "cityId": "4421913",
+        "name": "Clarke County",
+        "stateId": "4436296",
+        "latitude": 32.0414,
+        "longitude": -88.6894
+    },
+    {
+        "cityId": "4421964",
+        "name": "Clay County",
+        "stateId": "4436296",
+        "latitude": 33.65567,
+        "longitude": -88.78157
+    },
+    {
+        "cityId": "4422178",
+        "name": "Coahoma County",
+        "stateId": "4436296",
+        "latitude": 34.22917,
+        "longitude": -90.60269
+    },
+    {
+        "cityId": "4422700",
+        "name": "Copiah County",
+        "stateId": "4436296",
+        "latitude": 31.86924,
+        "longitude": -90.4488
+    },
+    {
+        "cityId": "4422907",
+        "name": "Covington County",
+        "stateId": "4436296",
+        "latitude": 31.63322,
+        "longitude": -89.55263
+    },
+    {
+        "cityId": "4423655",
+        "name": "De Soto County",
+        "stateId": "4436296",
+        "latitude": 34.8754,
+        "longitude": -89.99178
+    },
+    {
+        "cityId": "4426954",
+        "name": "Forrest County",
+        "stateId": "4436296",
+        "latitude": 31.18887,
+        "longitude": -89.25786
+    },
+    {
+        "cityId": "4427119",
+        "name": "Franklin County",
+        "stateId": "4436296",
+        "latitude": 31.47715,
+        "longitude": -90.89785
+    },
+    {
+        "cityId": "4427592",
+        "name": "George County",
+        "stateId": "4436296",
+        "latitude": 30.86261,
+        "longitude": -88.64403
+    },
+    {
+        "cityId": "4428420",
+        "name": "Greene County",
+        "stateId": "4436296",
+        "latitude": 31.21422,
+        "longitude": -88.63916
+    },
+    {
+        "cityId": "4428541",
+        "name": "Grenada County",
+        "stateId": "4436296",
+        "latitude": 33.76995,
+        "longitude": -89.80201
+    },
+    {
+        "cityId": "4428961",
+        "name": "Hancock County",
+        "stateId": "4436296",
+        "latitude": 30.39378,
+        "longitude": -89.47456
+    },
+    {
+        "cityId": "4429197",
+        "name": "Harrison County",
+        "stateId": "4436296",
+        "latitude": 30.41605,
+        "longitude": -89.08164
+    },
+    {
+        "cityId": "4429877",
+        "name": "Hinds County",
+        "stateId": "4436296",
+        "latitude": 32.2667,
+        "longitude": -90.44282
+    },
+    {
+        "cityId": "4430142",
+        "name": "Holmes County",
+        "stateId": "4436296",
+        "latitude": 33.12351,
+        "longitude": -90.09205
+    },
+    {
+        "cityId": "4430705",
+        "name": "Humphreys County",
+        "stateId": "4436296",
+        "latitude": 33.1287,
+        "longitude": -90.52662
+    },
+    {
+        "cityId": "4431269",
+        "name": "Issaquena County",
+        "stateId": "4436296",
+        "latitude": 32.74139,
+        "longitude": -90.98921
+    },
+    {
+        "cityId": "4431274",
+        "name": "Itawamba County",
+        "stateId": "4436296",
+        "latitude": 34.27999,
+        "longitude": -88.36132
+    },
+    {
+        "cityId": "4431425",
+        "name": "Jackson County",
+        "stateId": "4436296",
+        "latitude": 30.46289,
+        "longitude": -88.62284
+    },
+    {
+        "cityId": "4431565",
+        "name": "Jasper County",
+        "stateId": "4436296",
+        "latitude": 32.01911,
+        "longitude": -89.11886
+    },
+    {
+        "cityId": "4431608",
+        "name": "Jefferson County",
+        "stateId": "4436296",
+        "latitude": 31.73421,
+        "longitude": -91.03718
+    },
+    {
+        "cityId": "4431611",
+        "name": "Jefferson Davis County",
+        "stateId": "4436296",
+        "latitude": 31.56964,
+        "longitude": -89.823
+    },
+    {
+        "cityId": "4431982",
+        "name": "Jones County",
+        "stateId": "4436296",
+        "latitude": 31.62256,
+        "longitude": -89.16879
+    },
+    {
+        "cityId": "4432218",
+        "name": "Kemper County",
+        "stateId": "4436296",
+        "latitude": 32.75456,
+        "longitude": -88.64116
+    },
+    {
+        "cityId": "4432670",
+        "name": "Lafayette County",
+        "stateId": "4436296",
+        "latitude": 34.35675,
+        "longitude": -89.48492
+    },
+    {
+        "cityId": "4432922",
+        "name": "Lamar County",
+        "stateId": "4436296",
+        "latitude": 31.20587,
+        "longitude": -89.50869
+    },
+    {
+        "cityId": "4433028",
+        "name": "Lauderdale County",
+        "stateId": "4436296",
+        "latitude": 32.40429,
+        "longitude": -88.66254
+    },
+    {
+        "cityId": "4433059",
+        "name": "Lawrence County",
+        "stateId": "4436296",
+        "latitude": 31.5502,
+        "longitude": -90.10699
+    },
+    {
+        "cityId": "4433110",
+        "name": "Leake County",
+        "stateId": "4436296",
+        "latitude": 32.75353,
+        "longitude": -89.52406
+    },
+    {
+        "cityId": "4433190",
+        "name": "Lee County",
+        "stateId": "4436296",
+        "latitude": 34.28989,
+        "longitude": -88.68042
+    },
+    {
+        "cityId": "4433243",
+        "name": "Leflore County",
+        "stateId": "4436296",
+        "latitude": 33.55052,
+        "longitude": -90.30106
+    },
+    {
+        "cityId": "4433521",
+        "name": "Lincoln County",
+        "stateId": "4436296",
+        "latitude": 31.53239,
+        "longitude": -90.454
+    },
+    {
+        "cityId": "4434357",
+        "name": "Lowndes County",
+        "stateId": "4436296",
+        "latitude": 33.47291,
+        "longitude": -88.44331
+    },
+    {
+        "cityId": "4434666",
+        "name": "Madison County",
+        "stateId": "4436296",
+        "latitude": 32.63466,
+        "longitude": -90.03376
+    },
+    {
+        "cityId": "4434905",
+        "name": "Marion County",
+        "stateId": "4436296",
+        "latitude": 31.23082,
+        "longitude": -89.82244
+    },
+    {
+        "cityId": "4434977",
+        "name": "Marshall County",
+        "stateId": "4436296",
+        "latitude": 34.76225,
+        "longitude": -89.50305
+    },
+    {
+        "cityId": "4436434",
+        "name": "Montgomery County",
+        "stateId": "4436296",
+        "latitude": 33.4941,
+        "longitude": -89.6164
+    },
+    {
+        "cityId": "4436465",
+        "name": "Monroe County",
+        "stateId": "4436296",
+        "latitude": 33.89224,
+        "longitude": -88.48047
+    },
+    {
+        "cityId": "4438104",
+        "name": "Neshoba County",
+        "stateId": "4436296",
+        "latitude": 32.7535,
+        "longitude": -89.11757
+    },
+    {
+        "cityId": "4438827",
+        "name": "Newton County",
+        "stateId": "4436296",
+        "latitude": 32.40023,
+        "longitude": -89.11881
+    },
+    {
+        "cityId": "4439115",
+        "name": "Noxubee County",
+        "stateId": "4436296",
+        "latitude": 33.11011,
+        "longitude": -88.56982
+    },
+    {
+        "cityId": "4439581",
+        "name": "Oktibbeha County",
+        "stateId": "4436296",
+        "latitude": 33.42495,
+        "longitude": -88.8793
+    },
+    {
+        "cityId": "4440232",
+        "name": "Panola County",
+        "stateId": "4436296",
+        "latitude": 34.36394,
+        "longitude": -89.95057
+    },
+    {
+        "cityId": "4440578",
+        "name": "Pearl River County",
+        "stateId": "4436296",
+        "latitude": 30.76858,
+        "longitude": -89.58978
+    },
+    {
+        "cityId": "4440794",
+        "name": "Perry County",
+        "stateId": "4436296",
+        "latitude": 31.17202,
+        "longitude": -88.99233
+    },
+    {
+        "cityId": "4441053",
+        "name": "Pike County",
+        "stateId": "4436296",
+        "latitude": 31.17491,
+        "longitude": -90.40416
+    },
+    {
+        "cityId": "4442070",
+        "name": "Pontotoc County",
+        "stateId": "4436296",
+        "latitude": 34.22544,
+        "longitude": -89.03741
+    },
+    {
+        "cityId": "4442374",
+        "name": "Prentiss County",
+        "stateId": "4436296",
+        "latitude": 34.61829,
+        "longitude": -88.5201
+    },
+    {
+        "cityId": "4442697",
+        "name": "Quitman County",
+        "stateId": "4436296",
+        "latitude": 34.25141,
+        "longitude": -90.28912
+    },
+    {
+        "cityId": "4442841",
+        "name": "Rankin County",
+        "stateId": "4436296",
+        "latitude": 32.26412,
+        "longitude": -89.9458
+    },
+    {
+        "cityId": "4445321",
+        "name": "Scott County",
+        "stateId": "4436296",
+        "latitude": 32.40638,
+        "longitude": -89.53764
+    },
+    {
+        "cityId": "4445678",
+        "name": "Sharkey County",
+        "stateId": "4436296",
+        "latitude": 32.87972,
+        "longitude": -90.81321
+    },
+    {
+        "cityId": "4446158",
+        "name": "Simpson County",
+        "stateId": "4436296",
+        "latitude": 31.91317,
+        "longitude": -89.91949
+    },
+    {
+        "cityId": "4446378",
+        "name": "Smith County",
+        "stateId": "4436296",
+        "latitude": 32.01769,
+        "longitude": -89.50668
+    },
+    {
+        "cityId": "4447325",
+        "name": "Stone County",
+        "stateId": "4436296",
+        "latitude": 30.78995,
+        "longitude": -89.11771
+    },
+    {
+        "cityId": "4447584",
+        "name": "Sunflower County",
+        "stateId": "4436296",
+        "latitude": 33.60231,
+        "longitude": -90.58862
+    },
+    {
+        "cityId": "4447911",
+        "name": "Tallahatchie County",
+        "stateId": "4436296",
+        "latitude": 33.95047,
+        "longitude": -90.17326
+    },
+    {
+        "cityId": "4447998",
+        "name": "Tate County",
+        "stateId": "4436296",
+        "latitude": 34.65032,
+        "longitude": -89.94478
+    },
+    {
+        "cityId": "4448467",
+        "name": "Tippah County",
+        "stateId": "4436296",
+        "latitude": 34.7684,
+        "longitude": -88.9089
+    },
+    {
+        "cityId": "4448508",
+        "name": "Tishomingo County",
+        "stateId": "4436296",
+        "latitude": 34.74043,
+        "longitude": -88.23932
+    },
+    {
+        "cityId": "4448921",
+        "name": "Tunica County",
+        "stateId": "4436296",
+        "latitude": 34.65194,
+        "longitude": -90.37551
+    },
+    {
+        "cityId": "4449240",
+        "name": "Union County",
+        "stateId": "4436296",
+        "latitude": 34.49047,
+        "longitude": -89.00386
+    },
+    {
+        "cityId": "4450205",
+        "name": "Walthall County",
+        "stateId": "4436296",
+        "latitude": 31.14842,
+        "longitude": -90.10614
+    },
+    {
+        "cityId": "4450285",
+        "name": "Warren County",
+        "stateId": "4436296",
+        "latitude": 32.35723,
+        "longitude": -90.85201
+    },
+    {
+        "cityId": "4450315",
+        "name": "Washington County",
+        "stateId": "4436296",
+        "latitude": 33.2837,
+        "longitude": -90.94745
+    },
+    {
+        "cityId": "4450432",
+        "name": "Wayne County",
+        "stateId": "4436296",
+        "latitude": 31.64078,
+        "longitude": -88.6958
+    },
+    {
+        "cityId": "4450493",
+        "name": "Webster County",
+        "stateId": "4436296",
+        "latitude": 33.61307,
+        "longitude": -89.28482
+    },
+    {
+        "cityId": "4451213",
+        "name": "Wilkinson County",
+        "stateId": "4436296",
+        "latitude": 31.16107,
+        "longitude": -91.31092
+    },
+    {
+        "cityId": "4451480",
+        "name": "Winston County",
+        "stateId": "4436296",
+        "latitude": 33.08849,
+        "longitude": -89.03443
+    },
+    {
+        "cityId": "4451779",
+        "name": "Yalobusha County",
+        "stateId": "4436296",
+        "latitude": 34.02821,
+        "longitude": -89.70763
+    },
+    {
+        "cityId": "4451815",
+        "name": "Yazoo County",
+        "stateId": "4436296",
+        "latitude": 32.78031,
+        "longitude": -90.39642
+    }
+]

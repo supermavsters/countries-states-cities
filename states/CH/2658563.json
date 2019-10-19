@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2658380",
+        "name": "Bezirk Thierstein",
+        "stateId": "2658563",
+        "latitude": 47.38333,
+        "longitude": 7.55
+    },
+    {
+        "cityId": "6458742",
+        "name": "Bezirk G\u00e4u",
+        "stateId": "2658563",
+        "latitude": 47.29606,
+        "longitude": 7.77503
+    },
+    {
+        "cityId": "6458779",
+        "name": "Bezirk Solothurn",
+        "stateId": "2658563",
+        "latitude": 47.20818,
+        "longitude": 7.53084
+    },
+    {
+        "cityId": "6458829",
+        "name": "Bezirk Lebern",
+        "stateId": "2658563",
+        "latitude": 47.21798,
+        "longitude": 7.48053
+    },
+    {
+        "cityId": "6458841",
+        "name": "Bezirk Bucheggberg",
+        "stateId": "2658563",
+        "latitude": 47.13205,
+        "longitude": 7.47885
+    },
+    {
+        "cityId": "6458869",
+        "name": "Bezirk Thal",
+        "stateId": "2658563",
+        "latitude": 47.31095,
+        "longitude": 7.63592
+    },
+    {
+        "cityId": "6458874",
+        "name": "Bezirk G\u00f6sgen",
+        "stateId": "2658563",
+        "latitude": 47.37758,
+        "longitude": 7.9203
+    },
+    {
+        "cityId": "6458885",
+        "name": "Bezirk Wasseramt",
+        "stateId": "2658563",
+        "latitude": 47.18911,
+        "longitude": 7.59157
+    },
+    {
+        "cityId": "6458893",
+        "name": "Bezirk Olten",
+        "stateId": "2658563",
+        "latitude": 47.34426,
+        "longitude": 7.90755
+    },
+    {
+        "cityId": "6458904",
+        "name": "Bezirk Dorneck",
+        "stateId": "2658563",
+        "latitude": 47.48032,
+        "longitude": 7.61816
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "7731890",
+        "name": "Kembe",
+        "stateId": "240396",
+        "latitude": 4.48243,
+        "longitude": 21.69625
+    },
+    {
+        "cityId": "7731891",
+        "name": "Mobaye",
+        "stateId": "240396",
+        "latitude": 4.47869,
+        "longitude": 21.22478
+    },
+    {
+        "cityId": "7731892",
+        "name": "Zangba",
+        "stateId": "240396",
+        "latitude": 4.60069,
+        "longitude": 20.82058
+    },
+    {
+        "cityId": "7732066",
+        "name": "Alindao",
+        "stateId": "240396",
+        "latitude": 5.20281,
+        "longitude": 21.21222
+    },
+    {
+        "cityId": "7732076",
+        "name": "Mingala",
+        "stateId": "240396",
+        "latitude": 5.15276,
+        "longitude": 21.63793
+    }
+]

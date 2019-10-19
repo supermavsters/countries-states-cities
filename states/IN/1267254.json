@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "1264155",
+        "name": "Malappuram",
+        "stateId": "1267254",
+        "latitude": 11,
+        "longitude": 76.16667
+    },
+    {
+        "cityId": "1265874",
+        "name": "Kozhikode",
+        "stateId": "1267254",
+        "latitude": 11.5,
+        "longitude": 76
+    },
+    {
+        "cityId": "1265912",
+        "name": "Kottayam",
+        "stateId": "1267254",
+        "latitude": 9.66667,
+        "longitude": 76.66667
+    },
+    {
+        "cityId": "1269812",
+        "name": "Idukki",
+        "stateId": "1267254",
+        "latitude": 10,
+        "longitude": 77
+    },
+    {
+        "cityId": "1272019",
+        "name": "Ern\u0101kulam",
+        "stateId": "1267254",
+        "latitude": 10,
+        "longitude": 76.5
+    },
+    {
+        "cityId": "1274988",
+        "name": "Kannur",
+        "stateId": "1267254",
+        "latitude": 12.16667,
+        "longitude": 75.33333
+    },
+    {
+        "cityId": "1278986",
+        "name": "Alappuzha",
+        "stateId": "1267254",
+        "latitude": 9.41667,
+        "longitude": 76.5
+    },
+    {
+        "cityId": "6951502",
+        "name": "Wayanad",
+        "stateId": "1267254",
+        "latitude": 11.605,
+        "longitude": 76.083
+    },
+    {
+        "cityId": "7289568",
+        "name": "Palakkad district",
+        "stateId": "1267254",
+        "latitude": 10.775,
+        "longitude": 76.651
+    },
+    {
+        "cityId": "7874372",
+        "name": "Pattanamtitta",
+        "stateId": "1267254",
+        "latitude": 9.28068,
+        "longitude": 76.86967
+    },
+    {
+        "cityId": "7909821",
+        "name": "Kollam",
+        "stateId": "1267254",
+        "latitude": 8.95687,
+        "longitude": 76.85274
+    },
+    {
+        "cityId": "7909823",
+        "name": "Thiruvananthapuram",
+        "stateId": "1267254",
+        "latitude": 8.60399,
+        "longitude": 76.98574
+    },
+    {
+        "cityId": "8133543",
+        "name": "Thrissur District",
+        "stateId": "1267254",
+        "latitude": 10.52022,
+        "longitude": 76.2204
+    },
+    {
+        "cityId": "8347665",
+        "name": "K\u0101saragod District",
+        "stateId": "1267254",
+        "latitude": 12.49246,
+        "longitude": 74.99062
+    }
+]

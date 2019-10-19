@@ -1,0 +1,226 @@
+[
+    {
+        "stateId": "9407085",
+        "name": "Akobo",
+        "countryId": "7909807",
+        "latitude": 7.8,
+        "longitude": 33
+    },
+    {
+        "stateId": "11550552",
+        "name": "Amadi State",
+        "countryId": "7909807",
+        "latitude": 5.3504,
+        "longitude": 30.31707
+    },
+    {
+        "stateId": "11550543",
+        "name": "Aweil",
+        "countryId": "7909807",
+        "latitude": 8.76989,
+        "longitude": 27.38995
+    },
+    {
+        "stateId": "11550582",
+        "name": "Aweil East",
+        "countryId": "7909807",
+        "latitude": 9.02208,
+        "longitude": 27.60804
+    },
+    {
+        "stateId": "11550574",
+        "name": "Bieh",
+        "countryId": "7909807",
+        "latitude": 7.78911,
+        "longitude": 33.03615
+    },
+    {
+        "stateId": "11550573",
+        "name": "Boma",
+        "countryId": "7909807",
+        "latitude": 6.80252,
+        "longitude": 33.12837
+    },
+    {
+        "stateId": "11550575",
+        "name": "Central Upper Nile",
+        "countryId": "7909807",
+        "latitude": 9.55352,
+        "longitude": 31.66461
+    },
+    {
+        "stateId": "11550544",
+        "name": "Eastern Lakes",
+        "countryId": "7909807",
+        "latitude": 6.55304,
+        "longitude": 30.50839
+    },
+    {
+        "stateId": "11550580",
+        "name": "Fangak",
+        "countryId": "7909807",
+        "latitude": 8.12764,
+        "longitude": 31.41026
+    },
+    {
+        "stateId": "11550558",
+        "name": "Fashoda",
+        "countryId": "7909807",
+        "latitude": 9.88443,
+        "longitude": 32.11205
+    },
+    {
+        "stateId": "11550566",
+        "name": "Gbudwe",
+        "countryId": "7909807",
+        "latitude": 4.56445,
+        "longitude": 28.38266
+    },
+    {
+        "stateId": "11550545",
+        "name": "Gogrial",
+        "countryId": "7909807",
+        "latitude": 8.30628,
+        "longitude": 27.95626
+    },
+    {
+        "stateId": "11550562",
+        "name": "Gok",
+        "countryId": "7909807",
+        "latitude": 7.01767,
+        "longitude": 29.24144
+    },
+    {
+        "stateId": "11550567",
+        "name": "Imatong",
+        "countryId": "7909807",
+        "latitude": 4.40995,
+        "longitude": 32.56798
+    },
+    {
+        "stateId": "11550576",
+        "name": "Jonglei",
+        "countryId": "7909807",
+        "latitude": 6.2124,
+        "longitude": 31.56604
+    },
+    {
+        "stateId": "11550569",
+        "name": "Jubek",
+        "countryId": "7909807",
+        "latitude": 4.85871,
+        "longitude": 31.59162
+    },
+    {
+        "stateId": "11550596",
+        "name": "Kapoeta",
+        "countryId": "7909807",
+        "latitude": 4.77254,
+        "longitude": 33.59417
+    },
+    {
+        "stateId": "11550577",
+        "name": "Latjoor",
+        "countryId": "7909807",
+        "latitude": 8.62023,
+        "longitude": 33.07014
+    },
+    {
+        "stateId": "11550548",
+        "name": "Lol",
+        "countryId": "7909807",
+        "latitude": 8.46796,
+        "longitude": 25.6814
+    },
+    {
+        "stateId": "9072661",
+        "name": "Maiwut",
+        "countryId": "7909807",
+        "latitude": 8.6,
+        "longitude": 33.9167
+    },
+    {
+        "stateId": "11550570",
+        "name": "Maridi",
+        "countryId": "7909807",
+        "latitude": 4.90968,
+        "longitude": 29.45259
+    },
+    {
+        "stateId": "11550578",
+        "name": "Northern Liech",
+        "countryId": "7909807",
+        "latitude": 9.22259,
+        "longitude": 29.80617
+    },
+    {
+        "stateId": "11550588",
+        "name": "Northern Upper Nile",
+        "countryId": "7909807",
+        "latitude": 11.31646,
+        "longitude": 33.00499
+    },
+    {
+        "stateId": "367894",
+        "name": "Ruweng",
+        "countryId": "7909807",
+        "latitude": 9.50658,
+        "longitude": 29.48637
+    },
+    {
+        "stateId": "11550579",
+        "name": "Southern Liech",
+        "countryId": "7909807",
+        "latitude": 8.29766,
+        "longitude": 30.14824
+    },
+    {
+        "stateId": "11550589",
+        "name": "Tambura",
+        "countryId": "7909807",
+        "latitude": 5.59886,
+        "longitude": 27.46943
+    },
+    {
+        "stateId": "11550571",
+        "name": "Terekeka",
+        "countryId": "7909807",
+        "latitude": 5.44196,
+        "longitude": 31.72585
+    },
+    {
+        "stateId": "11550563",
+        "name": "Tonj",
+        "countryId": "7909807",
+        "latitude": 7.27163,
+        "longitude": 28.67419
+    },
+    {
+        "stateId": "11550564",
+        "name": "Twic",
+        "countryId": "7909807",
+        "latitude": 9.13244,
+        "longitude": 28.34486
+    },
+    {
+        "stateId": "11550565",
+        "name": "Wau",
+        "countryId": "7909807",
+        "latitude": 7.70738,
+        "longitude": 27.98192
+    },
+    {
+        "stateId": "11550581",
+        "name": "Western Lakes",
+        "countryId": "7909807",
+        "latitude": 6.80764,
+        "longitude": 29.67339
+    },
+    {
+        "stateId": "11550555",
+        "name": "Yei River",
+        "countryId": "7909807",
+        "latitude": 4.09916,
+        "longitude": 30.67009
+    }
+]

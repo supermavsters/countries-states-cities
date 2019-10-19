@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "1604770",
+        "name": "Amphoe Yaring",
+        "stateId": "1607976",
+        "latitude": 6.83507,
+        "longitude": 101.39073
+    },
+    {
+        "cityId": "1604772",
+        "name": "Amphoe Yarang",
+        "stateId": "1607976",
+        "latitude": 6.6924,
+        "longitude": 101.31408
+    },
+    {
+        "cityId": "1606850",
+        "name": "Amphoe Sai Buri",
+        "stateId": "1607976",
+        "latitude": 6.7,
+        "longitude": 101.58333
+    },
+    {
+        "cityId": "1608006",
+        "name": "Amphoe Panare",
+        "stateId": "1607976",
+        "latitude": 6.81211,
+        "longitude": 101.51247
+    },
+    {
+        "cityId": "1608262",
+        "name": "Amphoe Nong Chik",
+        "stateId": "1607976",
+        "latitude": 6.80011,
+        "longitude": 101.17057
+    },
+    {
+        "cityId": "1608638",
+        "name": "Amphoe Mueang Pattani",
+        "stateId": "1607976",
+        "latitude": 6.85581,
+        "longitude": 101.26761
+    },
+    {
+        "cityId": "1608732",
+        "name": "Amphoe Mayo",
+        "stateId": "1607976",
+        "latitude": 6.70764,
+        "longitude": 101.40359
+    },
+    {
+        "cityId": "1609819",
+        "name": "Amphoe Khok Pho",
+        "stateId": "1607976",
+        "latitude": 6.70858,
+        "longitude": 101.11693
+    },
+    {
+        "cityId": "7510719",
+        "name": "Amphoe Kapho",
+        "stateId": "1607976",
+        "latitude": 6.60264,
+        "longitude": 101.54327
+    },
+    {
+        "cityId": "8304630",
+        "name": "Amphoe Thung Yang Daeng",
+        "stateId": "1607976",
+        "latitude": 6.6416,
+        "longitude": 101.44652
+    },
+    {
+        "cityId": "8304631",
+        "name": "Amphoe Mae Lan",
+        "stateId": "1607976",
+        "latitude": 6.66833,
+        "longitude": 101.23149
+    },
+    {
+        "cityId": "8304634",
+        "name": "Amphoe Mai Kaen",
+        "stateId": "1607976",
+        "latitude": 6.61603,
+        "longitude": 101.67864
+    }
+]

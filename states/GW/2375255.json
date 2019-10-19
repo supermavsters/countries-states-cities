@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8335054",
+        "name": "Xitole Sector",
+        "stateId": "2375255",
+        "latitude": 11.763,
+        "longitude": -14.693
+    },
+    {
+        "cityId": "8335071",
+        "name": "Gamamundo Sector",
+        "stateId": "2375255",
+        "latitude": 12.285,
+        "longitude": -14.818
+    },
+    {
+        "cityId": "8335072",
+        "name": "Galomaro Sector",
+        "stateId": "2375255",
+        "latitude": 11.956,
+        "longitude": -14.571
+    },
+    {
+        "cityId": "8335074",
+        "name": "Bafata Sector",
+        "stateId": "2375255",
+        "latitude": 12.173,
+        "longitude": -14.593
+    },
+    {
+        "cityId": "8335076",
+        "name": "Contuboel Sector",
+        "stateId": "2375255",
+        "latitude": 12.555,
+        "longitude": -14.641
+    }
+]

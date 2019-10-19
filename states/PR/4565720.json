@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "7268055",
+        "name": "Ceiba Norte Barrio",
+        "stateId": "4565720",
+        "latitude": 18.2228,
+        "longitude": -65.89413
+    },
+    {
+        "cityId": "7268056",
+        "name": "Ceiba Sur Barrio",
+        "stateId": "4565720",
+        "latitude": 18.2062,
+        "longitude": -65.91133
+    },
+    {
+        "cityId": "7268292",
+        "name": "Caimito Barrio",
+        "stateId": "4565720",
+        "latitude": 18.2428,
+        "longitude": -65.86677
+    },
+    {
+        "cityId": "7268446",
+        "name": "Gurabo Abajo Barrio",
+        "stateId": "4565720",
+        "latitude": 18.2528,
+        "longitude": -65.9106
+    },
+    {
+        "cityId": "7268447",
+        "name": "Gurabo Arriba Barrio",
+        "stateId": "4565720",
+        "latitude": 18.24398,
+        "longitude": -65.881
+    },
+    {
+        "cityId": "7268535",
+        "name": "Juncos Barrio-Pueblo",
+        "stateId": "4565720",
+        "latitude": 18.22918,
+        "longitude": -65.92194
+    },
+    {
+        "cityId": "7268562",
+        "name": "Lirios Barrio",
+        "stateId": "4565720",
+        "latitude": 18.21897,
+        "longitude": -65.93997
+    },
+    {
+        "cityId": "7268603",
+        "name": "Mamey Barrio",
+        "stateId": "4565720",
+        "latitude": 18.23977,
+        "longitude": -65.93435
+    },
+    {
+        "cityId": "7269064",
+        "name": "Valenciano Abajo Barrio",
+        "stateId": "4565720",
+        "latitude": 18.19345,
+        "longitude": -65.92196
+    },
+    {
+        "cityId": "7269065",
+        "name": "Valenciano Arriba Barrio",
+        "stateId": "4565720",
+        "latitude": 18.16432,
+        "longitude": -65.92327
+    }
+]

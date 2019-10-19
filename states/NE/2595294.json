@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2438677",
+        "name": "D\u00e9partement de Tillab\u00e9ri",
+        "stateId": "2595294",
+        "latitude": 14.5,
+        "longitude": 1.33333
+    },
+    {
+        "cityId": "2438854",
+        "name": "D\u00e9partement de T\u00e9ra",
+        "stateId": "2595294",
+        "latitude": 14.25,
+        "longitude": 0.8
+    },
+    {
+        "cityId": "2439811",
+        "name": "D\u00e9partement de Say",
+        "stateId": "2595294",
+        "latitude": 13.1,
+        "longitude": 1.5
+    },
+    {
+        "cityId": "2440370",
+        "name": "D\u00e9partement de Ouallam",
+        "stateId": "2595294",
+        "latitude": 14.63333,
+        "longitude": 2.25
+    },
+    {
+        "cityId": "2440482",
+        "name": "D\u00e9partement de Niamey",
+        "stateId": "2595294",
+        "latitude": 13.53333,
+        "longitude": 2.2
+    },
+    {
+        "cityId": "2444994",
+        "name": "D\u00e9partement de Filingu\u00e9",
+        "stateId": "2595294",
+        "latitude": 14.5,
+        "longitude": 3.5
+    },
+    {
+        "cityId": "8334576",
+        "name": "Tillaberi Department",
+        "stateId": "2595294",
+        "latitude": 14.516,
+        "longitude": 1.443
+    },
+    {
+        "cityId": "8334577",
+        "name": "Tera Department",
+        "stateId": "2595294",
+        "latitude": 14.186,
+        "longitude": 0.843
+    },
+    {
+        "cityId": "8334578",
+        "name": "Kollo Department",
+        "stateId": "2595294",
+        "latitude": 13.576,
+        "longitude": 2.452
+    }
+]

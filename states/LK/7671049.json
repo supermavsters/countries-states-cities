@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1225017",
+        "name": "Vavuniya District",
+        "stateId": "7671049",
+        "latitude": 8.86134,
+        "longitude": 80.47576
+    },
+    {
+        "cityId": "1234392",
+        "name": "Mullaitivu District",
+        "stateId": "7671049",
+        "latitude": 9.25,
+        "longitude": 80.5499
+    },
+    {
+        "cityId": "1236148",
+        "name": "Mannar District",
+        "stateId": "7671049",
+        "latitude": 8.86667,
+        "longitude": 80.08333
+    },
+    {
+        "cityId": "1240371",
+        "name": "Kilinochchi District",
+        "stateId": "7671049",
+        "latitude": 9.39487,
+        "longitude": 80.40894
+    },
+    {
+        "cityId": "1242831",
+        "name": "Jaffna District",
+        "stateId": "7671049",
+        "latitude": 9.75,
+        "longitude": 80.08333
+    }
+]

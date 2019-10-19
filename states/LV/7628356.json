@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "11352787",
+        "name": "P\u013cavi\u0146as",
+        "stateId": "7628356",
+        "latitude": 56.61837,
+        "longitude": 25.72088
+    },
+    {
+        "cityId": "11352812",
+        "name": "Aiviekstes pagasts",
+        "stateId": "7628356",
+        "latitude": 56.65915,
+        "longitude": 25.79127
+    },
+    {
+        "cityId": "11352813",
+        "name": "Klintaines pagasts",
+        "stateId": "7628356",
+        "latitude": 56.62454,
+        "longitude": 25.59423
+    },
+    {
+        "cityId": "11352814",
+        "name": "Vietalvas pagasts",
+        "stateId": "7628356",
+        "latitude": 56.74166,
+        "longitude": 25.73967
+    }
+]

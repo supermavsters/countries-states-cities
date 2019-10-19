@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2530240",
+        "name": "Tan-Tan",
+        "stateId": "11281884",
+        "latitude": 28.08333,
+        "longitude": -11.08333
+    },
+    {
+        "cityId": "2548525",
+        "name": "Guelmim",
+        "stateId": "11281884",
+        "latitude": 28.75,
+        "longitude": -10
+    },
+    {
+        "cityId": "2595329",
+        "name": "Assa-Zag",
+        "stateId": "11281884",
+        "latitude": 28.16667,
+        "longitude": -9.41667
+    },
+    {
+        "cityId": "11282174",
+        "name": "Sidi Ifni",
+        "stateId": "11281884",
+        "latitude": 29.37719,
+        "longitude": -10.17111
+    }
+]

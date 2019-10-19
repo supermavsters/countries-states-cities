@@ -1,0 +1,254 @@
+[
+    {
+        "cityId": "5712180",
+        "name": "Baker County",
+        "stateId": "5744337",
+        "latitude": 44.70923,
+        "longitude": -117.67534
+    },
+    {
+        "cityId": "5713677",
+        "name": "Benton County",
+        "stateId": "5744337",
+        "latitude": 44.49176,
+        "longitude": -123.42931
+    },
+    {
+        "cityId": "5719297",
+        "name": "Clackamas County",
+        "stateId": "5744337",
+        "latitude": 45.18816,
+        "longitude": -122.22094
+    },
+    {
+        "cityId": "5719408",
+        "name": "Clatsop County",
+        "stateId": "5744337",
+        "latitude": 46.01747,
+        "longitude": -123.71677
+    },
+    {
+        "cityId": "5720173",
+        "name": "Columbia County",
+        "stateId": "5744337",
+        "latitude": 45.94377,
+        "longitude": -123.08805
+    },
+    {
+        "cityId": "5720502",
+        "name": "Coos County",
+        "stateId": "5744337",
+        "latitude": 43.18501,
+        "longitude": -124.09333
+    },
+    {
+        "cityId": "5721611",
+        "name": "Crook County",
+        "stateId": "5744337",
+        "latitude": 44.14219,
+        "longitude": -120.35658
+    },
+    {
+        "cityId": "5721936",
+        "name": "Curry County",
+        "stateId": "5744337",
+        "latitude": 42.46661,
+        "longitude": -124.21534
+    },
+    {
+        "cityId": "5722958",
+        "name": "Deschutes County",
+        "stateId": "5744337",
+        "latitude": 43.91488,
+        "longitude": -121.22789
+    },
+    {
+        "cityId": "5723759",
+        "name": "Douglas County",
+        "stateId": "5744337",
+        "latitude": 43.28536,
+        "longitude": -123.17942
+    },
+    {
+        "cityId": "5728364",
+        "name": "Gilliam County",
+        "stateId": "5744337",
+        "latitude": 45.37806,
+        "longitude": -120.21087
+    },
+    {
+        "cityId": "5729054",
+        "name": "Grant County",
+        "stateId": "5744337",
+        "latitude": 44.49125,
+        "longitude": -119.00738
+    },
+    {
+        "cityId": "5730293",
+        "name": "Harney County",
+        "stateId": "5744337",
+        "latitude": 43.06402,
+        "longitude": -118.96787
+    },
+    {
+        "cityId": "5731767",
+        "name": "Hood River County",
+        "stateId": "5744337",
+        "latitude": 45.51911,
+        "longitude": -121.65111
+    },
+    {
+        "cityId": "5733351",
+        "name": "Jackson County",
+        "stateId": "5744337",
+        "latitude": 42.43215,
+        "longitude": -122.72843
+    },
+    {
+        "cityId": "5733534",
+        "name": "Jefferson County",
+        "stateId": "5744337",
+        "latitude": 44.62941,
+        "longitude": -121.17541
+    },
+    {
+        "cityId": "5734120",
+        "name": "Josephine County",
+        "stateId": "5744337",
+        "latitude": 42.36546,
+        "longitude": -123.55558
+    },
+    {
+        "cityId": "5735237",
+        "name": "Klamath County",
+        "stateId": "5744337",
+        "latitude": 42.68634,
+        "longitude": -121.65013
+    },
+    {
+        "cityId": "5735647",
+        "name": "Lake County",
+        "stateId": "5744337",
+        "latitude": 42.79339,
+        "longitude": -120.38747
+    },
+    {
+        "cityId": "5735869",
+        "name": "Lane County",
+        "stateId": "5744337",
+        "latitude": 43.94155,
+        "longitude": -122.87655
+    },
+    {
+        "cityId": "5736643",
+        "name": "Lincoln County",
+        "stateId": "5744337",
+        "latitude": 44.64568,
+        "longitude": -123.9077
+    },
+    {
+        "cityId": "5736713",
+        "name": "Linn County",
+        "stateId": "5744337",
+        "latitude": 44.48857,
+        "longitude": -122.53419
+    },
+    {
+        "cityId": "5738839",
+        "name": "Malheur County",
+        "stateId": "5744337",
+        "latitude": 43.19341,
+        "longitude": -117.62307
+    },
+    {
+        "cityId": "5739051",
+        "name": "Marion County",
+        "stateId": "5744337",
+        "latitude": 44.90319,
+        "longitude": -122.58473
+    },
+    {
+        "cityId": "5741531",
+        "name": "Morrow County",
+        "stateId": "5744337",
+        "latitude": 45.41883,
+        "longitude": -119.5843
+    },
+    {
+        "cityId": "5742126",
+        "name": "Multnomah County",
+        "stateId": "5744337",
+        "latitude": 45.54687,
+        "longitude": -122.41534
+    },
+    {
+        "cityId": "5746351",
+        "name": "Polk County",
+        "stateId": "5744337",
+        "latitude": 44.90348,
+        "longitude": -123.41337
+    },
+    {
+        "cityId": "5751614",
+        "name": "Sherman County",
+        "stateId": "5744337",
+        "latitude": 45.40521,
+        "longitude": -120.68932
+    },
+    {
+        "cityId": "5756780",
+        "name": "Tillamook County",
+        "stateId": "5744337",
+        "latitude": 45.45645,
+        "longitude": -123.75877
+    },
+    {
+        "cityId": "5758058",
+        "name": "Umatilla County",
+        "stateId": "5744337",
+        "latitude": 45.5919,
+        "longitude": -118.73683
+    },
+    {
+        "cityId": "5758120",
+        "name": "Union County",
+        "stateId": "5744337",
+        "latitude": 45.31035,
+        "longitude": -118.009
+    },
+    {
+        "cityId": "5759046",
+        "name": "Wallowa County",
+        "stateId": "5744337",
+        "latitude": 45.57983,
+        "longitude": -117.18107
+    },
+    {
+        "cityId": "5759298",
+        "name": "Wasco County",
+        "stateId": "5744337",
+        "latitude": 45.16005,
+        "longitude": -121.16815
+    },
+    {
+        "cityId": "5759333",
+        "name": "Washington County",
+        "stateId": "5744337",
+        "latitude": 45.56007,
+        "longitude": -123.09849
+    },
+    {
+        "cityId": "5760229",
+        "name": "Wheeler County",
+        "stateId": "5744337",
+        "latitude": 44.72606,
+        "longitude": -120.02746
+    },
+    {
+        "cityId": "5761960",
+        "name": "Yamhill County",
+        "stateId": "5744337",
+        "latitude": 45.2326,
+        "longitude": -123.30815
+    }
+]

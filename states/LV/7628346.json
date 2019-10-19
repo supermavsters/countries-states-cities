@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352525",
+        "name": "Blontu pagasts",
+        "stateId": "7628346",
+        "latitude": 56.64171,
+        "longitude": 27.85826
+    },
+    {
+        "cityId": "11352526",
+        "name": "Ciblas pagasts",
+        "stateId": "7628346",
+        "latitude": 56.53402,
+        "longitude": 27.91839
+    },
+    {
+        "cityId": "11352527",
+        "name": "L\u012bdumnieku pagasts",
+        "stateId": "7628346",
+        "latitude": 56.57986,
+        "longitude": 28.01384
+    },
+    {
+        "cityId": "11352528",
+        "name": "Pu\u0161mucovas pagasts",
+        "stateId": "7628346",
+        "latitude": 56.64485,
+        "longitude": 27.7228
+    },
+    {
+        "cityId": "11352529",
+        "name": "Zvirgzdenes pagasts",
+        "stateId": "7628346",
+        "latitude": 56.57641,
+        "longitude": 27.71248
+    }
+]

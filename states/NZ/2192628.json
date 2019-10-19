@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "2180177",
+        "name": "Waimate District",
+        "stateId": "2192628",
+        "latitude": -44.75,
+        "longitude": 171.03333
+    },
+    {
+        "cityId": "2181134",
+        "name": "Timaru District",
+        "stateId": "2192628",
+        "latitude": -44.4,
+        "longitude": 171.21667
+    },
+    {
+        "cityId": "2193772",
+        "name": "Ashburton District",
+        "stateId": "2192628",
+        "latitude": -43.9,
+        "longitude": 171.75
+    },
+    {
+        "cityId": "7910036",
+        "name": "Christchurch City",
+        "stateId": "2192628",
+        "latitude": -43.64578,
+        "longitude": 172.74586
+    },
+    {
+        "cityId": "7910044",
+        "name": "Hurunui District",
+        "stateId": "2192628",
+        "latitude": -42.66742,
+        "longitude": 172.6918
+    },
+    {
+        "cityId": "7910046",
+        "name": "Kaikoura District",
+        "stateId": "2192628",
+        "latitude": -42.23641,
+        "longitude": 173.62202
+    },
+    {
+        "cityId": "7910050",
+        "name": "Mackenzie District",
+        "stateId": "2192628",
+        "latitude": -43.93987,
+        "longitude": 170.51913
+    },
+    {
+        "cityId": "7910060",
+        "name": "Selwyn District",
+        "stateId": "2192628",
+        "latitude": -43.32226,
+        "longitude": 171.87064
+    },
+    {
+        "cityId": "7910069",
+        "name": "Waimakariri District",
+        "stateId": "2192628",
+        "latitude": -43.2075,
+        "longitude": 172.33286
+    },
+    {
+        "cityId": "11694798",
+        "name": "Waitaki District",
+        "stateId": "2192628",
+        "latitude": -44.95994,
+        "longitude": 170.5545
+    }
+]

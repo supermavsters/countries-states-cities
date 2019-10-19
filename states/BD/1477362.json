@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1337188",
+        "name": "Sunamganj",
+        "stateId": "1477362",
+        "latitude": 24.86667,
+        "longitude": 91.41667
+    },
+    {
+        "cityId": "1337189",
+        "name": "Sylhet",
+        "stateId": "1477362",
+        "latitude": 24.91667,
+        "longitude": 91.76667
+    },
+    {
+        "cityId": "1337190",
+        "name": "Maulvibazar",
+        "stateId": "1477362",
+        "latitude": 24.5,
+        "longitude": 91.83333
+    },
+    {
+        "cityId": "1337191",
+        "name": "Habiganj",
+        "stateId": "1477362",
+        "latitude": 24.43333,
+        "longitude": 91.41667
+    }
+]

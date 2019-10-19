@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "169303",
+        "name": "Jableh District",
+        "stateId": "173578",
+        "latitude": 35.29048,
+        "longitude": 36.0449
+    },
+    {
+        "cityId": "173365",
+        "name": "Qardaha District",
+        "stateId": "173578",
+        "latitude": 35.39593,
+        "longitude": 36.08603
+    },
+    {
+        "cityId": "173577",
+        "name": "Latakia District",
+        "stateId": "173578",
+        "latitude": 35.72426,
+        "longitude": 35.9415
+    },
+    {
+        "cityId": "173857",
+        "name": "Al-Haffah District",
+        "stateId": "173578",
+        "latitude": 35.59687,
+        "longitude": 36.11198
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "2659702",
+        "name": "Bezirk Meilen",
+        "stateId": "2657895",
+        "latitude": 47.2792,
+        "longitude": 8.66259
+    },
+    {
+        "cityId": "2661751",
+        "name": "Bezirk Andelfingen",
+        "stateId": "2657895",
+        "latitude": 47.61328,
+        "longitude": 8.68124
+    },
+    {
+        "cityId": "6458751",
+        "name": "Bezirk Uster",
+        "stateId": "2657895",
+        "latitude": 47.34952,
+        "longitude": 8.71353
+    },
+    {
+        "cityId": "6458760",
+        "name": "Bezirk Dietikon",
+        "stateId": "2657895",
+        "latitude": 47.38804,
+        "longitude": 8.4426
+    },
+    {
+        "cityId": "6458797",
+        "name": "Bezirk Hinwil",
+        "stateId": "2657895",
+        "latitude": 47.29646,
+        "longitude": 8.83431
+    },
+    {
+        "cityId": "6458798",
+        "name": "Bezirk Z\u00fcrich",
+        "stateId": "2657895",
+        "latitude": 47.3711,
+        "longitude": 8.54323
+    },
+    {
+        "cityId": "6458808",
+        "name": "Bezirk Winterthur",
+        "stateId": "2657895",
+        "latitude": 47.50781,
+        "longitude": 8.769
+    },
+    {
+        "cityId": "6458818",
+        "name": "Bezirk Affoltern",
+        "stateId": "2657895",
+        "latitude": 47.27311,
+        "longitude": 8.47444
+    },
+    {
+        "cityId": "6458847",
+        "name": "Bezirk Horgen",
+        "stateId": "2657895",
+        "latitude": 47.25767,
+        "longitude": 8.59702
+    },
+    {
+        "cityId": "6458852",
+        "name": "Bezirk Pf\u00e4ffikon",
+        "stateId": "2657895",
+        "latitude": 47.40905,
+        "longitude": 8.77208
+    },
+    {
+        "cityId": "6458865",
+        "name": "Bezirk Dielsdorf",
+        "stateId": "2657895",
+        "latitude": 47.47181,
+        "longitude": 8.45631
+    },
+    {
+        "cityId": "6458867",
+        "name": "Bezirk B\u00fclach",
+        "stateId": "2657895",
+        "latitude": 47.49706,
+        "longitude": 8.56764
+    }
+]

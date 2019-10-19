@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3573589",
+        "name": "Ward of Trinity",
+        "stateId": "3574155",
+        "latitude": 10.19185,
+        "longitude": -61.15494
+    },
+    {
+        "cityId": "3574434",
+        "name": "Ward of Guayaguayare",
+        "stateId": "3574155",
+        "latitude": 10.2,
+        "longitude": -61.05
+    },
+    {
+        "cityId": "3574768",
+        "name": "Ward of Cocal",
+        "stateId": "3574155",
+        "latitude": 10.36667,
+        "longitude": -61.08333
+    },
+    {
+        "cityId": "3574796",
+        "name": "Ward of Charuma",
+        "stateId": "3574155",
+        "latitude": 10.38333,
+        "longitude": -61.2
+    }
+]

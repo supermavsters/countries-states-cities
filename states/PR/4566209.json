@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "7268303",
+        "name": "Calzada Barrio",
+        "stateId": "4566209",
+        "latitude": 17.9937,
+        "longitude": -65.9141
+    },
+    {
+        "cityId": "7268370",
+        "name": "Emajagua Barrio",
+        "stateId": "4566209",
+        "latitude": 18.00483,
+        "longitude": -65.87669
+    },
+    {
+        "cityId": "7268563",
+        "name": "Lizas Barrio",
+        "stateId": "4566209",
+        "latitude": 18.02167,
+        "longitude": -65.9388
+    },
+    {
+        "cityId": "7268640",
+        "name": "Matuyas Alto Barrio",
+        "stateId": "4566209",
+        "latitude": 18.04331,
+        "longitude": -65.9703
+    },
+    {
+        "cityId": "7268641",
+        "name": "Matuyas Bajo Barrio",
+        "stateId": "4566209",
+        "latitude": 18.03338,
+        "longitude": -65.94748
+    },
+    {
+        "cityId": "7268642",
+        "name": "Maunabo Barrio-Pueblo",
+        "stateId": "4566209",
+        "latitude": 18.00782,
+        "longitude": -65.90071
+    },
+    {
+        "cityId": "7268727",
+        "name": "Palo Seco Barrio",
+        "stateId": "4566209",
+        "latitude": 18.00407,
+        "longitude": -65.93795
+    },
+    {
+        "cityId": "7268841",
+        "name": "Quebrada Arenas Barrio",
+        "stateId": "4566209",
+        "latitude": 18.02182,
+        "longitude": -65.89323
+    },
+    {
+        "cityId": "7269022",
+        "name": "Talante Barrio",
+        "stateId": "4566209",
+        "latitude": 18.01908,
+        "longitude": -65.90819
+    },
+    {
+        "cityId": "7269433",
+        "name": "Tumbao Barrio",
+        "stateId": "4566209",
+        "latitude": 18.02079,
+        "longitude": -65.92119
+    }
+]

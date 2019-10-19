@@ -1,0 +1,135 @@
+[
+    {
+        "stateId": "2593109",
+        "name": "Andaluc\u00eda",
+        "countryId": "2510769",
+        "latitude": 37.6,
+        "longitude": -4.5
+    },
+    {
+        "stateId": "3336899",
+        "name": "Aragon",
+        "countryId": "2510769",
+        "latitude": 41.5,
+        "longitude": -0.66667
+    },
+    {
+        "stateId": "2593110",
+        "name": "Canary Islands",
+        "countryId": "2510769",
+        "latitude": 28,
+        "longitude": -15.5
+    },
+    {
+        "stateId": "3336898",
+        "name": "Cantabria",
+        "countryId": "2510769",
+        "latitude": 43.2,
+        "longitude": -4.03333
+    },
+    {
+        "stateId": "3336900",
+        "name": "Castilla y Le\u00f3n",
+        "countryId": "2510769",
+        "latitude": 41.66667,
+        "longitude": -4.25
+    },
+    {
+        "stateId": "2593111",
+        "name": "Castilla-La Mancha",
+        "countryId": "2510769",
+        "latitude": 39.5,
+        "longitude": -3
+    },
+    {
+        "stateId": "3336901",
+        "name": "Catalunya",
+        "countryId": "2510769",
+        "latitude": 41.82046,
+        "longitude": 1.86768
+    },
+    {
+        "stateId": "2519582",
+        "name": "Ceuta",
+        "countryId": "2510769",
+        "latitude": 35.89028,
+        "longitude": -5.3075
+    },
+    {
+        "stateId": "3117732",
+        "name": "Comunidad de Madrid",
+        "countryId": "2510769",
+        "latitude": 40.42526,
+        "longitude": -3.69063
+    },
+    {
+        "stateId": "2521383",
+        "name": "Comunitat Aut\u00f2noma de les Illes Balears",
+        "countryId": "2510769",
+        "latitude": 39.58876,
+        "longitude": 2.90314
+    },
+    {
+        "stateId": "2593113",
+        "name": "Comunitat Valenciana",
+        "countryId": "2510769",
+        "latitude": 39.5,
+        "longitude": -0.75
+    },
+    {
+        "stateId": "3336903",
+        "name": "Euskal Autonomia Erkidegoa",
+        "countryId": "2510769",
+        "latitude": 43,
+        "longitude": -2.75
+    },
+    {
+        "stateId": "2593112",
+        "name": "Extremadura",
+        "countryId": "2510769",
+        "latitude": 39.16667,
+        "longitude": -6.16667
+    },
+    {
+        "stateId": "3336902",
+        "name": "Galicia",
+        "countryId": "2510769",
+        "latitude": 42.75508,
+        "longitude": -7.86621
+    },
+    {
+        "stateId": "3336897",
+        "name": "La Rioja",
+        "countryId": "2510769",
+        "latitude": 42.3,
+        "longitude": -2.5
+    },
+    {
+        "stateId": "6362988",
+        "name": "Melilla",
+        "countryId": "2510769",
+        "latitude": 35.29215,
+        "longitude": -2.94434
+    },
+    {
+        "stateId": "3115609",
+        "name": "Navarra",
+        "countryId": "2510769",
+        "latitude": 42.75,
+        "longitude": -1.66667
+    },
+    {
+        "stateId": "3114710",
+        "name": "Principality of Asturias",
+        "countryId": "2510769",
+        "latitude": 43.33333,
+        "longitude": -6
+    },
+    {
+        "stateId": "2513413",
+        "name": "Regi\u00f3n de Murcia",
+        "countryId": "2510769",
+        "latitude": 38,
+        "longitude": -1.5
+    }
+]

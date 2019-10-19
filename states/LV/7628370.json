@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "11352845",
+        "name": "R\u016bjiena",
+        "stateId": "7628370",
+        "latitude": 57.89408,
+        "longitude": 25.33693
+    },
+    {
+        "cityId": "11352846",
+        "name": "Lodes pagasts",
+        "stateId": "7628370",
+        "latitude": 58.01685,
+        "longitude": 25.3583
+    },
+    {
+        "cityId": "11352870",
+        "name": "Jeru pagasts",
+        "stateId": "7628370",
+        "latitude": 57.8374,
+        "longitude": 25.33783
+    },
+    {
+        "cityId": "11352877",
+        "name": "Ipi\u0137u pagasts",
+        "stateId": "7628370",
+        "latitude": 58.03144,
+        "longitude": 25.16454
+    },
+    {
+        "cityId": "11352878",
+        "name": "Vilpulkas pagasts",
+        "stateId": "7628370",
+        "latitude": 57.95149,
+        "longitude": 25.21845
+    }
+]

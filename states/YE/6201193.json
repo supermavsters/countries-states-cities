@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "6940633",
+        "name": "Al Husha",
+        "stateId": "6201193",
+        "latitude": 13.7495,
+        "longitude": 44.4685
+    },
+    {
+        "cityId": "6940634",
+        "name": "Qa'atabah",
+        "stateId": "6201193",
+        "latitude": 13.9298,
+        "longitude": 44.6277
+    },
+    {
+        "cityId": "6940875",
+        "name": "Ad Dhale'e",
+        "stateId": "6201193",
+        "latitude": 13.71403,
+        "longitude": 44.71445
+    },
+    {
+        "cityId": "6940876",
+        "name": "Al Hussein",
+        "stateId": "6201193",
+        "latitude": 13.789,
+        "longitude": 44.8284
+    },
+    {
+        "cityId": "6940877",
+        "name": "Jahaf",
+        "stateId": "6201193",
+        "latitude": 13.7257,
+        "longitude": 44.6576
+    },
+    {
+        "cityId": "6940878",
+        "name": "Damt",
+        "stateId": "6201193",
+        "latitude": 14.1021,
+        "longitude": 44.6788
+    },
+    {
+        "cityId": "6940879",
+        "name": "Al Azariq",
+        "stateId": "6201193",
+        "latitude": 13.6468,
+        "longitude": 44.637
+    },
+    {
+        "cityId": "6940880",
+        "name": "Juban",
+        "stateId": "6201193",
+        "latitude": 14.05,
+        "longitude": 44.9636
+    },
+    {
+        "cityId": "6940881",
+        "name": "Ash Shu'ayb",
+        "stateId": "6201193",
+        "latitude": 13.8347,
+        "longitude": 44.9654
+    }
+]

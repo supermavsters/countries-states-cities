@@ -1,0 +1,184 @@
+[
+    {
+        "cityId": "7732081",
+        "name": "Alt\u0131nda\u011f",
+        "stateId": "323784",
+        "latitude": 40.0011,
+        "longitude": 32.97022
+    },
+    {
+        "cityId": "7732084",
+        "name": "\u00c7ankaya",
+        "stateId": "323784",
+        "latitude": 39.86093,
+        "longitude": 32.84176
+    },
+    {
+        "cityId": "7732107",
+        "name": "G\u00f6lba\u015f\u0131",
+        "stateId": "323784",
+        "latitude": 39.80748,
+        "longitude": 32.79419
+    },
+    {
+        "cityId": "7732167",
+        "name": "Kahramankazan",
+        "stateId": "323784",
+        "latitude": 40.16502,
+        "longitude": 32.63904
+    },
+    {
+        "cityId": "7732180",
+        "name": "Polatl\u0131",
+        "stateId": "323784",
+        "latitude": 39.47995,
+        "longitude": 32.15507
+    },
+    {
+        "cityId": "7732181",
+        "name": "Sincan \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.95943,
+        "longitude": 32.49567
+    },
+    {
+        "cityId": "7732184",
+        "name": "Yenimahalle",
+        "stateId": "323784",
+        "latitude": 39.99043,
+        "longitude": 32.69555
+    },
+    {
+        "cityId": "7733221",
+        "name": "Ke\u00e7i\u00f6ren",
+        "stateId": "323784",
+        "latitude": 40.02106,
+        "longitude": 32.83102
+    },
+    {
+        "cityId": "7910611",
+        "name": "Beypazari",
+        "stateId": "323784",
+        "latitude": 40.14695,
+        "longitude": 31.91911
+    },
+    {
+        "cityId": "8632037",
+        "name": "Evren \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.03001,
+        "longitude": 33.79767
+    },
+    {
+        "cityId": "8632039",
+        "name": "Elmada\u011f \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.93117,
+        "longitude": 33.23812
+    },
+    {
+        "cityId": "8632041",
+        "name": "Kalecik \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.10634,
+        "longitude": 33.41973
+    },
+    {
+        "cityId": "8632043",
+        "name": "Akyurt \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.1414,
+        "longitude": 33.09743
+    },
+    {
+        "cityId": "8632045",
+        "name": "\u00c7ubuk \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.23985,
+        "longitude": 33.04706
+    },
+    {
+        "cityId": "8632046",
+        "name": "Mamak \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.94587,
+        "longitude": 32.90811
+    },
+    {
+        "cityId": "8632047",
+        "name": "Bala \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.56374,
+        "longitude": 33.12962
+    },
+    {
+        "cityId": "8632050",
+        "name": "\u015eerefliko\u00e7hisar \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 38.9545,
+        "longitude": 33.54801
+    },
+    {
+        "cityId": "8632052",
+        "name": "Nall\u0131han \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.19436,
+        "longitude": 31.36316
+    },
+    {
+        "cityId": "8632056",
+        "name": "G\u00fcd\u00fcl \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.21954,
+        "longitude": 32.24885
+    },
+    {
+        "cityId": "8632057",
+        "name": "Haymana \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.44015,
+        "longitude": 32.48852
+    },
+    {
+        "cityId": "8632058",
+        "name": "Etimesgut \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 39.96335,
+        "longitude": 32.63744
+    },
+    {
+        "cityId": "8632061",
+        "name": "Aya\u015f \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.02484,
+        "longitude": 32.34089
+    },
+    {
+        "cityId": "8632062",
+        "name": "\u00c7aml\u0131dere \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.49994,
+        "longitude": 32.47986
+    },
+    {
+        "cityId": "8632063",
+        "name": "K\u0131z\u0131lcahamam \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.48011,
+        "longitude": 32.65546
+    },
+    {
+        "cityId": "9551354",
+        "name": "Pursaklar",
+        "stateId": "323784",
+        "latitude": 40.03961,
+        "longitude": 32.90139
+    },
+    {
+        "cityId": "11791803",
+        "name": "Kazan \u0130l\u00e7esi",
+        "stateId": "323784",
+        "latitude": 40.24166,
+        "longitude": 32.69141
+    }
+]

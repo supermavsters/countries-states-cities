@@ -1,0 +1,86 @@
+[
+    {
+        "cityId": "3626698",
+        "name": "Municipio Sosa",
+        "stateId": "3648544",
+        "latitude": 8.09475,
+        "longitude": -69.30828
+    },
+    {
+        "cityId": "3628998",
+        "name": "Municipio Rojas",
+        "stateId": "3648544",
+        "latitude": 8.32463,
+        "longitude": -69.63006
+    },
+    {
+        "cityId": "3630482",
+        "name": "Municipio Pedraza",
+        "stateId": "3648544",
+        "latitude": 8.35325,
+        "longitude": -70.56982
+    },
+    {
+        "cityId": "3631430",
+        "name": "Municipio Obispos",
+        "stateId": "3648544",
+        "latitude": 8.60614,
+        "longitude": -70.10445
+    },
+    {
+        "cityId": "3640879",
+        "name": "Municipio Ezequiel Zamora",
+        "stateId": "3648544",
+        "latitude": 7.81287,
+        "longitude": -71.1763
+    },
+    {
+        "cityId": "3648112",
+        "name": "Municipio Bol\u00edvar",
+        "stateId": "3648544",
+        "latitude": 8.75988,
+        "longitude": -70.41447
+    },
+    {
+        "cityId": "3648545",
+        "name": "Municipio Barinas",
+        "stateId": "3648544",
+        "latitude": 8.61497,
+        "longitude": -70.19852
+    },
+    {
+        "cityId": "3648883",
+        "name": "Municipio Arismendi",
+        "stateId": "3648544",
+        "latitude": 8.47594,
+        "longitude": -68.36895
+    },
+    {
+        "cityId": "8129150",
+        "name": "Municipio Andr\u00e9s Eloy Blanco",
+        "stateId": "3648544",
+        "latitude": 7.47729,
+        "longitude": -71.2956
+    },
+    {
+        "cityId": "8129159",
+        "name": "Municipio Antonio Jos\u00e9 de Sucre",
+        "stateId": "3648544",
+        "latitude": 8.23062,
+        "longitude": -70.82198
+    },
+    {
+        "cityId": "8129229",
+        "name": "Municipio Alberto Arvelo Torrealba",
+        "stateId": "3648544",
+        "latitude": 8.75326,
+        "longitude": -69.93516
+    },
+    {
+        "cityId": "8129254",
+        "name": "Municipio Cruz Paredes",
+        "stateId": "3648544",
+        "latitude": 8.76868,
+        "longitude": -70.1122
+    }
+]

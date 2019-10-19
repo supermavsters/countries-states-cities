@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "864514",
+        "name": "Utena",
+        "stateId": "864484",
+        "latitude": 55.5,
+        "longitude": 25.6
+    },
+    {
+        "cityId": "864515",
+        "name": "Visaginas",
+        "stateId": "864484",
+        "latitude": 55.6,
+        "longitude": 26.41667
+    },
+    {
+        "cityId": "864516",
+        "name": "Anyk\u0161\u010diai",
+        "stateId": "864484",
+        "latitude": 55.53333,
+        "longitude": 25.1
+    },
+    {
+        "cityId": "864517",
+        "name": "Ignalina",
+        "stateId": "864484",
+        "latitude": 55.35,
+        "longitude": 26.16667
+    },
+    {
+        "cityId": "864518",
+        "name": "Moletai",
+        "stateId": "864484",
+        "latitude": 55.23333,
+        "longitude": 25.41667
+    },
+    {
+        "cityId": "864519",
+        "name": "Zarasai",
+        "stateId": "864484",
+        "latitude": 55.73333,
+        "longitude": 26.25
+    }
+]

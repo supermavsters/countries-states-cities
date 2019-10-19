@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "479105",
+        "name": "Ulyanovskiy Rayon",
+        "stateId": "479119",
+        "latitude": 54.33528,
+        "longitude": 48.01694
+    },
+    {
+        "cityId": "480881",
+        "name": "Tsil\u2019ninskiy Rayon",
+        "stateId": "479119",
+        "latitude": 54.58333,
+        "longitude": 48
+    },
+    {
+        "cityId": "483428",
+        "name": "Teren\u2019gul\u2019skiy Rayon",
+        "stateId": "479119",
+        "latitude": 53.75,
+        "longitude": 48.25
+    },
+    {
+        "cityId": "488775",
+        "name": "Starokulatkinskiy Rayon",
+        "stateId": "479119",
+        "latitude": 52.75,
+        "longitude": 47.5
+    },
+    {
+        "cityId": "512019",
+        "name": "Pavlovskiy Rayon",
+        "stateId": "479119",
+        "latitude": 52.66667,
+        "longitude": 47.08333
+    },
+    {
+        "cityId": "528271",
+        "name": "Maynskiy Rayon",
+        "stateId": "479119",
+        "latitude": 54.16667,
+        "longitude": 47.66667
+    },
+    {
+        "cityId": "552131",
+        "name": "Karsunskiy Rayon",
+        "stateId": "479119",
+        "latitude": 54.25,
+        "longitude": 46.91667
+    },
+    {
+        "cityId": "569361",
+        "name": "Cherdaklinskiy Rayon",
+        "stateId": "479119",
+        "latitude": 54.25,
+        "longitude": 48.83333
+    }
+]

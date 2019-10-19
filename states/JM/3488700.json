@@ -1,0 +1,513 @@
+[
+    {
+        "cityId": "11494909",
+        "name": "Retrieve",
+        "stateId": "3488700",
+        "latitude": 18.28901,
+        "longitude": -77.90081
+    },
+    {
+        "cityId": "11494910",
+        "name": "Stonehenge",
+        "stateId": "3488700",
+        "latitude": 18.24231,
+        "longitude": -77.85042
+    },
+    {
+        "cityId": "11494926",
+        "name": "Norwood",
+        "stateId": "3488700",
+        "latitude": 18.49217,
+        "longitude": -77.88634
+    },
+    {
+        "cityId": "11494935",
+        "name": "Dumfries",
+        "stateId": "3488700",
+        "latitude": 18.42973,
+        "longitude": -77.75593
+    },
+    {
+        "cityId": "11495091",
+        "name": "Flankers",
+        "stateId": "3488700",
+        "latitude": 18.50265,
+        "longitude": -77.90831
+    },
+    {
+        "cityId": "11495092",
+        "name": "Flower Hill",
+        "stateId": "3488700",
+        "latitude": 18.48426,
+        "longitude": -77.83913
+    },
+    {
+        "cityId": "11495093",
+        "name": "Orange",
+        "stateId": "3488700",
+        "latitude": 18.45395,
+        "longitude": -77.82779
+    },
+    {
+        "cityId": "11495094",
+        "name": "Porto Bello",
+        "stateId": "3488700",
+        "latitude": 18.46607,
+        "longitude": -77.86989
+    },
+    {
+        "cityId": "11495095",
+        "name": "Mount Salem",
+        "stateId": "3488700",
+        "latitude": 18.46601,
+        "longitude": -77.90793
+    },
+    {
+        "cityId": "11495096",
+        "name": "Rose Mount Garden",
+        "stateId": "3488700",
+        "latitude": 18.46394,
+        "longitude": -77.89397
+    },
+    {
+        "cityId": "11495097",
+        "name": "John's Hall",
+        "stateId": "3488700",
+        "latitude": 18.42849,
+        "longitude": -77.8501
+    },
+    {
+        "cityId": "11495098",
+        "name": "Bogue",
+        "stateId": "3488700",
+        "latitude": 18.43722,
+        "longitude": -77.92022
+    },
+    {
+        "cityId": "11495099",
+        "name": "Catherine Mount",
+        "stateId": "3488700",
+        "latitude": 18.45672,
+        "longitude": -77.89691
+    },
+    {
+        "cityId": "11495105",
+        "name": "Sunderland",
+        "stateId": "3488700",
+        "latitude": 18.39794,
+        "longitude": -77.82734
+    },
+    {
+        "cityId": "11495106",
+        "name": "Mount Horeb",
+        "stateId": "3488700",
+        "latitude": 18.33322,
+        "longitude": -77.86675
+    },
+    {
+        "cityId": "11495107",
+        "name": "Cambridge",
+        "stateId": "3488700",
+        "latitude": 18.31308,
+        "longitude": -77.89546
+    },
+    {
+        "cityId": "11495108",
+        "name": "Catadupa",
+        "stateId": "3488700",
+        "latitude": 18.28052,
+        "longitude": -77.86579
+    },
+    {
+        "cityId": "11495109",
+        "name": "Paradise",
+        "stateId": "3488700",
+        "latitude": 18.49401,
+        "longitude": -77.90982
+    },
+    {
+        "cityId": "11495130",
+        "name": "Tucker",
+        "stateId": "3488700",
+        "latitude": 18.449,
+        "longitude": -77.89438
+    },
+    {
+        "cityId": "11495240",
+        "name": "Tower Hill\/Moy Hall",
+        "stateId": "3488700",
+        "latitude": 18.44044,
+        "longitude": -77.96022
+    },
+    {
+        "cityId": "11495245",
+        "name": "Arcadia",
+        "stateId": "3488700",
+        "latitude": 18.24993,
+        "longitude": -77.79228
+    },
+    {
+        "cityId": "11495248",
+        "name": "Glendevon",
+        "stateId": "3488700",
+        "latitude": 18.48488,
+        "longitude": -77.8971
+    },
+    {
+        "cityId": "11495358",
+        "name": "Adelphi",
+        "stateId": "3488700",
+        "latitude": 18.4506,
+        "longitude": -77.7859
+    },
+    {
+        "cityId": "11495361",
+        "name": "Albion",
+        "stateId": "3488700",
+        "latitude": 18.48471,
+        "longitude": -77.91408
+    },
+    {
+        "cityId": "11495370",
+        "name": "Anchovy",
+        "stateId": "3488700",
+        "latitude": 18.41198,
+        "longitude": -77.95046
+    },
+    {
+        "cityId": "11495371",
+        "name": "Barrett Town",
+        "stateId": "3488700",
+        "latitude": 18.50871,
+        "longitude": -77.79625
+    },
+    {
+        "cityId": "11495386",
+        "name": "Bickersteth",
+        "stateId": "3488700",
+        "latitude": 18.36335,
+        "longitude": -77.93651
+    },
+    {
+        "cityId": "11495392",
+        "name": "Brandon Hill",
+        "stateId": "3488700",
+        "latitude": 18.47767,
+        "longitude": -77.91117
+    },
+    {
+        "cityId": "11495400",
+        "name": "Catherine Hall",
+        "stateId": "3488700",
+        "latitude": 18.46258,
+        "longitude": -77.92286
+    },
+    {
+        "cityId": "11495402",
+        "name": "Canterbury",
+        "stateId": "3488700",
+        "latitude": 18.47919,
+        "longitude": -77.91655
+    },
+    {
+        "cityId": "11495412",
+        "name": "Comfort Hall",
+        "stateId": "3488700",
+        "latitude": 18.4127,
+        "longitude": -77.91814
+    },
+    {
+        "cityId": "11495416",
+        "name": "Cornwall",
+        "stateId": "3488700",
+        "latitude": 18.4893,
+        "longitude": -77.81016
+    },
+    {
+        "cityId": "11495425",
+        "name": "Coral Gardens",
+        "stateId": "3488700",
+        "latitude": 18.50791,
+        "longitude": -77.88034
+    },
+    {
+        "cityId": "11495445",
+        "name": "Down Town Montego Bay",
+        "stateId": "3488700",
+        "latitude": 18.47726,
+        "longitude": -77.92031
+    },
+    {
+        "cityId": "11495455",
+        "name": "Lottery",
+        "stateId": "3488700",
+        "latitude": 18.41499,
+        "longitude": -77.80696
+    },
+    {
+        "cityId": "11495457",
+        "name": "Fairfield",
+        "stateId": "3488700",
+        "latitude": 18.45079,
+        "longitude": -77.91235
+    },
+    {
+        "cityId": "11495459",
+        "name": "Farm Heights",
+        "stateId": "3488700",
+        "latitude": 18.46869,
+        "longitude": -77.8776
+    },
+    {
+        "cityId": "11495460",
+        "name": "Flagstaff",
+        "stateId": "3488700",
+        "latitude": 18.35412,
+        "longitude": -77.77132
+    },
+    {
+        "cityId": "11495461",
+        "name": "Flamstead",
+        "stateId": "3488700",
+        "latitude": 18.31409,
+        "longitude": -77.81316
+    },
+    {
+        "cityId": "11495463",
+        "name": "Garlands",
+        "stateId": "3488700",
+        "latitude": 18.27811,
+        "longitude": -77.78908
+    },
+    {
+        "cityId": "11495468",
+        "name": "Friendship",
+        "stateId": "3488700",
+        "latitude": 18.4459,
+        "longitude": -77.86242
+    },
+    {
+        "cityId": "11495476",
+        "name": "Granville",
+        "stateId": "3488700",
+        "latitude": 18.44191,
+        "longitude": -77.89402
+    },
+    {
+        "cityId": "11495477",
+        "name": "Goodwill",
+        "stateId": "3488700",
+        "latitude": 18.4695,
+        "longitude": -77.75646
+    },
+    {
+        "cityId": "11495482",
+        "name": "Green Pond",
+        "stateId": "3488700",
+        "latitude": 18.47361,
+        "longitude": -77.87779
+    },
+    {
+        "cityId": "11495483",
+        "name": "Greenwood",
+        "stateId": "3488700",
+        "latitude": 18.49768,
+        "longitude": -77.75243
+    },
+    {
+        "cityId": "11495499",
+        "name": "Hopeton",
+        "stateId": "3488700",
+        "latitude": 18.39858,
+        "longitude": -77.86826
+    },
+    {
+        "cityId": "11495505",
+        "name": "Ironshore",
+        "stateId": "3488700",
+        "latitude": 18.51323,
+        "longitude": -77.85108
+    },
+    {
+        "cityId": "11495506",
+        "name": "Irwin",
+        "stateId": "3488700",
+        "latitude": 18.44949,
+        "longitude": -77.87722
+    },
+    {
+        "cityId": "11495525",
+        "name": "Lilliput",
+        "stateId": "3488700",
+        "latitude": 18.50591,
+        "longitude": -77.77686
+    },
+    {
+        "cityId": "11495539",
+        "name": "Maldon",
+        "stateId": "3488700",
+        "latitude": 18.33831,
+        "longitude": -77.80998
+    },
+    {
+        "cityId": "11495546",
+        "name": "Maroon Town",
+        "stateId": "3488700",
+        "latitude": 18.35626,
+        "longitude": -77.79699
+    },
+    {
+        "cityId": "11495556",
+        "name": "Mocho",
+        "stateId": "3488700",
+        "latitude": 18.29135,
+        "longitude": -77.8258
+    },
+    {
+        "cityId": "11495557",
+        "name": "Niagara",
+        "stateId": "3488700",
+        "latitude": 18.26534,
+        "longitude": -77.81879
+    },
+    {
+        "cityId": "11495560",
+        "name": "Montego Hill",
+        "stateId": "3488700",
+        "latitude": 18.48038,
+        "longitude": -77.8815
+    },
+    {
+        "cityId": "11495561",
+        "name": "Montpelier",
+        "stateId": "3488700",
+        "latitude": 18.37612,
+        "longitude": -77.91357
+    },
+    {
+        "cityId": "11495563",
+        "name": "Mount Carey",
+        "stateId": "3488700",
+        "latitude": 18.38888,
+        "longitude": -77.94374
+    },
+    {
+        "cityId": "11495588",
+        "name": "Reading",
+        "stateId": "3488700",
+        "latitude": 18.43723,
+        "longitude": -77.9473
+    },
+    {
+        "cityId": "11495610",
+        "name": "Retirement",
+        "stateId": "3488700",
+        "latitude": 18.43742,
+        "longitude": -77.88004
+    },
+    {
+        "cityId": "11495620",
+        "name": "Roehampton",
+        "stateId": "3488700",
+        "latitude": 18.39897,
+        "longitude": -77.89926
+    },
+    {
+        "cityId": "11495621",
+        "name": "Rose Hall",
+        "stateId": "3488700",
+        "latitude": 18.51228,
+        "longitude": -77.81833
+    },
+    {
+        "cityId": "11495624",
+        "name": "Rose Heights",
+        "stateId": "3488700",
+        "latitude": 18.46945,
+        "longitude": -77.89533
+    },
+    {
+        "cityId": "11495626",
+        "name": "Rosemount",
+        "stateId": "3488700",
+        "latitude": 18.47484,
+        "longitude": -77.89216
+    },
+    {
+        "cityId": "11495629",
+        "name": "Salt Spring",
+        "stateId": "3488700",
+        "latitude": 18.48687,
+        "longitude": -77.86554
+    },
+    {
+        "cityId": "11495638",
+        "name": "Seven Rivers",
+        "stateId": "3488700",
+        "latitude": 18.34702,
+        "longitude": -77.91378
+    },
+    {
+        "cityId": "11495643",
+        "name": "Somerton",
+        "stateId": "3488700",
+        "latitude": 18.40496,
+        "longitude": -77.77071
+    },
+    {
+        "cityId": "11495646",
+        "name": "Spot Valley",
+        "stateId": "3488700",
+        "latitude": 18.47869,
+        "longitude": -77.79106
+    },
+    {
+        "cityId": "11495661",
+        "name": "Summer Hill",
+        "stateId": "3488700",
+        "latitude": 18.3736,
+        "longitude": -77.7935
+    },
+    {
+        "cityId": "11495664",
+        "name": "Tangle River",
+        "stateId": "3488700",
+        "latitude": 18.34337,
+        "longitude": -77.83621
+    },
+    {
+        "cityId": "11495671",
+        "name": "Unity Hall",
+        "stateId": "3488700",
+        "latitude": 18.43304,
+        "longitude": -77.97684
+    },
+    {
+        "cityId": "11495677",
+        "name": "Vaughnsfield",
+        "stateId": "3488700",
+        "latitude": 18.32135,
+        "longitude": -77.78051
+    },
+    {
+        "cityId": "11495683",
+        "name": "West Green",
+        "stateId": "3488700",
+        "latitude": 18.46244,
+        "longitude": -77.91757
+    },
+    {
+        "cityId": "11495684",
+        "name": "Welcome Hall",
+        "stateId": "3488700",
+        "latitude": 18.36898,
+        "longitude": -77.83673
+    },
+    {
+        "cityId": "11495710",
+        "name": "Pitfour",
+        "stateId": "3488700",
+        "latitude": 18.43206,
+        "longitude": -77.89007
+    }
+]

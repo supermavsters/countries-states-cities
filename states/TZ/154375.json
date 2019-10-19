@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "150412",
+        "name": "Rungwe",
+        "stateId": "154375",
+        "latitude": -9.2355,
+        "longitude": 33.69034
+    },
+    {
+        "cityId": "154331",
+        "name": "Mbozi",
+        "stateId": "154375",
+        "latitude": -8.94565,
+        "longitude": 32.92613
+    },
+    {
+        "cityId": "154379",
+        "name": "Mbeya",
+        "stateId": "154375",
+        "latitude": -8.96167,
+        "longitude": 33.35659
+    },
+    {
+        "cityId": "156110",
+        "name": "Kyela",
+        "stateId": "154375",
+        "latitude": -9.54693,
+        "longitude": 33.86956
+    },
+    {
+        "cityId": "159221",
+        "name": "Ileje",
+        "stateId": "154375",
+        "latitude": -9.41667,
+        "longitude": 33.33333
+    },
+    {
+        "cityId": "160321",
+        "name": "Chunya",
+        "stateId": "154375",
+        "latitude": -7.7678,
+        "longitude": 33.16417
+    },
+    {
+        "cityId": "7647511",
+        "name": "Mbarali district",
+        "stateId": "154375",
+        "latitude": -8.59188,
+        "longitude": 34.13452
+    },
+    {
+        "cityId": "9998150",
+        "name": "Mbeya City",
+        "stateId": "154375",
+        "latitude": -8.89359,
+        "longitude": 33.47617
+    },
+    {
+        "cityId": "9998151",
+        "name": "Momba",
+        "stateId": "154375",
+        "latitude": -8.8118,
+        "longitude": 32.36323
+    },
+    {
+        "cityId": "9998152",
+        "name": "Tunduma",
+        "stateId": "154375",
+        "latitude": -9.29887,
+        "longitude": 32.7989
+    }
+]

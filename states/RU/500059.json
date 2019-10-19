@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "465400",
+        "name": "Zakharovskiy Rayon",
+        "stateId": "500059",
+        "latitude": 54.41667,
+        "longitude": 39.25
+    },
+    {
+        "cityId": "499979",
+        "name": "Rybnovskiy Rayon",
+        "stateId": "500059",
+        "latitude": 54.75,
+        "longitude": 39.5
+    },
+    {
+        "cityId": "500058",
+        "name": "Ryazanskiy Rayon",
+        "stateId": "500059",
+        "latitude": 54.58333,
+        "longitude": 39.75
+    },
+    {
+        "cityId": "547726",
+        "name": "Klepikovskiy Rayon",
+        "stateId": "500059",
+        "latitude": 55.08333,
+        "longitude": 40.08333
+    },
+    {
+        "cityId": "551884",
+        "name": "Kasimovskiy Rayon",
+        "stateId": "500059",
+        "latitude": 54.91667,
+        "longitude": 41.41667
+    }
+]

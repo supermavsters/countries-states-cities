@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "11352825",
+        "name": "Liepas pagasts",
+        "stateId": "7628376",
+        "latitude": 57.39083,
+        "longitude": 25.44362
+    },
+    {
+        "cityId": "11352826",
+        "name": "M\u0101rsn\u0113nu pagasts",
+        "stateId": "7628376",
+        "latitude": 57.42413,
+        "longitude": 25.57452
+    },
+    {
+        "cityId": "11352827",
+        "name": "Prieku\u013cu pagasts",
+        "stateId": "7628376",
+        "latitude": 57.33123,
+        "longitude": 25.39194
+    },
+    {
+        "cityId": "11352828",
+        "name": "Veselavas pagasts",
+        "stateId": "7628376",
+        "latitude": 57.26744,
+        "longitude": 25.53359
+    }
+]

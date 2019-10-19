@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "3615816",
+        "name": "Municipio de Villanueva",
+        "stateId": "3620380",
+        "latitude": 12.96374,
+        "longitude": -86.81105
+    },
+    {
+        "cityId": "3616233",
+        "name": "Municipio de Somotillo",
+        "stateId": "3620380",
+        "latitude": 13,
+        "longitude": -87
+    },
+    {
+        "cityId": "3616345",
+        "name": "Municipio de Santo Tom\u00e1s del Norte",
+        "stateId": "3620380",
+        "latitude": 13.21667,
+        "longitude": -86.83333
+    },
+    {
+        "cityId": "3616610",
+        "name": "Municipio de San Pedro del Norte",
+        "stateId": "3620380",
+        "latitude": 13.27363,
+        "longitude": -86.87835
+    },
+    {
+        "cityId": "3616851",
+        "name": "Municipio de San Francisco del Norte",
+        "stateId": "3620380",
+        "latitude": 13.23333,
+        "longitude": -86.7
+    },
+    {
+        "cityId": "3617145",
+        "name": "Municipio de Puerto Moraz\u00e1n",
+        "stateId": "3620380",
+        "latitude": 12.85,
+        "longitude": -87.16667
+    },
+    {
+        "cityId": "3617190",
+        "name": "Municipio de Posoltega",
+        "stateId": "3620380",
+        "latitude": 12.63333,
+        "longitude": -86.91667
+    },
+    {
+        "cityId": "3619266",
+        "name": "Municipio de El Viejo",
+        "stateId": "3620380",
+        "latitude": 12.83333,
+        "longitude": -87.33333
+    },
+    {
+        "cityId": "3619449",
+        "name": "Municipio de El Realejo",
+        "stateId": "3620380",
+        "latitude": 12.58333,
+        "longitude": -87.16667
+    },
+    {
+        "cityId": "3620267",
+        "name": "Municipio de Corinto",
+        "stateId": "3620380",
+        "latitude": 12.53193,
+        "longitude": -87.22489
+    },
+    {
+        "cityId": "3620357",
+        "name": "Municipio de Cinco Pinos",
+        "stateId": "3620380",
+        "latitude": 13.23333,
+        "longitude": -86.81667
+    },
+    {
+        "cityId": "3620379",
+        "name": "Municipio de Chinandega",
+        "stateId": "3620380",
+        "latitude": 12.75,
+        "longitude": -87
+    },
+    {
+        "cityId": "3620389",
+        "name": "Municipio de Chichigalpa",
+        "stateId": "3620380",
+        "latitude": 12.61667,
+        "longitude": -87
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "cityId": "1783751",
+        "name": "Zibo Shi",
+        "stateId": "1796328",
+        "latitude": 36.65028,
+        "longitude": 118.00167
+    },
+    {
+        "cityId": "1785450",
+        "name": "Zaozhuang Shi",
+        "stateId": "1796328",
+        "latitude": 34.93417,
+        "longitude": 117.41083
+    },
+    {
+        "cityId": "1787083",
+        "name": "Yantai Shi",
+        "stateId": "1796328",
+        "latitude": 37.21696,
+        "longitude": 120.8153
+    },
+    {
+        "cityId": "1791671",
+        "name": "Weihai Shi",
+        "stateId": "1796328",
+        "latitude": 37.22389,
+        "longitude": 122.06833
+    },
+    {
+        "cityId": "1791680",
+        "name": "Weifang Shi",
+        "stateId": "1796328",
+        "latitude": 36.62583,
+        "longitude": 119.0625
+    },
+    {
+        "cityId": "1793722",
+        "name": "Tai\u2019an Shi",
+        "stateId": "1796328",
+        "latitude": 36.07111,
+        "longitude": 117.00417
+    },
+    {
+        "cityId": "1797131",
+        "name": "Rizhao Shi",
+        "stateId": "1796328",
+        "latitude": 35.60528,
+        "longitude": 119.17611
+    },
+    {
+        "cityId": "1797926",
+        "name": "Qingdao Shi",
+        "stateId": "1796328",
+        "latitude": 36.63167,
+        "longitude": 120.26861
+    },
+    {
+        "cityId": "1803316",
+        "name": "Linyi Shi",
+        "stateId": "1796328",
+        "latitude": 35.34222,
+        "longitude": 118.25333
+    },
+    {
+        "cityId": "1803833",
+        "name": "Liaocheng Shi",
+        "stateId": "1796328",
+        "latitude": 36.51806,
+        "longitude": 115.93333
+    },
+    {
+        "cityId": "1804589",
+        "name": "Laiwu Shi",
+        "stateId": "1796328",
+        "latitude": 36.2825,
+        "longitude": 117.66528
+    },
+    {
+        "cityId": "1805517",
+        "name": "Jining Shi",
+        "stateId": "1796328",
+        "latitude": 35.48028,
+        "longitude": 116.73389
+    },
+    {
+        "cityId": "1805751",
+        "name": "Jinan Shi",
+        "stateId": "1796328",
+        "latitude": 36.6476,
+        "longitude": 117.12318
+    },
+    {
+        "cityId": "1806823",
+        "name": "Huimin Diqu",
+        "stateId": "1796328",
+        "latitude": 37.366,
+        "longitude": 118.016
+    },
+    {
+        "cityId": "1808197",
+        "name": "Heze Shi",
+        "stateId": "1796328",
+        "latitude": 35.20278,
+        "longitude": 115.63278
+    },
+    {
+        "cityId": "1812099",
+        "name": "Dongying Shi",
+        "stateId": "1796328",
+        "latitude": 37.62056,
+        "longitude": 118.62139
+    },
+    {
+        "cityId": "1812954",
+        "name": "Dezhou Shi",
+        "stateId": "1796328",
+        "latitude": 37.29722,
+        "longitude": 116.71528
+    },
+    {
+        "cityId": "1816335",
+        "name": "Binzhou Shi",
+        "stateId": "1796328",
+        "latitude": 37.605,
+        "longitude": 117.83639
+    }
+]

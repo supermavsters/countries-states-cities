@@ -1,0 +1,863 @@
+[
+    {
+        "cityId": "11351392",
+        "name": "En Pois Doux\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.98853,
+        "longitude": -60.94099
+    },
+    {
+        "cityId": "11351405",
+        "name": "Balata",
+        "stateId": "3576810",
+        "latitude": 14.01471,
+        "longitude": -60.95167
+    },
+    {
+        "cityId": "11351409",
+        "name": "Forest Reserve",
+        "stateId": "3576810",
+        "latitude": 13.9772,
+        "longitude": -60.93135
+    },
+    {
+        "cityId": "11351410",
+        "name": "Marigot",
+        "stateId": "3576810",
+        "latitude": 13.96212,
+        "longitude": -61.02205
+    },
+    {
+        "cityId": "11351414",
+        "name": "Almondale",
+        "stateId": "3576810",
+        "latitude": 14.01848,
+        "longitude": -60.96162
+    },
+    {
+        "cityId": "11351427",
+        "name": "Piton Flore",
+        "stateId": "3576810",
+        "latitude": 13.96504,
+        "longitude": -60.94517
+    },
+    {
+        "cityId": "11351437",
+        "name": "Hospital Road",
+        "stateId": "3576810",
+        "latitude": 14.00914,
+        "longitude": -60.99906
+    },
+    {
+        "cityId": "11351442",
+        "name": "Cul De Sac",
+        "stateId": "3576810",
+        "latitude": 13.98084,
+        "longitude": -61.00645
+    },
+    {
+        "cityId": "11351448",
+        "name": "Fond Assau\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.99491,
+        "longitude": -60.93626
+    },
+    {
+        "cityId": "11351451",
+        "name": "Barnard Hill",
+        "stateId": "3576810",
+        "latitude": 14.01423,
+        "longitude": -60.98924
+    },
+    {
+        "cityId": "11351456",
+        "name": "Ciceron",
+        "stateId": "3576810",
+        "latitude": 13.99296,
+        "longitude": -61.00878
+    },
+    {
+        "cityId": "11351465",
+        "name": "Peart'S Gap",
+        "stateId": "3576810",
+        "latitude": 14.01035,
+        "longitude": -60.98598
+    },
+    {
+        "cityId": "11351470",
+        "name": "Guesneau",
+        "stateId": "3576810",
+        "latitude": 13.99084,
+        "longitude": -60.96486
+    },
+    {
+        "cityId": "11351471",
+        "name": "Cacoa\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.98875,
+        "longitude": -60.95113
+    },
+    {
+        "cityId": "11351478",
+        "name": "Capital Hill",
+        "stateId": "3576810",
+        "latitude": 13.99307,
+        "longitude": -60.99097
+    },
+    {
+        "cityId": "11351479",
+        "name": "Odsan",
+        "stateId": "3576810",
+        "latitude": 13.97479,
+        "longitude": -60.98319
+    },
+    {
+        "cityId": "11351486",
+        "name": "Bella Rosa",
+        "stateId": "3576810",
+        "latitude": 14.00777,
+        "longitude": -60.99628
+    },
+    {
+        "cityId": "11351487",
+        "name": "John Compton Highway",
+        "stateId": "3576810",
+        "latitude": 14.01909,
+        "longitude": -60.9911
+    },
+    {
+        "cityId": "11351488",
+        "name": "Ravine Touterelle",
+        "stateId": "3576810",
+        "latitude": 14.00325,
+        "longitude": -60.98806
+    },
+    {
+        "cityId": "11351490",
+        "name": "Coubaril",
+        "stateId": "3576810",
+        "latitude": 14.00223,
+        "longitude": -61.00919
+    },
+    {
+        "cityId": "11351493",
+        "name": "La Toc",
+        "stateId": "3576810",
+        "latitude": 14.00824,
+        "longitude": -61.00404
+    },
+    {
+        "cityId": "11351494",
+        "name": "Miami\/Bexon",
+        "stateId": "3576810",
+        "latitude": 13.92295,
+        "longitude": -60.96945
+    },
+    {
+        "cityId": "11351496",
+        "name": "Fond Canie",
+        "stateId": "3576810",
+        "latitude": 13.99195,
+        "longitude": -60.95954
+    },
+    {
+        "cityId": "11351497",
+        "name": "Chassin\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.991,
+        "longitude": -60.92187
+    },
+    {
+        "cityId": "11351498",
+        "name": "Talvern",
+        "stateId": "3576810",
+        "latitude": 13.99578,
+        "longitude": -60.9441
+    },
+    {
+        "cityId": "11351499",
+        "name": "Babonneau Proper",
+        "stateId": "3576810",
+        "latitude": 14.00535,
+        "longitude": -60.9464
+    },
+    {
+        "cityId": "11351500",
+        "name": "Cabiche\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 14.00583,
+        "longitude": -60.95432
+    },
+    {
+        "cityId": "11351501",
+        "name": "Girard",
+        "stateId": "3576810",
+        "latitude": 14.00004,
+        "longitude": -60.9596
+    },
+    {
+        "cityId": "11351510",
+        "name": "Parker'S Hill",
+        "stateId": "3576810",
+        "latitude": 14.00378,
+        "longitude": -60.99049
+    },
+    {
+        "cityId": "11351512",
+        "name": "Bois Catchet",
+        "stateId": "3576810",
+        "latitude": 14.00399,
+        "longitude": -60.99437
+    },
+    {
+        "cityId": "11351516",
+        "name": "Fond Manger",
+        "stateId": "3576810",
+        "latitude": 13.96413,
+        "longitude": -61.00877
+    },
+    {
+        "cityId": "11351519",
+        "name": "Conway\/Waterfront",
+        "stateId": "3576810",
+        "latitude": 14.01389,
+        "longitude": -60.99055
+    },
+    {
+        "cityId": "11351520",
+        "name": "Derierre Fort\/Old Victoria Road",
+        "stateId": "3576810",
+        "latitude": 13.99474,
+        "longitude": -60.98513
+    },
+    {
+        "cityId": "11351522",
+        "name": "Trou Rouge",
+        "stateId": "3576810",
+        "latitude": 14.00602,
+        "longitude": -60.9895
+    },
+    {
+        "cityId": "11351525",
+        "name": "Tapion",
+        "stateId": "3576810",
+        "latitude": 14.01383,
+        "longitude": -61.00489
+    },
+    {
+        "cityId": "11351553",
+        "name": "Hillcrest Gardens",
+        "stateId": "3576810",
+        "latitude": 14.01115,
+        "longitude": -60.97083
+    },
+    {
+        "cityId": "11351560",
+        "name": "Vigie",
+        "stateId": "3576810",
+        "latitude": 14.02053,
+        "longitude": -60.99611
+    },
+    {
+        "cityId": "11351561",
+        "name": "Resinard\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 14.00289,
+        "longitude": -60.942
+    },
+    {
+        "cityId": "11351562",
+        "name": "Mount Pleasant",
+        "stateId": "3576810",
+        "latitude": 14.01494,
+        "longitude": -60.98576
+    },
+    {
+        "cityId": "11351567",
+        "name": "Forestiere",
+        "stateId": "3576810",
+        "latitude": 13.97775,
+        "longitude": -60.95766
+    },
+    {
+        "cityId": "11351568",
+        "name": "George Charles Boulevard",
+        "stateId": "3576810",
+        "latitude": 14.00499,
+        "longitude": -60.98673
+    },
+    {
+        "cityId": "11351571",
+        "name": "Morne Assau\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.99079,
+        "longitude": -60.93241
+    },
+    {
+        "cityId": "11351573",
+        "name": "Morne Rouge\/Marc",
+        "stateId": "3576810",
+        "latitude": 13.95838,
+        "longitude": -60.96972
+    },
+    {
+        "cityId": "11351576",
+        "name": "Choc",
+        "stateId": "3576810",
+        "latitude": 14.03121,
+        "longitude": -60.97652
+    },
+    {
+        "cityId": "11351590",
+        "name": "Crownlands\/Marc",
+        "stateId": "3576810",
+        "latitude": 13.95174,
+        "longitude": -60.9715
+    },
+    {
+        "cityId": "11351599",
+        "name": "Bexon",
+        "stateId": "3576810",
+        "latitude": 13.96077,
+        "longitude": -60.97497
+    },
+    {
+        "cityId": "11351600",
+        "name": "Morne Dudon",
+        "stateId": "3576810",
+        "latitude": 14.01194,
+        "longitude": -60.96378
+    },
+    {
+        "cityId": "11351601",
+        "name": "Barre St.Joseph",
+        "stateId": "3576810",
+        "latitude": 13.97247,
+        "longitude": -61.01829
+    },
+    {
+        "cityId": "11351602",
+        "name": "Darling Road",
+        "stateId": "3576810",
+        "latitude": 14.01355,
+        "longitude": -60.98779
+    },
+    {
+        "cityId": "11351610",
+        "name": "Ravine Poisson",
+        "stateId": "3576810",
+        "latitude": 13.93156,
+        "longitude": -60.96849
+    },
+    {
+        "cityId": "11351612",
+        "name": "Faux A Chaud",
+        "stateId": "3576810",
+        "latitude": 14.00878,
+        "longitude": -60.99558
+    },
+    {
+        "cityId": "11351616",
+        "name": "Banannes Bay",
+        "stateId": "3576810",
+        "latitude": 14.01087,
+        "longitude": -61.00135
+    },
+    {
+        "cityId": "11351619",
+        "name": "Cedars",
+        "stateId": "3576810",
+        "latitude": 14.00601,
+        "longitude": -60.98232
+    },
+    {
+        "cityId": "11351623",
+        "name": "Calvary",
+        "stateId": "3576810",
+        "latitude": 14.01391,
+        "longitude": -60.98664
+    },
+    {
+        "cityId": "11351628",
+        "name": "City",
+        "stateId": "3576810",
+        "latitude": 14.00946,
+        "longitude": -60.99027
+    },
+    {
+        "cityId": "11351629",
+        "name": "Grass Street",
+        "stateId": "3576810",
+        "latitude": 14.00706,
+        "longitude": -60.98763
+    },
+    {
+        "cityId": "11351633",
+        "name": "Sunbilt",
+        "stateId": "3576810",
+        "latitude": 14.00561,
+        "longitude": -60.97922
+    },
+    {
+        "cityId": "11351635",
+        "name": "City Gate\/La Clery",
+        "stateId": "3576810",
+        "latitude": 14.02124,
+        "longitude": -60.98149
+    },
+    {
+        "cityId": "11351636",
+        "name": "Coolie Town",
+        "stateId": "3576810",
+        "latitude": 13.95684,
+        "longitude": -61.01437
+    },
+    {
+        "cityId": "11351638",
+        "name": "New Village",
+        "stateId": "3576810",
+        "latitude": 14.01104,
+        "longitude": -60.98456
+    },
+    {
+        "cityId": "11351640",
+        "name": "Choppin Ridge\/Sarot",
+        "stateId": "3576810",
+        "latitude": 13.95597,
+        "longitude": -60.98624
+    },
+    {
+        "cityId": "11351642",
+        "name": "Lastic Hill",
+        "stateId": "3576810",
+        "latitude": 14.00755,
+        "longitude": -60.98321
+    },
+    {
+        "cityId": "11351644",
+        "name": "Trou Florent\/Marc",
+        "stateId": "3576810",
+        "latitude": 13.94525,
+        "longitude": -60.95382
+    },
+    {
+        "cityId": "11351646",
+        "name": "Pavee",
+        "stateId": "3576810",
+        "latitude": 14.00282,
+        "longitude": -60.99191
+    },
+    {
+        "cityId": "11351647",
+        "name": "Goodlands",
+        "stateId": "3576810",
+        "latitude": 13.99121,
+        "longitude": -60.9984
+    },
+    {
+        "cityId": "11351650",
+        "name": "Patterson'S Gap",
+        "stateId": "3576810",
+        "latitude": 14.00655,
+        "longitude": -60.98473
+    },
+    {
+        "cityId": "11351651",
+        "name": "Pointe Seraphine",
+        "stateId": "3576810",
+        "latitude": 14.01575,
+        "longitude": -60.99305
+    },
+    {
+        "cityId": "11351652",
+        "name": "Rose Hill",
+        "stateId": "3576810",
+        "latitude": 14.00816,
+        "longitude": -60.9856
+    },
+    {
+        "cityId": "11351653",
+        "name": "The Morne",
+        "stateId": "3576810",
+        "latitude": 13.99778,
+        "longitude": -60.9962
+    },
+    {
+        "cityId": "11351654",
+        "name": "Waterworks",
+        "stateId": "3576810",
+        "latitude": 14.00498,
+        "longitude": -60.97635
+    },
+    {
+        "cityId": "11351655",
+        "name": "Wilton'S Yard\/Grave Yard",
+        "stateId": "3576810",
+        "latitude": 14.00968,
+        "longitude": -60.98639
+    },
+    {
+        "cityId": "11351656",
+        "name": "Aurendel Hill",
+        "stateId": "3576810",
+        "latitude": 14.00069,
+        "longitude": -60.9867
+    },
+    {
+        "cityId": "11351657",
+        "name": "Black Mallet",
+        "stateId": "3576810",
+        "latitude": 14.00457,
+        "longitude": -60.98811
+    },
+    {
+        "cityId": "11351658",
+        "name": "Bagatelle",
+        "stateId": "3576810",
+        "latitude": 13.99797,
+        "longitude": -60.98156
+    },
+    {
+        "cityId": "11351659",
+        "name": "Bissee",
+        "stateId": "3576810",
+        "latitude": 14.02255,
+        "longitude": -60.97489
+    },
+    {
+        "cityId": "11351660",
+        "name": "Bishop'S Gap",
+        "stateId": "3576810",
+        "latitude": 14.00019,
+        "longitude": -60.98498
+    },
+    {
+        "cityId": "11351661",
+        "name": "Dubrassay",
+        "stateId": "3576810",
+        "latitude": 13.98382,
+        "longitude": -60.97154
+    },
+    {
+        "cityId": "11351662",
+        "name": "Bocage",
+        "stateId": "3576810",
+        "latitude": 14.00199,
+        "longitude": -60.96954
+    },
+    {
+        "cityId": "11351663",
+        "name": "Carellie",
+        "stateId": "3576810",
+        "latitude": 14.01889,
+        "longitude": -60.96851
+    },
+    {
+        "cityId": "11351664",
+        "name": "Maynard Hill",
+        "stateId": "3576810",
+        "latitude": 14.00314,
+        "longitude": -60.98966
+    },
+    {
+        "cityId": "11351665",
+        "name": "Ravine Chabot",
+        "stateId": "3576810",
+        "latitude": 14.00051,
+        "longitude": -60.97617
+    },
+    {
+        "cityId": "11351666",
+        "name": "Monkey Town Ciceron",
+        "stateId": "3576810",
+        "latitude": 13.98885,
+        "longitude": -61.00615
+    },
+    {
+        "cityId": "11351667",
+        "name": "La Clery",
+        "stateId": "3576810",
+        "latitude": 14.01846,
+        "longitude": -60.98422
+    },
+    {
+        "cityId": "11351668",
+        "name": "Entrepot",
+        "stateId": "3576810",
+        "latitude": 13.99978,
+        "longitude": -60.97953
+    },
+    {
+        "cityId": "11351669",
+        "name": "Independence City",
+        "stateId": "3576810",
+        "latitude": 14.00199,
+        "longitude": -60.97879
+    },
+    {
+        "cityId": "11351670",
+        "name": "Active Hill",
+        "stateId": "3576810",
+        "latitude": 14.0194,
+        "longitude": -60.97767
+    },
+    {
+        "cityId": "11351671",
+        "name": "Bois Patat",
+        "stateId": "3576810",
+        "latitude": 14.00892,
+        "longitude": -60.98214
+    },
+    {
+        "cityId": "11351672",
+        "name": "Sunny Acres",
+        "stateId": "3576810",
+        "latitude": 14.0281,
+        "longitude": -60.97361
+    },
+    {
+        "cityId": "11351674",
+        "name": "Chase Gardens",
+        "stateId": "3576810",
+        "latitude": 14.01481,
+        "longitude": -60.97395
+    },
+    {
+        "cityId": "11351675",
+        "name": "Yorke Hill",
+        "stateId": "3576810",
+        "latitude": 14.01694,
+        "longitude": -60.97919
+    },
+    {
+        "cityId": "11351676",
+        "name": "Morne Road",
+        "stateId": "3576810",
+        "latitude": 14.00544,
+        "longitude": -60.99693
+    },
+    {
+        "cityId": "11351677",
+        "name": "La Pansee",
+        "stateId": "3576810",
+        "latitude": 14.01368,
+        "longitude": -60.98187
+    },
+    {
+        "cityId": "11351678",
+        "name": "Goergeville",
+        "stateId": "3576810",
+        "latitude": 14.01311,
+        "longitude": -60.98446
+    },
+    {
+        "cityId": "11351679",
+        "name": "Leslie Land",
+        "stateId": "3576810",
+        "latitude": 14.00752,
+        "longitude": -60.98674
+    },
+    {
+        "cityId": "11351680",
+        "name": "Marchand",
+        "stateId": "3576810",
+        "latitude": 14.00415,
+        "longitude": -60.98532
+    },
+    {
+        "cityId": "11351681",
+        "name": "Agard Lands\/Morne Dudon",
+        "stateId": "3576810",
+        "latitude": 14.00768,
+        "longitude": -60.96462
+    },
+    {
+        "cityId": "11351682",
+        "name": "Rock Hall",
+        "stateId": "3576810",
+        "latitude": 14.00009,
+        "longitude": -60.98928
+    },
+    {
+        "cityId": "11351683",
+        "name": "San Soucis",
+        "stateId": "3576810",
+        "latitude": 14.01695,
+        "longitude": -60.98985
+    },
+    {
+        "cityId": "11351684",
+        "name": "L'Anse Road",
+        "stateId": "3576810",
+        "latitude": 14.01875,
+        "longitude": -60.98799
+    },
+    {
+        "cityId": "11351685",
+        "name": "Summersdale",
+        "stateId": "3576810",
+        "latitude": 14.02582,
+        "longitude": -60.97644
+    },
+    {
+        "cityId": "11351686",
+        "name": "Hill 20\/Babonneau",
+        "stateId": "3576810",
+        "latitude": 13.99941,
+        "longitude": -60.94988
+    },
+    {
+        "cityId": "11351687",
+        "name": "Barre Denis",
+        "stateId": "3576810",
+        "latitude": 13.96809,
+        "longitude": -60.99073
+    },
+    {
+        "cityId": "11351688",
+        "name": "Trou Cochan\/Marc",
+        "stateId": "3576810",
+        "latitude": 13.9422,
+        "longitude": -60.96199
+    },
+    {
+        "cityId": "11351689",
+        "name": "La Carierre",
+        "stateId": "3576810",
+        "latitude": 14.01806,
+        "longitude": -60.98723
+    },
+    {
+        "cityId": "11351690",
+        "name": "Vide Bouteille",
+        "stateId": "3576810",
+        "latitude": 14.02439,
+        "longitude": -60.98066
+    },
+    {
+        "cityId": "11351691",
+        "name": "Green Gold",
+        "stateId": "3576810",
+        "latitude": 13.99603,
+        "longitude": -60.95284
+    },
+    {
+        "cityId": "11351692",
+        "name": "Floissac\/Marc",
+        "stateId": "3576810",
+        "latitude": 13.96283,
+        "longitude": -60.9588
+    },
+    {
+        "cityId": "11351694",
+        "name": "Sarot",
+        "stateId": "3576810",
+        "latitude": 13.94212,
+        "longitude": -60.98489
+    },
+    {
+        "cityId": "11351695",
+        "name": "Sand De Feu",
+        "stateId": "3576810",
+        "latitude": 13.92781,
+        "longitude": -60.98026
+    },
+    {
+        "cityId": "11351696",
+        "name": "Labayee",
+        "stateId": "3576810",
+        "latitude": 13.94044,
+        "longitude": -60.97316
+    },
+    {
+        "cityId": "11351697",
+        "name": "Marc",
+        "stateId": "3576810",
+        "latitude": 13.95688,
+        "longitude": -60.95724
+    },
+    {
+        "cityId": "11351698",
+        "name": "Ferrand",
+        "stateId": "3576810",
+        "latitude": 13.98684,
+        "longitude": -60.98494
+    },
+    {
+        "cityId": "11351699",
+        "name": "Soucis",
+        "stateId": "3576810",
+        "latitude": 13.9768,
+        "longitude": -60.99878
+    },
+    {
+        "cityId": "11351700",
+        "name": "Perou",
+        "stateId": "3576810",
+        "latitude": 13.9596,
+        "longitude": -61.00726
+    },
+    {
+        "cityId": "11351701",
+        "name": "Deglos",
+        "stateId": "3576810",
+        "latitude": 13.97727,
+        "longitude": -60.97329
+    },
+    {
+        "cityId": "11351702",
+        "name": "La Croix Maingot",
+        "stateId": "3576810",
+        "latitude": 13.96569,
+        "longitude": -61.00582
+    },
+    {
+        "cityId": "11351703",
+        "name": "Barre Duchaussee",
+        "stateId": "3576810",
+        "latitude": 13.9619,
+        "longitude": -60.99678
+    },
+    {
+        "cityId": "11351704",
+        "name": "Tourat\/Soucis",
+        "stateId": "3576810",
+        "latitude": 13.97346,
+        "longitude": -60.99773
+    },
+    {
+        "cityId": "11351705",
+        "name": "Quarte Chemins",
+        "stateId": "3576810",
+        "latitude": 13.99136,
+        "longitude": -60.9763
+    },
+    {
+        "cityId": "11351706",
+        "name": "Ti Colon",
+        "stateId": "3576810",
+        "latitude": 13.97071,
+        "longitude": -61.00229
+    },
+    {
+        "cityId": "11351707",
+        "name": "Ti Rocher",
+        "stateId": "3576810",
+        "latitude": 13.9949,
+        "longitude": -60.9711
+    },
+    {
+        "cityId": "11351709",
+        "name": "Trois Piton",
+        "stateId": "3576810",
+        "latitude": 13.9889,
+        "longitude": -60.97259
+    },
+    {
+        "cityId": "11351712",
+        "name": "Belair",
+        "stateId": "3576810",
+        "latitude": 13.95283,
+        "longitude": -60.99747
+    }
+]

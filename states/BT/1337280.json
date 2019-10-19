@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7646448",
+        "name": "Tsangkha",
+        "stateId": "1337280",
+        "latitude": 27.02788,
+        "longitude": 90.04885
+    },
+    {
+        "cityId": "7646449",
+        "name": "Lajab",
+        "stateId": "1337280",
+        "latitude": 27.09016,
+        "longitude": 90.01421
+    },
+    {
+        "cityId": "7646456",
+        "name": "Drukgyegang",
+        "stateId": "1337280",
+        "latitude": 26.97897,
+        "longitude": 90.02916
+    },
+    {
+        "cityId": "7647632",
+        "name": "Khiphisa",
+        "stateId": "1337280",
+        "latitude": 27.03027,
+        "longitude": 89.95758
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "7910309",
+        "name": "Rosso Department",
+        "stateId": "2375742",
+        "latitude": 16.585,
+        "longitude": -15.72
+    },
+    {
+        "cityId": "8051338",
+        "name": "Nouakchott",
+        "stateId": "2375742",
+        "latitude": 18.10042,
+        "longitude": -15.95069
+    },
+    {
+        "cityId": "8051339",
+        "name": "Ouad Naga",
+        "stateId": "2375742",
+        "latitude": 18.352,
+        "longitude": -15.474
+    },
+    {
+        "cityId": "8051340",
+        "name": "Mederdra",
+        "stateId": "2375742",
+        "latitude": 17.141,
+        "longitude": -15.659
+    },
+    {
+        "cityId": "8051341",
+        "name": "Boutilimit",
+        "stateId": "2375742",
+        "latitude": 18.17,
+        "longitude": -14.125
+    },
+    {
+        "cityId": "9212604",
+        "name": "R'Kiz",
+        "stateId": "2375742",
+        "latitude": 16.92986,
+        "longitude": -15.08271
+    },
+    {
+        "cityId": "9212614",
+        "name": "Keur-Macene",
+        "stateId": "2375742",
+        "latitude": 16.64184,
+        "longitude": -16.27726
+    }
+]

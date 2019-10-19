@@ -1,0 +1,65 @@
+[
+    {
+        "cityId": "2473636",
+        "name": "Kef Est",
+        "stateId": "2473637",
+        "latitude": 36.18732,
+        "longitude": 8.87003
+    },
+    {
+        "cityId": "7870612",
+        "name": "Kef Quest",
+        "stateId": "2473637",
+        "latitude": 36.14907,
+        "longitude": 8.65903
+    },
+    {
+        "cityId": "7870615",
+        "name": "Kef Est",
+        "stateId": "2473637",
+        "latitude": 36.17926,
+        "longitude": 8.89906
+    },
+    {
+        "cityId": "7870616",
+        "name": "Es Sers",
+        "stateId": "2473637",
+        "latitude": 36.05817,
+        "longitude": 9.02712
+    },
+    {
+        "cityId": "7870617",
+        "name": "Nebeur",
+        "stateId": "2473637",
+        "latitude": 36.3182,
+        "longitude": 8.77277
+    },
+    {
+        "cityId": "11107060",
+        "name": "Dahmani",
+        "stateId": "2473637",
+        "latitude": 35.96751,
+        "longitude": 8.79912
+    },
+    {
+        "cityId": "11107061",
+        "name": "Jerissa",
+        "stateId": "2473637",
+        "latitude": 35.83376,
+        "longitude": 8.65462
+    },
+    {
+        "cityId": "11107062",
+        "name": "Kalaa Khasba",
+        "stateId": "2473637",
+        "latitude": 35.72526,
+        "longitude": 8.53536
+    },
+    {
+        "cityId": "11107173",
+        "name": "Kalaat Senan",
+        "stateId": "2473637",
+        "latitude": 35.8188,
+        "longitude": 8.35765
+    }
+]

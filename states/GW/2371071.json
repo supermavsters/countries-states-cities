@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "8335049",
+        "name": "Mansaba Sector",
+        "stateId": "2371071",
+        "latitude": 12.318,
+        "longitude": -15.15
+    },
+    {
+        "cityId": "8335050",
+        "name": "Bissora Sector",
+        "stateId": "2371071",
+        "latitude": 12.204,
+        "longitude": -15.505
+    },
+    {
+        "cityId": "8335051",
+        "name": "Nhacra Sector",
+        "stateId": "2371071",
+        "latitude": 11.969,
+        "longitude": -15.505
+    },
+    {
+        "cityId": "8335052",
+        "name": "Farim Sector",
+        "stateId": "2371071",
+        "latitude": 12.561,
+        "longitude": -15.166
+    },
+    {
+        "cityId": "8335070",
+        "name": "Mansoa",
+        "stateId": "2371071",
+        "latitude": 12.05487,
+        "longitude": -15.21552
+    }
+]

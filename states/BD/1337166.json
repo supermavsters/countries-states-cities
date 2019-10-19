@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "1337161",
+        "name": "Naogaon",
+        "stateId": "1337166",
+        "latitude": 24.8118,
+        "longitude": 88.94657
+    },
+    {
+        "cityId": "1337162",
+        "name": "Joypurhat",
+        "stateId": "1337166",
+        "latitude": 25.08333,
+        "longitude": 89.1
+    },
+    {
+        "cityId": "1337163",
+        "name": "Bogra",
+        "stateId": "1337166",
+        "latitude": 24.78333,
+        "longitude": 89.35
+    },
+    {
+        "cityId": "1337164",
+        "name": "Chapai Nababganj",
+        "stateId": "1337166",
+        "latitude": 24.68333,
+        "longitude": 88.25
+    },
+    {
+        "cityId": "1337165",
+        "name": "Rajshahi",
+        "stateId": "1337166",
+        "latitude": 24.36962,
+        "longitude": 88.60748
+    },
+    {
+        "cityId": "1337167",
+        "name": "Natore",
+        "stateId": "1337166",
+        "latitude": 24.35,
+        "longitude": 89.08333
+    },
+    {
+        "cityId": "1337168",
+        "name": "Sirajganj",
+        "stateId": "1337166",
+        "latitude": 24.33333,
+        "longitude": 89.61667
+    },
+    {
+        "cityId": "1337169",
+        "name": "Pabna",
+        "stateId": "1337166",
+        "latitude": 24.00633,
+        "longitude": 89.33533
+    }
+]

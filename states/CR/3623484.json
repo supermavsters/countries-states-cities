@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "3621497",
+        "name": "Sarapiqu\u00ed",
+        "stateId": "3623484",
+        "latitude": 10.5,
+        "longitude": -84
+    },
+    {
+        "cityId": "3621512",
+        "name": "Santo Domingo",
+        "stateId": "3623484",
+        "latitude": 9.98333,
+        "longitude": -84.06667
+    },
+    {
+        "cityId": "3621622",
+        "name": "Santa B\u00e1rbara",
+        "stateId": "3623484",
+        "latitude": 10.08333,
+        "longitude": -84.15
+    },
+    {
+        "cityId": "3621668",
+        "name": "San Rafael",
+        "stateId": "3623484",
+        "latitude": 10.05,
+        "longitude": -84.06667
+    },
+    {
+        "cityId": "3621727",
+        "name": "San Pablo",
+        "stateId": "3623484",
+        "latitude": 10,
+        "longitude": -84.08333
+    },
+    {
+        "cityId": "3621871",
+        "name": "San Isidro",
+        "stateId": "3623484",
+        "latitude": 10.03333,
+        "longitude": -84.03333
+    },
+    {
+        "cityId": "3623485",
+        "name": "Heredia",
+        "stateId": "3623484",
+        "latitude": 9.98333,
+        "longitude": -84.11667
+    },
+    {
+        "cityId": "3623725",
+        "name": "Flores",
+        "stateId": "3623484",
+        "latitude": 10,
+        "longitude": -84.15
+    },
+    {
+        "cityId": "3624717",
+        "name": "Bel\u00e9n",
+        "stateId": "3623484",
+        "latitude": 9.98333,
+        "longitude": -84.16667
+    },
+    {
+        "cityId": "3624732",
+        "name": "Barva",
+        "stateId": "3623484",
+        "latitude": 10.08333,
+        "longitude": -84.1
+    }
+]

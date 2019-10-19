@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7670914",
+        "name": "Ambositra District",
+        "stateId": "7670904",
+        "latitude": -20.54945,
+        "longitude": 47.25589
+    },
+    {
+        "cityId": "8335147",
+        "name": "Ambatofinandrahana District",
+        "stateId": "7670904",
+        "latitude": -20.45661,
+        "longitude": 46.78665
+    },
+    {
+        "cityId": "8335148",
+        "name": "Fandriana District",
+        "stateId": "7670904",
+        "latitude": -20.2171,
+        "longitude": 47.48428
+    },
+    {
+        "cityId": "8335150",
+        "name": "Manandriana District",
+        "stateId": "7670904",
+        "latitude": -20.69472,
+        "longitude": 47.01083
+    }
+]

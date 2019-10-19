@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "235749",
+        "name": "Chitipa District",
+        "stateId": "924591",
+        "latitude": -9.92727,
+        "longitude": 33.42541
+    },
+    {
+        "cityId": "924100",
+        "name": "Rumphi District",
+        "stateId": "924591",
+        "latitude": -10.80292,
+        "longitude": 33.80524
+    },
+    {
+        "cityId": "924730",
+        "name": "Nkhata Bay District",
+        "stateId": "924591",
+        "latitude": -11.65304,
+        "longitude": 34.05322
+    },
+    {
+        "cityId": "925496",
+        "name": "Mzimba District",
+        "stateId": "924591",
+        "latitude": -11.85428,
+        "longitude": 33.60778
+    },
+    {
+        "cityId": "928657",
+        "name": "Karonga District",
+        "stateId": "924591",
+        "latitude": -10.11153,
+        "longitude": 33.88151
+    },
+    {
+        "cityId": "1105841",
+        "name": "Likoma District",
+        "stateId": "924591",
+        "latitude": -12.06065,
+        "longitude": 34.73608
+    }
+]

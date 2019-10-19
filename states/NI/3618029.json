@@ -1,0 +1,72 @@
+[
+    {
+        "cityId": "3616091",
+        "name": "Municipio de Telica",
+        "stateId": "3618029",
+        "latitude": 12.61667,
+        "longitude": -86.75
+    },
+    {
+        "cityId": "3616386",
+        "name": "Municipio de Santa Rosa del Pe\u00f1\u00f3n",
+        "stateId": "3618029",
+        "latitude": 12.83333,
+        "longitude": -86.33333
+    },
+    {
+        "cityId": "3617114",
+        "name": "Municipio de Quezalguaque",
+        "stateId": "3618029",
+        "latitude": 12.58333,
+        "longitude": -86.86667
+    },
+    {
+        "cityId": "3617521",
+        "name": "Municipio de Nagarote",
+        "stateId": "3618029",
+        "latitude": 12.21667,
+        "longitude": -86.58333
+    },
+    {
+        "cityId": "3618028",
+        "name": "Municipio de Le\u00f3n",
+        "stateId": "3618029",
+        "latitude": 12.41667,
+        "longitude": -86.83333
+    },
+    {
+        "cityId": "3618335",
+        "name": "Municipio de Larreynaga",
+        "stateId": "3618029",
+        "latitude": 12.66667,
+        "longitude": -86.58333
+    },
+    {
+        "cityId": "3618412",
+        "name": "Municipio de La Paz Central",
+        "stateId": "3618029",
+        "latitude": 12.5,
+        "longitude": -86.5
+    },
+    {
+        "cityId": "3619381",
+        "name": "Municipio de El Sauce",
+        "stateId": "3618029",
+        "latitude": 12.9,
+        "longitude": -86.5
+    },
+    {
+        "cityId": "3619693",
+        "name": "Municipio de El Jicaral",
+        "stateId": "3618029",
+        "latitude": 12.71667,
+        "longitude": -86.31667
+    },
+    {
+        "cityId": "3620981",
+        "name": "Municipio de Achuapa",
+        "stateId": "3618029",
+        "latitude": 13.08333,
+        "longitude": -86.53333
+    }
+]

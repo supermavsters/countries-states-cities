@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7268134",
+        "name": "Culebra Barrio-Pueblo",
+        "stateId": "4564071",
+        "latitude": 18.30638,
+        "longitude": -65.30205
+    },
+    {
+        "cityId": "7268390",
+        "name": "Flamenco Barrio",
+        "stateId": "4564071",
+        "latitude": 18.34596,
+        "longitude": -65.3603
+    },
+    {
+        "cityId": "7268397",
+        "name": "Fraile Barrio",
+        "stateId": "4564071",
+        "latitude": 18.30094,
+        "longitude": -65.21761
+    },
+    {
+        "cityId": "7268773",
+        "name": "Playa Sardinas I Barrio",
+        "stateId": "4564071",
+        "latitude": 18.27475,
+        "longitude": -65.33621
+    },
+    {
+        "cityId": "7268774",
+        "name": "Playa Sardinas II Barrio",
+        "stateId": "4564071",
+        "latitude": 18.27778,
+        "longitude": -65.28627
+    },
+    {
+        "cityId": "7268972",
+        "name": "San Isidro Barrio",
+        "stateId": "4564071",
+        "latitude": 18.36043,
+        "longitude": -65.24492
+    }
+]

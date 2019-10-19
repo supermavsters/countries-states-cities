@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "7268197",
+        "name": "Ancones Barrio",
+        "stateId": "4562682",
+        "latitude": 17.99446,
+        "longitude": -66.04344
+    },
+    {
+        "cityId": "7268213",
+        "name": "Arroyo Barrio-Pueblo",
+        "stateId": "4562682",
+        "latitude": 17.96323,
+        "longitude": -66.0626
+    },
+    {
+        "cityId": "7268430",
+        "name": "Gu\u00e1simas Barrio",
+        "stateId": "4562682",
+        "latitude": 17.97639,
+        "longitude": -66.06665
+    },
+    {
+        "cityId": "7268722",
+        "name": "Palmas Barrio",
+        "stateId": "4562682",
+        "latitude": 17.9711,
+        "longitude": -66.04154
+    },
+    {
+        "cityId": "7268762",
+        "name": "Pitahaya Barrio",
+        "stateId": "4562682",
+        "latitude": 18.00056,
+        "longitude": -66.0658
+    },
+    {
+        "cityId": "7269088",
+        "name": "Yaurel Barrio",
+        "stateId": "4562682",
+        "latitude": 18.02432,
+        "longitude": -66.06471
+    }
+]

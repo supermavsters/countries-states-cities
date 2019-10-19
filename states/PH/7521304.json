@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1697808",
+        "name": "Province of Negros Occidental",
+        "stateId": "7521304",
+        "latitude": 10.41667,
+        "longitude": 123
+    },
+    {
+        "cityId": "1711004",
+        "name": "Province of Iloilo",
+        "stateId": "7521304",
+        "latitude": 11,
+        "longitude": 122.66667
+    },
+    {
+        "cityId": "1718641",
+        "name": "Province of Capiz",
+        "stateId": "7521304",
+        "latitude": 11.4,
+        "longitude": 122.56667
+    },
+    {
+        "cityId": "1730491",
+        "name": "Province of Antique",
+        "stateId": "7521304",
+        "latitude": 11.16667,
+        "longitude": 122.08333
+    },
+    {
+        "cityId": "1731758",
+        "name": "Province of Aklan",
+        "stateId": "7521304",
+        "latitude": 11.66667,
+        "longitude": 122.33333
+    },
+    {
+        "cityId": "7602867",
+        "name": "Province of Guimaras",
+        "stateId": "7521304",
+        "latitude": 10.58092,
+        "longitude": 122.62621
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "2179921",
+        "name": "Wairoa District",
+        "stateId": "2190146",
+        "latitude": -39.03333,
+        "longitude": 177.43333
+    },
+    {
+        "cityId": "2190223",
+        "name": "Hastings District",
+        "stateId": "2190146",
+        "latitude": -39.63333,
+        "longitude": 176.85
+    },
+    {
+        "cityId": "7910034",
+        "name": "Central Hawke's Bay District",
+        "stateId": "2190146",
+        "latitude": -40.05568,
+        "longitude": 176.53059
+    },
+    {
+        "cityId": "7910054",
+        "name": "Napier City",
+        "stateId": "2190146",
+        "latitude": -39.47933,
+        "longitude": 176.86887
+    }
+]

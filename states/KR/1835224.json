@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "1835409",
+        "name": "Daedeok-gu",
+        "stateId": "1835224",
+        "latitude": 36.39591,
+        "longitude": 127.43437
+    },
+    {
+        "cityId": "8419684",
+        "name": "Yuseong-gu",
+        "stateId": "1835224",
+        "latitude": 36.36685,
+        "longitude": 127.327
+    },
+    {
+        "cityId": "8419685",
+        "name": "Seo-gu",
+        "stateId": "1835224",
+        "latitude": 36.28071,
+        "longitude": 127.34533
+    },
+    {
+        "cityId": "8419686",
+        "name": "Jung-gu",
+        "stateId": "1835224",
+        "latitude": 36.28044,
+        "longitude": 127.41093
+    },
+    {
+        "cityId": "8419687",
+        "name": "Dong-gu",
+        "stateId": "1835224",
+        "latitude": 36.32938,
+        "longitude": 127.44313
+    }
+]

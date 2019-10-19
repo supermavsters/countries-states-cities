@@ -1,0 +1,107 @@
+[
+    {
+        "cityId": "3665960",
+        "name": "Villanueva",
+        "stateId": "3678847",
+        "latitude": 10.58333,
+        "longitude": -73
+    },
+    {
+        "cityId": "3666412",
+        "name": "Uribia",
+        "stateId": "3678847",
+        "latitude": 11.91667,
+        "longitude": -72
+    },
+    {
+        "cityId": "3669470",
+        "name": "San Juan del Cesar",
+        "stateId": "3678847",
+        "latitude": 10.83333,
+        "longitude": -73.08333
+    },
+    {
+        "cityId": "3670747",
+        "name": "Riohacha",
+        "stateId": "3678847",
+        "latitude": 11.16667,
+        "longitude": -73.08333
+    },
+    {
+        "cityId": "3675659",
+        "name": "Maicao",
+        "stateId": "3678847",
+        "latitude": 11.33333,
+        "longitude": -72.33333
+    },
+    {
+        "cityId": "3682376",
+        "name": "Fonseca",
+        "stateId": "3678847",
+        "latitude": 10.83333,
+        "longitude": -72.83333
+    },
+    {
+        "cityId": "3689165",
+        "name": "Barrancas",
+        "stateId": "3678847",
+        "latitude": 11,
+        "longitude": -72.75
+    },
+    {
+        "cityId": "9172387",
+        "name": "Manaure",
+        "stateId": "3678847",
+        "latitude": 11.58174,
+        "longitude": -72.56515
+    },
+    {
+        "cityId": "9172388",
+        "name": "Urumita",
+        "stateId": "3678847",
+        "latitude": 10.49817,
+        "longitude": -72.97592
+    },
+    {
+        "cityId": "9178719",
+        "name": "El Molino",
+        "stateId": "3678847",
+        "latitude": 10.59462,
+        "longitude": -72.8539
+    },
+    {
+        "cityId": "9179556",
+        "name": "Dibulla",
+        "stateId": "3678847",
+        "latitude": 11.26667,
+        "longitude": -73.3
+    },
+    {
+        "cityId": "9179904",
+        "name": "Distracci\u00f3n",
+        "stateId": "3678847",
+        "latitude": 10.9,
+        "longitude": -72.88333
+    },
+    {
+        "cityId": "9179910",
+        "name": "Albania",
+        "stateId": "3678847",
+        "latitude": 11.1597,
+        "longitude": -72.5856
+    },
+    {
+        "cityId": "9179911",
+        "name": "Hatonuevo",
+        "stateId": "3678847",
+        "latitude": 11.0694,
+        "longitude": -72.7669
+    },
+    {
+        "cityId": "9609524",
+        "name": "La Jagua del Pilar",
+        "stateId": "3678847",
+        "latitude": 10.45809,
+        "longitude": -73.07228
+    }
+]

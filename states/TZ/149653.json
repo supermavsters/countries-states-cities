@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "149171",
+        "name": "Urambo",
+        "stateId": "149653",
+        "latitude": -5.17501,
+        "longitude": 32.13148
+    },
+    {
+        "cityId": "149654",
+        "name": "Tabora Urban",
+        "stateId": "149653",
+        "latitude": -5.02,
+        "longitude": 32.83
+    },
+    {
+        "cityId": "150929",
+        "name": "Nzega",
+        "stateId": "149653",
+        "latitude": -4.33859,
+        "longitude": 33.04794
+    },
+    {
+        "cityId": "159384",
+        "name": "Igunga",
+        "stateId": "149653",
+        "latitude": -4.3514,
+        "longitude": 33.70371
+    },
+    {
+        "cityId": "7647455",
+        "name": "Uyui District",
+        "stateId": "149653",
+        "latitude": -5.06906,
+        "longitude": 33.34351
+    },
+    {
+        "cityId": "9072686",
+        "name": "Sikonge District",
+        "stateId": "149653",
+        "latitude": -5.63333,
+        "longitude": 32.76667
+    },
+    {
+        "cityId": "9998228",
+        "name": "Kaliua",
+        "stateId": "149653",
+        "latitude": -4.90756,
+        "longitude": 31.66403
+    }
+]

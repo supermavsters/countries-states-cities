@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2783770",
+        "name": "Provincie West-Vlaanderen",
+        "stateId": "3337388",
+        "latitude": 51,
+        "longitude": 3
+    },
+    {
+        "cityId": "2789733",
+        "name": "Provincie Oost-Vlaanderen",
+        "stateId": "3337388",
+        "latitude": 51,
+        "longitude": 3.75
+    },
+    {
+        "cityId": "2792347",
+        "name": "Provincie Limburg",
+        "stateId": "3337388",
+        "latitude": 51,
+        "longitude": 5.5
+    },
+    {
+        "cityId": "2803136",
+        "name": "Provincie Antwerpen",
+        "stateId": "3337388",
+        "latitude": 51.16558,
+        "longitude": 4.83402
+    },
+    {
+        "cityId": "3333250",
+        "name": "Provincie Vlaams-Brabant",
+        "stateId": "3337388",
+        "latitude": 50.91667,
+        "longitude": 4.58333
+    }
+]

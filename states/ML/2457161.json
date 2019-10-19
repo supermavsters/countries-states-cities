@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "7670552",
+        "name": "Gourma-Rharous Cercle",
+        "stateId": "2457161",
+        "latitude": 16.07979,
+        "longitude": -1.76981
+    },
+    {
+        "cityId": "7670553",
+        "name": "Gao Cercle",
+        "stateId": "2457161",
+        "latitude": 16.72237,
+        "longitude": 0.43984
+    },
+    {
+        "cityId": "7701465",
+        "name": "Kidal",
+        "stateId": "2457161",
+        "latitude": 18.44389,
+        "longitude": 1.3354
+    },
+    {
+        "cityId": "7701470",
+        "name": "Tombouctou",
+        "stateId": "2457161",
+        "latitude": 21.04685,
+        "longitude": -3.23184
+    },
+    {
+        "cityId": "7701473",
+        "name": "Dire",
+        "stateId": "2457161",
+        "latitude": 16.28017,
+        "longitude": -3.31302
+    },
+    {
+        "cityId": "8631537",
+        "name": "Cercle de Bourem",
+        "stateId": "2457161",
+        "latitude": 17.71192,
+        "longitude": -0.34284
+    },
+    {
+        "cityId": "8631538",
+        "name": "Ansongo Cercle",
+        "stateId": "2457161",
+        "latitude": 15.7369,
+        "longitude": 0.78008
+    },
+    {
+        "cityId": "8631539",
+        "name": "Cercle de M\u00e9naka",
+        "stateId": "2457161",
+        "latitude": 16.66166,
+        "longitude": 2.70226
+    }
+]

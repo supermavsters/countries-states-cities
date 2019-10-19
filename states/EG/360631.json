@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "359901",
+        "name": "Markaz a\u015f \u015eaff",
+        "stateId": "360631",
+        "latitude": 29.6184,
+        "longitude": 31.30946
+    },
+    {
+        "cityId": "360929",
+        "name": "Markaz al Kh\u0101nkah",
+        "stateId": "360631",
+        "latitude": 30.23139,
+        "longitude": 31.42271
+    },
+    {
+        "cityId": "7910874",
+        "name": "Mostafa El Serwy",
+        "stateId": "360631",
+        "latitude": 30.15526,
+        "longitude": 31.33444
+    },
+    {
+        "cityId": "11204016",
+        "name": "Al Marj",
+        "stateId": "360631",
+        "latitude": 30.14572,
+        "longitude": 31.34193
+    }
+]

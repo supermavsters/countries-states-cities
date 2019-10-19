@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "1686065",
+        "name": "Province of Siquijor",
+        "stateId": "7521306",
+        "latitude": 9.18333,
+        "longitude": 123.56667
+    },
+    {
+        "cityId": "1697806",
+        "name": "Province of Negros Oriental",
+        "stateId": "7521306",
+        "latitude": 9.75,
+        "longitude": 123
+    },
+    {
+        "cityId": "1717511",
+        "name": "Province of Cebu",
+        "stateId": "7521306",
+        "latitude": 10.39597,
+        "longitude": 123.78021
+    },
+    {
+        "cityId": "1724395",
+        "name": "Province of Bohol",
+        "stateId": "7521306",
+        "latitude": 9.83333,
+        "longitude": 124.16667
+    }
+]

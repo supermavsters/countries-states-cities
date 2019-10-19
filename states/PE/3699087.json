@@ -1,0 +1,93 @@
+[
+    {
+        "cityId": "3692215",
+        "name": "Provincia de Santa Cruz",
+        "stateId": "3699087",
+        "latitude": -6.83333,
+        "longitude": -79
+    },
+    {
+        "cityId": "3692365",
+        "name": "Provincia de San Miguel",
+        "stateId": "3699087",
+        "latitude": -7,
+        "longitude": -79
+    },
+    {
+        "cityId": "3692526",
+        "name": "Provincia de San Ignacio",
+        "stateId": "3699087",
+        "latitude": -5.08333,
+        "longitude": -79
+    },
+    {
+        "cityId": "3696149",
+        "name": "Provincia de Ja\u00e9n",
+        "stateId": "3699087",
+        "latitude": -5.71074,
+        "longitude": -79.00438
+    },
+    {
+        "cityId": "3696537",
+        "name": "Provincia de Hualgayoc",
+        "stateId": "3699087",
+        "latitude": -6.68,
+        "longitude": -78.53
+    },
+    {
+        "cityId": "3697539",
+        "name": "Provincia de Cutervo",
+        "stateId": "3699087",
+        "latitude": -6.36667,
+        "longitude": -78.85
+    },
+    {
+        "cityId": "3697832",
+        "name": "Provincia de Contumaz\u00e1",
+        "stateId": "3699087",
+        "latitude": -7.33333,
+        "longitude": -78.91667
+    },
+    {
+        "cityId": "3698139",
+        "name": "Provincia de Chota",
+        "stateId": "3699087",
+        "latitude": -6.38332,
+        "longitude": -79.18055
+    },
+    {
+        "cityId": "3698607",
+        "name": "Provincia de Celend\u00edn",
+        "stateId": "3699087",
+        "latitude": -6.83333,
+        "longitude": -78.25
+    },
+    {
+        "cityId": "3699086",
+        "name": "Provincia de Cajamarca",
+        "stateId": "3699087",
+        "latitude": -7.33333,
+        "longitude": -78.41667
+    },
+    {
+        "cityId": "3699094",
+        "name": "Provincia de Cajabamba",
+        "stateId": "3699087",
+        "latitude": -7.5,
+        "longitude": -78.16667
+    },
+    {
+        "cityId": "8349552",
+        "name": "San Marcos",
+        "stateId": "3699087",
+        "latitude": -7.28278,
+        "longitude": -78.06054
+    },
+    {
+        "cityId": "8349553",
+        "name": "San Pablo",
+        "stateId": "3699087",
+        "latitude": -7.0751,
+        "longitude": -78.74922
+    }
+]

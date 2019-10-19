@@ -1,0 +1,37 @@
+[
+    {
+        "cityId": "2016411",
+        "name": "Smidovichskiy Rayon",
+        "stateId": "2026639",
+        "latitude": 48.5,
+        "longitude": 134
+    },
+    {
+        "cityId": "2018609",
+        "name": "Oktyabr\u2019skiy Rayon",
+        "stateId": "2026639",
+        "latitude": 48.16667,
+        "longitude": 131.41667
+    },
+    {
+        "cityId": "2018720",
+        "name": "Obluchenskiy Rayon",
+        "stateId": "2026639",
+        "latitude": 49,
+        "longitude": 132
+    },
+    {
+        "cityId": "2020845",
+        "name": "Leninskiy Rayon",
+        "stateId": "2026639",
+        "latitude": 48.16667,
+        "longitude": 132.25
+    },
+    {
+        "cityId": "2026641",
+        "name": "Birobidzhanskiy Rayon",
+        "stateId": "2026639",
+        "latitude": 48.5,
+        "longitude": 132.75
+    }
+]

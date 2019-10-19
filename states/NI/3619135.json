@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "3617512",
+        "name": "Municipio de Nandaime",
+        "stateId": "3619135",
+        "latitude": 11.75,
+        "longitude": -86
+    },
+    {
+        "cityId": "3619133",
+        "name": "Municipio de Granada",
+        "stateId": "3619135",
+        "latitude": 11.95,
+        "longitude": -85.93333
+    },
+    {
+        "cityId": "3620167",
+        "name": "Municipio de Diriomo",
+        "stateId": "3619135",
+        "latitude": 11.88333,
+        "longitude": -86
+    },
+    {
+        "cityId": "3620171",
+        "name": "Municipio de Diri\u00e1",
+        "stateId": "3619135",
+        "latitude": 11.88333,
+        "longitude": -86.05
+    }
+]

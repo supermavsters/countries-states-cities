@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "3056507",
+        "name": "Okres \u017dilina",
+        "stateId": "3056506",
+        "latitude": 49.22303,
+        "longitude": 18.74044
+    },
+    {
+        "cityId": "3058779",
+        "name": "Okres Martin",
+        "stateId": "3056506",
+        "latitude": 49.06667,
+        "longitude": 18.93333
+    },
+    {
+        "cityId": "3059049",
+        "name": "Okres Liptovsk\u00fd Mikul\u00e1\u0161",
+        "stateId": "3056506",
+        "latitude": 49.08333,
+        "longitude": 19.61667
+    },
+    {
+        "cityId": "3060404",
+        "name": "Okres Doln\u00fd Kub\u00edn",
+        "stateId": "3056506",
+        "latitude": 49.2,
+        "longitude": 19.3
+    },
+    {
+        "cityId": "3060834",
+        "name": "Okres \u010cadca",
+        "stateId": "3056506",
+        "latitude": 49.43333,
+        "longitude": 18.78333
+    },
+    {
+        "cityId": "6692651",
+        "name": "Okres Namestovo",
+        "stateId": "3056506",
+        "latitude": 49.40651,
+        "longitude": 19.4767
+    },
+    {
+        "cityId": "8986284",
+        "name": "Okres Byt\u010da",
+        "stateId": "3056506",
+        "latitude": 49.22267,
+        "longitude": 18.55844
+    },
+    {
+        "cityId": "8986290",
+        "name": "Okres Kysuck\u00e9 Nov\u00e9 Mesto",
+        "stateId": "3056506",
+        "latitude": 49.30206,
+        "longitude": 18.78603
+    },
+    {
+        "cityId": "8986300",
+        "name": "Okres Ru\u017eomberok",
+        "stateId": "3056506",
+        "latitude": 49.07494,
+        "longitude": 19.30083
+    },
+    {
+        "cityId": "8986331",
+        "name": "Okres Tur\u010dianske Teplice",
+        "stateId": "3056506",
+        "latitude": 48.86283,
+        "longitude": 18.85759
+    },
+    {
+        "cityId": "8986332",
+        "name": "Okres Tvrdo\u0161\u00edn",
+        "stateId": "3056506",
+        "latitude": 49.33421,
+        "longitude": 19.55461
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "cityId": "1605548",
+        "name": "Amphoe Thanyaburi",
+        "stateId": "1607982",
+        "latitude": 14.02852,
+        "longitude": 100.76291
+    },
+    {
+        "cityId": "1606686",
+        "name": "Amphoe Sam Khok",
+        "stateId": "1607982",
+        "latitude": 14.07944,
+        "longitude": 100.53336
+    },
+    {
+        "cityId": "1608162",
+        "name": "Amphoe Nong Suea",
+        "stateId": "1607982",
+        "latitude": 14.1603,
+        "longitude": 100.83929
+    },
+    {
+        "cityId": "1608639",
+        "name": "Amphoe Mueang Pathum Thani",
+        "stateId": "1607982",
+        "latitude": 13.99105,
+        "longitude": 100.53554
+    },
+    {
+        "cityId": "1609120",
+        "name": "Amphoe Lat Lum Kaeo",
+        "stateId": "1607982",
+        "latitude": 14.04459,
+        "longitude": 100.40948
+    },
+    {
+        "cityId": "1609218",
+        "name": "Amphoe Lam Luk Ka",
+        "stateId": "1607982",
+        "latitude": 13.97744,
+        "longitude": 100.79244
+    },
+    {
+        "cityId": "1609898",
+        "name": "Amphoe Khlong Luang",
+        "stateId": "1607982",
+        "latitude": 14.09323,
+        "longitude": 100.68106
+    }
+]

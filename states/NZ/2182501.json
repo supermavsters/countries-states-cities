@@ -1,0 +1,23 @@
+[
+    {
+        "cityId": "2190612",
+        "name": "Gore District",
+        "stateId": "2182501",
+        "latitude": -46.08333,
+        "longitude": 168.93333
+    },
+    {
+        "cityId": "7910045",
+        "name": "Invercargill City",
+        "stateId": "2182501",
+        "latitude": -46.48786,
+        "longitude": 168.37003
+    },
+    {
+        "cityId": "7910061",
+        "name": "Southland District",
+        "stateId": "2182501",
+        "latitude": -45.77256,
+        "longitude": 167.85266
+    }
+]

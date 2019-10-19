@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "11153160",
+        "name": "Agn\u00e9by-Tiassa",
+        "stateId": "11153057",
+        "latitude": 5.79488,
+        "longitude": -4.37187
+    },
+    {
+        "cityId": "11153161",
+        "name": "Grands-Ponts",
+        "stateId": "11153057",
+        "latitude": 5.30487,
+        "longitude": -4.39247
+    },
+    {
+        "cityId": "11153162",
+        "name": "La M\u00e9",
+        "stateId": "11153057",
+        "latitude": 6.2905,
+        "longitude": -3.83835
+    },
+    {
+        "cityId": "11362033",
+        "name": "R\u00e9gion de La M\u00e9",
+        "stateId": "11153057",
+        "latitude": 6,
+        "longitude": -3.70833
+    }
+]

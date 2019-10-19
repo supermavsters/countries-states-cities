@@ -1,0 +1,30 @@
+[
+    {
+        "cityId": "7870561",
+        "name": "Madingo-Kayes",
+        "stateId": "2258738",
+        "latitude": -4.06048,
+        "longitude": 11.54874
+    },
+    {
+        "cityId": "7870563",
+        "name": "Kakamoeka",
+        "stateId": "2258738",
+        "latitude": -4.11428,
+        "longitude": 11.93538
+    },
+    {
+        "cityId": "7870579",
+        "name": "Mvouti",
+        "stateId": "2258738",
+        "latitude": -4.37671,
+        "longitude": 12.34643
+    },
+    {
+        "cityId": "8051169",
+        "name": "Pointe-Noire",
+        "stateId": "2258738",
+        "latitude": -4.624,
+        "longitude": 12.004
+    }
+]

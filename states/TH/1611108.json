@@ -1,0 +1,79 @@
+[
+    {
+        "cityId": "1606249",
+        "name": "Amphoe Si Racha",
+        "stateId": "1611108",
+        "latitude": 13.12976,
+        "longitude": 101.04008
+    },
+    {
+        "cityId": "1606385",
+        "name": "Amphoe Sattahip",
+        "stateId": "1611108",
+        "latitude": 12.71743,
+        "longitude": 100.92754
+    },
+    {
+        "cityId": "1607792",
+        "name": "Amphoe Phan Thong",
+        "stateId": "1611108",
+        "latitude": 13.463,
+        "longitude": 101.09131
+    },
+    {
+        "cityId": "1607837",
+        "name": "Amphoe Phanat Nikhom",
+        "stateId": "1611108",
+        "latitude": 13.46434,
+        "longitude": 101.21428
+    },
+    {
+        "cityId": "1608659",
+        "name": "Mueang Chonburi District",
+        "stateId": "1611108",
+        "latitude": 13.34271,
+        "longitude": 101.00111
+    },
+    {
+        "cityId": "1609478",
+        "name": "Amphoe Ko Si Chang",
+        "stateId": "1611108",
+        "latitude": 13.15286,
+        "longitude": 100.81156
+    },
+    {
+        "cityId": "1619422",
+        "name": "Amphoe Bang Lamung",
+        "stateId": "1611108",
+        "latitude": 12.92579,
+        "longitude": 100.89243
+    },
+    {
+        "cityId": "1620432",
+        "name": "Amphoe Ban Bueng",
+        "stateId": "1611108",
+        "latitude": 13.2528,
+        "longitude": 101.18151
+    },
+    {
+        "cityId": "7510703",
+        "name": "Amphoe Bo Thong",
+        "stateId": "1611108",
+        "latitude": 13.24227,
+        "longitude": 101.50864
+    },
+    {
+        "cityId": "7510704",
+        "name": "Amphoe Ko Chan",
+        "stateId": "1611108",
+        "latitude": 13.40253,
+        "longitude": 101.388
+    },
+    {
+        "cityId": "7510705",
+        "name": "Amphoe Nong Yai",
+        "stateId": "1611108",
+        "latitude": 13.11772,
+        "longitude": 101.37471
+    }
+]

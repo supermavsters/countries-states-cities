@@ -1,0 +1,100 @@
+[
+    {
+        "cityId": "3541444",
+        "name": "Municipio de Sagua de T\u00e1namo",
+        "stateId": "3556965",
+        "latitude": 20.58333,
+        "longitude": -75.23333
+    },
+    {
+        "cityId": "3547315",
+        "name": "Municipio de Mayar\u00ed",
+        "stateId": "3556965",
+        "latitude": 20.65,
+        "longitude": -75.68333
+    },
+    {
+        "cityId": "3556966",
+        "name": "Municipio de Holgu\u00edn",
+        "stateId": "3556965",
+        "latitude": 20.88333,
+        "longitude": -76.25
+    },
+    {
+        "cityId": "3558314",
+        "name": "Municipio de Gibara",
+        "stateId": "3556965",
+        "latitude": 21.11667,
+        "longitude": -76.13333
+    },
+    {
+        "cityId": "3567863",
+        "name": "Municipio de Banes",
+        "stateId": "3556965",
+        "latitude": 20.96667,
+        "longitude": -75.71667
+    },
+    {
+        "cityId": "3568725",
+        "name": "Municipio de Antilla",
+        "stateId": "3556965",
+        "latitude": 20.83333,
+        "longitude": -75.73333
+    },
+    {
+        "cityId": "9347806",
+        "name": "Municipio de Calixto Garcia",
+        "stateId": "3556965",
+        "latitude": 20.84321,
+        "longitude": -76.59093
+    },
+    {
+        "cityId": "11288230",
+        "name": "Baguanos",
+        "stateId": "3556965",
+        "latitude": 20.7504,
+        "longitude": -76.02668
+    },
+    {
+        "cityId": "11288231",
+        "name": "Cacocum",
+        "stateId": "3556965",
+        "latitude": 20.73587,
+        "longitude": -76.32674
+    },
+    {
+        "cityId": "11288232",
+        "name": "Frank Pais",
+        "stateId": "3556965",
+        "latitude": 20.65586,
+        "longitude": -75.26236
+    },
+    {
+        "cityId": "11288233",
+        "name": "Moa",
+        "stateId": "3556965",
+        "latitude": 20.65779,
+        "longitude": -74.94822
+    },
+    {
+        "cityId": "11288250",
+        "name": "Urbano Noris",
+        "stateId": "3556965",
+        "latitude": 20.59746,
+        "longitude": -76.13826
+    },
+    {
+        "cityId": "11288251",
+        "name": "Rafael Freyre",
+        "stateId": "3556965",
+        "latitude": 21.02934,
+        "longitude": -75.99887
+    },
+    {
+        "cityId": "11288300",
+        "name": "Cueto",
+        "stateId": "3556965",
+        "latitude": 20.64763,
+        "longitude": -75.93269
+    }
+]

@@ -1,0 +1,520 @@
+[
+    {
+        "cityId": "2177036",
+        "name": "Balonne Shire",
+        "stateId": "2152274",
+        "latitude": -28.28481,
+        "longitude": 148.17933
+    },
+    {
+        "cityId": "7839346",
+        "name": "Maranoa",
+        "stateId": "2152274",
+        "latitude": -26.39289,
+        "longitude": 148.43098
+    },
+    {
+        "cityId": "7839350",
+        "name": "Cassowary Coast",
+        "stateId": "2152274",
+        "latitude": -17.96785,
+        "longitude": 145.96561
+    },
+    {
+        "cityId": "7839376",
+        "name": "Moreton Bay",
+        "stateId": "2152274",
+        "latitude": -27.10731,
+        "longitude": 152.92937
+    },
+    {
+        "cityId": "7839377",
+        "name": "Mornington",
+        "stateId": "2152274",
+        "latitude": -16.68436,
+        "longitude": 139.46682
+    },
+    {
+        "cityId": "7839378",
+        "name": "Mount Isa",
+        "stateId": "2152274",
+        "latitude": -19.74831,
+        "longitude": 139.01443
+    },
+    {
+        "cityId": "7839379",
+        "name": "Murweh",
+        "stateId": "2152274",
+        "latitude": -26.13609,
+        "longitude": 146.6041
+    },
+    {
+        "cityId": "7839380",
+        "name": "Napranum",
+        "stateId": "2152274",
+        "latitude": -12.55322,
+        "longitude": 142.06558
+    },
+    {
+        "cityId": "7839381",
+        "name": "North Burnett",
+        "stateId": "2152274",
+        "latitude": -25.24444,
+        "longitude": 151.32301
+    },
+    {
+        "cityId": "7839382",
+        "name": "Northern Peninsula Area",
+        "stateId": "2152274",
+        "latitude": -10.9719,
+        "longitude": 142.35364
+    },
+    {
+        "cityId": "7839383",
+        "name": "Palm Island",
+        "stateId": "2152274",
+        "latitude": -18.74893,
+        "longitude": 146.60379
+    },
+    {
+        "cityId": "7839384",
+        "name": "Paroo",
+        "stateId": "2152274",
+        "latitude": -27.98742,
+        "longitude": 145.71755
+    },
+    {
+        "cityId": "7839385",
+        "name": "Pormpuraaw",
+        "stateId": "2152274",
+        "latitude": -14.65705,
+        "longitude": 141.83354
+    },
+    {
+        "cityId": "7839386",
+        "name": "Quilpie",
+        "stateId": "2152274",
+        "latitude": -26.15057,
+        "longitude": 143.57936
+    },
+    {
+        "cityId": "7839387",
+        "name": "Redland",
+        "stateId": "2152274",
+        "latitude": -27.53791,
+        "longitude": 153.24829
+    },
+    {
+        "cityId": "7839388",
+        "name": "Richmond",
+        "stateId": "2152274",
+        "latitude": -20.56967,
+        "longitude": 142.91384
+    },
+    {
+        "cityId": "7839389",
+        "name": "Rockhampton",
+        "stateId": "2152274",
+        "latitude": -22.88444,
+        "longitude": 150.22716
+    },
+    {
+        "cityId": "7839390",
+        "name": "Scenic Rim",
+        "stateId": "2152274",
+        "latitude": -28.04021,
+        "longitude": 152.80688
+    },
+    {
+        "cityId": "7839391",
+        "name": "Somerset",
+        "stateId": "2152274",
+        "latitude": -27.01133,
+        "longitude": 152.41521
+    },
+    {
+        "cityId": "7839392",
+        "name": "South Burnett",
+        "stateId": "2152274",
+        "latitude": -26.40077,
+        "longitude": 151.60166
+    },
+    {
+        "cityId": "7839393",
+        "name": "Southern Downs",
+        "stateId": "2152274",
+        "latitude": -28.50265,
+        "longitude": 151.92165
+    },
+    {
+        "cityId": "7839394",
+        "name": "Sunshine Coast",
+        "stateId": "2152274",
+        "latitude": -26.56098,
+        "longitude": 152.85113
+    },
+    {
+        "cityId": "7839395",
+        "name": "Tablelands",
+        "stateId": "2152274",
+        "latitude": -17.31041,
+        "longitude": 144.00716
+    },
+    {
+        "cityId": "7839396",
+        "name": "Toowoomba",
+        "stateId": "2152274",
+        "latitude": -27.47958,
+        "longitude": 151.47705
+    },
+    {
+        "cityId": "7839397",
+        "name": "Torres",
+        "stateId": "2152274",
+        "latitude": -10.57928,
+        "longitude": 142.22059
+    },
+    {
+        "cityId": "7839398",
+        "name": "Torres Strait Island Region",
+        "stateId": "2152274",
+        "latitude": -10.20141,
+        "longitude": 142.27295
+    },
+    {
+        "cityId": "7839399",
+        "name": "Townsville",
+        "stateId": "2152274",
+        "latitude": -19.352,
+        "longitude": 146.63223
+    },
+    {
+        "cityId": "7839400",
+        "name": "Weipa",
+        "stateId": "2152274",
+        "latitude": -12.63671,
+        "longitude": 141.87555
+    },
+    {
+        "cityId": "7839401",
+        "name": "Western Downs",
+        "stateId": "2152274",
+        "latitude": -26.80665,
+        "longitude": 150.3859
+    },
+    {
+        "cityId": "7839413",
+        "name": "Whitsunday",
+        "stateId": "2152274",
+        "latitude": -20.6978,
+        "longitude": 148.01349
+    },
+    {
+        "cityId": "7839414",
+        "name": "Winton",
+        "stateId": "2152274",
+        "latitude": -22.50749,
+        "longitude": 142.66199
+    },
+    {
+        "cityId": "7839415",
+        "name": "Woorabinda",
+        "stateId": "2152274",
+        "latitude": -24.1501,
+        "longitude": 149.44977
+    },
+    {
+        "cityId": "7839416",
+        "name": "Wujal Wujal",
+        "stateId": "2152274",
+        "latitude": -15.96904,
+        "longitude": 145.3152
+    },
+    {
+        "cityId": "7839417",
+        "name": "Yarrabah",
+        "stateId": "2152274",
+        "latitude": -16.99463,
+        "longitude": 145.88058
+    },
+    {
+        "cityId": "7839556",
+        "name": "Aurukun",
+        "stateId": "2152274",
+        "latitude": -13.51263,
+        "longitude": 141.82435
+    },
+    {
+        "cityId": "7839557",
+        "name": "Banana",
+        "stateId": "2152274",
+        "latitude": -24.80653,
+        "longitude": 149.89838
+    },
+    {
+        "cityId": "7839558",
+        "name": "Barcaldine",
+        "stateId": "2152274",
+        "latitude": -23.05203,
+        "longitude": 145.4349
+    },
+    {
+        "cityId": "7839559",
+        "name": "Barcoo",
+        "stateId": "2152274",
+        "latitude": -25.17292,
+        "longitude": 142.46481
+    },
+    {
+        "cityId": "7839560",
+        "name": "Blackall Tambo",
+        "stateId": "2152274",
+        "latitude": -24.78795,
+        "longitude": 145.97279
+    },
+    {
+        "cityId": "7839561",
+        "name": "Boulia",
+        "stateId": "2152274",
+        "latitude": -22.27908,
+        "longitude": 139.62534
+    },
+    {
+        "cityId": "7839562",
+        "name": "Brisbane",
+        "stateId": "2152274",
+        "latitude": -27.44573,
+        "longitude": 153.02994
+    },
+    {
+        "cityId": "7839563",
+        "name": "Bulloo",
+        "stateId": "2152274",
+        "latitude": -27.83079,
+        "longitude": 142.9128
+    },
+    {
+        "cityId": "7839564",
+        "name": "Bundaberg",
+        "stateId": "2152274",
+        "latitude": -24.97305,
+        "longitude": 151.98442
+    },
+    {
+        "cityId": "7839565",
+        "name": "Burdekin",
+        "stateId": "2152274",
+        "latitude": -19.84934,
+        "longitude": 147.27239
+    },
+    {
+        "cityId": "7839566",
+        "name": "Burke",
+        "stateId": "2152274",
+        "latitude": -18.06461,
+        "longitude": 139.03748
+    },
+    {
+        "cityId": "7839567",
+        "name": "Cairns",
+        "stateId": "2152274",
+        "latitude": -16.90268,
+        "longitude": 145.75287
+    },
+    {
+        "cityId": "7839568",
+        "name": "Carpentaria",
+        "stateId": "2152274",
+        "latitude": -17.32216,
+        "longitude": 141.3531
+    },
+    {
+        "cityId": "7839569",
+        "name": "Central Highlands",
+        "stateId": "2152274",
+        "latitude": -24.06336,
+        "longitude": 148.31958
+    },
+    {
+        "cityId": "7839570",
+        "name": "Charters Towers",
+        "stateId": "2152274",
+        "latitude": -20.20927,
+        "longitude": 145.81645
+    },
+    {
+        "cityId": "7839571",
+        "name": "Cherbourg",
+        "stateId": "2152274",
+        "latitude": -26.2875,
+        "longitude": 151.93279
+    },
+    {
+        "cityId": "7839572",
+        "name": "Cloncurry",
+        "stateId": "2152274",
+        "latitude": -20.69889,
+        "longitude": 140.27115
+    },
+    {
+        "cityId": "7839573",
+        "name": "Cook Shire",
+        "stateId": "2152274",
+        "latitude": -13.68149,
+        "longitude": 143.53156
+    },
+    {
+        "cityId": "7839574",
+        "name": "Croydon",
+        "stateId": "2152274",
+        "latitude": -18.5136,
+        "longitude": 142.32249
+    },
+    {
+        "cityId": "7839575",
+        "name": "Diamantina",
+        "stateId": "2152274",
+        "latitude": -24.57676,
+        "longitude": 140.07163
+    },
+    {
+        "cityId": "7839576",
+        "name": "Doomadgee",
+        "stateId": "2152274",
+        "latitude": -17.63879,
+        "longitude": 138.74359
+    },
+    {
+        "cityId": "7839577",
+        "name": "Etheridge",
+        "stateId": "2152274",
+        "latitude": -18.56276,
+        "longitude": 143.53832
+    },
+    {
+        "cityId": "7839578",
+        "name": "Flinders",
+        "stateId": "2152274",
+        "latitude": -20.8903,
+        "longitude": 144.38814
+    },
+    {
+        "cityId": "7839579",
+        "name": "Fraser Coast",
+        "stateId": "2152274",
+        "latitude": -25.34145,
+        "longitude": 152.67024
+    },
+    {
+        "cityId": "7839580",
+        "name": "Gladstone",
+        "stateId": "2152274",
+        "latitude": -24.01869,
+        "longitude": 151.65818
+    },
+    {
+        "cityId": "7839581",
+        "name": "Gold Coast",
+        "stateId": "2152274",
+        "latitude": -27.97851,
+        "longitude": 153.36055
+    },
+    {
+        "cityId": "7839582",
+        "name": "Goondiwindi",
+        "stateId": "2152274",
+        "latitude": -28.46221,
+        "longitude": 150.31345
+    },
+    {
+        "cityId": "7839583",
+        "name": "Gympie Regional Council",
+        "stateId": "2152274",
+        "latitude": -26.18881,
+        "longitude": 152.65868
+    },
+    {
+        "cityId": "7839584",
+        "name": "Hinchinbrook",
+        "stateId": "2152274",
+        "latitude": -18.6584,
+        "longitude": 146.12296
+    },
+    {
+        "cityId": "7839585",
+        "name": "Hope Vale",
+        "stateId": "2152274",
+        "latitude": -15.13588,
+        "longitude": 145.19248
+    },
+    {
+        "cityId": "7839586",
+        "name": "Ipswich",
+        "stateId": "2152274",
+        "latitude": -27.6779,
+        "longitude": 152.66188
+    },
+    {
+        "cityId": "7839587",
+        "name": "Isaac",
+        "stateId": "2152274",
+        "latitude": -22.24346,
+        "longitude": 148.23672
+    },
+    {
+        "cityId": "7839588",
+        "name": "Kowanyama",
+        "stateId": "2152274",
+        "latitude": -15.27882,
+        "longitude": 141.81287
+    },
+    {
+        "cityId": "7839589",
+        "name": "Lockhart River",
+        "stateId": "2152274",
+        "latitude": -13.01876,
+        "longitude": 143.25024
+    },
+    {
+        "cityId": "7839590",
+        "name": "Lockyer Valley",
+        "stateId": "2152274",
+        "latitude": -27.68139,
+        "longitude": 152.23036
+    },
+    {
+        "cityId": "7839591",
+        "name": "Logan",
+        "stateId": "2152274",
+        "latitude": -27.76294,
+        "longitude": 153.04492
+    },
+    {
+        "cityId": "7839592",
+        "name": "Longreach",
+        "stateId": "2152274",
+        "latitude": -23.876,
+        "longitude": 143.86708
+    },
+    {
+        "cityId": "7839593",
+        "name": "Mackay",
+        "stateId": "2152274",
+        "latitude": -21.08189,
+        "longitude": 149.04265
+    },
+    {
+        "cityId": "7839594",
+        "name": "McKinlay",
+        "stateId": "2152274",
+        "latitude": -20.59413,
+        "longitude": 141.67448
+    },
+    {
+        "cityId": "7839595",
+        "name": "Mapoon",
+        "stateId": "2152274",
+        "latitude": -12.1096,
+        "longitude": 141.90216
+    }
+]

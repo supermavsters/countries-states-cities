@@ -1,0 +1,44 @@
+[
+    {
+        "cityId": "1630933",
+        "name": "Kabupaten Polewali Mandar",
+        "stateId": "1996550",
+        "latitude": -3.3,
+        "longitude": 119.16667
+    },
+    {
+        "cityId": "1636555",
+        "name": "Kabupaten Mamuju",
+        "stateId": "1996550",
+        "latitude": -2.5,
+        "longitude": 119.41667
+    },
+    {
+        "cityId": "1636805",
+        "name": "Kabupaten Majene",
+        "stateId": "1996550",
+        "latitude": -3.15,
+        "longitude": 118.86667
+    },
+    {
+        "cityId": "7910939",
+        "name": "Kabupaten Mamasa",
+        "stateId": "1996550",
+        "latitude": -2.96492,
+        "longitude": 119.30631
+    },
+    {
+        "cityId": "9827966",
+        "name": "Kabupaten Mamuju Tengah",
+        "stateId": "1996550",
+        "latitude": -2.8212,
+        "longitude": 119.2662
+    },
+    {
+        "cityId": "9828890",
+        "name": "Kabupaten Mamuju Utara",
+        "stateId": "1996550",
+        "latitude": -1.51639,
+        "longitude": 119.42139
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cityId": "2468367",
+        "name": "D\u00e9l\u00e9gation de Gab\u00e8s Ville",
+        "stateId": "2468365",
+        "latitude": 33.89615,
+        "longitude": 10.09673
+    },
+    {
+        "cityId": "2473532",
+        "name": "Metouia",
+        "stateId": "2468365",
+        "latitude": 34.0646,
+        "longitude": 9.95376
+    },
+    {
+        "cityId": "11101910",
+        "name": "Menzel Habib",
+        "stateId": "2468365",
+        "latitude": 34.23032,
+        "longitude": 9.59656
+    },
+    {
+        "cityId": "11105081",
+        "name": "Dekhilet Toujane",
+        "stateId": "2468365",
+        "latitude": 33.45417,
+        "longitude": 10.12497
+    },
+    {
+        "cityId": "11105082",
+        "name": "Nouvelle Matmata",
+        "stateId": "2468365",
+        "latitude": 33.66601,
+        "longitude": 9.88517
+    },
+    {
+        "cityId": "11105083",
+        "name": "Ghannouch",
+        "stateId": "2468365",
+        "latitude": 33.94324,
+        "longitude": 10.0575
+    },
+    {
+        "cityId": "11128523",
+        "name": "D\u00e9l\u00e9gation de Gab\u00e8s Ouest",
+        "stateId": "2468365",
+        "latitude": 33.89484,
+        "longitude": 9.9884
+    },
+    {
+        "cityId": "11128524",
+        "name": "D\u00e9l\u00e9gation de Gab\u00e8s Sud",
+        "stateId": "2468365",
+        "latitude": 33.79805,
+        "longitude": 10.04938
+    }
+]
