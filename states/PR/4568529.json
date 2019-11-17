@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268086",
+        "cityId": 7268086,
         "name": "Cienegueta Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.3416,
         "longitude": -66.36641
     },
     {
-        "cityId": "7268228",
+        "cityId": 7268228,
         "name": "Bajura Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.41451,
         "longitude": -66.34694
     },
     {
-        "cityId": "7268319",
+        "cityId": 7268319,
         "name": "Candelaria Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.37487,
         "longitude": -66.35793
     },
     {
-        "cityId": "7268383",
+        "cityId": 7268383,
         "name": "Espinosa Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.41352,
         "longitude": -66.31274
     },
     {
-        "cityId": "7268624",
+        "cityId": 7268624,
         "name": "Maricao Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.38436,
         "longitude": -66.3303
     },
     {
-        "cityId": "7268643",
+        "cityId": 7268643,
         "name": "Mavilla Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.36298,
         "longitude": -66.34666
     },
     {
-        "cityId": "7268937",
+        "cityId": 7268937,
         "name": "Sabana Barrio",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.45656,
         "longitude": -66.33285
     },
     {
-        "cityId": "7269067",
+        "cityId": 7269067,
         "name": "Vega Alta Barrio-Pueblo",
-        "stateId": "4568529",
+        "stateId": 4568529,
         "latitude": 18.41146,
         "longitude": -66.32895
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "149542",
+        "cityId": 149542,
         "name": "Temeke",
-        "stateId": "160260",
+        "stateId": 160260,
         "latitude": -6.92452,
         "longitude": 39.42177
     },
     {
-        "cityId": "157253",
+        "cityId": 157253,
         "name": "Kinondoni",
-        "stateId": "160260",
+        "stateId": 160260,
         "latitude": -6.71666,
         "longitude": 39.14437
     },
     {
-        "cityId": "159239",
+        "cityId": 159239,
         "name": "Ilala",
-        "stateId": "160260",
+        "stateId": 160260,
         "latitude": -6.91805,
         "longitude": 39.16254
     }

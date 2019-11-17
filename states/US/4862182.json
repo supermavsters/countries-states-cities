@@ -1,694 +1,694 @@
 [
     {
-        "cityId": "4831820",
+        "cityId": 4831820,
         "name": "Iowa County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68632,
         "longitude": -92.06552
     },
     {
-        "cityId": "4846344",
+        "cityId": 4846344,
         "name": "Adair County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33075,
         "longitude": -94.47094
     },
     {
-        "cityId": "4846362",
+        "cityId": 4846362,
         "name": "Adams County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.02898,
         "longitude": -94.69918
     },
     {
-        "cityId": "4846643",
+        "cityId": 4846643,
         "name": "Allamakee County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.28428,
         "longitude": -91.37809
     },
     {
-        "cityId": "4847063",
+        "cityId": 4847063,
         "name": "Appanoose County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.74316,
         "longitude": -92.86861
     },
     {
-        "cityId": "4847428",
+        "cityId": 4847428,
         "name": "Audubon County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68459,
         "longitude": -94.90582
     },
     {
-        "cityId": "4848237",
+        "cityId": 4848237,
         "name": "Benton County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.08019,
         "longitude": -92.06569
     },
     {
-        "cityId": "4848699",
+        "cityId": 4848699,
         "name": "Black Hawk County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.4701,
         "longitude": -92.30882
     },
     {
-        "cityId": "4849058",
+        "cityId": 4849058,
         "name": "Boone County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03655,
         "longitude": -93.93167
     },
     {
-        "cityId": "4849288",
+        "cityId": 4849288,
         "name": "Bremer County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.77459,
         "longitude": -92.31805
     },
     {
-        "cityId": "4849598",
+        "cityId": 4849598,
         "name": "Buchanan County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.47078,
         "longitude": -91.83784
     },
     {
-        "cityId": "4849689",
+        "cityId": 4849689,
         "name": "Buena Vista County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73549,
         "longitude": -95.15115
     },
     {
-        "cityId": "4849935",
+        "cityId": 4849935,
         "name": "Butler County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73157,
         "longitude": -92.79019
     },
     {
-        "cityId": "4850031",
+        "cityId": 4850031,
         "name": "Calhoun County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38518,
         "longitude": -94.64041
     },
     {
-        "cityId": "4850488",
+        "cityId": 4850488,
         "name": "Carroll County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03624,
         "longitude": -94.86056
     },
     {
-        "cityId": "4850583",
+        "cityId": 4850583,
         "name": "Cass County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33149,
         "longitude": -94.92783
     },
     {
-        "cityId": "4850676",
+        "cityId": 4850676,
         "name": "Cedar County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.77232,
         "longitude": -91.13241
     },
     {
-        "cityId": "4851093",
+        "cityId": 4851093,
         "name": "Cerro Gordo County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08156,
         "longitude": -93.26082
     },
     {
-        "cityId": "4851249",
+        "cityId": 4851249,
         "name": "Cherokee County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73562,
         "longitude": -95.62381
     },
     {
-        "cityId": "4851303",
+        "cityId": 4851303,
         "name": "Chickasaw County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.06004,
         "longitude": -92.31766
     },
     {
-        "cityId": "4851832",
+        "cityId": 4851832,
         "name": "Clarke County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.02903,
         "longitude": -93.78516
     },
     {
-        "cityId": "4851866",
+        "cityId": 4851866,
         "name": "Clay County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08258,
         "longitude": -95.15092
     },
     {
-        "cityId": "4851902",
+        "cityId": 4851902,
         "name": "Clayton County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.84475,
         "longitude": -91.34143
     },
     {
-        "cityId": "4852032",
+        "cityId": 4852032,
         "name": "Clinton County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.89804,
         "longitude": -90.53197
     },
     {
-        "cityId": "4853012",
+        "cityId": 4853012,
         "name": "Crawford County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03721,
         "longitude": -95.38197
     },
     {
-        "cityId": "4853335",
+        "cityId": 4853335,
         "name": "Dallas County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68489,
         "longitude": -94.03974
     },
     {
-        "cityId": "4853465",
+        "cityId": 4853465,
         "name": "Davis County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.74769,
         "longitude": -92.40972
     },
     {
-        "cityId": "4853590",
+        "cityId": 4853590,
         "name": "Decatur County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.73768,
         "longitude": -93.78628
     },
     {
-        "cityId": "4853709",
+        "cityId": 4853709,
         "name": "Delaware County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.47121,
         "longitude": -91.36735
     },
     {
-        "cityId": "4853838",
+        "cityId": 4853838,
         "name": "Des Moines County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.92318,
         "longitude": -91.18147
     },
     {
-        "cityId": "4853961",
+        "cityId": 4853961,
         "name": "Dickinson County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.37798,
         "longitude": -95.15083
     },
     {
-        "cityId": "4854534",
+        "cityId": 4854534,
         "name": "Dubuque County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.46883,
         "longitude": -90.88246
     },
     {
-        "cityId": "4855587",
+        "cityId": 4855587,
         "name": "Emmet County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.37802,
         "longitude": -94.67848
     },
     {
-        "cityId": "4856473",
+        "cityId": 4856473,
         "name": "Fayette County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.86259,
         "longitude": -91.84432
     },
     {
-        "cityId": "4857314",
+        "cityId": 4857314,
         "name": "Floyd County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.05992,
         "longitude": -92.789
     },
     {
-        "cityId": "4857648",
+        "cityId": 4857648,
         "name": "Franklin County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73255,
         "longitude": -93.26247
     },
     {
-        "cityId": "4857806",
+        "cityId": 4857806,
         "name": "Fremont County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.74559,
         "longitude": -95.60468
     },
     {
-        "cityId": "4859214",
+        "cityId": 4859214,
         "name": "Greene County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03624,
         "longitude": -94.39684
     },
     {
-        "cityId": "4859441",
+        "cityId": 4859441,
         "name": "Grundy County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.40187,
         "longitude": -92.79142
     },
     {
-        "cityId": "4859502",
+        "cityId": 4859502,
         "name": "Guthrie County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68375,
         "longitude": -94.50105
     },
     {
-        "cityId": "4859624",
+        "cityId": 4859624,
         "name": "Hamilton County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38377,
         "longitude": -93.70681
     },
     {
-        "cityId": "4859678",
+        "cityId": 4859678,
         "name": "Hancock County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08189,
         "longitude": -93.73427
     },
     {
-        "cityId": "4859771",
+        "cityId": 4859771,
         "name": "Hardin County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38388,
         "longitude": -93.2404
     },
     {
-        "cityId": "4859901",
+        "cityId": 4859901,
         "name": "Harrison County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68285,
         "longitude": -95.81692
     },
     {
-        "cityId": "4860353",
+        "cityId": 4860353,
         "name": "Henry County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.98794,
         "longitude": -91.54452
     },
     {
-        "cityId": "4861232",
+        "cityId": 4861232,
         "name": "Howard County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.35677,
         "longitude": -92.3172
     },
     {
-        "cityId": "4861343",
+        "cityId": 4861343,
         "name": "Humboldt County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.77647,
         "longitude": -94.20719
     },
     {
-        "cityId": "4861459",
+        "cityId": 4861459,
         "name": "Ida County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38687,
         "longitude": -95.5135
     },
     {
-        "cityId": "4862320",
+        "cityId": 4862320,
         "name": "Jackson County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.17174,
         "longitude": -90.57423
     },
     {
-        "cityId": "4862456",
+        "cityId": 4862456,
         "name": "Jasper County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68604,
         "longitude": -93.05376
     },
     {
-        "cityId": "4862494",
+        "cityId": 4862494,
         "name": "Jefferson County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.03176,
         "longitude": -91.94888
     },
     {
-        "cityId": "4862732",
+        "cityId": 4862732,
         "name": "Johnson County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.67155,
         "longitude": -91.58808
     },
     {
-        "cityId": "4862800",
+        "cityId": 4862800,
         "name": "Jones County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.12124,
         "longitude": -91.13144
     },
     {
-        "cityId": "4863357",
+        "cityId": 4863357,
         "name": "Keokuk County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33646,
         "longitude": -92.17864
     },
     {
-        "cityId": "4863753",
+        "cityId": 4863753,
         "name": "Kossuth County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.20413,
         "longitude": -94.20672
     },
     {
-        "cityId": "4864395",
+        "cityId": 4864395,
         "name": "Lee County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.64198,
         "longitude": -91.47926
     },
     {
-        "cityId": "4864924",
+        "cityId": 4864924,
         "name": "Linn County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.07895,
         "longitude": -91.59896
     },
     {
-        "cityId": "4865506",
+        "cityId": 4865506,
         "name": "Louisa County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.21851,
         "longitude": -91.25962
     },
     {
-        "cityId": "4865617",
+        "cityId": 4865617,
         "name": "Lucas County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.02937,
         "longitude": -93.32772
     },
     {
-        "cityId": "4865744",
+        "cityId": 4865744,
         "name": "Lyon County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.3805,
         "longitude": -96.21029
     },
     {
-        "cityId": "4865839",
+        "cityId": 4865839,
         "name": "Madison County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33071,
         "longitude": -94.01556
     },
     {
-        "cityId": "4865894",
+        "cityId": 4865894,
         "name": "Mahaska County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.3352,
         "longitude": -92.64091
     },
     {
-        "cityId": "4866274",
+        "cityId": 4866274,
         "name": "Marion County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33445,
         "longitude": -93.09944
     },
     {
-        "cityId": "4866360",
+        "cityId": 4866360,
         "name": "Marshall County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03585,
         "longitude": -92.99877
     },
     {
-        "cityId": "4867477",
+        "cityId": 4867477,
         "name": "Mills County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.03345,
         "longitude": -95.62133
     },
     {
-        "cityId": "4867612",
+        "cityId": 4867612,
         "name": "Mitchell County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.35641,
         "longitude": -92.78903
     },
     {
-        "cityId": "4867704",
+        "cityId": 4867704,
         "name": "Monona County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.05167,
         "longitude": -95.95992
     },
     {
-        "cityId": "4867729",
+        "cityId": 4867729,
         "name": "Monroe County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.02978,
         "longitude": -92.86899
     },
     {
-        "cityId": "4867788",
+        "cityId": 4867788,
         "name": "Montgomery County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.03014,
         "longitude": -95.15638
     },
     {
-        "cityId": "4868410",
+        "cityId": 4868410,
         "name": "Muscatine County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.48392,
         "longitude": -91.11276
     },
     {
-        "cityId": "4869475",
+        "cityId": 4869475,
         "name": "O'Brien County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08375,
         "longitude": -95.62488
     },
     {
-        "cityId": "4870217",
+        "cityId": 4870217,
         "name": "Osceola County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.37857,
         "longitude": -95.62369
     },
     {
-        "cityId": "4870567",
+        "cityId": 4870567,
         "name": "Page County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.73914,
         "longitude": -95.15017
     },
     {
-        "cityId": "4870630",
+        "cityId": 4870630,
         "name": "Palo Alto County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08206,
         "longitude": -94.67814
     },
     {
-        "cityId": "4871708",
+        "cityId": 4871708,
         "name": "Plymouth County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73783,
         "longitude": -96.21404
     },
     {
-        "cityId": "4871736",
+        "cityId": 4871736,
         "name": "Pocahontas County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73414,
         "longitude": -94.67875
     },
     {
-        "cityId": "4871782",
+        "cityId": 4871782,
         "name": "Polk County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.6855,
         "longitude": -93.57353
     },
     {
-        "cityId": "4871894",
+        "cityId": 4871894,
         "name": "Pottawattamie County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33661,
         "longitude": -95.54239
     },
     {
-        "cityId": "4871919",
+        "cityId": 4871919,
         "name": "Poweshiek County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68644,
         "longitude": -92.53147
     },
     {
-        "cityId": "4873016",
+        "cityId": 4873016,
         "name": "Ringgold County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.7352,
         "longitude": -94.24397
     },
     {
-        "cityId": "4873899",
+        "cityId": 4873899,
         "name": "Sac County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38626,
         "longitude": -95.10539
     },
     {
-        "cityId": "4875785",
+        "cityId": 4875785,
         "name": "Scott County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.6371,
         "longitude": -90.62324
     },
     {
-        "cityId": "4876117",
+        "cityId": 4876117,
         "name": "Shelby County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.68509,
         "longitude": -95.31021
     },
     {
-        "cityId": "4876545",
+        "cityId": 4876545,
         "name": "Sioux County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.08262,
         "longitude": -96.17788
     },
     {
-        "cityId": "4877685",
+        "cityId": 4877685,
         "name": "Story County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.03624,
         "longitude": -93.46504
     },
     {
-        "cityId": "4878233",
+        "cityId": 4878233,
         "name": "Tama County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.07981,
         "longitude": -92.53254
     },
     {
-        "cityId": "4878273",
+        "cityId": 4878273,
         "name": "Taylor County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.73743,
         "longitude": -94.69641
     },
     {
-        "cityId": "4879340",
+        "cityId": 4879340,
         "name": "Union County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.02773,
         "longitude": -94.24238
     },
     {
-        "cityId": "4879999",
+        "cityId": 4879999,
         "name": "Van Buren County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.75323,
         "longitude": -91.94999
     },
     {
-        "cityId": "4880625",
+        "cityId": 4880625,
         "name": "Wapello County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.03058,
         "longitude": -92.40945
     },
     {
-        "cityId": "4880695",
+        "cityId": 4880695,
         "name": "Warren County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33437,
         "longitude": -93.56136
     },
     {
-        "cityId": "4880748",
+        "cityId": 4880748,
         "name": "Washington County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 41.33559,
         "longitude": -91.71787
     },
     {
-        "cityId": "4881059",
+        "cityId": 4881059,
         "name": "Wayne County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 40.73947,
         "longitude": -93.32736
     },
     {
-        "cityId": "4881109",
+        "cityId": 4881109,
         "name": "Webster County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.42797,
         "longitude": -94.18179
     },
     {
-        "cityId": "4882231",
+        "cityId": 4882231,
         "name": "Winnebago County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.37757,
         "longitude": -93.7342
     },
     {
-        "cityId": "4882242",
+        "cityId": 4882242,
         "name": "Winneshiek County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.29067,
         "longitude": -91.84371
     },
     {
-        "cityId": "4882396",
+        "cityId": 4882396,
         "name": "Woodbury County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.38972,
         "longitude": -96.04477
     },
     {
-        "cityId": "4882529",
+        "cityId": 4882529,
         "name": "Wright County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 42.73312,
         "longitude": -93.73515
     },
     {
-        "cityId": "4882561",
+        "cityId": 4882561,
         "name": "Worth County",
-        "stateId": "4862182",
+        "stateId": 4862182,
         "latitude": 43.3774,
         "longitude": -93.26085
     }

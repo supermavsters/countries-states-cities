@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "3588042",
+        "cityId": 3588042,
         "name": "Municipio de Uspant\u00e1n",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.38333,
         "longitude": -90.83333
     },
     {
-        "cityId": "3589403",
+        "cityId": 3589403,
         "name": "Municipio de Santa Cruz del Quich\u00e9",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.03333,
         "longitude": -91.13333
     },
     {
-        "cityId": "3589639",
+        "cityId": 3589639,
         "name": "Municipio de San Pedro Jocopilas",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.11667,
         "longitude": -91.11667
     },
     {
-        "cityId": "3589912",
+        "cityId": 3589912,
         "name": "Municipio de San Juan Cotzal",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.43333,
         "longitude": -91.01667
     },
     {
-        "cityId": "3590394",
+        "cityId": 3590394,
         "name": "Municipio de San Bartolom\u00e9 Jocotenango",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.18359,
         "longitude": -91.03361
     },
     {
-        "cityId": "3590455",
+        "cityId": 3590455,
         "name": "Municipio de San Antonio Ilotenango",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.05,
         "longitude": -91.18333
     },
     {
-        "cityId": "3590525",
+        "cityId": 3590525,
         "name": "Municipio de San Andr\u00e9s Sajcabaj\u00e1",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.21667,
         "longitude": -90.91667
     },
     {
-        "cityId": "3590689",
+        "cityId": 3590689,
         "name": "Municipio de Sacapulas",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.26318,
         "longitude": -91.11288
     },
     {
-        "cityId": "3591516",
+        "cityId": 3591516,
         "name": "Municipio de Patzit\u00e9",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 14.96667,
         "longitude": -91.21667
     },
     {
-        "cityId": "3592236",
+        "cityId": 3592236,
         "name": "Municipio de Nebaj",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.56143,
         "longitude": -91.17326
     },
     {
-        "cityId": "3595147",
+        "cityId": 3595147,
         "name": "Municipio de Joyabaj",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 14.98333,
         "longitude": -90.8
     },
     {
-        "cityId": "3597771",
+        "cityId": 3597771,
         "name": "Municipio de Cun\u00e9n",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.38333,
         "longitude": -91.03333
     },
     {
-        "cityId": "3598512",
+        "cityId": 3598512,
         "name": "Municipio de Chinique",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.08333,
         "longitude": -91.03333
     },
     {
-        "cityId": "3598654",
+        "cityId": 3598654,
         "name": "Municipio de Santo Tomas Chichicastenango",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 14.93333,
         "longitude": -91.11667
     },
     {
-        "cityId": "3598658",
+        "cityId": 3598658,
         "name": "Municipio de Chich\u00e9",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.03333,
         "longitude": -91.06667
     },
     {
-        "cityId": "3598803",
+        "cityId": 3598803,
         "name": "Municipio de Chajul",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.4871,
         "longitude": -91.03786
     },
     {
-        "cityId": "3599093",
+        "cityId": 3599093,
         "name": "Municipio de Canill\u00e1",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.18333,
         "longitude": -90.81667
     },
     {
-        "cityId": "9166161",
+        "cityId": 9166161,
         "name": "Municipio de Ixcan",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.98333,
         "longitude": -90.76667
     },
     {
-        "cityId": "9166182",
+        "cityId": 9166182,
         "name": "Municipio de Chicaman",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.34833,
         "longitude": -90.79944
     },
     {
-        "cityId": "9253733",
+        "cityId": 9253733,
         "name": "Municipio de Zacualpa",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 15.09239,
         "longitude": -90.88514
     },
     {
-        "cityId": "9253735",
+        "cityId": 9253735,
         "name": "Municipio de Pachalum",
-        "stateId": "3590964",
+        "stateId": 3590964,
         "latitude": 14.91798,
         "longitude": -90.65443
     }

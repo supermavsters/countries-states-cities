@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3346850",
+        "cityId": 3346850,
         "name": "Ombadja",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -16.7006,
         "longitude": 14.88792
     },
     {
-        "cityId": "3347028",
+        "cityId": 3347028,
         "name": "Namacunde",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -17.08764,
         "longitude": 16.54745
     },
     {
-        "cityId": "3348986",
+        "cityId": 3348986,
         "name": "Cuvelai",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -15.67592,
         "longitude": 16.13257
     },
     {
-        "cityId": "3349045",
+        "cityId": 3349045,
         "name": "Curoca",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -17,
         "longitude": 13.66667
     },
     {
-        "cityId": "3349237",
+        "cityId": 3349237,
         "name": "Cuanhama",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -16.51126,
         "longitude": 16.31634
     },
     {
-        "cityId": "3351306",
+        "cityId": 3351306,
         "name": "Cahama",
-        "stateId": "3349096",
+        "stateId": 3349096,
         "latitude": -16.39988,
         "longitude": 14.23636
     }

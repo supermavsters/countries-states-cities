@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7732939",
+        "cityId": 7732939,
         "name": "Tarsus",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 37.07328,
         "longitude": 34.8549
     },
     {
-        "cityId": "7910604",
+        "cityId": 7910604,
         "name": "Mut",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.71842,
         "longitude": 33.38718
     },
     {
-        "cityId": "8632138",
+        "cityId": 8632138,
         "name": "Bozyaz\u0131 \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.11329,
         "longitude": 32.97886
     },
     {
-        "cityId": "8632141",
+        "cityId": 8632141,
         "name": "\u00c7aml\u0131yayla \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 37.18,
         "longitude": 34.60678
     },
     {
-        "cityId": "8632142",
+        "cityId": 8632142,
         "name": "Mezitli \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.894,
         "longitude": 34.42987
     },
     {
-        "cityId": "8632144",
+        "cityId": 8632144,
         "name": "G\u00fclnar \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.3529,
         "longitude": 33.40308
     },
     {
-        "cityId": "8632145",
+        "cityId": 8632145,
         "name": "Ayd\u0131nc\u0131k \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.15358,
         "longitude": 33.30397
     },
     {
-        "cityId": "8632146",
+        "cityId": 8632146,
         "name": "Anamur \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.08361,
         "longitude": 32.82615
     },
     {
-        "cityId": "8632148",
+        "cityId": 8632148,
         "name": "Silifke \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.38869,
         "longitude": 33.94072
     },
     {
-        "cityId": "8632149",
+        "cityId": 8632149,
         "name": "Erdemli \u0130l\u00e7esi",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.61383,
         "longitude": 34.29601
     },
     {
-        "cityId": "9542118",
+        "cityId": 9542118,
         "name": "Yeni\u015fehir",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.81602,
         "longitude": 34.57621
     },
     {
-        "cityId": "9542263",
+        "cityId": 9542263,
         "name": "Toroslar",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.87083,
         "longitude": 34.60299
     },
     {
-        "cityId": "9542422",
+        "cityId": 9542422,
         "name": "Akdeniz",
-        "stateId": "311728",
+        "stateId": 311728,
         "latitude": 36.86424,
         "longitude": 34.67731
     }

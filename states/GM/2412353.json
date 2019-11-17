@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2411712",
+        "cityId": 2411712,
         "name": "Upper Niumi District",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.4,
         "longitude": -16.33333
     },
     {
-        "cityId": "2411714",
+        "cityId": 2411714,
         "name": "Upper Baddibu",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.55,
         "longitude": -15.66667
     },
     {
-        "cityId": "2412717",
+        "cityId": 2412717,
         "name": "Lower Niumi District",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.53333,
         "longitude": -16.41667
     },
     {
-        "cityId": "2412718",
+        "cityId": 2412718,
         "name": "Lower Baddibu District",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.5,
         "longitude": -16.05
     },
     {
-        "cityId": "2413213",
+        "cityId": 2413213,
         "name": "Jokadu",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.53333,
         "longitude": -16.18333
     },
     {
-        "cityId": "2413640",
+        "cityId": 2413640,
         "name": "Dappo",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.56667,
         "longitude": -16
     },
     {
-        "cityId": "2413641",
+        "cityId": 2413641,
         "name": "Dappo",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.48333,
         "longitude": -16.35
     },
     {
-        "cityId": "2413686",
+        "cityId": 2413686,
         "name": "Central Baddibu",
-        "stateId": "2412353",
+        "stateId": 2412353,
         "latitude": 13.53333,
         "longitude": -15.91667
     }

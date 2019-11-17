@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "9179628",
+        "cityId": 9179628,
         "name": "Laasqoray",
-        "stateId": "52187",
+        "stateId": 52187,
         "latitude": 10.53683,
         "longitude": 48.69568
     },
     {
-        "cityId": "9179632",
+        "cityId": 9179632,
         "name": "Ceel Afweyn",
-        "stateId": "52187",
+        "stateId": 52187,
         "latitude": 10.14761,
         "longitude": 46.68854
     },
     {
-        "cityId": "9179636",
+        "cityId": 9179636,
         "name": "Ceerigaabo",
-        "stateId": "52187",
+        "stateId": 52187,
         "latitude": 10.29004,
         "longitude": 47.8076
     },
     {
-        "cityId": "9179989",
+        "cityId": 9179989,
         "name": "Elafweyn",
-        "stateId": "52187",
+        "stateId": 52187,
         "latitude": 9.93128,
         "longitude": 47.21727
     },
     {
-        "cityId": "9180002",
+        "cityId": 9180002,
         "name": "Badhan District",
-        "stateId": "52187",
+        "stateId": 52187,
         "latitude": 10.71413,
         "longitude": 48.33384
     }

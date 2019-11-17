@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1150182",
+        "cityId": 1150182,
         "name": "Amphoe Tha Yang",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 12.81743,
         "longitude": 99.78738
     },
     {
-        "cityId": "1151985",
+        "cityId": 1151985,
         "name": "Amphoe Mueang Phetchaburi",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 13.08173,
         "longitude": 99.96721
     },
     {
-        "cityId": "1152918",
+        "cityId": 1152918,
         "name": "Amphoe Khao Yoi",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 13.2424,
         "longitude": 99.80753
     },
     {
-        "cityId": "1153806",
+        "cityId": 1153806,
         "name": "Amphoe Cha-am",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 12.75374,
         "longitude": 99.89828
     },
     {
-        "cityId": "1156647",
+        "cityId": 1156647,
         "name": "Amphoe Ban Lat",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 13.04533,
         "longitude": 99.83788
     },
     {
-        "cityId": "1617236",
+        "cityId": 1617236,
         "name": "Amphoe Ban Laem",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 13.16968,
         "longitude": 99.98771
     },
     {
-        "cityId": "7510652",
+        "cityId": 7510652,
         "name": "Amphoe Kaeng Krachan",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 12.85919,
         "longitude": 99.46339
     },
     {
-        "cityId": "7510653",
+        "cityId": 7510653,
         "name": "Amphoe Nong Ya Plong",
-        "stateId": "1151416",
+        "stateId": 1151416,
         "latitude": 13.1259,
         "longitude": 99.4688
     }

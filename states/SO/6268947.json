@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9179639",
+        "cityId": 9179639,
         "name": "Caynabo",
-        "stateId": "6268947",
+        "stateId": 6268947,
         "latitude": 9.28238,
         "longitude": 46.49009
     },
     {
-        "cityId": "9179643",
+        "cityId": 9179643,
         "name": "Laas Caanood",
-        "stateId": "6268947",
+        "stateId": 6268947,
         "latitude": 8.43801,
         "longitude": 47.63642
     },
     {
-        "cityId": "9179647",
+        "cityId": 9179647,
         "name": "Taleh District",
-        "stateId": "6268947",
+        "stateId": 6268947,
         "latitude": 9.17946,
         "longitude": 48.54122
     },
     {
-        "cityId": "9179652",
+        "cityId": 9179652,
         "name": "Xudun District",
-        "stateId": "6268947",
+        "stateId": 6268947,
         "latitude": 9.14164,
         "longitude": 47.50747
     }

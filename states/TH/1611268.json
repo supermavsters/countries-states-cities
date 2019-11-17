@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1605600",
+        "cityId": 1605600,
         "name": "Amphoe Tha Mai",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.73848,
         "longitude": 101.97696
     },
     {
-        "cityId": "1607305",
+        "cityId": 1607305,
         "name": "Amphoe Pong Nam Ron",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.93467,
         "longitude": 102.37189
     },
     {
-        "cityId": "1608660",
+        "cityId": 1608660,
         "name": "Amphoe Mueang Chanthaburi",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.59542,
         "longitude": 102.12263
     },
     {
-        "cityId": "1608807",
+        "cityId": 1608807,
         "name": "Amphoe Makham",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.73333,
         "longitude": 102.21667
     },
     {
-        "cityId": "1609277",
+        "cityId": 1609277,
         "name": "Amphoe Laem Sing",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.45689,
         "longitude": 102.14262
     },
     {
-        "cityId": "1609857",
+        "cityId": 1609857,
         "name": "Amphoe Khlung",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.57246,
         "longitude": 102.30783
     },
     {
-        "cityId": "7510720",
+        "cityId": 7510720,
         "name": "Amphoe Na Yai Am",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.73833,
         "longitude": 101.87502
     },
     {
-        "cityId": "7510723",
+        "cityId": 7510723,
         "name": "Amphoe Kaeng Hang Maeo",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 13.0969,
         "longitude": 101.88543
     },
     {
-        "cityId": "7510734",
+        "cityId": 7510734,
         "name": "Amphoe Khao Khitchakut",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 12.93726,
         "longitude": 102.09762
     },
     {
-        "cityId": "7510735",
+        "cityId": 7510735,
         "name": "Amphoe Soi Dao",
-        "stateId": "1611268",
+        "stateId": 1611268,
         "latitude": 13.17034,
         "longitude": 102.22796
     }

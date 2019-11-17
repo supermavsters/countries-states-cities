@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1784640",
+        "cityId": 1784640,
         "name": "Zhenjiang Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 32.03371,
         "longitude": 119.51839
     },
     {
-        "cityId": "1787226",
+        "cityId": 1787226,
         "name": "Yangzhou Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 32.73198,
         "longitude": 119.52527
     },
     {
-        "cityId": "1787743",
+        "cityId": 1787743,
         "name": "Yancheng Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 33.55097,
         "longitude": 120.21301
     },
     {
-        "cityId": "1787823",
+        "cityId": 1787823,
         "name": "Xuzhou",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 34.26258,
         "longitude": 117.54903
     },
     {
-        "cityId": "1790902",
+        "cityId": 1790902,
         "name": "Wuxi Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 31.44669,
         "longitude": 120.20944
     },
     {
-        "cityId": "1793502",
+        "cityId": 1793502,
         "name": "Taizhou Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 32.56505,
         "longitude": 120.09398
     },
     {
-        "cityId": "1793770",
+        "cityId": 1793770,
         "name": "Suqian Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 33.8478,
         "longitude": 118.52941
     },
     {
-        "cityId": "1799719",
+        "cityId": 1799719,
         "name": "Nantong Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 32.26264,
         "longitude": 121.03677
     },
     {
-        "cityId": "1799960",
+        "cityId": 1799960,
         "name": "Nanjing Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 31.96572,
         "longitude": 118.87294
     },
     {
-        "cityId": "1803847",
+        "cityId": 1803847,
         "name": "Lianyungang Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 34.54844,
         "longitude": 119.11228
     },
     {
-        "cityId": "1807649",
+        "cityId": 1807649,
         "name": "Huai\u2019an Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 33.31162,
         "longitude": 119.04559
     },
     {
-        "cityId": "1815454",
+        "cityId": 1815454,
         "name": "Changzhou Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 31.66715,
         "longitude": 119.66527
     },
     {
-        "cityId": "1881771",
+        "cityId": 1881771,
         "name": "Suzhou Shi",
-        "stateId": "1806260",
+        "stateId": 1806260,
         "latitude": 31.46054,
         "longitude": 120.89493
     }

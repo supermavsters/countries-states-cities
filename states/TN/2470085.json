@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2470086",
+        "cityId": 2470086,
         "name": "Jendouba",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.48519,
         "longitude": 8.82325
     },
     {
-        "cityId": "7870271",
+        "cityId": 7870271,
         "name": "Balta Bou Aouane",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.70352,
         "longitude": 8.94918
     },
     {
-        "cityId": "7870272",
+        "cityId": 7870272,
         "name": "Bou Salem",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.56996,
         "longitude": 8.99172
     },
     {
-        "cityId": "7870273",
+        "cityId": 7870273,
         "name": "Jendouba Nord",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.54337,
         "longitude": 8.72472
     },
     {
-        "cityId": "7870274",
+        "cityId": 7870274,
         "name": "Oued Meliz",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.4649,
         "longitude": 8.61107
     },
     {
-        "cityId": "7870609",
+        "cityId": 7870609,
         "name": "Fernana",
-        "stateId": "2470085",
+        "stateId": 2470085,
         "latitude": 36.65098,
         "longitude": 8.66903
     }

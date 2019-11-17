@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1149914",
+        "cityId": 1149914,
         "name": "Amphoe Wang Nuea",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 19.16011,
         "longitude": 99.64767
     },
     {
-        "cityId": "1150153",
+        "cityId": 1150153,
         "name": "Amphoe Thoen",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 17.58128,
         "longitude": 99.28836
     },
     {
-        "cityId": "1150561",
+        "cityId": 1150561,
         "name": "Amphoe Sop Prap",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 17.89861,
         "longitude": 99.34081
     },
     {
-        "cityId": "1151847",
+        "cityId": 1151847,
         "name": "Amphoe Ngao",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.75948,
         "longitude": 99.95295
     },
     {
-        "cityId": "1151991",
+        "cityId": 1151991,
         "name": "Amphoe Mueang Lampang",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.38901,
         "longitude": 99.54388
     },
     {
-        "cityId": "1152179",
+        "cityId": 1152179,
         "name": "Amphoe Mae Tha",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.11122,
         "longitude": 99.57826
     },
     {
-        "cityId": "1152203",
+        "cityId": 1152203,
         "name": "Amphoe Mae Phrik",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 17.5045,
         "longitude": 99.05847
     },
     {
-        "cityId": "1152678",
+        "cityId": 1152678,
         "name": "Amphoe Ko Kha",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.14408,
         "longitude": 99.35229
     },
     {
-        "cityId": "1153388",
+        "cityId": 1153388,
         "name": "Amphoe Hang Chat",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.35497,
         "longitude": 99.27978
     },
     {
-        "cityId": "1153799",
+        "cityId": 1153799,
         "name": "Amphoe Chae Hom",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.75404,
         "longitude": 99.66822
     },
     {
-        "cityId": "7510668",
+        "cityId": 7510668,
         "name": "Amphoe Mae Mo",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.40244,
         "longitude": 99.82135
     },
     {
-        "cityId": "7511041",
+        "cityId": 7511041,
         "name": "Amphoe Soem Ngam",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.09406,
         "longitude": 99.17297
     },
     {
-        "cityId": "7524369",
+        "cityId": 7524369,
         "name": "Amphoe Mueang Pan",
-        "stateId": "1152472",
+        "stateId": 1152472,
         "latitude": 18.79093,
         "longitude": 99.45408
     }

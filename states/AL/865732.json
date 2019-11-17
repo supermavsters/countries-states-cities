@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "783060",
+        "cityId": 783060,
         "name": "Rrethi i Gramshit",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 40.83333,
         "longitude": 20.25
     },
     {
-        "cityId": "783265",
+        "cityId": 783265,
         "name": "Rrethi i Elbasanit",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.08333,
         "longitude": 20
     },
     {
-        "cityId": "3342179",
+        "cityId": 3342179,
         "name": "Rrethi i Peqinit",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.06667,
         "longitude": 19.8
     },
     {
-        "cityId": "10944380",
+        "cityId": 10944380,
         "name": "Bashkia Elbasan",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.10412,
         "longitude": 20.09679
     },
     {
-        "cityId": "10944381",
+        "cityId": 10944381,
         "name": "Bashkia Belsh",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 40.93144,
         "longitude": 19.88369
     },
     {
-        "cityId": "10944382",
+        "cityId": 10944382,
         "name": "Bashkia C\u00ebrrik",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 40.97552,
         "longitude": 19.99759
     },
     {
-        "cityId": "10944383",
+        "cityId": 10944383,
         "name": "Bashkia Gramsh",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 40.84694,
         "longitude": 20.2364
     },
     {
-        "cityId": "10944384",
+        "cityId": 10944384,
         "name": "Bashkia Librazhd",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.22903,
         "longitude": 20.35397
     },
     {
-        "cityId": "10944385",
+        "cityId": 10944385,
         "name": "Bashkia Peqin",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.07105,
         "longitude": 19.80654
     },
     {
-        "cityId": "10944386",
+        "cityId": 10944386,
         "name": "Bashkia Prrenjas",
-        "stateId": "865732",
+        "stateId": 865732,
         "latitude": 41.05635,
         "longitude": 20.44214
     }

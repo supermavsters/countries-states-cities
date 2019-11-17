@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "167355",
+        "cityId": 167355,
         "name": "Manbij District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.06687,
         "longitude": 37.91735
     },
     {
-        "cityId": "169178",
+        "cityId": 169178,
         "name": "Jarabulus District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.69092,
         "longitude": 37.81411
     },
     {
-        "cityId": "169326",
+        "cityId": 169326,
         "name": "Mount Simeon District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 35.99956,
         "longitude": 37.08473
     },
     {
-        "cityId": "172081",
+        "cityId": 172081,
         "name": "Azaz District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.49986,
         "longitude": 37.18382
     },
     {
-        "cityId": "172255",
+        "cityId": 172255,
         "name": "Ayn al-Arab District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.60224,
         "longitude": 38.34816
     },
     {
-        "cityId": "174019",
+        "cityId": 174019,
         "name": "Al-Bab District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.30946,
         "longitude": 37.53277
     },
     {
-        "cityId": "174184",
+        "cityId": 174184,
         "name": "Afrin District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 36.54891,
         "longitude": 36.79295
     },
     {
-        "cityId": "8276861",
+        "cityId": 8276861,
         "name": "Al-Safira District",
-        "stateId": "170062",
+        "stateId": 170062,
         "latitude": 35.83309,
         "longitude": 37.46345
     }

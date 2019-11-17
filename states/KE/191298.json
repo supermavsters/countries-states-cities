@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7667668",
+        "cityId": 7667668,
         "name": "Gucha District",
-        "stateId": "191298",
+        "stateId": 191298,
         "latitude": -0.845,
         "longitude": 34.753
     },
     {
-        "cityId": "8051335",
+        "cityId": 8051335,
         "name": "Central Kisii",
-        "stateId": "191298",
+        "stateId": 191298,
         "latitude": -0.717,
         "longitude": 34.812
     }

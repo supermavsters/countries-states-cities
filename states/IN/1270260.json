@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "1255745",
+        "cityId": 1255745,
         "name": "Son\u012bpat",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29,
         "longitude": 76.91667
     },
     {
-        "cityId": "1256056",
+        "cityId": 1256056,
         "name": "Sirsa",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.58333,
         "longitude": 75.08333
     },
     {
-        "cityId": "1258077",
+        "cityId": 1258077,
         "name": "Rohtak",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.83333,
         "longitude": 76.66667
     },
     {
-        "cityId": "1264396",
+        "cityId": 1264396,
         "name": "Mahendragarh",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.25,
         "longitude": 76.16667
     },
     {
-        "cityId": "1265468",
+        "cityId": 1265468,
         "name": "Kurukshetra",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 30,
         "longitude": 76.75
     },
     {
-        "cityId": "1267709",
+        "cityId": 1267709,
         "name": "Karn\u0101l",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.66667,
         "longitude": 76.83333
     },
     {
-        "cityId": "1268908",
+        "cityId": 1268908,
         "name": "J\u012bnd",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.5,
         "longitude": 76.25
     },
     {
-        "cityId": "1270023",
+        "cityId": 1270023,
         "name": "His\u0101r",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.16667,
         "longitude": 75.75
     },
     {
-        "cityId": "1270644",
+        "cityId": 1270644,
         "name": "Gurgaon",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.43891,
         "longitude": 77.00592
     },
     {
-        "cityId": "1275900",
+        "cityId": 1275900,
         "name": "Bhiwani",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.75,
         "longitude": 76.16667
     },
     {
-        "cityId": "1278861",
+        "cityId": 1278861,
         "name": "Amb\u0101la",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 30.32854,
         "longitude": 76.9422
     },
     {
-        "cityId": "8402825",
+        "cityId": 8402825,
         "name": "Panchkula",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 30.72883,
         "longitude": 76.94716
     },
     {
-        "cityId": "9148988",
+        "cityId": 9148988,
         "name": "Faridabad District",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.46292,
         "longitude": 77.3716
     },
     {
-        "cityId": "9157653",
+        "cityId": 9157653,
         "name": "Rewari District",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.19613,
         "longitude": 76.61607
     },
     {
-        "cityId": "9159091",
+        "cityId": 9159091,
         "name": "Fatehabad District",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.31,
         "longitude": 75.27
     },
     {
-        "cityId": "9747981",
+        "cityId": 9747981,
         "name": "Jhajjar",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.60475,
         "longitude": 76.64941
     },
     {
-        "cityId": "9747983",
+        "cityId": 9747983,
         "name": "Kaithal",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.81402,
         "longitude": 76.41823
     },
     {
-        "cityId": "9747986",
+        "cityId": 9747986,
         "name": "Palwal",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 28.0475,
         "longitude": 77.31835
     },
     {
-        "cityId": "9747999",
+        "cityId": 9747999,
         "name": "Panipat",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 29.33259,
         "longitude": 76.92634
     },
     {
-        "cityId": "9748016",
+        "cityId": 9748016,
         "name": "Mewat",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 27.98166,
         "longitude": 77.04656
     },
     {
-        "cityId": "9748037",
+        "cityId": 9748037,
         "name": "Yamunanagar",
-        "stateId": "1270260",
+        "stateId": 1270260,
         "latitude": 30.23644,
         "longitude": 77.30498
     }

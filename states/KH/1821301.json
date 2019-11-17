@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7647215",
+        "cityId": 7647215,
         "name": "Bakan",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.78,
         "longitude": 103.79
     },
     {
-        "cityId": "7647216",
+        "cityId": 7647216,
         "name": "Sampov Meas",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.47055,
         "longitude": 103.91817
     },
     {
-        "cityId": "7647217",
+        "cityId": 7647217,
         "name": "Krakor",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.48,
         "longitude": 104.19
     },
     {
-        "cityId": "8405251",
+        "cityId": 8405251,
         "name": "Sr\u014fk K\u00e2ndi\u0115ng",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.71245,
         "longitude": 104.02592
     },
     {
-        "cityId": "8405252",
+        "cityId": 8405252,
         "name": "Kr\u014fng Po\u016dth\u012ds\u0103t",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.52751,
         "longitude": 103.91813
     },
     {
-        "cityId": "8405253",
+        "cityId": 8405253,
         "name": "Sr\u014fk V\u00e9al V\u00eang",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.2423,
         "longitude": 103.13444
     },
     {
-        "cityId": "9253798",
+        "cityId": 9253798,
         "name": "Phnum Kravanh",
-        "stateId": "1821301",
+        "stateId": 1821301,
         "latitude": 12.17632,
         "longitude": 103.82614
     }

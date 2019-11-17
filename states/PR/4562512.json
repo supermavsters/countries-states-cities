@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7268050",
+        "cityId": 7268050,
         "name": "Ceiba Baja Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.45849,
         "longitude": -67.07889
     },
     {
-        "cityId": "7268111",
+        "cityId": 7268111,
         "name": "Corrales Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.45132,
         "longitude": -67.12576
     },
     {
-        "cityId": "7268168",
+        "cityId": 7268168,
         "name": "Aguacate Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.49804,
         "longitude": -67.10998
     },
     {
-        "cityId": "7268171",
+        "cityId": 7268171,
         "name": "Aguadilla Barrio-Pueblo",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.42449,
         "longitude": -67.15479
     },
     {
-        "cityId": "7268210",
+        "cityId": 7268210,
         "name": "Arenales Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.4711,
         "longitude": -67.10667
     },
     {
-        "cityId": "7268262",
+        "cityId": 7268262,
         "name": "Borinquen Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.47319,
         "longitude": -67.15934
     },
     {
-        "cityId": "7268289",
+        "cityId": 7268289,
         "name": "Caimital Alto Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.43654,
         "longitude": -67.11342
     },
     {
-        "cityId": "7268290",
+        "cityId": 7268290,
         "name": "Caimital Bajo Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.42808,
         "longitude": -67.13701
     },
     {
-        "cityId": "7268304",
+        "cityId": 7268304,
         "name": "Camaceyes Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.46673,
         "longitude": -67.13859
     },
     {
-        "cityId": "7268366",
+        "cityId": 7268366,
         "name": "Ceiba Alta Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.47945,
         "longitude": -67.08977
     },
     {
-        "cityId": "7268443",
+        "cityId": 7268443,
         "name": "Guerrero Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.47742,
         "longitude": -67.07373
     },
     {
-        "cityId": "7268596",
+        "cityId": 7268596,
         "name": "Maleza Alta Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.49994,
         "longitude": -67.1216
     },
     {
-        "cityId": "7268597",
+        "cityId": 7268597,
         "name": "Maleza Baja Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.4964,
         "longitude": -67.13789
     },
     {
-        "cityId": "7268669",
+        "cityId": 7268669,
         "name": "Monta\u00f1a Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.49751,
         "longitude": -67.09704
     },
     {
-        "cityId": "7268716",
+        "cityId": 7268716,
         "name": "Palmar Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.39971,
         "longitude": -67.13721
     },
     {
-        "cityId": "7269076",
+        "cityId": 7269076,
         "name": "Victoria Barrio",
-        "stateId": "4562512",
+        "stateId": 4562512,
         "latitude": 18.41138,
         "longitude": -67.15084
     }

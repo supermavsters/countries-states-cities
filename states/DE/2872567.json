@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2834281",
+        "cityId": 2834281,
         "name": "Kreisfreie Stadt Schwerin",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.63333,
         "longitude": 11.41667
     },
     {
-        "cityId": "2843324",
+        "cityId": 2843324,
         "name": "Vorpommern-R\u00fcgen",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 54.455,
         "longitude": 13.39361
     },
     {
-        "cityId": "2844587",
+        "cityId": 2844587,
         "name": "Kreisfreie Stadt Rostock",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 54.11833,
         "longitude": 12.12528
     },
     {
-        "cityId": "3302143",
+        "cityId": 3302143,
         "name": "Nordwestmecklenburg",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.80778,
         "longitude": 11.24806
     },
     {
-        "cityId": "8648342",
+        "cityId": 8648342,
         "name": "Landkreis Rostock",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.92056,
         "longitude": 12.23025
     },
     {
-        "cityId": "8648412",
+        "cityId": 8648412,
         "name": "Ludwigslust-Parchim",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.42214,
         "longitude": 11.50916
     },
     {
-        "cityId": "8648413",
+        "cityId": 8648413,
         "name": "Mecklenburgische Seenplatte",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.60856,
         "longitude": 13.05232
     },
     {
-        "cityId": "8648415",
+        "cityId": 8648415,
         "name": "Vorpommern-Greifswald",
-        "stateId": "2872567",
+        "stateId": 2872567,
         "latitude": 53.77945,
         "longitude": 13.88345
     }

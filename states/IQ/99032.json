@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "98532",
+        "cityId": 98532,
         "name": "Al-Samawa District",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 31.22639,
         "longitude": 45.26197
     },
     {
-        "cityId": "98534",
+        "cityId": 98534,
         "name": "Al-Salman District",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 30.5,
         "longitude": 44.53333
     },
     {
-        "cityId": "9166568",
+        "cityId": 9166568,
         "name": "Al-Rumaitha District",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 31.49777,
         "longitude": 45.29542
     },
     {
-        "cityId": "9166626",
+        "cityId": 9166626,
         "name": "Al-Khidir District",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 31.21122,
         "longitude": 45.59095
     },
     {
-        "cityId": "9873260",
+        "cityId": 9873260,
         "name": "Qa\u1e11\u0101\u2019 ar Rumaythah",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 31.52317,
         "longitude": 45.31947
     },
     {
-        "cityId": "9873264",
+        "cityId": 9873264,
         "name": "Qa\u1e11\u0101\u2019 al Khi\u1e11r",
-        "stateId": "99032",
+        "stateId": 99032,
         "latitude": 31.21075,
         "longitude": 45.60775
     }

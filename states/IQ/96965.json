@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "94296",
+        "cityId": 94296,
         "name": "Qa\u1e11\u0101\u2019 Kifr\u012b",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 34.52289,
         "longitude": 44.85821
     },
     {
-        "cityId": "94590",
+        "cityId": 94590,
         "name": "Khanaqin District",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 34.3615,
         "longitude": 45.28965
     },
     {
-        "cityId": "97988",
+        "cityId": 97988,
         "name": "Ba'quba District",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 33.58914,
         "longitude": 44.48952
     },
     {
-        "cityId": "99063",
+        "cityId": 99063,
         "name": "Al-Muqdadiya District",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 33.9798,
         "longitude": 44.93623
     },
     {
-        "cityId": "99170",
+        "cityId": 99170,
         "name": "Al-Khalis District",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 34,
         "longitude": 44.6
     },
     {
-        "cityId": "9166680",
+        "cityId": 9166680,
         "name": "Qada Balad Ruz",
-        "stateId": "96965",
+        "stateId": 96965,
         "latitude": 33.7,
         "longitude": 45.08333
     }

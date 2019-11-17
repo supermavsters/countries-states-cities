@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3601283",
+        "cityId": 3601283,
         "name": "Sinuapa",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.45,
         "longitude": -89.21667
     },
     {
-        "cityId": "3601368",
+        "cityId": 3601368,
         "name": "Sensenti",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.48,
         "longitude": -88.9
     },
     {
-        "cityId": "3601602",
+        "cityId": 3601602,
         "name": "Santa Fe",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.5,
         "longitude": -89.23333
     },
     {
-        "cityId": "3601917",
+        "cityId": 3601917,
         "name": "San Marcos",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.38,
         "longitude": -88.92
     },
     {
-        "cityId": "3602165",
+        "cityId": 3602165,
         "name": "San Jorge",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.65,
         "longitude": -89.08333
     },
     {
-        "cityId": "3602278",
+        "cityId": 3602278,
         "name": "San Francisco del Valle",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.41,
         "longitude": -88.99
     },
     {
-        "cityId": "3602340",
+        "cityId": 3602340,
         "name": "San Fernando",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.68333,
         "longitude": -89.1
     },
     {
-        "cityId": "3604385",
+        "cityId": 3604385,
         "name": "Nueva Ocotepeque",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.43333,
         "longitude": -89.18333
     },
     {
-        "cityId": "3604857",
+        "cityId": 3604857,
         "name": "Mercedes",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.31667,
         "longitude": -88.98333
     },
     {
-        "cityId": "3605223",
+        "cityId": 3605223,
         "name": "Lucerna",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.55,
         "longitude": -88.91667
     },
     {
-        "cityId": "3607645",
+        "cityId": 3607645,
         "name": "La Labor",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.48333,
         "longitude": -89
     },
     {
-        "cityId": "3607994",
+        "cityId": 3607994,
         "name": "La Encarnaci\u00f3n",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.66667,
         "longitude": -89.08333
     },
     {
-        "cityId": "3609671",
+        "cityId": 3609671,
         "name": "Fraternidad",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.53333,
         "longitude": -89.06667
     },
     {
-        "cityId": "3612833",
+        "cityId": 3612833,
         "name": "Dolores Merend\u00f3n",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.53333,
         "longitude": -89.11667
     },
     {
-        "cityId": "3613300",
+        "cityId": 3613300,
         "name": "Concepci\u00f3n",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.5,
         "longitude": -89.18333
     },
     {
-        "cityId": "3614798",
+        "cityId": 3614798,
         "name": "Bel\u00e9n Gualcho",
-        "stateId": "3604318",
+        "stateId": 3604318,
         "latitude": 14.48333,
         "longitude": -88.78333
     }

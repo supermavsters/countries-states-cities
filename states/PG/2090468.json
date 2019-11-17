@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2090950",
+        "cityId": 2090950,
         "name": "Menyamya",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -7.25,
         "longitude": 146.16667
     },
     {
-        "cityId": "2092738",
+        "cityId": 2092738,
         "name": "Lae",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.5,
         "longitude": 146.83333
     },
     {
-        "cityId": "2095129",
+        "cityId": 2095129,
         "name": "Kabwum",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.08333,
         "longitude": 147
     },
     {
-        "cityId": "2097417",
+        "cityId": 2097417,
         "name": "Finschhafen",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.41667,
         "longitude": 147.5
     },
     {
-        "cityId": "8657188",
+        "cityId": 8657188,
         "name": "Bulolo",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -7.41667,
         "longitude": 146.75
     },
     {
-        "cityId": "8657211",
+        "cityId": 8657211,
         "name": "Huon Gulf",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -7.18333,
         "longitude": 146.95
     },
     {
-        "cityId": "8657212",
+        "cityId": 8657212,
         "name": "Nawae",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.46667,
         "longitude": 146.96667
     },
     {
-        "cityId": "8657213",
+        "cityId": 8657213,
         "name": "Tewai Siassi",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.15,
         "longitude": 147.53333
     },
     {
-        "cityId": "9855507",
+        "cityId": 9855507,
         "name": "Markham",
-        "stateId": "2090468",
+        "stateId": 2090468,
         "latitude": -6.64153,
         "longitude": 146.86043
     }

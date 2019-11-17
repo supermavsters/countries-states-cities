@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "2627072",
+        "cityId": 2627072,
         "name": "Skaft\u00e1rhreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.95948,
         "longitude": -18.14491
     },
     {
-        "cityId": "3345273",
+        "cityId": 3345273,
         "name": "M\u00fdrdalshreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.5,
         "longitude": -19
     },
     {
-        "cityId": "3345274",
+        "cityId": 3345274,
         "name": "Rang\u00e1r\u00feing Eystra",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.66667,
         "longitude": -19.83333
     },
     {
-        "cityId": "3345275",
+        "cityId": 3345275,
         "name": "Rang\u00e1r\u00feing Ytra",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.94741,
         "longitude": -19.66031
     },
     {
-        "cityId": "3345276",
+        "cityId": 3345276,
         "name": "Skei\u00f0a- og Gn\u00fapverjahreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 64.34738,
         "longitude": -19.37757
     },
     {
-        "cityId": "3412095",
+        "cityId": 3412095,
         "name": "Vestmannaeyjab\u00e6r",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.43877,
         "longitude": -20.269
     },
     {
-        "cityId": "3414073",
+        "cityId": 3414073,
         "name": "Sveitarf\u00e9lagi\u00f0 \u00d6lfus",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.97443,
         "longitude": -21.40008
     },
     {
-        "cityId": "3415760",
+        "cityId": 3415760,
         "name": "Hverager\u00f0isb\u00e6r",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 64,
         "longitude": -21.2
     },
     {
-        "cityId": "3415916",
+        "cityId": 3415916,
         "name": "Hrunamannahreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 64.40944,
         "longitude": -19.72237
     },
     {
-        "cityId": "3418486",
+        "cityId": 3418486,
         "name": "\u00c1sahreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.87589,
         "longitude": -20.59484
     },
     {
-        "cityId": "3426216",
+        "cityId": 3426216,
         "name": "Bl\u00e1sk\u00f3gabygg\u00f0",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 64.41667,
         "longitude": -20.33333
     },
     {
-        "cityId": "3426217",
+        "cityId": 3426217,
         "name": "Gr\u00edmsnes- og Grafningshreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 64.08533,
         "longitude": -20.9671
     },
     {
-        "cityId": "3426218",
+        "cityId": 3426218,
         "name": "Sveitarf\u00e9lagi\u00f0 \u00c1rborg",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.88707,
         "longitude": -21.04554
     },
     {
-        "cityId": "9192636",
+        "cityId": 9192636,
         "name": "Fl\u00f3ahreppur",
-        "stateId": "3337406",
+        "stateId": 3337406,
         "latitude": 63.89569,
         "longitude": -20.80159
     }

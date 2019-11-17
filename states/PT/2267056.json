@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "6458923",
+        "cityId": 6458923,
         "name": "Lisbon",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.72635,
         "longitude": -9.14843
     },
     {
-        "cityId": "6930331",
+        "cityId": 6930331,
         "name": "Loures",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.83024,
         "longitude": -9.13343
     },
     {
-        "cityId": "8010557",
+        "cityId": 8010557,
         "name": "Alenquer",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 39.06487,
         "longitude": -9.00707
     },
     {
-        "cityId": "8010558",
+        "cityId": 8010558,
         "name": "Arruda Dos Vinhos",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.97172,
         "longitude": -9.08807
     },
     {
-        "cityId": "8010559",
+        "cityId": 8010559,
         "name": "Azambuja",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 39.14559,
         "longitude": -8.89045
     },
     {
-        "cityId": "8010560",
+        "cityId": 8010560,
         "name": "Cadaval",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 39.24621,
         "longitude": -9.06738
     },
     {
-        "cityId": "8010561",
+        "cityId": 8010561,
         "name": "Cascais",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.74333,
         "longitude": -9.46382
     },
     {
-        "cityId": "8010562",
+        "cityId": 8010562,
         "name": "Lourinh\u00e3",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 39.24745,
         "longitude": -9.31194
     },
     {
-        "cityId": "8010563",
+        "cityId": 8010563,
         "name": "Mafra",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.94107,
         "longitude": -9.32636
     },
     {
-        "cityId": "8010564",
+        "cityId": 8010564,
         "name": "Oeiras",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.71371,
         "longitude": -9.26832
     },
     {
-        "cityId": "8010565",
+        "cityId": 8010565,
         "name": "Sintra",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.81439,
         "longitude": -9.3837
     },
     {
-        "cityId": "8010566",
+        "cityId": 8010566,
         "name": "Sobral de Monte Agra\u00e7o",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.99585,
         "longitude": -9.17409
     },
     {
-        "cityId": "8010567",
+        "cityId": 8010567,
         "name": "Torres Vedras",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 39.10222,
         "longitude": -9.25238
     },
     {
-        "cityId": "8010568",
+        "cityId": 8010568,
         "name": "Vila Franca de Xira",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.92137,
         "longitude": -9.0322
     },
     {
-        "cityId": "8010569",
+        "cityId": 8010569,
         "name": "Amadora",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.75571,
         "longitude": -9.22342
     },
     {
-        "cityId": "8010570",
+        "cityId": 8010570,
         "name": "Odivelas",
-        "stateId": "2267056",
+        "stateId": 2267056,
         "latitude": 38.79705,
         "longitude": -9.19108
     }

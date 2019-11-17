@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "864389",
+        "stateId": 864389,
         "name": "Alytus County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 54.16667,
         "longitude": 24.16667
     },
     {
-        "stateId": "864477",
+        "stateId": 864477,
         "name": "Kaunas County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 55.16667,
         "longitude": 24
     },
     {
-        "stateId": "864478",
+        "stateId": 864478,
         "name": "Klaip\u0117da County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 55.66667,
         "longitude": 21.33333
     },
     {
-        "stateId": "864479",
+        "stateId": 864479,
         "name": "Marijampol\u0117 County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 54.75,
         "longitude": 23.25
     },
     {
-        "stateId": "864480",
+        "stateId": 864480,
         "name": "Panev\u0117\u017eys",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 55.91667,
         "longitude": 24.83333
     },
     {
-        "stateId": "864482",
+        "stateId": 864482,
         "name": "Taurag\u0117 County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 55.33333,
         "longitude": 22.5
     },
     {
-        "stateId": "864483",
+        "stateId": 864483,
         "name": "Tel\u0161i\u0173 apskritis",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 56.08333,
         "longitude": 22.16667
     },
     {
-        "stateId": "864484",
+        "stateId": 864484,
         "name": "Utena County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 55.5,
         "longitude": 25.75
     },
     {
-        "stateId": "864485",
+        "stateId": 864485,
         "name": "Vilniaus apskritis",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 54.83333,
         "longitude": 25.33333
     },
     {
-        "stateId": "864481",
+        "stateId": 864481,
         "name": "\u0160iauliai County",
-        "countryId": "597427",
+        "countryId": 597427,
         "latitude": 56,
         "longitude": 23.33333
     }

@@ -1,505 +1,505 @@
 [
     {
-        "cityId": "5243559",
+        "cityId": 5243559,
         "name": "Adams County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.96963,
         "longitude": -89.77064
     },
     {
-        "cityId": "5244249",
+        "cityId": 5244249,
         "name": "Ashland County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 46.50974,
         "longitude": -90.7196
     },
     {
-        "cityId": "5244742",
+        "cityId": 5244742,
         "name": "Barron County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.42372,
         "longitude": -91.84831
     },
     {
-        "cityId": "5244967",
+        "cityId": 5244967,
         "name": "Bayfield County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 46.63544,
         "longitude": -91.18068
     },
     {
-        "cityId": "5246898",
+        "cityId": 5246898,
         "name": "Brown County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.47433,
         "longitude": -87.99287
     },
     {
-        "cityId": "5247108",
+        "cityId": 5247108,
         "name": "Buffalo County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.37983,
         "longitude": -91.75447
     },
     {
-        "cityId": "5247230",
+        "cityId": 5247230,
         "name": "Burnett County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.86272,
         "longitude": -92.36757
     },
     {
-        "cityId": "5247444",
+        "cityId": 5247444,
         "name": "Calumet County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.0816,
         "longitude": -88.21806
     },
     {
-        "cityId": "5248507",
+        "cityId": 5248507,
         "name": "Chippewa County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.0694,
         "longitude": -91.27989
     },
     {
-        "cityId": "5248812",
+        "cityId": 5248812,
         "name": "Clark County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.73471,
         "longitude": -90.61208
     },
     {
-        "cityId": "5249193",
+        "cityId": 5249193,
         "name": "Columbia County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.4666,
         "longitude": -89.33373
     },
     {
-        "cityId": "5249701",
+        "cityId": 5249701,
         "name": "Crawford County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.23946,
         "longitude": -90.93105
     },
     {
-        "cityId": "5250074",
+        "cityId": 5250074,
         "name": "Dane County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.06735,
         "longitude": -89.41832
     },
     {
-        "cityId": "5250710",
+        "cityId": 5250710,
         "name": "Dodge County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.4163,
         "longitude": -88.70752
     },
     {
-        "cityId": "5250768",
+        "cityId": 5250768,
         "name": "Door County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.83834,
         "longitude": -87.35779
     },
     {
-        "cityId": "5250831",
+        "cityId": 5250831,
         "name": "Douglas County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 46.46411,
         "longitude": -91.8994
     },
     {
-        "cityId": "5251040",
+        "cityId": 5251040,
         "name": "Dunn County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.94659,
         "longitude": -91.89641
     },
     {
-        "cityId": "5251439",
+        "cityId": 5251439,
         "name": "Eau Claire County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.72677,
         "longitude": -91.286
     },
     {
-        "cityId": "5253306",
+        "cityId": 5253306,
         "name": "Florence County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.84845,
         "longitude": -88.39816
     },
     {
-        "cityId": "5253356",
+        "cityId": 5253356,
         "name": "Fond du Lac County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.75359,
         "longitude": -88.48826
     },
     {
-        "cityId": "5253400",
+        "cityId": 5253400,
         "name": "Forest County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.66726,
         "longitude": -88.77038
     },
     {
-        "cityId": "5254832",
+        "cityId": 5254832,
         "name": "Grant County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.86749,
         "longitude": -90.70622
     },
     {
-        "cityId": "5254978",
+        "cityId": 5254978,
         "name": "Green County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.67999,
         "longitude": -89.60221
     },
     {
-        "cityId": "5255015",
+        "cityId": 5255015,
         "name": "Green Lake County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.80038,
         "longitude": -89.04486
     },
     {
-        "cityId": "5257509",
+        "cityId": 5257509,
         "name": "Iowa County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.00048,
         "longitude": -90.13543
     },
     {
-        "cityId": "5257533",
+        "cityId": 5257533,
         "name": "Iron County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 46.31706,
         "longitude": -90.26445
     },
     {
-        "cityId": "5257673",
+        "cityId": 5257673,
         "name": "Jackson County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.31913,
         "longitude": -90.80518
     },
     {
-        "cityId": "5257788",
+        "cityId": 5257788,
         "name": "Jefferson County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.02082,
         "longitude": -88.77587
     },
     {
-        "cityId": "5258193",
+        "cityId": 5258193,
         "name": "Juneau County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.92444,
         "longitude": -90.11402
     },
     {
-        "cityId": "5258396",
+        "cityId": 5258396,
         "name": "Kenosha County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.5728,
         "longitude": -87.83981
     },
     {
-        "cityId": "5258491",
+        "cityId": 5258491,
         "name": "Kewaunee County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.48279,
         "longitude": -87.51434
     },
     {
-        "cityId": "5258961",
+        "cityId": 5258961,
         "name": "La Crosse County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.90653,
         "longitude": -91.11522
     },
     {
-        "cityId": "5259061",
+        "cityId": 5259061,
         "name": "Lafayette County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.6605,
         "longitude": -90.13172
     },
     {
-        "cityId": "5259487",
+        "cityId": 5259487,
         "name": "Langlade County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.26236,
         "longitude": -89.07191
     },
     {
-        "cityId": "5259991",
+        "cityId": 5259991,
         "name": "Lincoln County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.33746,
         "longitude": -89.73461
     },
     {
-        "cityId": "5261587",
+        "cityId": 5261587,
         "name": "Manitowoc County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.09054,
         "longitude": -87.69974
     },
     {
-        "cityId": "5261790",
+        "cityId": 5261790,
         "name": "Marathon County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.89829,
         "longitude": -89.75906
     },
     {
-        "cityId": "5261856",
+        "cityId": 5261856,
         "name": "Marinette County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.3509,
         "longitude": -88.00222
     },
     {
-        "cityId": "5261914",
+        "cityId": 5261914,
         "name": "Marquette County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.81958,
         "longitude": -89.39875
     },
     {
-        "cityId": "5262622",
+        "cityId": 5262622,
         "name": "Menominee County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.00437,
         "longitude": -88.71001
     },
     {
-        "cityId": "5263058",
+        "cityId": 5263058,
         "name": "Milwaukee County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.02172,
         "longitude": -87.92908
     },
     {
-        "cityId": "5263335",
+        "cityId": 5263335,
         "name": "Monroe County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.94575,
         "longitude": -90.61787
     },
     {
-        "cityId": "5265518",
+        "cityId": 5265518,
         "name": "Oconto County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.99851,
         "longitude": -88.22056
     },
     {
-        "cityId": "5265726",
+        "cityId": 5265726,
         "name": "Oneida County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.70559,
         "longitude": -89.52171
     },
     {
-        "cityId": "5266044",
+        "cityId": 5266044,
         "name": "Outagamie County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.41609,
         "longitude": -88.46493
     },
     {
-        "cityId": "5266102",
+        "cityId": 5266102,
         "name": "Ozaukee County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.40305,
         "longitude": -87.89063
     },
     {
-        "cityId": "5266547",
+        "cityId": 5266547,
         "name": "Pepin County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.48265,
         "longitude": -92.14969
     },
     {
-        "cityId": "5266878",
+        "cityId": 5266878,
         "name": "Pierce County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.71963,
         "longitude": -92.42249
     },
     {
-        "cityId": "5267654",
+        "cityId": 5267654,
         "name": "Polk County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.46142,
         "longitude": -92.44139
     },
     {
-        "cityId": "5267787",
+        "cityId": 5267787,
         "name": "Portage County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.47604,
         "longitude": -89.50142
     },
     {
-        "cityId": "5268067",
+        "cityId": 5268067,
         "name": "Price County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.68038,
         "longitude": -90.36137
     },
     {
-        "cityId": "5268253",
+        "cityId": 5268253,
         "name": "Racine County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.72987,
         "longitude": -87.81235
     },
     {
-        "cityId": "5268859",
+        "cityId": 5268859,
         "name": "Richland County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.37564,
         "longitude": -90.42948
     },
     {
-        "cityId": "5269209",
+        "cityId": 5269209,
         "name": "Rock County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.67122,
         "longitude": -89.07158
     },
     {
-        "cityId": "5269777",
+        "cityId": 5269777,
         "name": "Rusk County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.47513,
         "longitude": -91.13312
     },
     {
-        "cityId": "5270199",
+        "cityId": 5270199,
         "name": "Saint Croix County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.03407,
         "longitude": -92.45278
     },
     {
-        "cityId": "5272232",
+        "cityId": 5272232,
         "name": "Sauk County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.42678,
         "longitude": -89.94837
     },
     {
-        "cityId": "5272272",
+        "cityId": 5272272,
         "name": "Sawyer County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.87997,
         "longitude": -91.14467
     },
     {
-        "cityId": "5272875",
+        "cityId": 5272875,
         "name": "Shawano County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.78915,
         "longitude": -88.76544
     },
     {
-        "cityId": "5272899",
+        "cityId": 5272899,
         "name": "Sheboygan County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.75622,
         "longitude": -87.79999
     },
     {
-        "cityId": "5275451",
+        "cityId": 5275451,
         "name": "Taylor County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.21153,
         "longitude": -90.50125
     },
     {
-        "cityId": "5276086",
+        "cityId": 5276086,
         "name": "Trempealeau County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.30395,
         "longitude": -91.35846
     },
     {
-        "cityId": "5277134",
+        "cityId": 5277134,
         "name": "Vernon County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.59386,
         "longitude": -90.83438
     },
     {
-        "cityId": "5277222",
+        "cityId": 5277222,
         "name": "Vilas County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 46.05289,
         "longitude": -89.51477
     },
     {
-        "cityId": "5277773",
+        "cityId": 5277773,
         "name": "Walworth County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 42.66848,
         "longitude": -88.54192
     },
     {
-        "cityId": "5277858",
+        "cityId": 5277858,
         "name": "Washburn County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 45.89918,
         "longitude": -91.79123
     },
     {
-        "cityId": "5277887",
+        "cityId": 5277887,
         "name": "Washington County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.36847,
         "longitude": -88.23078
     },
     {
-        "cityId": "5278054",
+        "cityId": 5278054,
         "name": "Waukesha County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 43.01819,
         "longitude": -88.30453
     },
     {
-        "cityId": "5278089",
+        "cityId": 5278089,
         "name": "Waupaca County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.47043,
         "longitude": -88.96482
     },
     {
-        "cityId": "5278147",
+        "cityId": 5278147,
         "name": "Waushara County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.11312,
         "longitude": -89.24288
     },
     {
-        "cityId": "5279387",
+        "cityId": 5279387,
         "name": "Winnebago County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.06888,
         "longitude": -88.64466
     },
     {
-        "cityId": "5279557",
+        "cityId": 5279557,
         "name": "Wood County",
-        "stateId": "5279468",
+        "stateId": 5279468,
         "latitude": 44.45532,
         "longitude": -90.04158
     }

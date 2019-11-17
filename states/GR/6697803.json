@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "733839",
+        "cityId": 733839,
         "name": "Nom\u00f3s X\u00e1nthis",
-        "stateId": "6697803",
+        "stateId": 6697803,
         "latitude": 41.16667,
         "longitude": 24.83333
     },
     {
-        "cityId": "734375",
+        "cityId": 734375,
         "name": "Nom\u00f3s Rod\u00f3pis",
-        "stateId": "6697803",
+        "stateId": 6697803,
         "latitude": 41.08333,
         "longitude": 25.5
     },
     {
-        "cityId": "735857",
+        "cityId": 735857,
         "name": "Nom\u00f3s Kav\u00e1las",
-        "stateId": "6697803",
+        "stateId": 6697803,
         "latitude": 40.95207,
         "longitude": 24.40956
     },
     {
-        "cityId": "736287",
+        "cityId": 736287,
         "name": "Nom\u00f3s \u00c9vrou",
-        "stateId": "6697803",
+        "stateId": 6697803,
         "latitude": 41,
         "longitude": 26
     },
     {
-        "cityId": "736363",
+        "cityId": 736363,
         "name": "Nom\u00f3s Dr\u00e1mas",
-        "stateId": "6697803",
+        "stateId": 6697803,
         "latitude": 41.25,
         "longitude": 24.25
     }

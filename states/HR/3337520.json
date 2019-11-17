@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "11049284",
+        "cityId": 11049284,
         "name": "Brinje",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.9986,
         "longitude": 15.12916
     },
     {
-        "cityId": "11049285",
+        "cityId": 11049285,
         "name": "Donji Lapac",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.55392,
         "longitude": 15.96
     },
     {
-        "cityId": "11049286",
+        "cityId": 11049286,
         "name": "Gospi\u0107",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.54652,
         "longitude": 15.37266
     },
     {
-        "cityId": "11049287",
+        "cityId": 11049287,
         "name": "Karlobag",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.52838,
         "longitude": 15.07251
     },
     {
-        "cityId": "11049288",
+        "cityId": 11049288,
         "name": "Lovinac",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.39202,
         "longitude": 15.68676
     },
     {
-        "cityId": "11049289",
+        "cityId": 11049289,
         "name": "Novalja",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.55634,
         "longitude": 14.88536
     },
     {
-        "cityId": "11049290",
+        "cityId": 11049290,
         "name": "Oto\u010dac",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.86876,
         "longitude": 15.23752
     },
     {
-        "cityId": "11049291",
+        "cityId": 11049291,
         "name": "Peru\u0161i\u0107",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.64865,
         "longitude": 15.38305
     },
     {
-        "cityId": "11049292",
+        "cityId": 11049292,
         "name": "Plitvi\u010dka Jezera",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.88053,
         "longitude": 15.62123
     },
     {
-        "cityId": "11049293",
+        "cityId": 11049293,
         "name": "Senj",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.98871,
         "longitude": 14.9045
     },
     {
-        "cityId": "11049294",
+        "cityId": 11049294,
         "name": "Udbina",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.53108,
         "longitude": 15.76658
     },
     {
-        "cityId": "11049295",
+        "cityId": 11049295,
         "name": "Vrhovine",
-        "stateId": "3337520",
+        "stateId": 3337520,
         "latitude": 44.85133,
         "longitude": 15.42287
     }

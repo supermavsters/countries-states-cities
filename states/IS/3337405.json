@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2625192",
+        "cityId": 2625192,
         "name": "Vopnafjar\u00f0arhreppur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 65.67733,
         "longitude": -15.01619
     },
     {
-        "cityId": "2627142",
+        "cityId": 2627142,
         "name": "Sey\u00f0isfjar\u00f0arkaupsta\u00f0ur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 65.25,
         "longitude": -14
     },
     {
-        "cityId": "2631712",
+        "cityId": 2631712,
         "name": "Flj\u00f3tsdalshreppur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 64.85275,
         "longitude": -15.2568
     },
     {
-        "cityId": "2632555",
+        "cityId": 2632555,
         "name": "Brei\u00f0dalshreppur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 64.83333,
         "longitude": -14.25
     },
     {
-        "cityId": "2632668",
+        "cityId": 2632668,
         "name": "Borgarfjar\u00f0arhreppur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 65.43401,
         "longitude": -13.82933
     },
     {
-        "cityId": "3345269",
+        "cityId": 3345269,
         "name": "Dj\u00fapavogshreppur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 64.63333,
         "longitude": -14.66667
     },
     {
-        "cityId": "3345270",
+        "cityId": 3345270,
         "name": "Fjar\u00f0abygg\u00f0",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 65.08333,
         "longitude": -14
     },
     {
-        "cityId": "3345272",
+        "cityId": 3345272,
         "name": "Sveitarf\u00e9lagi\u00f0 Hornafj\u00f6r\u00f0ur",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 64.26772,
         "longitude": -16.0204
     },
     {
-        "cityId": "9192044",
+        "cityId": 9192044,
         "name": "Flj\u00f3tsdalsh\u00e9ra\u00f0",
-        "stateId": "3337405",
+        "stateId": 3337405,
         "latitude": 65.2502,
         "longitude": -15.37211
     }

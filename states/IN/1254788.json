@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1252949",
+        "cityId": 1252949,
         "name": "Warangal",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 18,
         "longitude": 79.83333
     },
     {
-        "cityId": "1261260",
+        "cityId": 1261260,
         "name": "Nizamabad District",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 18.75,
         "longitude": 78.25
     },
     {
-        "cityId": "1262068",
+        "cityId": 1262068,
         "name": "Nalgonda",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 17.16667,
         "longitude": 79.5
     },
     {
-        "cityId": "1263231",
+        "cityId": 1263231,
         "name": "Medak",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 17.75,
         "longitude": 78.25
     },
     {
-        "cityId": "1264408",
+        "cityId": 1264408,
         "name": "Mahb\u016bbnagar",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 16.5,
         "longitude": 78.25
     },
     {
-        "cityId": "1267077",
+        "cityId": 1267077,
         "name": "Khammam",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 17.5,
         "longitude": 80.33333
     },
     {
-        "cityId": "1267756",
+        "cityId": 1267756,
         "name": "Kar\u012bmnagar",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 18.5,
         "longitude": 79.25
     },
     {
-        "cityId": "1269844",
+        "cityId": 1269844,
         "name": "Hyder\u0101b\u0101d",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 17.40164,
         "longitude": 78.48976
     },
     {
-        "cityId": "1279345",
+        "cityId": 1279345,
         "name": "\u0100dil\u0101b\u0101d",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 19.5,
         "longitude": 78.5
     },
     {
-        "cityId": "7626856",
+        "cityId": 7626856,
         "name": "Rangareddi",
-        "stateId": "1254788",
+        "stateId": 1254788,
         "latitude": 17.27883,
         "longitude": 78.16844
     }

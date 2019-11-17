@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3616034",
+        "cityId": 3616034,
         "name": "Municipio de Tipitapa",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.33333,
         "longitude": -85.95
     },
     {
-        "cityId": "3616593",
+        "cityId": 3616593,
         "name": "Municipio de San Rafael del Sur",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 11.86667,
         "longitude": -86.41667
     },
     {
-        "cityId": "3616847",
+        "cityId": 3616847,
         "name": "Municipio de San Francisco Libre",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.5,
         "longitude": -86.16667
     },
     {
-        "cityId": "3617696",
+        "cityId": 3617696,
         "name": "Municipio de Mateare",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.25,
         "longitude": -86.4
     },
     {
-        "cityId": "3617760",
+        "cityId": 3617760,
         "name": "Municipio de Managua",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.08333,
         "longitude": -86.33333
     },
     {
-        "cityId": "3620472",
+        "cityId": 3620472,
         "name": "Municipio de Carlos Fonseca Amador",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12,
         "longitude": -86.5
     },
     {
-        "cityId": "11002671",
+        "cityId": 11002671,
         "name": "Ciudad Sandino",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.15659,
         "longitude": -86.35649
     },
     {
-        "cityId": "11002672",
+        "cityId": 11002672,
         "name": "Ticuantepe",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 12.02049,
         "longitude": -86.20525
     },
     {
-        "cityId": "11002673",
+        "cityId": 11002673,
         "name": "El Crucero",
-        "stateId": "3617762",
+        "stateId": 3617762,
         "latitude": 11.98025,
         "longitude": -86.31138
     }

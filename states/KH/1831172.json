@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7647221",
+        "cityId": 7647221,
         "name": "Cheung Prey",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.1,
         "longitude": 105.07
     },
     {
-        "cityId": "7647526",
+        "cityId": 7647526,
         "name": "Kampong Cham",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 11.98,
         "longitude": 105.445
     },
     {
-        "cityId": "8403885",
+        "cityId": 8403885,
         "name": "Sr\u014fk Bath\u00e9ay",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.02986,
         "longitude": 104.93171
     },
     {
-        "cityId": "9253736",
+        "cityId": 9253736,
         "name": "Chamkar Leu",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.26607,
         "longitude": 105.29095
     },
     {
-        "cityId": "9253738",
+        "cityId": 9253738,
         "name": "Kampong Siem",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.05753,
         "longitude": 105.43746
     },
     {
-        "cityId": "9253739",
+        "cityId": 9253739,
         "name": "Kang Meas",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 11.93676,
         "longitude": 105.15154
     },
     {
-        "cityId": "9253741",
+        "cityId": 9253741,
         "name": "Kaoh Soutin",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 11.88585,
         "longitude": 105.37223
     },
     {
-        "cityId": "9253743",
+        "cityId": 9253743,
         "name": "Prey Chhor",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.08575,
         "longitude": 105.23048
     },
     {
-        "cityId": "9253747",
+        "cityId": 9253747,
         "name": "Srei Santhor",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 11.83416,
         "longitude": 105.1693
     },
     {
-        "cityId": "9253748",
+        "cityId": 9253748,
         "name": "Steung Trang",
-        "stateId": "1831172",
+        "stateId": 1831172,
         "latitude": 12.35582,
         "longitude": 105.56123
     }

@@ -1,64 +1,64 @@
 [
     {
-        "stateId": "3920177",
+        "stateId": 3920177,
         "name": "Departamento de Chuquisaca",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -20,
         "longitude": -64.33333
     },
     {
-        "stateId": "3919966",
+        "stateId": 3919966,
         "name": "Departamento de Cochabamba",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -17.5,
         "longitude": -65.66667
     },
     {
-        "stateId": "3911924",
+        "stateId": 3911924,
         "name": "Departamento de La Paz",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -15.5,
         "longitude": -68
     },
     {
-        "stateId": "3909233",
+        "stateId": 3909233,
         "name": "Departamento de Oruro",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -18.66667,
         "longitude": -67.5
     },
     {
-        "stateId": "3908600",
+        "stateId": 3908600,
         "name": "Departamento de Pando",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -11.33333,
         "longitude": -67.66667
     },
     {
-        "stateId": "3907580",
+        "stateId": 3907580,
         "name": "Departamento de Potos\u00ed",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -20.66667,
         "longitude": -67
     },
     {
-        "stateId": "3904907",
+        "stateId": 3904907,
         "name": "Departamento de Santa Cruz",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -17.5,
         "longitude": -61.5
     },
     {
-        "stateId": "3903319",
+        "stateId": 3903319,
         "name": "Departamento de Tarija",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -21.5,
         "longitude": -64
     },
     {
-        "stateId": "3923172",
+        "stateId": 3923172,
         "name": "El Beni",
-        "countryId": "3923057",
+        "countryId": 3923057,
         "latitude": -14,
         "longitude": -65.5
     }

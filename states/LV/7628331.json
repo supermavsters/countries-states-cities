@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11352677",
+        "cityId": 11352677,
         "name": "Lielv\u0101rde",
-        "stateId": "7628331",
+        "stateId": 7628331,
         "latitude": 56.71907,
         "longitude": 24.81072
     },
     {
-        "cityId": "11352685",
+        "cityId": 11352685,
         "name": "Lielv\u0101rdes pagasts",
-        "stateId": "7628331",
+        "stateId": 7628331,
         "latitude": 56.71906,
         "longitude": 24.89509
     },
     {
-        "cityId": "11352708",
+        "cityId": 11352708,
         "name": "Jumpravas pagasts",
-        "stateId": "7628331",
+        "stateId": 7628331,
         "latitude": 56.67194,
         "longitude": 24.97676
     },
     {
-        "cityId": "11352725",
+        "cityId": 11352725,
         "name": "L\u0113dmanes pagasts",
-        "stateId": "7628331",
+        "stateId": 7628331,
         "latitude": 56.76686,
         "longitude": 24.988
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2097572",
+        "cityId": 2097572,
         "name": "Esa\u2019ala",
-        "stateId": "2132895",
+        "stateId": 2132895,
         "latitude": -9.58333,
         "longitude": 150.75
     },
     {
-        "cityId": "8657199",
+        "cityId": 8657199,
         "name": "Kiriwina Goodenough",
-        "stateId": "2132895",
+        "stateId": 2132895,
         "latitude": -8.48333,
         "longitude": 151.06667
     },
     {
-        "cityId": "8657203",
+        "cityId": 8657203,
         "name": "Alotau",
-        "stateId": "2132895",
+        "stateId": 2132895,
         "latitude": -10.25,
         "longitude": 150.08333
     },
     {
-        "cityId": "9855462",
+        "cityId": 9855462,
         "name": "Samarai Murua",
-        "stateId": "2132895",
+        "stateId": 2132895,
         "latitude": -10.49636,
         "longitude": 150.54703
     }

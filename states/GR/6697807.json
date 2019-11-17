@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "257149",
+        "cityId": 257149,
         "name": "Nom\u00f3s Messin\u00edas",
-        "stateId": "6697807",
+        "stateId": 6697807,
         "latitude": 37.25,
         "longitude": 21.83333
     },
     {
-        "cityId": "258657",
+        "cityId": 258657,
         "name": "Nom\u00f3s Lakon\u00edas",
-        "stateId": "6697807",
+        "stateId": 6697807,
         "latitude": 37,
         "longitude": 22.58333
     },
     {
-        "cityId": "259290",
+        "cityId": 259290,
         "name": "Nom\u00f3s Korinth\u00edas",
-        "stateId": "6697807",
+        "stateId": 6697807,
         "latitude": 37.91667,
         "longitude": 22.66667
     },
     {
-        "cityId": "264644",
+        "cityId": 264644,
         "name": "Nom\u00f3s Arkad\u00edas",
-        "stateId": "6697807",
+        "stateId": 6697807,
         "latitude": 37.58333,
         "longitude": 22.25
     },
     {
-        "cityId": "264673",
+        "cityId": 264673,
         "name": "Nom\u00f3s Argol\u00eddos",
-        "stateId": "6697807",
+        "stateId": 6697807,
         "latitude": 37.66667,
         "longitude": 22.83333
     }

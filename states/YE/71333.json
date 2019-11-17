@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "71271",
+        "cityId": 71271,
         "name": "Sa\u1e29\u0101r",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.88522,
         "longitude": 43.68306
     },
     {
-        "cityId": "71332",
+        "cityId": 71332,
         "name": "\u015ea\u2018dah",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.91733,
         "longitude": 43.76
     },
     {
-        "cityId": "71519",
+        "cityId": 71519,
         "name": "R\u0101zi\u1e29",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.93704,
         "longitude": 43.2608
     },
     {
-        "cityId": "6940588",
+        "cityId": 6940588,
         "name": "Haydan",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.7287,
         "longitude": 43.4849
     },
     {
-        "cityId": "6940618",
+        "cityId": 6940618,
         "name": "Al Hashwah",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.8884,
         "longitude": 44.2738
     },
     {
-        "cityId": "6940619",
+        "cityId": 6940619,
         "name": "Ghamr",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.98301,
         "longitude": 43.31608
     },
     {
-        "cityId": "6940620",
+        "cityId": 6940620,
         "name": "Qatabir",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.3368,
         "longitude": 43.3311
     },
     {
-        "cityId": "6940621",
+        "cityId": 6940621,
         "name": "Monabbih",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.1693,
         "longitude": 43.2791
     },
     {
-        "cityId": "6940793",
+        "cityId": 6940793,
         "name": "Al Dhaher",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.7314,
         "longitude": 43.2753
     },
     {
-        "cityId": "6940794",
+        "cityId": 6940794,
         "name": "Shada'a",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.8913,
         "longitude": 43.1871
     },
     {
-        "cityId": "6940795",
+        "cityId": 6940795,
         "name": "Saqayn",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 16.8601,
         "longitude": 43.4716
     },
     {
-        "cityId": "6940796",
+        "cityId": 6940796,
         "name": "Baqim",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.3781,
         "longitude": 43.4635
     },
     {
-        "cityId": "6940797",
+        "cityId": 6940797,
         "name": "As Safra",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.0142,
         "longitude": 43.8566
     },
     {
-        "cityId": "6940798",
+        "cityId": 6940798,
         "name": "Majz",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.0923,
         "longitude": 43.5104
     },
     {
-        "cityId": "6940799",
+        "cityId": 6940799,
         "name": "Kitaf wa Al Boqe'e",
-        "stateId": "71333",
+        "stateId": 71333,
         "latitude": 17.0808,
         "longitude": 44.3962
     }

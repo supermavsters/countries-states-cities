@@ -1,239 +1,239 @@
 [
     {
-        "cityId": "1162104",
+        "cityId": 1162104,
         "name": "Zhob District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 31.36444,
         "longitude": 69.20749
     },
     {
-        "cityId": "1163052",
+        "cityId": 1163052,
         "name": "Kech District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 26.01791,
         "longitude": 63.11031
     },
     {
-        "cityId": "1164895",
+        "cityId": 1164895,
         "name": "Sibi District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.84064,
         "longitude": 68.01552
     },
     {
-        "cityId": "1167526",
+        "cityId": 1167526,
         "name": "Quetta Division",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.38287,
         "longitude": 64.30047
     },
     {
-        "cityId": "1167527",
+        "cityId": 1167527,
         "name": "Quetta District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.17458,
         "longitude": 66.76203
     },
     {
-        "cityId": "1167820",
+        "cityId": 1167820,
         "name": "Pish\u012bn District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.81809,
         "longitude": 67.21389
     },
     {
-        "cityId": "1168444",
+        "cityId": 1168444,
         "name": "Panjg\u016br District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 26.7375,
         "longitude": 64.2038
     },
     {
-        "cityId": "1169249",
+        "cityId": 1169249,
         "name": "Nas\u012br\u0101b\u0101d District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.62643,
         "longitude": 68.12925
     },
     {
-        "cityId": "1171403",
+        "cityId": 1171403,
         "name": "Mekran District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 26.11572,
         "longitude": 63.4515
     },
     {
-        "cityId": "1171867",
+        "cityId": 1171867,
         "name": "Loralai District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.30253,
         "longitude": 68.84636
     },
     {
-        "cityId": "1172115",
+        "cityId": 1172115,
         "name": "Lasbela District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 25.78634,
         "longitude": 66.6033
     },
     {
-        "cityId": "1173463",
+        "cityId": 1173463,
         "name": "Kohlu District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.64414,
         "longitude": 68.80721
     },
     {
-        "cityId": "1173663",
+        "cityId": 1173663,
         "name": "Khuzd\u0101r District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 27.4868,
         "longitude": 66.58703
     },
     {
-        "cityId": "1174059",
+        "cityId": 1174059,
         "name": "Kh\u0101r\u0101n District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 27.96308,
         "longitude": 64.57113
     },
     {
-        "cityId": "1175292",
+        "cityId": 1175292,
         "name": "Kalat Division",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 27.47438,
         "longitude": 65.71368
     },
     {
-        "cityId": "1175293",
+        "cityId": 1175293,
         "name": "Kal\u0101t District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.88242,
         "longitude": 66.53165
     },
     {
-        "cityId": "1175527",
+        "cityId": 1175527,
         "name": "Kachhi District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.66667,
         "longitude": 67.75
     },
     {
-        "cityId": "1177445",
+        "cityId": 1177445,
         "name": "Gw\u0101dar District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 25.39336,
         "longitude": 63.18104
     },
     {
-        "cityId": "1181950",
+        "cityId": 1181950,
         "name": "Ch\u0101gai District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.98765,
         "longitude": 63.59087
     },
     {
-        "cityId": "6641896",
+        "cityId": 6641896,
         "name": "Aw\u0101r\u0101n District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 26.21157,
         "longitude": 65.42944
     },
     {
-        "cityId": "6641912",
+        "cityId": 6641912,
         "name": "B\u0101rkh\u0101n District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.98482,
         "longitude": 69.69944
     },
     {
-        "cityId": "6641919",
+        "cityId": 6641919,
         "name": "Dera Bugti District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.9425,
         "longitude": 69.06883
     },
     {
-        "cityId": "6641922",
+        "cityId": 6641922,
         "name": "J\u0101far\u0101b\u0101d District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.30104,
         "longitude": 68.19783
     },
     {
-        "cityId": "6641923",
+        "cityId": 6641923,
         "name": "Jhal Magsi District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 28.36881,
         "longitude": 67.543
     },
     {
-        "cityId": "6641952",
+        "cityId": 6641952,
         "name": "Mastung District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.79455,
         "longitude": 66.72068
     },
     {
-        "cityId": "6641955",
+        "cityId": 6641955,
         "name": "M\u016bsa Khel District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.84937,
         "longitude": 69.90069
     },
     {
-        "cityId": "6641960",
+        "cityId": 6641960,
         "name": "Nushki District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.5,
         "longitude": 65.66667
     },
     {
-        "cityId": "6641961",
+        "cityId": 6641961,
         "name": "Qila Abdull\u0101h District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.69854,
         "longitude": 66.55611
     },
     {
-        "cityId": "6641963",
+        "cityId": 6641963,
         "name": "Qila Saifull\u0101h District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.95392,
         "longitude": 68.33996
     },
     {
-        "cityId": "6641965",
+        "cityId": 6641965,
         "name": "W\u0101shuk District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 27.75,
         "longitude": 64.5
     },
     {
-        "cityId": "6641972",
+        "cityId": 6641972,
         "name": "Zi\u0101rat District",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.43591,
         "longitude": 67.50962
     },
     {
-        "cityId": "8309758",
+        "cityId": 8309758,
         "name": "Harnai",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 30.16616,
         "longitude": 67.68111
     },
     {
-        "cityId": "8309759",
+        "cityId": 8309759,
         "name": "Shir\u0101ni",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 31.75421,
         "longitude": 69.70663
     },
     {
-        "cityId": "10983501",
+        "cityId": 10983501,
         "name": "Dalbandin Nok Kundi",
-        "stateId": "1183606",
+        "stateId": 1183606,
         "latitude": 29.3644,
         "longitude": 63.44497
     }

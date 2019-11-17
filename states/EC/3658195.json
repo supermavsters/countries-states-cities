@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "3649913",
+        "cityId": 3649913,
         "name": "Cant\u00f3n Zaruma",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.68333,
         "longitude": -79.61667
     },
     {
-        "cityId": "3651355",
+        "cityId": 3651355,
         "name": "Cant\u00f3n Santa Rosa",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.46407,
         "longitude": -79.95712
     },
     {
-        "cityId": "3652942",
+        "cityId": 3652942,
         "name": "Cant\u00f3n Portovelo",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.71667,
         "longitude": -79.61667
     },
     {
-        "cityId": "3653129",
+        "cityId": 3653129,
         "name": "Cant\u00f3n Pi\u00f1as",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.66667,
         "longitude": -79.66667
     },
     {
-        "cityId": "3653402",
+        "cityId": 3653402,
         "name": "Cant\u00f3n Pasaje",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.33333,
         "longitude": -79.81667
     },
     {
-        "cityId": "3654532",
+        "cityId": 3654532,
         "name": "Cant\u00f3n Machala",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.26667,
         "longitude": -79.95
     },
     {
-        "cityId": "3655719",
+        "cityId": 3655719,
         "name": "Cant\u00f3n Huaquillas",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.48333,
         "longitude": -80.23333
     },
     {
-        "cityId": "3657721",
+        "cityId": 3657721,
         "name": "Cant\u00f3n Guabo",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.25,
         "longitude": -79.85
     },
     {
-        "cityId": "3660558",
+        "cityId": 3660558,
         "name": "Cant\u00f3n Arenillas",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.55,
         "longitude": -80.06667
     },
     {
-        "cityId": "10792445",
+        "cityId": 10792445,
         "name": "Atahualpa",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.54638,
         "longitude": -79.71621
     },
     {
-        "cityId": "10792446",
+        "cityId": 10792446,
         "name": "Chilla",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.43651,
         "longitude": -79.62857
     },
     {
-        "cityId": "10792447",
+        "cityId": 10792447,
         "name": "Marcabel\u00ed",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.77573,
         "longitude": -79.92319
     },
     {
-        "cityId": "10792468",
+        "cityId": 10792468,
         "name": "Las Lajas",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.80555,
         "longitude": -80.0585
     },
     {
-        "cityId": "10792510",
+        "cityId": 10792510,
         "name": "Balsas",
-        "stateId": "3658195",
+        "stateId": 3658195,
         "latitude": -3.76834,
         "longitude": -79.83285
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "5992375",
+        "cityId": 5992375,
         "name": "Kings County",
-        "stateId": "6113358",
+        "stateId": 6113358,
         "latitude": 46.2501,
         "longitude": -62.49864
     },
     {
-        "cityId": "6113329",
+        "cityId": 6113329,
         "name": "Prince County",
-        "stateId": "6113358",
+        "stateId": 6113358,
         "latitude": 46.75015,
         "longitude": -64.08203
     },
     {
-        "cityId": "6115098",
+        "cityId": 6115098,
         "name": "Queens County",
-        "stateId": "6113358",
+        "stateId": 6113358,
         "latitude": 46.28342,
         "longitude": -63.24869
     }

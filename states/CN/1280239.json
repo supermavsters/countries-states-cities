@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1279540",
+        "cityId": 1279540,
         "name": "Yushu Zangzu Zizhizhou",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 34.39802,
         "longitude": 94.19021
     },
     {
-        "cityId": "1281075",
+        "cityId": 1281075,
         "name": "Haixi Mengguzu Zangzu Zizhizhou",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 37.08248,
         "longitude": 95.45972
     },
     {
-        "cityId": "1281178",
+        "cityId": 1281178,
         "name": "Golog Tibetan Autonomous Prefecture",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 34.08595,
         "longitude": 99.55181
     },
     {
-        "cityId": "1788850",
+        "cityId": 1788850,
         "name": "Xining Shi",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 36.82446,
         "longitude": 101.44081
     },
     {
-        "cityId": "1807329",
+        "cityId": 1807329,
         "name": "Huangnan Zangzu Zizhizhou",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 35.06316,
         "longitude": 101.65149
     },
     {
-        "cityId": "1809051",
+        "cityId": 1809051,
         "name": "Hainan Zangzu Zizhizhou",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 35.81725,
         "longitude": 100.34053
     },
     {
-        "cityId": "1809101",
+        "cityId": 1809101,
         "name": "Haidong Diqu",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 36.31582,
         "longitude": 102.37155
     },
     {
-        "cityId": "1809111",
+        "cityId": 1809111,
         "name": "Haibei Zangzu Zizhizhou",
-        "stateId": "1280239",
+        "stateId": 1280239,
         "latitude": 37.71919,
         "longitude": 100.45656
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3653145",
+        "cityId": 3653145,
         "name": "Cant\u00f3n Pimampiro",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.4,
         "longitude": -77.96667
     },
     {
-        "cityId": "3653692",
+        "cityId": 3653692,
         "name": "Cant\u00f3n Otavalo",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.22409,
         "longitude": -78.17255
     },
     {
-        "cityId": "3655672",
+        "cityId": 3655672,
         "name": "Ibarra",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.33039,
         "longitude": -78.08265
     },
     {
-        "cityId": "3658780",
+        "cityId": 3658780,
         "name": "Cant\u00f3n Cotacachi",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.31526,
         "longitude": -78.48511
     },
     {
-        "cityId": "3660592",
+        "cityId": 3660592,
         "name": "Cant\u00f3n Antonio Ante",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.33989,
         "longitude": -78.20515
     },
     {
-        "cityId": "9165820",
+        "cityId": 9165820,
         "name": "San Miguel de Urcuqui Canton",
-        "stateId": "3655635",
+        "stateId": 3655635,
         "latitude": 0.4203,
         "longitude": -78.1972
     }

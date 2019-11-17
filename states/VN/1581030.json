@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1905025",
+        "cityId": 1905025,
         "name": "Th\u00e0nh Ph\u1ed1 H\u00e0 Giang",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.78931,
         "longitude": 105.03141
     },
     {
-        "cityId": "1905026",
+        "cityId": 1905026,
         "name": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.73096,
         "longitude": 104.90827
     },
     {
-        "cityId": "1905027",
+        "cityId": 1905027,
         "name": "Huy\u1ec7n B\u1eafc M\u00ea",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.75477,
         "longitude": 105.29023
     },
     {
-        "cityId": "1905028",
+        "cityId": 1905028,
         "name": "Huy\u1ec7n Y\u00ean Minh",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 23.06992,
         "longitude": 105.17865
     },
     {
-        "cityId": "1905029",
+        "cityId": 1905029,
         "name": "Huy\u1ec7n Qu\u1ea3n B\u1ea1",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 23.08011,
         "longitude": 104.97241
     },
     {
-        "cityId": "1905030",
+        "cityId": 1905030,
         "name": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 23.25449,
         "longitude": 105.27626
     },
     {
-        "cityId": "1905031",
+        "cityId": 1905031,
         "name": "Huy\u1ec7n M\u00e8o V\u1ea1c",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 23.14075,
         "longitude": 105.43843
     },
     {
-        "cityId": "1905032",
+        "cityId": 1905032,
         "name": "Huy\u1ec7n X\u00edn M\u1ea7n",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.64148,
         "longitude": 104.52089
     },
     {
-        "cityId": "1905033",
+        "cityId": 1905033,
         "name": "Huy\u1ec7n Ho\u00e0ng Su Ph\u00ec",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.71581,
         "longitude": 104.68448
     },
     {
-        "cityId": "1905034",
+        "cityId": 1905034,
         "name": "Huy\u1ec7n B\u1eafc Quang",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.42301,
         "longitude": 104.91831
     },
     {
-        "cityId": "8473912",
+        "cityId": 8473912,
         "name": "Huy\u1ec7n Quang B\u00ecnh",
-        "stateId": "1581030",
+        "stateId": 1581030,
         "latitude": 22.41507,
         "longitude": 104.66018
     }

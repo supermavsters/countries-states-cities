@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3718404",
+        "cityId": 3718404,
         "name": "Arrondissement de Port-Salut",
-        "stateId": "3716952",
+        "stateId": 3716952,
         "latitude": 18.13333,
         "longitude": -73.9
     },
     {
-        "cityId": "3727295",
+        "cityId": 3727295,
         "name": "Arrondissement des Coteaux",
-        "stateId": "3716952",
+        "stateId": 3716952,
         "latitude": 18.25,
         "longitude": -74
     },
     {
-        "cityId": "3727900",
+        "cityId": 3727900,
         "name": "Arrondissement des Chardonni\u00e8res",
-        "stateId": "3716952",
+        "stateId": 3716952,
         "latitude": 18.36667,
         "longitude": -74.25
     },
     {
-        "cityId": "3728096",
+        "cityId": 3728096,
         "name": "Arrondissement des Cayes",
-        "stateId": "3716952",
+        "stateId": 3716952,
         "latitude": 18.3,
         "longitude": -73.83333
     },
     {
-        "cityId": "3731094",
+        "cityId": 3731094,
         "name": "Aken",
-        "stateId": "3716952",
+        "stateId": 3716952,
         "latitude": 18.28333,
         "longitude": -73.38333
     }

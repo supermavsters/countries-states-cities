@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "151477",
+        "cityId": 151477,
         "name": "Njombe District Council",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -9.20909,
         "longitude": 35.13254
     },
     {
-        "cityId": "155165",
+        "cityId": 155165,
         "name": "Makete",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -9.23517,
         "longitude": 34.14219
     },
     {
-        "cityId": "878221",
+        "cityId": 878221,
         "name": "Ludewa",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -10,
         "longitude": 34.75
     },
     {
-        "cityId": "9998174",
+        "cityId": 9998174,
         "name": "Makambako Town",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -8.87081,
         "longitude": 34.90651
     },
     {
-        "cityId": "9998175",
+        "cityId": 9998175,
         "name": "Njombe Town",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -9.47896,
         "longitude": 34.84103
     },
     {
-        "cityId": "9998176",
+        "cityId": 9998176,
         "name": "Wanging\u2019ombe",
-        "stateId": "8469241",
+        "stateId": 8469241,
         "latitude": -9.02054,
         "longitude": 34.54852
     }

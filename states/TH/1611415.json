@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1153379",
+        "cityId": 1153379,
         "name": "Amphoe Hankha",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.05048,
         "longitude": 99.9609
     },
     {
-        "cityId": "1605047",
+        "cityId": 1605047,
         "name": "Amphoe Wat Sing",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.21574,
         "longitude": 99.9668
     },
     {
-        "cityId": "1606511",
+        "cityId": 1606511,
         "name": "Amphoe Sapphaya",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.14873,
         "longitude": 100.25506
     },
     {
-        "cityId": "1606529",
+        "cityId": 1606529,
         "name": "Amphoe Sankhaburi",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.02105,
         "longitude": 100.17038
     },
     {
-        "cityId": "1608662",
+        "cityId": 1608662,
         "name": "Amphoe Mueang Chainat",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.19104,
         "longitude": 100.1354
     },
     {
-        "cityId": "1608761",
+        "cityId": 1608761,
         "name": "Amphoe Manorom",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.31894,
         "longitude": 100.15677
     },
     {
-        "cityId": "7510656",
+        "cityId": 7510656,
         "name": "Amphoe Noen Kham",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 14.98254,
         "longitude": 99.8459
     },
     {
-        "cityId": "7510659",
+        "cityId": 7510659,
         "name": "Amphoe Nong Mamong",
-        "stateId": "1611415",
+        "stateId": 1611415,
         "latitude": 15.23372,
         "longitude": 99.81087
     }

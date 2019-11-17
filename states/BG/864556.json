@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "726140",
+        "cityId": 726140,
         "name": "Obshtina Tutrakan",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 44,
         "longitude": 26.6
     },
     {
-        "cityId": "727174",
+        "cityId": 727174,
         "name": "Obshtina Sitovo",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 44.01667,
         "longitude": 27
     },
     {
-        "cityId": "727220",
+        "cityId": 727220,
         "name": "Obshtina Silistra",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 44.03333,
         "longitude": 27.2
     },
     {
-        "cityId": "730502",
+        "cityId": 730502,
         "name": "Obshtina Kaynardzha",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 43.95,
         "longitude": 27.53333
     },
     {
-        "cityId": "731414",
+        "cityId": 731414,
         "name": "Obshtina Glavinitsa",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 43.95,
         "longitude": 26.85
     },
     {
-        "cityId": "731816",
+        "cityId": 731816,
         "name": "Obshtina Dulovo",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 43.81667,
         "longitude": 27.08333
     },
     {
-        "cityId": "733678",
+        "cityId": 733678,
         "name": "Obshtina Alfatar",
-        "stateId": "864556",
+        "stateId": 864556,
         "latitude": 43.9,
         "longitude": 27.33333
     }

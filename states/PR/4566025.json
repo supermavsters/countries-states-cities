@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7268327",
+        "cityId": 7268327,
         "name": "Can\u00f3vanas Barrio",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.39055,
         "longitude": -65.86406
     },
     {
-        "cityId": "7268571",
+        "cityId": 7268571,
         "name": "Lo\u00edza Barrio-Pueblo",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.43202,
         "longitude": -65.87958
     },
     {
-        "cityId": "7268647",
+        "cityId": 7268647,
         "name": "Median\u00eda Alta Barrio",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.42395,
         "longitude": -65.84062
     },
     {
-        "cityId": "7268648",
+        "cityId": 7268648,
         "name": "Median\u00eda Baja Barrio",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.42553,
         "longitude": -65.85995
     },
     {
-        "cityId": "7269047",
+        "cityId": 7269047,
         "name": "Torrecilla Alta Barrio",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.41888,
         "longitude": -65.91477
     },
     {
-        "cityId": "7269048",
+        "cityId": 7269048,
         "name": "Torrecilla Baja Barrio",
-        "stateId": "4566025",
+        "stateId": 4566025,
         "latitude": 18.44424,
         "longitude": -65.93281
     }

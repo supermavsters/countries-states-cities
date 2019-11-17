@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "3195786",
+        "cityId": 3195786,
         "name": "Mala Subotica",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.37616,
         "longitude": 16.52893
     },
     {
-        "cityId": "3202887",
+        "cityId": 3202887,
         "name": "Grad \u010cakovec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.38583,
         "longitude": 16.43333
     },
     {
-        "cityId": "11054830",
+        "cityId": 11054830,
         "name": "Belica",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.40735,
         "longitude": 16.52061
     },
     {
-        "cityId": "11054832",
+        "cityId": 11054832,
         "name": "Dekanovec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.44808,
         "longitude": 16.58193
     },
     {
-        "cityId": "11054834",
+        "cityId": 11054834,
         "name": "Doma\u0161inec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.43622,
         "longitude": 16.59729
     },
     {
-        "cityId": "11054835",
+        "cityId": 11054835,
         "name": "Donja Dubrava",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.31524,
         "longitude": 16.80531
     },
     {
-        "cityId": "11054836",
+        "cityId": 11054836,
         "name": "Donji Kraljevec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.36581,
         "longitude": 16.65004
     },
     {
-        "cityId": "11054837",
+        "cityId": 11054837,
         "name": "Donji Vidovec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.32789,
         "longitude": 16.78213
     },
     {
-        "cityId": "11054838",
+        "cityId": 11054838,
         "name": "Gori\u010dan",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.38364,
         "longitude": 16.67862
     },
     {
-        "cityId": "11054839",
+        "cityId": 11054839,
         "name": "Gornji Mihaljevec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.42951,
         "longitude": 16.32401
     },
     {
-        "cityId": "11054840",
+        "cityId": 11054840,
         "name": "Kotoriba",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.35613,
         "longitude": 16.81543
     },
     {
-        "cityId": "11054845",
+        "cityId": 11054845,
         "name": "Mala Subotica",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.37556,
         "longitude": 16.52696
     },
     {
-        "cityId": "11054846",
+        "cityId": 11054846,
         "name": "Mursko Sredi\u0161\u0107e",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.51321,
         "longitude": 16.43838
     },
     {
-        "cityId": "11054847",
+        "cityId": 11054847,
         "name": "Nedeli\u0161\u0107e",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.3763,
         "longitude": 16.38486
     },
     {
-        "cityId": "11054848",
+        "cityId": 11054848,
         "name": "Orehovica",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.33071,
         "longitude": 16.50837
     },
     {
-        "cityId": "11054849",
+        "cityId": 11054849,
         "name": "Podturen",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.467,
         "longitude": 16.54524
     },
     {
-        "cityId": "11054850",
+        "cityId": 11054850,
         "name": "Prelog",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.33387,
         "longitude": 16.61785
     },
     {
-        "cityId": "11054852",
+        "cityId": 11054852,
         "name": "Pribislavec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.3937,
         "longitude": 16.47786
     },
     {
-        "cityId": "11054853",
+        "cityId": 11054853,
         "name": "Selnica",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.49416,
         "longitude": 16.39027
     },
     {
-        "cityId": "11054879",
+        "cityId": 11054879,
         "name": "Strahoninec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.37162,
         "longitude": 16.41396
     },
     {
-        "cityId": "11054880",
+        "cityId": 11054880,
         "name": "Sveta Marija",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.33279,
         "longitude": 16.74128
     },
     {
-        "cityId": "11054883",
+        "cityId": 11054883,
         "name": "Sveti Juraj na Bregu",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.42853,
         "longitude": 16.38525
     },
     {
-        "cityId": "11054884",
+        "cityId": 11054884,
         "name": "Sveti Martin na Muri",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.52541,
         "longitude": 16.36233
     },
     {
-        "cityId": "11054885",
+        "cityId": 11054885,
         "name": "\u0160enkovec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.40702,
         "longitude": 16.41847
     },
     {
-        "cityId": "11054886",
+        "cityId": 11054886,
         "name": "\u0160trigova",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.50054,
         "longitude": 16.28646
     },
     {
-        "cityId": "11054887",
+        "cityId": 11054887,
         "name": "Vrati\u0161inec",
-        "stateId": "3337521",
+        "stateId": 3337521,
         "latitude": 46.48104,
         "longitude": 16.45756
     }

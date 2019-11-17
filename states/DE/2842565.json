@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "2807345",
+        "cityId": 2807345,
         "name": "Landkreis Wittenberg",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.81666,
         "longitude": 12.6666
     },
     {
-        "cityId": "2827478",
+        "cityId": 2827478,
         "name": "Landkreis Stendal",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 52.7,
         "longitude": 11.8666
     },
     {
-        "cityId": "2842111",
+        "cityId": 2842111,
         "name": "Altmarkkreis Salzwedel",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 52.6667,
         "longitude": 11.2
     },
     {
-        "cityId": "2842671",
+        "cityId": 2842671,
         "name": "Saalekreis",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.53167,
         "longitude": 11.93333
     },
     {
-        "cityId": "2874544",
+        "cityId": 2874544,
         "name": "Landeshauptstadt Magdeburg",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 52.14167,
         "longitude": 11.64444
     },
     {
-        "cityId": "2911516",
+        "cityId": 2911516,
         "name": "Kreisfreie Stadt Halle",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.48139,
         "longitude": 11.98556
     },
     {
-        "cityId": "2911664",
+        "cityId": 2911664,
         "name": "Landkreis Harz",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.94639,
         "longitude": 10.97361
     },
     {
-        "cityId": "2937956",
+        "cityId": 2937956,
         "name": "Dessau-Ro\u00dflau",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.82389,
         "longitude": 12.23361
     },
     {
-        "cityId": "2948163",
+        "cityId": 2948163,
         "name": "Anhalt-Bitterfeld",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.65639,
         "longitude": 12.26167
     },
     {
-        "cityId": "2950072",
+        "cityId": 2950072,
         "name": "Salzlandkreis",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.75806,
         "longitude": 11.73917
     },
     {
-        "cityId": "3302155",
+        "cityId": 3302155,
         "name": "Mansfeld-S\u00fcdharz",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.56861,
         "longitude": 11.53694
     },
     {
-        "cityId": "3302156",
+        "cityId": 3302156,
         "name": "Burgenlandkreis",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 51.13989,
         "longitude": 11.85784
     },
     {
-        "cityId": "3302158",
+        "cityId": 3302158,
         "name": "Jerichower Land",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 52.26666,
         "longitude": 12
     },
     {
-        "cityId": "3302159",
+        "cityId": 3302159,
         "name": "B\u00f6rde",
-        "stateId": "2842565",
+        "stateId": 2842565,
         "latitude": 52.07944,
         "longitude": 11.2675
     }

@@ -1,442 +1,442 @@
 [
     {
-        "stateId": "1594446",
+        "stateId": 1594446,
         "name": "An Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.5,
         "longitude": 105.16667
     },
     {
-        "stateId": "1581088",
+        "stateId": 1581088,
         "name": "Gia Lai",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 13.75,
         "longitude": 108.25
     },
     {
-        "stateId": "7506719",
+        "stateId": 7506719,
         "name": "Hau Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 9.77605,
         "longitude": 105.46412
     },
     {
-        "stateId": "1580578",
+        "stateId": 1580578,
         "name": "Ho Chi Minh City",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.82327,
         "longitude": 106.62978
     },
     {
-        "stateId": "1565088",
+        "stateId": 1565088,
         "name": "Kon Tum",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 14.75,
         "longitude": 107.91667
     },
     {
-        "stateId": "1575788",
+        "stateId": 1575788,
         "name": "Long An",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.7,
         "longitude": 106.16667
     },
     {
-        "stateId": "1581188",
+        "stateId": 1581188,
         "name": "Th\u00e0nh Ph\u1ed1 C\u1ea7n Th\u01a1",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.11667,
         "longitude": 105.5
     },
     {
-        "stateId": "1581129",
+        "stateId": 1581129,
         "name": "Th\u00e0nh Ph\u1ed1 H\u00e0 N\u1ed9i",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21,
         "longitude": 105.75
     },
     {
-        "stateId": "1581297",
+        "stateId": 1581297,
         "name": "Th\u00e0nh Ph\u1ed1 H\u1ea3i Ph\u00f2ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.8,
         "longitude": 106.66667
     },
     {
-        "stateId": "1905468",
+        "stateId": 1905468,
         "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 16.08333,
         "longitude": 108.08333
     },
     {
-        "stateId": "1584534",
+        "stateId": 1584534,
         "name": "T\u1ec9nh B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.58333,
         "longitude": 107.25
     },
     {
-        "stateId": "1905475",
+        "stateId": 1905475,
         "name": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.16667,
         "longitude": 106.66667
     },
     {
-        "stateId": "1905480",
+        "stateId": 1905480,
         "name": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.75,
         "longitude": 106.91667
     },
     {
-        "stateId": "1581882",
+        "stateId": 1581882,
         "name": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.08333,
         "longitude": 108.08333
     },
     {
-        "stateId": "1587871",
+        "stateId": 1587871,
         "name": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 14.16667,
         "longitude": 109
     },
     {
-        "stateId": "1905675",
+        "stateId": 1905675,
         "name": "T\u1ec9nh B\u1ea1c Li\u00eau",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 9.3,
         "longitude": 105.5
     },
     {
-        "stateId": "1905419",
+        "stateId": 1905419,
         "name": "T\u1ec9nh B\u1eafc Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.33333,
         "longitude": 106.43333
     },
     {
-        "stateId": "1905669",
+        "stateId": 1905669,
         "name": "T\u1ec9nh B\u1eafc K\u1ea1n",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.25,
         "longitude": 105.83333
     },
     {
-        "stateId": "1905412",
+        "stateId": 1905412,
         "name": "T\u1ec9nh B\u1eafc Ninh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.1,
         "longitude": 106.1
     },
     {
-        "stateId": "1587974",
+        "stateId": 1587974,
         "name": "T\u1ec9nh B\u1ebfn Tre",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.16667,
         "longitude": 106.5
     },
     {
-        "stateId": "1586182",
+        "stateId": 1586182,
         "name": "T\u1ec9nh Cao B\u1eb1ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.75,
         "longitude": 106.08333
     },
     {
-        "stateId": "1905678",
+        "stateId": 1905678,
         "name": "T\u1ec9nh C\u00e0 Mau",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 9.08333,
         "longitude": 105.08333
     },
     {
-        "stateId": "1581030",
+        "stateId": 1581030,
         "name": "T\u1ec9nh H\u00e0 Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.75,
         "longitude": 105
     },
     {
-        "stateId": "1905637",
+        "stateId": 1905637,
         "name": "T\u1ec9nh H\u00e0 Nam",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.53333,
         "longitude": 105.96667
     },
     {
-        "stateId": "1580700",
+        "stateId": 1580700,
         "name": "T\u1ec9nh H\u00e0 T\u0129nh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 18.33333,
         "longitude": 105.75
     },
     {
-        "stateId": "1572594",
+        "stateId": 1572594,
         "name": "T\u1ec9nh H\u00f2a B\u00ecnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.66667,
         "longitude": 105.33333
     },
     {
-        "stateId": "1905699",
+        "stateId": 1905699,
         "name": "T\u1ec9nh H\u01b0ng Y\u00ean",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.81667,
         "longitude": 106.05
     },
     {
-        "stateId": "1905686",
+        "stateId": 1905686,
         "name": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.91667,
         "longitude": 106.33333
     },
     {
-        "stateId": "1579634",
+        "stateId": 1579634,
         "name": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 12.33333,
         "longitude": 109
     },
     {
-        "stateId": "1579008",
+        "stateId": 1579008,
         "name": "T\u1ec9nh Ki\u1ebfn Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10,
         "longitude": 105.16667
     },
     {
-        "stateId": "1577954",
+        "stateId": 1577954,
         "name": "T\u1ec9nh Lai Ch\u00e2u",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.28333,
         "longitude": 103.25
     },
     {
-        "stateId": "1562412",
+        "stateId": 1562412,
         "name": "T\u1ec9nh L\u00e0o Cai",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.3,
         "longitude": 104.16667
     },
     {
-        "stateId": "1577882",
+        "stateId": 1577882,
         "name": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.66667,
         "longitude": 108.08333
     },
     {
-        "stateId": "1576632",
+        "stateId": 1576632,
         "name": "T\u1ec9nh L\u1ea1ng S\u01a1n",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.83333,
         "longitude": 106.58333
     },
     {
-        "stateId": "1905626",
+        "stateId": 1905626,
         "name": "T\u1ec9nh Nam \u0110\u1ecbnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.25,
         "longitude": 106.25
     },
     {
-        "stateId": "1559969",
+        "stateId": 1559969,
         "name": "T\u1ec9nh Ngh\u1ec7 An",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 19.25,
         "longitude": 104.91667
     },
     {
-        "stateId": "1559970",
+        "stateId": 1559970,
         "name": "T\u1ec9nh Ninh B\u00ecnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.23333,
         "longitude": 105.9
     },
     {
-        "stateId": "1559971",
+        "stateId": 1559971,
         "name": "T\u1ec9nh Ninh Thu\u1eadn",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.75,
         "longitude": 108.83333
     },
     {
-        "stateId": "1905577",
+        "stateId": 1905577,
         "name": "T\u1ec9nh Ph\u00fa Th\u1ecd",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.33333,
         "longitude": 105.13333
     },
     {
-        "stateId": "1569805",
+        "stateId": 1569805,
         "name": "T\u1ec9nh Ph\u00fa Y\u00ean",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 13.16667,
         "longitude": 109.08333
     },
     {
-        "stateId": "1568839",
+        "stateId": 1568839,
         "name": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 17.5,
         "longitude": 106.33333
     },
     {
-        "stateId": "1905516",
+        "stateId": 1905516,
         "name": "T\u1ec9nh Qu\u1ea3ng Nam",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 15.58333,
         "longitude": 107.91667
     },
     {
-        "stateId": "1568769",
+        "stateId": 1568769,
         "name": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 15,
         "longitude": 108.66667
     },
     {
-        "stateId": "1568758",
+        "stateId": 1568758,
         "name": "T\u1ec9nh Qu\u1ea3ng Ninh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.25,
         "longitude": 107.33333
     },
     {
-        "stateId": "1568733",
+        "stateId": 1568733,
         "name": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 16.75,
         "longitude": 107
     },
     {
-        "stateId": "1559972",
+        "stateId": 1559972,
         "name": "T\u1ec9nh S\u00f3c Tr\u0103ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 9.55,
         "longitude": 105.91667
     },
     {
-        "stateId": "1567643",
+        "stateId": 1567643,
         "name": "T\u1ec9nh S\u01a1n La",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.16667,
         "longitude": 104
     },
     {
-        "stateId": "1566165",
+        "stateId": 1566165,
         "name": "T\u1ec9nh Thanh H\u00f3a",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.06667,
         "longitude": 105.33333
     },
     {
-        "stateId": "1566338",
+        "stateId": 1566338,
         "name": "T\u1ec9nh Th\u00e1i B\u00ecnh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 20.5,
         "longitude": 106.36667
     },
     {
-        "stateId": "1905497",
+        "stateId": 1905497,
         "name": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.66667,
         "longitude": 105.83333
     },
     {
-        "stateId": "1565033",
+        "stateId": 1565033,
         "name": "T\u1ec9nh Th\u1eeba Thi\u00ean-Hu\u1ebf",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 16.33333,
         "longitude": 107.58333
     },
     {
-        "stateId": "1564676",
+        "stateId": 1564676,
         "name": "T\u1ec9nh Ti\u1ec1n Giang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.4,
         "longitude": 106.3
     },
     {
-        "stateId": "1559975",
+        "stateId": 1559975,
         "name": "T\u1ec9nh Tr\u00e0 Vinh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 9.8,
         "longitude": 106.3
     },
     {
-        "stateId": "1559976",
+        "stateId": 1559976,
         "name": "T\u1ec9nh Tuy\u00ean Quang",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 22.11667,
         "longitude": 105.25
     },
     {
-        "stateId": "1566557",
+        "stateId": 1566557,
         "name": "T\u1ec9nh T\u00e2y Ninh",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11.33333,
         "longitude": 106.16667
     },
     {
-        "stateId": "1559977",
+        "stateId": 1559977,
         "name": "T\u1ec9nh V\u0129nh Long",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.1,
         "longitude": 106
     },
     {
-        "stateId": "1905856",
+        "stateId": 1905856,
         "name": "T\u1ec9nh V\u0129nh Ph\u00fac",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.33333,
         "longitude": 105.56667
     },
     {
-        "stateId": "1559978",
+        "stateId": 1559978,
         "name": "T\u1ec9nh Y\u00ean B\u00e1i",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.75,
         "longitude": 104.58333
     },
     {
-        "stateId": "1905099",
+        "stateId": 1905099,
         "name": "T\u1ec9nh \u00d0i\u1ec7n Bi\u00ean",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 21.33333,
         "longitude": 102.93333
     },
     {
-        "stateId": "1584169",
+        "stateId": 1584169,
         "name": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 12.75,
         "longitude": 108.25
     },
     {
-        "stateId": "1582720",
+        "stateId": 1582720,
         "name": "T\u1ec9nh \u0110\u1ed3ng Nai",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 11,
         "longitude": 107.16667
     },
     {
-        "stateId": "1582562",
+        "stateId": 1582562,
         "name": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 10.58333,
         "longitude": 105.63333
     },
     {
-        "stateId": "1904987",
+        "stateId": 1904987,
         "name": "\u00d0\u1eafk N\u00f4ng",
-        "countryId": "1562822",
+        "countryId": 1562822,
         "latitude": 12.16667,
         "longitude": 107.75
     }

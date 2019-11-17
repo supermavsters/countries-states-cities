@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "6458924",
+        "cityId": 6458924,
         "name": "Porto",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.15556,
         "longitude": -8.62672
     },
     {
-        "cityId": "8010577",
+        "cityId": 8010577,
         "name": "Amarante",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.2705,
         "longitude": -8.06503
     },
     {
-        "cityId": "8010578",
+        "cityId": 8010578,
         "name": "Bai\u00e3o",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.16384,
         "longitude": -8.03581
     },
     {
-        "cityId": "8010579",
+        "cityId": 8010579,
         "name": "Felgueiras",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.34774,
         "longitude": -8.20808
     },
     {
-        "cityId": "8010580",
+        "cityId": 8010580,
         "name": "Gondomar",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.12015,
         "longitude": -8.49595
     },
     {
-        "cityId": "8010581",
+        "cityId": 8010581,
         "name": "Lousada",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.28355,
         "longitude": -8.27437
     },
     {
-        "cityId": "8010582",
+        "cityId": 8010582,
         "name": "Maia",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.24254,
         "longitude": -8.60257
     },
     {
-        "cityId": "8010583",
+        "cityId": 8010583,
         "name": "Marco de Canaveses",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.15545,
         "longitude": -8.16954
     },
     {
-        "cityId": "8010584",
+        "cityId": 8010584,
         "name": "Matosinhos",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.20766,
         "longitude": -8.66743
     },
     {
-        "cityId": "8010585",
+        "cityId": 8010585,
         "name": "Pa\u00e7os de Ferreira",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.28964,
         "longitude": -8.37584
     },
     {
-        "cityId": "8010586",
+        "cityId": 8010586,
         "name": "Paredes",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.20501,
         "longitude": -8.37506
     },
     {
-        "cityId": "8010587",
+        "cityId": 8010587,
         "name": "Penafiel",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.20931,
         "longitude": -8.26996
     },
     {
-        "cityId": "8010588",
+        "cityId": 8010588,
         "name": "P\u00f3voa de Varzim",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.39158,
         "longitude": -8.75713
     },
     {
-        "cityId": "8010589",
+        "cityId": 8010589,
         "name": "Santo Tirso",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.33014,
         "longitude": -8.43827
     },
     {
-        "cityId": "8010590",
+        "cityId": 8010590,
         "name": "Valongo",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.20797,
         "longitude": -8.50086
     },
     {
-        "cityId": "8010591",
+        "cityId": 8010591,
         "name": "Vila do Conde",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.33291,
         "longitude": -8.68288
     },
     {
-        "cityId": "8010592",
+        "cityId": 8010592,
         "name": "Vila Nova de Gaia",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.13695,
         "longitude": -8.62701
     },
     {
-        "cityId": "8010593",
+        "cityId": 8010593,
         "name": "Trofa",
-        "stateId": "2735941",
+        "stateId": 2735941,
         "latitude": 41.30646,
         "longitude": -8.5764
     }

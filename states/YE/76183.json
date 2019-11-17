@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "76182",
+        "cityId": 76182,
         "name": "Mad\u012bnat Dham\u0101r",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.60684,
         "longitude": 44.40339
     },
     {
-        "cityId": "78321",
+        "cityId": 78321,
         "name": "\u2018Ans",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.43606,
         "longitude": 44.38889
     },
     {
-        "cityId": "6940616",
+        "cityId": 6940616,
         "name": "Dawran Aness",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.8288,
         "longitude": 44.1143
     },
     {
-        "cityId": "6940768",
+        "cityId": 6940768,
         "name": "Mayfa'at Anss",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.5152,
         "longitude": 44.6106
     },
     {
-        "cityId": "6940769",
+        "cityId": 6940769,
         "name": "Al Hada",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.8076,
         "longitude": 44.5679
     },
     {
-        "cityId": "6940770",
+        "cityId": 6940770,
         "name": "Wusab Al Ali",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.3344,
         "longitude": 43.7947
     },
     {
-        "cityId": "6940771",
+        "cityId": 6940771,
         "name": "Maghirib Ans",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.4653,
         "longitude": 44.1233
     },
     {
-        "cityId": "6940772",
+        "cityId": 6940772,
         "name": "Jahran",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.7331,
         "longitude": 44.3143
     },
     {
-        "cityId": "6940773",
+        "cityId": 6940773,
         "name": "Al Manar",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.653,
         "longitude": 44.1164
     },
     {
-        "cityId": "6940774",
+        "cityId": 6940774,
         "name": "Jabal Ash sharq",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.7296,
         "longitude": 43.9062
     },
     {
-        "cityId": "6940775",
+        "cityId": 6940775,
         "name": "Wusab As Safil",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.2548,
         "longitude": 43.6325
     },
     {
-        "cityId": "6940776",
+        "cityId": 6940776,
         "name": "Utmah",
-        "stateId": "76183",
+        "stateId": 76183,
         "latitude": 14.4738,
         "longitude": 43.9483
     }

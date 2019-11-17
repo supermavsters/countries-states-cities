@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "483272",
+        "cityId": 483272,
         "name": "Terskiy Rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 66.91667,
         "longitude": 35
     },
     {
-        "cityId": "511860",
+        "cityId": 511860,
         "name": "Pechengskiy Rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 69,
         "longitude": 30
     },
     {
-        "cityId": "533930",
+        "cityId": 533930,
         "name": "Lovozerskiy Rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 68,
         "longitude": 36
     },
     {
-        "cityId": "543505",
+        "cityId": 543505,
         "name": "Kovdorskiy Rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 67.56667,
         "longitude": 30.4
     },
     {
-        "cityId": "546084",
+        "cityId": 546084,
         "name": "Kol\u2019skiy Rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 68.5,
         "longitude": 32
     },
     {
-        "cityId": "11238669",
+        "cityId": 11238669,
         "name": "Kandalakshskiy rayon",
-        "stateId": "524304",
+        "stateId": 524304,
         "latitude": 67.16622,
         "longitude": 32.44606
     }

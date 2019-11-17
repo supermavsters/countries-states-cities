@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2739186",
+        "cityId": 2739186,
         "name": "Fund\u00e3o",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 40.12412,
         "longitude": -7.49542
     },
     {
-        "cityId": "6930622",
+        "cityId": 6930622,
         "name": "Vila Velha de R\u00f3d\u00e3o",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.68709,
         "longitude": -7.65987
     },
     {
-        "cityId": "8010472",
+        "cityId": 8010472,
         "name": "Belmonte",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 40.36181,
         "longitude": -7.35157
     },
     {
-        "cityId": "8010473",
+        "cityId": 8010473,
         "name": "Castelo Branco",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.88847,
         "longitude": -7.51313
     },
     {
-        "cityId": "8010474",
+        "cityId": 8010474,
         "name": "Covilh\u00e3",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 40.29227,
         "longitude": -7.50366
     },
     {
-        "cityId": "8010475",
+        "cityId": 8010475,
         "name": "Idanha-A-Nova",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.92957,
         "longitude": -7.2369
     },
     {
-        "cityId": "8010476",
+        "cityId": 8010476,
         "name": "Oleiros",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.94948,
         "longitude": -7.88592
     },
     {
-        "cityId": "8010477",
+        "cityId": 8010477,
         "name": "Penamacor",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 40.15495,
         "longitude": -7.17149
     },
     {
-        "cityId": "8010478",
+        "cityId": 8010478,
         "name": "Proen\u00e7a-A-Nova",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.757,
         "longitude": -7.92595
     },
     {
-        "cityId": "8010479",
+        "cityId": 8010479,
         "name": "Sert\u00e3",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.82175,
         "longitude": -8.09845
     },
     {
-        "cityId": "8010480",
+        "cityId": 8010480,
         "name": "Vila de Rei",
-        "stateId": "2269513",
+        "stateId": 2269513,
         "latitude": 39.70685,
         "longitude": -8.12836
     }

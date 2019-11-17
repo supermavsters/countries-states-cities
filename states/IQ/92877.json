@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "90392",
+        "cityId": 90392,
         "name": "Tel Afar District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.5,
         "longitude": 42.5
     },
     {
-        "cityId": "98612",
+        "cityId": 98612,
         "name": "Shekhan District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.7,
         "longitude": 43.3
     },
     {
-        "cityId": "98820",
+        "cityId": 98820,
         "name": "Akre District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.74149,
         "longitude": 43.89356
     },
     {
-        "cityId": "99414",
+        "cityId": 99414,
         "name": "Hatra District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 35.5,
         "longitude": 42
     },
     {
-        "cityId": "9166541",
+        "cityId": 9166541,
         "name": "Al-Hamdaniya District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.27146,
         "longitude": 43.37373
     },
     {
-        "cityId": "9166608",
+        "cityId": 9166608,
         "name": "Al-Ba'aj District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 35.62057,
         "longitude": 41.68183
     },
     {
-        "cityId": "9166618",
+        "cityId": 9166618,
         "name": "Tel Keppe District",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.59215,
         "longitude": 43.06209
     },
     {
-        "cityId": "9166620",
+        "cityId": 9166620,
         "name": "Sinjar",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.29548,
         "longitude": 41.89315
     },
     {
-        "cityId": "9166649",
+        "cityId": 9166649,
         "name": "Mosul",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.3579,
         "longitude": 43.09937
     },
     {
-        "cityId": "9873239",
+        "cityId": 9873239,
         "name": "Qa\u1e11\u0101\u2019 Tallkayf",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 36.59139,
         "longitude": 43.05636
     },
     {
-        "cityId": "9873392",
+        "cityId": 9873392,
         "name": "Qa\u1e11\u0101\u2019 Ba\u2018\u0101j",
-        "stateId": "92877",
+        "stateId": 92877,
         "latitude": 35.64455,
         "longitude": 41.68271
     }

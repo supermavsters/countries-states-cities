@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "787156",
+        "cityId": 787156,
         "name": "Komuna e Pej\u00ebs",
-        "stateId": "10097359",
+        "stateId": 10097359,
         "latitude": 42.65968,
         "longitude": 20.28997
     },
     {
-        "cityId": "789453",
+        "cityId": 789453,
         "name": "Komuna e Klines",
-        "stateId": "10097359",
+        "stateId": 10097359,
         "latitude": 42.58333,
         "longitude": 20.6
     },
     {
-        "cityId": "789995",
+        "cityId": 789995,
         "name": "Komuna e Istogut",
-        "stateId": "10097359",
+        "stateId": 10097359,
         "latitude": 42.76667,
         "longitude": 20.48333
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2353568",
+        "cityId": 2353568,
         "name": "Province du Yatenga",
-        "stateId": "6930711",
+        "stateId": 6930711,
         "latitude": 13.58333,
         "longitude": -2.41667
     },
     {
-        "cityId": "2356667",
+        "cityId": 2356667,
         "name": "Province du Passor\u00e9",
-        "stateId": "6930711",
+        "stateId": 6930711,
         "latitude": 12.91667,
         "longitude": -2.16667
     },
     {
-        "cityId": "2597264",
+        "cityId": 2597264,
         "name": "Province du Loroum",
-        "stateId": "6930711",
+        "stateId": 6930711,
         "latitude": 13.91667,
         "longitude": -2.16667
     },
     {
-        "cityId": "2597270",
+        "cityId": 2597270,
         "name": "Province du Zondoma",
-        "stateId": "6930711",
+        "stateId": 6930711,
         "latitude": 13.18333,
         "longitude": -2.36667
     }

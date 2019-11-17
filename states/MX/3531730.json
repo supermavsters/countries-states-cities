@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "6942857",
+        "cityId": 6942857,
         "name": "Calkin\u00ed",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 20.38583,
         "longitude": -89.98764
     },
     {
-        "cityId": "6942858",
+        "cityId": 6942858,
         "name": "Campeche",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 19.81839,
         "longitude": -90.53009
     },
     {
-        "cityId": "6942859",
+        "cityId": 6942859,
         "name": "Carmen",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 18.63,
         "longitude": -91.83
     },
     {
-        "cityId": "6942860",
+        "cityId": 6942860,
         "name": "Champot\u00f3n",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 19.35042,
         "longitude": -90.70991
     },
     {
-        "cityId": "6942861",
+        "cityId": 6942861,
         "name": "Hecelchak\u00e1n",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 20.16667,
         "longitude": -90.13333
     },
     {
-        "cityId": "6942863",
+        "cityId": 6942863,
         "name": "Palizada",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 18.25261,
         "longitude": -92.07779
     },
     {
-        "cityId": "6942864",
+        "cityId": 6942864,
         "name": "Tenabo",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 19.83333,
         "longitude": -90
     },
     {
-        "cityId": "6942865",
+        "cityId": 6942865,
         "name": "Esc\u00e1rcega",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 18.61404,
         "longitude": -90.7287
     },
     {
-        "cityId": "6942866",
+        "cityId": 6942866,
         "name": "Calakmul",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 18,
         "longitude": -89.75
     },
     {
-        "cityId": "6942867",
+        "cityId": 6942867,
         "name": "Candelaria",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 18,
         "longitude": -90.75
     },
     {
-        "cityId": "8583595",
+        "cityId": 8583595,
         "name": "Hopelch\u00e9n",
-        "stateId": "3531730",
+        "stateId": 3531730,
         "latitude": 19.57579,
         "longitude": -89.68745
     }

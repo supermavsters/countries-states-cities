@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11352771",
+        "cityId": 11352771,
         "name": "Mazsalacas pagasts",
-        "stateId": "7628371",
+        "stateId": 7628371,
         "latitude": 57.89194,
         "longitude": 25.07614
     },
     {
-        "cityId": "11352773",
+        "cityId": 11352773,
         "name": "Ramatas pagasts",
-        "stateId": "7628371",
+        "stateId": 7628371,
         "latitude": 57.97337,
         "longitude": 24.99396
     },
     {
-        "cityId": "11352774",
+        "cityId": 11352774,
         "name": "S\u0113\u013cu pagasts",
-        "stateId": "7628371",
+        "stateId": 7628371,
         "latitude": 57.86901,
         "longitude": 25.18806
     },
     {
-        "cityId": "11352775",
+        "cityId": 11352775,
         "name": "Ska\u0146kalnes pagasts",
-        "stateId": "7628371",
+        "stateId": 7628371,
         "latitude": 57.85701,
         "longitude": 24.98452
     },
     {
-        "cityId": "11352986",
+        "cityId": 11352986,
         "name": "Mazsalaca",
-        "stateId": "7628371",
+        "stateId": 7628371,
         "latitude": 57.86219,
         "longitude": 25.0521
     }

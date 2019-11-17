@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1151527",
+        "cityId": 1151527,
         "name": "Amphoe Pa Sang",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.41397,
         "longitude": 98.88281
     },
     {
-        "cityId": "1151990",
+        "cityId": 1151990,
         "name": "Amphoe Mueang Lamphun",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.55217,
         "longitude": 99.05905
     },
     {
-        "cityId": "1152178",
+        "cityId": 1152178,
         "name": "Amphoe Mae Tha",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.3954,
         "longitude": 99.09233
     },
     {
-        "cityId": "1152356",
+        "cityId": 1152356,
         "name": "Amphoe Li",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 17.78639,
         "longitude": 98.88674
     },
     {
-        "cityId": "1157549",
+        "cityId": 1157549,
         "name": "Amphoe Ban Hong",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.27422,
         "longitude": 98.83794
     },
     {
-        "cityId": "7510617",
+        "cityId": 7510617,
         "name": "Amphoe Wiang Nong Long",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.41844,
         "longitude": 98.75856
     },
     {
-        "cityId": "7510634",
+        "cityId": 7510634,
         "name": "Amphoe Thung Hua Chang",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 17.98333,
         "longitude": 99.05
     },
     {
-        "cityId": "7510636",
+        "cityId": 7510636,
         "name": "Amphoe Ban Thi",
-        "stateId": "1152467",
+        "stateId": 1152467,
         "latitude": 18.65894,
         "longitude": 99.15883
     }

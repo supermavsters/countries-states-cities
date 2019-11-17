@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3883200",
+        "cityId": 3883200,
         "name": "Provincia de Limar\u00ed",
-        "stateId": "3893623",
+        "stateId": 3893623,
         "latitude": -30.75,
         "longitude": -71
     },
     {
-        "cityId": "3890620",
+        "cityId": 3890620,
         "name": "Provincia de Elqui",
-        "stateId": "3893623",
+        "stateId": 3893623,
         "latitude": -29.73588,
         "longitude": -70.64455
     },
     {
-        "cityId": "3894914",
+        "cityId": 3894914,
         "name": "Provincia de Choapa",
-        "stateId": "3893623",
+        "stateId": 3893623,
         "latitude": -31.7109,
         "longitude": -70.99263
     }

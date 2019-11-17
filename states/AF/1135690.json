@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7053312",
+        "cityId": 7053312,
         "name": "\u2018Al\u012b\u0101b\u0101d",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.53011,
         "longitude": 68.8778
     },
     {
-        "cityId": "7053313",
+        "cityId": 7053313,
         "name": "Dasht-e Arch\u012b",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.9636,
         "longitude": 69.15729
     },
     {
-        "cityId": "7053315",
+        "cityId": 7053315,
         "name": "Im\u0101m \u015e\u0101\u1e29ib",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 37.10841,
         "longitude": 68.85371
     },
     {
-        "cityId": "7053316",
+        "cityId": 7053316,
         "name": "Kh\u0101n\u0101b\u0101d",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.60311,
         "longitude": 69.10405
     },
     {
-        "cityId": "7053317",
+        "cityId": 7053317,
         "name": "Qal\u2018ah-ye Z\u0101l",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.89746,
         "longitude": 68.36192
     },
     {
-        "cityId": "7729833",
+        "cityId": 7729833,
         "name": "Kunduz",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.79256,
         "longitude": 68.84385
     },
     {
-        "cityId": "7732594",
+        "cityId": 7732594,
         "name": "Chahar Dara",
-        "stateId": "1135690",
+        "stateId": 1135690,
         "latitude": 36.64656,
         "longitude": 68.55959
     }

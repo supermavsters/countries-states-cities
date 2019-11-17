@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3625657",
+        "cityId": 3625657,
         "name": "Municipio Urdaneta",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 10.5,
         "longitude": -69.66667
     },
     {
-        "cityId": "3626083",
+        "cityId": 3626083,
         "name": "Municipio Torres",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 10.16667,
         "longitude": -70.25
     },
     {
-        "cityId": "3631101",
+        "cityId": 3631101,
         "name": "Municipio Palavecino",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 9.83333,
         "longitude": -69.16667
     },
     {
-        "cityId": "3631972",
+        "cityId": 3631972,
         "name": "Municipio Mor\u00e1n",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 9.66667,
         "longitude": -69.83333
     },
     {
-        "cityId": "3639197",
+        "cityId": 3639197,
         "name": "Municipio Jim\u00e9nez",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 9.8,
         "longitude": -69.58333
     },
     {
-        "cityId": "3639346",
+        "cityId": 3639346,
         "name": "Municipio Iribarren",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 10.08333,
         "longitude": -69.41667
     },
     {
-        "cityId": "3644947",
+        "cityId": 3644947,
         "name": "Municipio Crespo",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 10.3,
         "longitude": -69.16667
     },
     {
-        "cityId": "8129183",
+        "cityId": 8129183,
         "name": "Municipio Sim\u00f3n Planas",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 9.78129,
         "longitude": -69.1633
     },
     {
-        "cityId": "8129228",
+        "cityId": 8129228,
         "name": "Municipio Andr\u00e9s Eloy Blanco",
-        "stateId": "3636539",
+        "stateId": 3636539,
         "latitude": 9.75145,
         "longitude": -69.65318
     }

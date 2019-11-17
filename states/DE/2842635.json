@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2841464",
+        "cityId": 2841464,
         "name": "Landkreis Sankt Wendel",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.51778,
         "longitude": 7.11944
     },
     {
-        "cityId": "2871673",
+        "cityId": 2871673,
         "name": "Landkreis Merzig-Wadern",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.47722,
         "longitude": 6.67556
     },
     {
-        "cityId": "3249065",
+        "cityId": 3249065,
         "name": "Landkreis Saarlouis",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.33861,
         "longitude": 6.78944
     },
     {
-        "cityId": "3249066",
+        "cityId": 3249066,
         "name": "Landkreis Neunkirchen",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.37944,
         "longitude": 7.13056
     },
     {
-        "cityId": "3249067",
+        "cityId": 3249067,
         "name": "Saarpfalz-Kreis",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.27,
         "longitude": 7.24778
     },
     {
-        "cityId": "3249068",
+        "cityId": 3249068,
         "name": "Regionalverband Saarbr\u00fccken",
-        "stateId": "2842635",
+        "stateId": 2842635,
         "latitude": 49.27722,
         "longitude": 6.97028
     }

@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "3578045",
+        "stateId": 3578045,
         "name": "Parish of Saint Anthony",
-        "countryId": "3578097",
+        "countryId": 3578097,
         "latitude": 16.7,
         "longitude": -62.2
     },
     {
-        "stateId": "3578044",
+        "stateId": 3578044,
         "name": "Parish of Saint Georges",
-        "countryId": "3578097",
+        "countryId": 3578097,
         "latitude": 16.76667,
         "longitude": -62.2
     },
     {
-        "stateId": "3578039",
+        "stateId": 3578039,
         "name": "Parish of Saint Peter",
-        "countryId": "3578097",
+        "countryId": 3578097,
         "latitude": 16.78333,
         "longitude": -62.205
     }

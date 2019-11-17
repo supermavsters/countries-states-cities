@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "9179618",
+        "cityId": 9179618,
         "name": "Baraawe",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 1.10836,
         "longitude": 43.84487
     },
     {
-        "cityId": "9179622",
+        "cityId": 9179622,
         "name": "Kurtunwaarey",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 1.67461,
         "longitude": 44.06695
     },
     {
-        "cityId": "9179625",
+        "cityId": 9179625,
         "name": "Marka",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 1.74022,
         "longitude": 44.72234
     },
     {
-        "cityId": "9179629",
+        "cityId": 9179629,
         "name": "Qoryooley",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 1.93456,
         "longitude": 44.44943
     },
     {
-        "cityId": "9179633",
+        "cityId": 9179633,
         "name": "Sablaale",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 1.38326,
         "longitude": 43.52054
     },
     {
-        "cityId": "9179635",
+        "cityId": 9179635,
         "name": "Wanla Weyn",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 2.79164,
         "longitude": 44.90647
     },
     {
-        "cityId": "9179684",
+        "cityId": 9179684,
         "name": "Afgooye",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 2.23547,
         "longitude": 45.07702
     },
     {
-        "cityId": "9179984",
+        "cityId": 9179984,
         "name": "Darkenley",
-        "stateId": "51966",
+        "stateId": 51966,
         "latitude": 2.48017,
         "longitude": 45.26468
     }

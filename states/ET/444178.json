@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "7733020",
+        "cityId": 7733020,
         "name": "Addis Ababa Zone 1",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.02047,
         "longitude": 38.74457
     },
     {
-        "cityId": "7733021",
+        "cityId": 7733021,
         "name": "Addis Ababa Zone 2",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.99496,
         "longitude": 38.74844
     },
     {
-        "cityId": "7733022",
+        "cityId": 7733022,
         "name": "Addis Ababa Zone 3",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.9797,
         "longitude": 38.77058
     },
     {
-        "cityId": "7733023",
+        "cityId": 7733023,
         "name": "Addis Ababa Zone 6",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.89338,
         "longitude": 38.78157
     },
     {
-        "cityId": "8051210",
+        "cityId": 8051210,
         "name": "Addis Ababa Zone 5",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.059,
         "longitude": 38.718
     },
     {
-        "cityId": "11750840",
+        "cityId": 11750840,
         "name": "Kolfe Keranyo",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.01103,
         "longitude": 38.68989
     },
     {
-        "cityId": "11750841",
+        "cityId": 11750841,
         "name": "Akaki Kaliti",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.89855,
         "longitude": 38.80448
     },
     {
-        "cityId": "11750842",
+        "cityId": 11750842,
         "name": "Nefas Silk Lafto",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.94846,
         "longitude": 38.72926
     },
     {
-        "cityId": "11750843",
+        "cityId": 11750843,
         "name": "Bole",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 8.97799,
         "longitude": 38.83401
     },
     {
-        "cityId": "11750844",
+        "cityId": 11750844,
         "name": "Yeka",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.04899,
         "longitude": 38.82399
     },
     {
-        "cityId": "11750845",
+        "cityId": 11750845,
         "name": "Kirkos",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.00031,
         "longitude": 38.75914
     },
     {
-        "cityId": "11750846",
+        "cityId": 11750846,
         "name": "Gulele",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.07026,
         "longitude": 38.74472
     },
     {
-        "cityId": "11750847",
+        "cityId": 11750847,
         "name": "Arada",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.03458,
         "longitude": 38.75562
     },
     {
-        "cityId": "11750848",
+        "cityId": 11750848,
         "name": "Addis Ketema",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.03458,
         "longitude": 38.72539
     },
     {
-        "cityId": "11750849",
+        "cityId": 11750849,
         "name": "Lideta",
-        "stateId": "444178",
+        "stateId": 444178,
         "latitude": 9.01138,
         "longitude": 38.73471
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "879611",
+        "cityId": 879611,
         "name": "Umzingwane District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -20.34704,
         "longitude": 28.94994
     },
     {
-        "cityId": "886636",
+        "cityId": 886636,
         "name": "Matobo",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -20.95545,
         "longitude": 28.49463
     },
     {
-        "cityId": "889793",
+        "cityId": 889793,
         "name": "Insiza District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -20.26431,
         "longitude": 29.47392
     },
     {
-        "cityId": "890515",
+        "cityId": 890515,
         "name": "Gwanda District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -21.20929,
         "longitude": 29.17557
     },
     {
-        "cityId": "894702",
+        "cityId": 894702,
         "name": "Mangwe District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -20.95545,
         "longitude": 27.98292
     },
     {
-        "cityId": "895268",
+        "cityId": 895268,
         "name": "Beitbridge District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -21.89829,
         "longitude": 30.07409
     },
     {
-        "cityId": "10800403",
+        "cityId": 10800403,
         "name": "Bulilima District",
-        "stateId": "886747",
+        "stateId": 886747,
         "latitude": -20.2324,
         "longitude": 27.651
     }

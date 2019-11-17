@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7910443",
+        "cityId": 7910443,
         "name": "Vavatenina District",
-        "stateId": "7670848",
+        "stateId": 7670848,
         "latitude": -17.51667,
         "longitude": 48.95
     },
     {
-        "cityId": "8299287",
+        "cityId": 8299287,
         "name": "Maroantsetra District",
-        "stateId": "7670848",
+        "stateId": 7670848,
         "latitude": -15.38352,
         "longitude": 49.56482
     },
     {
-        "cityId": "8299288",
+        "cityId": 8299288,
         "name": "Mananara Nord District",
-        "stateId": "7670848",
+        "stateId": 7670848,
         "latitude": -16.21599,
         "longitude": 49.54834
     },
     {
-        "cityId": "11072837",
+        "cityId": 11072837,
         "name": "Nosy Boraha",
-        "stateId": "7670848",
+        "stateId": 7670848,
         "latitude": -16.90156,
         "longitude": 49.89775
     }

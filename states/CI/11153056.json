@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11153154",
+        "cityId": 11153154,
         "name": "B\u00e9lier",
-        "stateId": "11153056",
+        "stateId": 11153056,
         "latitude": 7.02582,
         "longitude": -5.06744
     },
     {
-        "cityId": "11153155",
+        "cityId": 11153155,
         "name": "Iffou",
-        "stateId": "11153056",
+        "stateId": 11153056,
         "latitude": 7.11509,
         "longitude": -3.95027
     },
     {
-        "cityId": "11153156",
+        "cityId": 11153156,
         "name": "Moronou",
-        "stateId": "11153056",
+        "stateId": 11153056,
         "latitude": 6.6683,
         "longitude": -4.13155
     },
     {
-        "cityId": "11153158",
+        "cityId": 11153158,
         "name": "N'Zi",
-        "stateId": "11153056",
+        "stateId": 11153056,
         "latitude": 6.82803,
         "longitude": -4.5813
     }

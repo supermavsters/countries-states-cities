@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "538550",
+        "cityId": 538550,
         "name": "Kurskiy Rayon",
-        "stateId": "487839",
+        "stateId": 487839,
         "latitude": 44,
         "longitude": 44.66667
     },
     {
-        "cityId": "561607",
+        "cityId": 561607,
         "name": "Georgiyevskiy Rayon",
-        "stateId": "487839",
+        "stateId": 487839,
         "latitude": 44.25,
         "longitude": 43.5
     }

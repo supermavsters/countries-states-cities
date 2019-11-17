@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "5881074",
+        "cityId": 5881074,
         "name": "Tu\u0101l\u0101uta County",
-        "stateId": "5880873",
+        "stateId": 5880873,
         "latitude": -14.3624,
         "longitude": -170.72267
     },
     {
-        "cityId": "5881085",
+        "cityId": 5881085,
         "name": "T\u016bal\u0101tai County",
-        "stateId": "5880873",
+        "stateId": 5880873,
         "latitude": -14.38098,
         "longitude": -170.76949
     },
     {
-        "cityId": "5881380",
+        "cityId": 5881380,
         "name": "Le\u0101l\u0101taua County",
-        "stateId": "5880873",
+        "stateId": 5880873,
         "latitude": -14.31837,
         "longitude": -170.8289
     },
     {
-        "cityId": "5881381",
+        "cityId": 5881381,
         "name": "Le\u0101sina County",
-        "stateId": "5880873",
+        "stateId": 5880873,
         "latitude": -14.29699,
         "longitude": -170.77064
     }

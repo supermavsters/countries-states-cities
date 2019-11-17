@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2412849",
+        "cityId": 2412849,
         "name": "Kombo South District",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.25,
         "longitude": -16.75
     },
     {
-        "cityId": "2412850",
+        "cityId": 2412850,
         "name": "Kombo North District",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.36667,
         "longitude": -16.66667
     },
     {
-        "cityId": "2412851",
+        "cityId": 2412851,
         "name": "Kombo East District",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.21667,
         "longitude": -16.51667
     },
     {
-        "cityId": "2412852",
+        "cityId": 2412852,
         "name": "Kombo Central District",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.25,
         "longitude": -16.66667
     },
     {
-        "cityId": "2413477",
+        "cityId": 2413477,
         "name": "Foni Kansala",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.21667,
         "longitude": -16.05
     },
     {
-        "cityId": "2413478",
+        "cityId": 2413478,
         "name": "Foni Jarrol",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.23333,
         "longitude": -15.83333
     },
     {
-        "cityId": "2413479",
+        "cityId": 2413479,
         "name": "Foni Brefet",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.21667,
         "longitude": -16.33333
     },
     {
-        "cityId": "2413480",
+        "cityId": 2413480,
         "name": "Foni Bondali",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.21667,
         "longitude": -15.93333
     },
     {
-        "cityId": "2413481",
+        "cityId": 2413481,
         "name": "Foni Bintang-Karenai",
-        "stateId": "2411683",
+        "stateId": 2411683,
         "latitude": 13.25,
         "longitude": -16.21667
     }

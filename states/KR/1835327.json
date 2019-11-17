@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1834970",
+        "cityId": 1834970,
         "name": "Dalseong-gun",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.77467,
         "longitude": 128.42955
     },
     {
-        "cityId": "8419824",
+        "cityId": 8419824,
         "name": "Dalseo-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.82569,
         "longitude": 128.52403
     },
     {
-        "cityId": "8419825",
+        "cityId": 8419825,
         "name": "Seo-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.87465,
         "longitude": 128.55109
     },
     {
-        "cityId": "8419826",
+        "cityId": 8419826,
         "name": "Nam-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.84119,
         "longitude": 128.588
     },
     {
-        "cityId": "8419827",
+        "cityId": 8419827,
         "name": "Jung-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.86678,
         "longitude": 128.59538
     },
     {
-        "cityId": "8419828",
+        "cityId": 8419828,
         "name": "Buk-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.9,
         "longitude": 128.59175
     },
     {
-        "cityId": "8419829",
+        "cityId": 8419829,
         "name": "Dong-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.88566,
         "longitude": 128.63296
     },
     {
-        "cityId": "8419830",
+        "cityId": 8419830,
         "name": "Suseong-gu",
-        "stateId": "1835327",
+        "stateId": 1835327,
         "latitude": 35.85905,
         "longitude": 128.62625
     }

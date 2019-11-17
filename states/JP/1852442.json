@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1854361",
+        "cityId": 1854361,
         "name": "Oki-gun",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 36.20134,
         "longitude": 133.22056
     },
     {
-        "cityId": "1854750",
+        "cityId": 1854750,
         "name": "\u014cda Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.13958,
         "longitude": 132.48811
     },
     {
-        "cityId": "1854781",
+        "cityId": 1854781,
         "name": "\u014cchi Gun",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 34.94634,
         "longitude": 132.53138
     },
     {
-        "cityId": "1857549",
+        "cityId": 1857549,
         "name": "Matsue Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.47702,
         "longitude": 133.05917
     },
     {
-        "cityId": "1857590",
+        "cityId": 1857590,
         "name": "Masuda Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 34.62909,
         "longitude": 131.9459
     },
     {
-        "cityId": "1861082",
+        "cityId": 1861082,
         "name": "Izumo Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.33858,
         "longitude": 132.73903
     },
     {
-        "cityId": "1863308",
+        "cityId": 1863308,
         "name": "Hamada Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 34.82809,
         "longitude": 132.13914
     },
     {
-        "cityId": "1863519",
+        "cityId": 1863519,
         "name": "G\u014dtsu Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 34.98095,
         "longitude": 132.29488
     },
     {
-        "cityId": "7392547",
+        "cityId": 7392547,
         "name": "Ishii Gun",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.06171,
         "longitude": 132.73326
     },
     {
-        "cityId": "7392548",
+        "cityId": 7392548,
         "name": "Nita Gun",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.16,
         "longitude": 133.03898
     },
     {
-        "cityId": "7392549",
+        "cityId": 7392549,
         "name": "Kanoashi Gun",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 34.45316,
         "longitude": 131.84784
     },
     {
-        "cityId": "7392557",
+        "cityId": 7392557,
         "name": "Unnan Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.24918,
         "longitude": 132.89478
     },
     {
-        "cityId": "7392558",
+        "cityId": 7392558,
         "name": "Yasugi Shi",
-        "stateId": "1852442",
+        "stateId": 1852442,
         "latitude": 35.3357,
         "longitude": 133.19761
     }

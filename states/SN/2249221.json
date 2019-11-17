@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2249224",
+        "cityId": 2249224,
         "name": "Louga Department",
-        "stateId": "2249221",
+        "stateId": 2249221,
         "latitude": 15.75,
         "longitude": -16
     },
     {
-        "cityId": "2250660",
+        "cityId": 2250660,
         "name": "Kebemer Department",
-        "stateId": "2249221",
+        "stateId": 2249221,
         "latitude": 15.318,
         "longitude": -16.221
     }

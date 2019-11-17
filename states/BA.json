@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "3294903",
+        "stateId": 3294903,
         "name": "Br\u010dko",
-        "countryId": "3277605",
+        "countryId": 3277605,
         "latitude": 44.83333,
         "longitude": 18.83333
     },
     {
-        "stateId": "3229999",
+        "stateId": 3229999,
         "name": "Federation of Bosnia and Herzegovina",
-        "countryId": "3277605",
+        "countryId": 3277605,
         "latitude": 44,
         "longitude": 17.58333
     },
     {
-        "stateId": "3230000",
+        "stateId": 3230000,
         "name": "Republika Srpska",
-        "countryId": "3277605",
+        "countryId": 3277605,
         "latitude": 44.73333,
         "longitude": 17.4
     }

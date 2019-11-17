@@ -1,64 +1,64 @@
 [
     {
-        "stateId": "1085593",
+        "stateId": 1085593,
         "name": "Eastern Cape",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -32,
         "longitude": 26
     },
     {
-        "stateId": "967573",
+        "stateId": 967573,
         "name": "Free State",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -29,
         "longitude": 26
     },
     {
-        "stateId": "1085594",
+        "stateId": 1085594,
         "name": "Gauteng",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -26.08333,
         "longitude": 28.25
     },
     {
-        "stateId": "1085597",
+        "stateId": 1085597,
         "name": "Limpopo",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -24,
         "longitude": 29.5
     },
     {
-        "stateId": "1085595",
+        "stateId": 1085595,
         "name": "Mpumalanga",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -26,
         "longitude": 30
     },
     {
-        "stateId": "972062",
+        "stateId": 972062,
         "name": "Province of KwaZulu-Natal",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -29,
         "longitude": 30
     },
     {
-        "stateId": "1085598",
+        "stateId": 1085598,
         "name": "Province of North West",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -26.5,
         "longitude": 26
     },
     {
-        "stateId": "1085596",
+        "stateId": 1085596,
         "name": "Province of Northern Cape",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -29.5,
         "longitude": 22
     },
     {
-        "stateId": "1085599",
+        "stateId": 1085599,
         "name": "Western Cape",
-        "countryId": "953987",
+        "countryId": 953987,
         "latitude": -34,
         "longitude": 20
     }

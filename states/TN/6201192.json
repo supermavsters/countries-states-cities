@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "11108936",
+        "cityId": 11108936,
         "name": "El Battane",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.79335,
         "longitude": 9.76334
     },
     {
-        "cityId": "11108937",
+        "cityId": 11108937,
         "name": "Borj El Amri",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.69693,
         "longitude": 9.84771
     },
     {
-        "cityId": "11108943",
+        "cityId": 11108943,
         "name": "Mornaguia",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.68035,
         "longitude": 9.9641
     },
     {
-        "cityId": "11108956",
+        "cityId": 11108956,
         "name": "Douar Hicher",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.82806,
         "longitude": 10.08088
     },
     {
-        "cityId": "11108957",
+        "cityId": 11108957,
         "name": "Oued Ellil",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.82147,
         "longitude": 10.02739
     },
     {
-        "cityId": "11108958",
+        "cityId": 11108958,
         "name": "D\u00e9l\u00e9gation de Jeda\u00efda",
-        "stateId": "6201192",
+        "stateId": 6201192,
         "latitude": 36.85405,
         "longitude": 9.93191
     }

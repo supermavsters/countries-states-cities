@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "363245",
+        "cityId": 363245,
         "name": "Rrethi i Sarand\u00ebs",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.83333,
         "longitude": 20.08333
     },
     {
-        "cityId": "414383",
+        "cityId": 414383,
         "name": "Rrethi i Delvin\u00ebs",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.91667,
         "longitude": 20.08333
     },
     {
-        "cityId": "3183721",
+        "cityId": 3183721,
         "name": "Rrethi i Vlor\u00ebs",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 40.33333,
         "longitude": 19.55
     },
     {
-        "cityId": "10944422",
+        "cityId": 10944422,
         "name": "Bashkia Delvin\u00eb",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.99824,
         "longitude": 20.04903
     },
     {
-        "cityId": "10944423",
+        "cityId": 10944423,
         "name": "Bashkia Finiq",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.84393,
         "longitude": 20.16659
     },
     {
-        "cityId": "10944424",
+        "cityId": 10944424,
         "name": "Bashkia Himar\u00eb",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 40.11581,
         "longitude": 19.81389
     },
     {
-        "cityId": "10944425",
+        "cityId": 10944425,
         "name": "Bashkia Konispol",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.70064,
         "longitude": 20.13353
     },
     {
-        "cityId": "10944426",
+        "cityId": 10944426,
         "name": "Bashkia Sarand\u00eb",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 39.85583,
         "longitude": 20.02046
     },
     {
-        "cityId": "10944427",
+        "cityId": 10944427,
         "name": "Bashkia Selenic\u00eb",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 40.39503,
         "longitude": 19.65958
     },
     {
-        "cityId": "10944428",
+        "cityId": 10944428,
         "name": "Bashkia Vlor\u00eb",
-        "stateId": "3344952",
+        "stateId": 3344952,
         "latitude": 40.4134,
         "longitude": 19.49792
     }

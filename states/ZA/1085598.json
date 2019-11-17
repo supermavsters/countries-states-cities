@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "8347347",
+        "cityId": 8347347,
         "name": "Bojanala Platinum District Municipality",
-        "stateId": "1085598",
+        "stateId": 1085598,
         "latitude": -25.42612,
         "longitude": 27.2243
     },
     {
-        "cityId": "8347348",
+        "cityId": 8347348,
         "name": "Dr Ruth Segomotsi Mompati District Municipality",
-        "stateId": "1085598",
+        "stateId": 1085598,
         "latitude": -26.63765,
         "longitude": 24.27462
     },
     {
-        "cityId": "8347350",
+        "cityId": 8347350,
         "name": "Dr Kenneth Kaunda District Municipality",
-        "stateId": "1085598",
+        "stateId": 1085598,
         "latitude": -26.80678,
         "longitude": 26.56926
     },
     {
-        "cityId": "8347376",
+        "cityId": 8347376,
         "name": "Ngaka Modiri Molema District Municipality",
-        "stateId": "1085598",
+        "stateId": 1085598,
         "latitude": -25.95559,
         "longitude": 25.80782
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7732073",
+        "cityId": 7732073,
         "name": "Merkez",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.3706,
         "longitude": 34.02843
     },
     {
-        "cityId": "8631917",
+        "cityId": 8631917,
         "name": "Eskil \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.41158,
         "longitude": 33.41994
     },
     {
-        "cityId": "8631919",
+        "cityId": 8631919,
         "name": "Sar\u0131yah\u015fi \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.99292,
         "longitude": 33.84676
     },
     {
-        "cityId": "8631920",
+        "cityId": 8631920,
         "name": "A\u011fa\u00e7\u00f6ren \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.88454,
         "longitude": 33.92421
     },
     {
-        "cityId": "8631922",
+        "cityId": 8631922,
         "name": "Ortak\u00f6y \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.7477,
         "longitude": 34.04351
     },
     {
-        "cityId": "8631923",
+        "cityId": 8631923,
         "name": "G\u00fcla\u011fa\u00e7 \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.40641,
         "longitude": 34.35071
     },
     {
-        "cityId": "8631925",
+        "cityId": 8631925,
         "name": "G\u00fczelyurt \u0130l\u00e7esi",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.28628,
         "longitude": 34.3619
     },
     {
-        "cityId": "11789076",
+        "cityId": 11789076,
         "name": "Sultanhan\u0131",
-        "stateId": "443185",
+        "stateId": 443185,
         "latitude": 38.24384,
         "longitude": 33.55207
     }

@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7053807",
+        "cityId": 7053807,
         "name": "\u0100qchah",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.90411,
         "longitude": 66.20804
     },
     {
-        "cityId": "7053808",
+        "cityId": 7053808,
         "name": "Darz\u0101b",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.00439,
         "longitude": 65.37279
     },
     {
-        "cityId": "7053809",
+        "cityId": 7053809,
         "name": "Fa\u012b\u1e95\u0101b\u0101d",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.70452,
         "longitude": 66.32969
     },
     {
-        "cityId": "7053810",
+        "cityId": 7053810,
         "name": "Khamy\u0101b",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 37.31369,
         "longitude": 65.7212
     },
     {
-        "cityId": "7053811",
+        "cityId": 7053811,
         "name": "Kh\u0101naq\u0101h",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.78395,
         "longitude": 66.12852
     },
     {
-        "cityId": "7053812",
+        "cityId": 7053812,
         "name": "Khw\u0101jah D\u016b K\u014dh",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.94839,
         "longitude": 65.6123
     },
     {
-        "cityId": "7053813",
+        "cityId": 7053813,
         "name": "Mard\u012b\u0101n",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 37.05217,
         "longitude": 66.32882
     },
     {
-        "cityId": "7053814",
+        "cityId": 7053814,
         "name": "Mingajik",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 37.05528,
         "longitude": 65.9891
     },
     {
-        "cityId": "7053815",
+        "cityId": 7053815,
         "name": "Qarq\u012bn",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 37.29142,
         "longitude": 66.09443
     },
     {
-        "cityId": "7053816",
+        "cityId": 7053816,
         "name": "Q\u016bsh Tepah",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.20972,
         "longitude": 65.36346
     },
     {
-        "cityId": "7053817",
+        "cityId": 7053817,
         "name": "Shibirgh\u0101n",
-        "stateId": "1139049",
+        "stateId": 1139049,
         "latitude": 36.59128,
         "longitude": 65.74784
     }

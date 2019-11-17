@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "629631",
+        "stateId": 629631,
         "name": "Brest Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 52.09976,
         "longitude": 23.7854
     },
     {
-        "stateId": "628281",
+        "stateId": 628281,
         "name": "Gomel Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 52,
         "longitude": 30
     },
     {
-        "stateId": "628035",
+        "stateId": 628035,
         "name": "Grodno Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 53.5,
         "longitude": 24.5
     },
     {
-        "stateId": "625143",
+        "stateId": 625143,
         "name": "Horad Minsk",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 53.9,
         "longitude": 27.56667
     },
     {
-        "stateId": "625142",
+        "stateId": 625142,
         "name": "Minsk Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 54,
         "longitude": 28
     },
     {
-        "stateId": "625073",
+        "stateId": 625073,
         "name": "Mogilyov Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 54,
         "longitude": 30.75
     },
     {
-        "stateId": "620134",
+        "stateId": 620134,
         "name": "Vitebsk Oblast",
-        "countryId": "630336",
+        "countryId": 630336,
         "latitude": 55,
         "longitude": 29.5
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11820777",
+        "cityId": 11820777,
         "name": "Villa Carmen",
-        "stateId": "3442720",
+        "stateId": 3442720,
         "latitude": -33.16511,
         "longitude": -55.91501
     },
     {
-        "cityId": "11820807",
+        "cityId": 11820807,
         "name": "Sarand\u00ed Del Y\u00ed",
-        "stateId": "3442720",
+        "stateId": 3442720,
         "latitude": -33.21653,
         "longitude": -55.57587
     }

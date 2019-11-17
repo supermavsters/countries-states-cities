@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7731998",
+        "cityId": 7731998,
         "name": "Gamboma",
-        "stateId": "2255422",
+        "stateId": 2255422,
         "latitude": -1.93412,
         "longitude": 16.02073
     },
     {
-        "cityId": "7731999",
+        "cityId": 7731999,
         "name": "Djambala",
-        "stateId": "2255422",
+        "stateId": 2255422,
         "latitude": -2.52149,
         "longitude": 15.15284
     },
     {
-        "cityId": "7870660",
+        "cityId": 7870660,
         "name": "Abala",
-        "stateId": "2255422",
+        "stateId": 2255422,
         "latitude": -1.33268,
         "longitude": 15.52106
     },
     {
-        "cityId": "7870663",
+        "cityId": 7870663,
         "name": "Lekana",
-        "stateId": "2255422",
+        "stateId": 2255422,
         "latitude": -2.3293,
         "longitude": 14.46838
     }

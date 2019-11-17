@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "7268098",
+        "cityId": 7268098,
         "name": "Collores Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.24143,
         "longitude": -66.48701
     },
     {
-        "cityId": "7268145",
+        "cityId": 7268145,
         "name": "Dami\u00e1n Abajo Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.23909,
         "longitude": -66.46709
     },
     {
-        "cityId": "7268146",
+        "cityId": 7268146,
         "name": "Dami\u00e1n Arriba Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.24243,
         "longitude": -66.434
     },
     {
-        "cityId": "7268179",
+        "cityId": 7268179,
         "name": "Ala de la Piedra Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.18099,
         "longitude": -66.51174
     },
     {
-        "cityId": "7268240",
+        "cityId": 7268240,
         "name": "Barros Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.24739,
         "longitude": -66.41241
     },
     {
-        "cityId": "7268243",
+        "cityId": 7268243,
         "name": "Bauta Abajo Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.19528,
         "longitude": -66.46926
     },
     {
-        "cityId": "7268244",
+        "cityId": 7268244,
         "name": "Bauta Arriba Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.18196,
         "longitude": -66.3878
     },
     {
-        "cityId": "7268256",
+        "cityId": 7268256,
         "name": "Bermejales Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.17504,
         "longitude": -66.4225
     },
     {
-        "cityId": "7268265",
+        "cityId": 7268265,
         "name": "Botijas Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.2243,
         "longitude": -66.36343
     },
     {
-        "cityId": "7268284",
+        "cityId": 7268284,
         "name": "Cacaos Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.22632,
         "longitude": -66.49673
     },
     {
-        "cityId": "7268410",
+        "cityId": 7268410,
         "name": "Gato Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.26069,
         "longitude": -66.38982
     },
     {
-        "cityId": "7268636",
+        "cityId": 7268636,
         "name": "Mata de Ca\u00f1as Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.25812,
         "longitude": -66.37082
     },
     {
-        "cityId": "7268709",
+        "cityId": 7268709,
         "name": "Orocovis Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.22223,
         "longitude": -66.38156
     },
     {
-        "cityId": "7268710",
+        "cityId": 7268710,
         "name": "Orocovis Barrio-Pueblo",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.22515,
         "longitude": -66.39176
     },
     {
-        "cityId": "7268745",
+        "cityId": 7268745,
         "name": "Pellejas Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.21921,
         "longitude": -66.44408
     },
     {
-        "cityId": "7268936",
+        "cityId": 7268936,
         "name": "Sabana Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.2047,
         "longitude": -66.37823
     },
     {
-        "cityId": "7268959",
+        "cityId": 7268959,
         "name": "Saltos Barrio",
-        "stateId": "4566456",
+        "stateId": 4566456,
         "latitude": 18.20219,
         "longitude": -66.41276
     }

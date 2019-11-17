@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1150088",
+        "cityId": 1150088,
         "name": "Amphoe Thung Saliam",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.37082,
         "longitude": 99.55265
     },
     {
-        "cityId": "1150623",
+        "cityId": 1150623,
         "name": "Amphoe Si Satchanalai",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.59927,
         "longitude": 99.70591
     },
     {
-        "cityId": "1150625",
+        "cityId": 1150625,
         "name": "Amphoe Si Samrong",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.16397,
         "longitude": 99.74672
     },
     {
-        "cityId": "1150680",
+        "cityId": 1150680,
         "name": "Amphoe Sawankhalok",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.29899,
         "longitude": 99.85396
     },
     {
-        "cityId": "1151979",
+        "cityId": 1151979,
         "name": "Amphoe Mueang Sukhothai",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.02318,
         "longitude": 99.77864
     },
     {
-        "cityId": "1152875",
+        "cityId": 1152875,
         "name": "Amphoe Khiri Mat",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 16.82923,
         "longitude": 99.73976
     },
     {
-        "cityId": "1157968",
+        "cityId": 1157968,
         "name": "Amphoe Ban Dan Lan Hoi",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.05278,
         "longitude": 99.49148
     },
     {
-        "cityId": "1609501",
+        "cityId": 1609501,
         "name": "Amphoe Kong Krailat",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 16.93115,
         "longitude": 99.97414
     },
     {
-        "cityId": "7510667",
+        "cityId": 7510667,
         "name": "Amphoe Si Nakhon",
-        "stateId": "1150532",
+        "stateId": 1150532,
         "latitude": 17.39275,
         "longitude": 99.97666
     }

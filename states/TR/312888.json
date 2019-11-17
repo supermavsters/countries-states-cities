@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7733232",
+        "cityId": 7733232,
         "name": "Y\u00fcksekova",
-        "stateId": "312888",
+        "stateId": 312888,
         "latitude": 37.54627,
         "longitude": 44.25827
     },
     {
-        "cityId": "8630849",
+        "cityId": 8630849,
         "name": "\u015eemdinni \u0130l\u00e7esi",
-        "stateId": "312888",
+        "stateId": 312888,
         "latitude": 37.31325,
         "longitude": 44.58016
     },
     {
-        "cityId": "8630851",
+        "cityId": 8630851,
         "name": "\u00c7ukurca \u0130l\u00e7esi",
-        "stateId": "312888",
+        "stateId": 312888,
         "latitude": 37.25492,
         "longitude": 43.62121
     }

@@ -1,337 +1,337 @@
 [
     {
-        "stateId": "2508807",
+        "stateId": 2508807,
         "name": "Adrar",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 25.75,
         "longitude": -1
     },
     {
-        "stateId": "2506994",
+        "stateId": 2506994,
         "name": "Annaba",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.83333,
         "longitude": 7.58333
     },
     {
-        "stateId": "2498541",
+        "stateId": 2498541,
         "name": "El Bayadh",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 32.5,
         "longitude": 1.16667
     },
     {
-        "stateId": "2497406",
+        "stateId": 2497406,
         "name": "El Oued",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 33.16667,
         "longitude": 7.25
     },
     {
-        "stateId": "2497322",
+        "stateId": 2497322,
         "name": "El Tarf",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.75,
         "longitude": 8.16667
     },
     {
-        "stateId": "2493455",
+        "stateId": 2493455,
         "name": "Illizi",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 26.83333,
         "longitude": 8.16667
     },
     {
-        "stateId": "2485920",
+        "stateId": 2485920,
         "name": "Oran",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.66667,
         "longitude": -0.5
     },
     {
-        "stateId": "2484618",
+        "stateId": 2484618,
         "name": "Oum el Bouaghi",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.83333,
         "longitude": 7.08333
     },
     {
-        "stateId": "2508226",
+        "stateId": 2508226,
         "name": "Wilaya de A\u00efn Defla",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.16667,
         "longitude": 2.16667
     },
     {
-        "stateId": "2507899",
+        "stateId": 2507899,
         "name": "Wilaya de A\u00efn Temouchent",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.33333,
         "longitude": -1.08333
     },
     {
-        "stateId": "2505569",
+        "stateId": 2505569,
         "name": "Wilaya de Batna",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.5,
         "longitude": 5.91667
     },
     {
-        "stateId": "2505325",
+        "stateId": 2505325,
         "name": "Wilaya de Beja\u00efa",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.66667,
         "longitude": 4.91667
     },
     {
-        "stateId": "2503822",
+        "stateId": 2503822,
         "name": "Wilaya de Biskra",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.66667,
         "longitude": 5.41667
     },
     {
-        "stateId": "2503765",
+        "stateId": 2503765,
         "name": "Wilaya de Blida",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.58333,
         "longitude": 3
     },
     {
-        "stateId": "2503699",
+        "stateId": 2503699,
         "name": "Wilaya de Bordj Bou Arr\u00e9ridj",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.08333,
         "longitude": 4.75
     },
     {
-        "stateId": "2502951",
+        "stateId": 2502951,
         "name": "Wilaya de Bouira",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.25,
         "longitude": 3.91667
     },
     {
-        "stateId": "2502638",
+        "stateId": 2502638,
         "name": "Wilaya de Boumerdes",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.75,
         "longitude": 3.66667
     },
     {
-        "stateId": "2505525",
+        "stateId": 2505525,
         "name": "Wilaya de B\u00e9char",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 30.25,
         "longitude": -3.08333
     },
     {
-        "stateId": "2501296",
+        "stateId": 2501296,
         "name": "Wilaya de Chlef",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.25,
         "longitude": 1.25
     },
     {
-        "stateId": "2501147",
+        "stateId": 2501147,
         "name": "Wilaya de Constantine",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.33333,
         "longitude": 6.66667
     },
     {
-        "stateId": "2500013",
+        "stateId": 2500013,
         "name": "Wilaya de Djelfa",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.33333,
         "longitude": 3.66667
     },
     {
-        "stateId": "2496045",
+        "stateId": 2496045,
         "name": "Wilaya de Gharda\u00efa",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 31.08333,
         "longitude": 3.16667
     },
     {
-        "stateId": "2495659",
+        "stateId": 2495659,
         "name": "Wilaya de Guelma",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.41667,
         "longitude": 7.41667
     },
     {
-        "stateId": "2492910",
+        "stateId": 2492910,
         "name": "Wilaya de Jijel",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.75,
         "longitude": 6
     },
     {
-        "stateId": "2491887",
+        "stateId": 2491887,
         "name": "Wilaya de Khenchela",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35,
         "longitude": 7
     },
     {
-        "stateId": "2491188",
+        "stateId": 2491188,
         "name": "Wilaya de Laghouat",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 33.58333,
         "longitude": 2.66667
     },
     {
-        "stateId": "2490095",
+        "stateId": 2490095,
         "name": "Wilaya de Mascara",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.41667,
         "longitude": 0.16667
     },
     {
-        "stateId": "2487449",
+        "stateId": 2487449,
         "name": "Wilaya de Mila",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.41667,
         "longitude": 6.16667
     },
     {
-        "stateId": "2487130",
+        "stateId": 2487130,
         "name": "Wilaya de Mostaganem",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36,
         "longitude": 0.33333
     },
     {
-        "stateId": "2488831",
+        "stateId": 2488831,
         "name": "Wilaya de M\u00e9d\u00e9a",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.08333,
         "longitude": 3
     },
     {
-        "stateId": "2486682",
+        "stateId": 2486682,
         "name": "Wilaya de M\u2019Sila",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.33333,
         "longitude": 4.33333
     },
     {
-        "stateId": "2486512",
+        "stateId": 2486512,
         "name": "Wilaya de Naama",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 33.5,
         "longitude": -0.83333
     },
     {
-        "stateId": "2485794",
+        "stateId": 2485794,
         "name": "Wilaya de Ouargla",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 30.5,
         "longitude": 6.16667
     },
     {
-        "stateId": "2483666",
+        "stateId": 2483666,
         "name": "Wilaya de Relizane",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.75,
         "longitude": 0.91667
     },
     {
-        "stateId": "2482557",
+        "stateId": 2482557,
         "name": "Wilaya de Sa\u00efda",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.66667,
         "longitude": 0.33333
     },
     {
-        "stateId": "2481001",
+        "stateId": 2481001,
         "name": "Wilaya de Sidi Bel Abb\u00e8s",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.83333,
         "longitude": -0.5
     },
     {
-        "stateId": "2479532",
+        "stateId": 2479532,
         "name": "Wilaya de Skikda",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.75,
         "longitude": 6.83333
     },
     {
-        "stateId": "2479213",
+        "stateId": 2479213,
         "name": "Wilaya de Souk Ahras",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.16667,
         "longitude": 7.91667
     },
     {
-        "stateId": "2481696",
+        "stateId": 2481696,
         "name": "Wilaya de S\u00e9tif",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.16667,
         "longitude": 5.5
     },
     {
-        "stateId": "2478217",
+        "stateId": 2478217,
         "name": "Wilaya de Tamanrasset",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 23.75,
         "longitude": 4.66667
     },
     {
-        "stateId": "2476893",
+        "stateId": 2476893,
         "name": "Wilaya de Tiaret",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.91667,
         "longitude": 1.58333
     },
     {
-        "stateId": "2476302",
+        "stateId": 2476302,
         "name": "Wilaya de Tindouf",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 27.41667,
         "longitude": -5.83333
     },
     {
-        "stateId": "2476027",
+        "stateId": 2476027,
         "name": "Wilaya de Tipaza",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.58333,
         "longitude": 2.41667
     },
     {
-        "stateId": "2475858",
+        "stateId": 2475858,
         "name": "Wilaya de Tissemsilt",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35.75,
         "longitude": 1.75
     },
     {
-        "stateId": "2475741",
+        "stateId": 2475741,
         "name": "Wilaya de Tizi Ouzou",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.75,
         "longitude": 4.25
     },
     {
-        "stateId": "2475683",
+        "stateId": 2475683,
         "name": "Wilaya de Tlemcen",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 34.66667,
         "longitude": -1.41667
     },
     {
-        "stateId": "2477457",
+        "stateId": 2477457,
         "name": "Wilaya de T\u00e9bessa",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 35,
         "longitude": 7.83333
     },
     {
-        "stateId": "2507475",
+        "stateId": 2507475,
         "name": "Wilaya d\u2019 Alger",
-        "countryId": "2589581",
+        "countryId": 2589581,
         "latitude": 36.74053,
         "longitude": 3.00957
     }

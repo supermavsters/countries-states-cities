@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7701201",
+        "cityId": 7701201,
         "name": "Baroueli",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.07489,
         "longitude": -6.57171
     },
     {
-        "cityId": "7701202",
+        "cityId": 7701202,
         "name": "Segou",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.65956,
         "longitude": -6.15029
     },
     {
-        "cityId": "7701498",
+        "cityId": 7701498,
         "name": "ke-Macina",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.97688,
         "longitude": -5.36789
     },
     {
-        "cityId": "7701500",
+        "cityId": 7701500,
         "name": "Tominian",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.28175,
         "longitude": -4.37718
     },
     {
-        "cityId": "8631514",
+        "cityId": 8631514,
         "name": "Cercle de Niono",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 14.86664,
         "longitude": -6.0268
     },
     {
-        "cityId": "8631515",
+        "cityId": 8631515,
         "name": "Cercle de Macina",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.99142,
         "longitude": -5.42901
     },
     {
-        "cityId": "8631516",
+        "cityId": 8631516,
         "name": "Cercle de San",
-        "stateId": "2451477",
+        "stateId": 2451477,
         "latitude": 13.17895,
         "longitude": -5.01617
     }

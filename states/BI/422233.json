@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7670603",
+        "cityId": 7670603,
         "name": "Mabanda",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.30346,
         "longitude": 29.76824
     },
     {
-        "cityId": "9072891",
+        "cityId": 9072891,
         "name": "Commune of Makamba",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.13472,
         "longitude": 29.805
     },
     {
-        "cityId": "9171810",
+        "cityId": 9171810,
         "name": "Vugizo",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.15384,
         "longitude": 29.67849
     },
     {
-        "cityId": "9171820",
+        "cityId": 9171820,
         "name": "Kayogoro",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.15,
         "longitude": 30.02373
     },
     {
-        "cityId": "9171823",
+        "cityId": 9171823,
         "name": "Kibago",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.29021,
         "longitude": 29.89114
     },
     {
-        "cityId": "9171854",
+        "cityId": 9171854,
         "name": "Nyanza-Lac",
-        "stateId": "422233",
+        "stateId": 422233,
         "latitude": -4.30252,
         "longitude": 29.64663
     }

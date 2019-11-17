@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1282836",
+        "cityId": 1282836,
         "name": "Sagarm\u0101th\u0101 Zone",
-        "stateId": "7289708",
+        "stateId": 7289708,
         "latitude": 27.23333,
         "longitude": 86.66667
     },
     {
-        "cityId": "1283047",
+        "cityId": 1283047,
         "name": "Mech\u012b Zone",
-        "stateId": "7289708",
+        "stateId": 7289708,
         "latitude": 27.18333,
         "longitude": 87.88333
     },
     {
-        "cityId": "1283182",
+        "cityId": 1283182,
         "name": "Kos\u012b Zone",
-        "stateId": "7289708",
+        "stateId": 7289708,
         "latitude": 27.15,
         "longitude": 87.31667
     }

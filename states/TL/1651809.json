@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7910187",
+        "cityId": 7910187,
         "name": "Maubisse",
-        "stateId": "1651809",
+        "stateId": 1651809,
         "latitude": -8.84232,
         "longitude": 125.63009
     },
     {
-        "cityId": "7910188",
+        "cityId": 7910188,
         "name": "Hatobuilico",
-        "stateId": "1651809",
+        "stateId": 1651809,
         "latitude": -8.93854,
         "longitude": 125.55408
     },
     {
-        "cityId": "7910190",
+        "cityId": 7910190,
         "name": "Ainaro",
-        "stateId": "1651809",
+        "stateId": 1651809,
         "latitude": -9.0075,
         "longitude": 125.50713
     },
     {
-        "cityId": "8617905",
+        "cityId": 8617905,
         "name": "Hato-Udo",
-        "stateId": "1651809",
+        "stateId": 1651809,
         "latitude": -9.12036,
         "longitude": 125.58935
     }

@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "7732956",
+        "cityId": 7732956,
         "name": "Bafra",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.46082,
         "longitude": 35.84435
     },
     {
-        "cityId": "7732982",
+        "cityId": 7732982,
         "name": "Merkez",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.2571,
         "longitude": 36.2117
     },
     {
-        "cityId": "7733243",
+        "cityId": 7733243,
         "name": "Tekkek\u00f6y",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.14493,
         "longitude": 36.46205
     },
     {
-        "cityId": "8631685",
+        "cityId": 8631685,
         "name": "Vezirk\u00f6pr\u00fc \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.15193,
         "longitude": 35.4623
     },
     {
-        "cityId": "8631686",
+        "cityId": 8631686,
         "name": "Havza \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 40.97972,
         "longitude": 35.67107
     },
     {
-        "cityId": "8631687",
+        "cityId": 8631687,
         "name": "Ladik \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 40.92025,
         "longitude": 35.90095
     },
     {
-        "cityId": "8631689",
+        "cityId": 8631689,
         "name": "Kavak \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.08777,
         "longitude": 36.05183
     },
     {
-        "cityId": "8631690",
+        "cityId": 8631690,
         "name": "Asarc\u0131k \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.04687,
         "longitude": 36.20732
     },
     {
-        "cityId": "8631691",
+        "cityId": 8631691,
         "name": "Ala\u00e7am \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.61563,
         "longitude": 35.60632
     },
     {
-        "cityId": "8631692",
+        "cityId": 8631692,
         "name": "Yakakent \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.61824,
         "longitude": 35.52014
     },
     {
-        "cityId": "8631693",
+        "cityId": 8631693,
         "name": "Terme \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.21876,
         "longitude": 36.98263
     },
     {
-        "cityId": "8631695",
+        "cityId": 8631695,
         "name": "Sal\u0131pazar\u0131 \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.09352,
         "longitude": 36.81718
     },
     {
-        "cityId": "8631696",
+        "cityId": 8631696,
         "name": "Ayvac\u0131k \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.00237,
         "longitude": 36.63706
     },
     {
-        "cityId": "8631698",
+        "cityId": 8631698,
         "name": "\u00c7ar\u015famba \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.2105,
         "longitude": 36.73204
     },
     {
-        "cityId": "8631699",
+        "cityId": 8631699,
         "name": "Ondokuzmay\u0131s \u0130l\u00e7esi",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.51188,
         "longitude": 36.07298
     },
     {
-        "cityId": "9549574",
+        "cityId": 9549574,
         "name": "Canik",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.23858,
         "longitude": 36.33694
     },
     {
-        "cityId": "9549630",
+        "cityId": 9549630,
         "name": "\u0130lkad\u0131m",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.29161,
         "longitude": 36.30106
     },
     {
-        "cityId": "9549747",
+        "cityId": 9549747,
         "name": "Atakum",
-        "stateId": "740263",
+        "stateId": 740263,
         "latitude": 41.3473,
         "longitude": 36.23051
     }

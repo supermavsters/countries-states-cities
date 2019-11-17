@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352777",
+        "cityId": 11352777,
         "name": "\u0136o\u0146u pagasts",
-        "stateId": "7628369",
+        "stateId": 7628369,
         "latitude": 57.94219,
         "longitude": 25.36826
     },
     {
-        "cityId": "11352778",
+        "cityId": 11352778,
         "name": "Nauk\u0161\u0113nu pagasts",
-        "stateId": "7628369",
+        "stateId": 7628369,
         "latitude": 57.89087,
         "longitude": 25.52773
     }

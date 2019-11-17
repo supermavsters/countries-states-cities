@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "163343",
+        "cityId": 163343,
         "name": "Tartus District",
-        "stateId": "163342",
+        "stateId": 163342,
         "latitude": 34.83904,
         "longitude": 35.9716
     },
     {
-        "cityId": "165059",
+        "cityId": 165059,
         "name": "Safita District",
-        "stateId": "163342",
+        "stateId": 163342,
         "latitude": 34.80419,
         "longitude": 36.12293
     },
     {
-        "cityId": "171829",
+        "cityId": 171829,
         "name": "Baniyas District",
-        "stateId": "163342",
+        "stateId": 163342,
         "latitude": 35.13698,
         "longitude": 36.07864
     },
     {
-        "cityId": "8276858",
+        "cityId": 8276858,
         "name": "Duraykish District",
-        "stateId": "163342",
+        "stateId": 163342,
         "latitude": 34.93205,
         "longitude": 36.12682
     },
     {
-        "cityId": "8276859",
+        "cityId": 8276859,
         "name": "Al-Shaykh Badr District",
-        "stateId": "163342",
+        "stateId": 163342,
         "latitude": 35.04492,
         "longitude": 36.09807
     }

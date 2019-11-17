@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3536629",
+        "cityId": 3536629,
         "name": "Municipio de Santo Domingo",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.58333,
         "longitude": -80.25
     },
     {
-        "cityId": "3537891",
+        "cityId": 3537891,
         "name": "Municipio de Santa Clara",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.4,
         "longitude": -79.96667
     },
     {
-        "cityId": "3539285",
+        "cityId": 3539285,
         "name": "Municipio de San Juan de los Remedios",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.5,
         "longitude": -79.55
     },
     {
-        "cityId": "3541437",
+        "cityId": 3541437,
         "name": "Municipio de Sagua la Grande",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.8,
         "longitude": -80.08333
     },
     {
-        "cityId": "3542741",
+        "cityId": 3542741,
         "name": "Municipio de Ranchuelo",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.38333,
         "longitude": -80.15
     },
     {
-        "cityId": "3543076",
+        "cityId": 3543076,
         "name": "Municipio de Quemado de G\u00fcines",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.78333,
         "longitude": -80.25
     },
     {
-        "cityId": "3543960",
+        "cityId": 3543960,
         "name": "Municipio de Placetas",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.31667,
         "longitude": -79.65
     },
     {
-        "cityId": "3559414",
+        "cityId": 3559414,
         "name": "Municipio de Encrucijada",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.61667,
         "longitude": -79.86667
     },
     {
-        "cityId": "3563312",
+        "cityId": 3563312,
         "name": "Municipio de Corralillo",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.98333,
         "longitude": -80.58333
     },
     {
-        "cityId": "3564113",
+        "cityId": 3564113,
         "name": "Municipio de Cifuentes",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.64,
         "longitude": -80.1
     },
     {
-        "cityId": "3566053",
+        "cityId": 3566053,
         "name": "Municipio de Camajuan\u00ed",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.46667,
         "longitude": -79.73333
     },
     {
-        "cityId": "3566354",
+        "cityId": 3566354,
         "name": "Municipio de Caibari\u00e9n",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.51667,
         "longitude": -79.46667
     },
     {
-        "cityId": "11288248",
+        "cityId": 11288248,
         "name": "Manicaragua",
-        "stateId": "3534168",
+        "stateId": 3534168,
         "latitude": 22.14642,
         "longitude": -79.97583
     }

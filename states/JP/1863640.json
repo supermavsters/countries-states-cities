@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "1850200",
+        "cityId": 1850200,
         "name": "Toki-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.32418,
         "longitude": 137.20748
     },
     {
-        "cityId": "1850890",
+        "cityId": 1850890,
         "name": "Takayama Shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 36.13181,
         "longitude": 137.28585
     },
     {
-        "cityId": "1851192",
+        "cityId": 1851192,
         "name": "Tajimi-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.33401,
         "longitude": 137.11258
     },
     {
-        "cityId": "1852765",
+        "cityId": 1852765,
         "name": "Seki-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.48333,
         "longitude": 136.91667
     },
     {
-        "cityId": "1854700",
+        "cityId": 1854700,
         "name": "\u014cgaki-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.36485,
         "longitude": 136.60189
     },
     {
-        "cityId": "1855750",
+        "cityId": 1855750,
         "name": "Nakatsugawa-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.56656,
         "longitude": 137.47433
     },
     {
-        "cityId": "1856506",
+        "cityId": 1856506,
         "name": "Motosu-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.43044,
         "longitude": 136.68967
     },
     {
-        "cityId": "1856666",
+        "cityId": 1856666,
         "name": "Mizunami-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.38935,
         "longitude": 137.2736
     },
     {
-        "cityId": "1857051",
+        "cityId": 1857051,
         "name": "Minokamo-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.48386,
         "longitude": 137.02658
     },
     {
-        "cityId": "1860188",
+        "cityId": 1860188,
         "name": "Kani-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.43352,
         "longitude": 137.15446
     },
     {
-        "cityId": "1860193",
+        "cityId": 1860193,
         "name": "Kani-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.40589,
         "longitude": 137.06602
     },
     {
-        "cityId": "1860326",
+        "cityId": 1860326,
         "name": "Kamo-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.57126,
         "longitude": 137.21026
     },
     {
-        "cityId": "1860734",
+        "cityId": 1860734,
         "name": "Kakamigahara-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.40283,
         "longitude": 136.87829
     },
     {
-        "cityId": "1860766",
+        "cityId": 1860766,
         "name": "Kaizu-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.21381,
         "longitude": 136.62443
     },
     {
-        "cityId": "1863084",
+        "cityId": 1863084,
         "name": "Hashima-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.3074,
         "longitude": 136.70161
     },
     {
-        "cityId": "1863085",
+        "cityId": 1863085,
         "name": "Hashima-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.3744,
         "longitude": 136.77791
     },
     {
-        "cityId": "1863639",
+        "cityId": 1863639,
         "name": "Gifu-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.44826,
         "longitude": 136.7647
     },
     {
-        "cityId": "1863645",
+        "cityId": 1863645,
         "name": "Gero-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.75,
         "longitude": 137.25
     },
     {
-        "cityId": "1863710",
+        "cityId": 1863710,
         "name": "Fuwa-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.37256,
         "longitude": 136.48538
     },
     {
-        "cityId": "1864208",
+        "cityId": 1864208,
         "name": "Ena-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.44722,
         "longitude": 137.4181
     },
     {
-        "cityId": "1865323",
+        "cityId": 1865323,
         "name": "Ampachi-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.3,
         "longitude": 136.65
     },
     {
-        "cityId": "7418819",
+        "cityId": 7418819,
         "name": "Ibi-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.5915,
         "longitude": 136.4633
     },
     {
-        "cityId": "7418820",
+        "cityId": 7418820,
         "name": "\u014cno Gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 36.21976,
         "longitude": 136.8794
     },
     {
-        "cityId": "7418821",
+        "cityId": 7418821,
         "name": "Y\u014dr\u014d-gun",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.29112,
         "longitude": 136.56
     },
     {
-        "cityId": "7419031",
+        "cityId": 7419031,
         "name": "Guj\u014d-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.83298,
         "longitude": 136.94561
     },
     {
-        "cityId": "7419032",
+        "cityId": 7419032,
         "name": "Hida Shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 36.33272,
         "longitude": 137.20568
     },
     {
-        "cityId": "7419033",
+        "cityId": 7419033,
         "name": "Mino-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.57892,
         "longitude": 136.9012
     },
     {
-        "cityId": "7419034",
+        "cityId": 7419034,
         "name": "Mizuho-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.39663,
         "longitude": 136.67022
     },
     {
-        "cityId": "7419035",
+        "cityId": 7419035,
         "name": "Motosu-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.65553,
         "longitude": 136.61991
     },
     {
-        "cityId": "7419036",
+        "cityId": 7419036,
         "name": "Yamagata-shi",
-        "stateId": "1863640",
+        "stateId": 1863640,
         "latitude": 35.59892,
         "longitude": 136.74311
     }

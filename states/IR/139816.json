@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "449495",
+        "cityId": 449495,
         "name": "Shahrest\u0101n-e B\u016bshehr",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 29.14186,
         "longitude": 50.9816
     },
     {
-        "cityId": "449496",
+        "cityId": 449496,
         "name": "Shahrest\u0101n-e Tangest\u0101n",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 28.88333,
         "longitude": 51.26667
     },
     {
-        "cityId": "449497",
+        "cityId": 449497,
         "name": "Jam",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 28,
         "longitude": 52.23333
     },
     {
-        "cityId": "449498",
+        "cityId": 449498,
         "name": "Shahrest\u0101n-e Dashtest\u0101n",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 29.28333,
         "longitude": 51.25
     },
     {
-        "cityId": "449499",
+        "cityId": 449499,
         "name": "Shahrest\u0101n-e Dasht\u012b",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 28.48685,
         "longitude": 51.56182
     },
     {
-        "cityId": "449500",
+        "cityId": 449500,
         "name": "Deyr",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 28.04026,
         "longitude": 51.70226
     },
     {
-        "cityId": "449501",
+        "cityId": 449501,
         "name": "Deylam",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 30.02286,
         "longitude": 50.35595
     },
     {
-        "cityId": "449502",
+        "cityId": 449502,
         "name": "Shahrest\u0101n-e Kang\u0101n",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 27.7133,
         "longitude": 52.26862
     },
     {
-        "cityId": "449503",
+        "cityId": 449503,
         "name": "Shahrest\u0101n-e Gen\u0101veh",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 29.64574,
         "longitude": 50.64699
     },
     {
-        "cityId": "9519975",
+        "cityId": 9519975,
         "name": "Shahrest\u0101n-e \u2018Asal\u016byeh",
-        "stateId": "139816",
+        "stateId": 139816,
         "latitude": 27.45,
         "longitude": 52.73333
     }

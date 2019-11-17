@@ -1,582 +1,582 @@
 [
     {
-        "stateId": "1511732",
+        "stateId": 1511732,
         "name": "Altayskiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 52.5,
         "longitude": 83
     },
     {
-        "stateId": "2027748",
+        "stateId": 2027748,
         "name": "Amurskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54,
         "longitude": 128
     },
     {
-        "stateId": "581043",
+        "stateId": 581043,
         "name": "Arkhangel\u2019skaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 64,
         "longitude": 44
     },
     {
-        "stateId": "580491",
+        "stateId": 580491,
         "name": "Astrakhanskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 47,
         "longitude": 48
     },
     {
-        "stateId": "578853",
+        "stateId": 578853,
         "name": "Bashkortostan",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54,
         "longitude": 56
     },
     {
-        "stateId": "578071",
+        "stateId": 578071,
         "name": "Belgorodskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 50.75,
         "longitude": 37.5
     },
     {
-        "stateId": "571473",
+        "stateId": 571473,
         "name": "Bryanskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53,
         "longitude": 33.5
     },
     {
-        "stateId": "569665",
+        "stateId": 569665,
         "name": "Chechenskaya Respublika",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 43.25,
         "longitude": 45.83333
     },
     {
-        "stateId": "1508290",
+        "stateId": 1508290,
         "name": "Chelyabinskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54,
         "longitude": 60.5
     },
     {
-        "stateId": "2126099",
+        "stateId": 2126099,
         "name": "Chukotskiy Avtonomnyy Okrug",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 67.5,
         "longitude": 172
     },
     {
-        "stateId": "567395",
+        "stateId": 567395,
         "name": "Chuvashskaya Respublika",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55.5,
         "longitude": 47
     },
     {
-        "stateId": "567293",
+        "stateId": 567293,
         "name": "Dagestan",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 43,
         "longitude": 47
     },
     {
-        "stateId": "2023468",
+        "stateId": 2023468,
         "name": "Irkutskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 56,
         "longitude": 106
     },
     {
-        "stateId": "555235",
+        "stateId": 555235,
         "name": "Ivanovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 57,
         "longitude": 41.75
     },
     {
-        "stateId": "554667",
+        "stateId": 554667,
         "name": "Kabardino-Balkarskaya Respublika",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 43.5,
         "longitude": 43.5
     },
     {
-        "stateId": "554230",
+        "stateId": 554230,
         "name": "Kaliningradskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54.75,
         "longitude": 21.5
     },
     {
-        "stateId": "553972",
+        "stateId": 553972,
         "name": "Kalmykiya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 46.5,
         "longitude": 45.5
     },
     {
-        "stateId": "553899",
+        "stateId": 553899,
         "name": "Kaluzhskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54.5,
         "longitude": 35.5
     },
     {
-        "stateId": "2125072",
+        "stateId": 2125072,
         "name": "Kamtchatski Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55,
         "longitude": 159
     },
     {
-        "stateId": "552927",
+        "stateId": 552927,
         "name": "Karachayevo-Cherkesiya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 44,
         "longitude": 42
     },
     {
-        "stateId": "1503900",
+        "stateId": 1503900,
         "name": "Kemerovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55,
         "longitude": 86
     },
     {
-        "stateId": "2022888",
+        "stateId": 2022888,
         "name": "Khabarovskiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55,
         "longitude": 134
     },
     {
-        "stateId": "1503773",
+        "stateId": 1503773,
         "name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 62,
         "longitude": 72
     },
     {
-        "stateId": "548389",
+        "stateId": 548389,
         "name": "Kirovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58,
         "longitude": 50
     },
     {
-        "stateId": "545854",
+        "stateId": 545854,
         "name": "Komi",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 64,
         "longitude": 54
     },
     {
-        "stateId": "543871",
+        "stateId": 543871,
         "name": "Kostromskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58.5,
         "longitude": 44
     },
     {
-        "stateId": "542415",
+        "stateId": 542415,
         "name": "Krasnodarskiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 44.98811,
         "longitude": 38.97675
     },
     {
-        "stateId": "1502020",
+        "stateId": 1502020,
         "name": "Krasnoyarskiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58,
         "longitude": 93
     },
     {
-        "stateId": "1501312",
+        "stateId": 1501312,
         "name": "Kurganskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55.5,
         "longitude": 64
     },
     {
-        "stateId": "538555",
+        "stateId": 538555,
         "name": "Kurskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 51.5,
         "longitude": 36
     },
     {
-        "stateId": "536199",
+        "stateId": 536199,
         "name": "Leningradskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 60,
         "longitude": 32
     },
     {
-        "stateId": "535120",
+        "stateId": 535120,
         "name": "Lipetskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 52.5,
         "longitude": 39
     },
     {
-        "stateId": "2123627",
+        "stateId": 2123627,
         "name": "Magadanskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 63,
         "longitude": 154
     },
     {
-        "stateId": "524925",
+        "stateId": 524925,
         "name": "Moscow Oblast",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55.81363,
         "longitude": 36.71631
     },
     {
-        "stateId": "524894",
+        "stateId": 524894,
         "name": "Moskva",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55.76167,
         "longitude": 37.60667
     },
     {
-        "stateId": "524304",
+        "stateId": 524304,
         "name": "Murmanskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 68,
         "longitude": 34
     },
     {
-        "stateId": "522652",
+        "stateId": 522652,
         "name": "Nenetskiy Avtonomnyy Okrug",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 67.5,
         "longitude": 54
     },
     {
-        "stateId": "559838",
+        "stateId": 559838,
         "name": "Nizhegorodskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 56,
         "longitude": 45
     },
     {
-        "stateId": "519969",
+        "stateId": 519969,
         "name": "North Ossetia",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 43,
         "longitude": 44.25
     },
     {
-        "stateId": "519324",
+        "stateId": 519324,
         "name": "Novgorodskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58.5,
         "longitude": 32.5
     },
     {
-        "stateId": "1496745",
+        "stateId": 1496745,
         "name": "Novosibirskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55,
         "longitude": 80
     },
     {
-        "stateId": "1496152",
+        "stateId": 1496152,
         "name": "Omskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 56,
         "longitude": 73
     },
     {
-        "stateId": "515001",
+        "stateId": 515001,
         "name": "Orenburgskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 52,
         "longitude": 56
     },
     {
-        "stateId": "514801",
+        "stateId": 514801,
         "name": "Orlovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53,
         "longitude": 36.25
     },
     {
-        "stateId": "511555",
+        "stateId": 511555,
         "name": "Penzenskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53,
         "longitude": 44.5
     },
     {
-        "stateId": "511180",
+        "stateId": 511180,
         "name": "Perm Krai",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 59,
         "longitude": 57
     },
     {
-        "stateId": "2017623",
+        "stateId": 2017623,
         "name": "Primorskiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 45,
         "longitude": 135
     },
     {
-        "stateId": "504338",
+        "stateId": 504338,
         "name": "Pskovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 57.5,
         "longitude": 29
     },
     {
-        "stateId": "584222",
+        "stateId": 584222,
         "name": "Respublika Adygeya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 45.0001,
         "longitude": 40.01045
     },
     {
-        "stateId": "1506272",
+        "stateId": 1506272,
         "name": "Respublika Altay",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 51,
         "longitude": 87
     },
     {
-        "stateId": "2050915",
+        "stateId": 2050915,
         "name": "Respublika Buryatiya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53,
         "longitude": 109
     },
     {
-        "stateId": "556349",
+        "stateId": 556349,
         "name": "Respublika Ingushetiya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 43.16667,
         "longitude": 45
     },
     {
-        "stateId": "552548",
+        "stateId": 552548,
         "name": "Respublika Kareliya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 64,
         "longitude": 32.5
     },
     {
-        "stateId": "1503834",
+        "stateId": 1503834,
         "name": "Respublika Khakasiya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53.33333,
         "longitude": 90
     },
     {
-        "stateId": "529352",
+        "stateId": 529352,
         "name": "Respublika Mariy-El",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 56.5,
         "longitude": 48
     },
     {
-        "stateId": "525369",
+        "stateId": 525369,
         "name": "Respublika Mordoviya",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54.5,
         "longitude": 44
     },
     {
-        "stateId": "2013162",
+        "stateId": 2013162,
         "name": "Respublika Sakha (Yakutiya)",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 65,
         "longitude": 130
     },
     {
-        "stateId": "1488873",
+        "stateId": 1488873,
         "name": "Respublika Tyva",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 51.5,
         "longitude": 95
     },
     {
-        "stateId": "501165",
+        "stateId": 501165,
         "name": "Rostovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 47.44032,
         "longitude": 41.08083
     },
     {
-        "stateId": "500059",
+        "stateId": 500059,
         "name": "Ryazanskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54.25,
         "longitude": 40.5
     },
     {
-        "stateId": "2121529",
+        "stateId": 2121529,
         "name": "Sakhalinskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 50,
         "longitude": 143
     },
     {
-        "stateId": "499068",
+        "stateId": 499068,
         "name": "Samarskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 53,
         "longitude": 50
     },
     {
-        "stateId": "536203",
+        "stateId": 536203,
         "name": "Sankt-Peterburg",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 59.91667,
         "longitude": 30.25
     },
     {
-        "stateId": "498671",
+        "stateId": 498671,
         "name": "Saratovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 51.5,
         "longitude": 47
     },
     {
-        "stateId": "491684",
+        "stateId": 491684,
         "name": "Smolenskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55,
         "longitude": 33
     },
     {
-        "stateId": "487839",
+        "stateId": 487839,
         "name": "Stavropol\u2019skiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 45,
         "longitude": 44
     },
     {
-        "stateId": "1490542",
+        "stateId": 1490542,
         "name": "Sverdlovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58,
         "longitude": 62
     },
     {
-        "stateId": "484638",
+        "stateId": 484638,
         "name": "Tambovskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 52.75,
         "longitude": 41.5
     },
     {
-        "stateId": "484048",
+        "stateId": 484048,
         "name": "Tatarstan",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 55.33333,
         "longitude": 51
     },
     {
-        "stateId": "1489421",
+        "stateId": 1489421,
         "name": "Tomskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58.5,
         "longitude": 82.5
     },
     {
-        "stateId": "480508",
+        "stateId": 480508,
         "name": "Tul\u2019skaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54,
         "longitude": 37.5
     },
     {
-        "stateId": "480041",
+        "stateId": 480041,
         "name": "Tverskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 57.00964,
         "longitude": 35.00488
     },
     {
-        "stateId": "1488747",
+        "stateId": 1488747,
         "name": "Tyumenskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 57.33333,
         "longitude": 68.5
     },
     {
-        "stateId": "479613",
+        "stateId": 479613,
         "name": "Udmurtskaya Respublika",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 57,
         "longitude": 53
     },
     {
-        "stateId": "479119",
+        "stateId": 479119,
         "name": "Ulyanovsk Oblast",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 54,
         "longitude": 48
     },
     {
-        "stateId": "826294",
+        "stateId": 826294,
         "name": "Vladimirskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 56,
         "longitude": 40.5
     },
     {
-        "stateId": "472755",
+        "stateId": 472755,
         "name": "Volgogradskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 49,
         "longitude": 44
     },
     {
-        "stateId": "472454",
+        "stateId": 472454,
         "name": "Vologodskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 60,
         "longitude": 42
     },
     {
-        "stateId": "472039",
+        "stateId": 472039,
         "name": "Voronezhskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 51,
         "longitude": 40.5
     },
     {
-        "stateId": "1486462",
+        "stateId": 1486462,
         "name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 66,
         "longitude": 76
     },
     {
-        "stateId": "468898",
+        "stateId": 468898,
         "name": "Yaroslavskaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 58,
         "longitude": 39.5
     },
     {
-        "stateId": "2026639",
+        "stateId": 2026639,
         "name": "Yevreyskaya Avtonomnaya Oblast\u2019",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 48.5,
         "longitude": 132
     },
     {
-        "stateId": "7779061",
+        "stateId": 7779061,
         "name": "Zabaykal\u2019skiy Kray",
-        "countryId": "2017370",
+        "countryId": 2017370,
         "latitude": 52,
         "longitude": 117
     }

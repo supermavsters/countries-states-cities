@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7268232",
+        "cityId": 7268232,
         "name": "Barceloneta Barrio-Pueblo",
-        "stateId": "4562771",
+        "stateId": 4562771,
         "latitude": 18.45464,
         "longitude": -66.53853
     },
     {
-        "cityId": "7268394",
+        "cityId": 7268394,
         "name": "Florida Afuera Barrio",
-        "stateId": "4562771",
+        "stateId": 4562771,
         "latitude": 18.42603,
         "longitude": -66.56046
     },
     {
-        "cityId": "7268408",
+        "cityId": 7268408,
         "name": "Garrochales Barrio",
-        "stateId": "4562771",
+        "stateId": 4562771,
         "latitude": 18.45891,
         "longitude": -66.56519
     },
     {
-        "cityId": "7268721",
+        "cityId": 7268721,
         "name": "Palmas Altas Barrio",
-        "stateId": "4562771",
+        "stateId": 4562771,
         "latitude": 18.47866,
         "longitude": -66.55709
     }

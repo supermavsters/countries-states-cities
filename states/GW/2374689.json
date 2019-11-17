@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7909710",
+        "cityId": 7909710,
         "name": "Bubaque",
-        "stateId": "2374689",
+        "stateId": 2374689,
         "latitude": 11.28333,
         "longitude": -15.83333
     },
     {
-        "cityId": "7911005",
+        "cityId": 7911005,
         "name": "Caravela",
-        "stateId": "2374689",
+        "stateId": 2374689,
         "latitude": 11.56667,
         "longitude": -16.26667
     }

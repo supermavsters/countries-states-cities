@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2543878",
+        "cityId": 2543878,
         "name": "Laayoune",
-        "stateId": "11281885",
+        "stateId": 11281885,
         "latitude": 27.83333,
         "longitude": -12.33333
     },
     {
-        "cityId": "2595330",
+        "cityId": 2595330,
         "name": "Es-Semara",
-        "stateId": "11281885",
+        "stateId": 11281885,
         "latitude": 27.75,
         "longitude": -11
     },
     {
-        "cityId": "6547290",
+        "cityId": 6547290,
         "name": "Boujdour",
-        "stateId": "11281885",
+        "stateId": 11281885,
         "latitude": 25.66172,
         "longitude": -13.68419
     },
     {
-        "cityId": "11282173",
+        "cityId": 11282173,
         "name": "Tarfaya",
-        "stateId": "11281885",
+        "stateId": 11281885,
         "latitude": 27.93901,
         "longitude": -12.92082
     }

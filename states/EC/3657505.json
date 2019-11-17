@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "3650124",
+        "cityId": 3650124,
         "name": "Cant\u00f3n Yaguachi",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.11677,
         "longitude": -79.69897
     },
     {
-        "cityId": "3650347",
+        "cityId": 3650347,
         "name": "Cant\u00f3n Salitre",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.83333,
         "longitude": -79.8
     },
     {
-        "cityId": "3652064",
+        "cityId": 3652064,
         "name": "Cant\u00f3n Samborond\u00f3n",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.95,
         "longitude": -79.73333
     },
     {
-        "cityId": "3653872",
+        "cityId": 3653872,
         "name": "Cant\u00f3n Naranjito",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.21667,
         "longitude": -79.48333
     },
     {
-        "cityId": "3653880",
+        "cityId": 3653880,
         "name": "Cant\u00f3n Naranjal",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.66667,
         "longitude": -79.61667
     },
     {
-        "cityId": "3654213",
+        "cityId": 3654213,
         "name": "Cant\u00f3n Milagro",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.16667,
         "longitude": -79.6
     },
     {
-        "cityId": "3657508",
+        "cityId": 3657508,
         "name": "Cant\u00f3n Guayaquil",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.2,
         "longitude": -79.88333
     },
     {
-        "cityId": "3658266",
+        "cityId": 3658266,
         "name": "Cant\u00f3n El Empalme",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.05,
         "longitude": -79.61667
     },
     {
-        "cityId": "3658498",
+        "cityId": 3658498,
         "name": "Cant\u00f3n Daule",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.85,
         "longitude": -79.96667
     },
     {
-        "cityId": "3660360",
+        "cityId": 3660360,
         "name": "Cant\u00f3n Balzar",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.36667,
         "longitude": -79.88333
     },
     {
-        "cityId": "9155068",
+        "cityId": 9155068,
         "name": "Canton Colimes",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.55,
         "longitude": -80.01666
     },
     {
-        "cityId": "10792448",
+        "cityId": 10792448,
         "name": "Alfredo Baquerizo Moreno (Juj\u00e1n)",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.94487,
         "longitude": -79.54073
     },
     {
-        "cityId": "10792449",
+        "cityId": 10792449,
         "name": "Balao",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.89411,
         "longitude": -79.70746
     },
     {
-        "cityId": "10792451",
+        "cityId": 10792451,
         "name": "Dur\u00e1n",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.22581,
         "longitude": -79.77477
     },
     {
-        "cityId": "10792452",
+        "cityId": 10792452,
         "name": "El Triunfo",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.29156,
         "longitude": -79.3623
     },
     {
-        "cityId": "10792453",
+        "cityId": 10792453,
         "name": "Palestina",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.63364,
         "longitude": -79.91825
     },
     {
-        "cityId": "10792454",
+        "cityId": 10792454,
         "name": "Pedro Carbo",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.8538,
         "longitude": -80.28787
     },
     {
-        "cityId": "10792455",
+        "cityId": 10792455,
         "name": "Santa Luc\u00eda",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.71317,
         "longitude": -80.03175
     },
     {
-        "cityId": "10792456",
+        "cityId": 10792456,
         "name": "Coronel Marcelino Maridue\u00f1a",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.23589,
         "longitude": -79.38137
     },
     {
-        "cityId": "10792458",
+        "cityId": 10792458,
         "name": "Lomas De Sargentillo",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.84736,
         "longitude": -80.07871
     },
     {
-        "cityId": "10792459",
+        "cityId": 10792459,
         "name": "Playas",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.55413,
         "longitude": -80.43465
     },
     {
-        "cityId": "10792460",
+        "cityId": 10792460,
         "name": "Sim\u00f3n Bol\u00edvar",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.03624,
         "longitude": -79.40141
     },
     {
-        "cityId": "10792461",
+        "cityId": 10792461,
         "name": "Nobol",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.96883,
         "longitude": -80.05292
     },
     {
-        "cityId": "10792462",
+        "cityId": 10792462,
         "name": "General Antonio Elizalde",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -2.15499,
         "longitude": -79.19854
     },
     {
-        "cityId": "10792463",
+        "cityId": 10792463,
         "name": "Isidro Ayora",
-        "stateId": "3657505",
+        "stateId": 3657505,
         "latitude": -1.9631,
         "longitude": -80.15928
     }

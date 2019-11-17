@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7732207",
+        "cityId": 7732207,
         "name": "Merkez",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.62762,
         "longitude": 30.20408
     },
     {
-        "cityId": "8631949",
+        "cityId": 8631949,
         "name": "Bucak \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.47032,
         "longitude": 30.59956
     },
     {
-        "cityId": "8631950",
+        "cityId": 8631950,
         "name": "\u00c7eltik\u00e7i \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.53885,
         "longitude": 30.46823
     },
     {
-        "cityId": "8631951",
+        "cityId": 8631951,
         "name": "A\u011flasun \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.65962,
         "longitude": 30.53833
     },
     {
-        "cityId": "8631952",
+        "cityId": 8631952,
         "name": "Kemer \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.36333,
         "longitude": 30.06748
     },
     {
-        "cityId": "8631953",
+        "cityId": 8631953,
         "name": "\u00c7avd\u0131r \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.16483,
         "longitude": 29.69937
     },
     {
-        "cityId": "8631954",
+        "cityId": 8631954,
         "name": "Tefenni \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.32038,
         "longitude": 29.78034
     },
     {
-        "cityId": "8631955",
+        "cityId": 8631955,
         "name": "Karamanl\u0131 \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.38401,
         "longitude": 29.82777
     },
     {
-        "cityId": "8631956",
+        "cityId": 8631956,
         "name": "G\u00f6lhisar \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.15628,
         "longitude": 29.51406
     },
     {
-        "cityId": "8631957",
+        "cityId": 8631957,
         "name": "Alt\u0131nyayla \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.0072,
         "longitude": 29.5505
     },
     {
-        "cityId": "8631958",
+        "cityId": 8631958,
         "name": "Ye\u015filova \u0130l\u00e7esi",
-        "stateId": "320390",
+        "stateId": 320390,
         "latitude": 37.51831,
         "longitude": 29.75859
     }

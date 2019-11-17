@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1904928",
+        "cityId": 1904928,
         "name": "Qu\u1eadn Ninh Ki\u1ec1u",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.02905,
         "longitude": 105.76253
     },
     {
-        "cityId": "1904930",
+        "cityId": 1904930,
         "name": "Qu\u1eadn \u00d4 M\u00f4n",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.12544,
         "longitude": 105.59332
     },
     {
-        "cityId": "1904931",
+        "cityId": 1904931,
         "name": "Qu\u1eadn Th\u1ed1t N\u1ed1t",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.23508,
         "longitude": 105.53173
     },
     {
-        "cityId": "9072539",
+        "cityId": 9072539,
         "name": "C\u00e1i R\u0103ng",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 9.99271,
         "longitude": 105.78548
     },
     {
-        "cityId": "9533385",
+        "cityId": 9533385,
         "name": "Qu\u1eadn B\u00ecnh Th\u1ee7y",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.06288,
         "longitude": 105.7293
     },
     {
-        "cityId": "9533386",
+        "cityId": 9533386,
         "name": "Huy\u1ec7n Phong \u0110i\u1ec1n",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 9.99957,
         "longitude": 105.67016
     },
     {
-        "cityId": "9533387",
+        "cityId": 9533387,
         "name": "Huy\u1ec7n Th\u1edbi Lai",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.02657,
         "longitude": 105.54557
     },
     {
-        "cityId": "9533388",
+        "cityId": 9533388,
         "name": "Huy\u1ec7n C\u1edd \u0110\u1ecf",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.12151,
         "longitude": 105.46491
     },
     {
-        "cityId": "9533389",
+        "cityId": 9533389,
         "name": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
-        "stateId": "1581188",
+        "stateId": 1581188,
         "latitude": 10.20289,
         "longitude": 105.38032
     }

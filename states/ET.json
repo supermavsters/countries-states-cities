@@ -1,78 +1,78 @@
 [
     {
-        "stateId": "444179",
+        "stateId": 444179,
         "name": "Afar Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 12,
         "longitude": 41.5
     },
     {
-        "stateId": "444180",
+        "stateId": 444180,
         "name": "Amhara Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 11.5,
         "longitude": 38.5
     },
     {
-        "stateId": "444181",
+        "stateId": 444181,
         "name": "Benishangul-Gumuz Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 11,
         "longitude": 35.5
     },
     {
-        "stateId": "444182",
+        "stateId": 444182,
         "name": "Dire Dawa Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 9.567,
         "longitude": 42.014
     },
     {
-        "stateId": "444183",
+        "stateId": 444183,
         "name": "Gambela Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 7.83333,
         "longitude": 34.5
     },
     {
-        "stateId": "444184",
+        "stateId": 444184,
         "name": "Harari Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 9.25,
         "longitude": 42.16667
     },
     {
-        "stateId": "444185",
+        "stateId": 444185,
         "name": "Oromiya Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 8,
         "longitude": 39
     },
     {
-        "stateId": "444186",
+        "stateId": 444186,
         "name": "Somali Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 7,
         "longitude": 44
     },
     {
-        "stateId": "444188",
+        "stateId": 444188,
         "name": "Southern Nations, Nationalities, and People's Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 6.05862,
         "longitude": 36.7273
     },
     {
-        "stateId": "444187",
+        "stateId": 444187,
         "name": "Tigray Region",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 14.16667,
         "longitude": 38.83333
     },
     {
-        "stateId": "444178",
+        "stateId": 444178,
         "name": "\u0100d\u012bs \u0100beba \u0100stedader",
-        "countryId": "337996",
+        "countryId": 337996,
         "latitude": 9,
         "longitude": 38.75
     }

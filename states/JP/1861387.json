@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1848973",
+        "cityId": 1848973,
         "name": "Wajima Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 37.33753,
         "longitude": 136.88757
     },
     {
-        "cityId": "1851337",
+        "cityId": 1851337,
         "name": "Suzu Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 37.45533,
         "longitude": 137.22587
     },
     {
-        "cityId": "1854977",
+        "cityId": 1854977,
         "name": "Nonoichi-shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.52288,
         "longitude": 136.60589
     },
     {
-        "cityId": "1855000",
+        "cityId": 1855000,
         "name": "Nomi Gun",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.46922,
         "longitude": 136.53661
     },
     {
-        "cityId": "1858904",
+        "cityId": 1858904,
         "name": "Komatsu Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.31106,
         "longitude": 136.49841
     },
     {
-        "cityId": "1860240",
+        "cityId": 1860240,
         "name": "Kanazawa-shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.51919,
         "longitude": 136.70836
     },
     {
-        "cityId": "1860811",
+        "cityId": 1860811,
         "name": "Kahoku Gun",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.69033,
         "longitude": 136.74899
     },
     {
-        "cityId": "1860845",
+        "cityId": 1860845,
         "name": "Kaga Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.25503,
         "longitude": 136.37963
     },
     {
-        "cityId": "1863340",
+        "cityId": 1863340,
         "name": "Hakui Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.91136,
         "longitude": 136.81626
     },
     {
-        "cityId": "7467838",
+        "cityId": 7467838,
         "name": "Hakui Gun",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 37.00459,
         "longitude": 136.78116
     },
     {
-        "cityId": "7467839",
+        "cityId": 7467839,
         "name": "H\u014dsu Gun",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 37.2941,
         "longitude": 137.03107
     },
     {
-        "cityId": "7467840",
+        "cityId": 7467840,
         "name": "Kashima Gun",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.97667,
         "longitude": 136.89469
     },
     {
-        "cityId": "7467879",
+        "cityId": 7467879,
         "name": "Nanao Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 37.07844,
         "longitude": 136.9286
     },
     {
-        "cityId": "7467880",
+        "cityId": 7467880,
         "name": "Kahoku Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.74365,
         "longitude": 136.73273
     },
     {
-        "cityId": "7467881",
+        "cityId": 7467881,
         "name": "Hakusan Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.27558,
         "longitude": 136.66966
     },
     {
-        "cityId": "7467882",
+        "cityId": 7467882,
         "name": "Nomi Shi",
-        "stateId": "1861387",
+        "stateId": 1861387,
         "latitude": 36.43593,
         "longitude": 136.54456
     }

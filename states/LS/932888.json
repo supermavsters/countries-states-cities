@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11258465",
+        "cityId": 11258465,
         "name": "Motete",
-        "stateId": "932888",
+        "stateId": 932888,
         "latitude": -28.86481,
         "longitude": 28.58397
     },
     {
-        "cityId": "11280716",
+        "cityId": 11280716,
         "name": "Qalo",
-        "stateId": "932888",
+        "stateId": 932888,
         "latitude": -28.77254,
         "longitude": 28.33461
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3583331",
+        "cityId": 3583331,
         "name": "Distrito de Santa Ana",
-        "stateId": "3583332",
+        "stateId": 3583332,
         "latitude": 14,
         "longitude": -89.5
     },
     {
-        "cityId": "3584383",
+        "cityId": 3584383,
         "name": "Distrito de Metap\u00e1n",
-        "stateId": "3583332",
+        "stateId": 3583332,
         "latitude": 14.3,
         "longitude": -89.43333
     },
     {
-        "cityId": "3587085",
+        "cityId": 3587085,
         "name": "Distrito de Chalchuapa",
-        "stateId": "3583332",
+        "stateId": 3583332,
         "latitude": 14.03333,
         "longitude": -89.66667
     }

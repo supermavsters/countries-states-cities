@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1905679",
+        "cityId": 1905679,
         "name": "Th\u00e0nh Ph\u1ed1 C\u00e0 Mau",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 9.1641,
         "longitude": 105.18804
     },
     {
-        "cityId": "1905680",
+        "cityId": 1905680,
         "name": "Huy\u1ec7n Th\u1edbi B\u00ecnh",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 9.3579,
         "longitude": 105.16023
     },
     {
-        "cityId": "1905681",
+        "cityId": 1905681,
         "name": "Huy\u1ec7n U Minh",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 9.3677,
         "longitude": 104.94119
     },
     {
-        "cityId": "1905682",
+        "cityId": 1905682,
         "name": "Huy\u1ec7n Tr\u1ea7n V\u0103n Th\u1eddi",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 9.12661,
         "longitude": 104.92326
     },
     {
-        "cityId": "1905683",
+        "cityId": 1905683,
         "name": "Huy\u1ec7n C\u00e1i N\u01b0\u1edbc",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 9.00094,
         "longitude": 105.04201
     },
     {
-        "cityId": "1905684",
+        "cityId": 1905684,
         "name": "Huy\u1ec7n \u0110\u1ea7m D\u01a1i",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 8.96029,
         "longitude": 105.24107
     },
     {
-        "cityId": "1905685",
+        "cityId": 1905685,
         "name": "Huy\u1ec7n Ng\u1ecdc Hi\u1ec3n",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 8.66223,
         "longitude": 104.99692
     },
     {
-        "cityId": "8728393",
+        "cityId": 8728393,
         "name": "Huyen Nam Can",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 8.81531,
         "longitude": 105.05574
     },
     {
-        "cityId": "9643191",
+        "cityId": 9643191,
         "name": "Huy\u1ec7n Ph\u00fa T\u00e2n",
-        "stateId": "1905678",
+        "stateId": 1905678,
         "latitude": 8.89338,
         "longitude": 104.88718
     }

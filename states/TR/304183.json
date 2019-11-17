@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7732940",
+        "cityId": 7732940,
         "name": "Fethiye",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.65483,
         "longitude": 29.12682
     },
     {
-        "cityId": "7732941",
+        "cityId": 7732941,
         "name": "Kavakl\u0131dere",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.43929,
         "longitude": 28.38402
     },
     {
-        "cityId": "7732942",
+        "cityId": 7732942,
         "name": "Marmaris",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.81054,
         "longitude": 28.17907
     },
     {
-        "cityId": "7732943",
+        "cityId": 7732943,
         "name": "Yata\u011fan",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.35864,
         "longitude": 28.11441
     },
     {
-        "cityId": "7733242",
+        "cityId": 7733242,
         "name": "Bodrum",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.065,
         "longitude": 27.49819
     },
     {
-        "cityId": "8631959",
+        "cityId": 8631959,
         "name": "Dalaman",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.81691,
         "longitude": 28.87815
     },
     {
-        "cityId": "8631960",
+        "cityId": 8631960,
         "name": "Ortaca \u0130l\u00e7esi",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.8389,
         "longitude": 28.7773
     },
     {
-        "cityId": "8631961",
+        "cityId": 8631961,
         "name": "K\u00f6yce\u011fiz \u0130l\u00e7esi",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.97798,
         "longitude": 28.72418
     },
     {
-        "cityId": "8631962",
+        "cityId": 8631962,
         "name": "Ula \u0130l\u00e7esi",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.11514,
         "longitude": 28.42732
     },
     {
-        "cityId": "8631963",
+        "cityId": 8631963,
         "name": "Dat\u00e7a \u0130l\u00e7esi",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.76885,
         "longitude": 27.66295
     },
     {
-        "cityId": "8632389",
+        "cityId": 8632389,
         "name": "Milas \u0130l\u00e7esi",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.32699,
         "longitude": 27.7952
     },
     {
-        "cityId": "9548757",
+        "cityId": 9548757,
         "name": "Seydikemer",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 36.64308,
         "longitude": 29.34929
     },
     {
-        "cityId": "9548851",
+        "cityId": 9548851,
         "name": "Mente\u015fe",
-        "stateId": "304183",
+        "stateId": 304183,
         "latitude": 37.21447,
         "longitude": 28.36168
     }

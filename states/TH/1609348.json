@@ -1,351 +1,351 @@
 [
     {
-        "cityId": "1605401",
+        "cityId": 1605401,
         "name": "Thon buri",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.71874,
         "longitude": 100.48367
     },
     {
-        "cityId": "1605842",
+        "cityId": 1605842,
         "name": "Taling Chan",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.77271,
         "longitude": 100.43289
     },
     {
-        "cityId": "1606639",
+        "cityId": 1606639,
         "name": "Samphanthawong",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.74233,
         "longitude": 100.50765
     },
     {
-        "cityId": "1607054",
+        "cityId": 1607054,
         "name": "Rat Burana",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.67633,
         "longitude": 100.49881
     },
     {
-        "cityId": "1607326",
+        "cityId": 1607326,
         "name": "Pom Prap Sattru Phai",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.7548,
         "longitude": 100.50995
     },
     {
-        "cityId": "1607533",
+        "cityId": 1607533,
         "name": "Phra Nakhon",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.75831,
         "longitude": 100.49613
     },
     {
-        "cityId": "1607541",
+        "cityId": 1607541,
         "name": "Phra Khanong",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.69705,
         "longitude": 100.61234
     },
     {
-        "cityId": "1607755",
+        "cityId": 1607755,
         "name": "Phaya Thai",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.78442,
         "longitude": 100.54306
     },
     {
-        "cityId": "1607781",
+        "cityId": 1607781,
         "name": "Phasi Charoen",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.72597,
         "longitude": 100.44103
     },
     {
-        "cityId": "1607981",
+        "cityId": 1607981,
         "name": "Parthum Wan",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.74265,
         "longitude": 100.53398
     },
     {
-        "cityId": "1608235",
+        "cityId": 1608235,
         "name": "Nong Khaem",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.69979,
         "longitude": 100.35364
     },
     {
-        "cityId": "1608257",
+        "cityId": 1608257,
         "name": "Nong Chok",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.8528,
         "longitude": 100.85788
     },
     {
-        "cityId": "1608717",
+        "cityId": 1608717,
         "name": "Min Buri",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.81254,
         "longitude": 100.75334
     },
     {
-        "cityId": "1609127",
+        "cityId": 1609127,
         "name": "Lat Krabang",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.745,
         "longitude": 100.79224
     },
     {
-        "cityId": "1609867",
+        "cityId": 1609867,
         "name": "Khlong Toei",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.71806,
         "longitude": 100.57065
     },
     {
-        "cityId": "1609878",
+        "cityId": 1609878,
         "name": "Khlong San",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.72602,
         "longitude": 100.50071
     },
     {
-        "cityId": "1610857",
+        "cityId": 1610857,
         "name": "Dusit",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.78235,
         "longitude": 100.51677
     },
     {
-        "cityId": "1612947",
+        "cityId": 1612947,
         "name": "Bang Khae",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.71927,
         "longitude": 100.39278
     },
     {
-        "cityId": "1619230",
+        "cityId": 1619230,
         "name": "Bang Sue",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.81921,
         "longitude": 100.5279
     },
     {
-        "cityId": "1619277",
+        "cityId": 1619277,
         "name": "Bang Rak",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.73058,
         "longitude": 100.52388
     },
     {
-        "cityId": "1619456",
+        "cityId": 1619456,
         "name": "Bangkok Yai",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.73748,
         "longitude": 100.47428
     },
     {
-        "cityId": "1619459",
+        "cityId": 1619459,
         "name": "Bangkok Noi",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.76551,
         "longitude": 100.46988
     },
     {
-        "cityId": "1619484",
+        "cityId": 1619484,
         "name": "Bang Khun thain",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.59482,
         "longitude": 100.42694
     },
     {
-        "cityId": "1619505",
+        "cityId": 1619505,
         "name": "Bang Khen",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.86901,
         "longitude": 100.62769
     },
     {
-        "cityId": "1619530",
+        "cityId": 1619530,
         "name": "Bang Kapi",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.77258,
         "longitude": 100.63847
     },
     {
-        "cityId": "1619792",
+        "cityId": 1619792,
         "name": "Don Mueang",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.92601,
         "longitude": 100.59365
     },
     {
-        "cityId": "6698709",
+        "cityId": 6698709,
         "name": "Yan na wa",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.69177,
         "longitude": 100.5395
     },
     {
-        "cityId": "6845022",
+        "cityId": 6845022,
         "name": "Ratchathewi",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.76029,
         "longitude": 100.53724
     },
     {
-        "cityId": "6845107",
+        "cityId": 6845107,
         "name": "Din Daeng",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.77728,
         "longitude": 100.56235
     },
     {
-        "cityId": "6845108",
+        "cityId": 6845108,
         "name": "Saphan Sung",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.76531,
         "longitude": 100.69001
     },
     {
-        "cityId": "6845149",
+        "cityId": 6845149,
         "name": "Huai Khwang",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.7706,
         "longitude": 100.58119
     },
     {
-        "cityId": "6845216",
+        "cityId": 6845216,
         "name": "Bueng Kum",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.81023,
         "longitude": 100.6514
     },
     {
-        "cityId": "6845218",
+        "cityId": 6845218,
         "name": "Wang Thong Lang",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.78188,
         "longitude": 100.60804
     },
     {
-        "cityId": "6845259",
+        "cityId": 6845259,
         "name": "Bang Phlat",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.78668,
         "longitude": 100.49152
     },
     {
-        "cityId": "6845305",
+        "cityId": 6845305,
         "name": "Lat Phrao",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.82779,
         "longitude": 100.60672
     },
     {
-        "cityId": "6845386",
+        "cityId": 6845386,
         "name": "Khan Na Yao",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.8238,
         "longitude": 100.67649
     },
     {
-        "cityId": "6845423",
+        "cityId": 6845423,
         "name": "Khlong Sam Wa",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.87633,
         "longitude": 100.73805
     },
     {
-        "cityId": "6845541",
+        "cityId": 6845541,
         "name": "Lak Si",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.8821,
         "longitude": 100.56889
     },
     {
-        "cityId": "6845605",
+        "cityId": 6845605,
         "name": "Chatu Chak",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.82888,
         "longitude": 100.56374
     },
     {
-        "cityId": "6845608",
+        "cityId": 6845608,
         "name": "Sai Mai",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.90727,
         "longitude": 100.65181
     },
     {
-        "cityId": "6865728",
+        "cityId": 6865728,
         "name": "Thawi Watthana",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.77637,
         "longitude": 100.3662
     },
     {
-        "cityId": "6908219",
+        "cityId": 6908219,
         "name": "Thung khru",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.63387,
         "longitude": 100.49641
     },
     {
-        "cityId": "6908403",
+        "cityId": 6908403,
         "name": "Bang Na",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.67252,
         "longitude": 100.62089
     },
     {
-        "cityId": "6908544",
+        "cityId": 6908544,
         "name": "Bang Kho laen",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.70025,
         "longitude": 100.50971
     },
     {
-        "cityId": "6908643",
+        "cityId": 6908643,
         "name": "Sathon",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.71745,
         "longitude": 100.52999
     },
     {
-        "cityId": "6908736",
+        "cityId": 6908736,
         "name": "Pra Wet",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.71735,
         "longitude": 100.69452
     },
     {
-        "cityId": "6908860",
+        "cityId": 6908860,
         "name": "Vadhana",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.73501,
         "longitude": 100.5828
     },
     {
-        "cityId": "6908863",
+        "cityId": 6908863,
         "name": "Suanluang",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.72989,
         "longitude": 100.62677
     },
     {
-        "cityId": "6958161",
+        "cityId": 6958161,
         "name": "Chom Thong",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.6891,
         "longitude": 100.46175
     },
     {
-        "cityId": "7025981",
+        "cityId": 7025981,
         "name": "Bang Bon",
-        "stateId": "1609348",
+        "stateId": 1609348,
         "latitude": 13.6592,
         "longitude": 100.38801
     }

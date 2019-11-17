@@ -1,449 +1,449 @@
 [
     {
-        "cityId": "5411363",
+        "cityId": 5411363,
         "name": "Adams County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.87363,
         "longitude": -104.33791
     },
     {
-        "cityId": "5412056",
+        "cityId": 5412056,
         "name": "Arapahoe County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.64977,
         "longitude": -104.33924
     },
     {
-        "cityId": "5412082",
+        "cityId": 5412082,
         "name": "Archuleta County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.1936,
         "longitude": -107.04833
     },
     {
-        "cityId": "5412453",
+        "cityId": 5412453,
         "name": "Baca County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.31918,
         "longitude": -102.56047
     },
     {
-        "cityId": "5413481",
+        "cityId": 5413481,
         "name": "Bent County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.95509,
         "longitude": -103.0717
     },
     {
-        "cityId": "5415040",
+        "cityId": 5415040,
         "name": "Broomfield County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.95413,
         "longitude": -105.05266
     },
     {
-        "cityId": "5416621",
+        "cityId": 5416621,
         "name": "Chaffee County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.7469,
         "longitude": -106.19407
     },
     {
-        "cityId": "5416840",
+        "cityId": 5416840,
         "name": "Cheyenne County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.82794,
         "longitude": -102.6034
     },
     {
-        "cityId": "5417183",
+        "cityId": 5417183,
         "name": "Clear Creek County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.6891,
         "longitude": -105.64436
     },
     {
-        "cityId": "5417799",
+        "cityId": 5417799,
         "name": "Conejos County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.2007,
         "longitude": -106.19163
     },
     {
-        "cityId": "5418130",
+        "cityId": 5418130,
         "name": "Costilla County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.2781,
         "longitude": -105.42827
     },
     {
-        "cityId": "5418687",
+        "cityId": 5418687,
         "name": "Crowley County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.32666,
         "longitude": -103.78483
     },
     {
-        "cityId": "5418854",
+        "cityId": 5418854,
         "name": "Custer County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.10868,
         "longitude": -105.36747
     },
     {
-        "cityId": "5419338",
+        "cityId": 5419338,
         "name": "Delta County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.86137,
         "longitude": -107.86288
     },
     {
-        "cityId": "5419396",
+        "cityId": 5419396,
         "name": "Denver County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.76204,
         "longitude": -104.87635
     },
     {
-        "cityId": "5419761",
+        "cityId": 5419761,
         "name": "Dolores County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.7516,
         "longitude": -108.51722
     },
     {
-        "cityId": "5419891",
+        "cityId": 5419891,
         "name": "Douglas County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.32972,
         "longitude": -104.92956
     },
     {
-        "cityId": "5420332",
+        "cityId": 5420332,
         "name": "Eagle County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.62783,
         "longitude": -106.6953
     },
     {
-        "cityId": "5420926",
+        "cityId": 5420926,
         "name": "El Paso County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.83209,
         "longitude": -104.52558
     },
     {
-        "cityId": "5420936",
+        "cityId": 5420936,
         "name": "Elbert County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.28656,
         "longitude": -104.13589
     },
     {
-        "cityId": "5422448",
+        "cityId": 5422448,
         "name": "Fremont County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.47297,
         "longitude": -105.43966
     },
     {
-        "cityId": "5422751",
+        "cityId": 5422751,
         "name": "Garfield County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.59931,
         "longitude": -107.90395
     },
     {
-        "cityId": "5422987",
+        "cityId": 5422987,
         "name": "Gilpin County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.85756,
         "longitude": -105.52253
     },
     {
-        "cityId": "5424092",
+        "cityId": 5424092,
         "name": "Gunnison County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.6668,
         "longitude": -107.0317
     },
     {
-        "cityId": "5425136",
+        "cityId": 5425136,
         "name": "Hinsdale County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.82134,
         "longitude": -107.30031
     },
     {
-        "cityId": "5425737",
+        "cityId": 5425737,
         "name": "Huerfano County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.68468,
         "longitude": -104.96058
     },
     {
-        "cityId": "5426503",
+        "cityId": 5426503,
         "name": "Jefferson County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.58642,
         "longitude": -105.25047
     },
     {
-        "cityId": "5427500",
+        "cityId": 5427500,
         "name": "Kiowa County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.43269,
         "longitude": -102.74034
     },
     {
-        "cityId": "5427526",
+        "cityId": 5427526,
         "name": "Kit Carson County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.30544,
         "longitude": -102.60289
     },
     {
-        "cityId": "5427717",
+        "cityId": 5427717,
         "name": "La Plata County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.28656,
         "longitude": -107.84334
     },
     {
-        "cityId": "5427799",
+        "cityId": 5427799,
         "name": "Lake County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.20238,
         "longitude": -106.34484
     },
     {
-        "cityId": "5428059",
+        "cityId": 5428059,
         "name": "Las Animas County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.31585,
         "longitude": -104.03872
     },
     {
-        "cityId": "5428518",
+        "cityId": 5428518,
         "name": "Lincoln County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.98807,
         "longitude": -103.51397
     },
     {
-        "cityId": "5430806",
+        "cityId": 5430806,
         "name": "Mesa County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.01828,
         "longitude": -108.46645
     },
     {
-        "cityId": "5431333",
+        "cityId": 5431333,
         "name": "Mineral County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.669,
         "longitude": -106.92409
     },
     {
-        "cityId": "5431680",
+        "cityId": 5431680,
         "name": "Montezuma County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.33841,
         "longitude": -108.59671
     },
     {
-        "cityId": "5431716",
+        "cityId": 5431716,
         "name": "Montrose County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.40218,
         "longitude": -108.26936
     },
     {
-        "cityId": "5433658",
+        "cityId": 5433658,
         "name": "Otero County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.9027,
         "longitude": -103.71645
     },
     {
-        "cityId": "5433677",
+        "cityId": 5433677,
         "name": "Ouray County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.1555,
         "longitude": -107.76932
     },
     {
-        "cityId": "5433959",
+        "cityId": 5433959,
         "name": "Park County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.1193,
         "longitude": -105.71717
     },
     {
-        "cityId": "5434773",
+        "cityId": 5434773,
         "name": "Pitkin County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.21711,
         "longitude": -106.91658
     },
     {
-        "cityId": "5435436",
+        "cityId": 5435436,
         "name": "Prowers County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.95518,
         "longitude": -102.39335
     },
     {
-        "cityId": "5435465",
+        "cityId": 5435465,
         "name": "Pueblo County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.17342,
         "longitude": -104.51285
     },
     {
-        "cityId": "5436472",
+        "cityId": 5436472,
         "name": "Rio Blanco County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.97984,
         "longitude": -108.21721
     },
     {
-        "cityId": "5436477",
+        "cityId": 5436477,
         "name": "Rio Grande County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.58252,
         "longitude": -106.38321
     },
     {
-        "cityId": "5437350",
+        "cityId": 5437350,
         "name": "Saguache County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.08055,
         "longitude": -106.28156
     },
     {
-        "cityId": "5437668",
+        "cityId": 5437668,
         "name": "San Juan County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.76404,
         "longitude": -107.67615
     },
     {
-        "cityId": "5437707",
+        "cityId": 5437707,
         "name": "San Miguel County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.00374,
         "longitude": -108.40583
     },
     {
-        "cityId": "5440680",
+        "cityId": 5440680,
         "name": "Summit County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.63417,
         "longitude": -106.11638
     },
     {
-        "cityId": "5441188",
+        "cityId": 5441188,
         "name": "Teller County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 38.88217,
         "longitude": -105.16183
     },
     {
-        "cityId": "5443305",
+        "cityId": 5443305,
         "name": "Washington County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 39.97106,
         "longitude": -103.20125
     },
     {
-        "cityId": "5444907",
+        "cityId": 5444907,
         "name": "Yuma County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.0029,
         "longitude": -102.42423
     },
     {
-        "cityId": "5550375",
+        "cityId": 5550375,
         "name": "Alamosa County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 37.57289,
         "longitude": -105.78829
     },
     {
-        "cityId": "5574999",
+        "cityId": 5574999,
         "name": "Boulder County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.09246,
         "longitude": -105.3577
     },
     {
-        "cityId": "5577529",
+        "cityId": 5577529,
         "name": "Grand County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.10261,
         "longitude": -106.11836
     },
     {
-        "cityId": "5578418",
+        "cityId": 5578418,
         "name": "Jackson County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.66643,
         "longitude": -106.34279
     },
     {
-        "cityId": "5578884",
+        "cityId": 5578884,
         "name": "Larimer County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.66641,
         "longitude": -105.46116
     },
     {
-        "cityId": "5579185",
+        "cityId": 5579185,
         "name": "Logan County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.72468,
         "longitude": -103.1101
     },
     {
-        "cityId": "5579973",
+        "cityId": 5579973,
         "name": "Moffat County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.61843,
         "longitude": -108.2073
     },
     {
-        "cityId": "5580055",
+        "cityId": 5580055,
         "name": "Morgan County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.26271,
         "longitude": -103.80982
     },
     {
-        "cityId": "5580855",
+        "cityId": 5580855,
         "name": "Phillips County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.59388,
         "longitude": -102.35758
     },
     {
-        "cityId": "5581553",
+        "cityId": 5581553,
         "name": "Routt County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.48507,
         "longitude": -106.99119
     },
     {
-        "cityId": "5581788",
+        "cityId": 5581788,
         "name": "Sedgwick County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.87591,
         "longitude": -102.35179
     },
     {
-        "cityId": "5583239",
+        "cityId": 5583239,
         "name": "Weld County",
-        "stateId": "5417618",
+        "stateId": 5417618,
         "latitude": 40.55484,
         "longitude": -104.39253
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2441629",
+        "cityId": 2441629,
         "name": "D\u00e9partement de Loga",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 13.63333,
         "longitude": 3.5
     },
     {
-        "cityId": "2444487",
+        "cityId": 2444487,
         "name": "D\u00e9partement de Gaya",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 12.4,
         "longitude": 3.6
     },
     {
-        "cityId": "2445487",
+        "cityId": 2445487,
         "name": "D\u00e9partement de Dosso",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 12.83333,
         "longitude": 3.33333
     },
     {
-        "cityId": "2445552",
+        "cityId": 2445552,
         "name": "D\u00e9partement de Dogondoutchi",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 13.5,
         "longitude": 4
     },
     {
-        "cityId": "2446715",
+        "cityId": 2446715,
         "name": "D\u00e9partement du Boboye",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 13,
         "longitude": 2.86667
     },
     {
-        "cityId": "11204211",
+        "cityId": 11204211,
         "name": "Boboye Department",
-        "stateId": "2445486",
+        "stateId": 2445486,
         "latitude": 13.08167,
         "longitude": 2.91083
     }

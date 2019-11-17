@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3659851",
+        "cityId": 3659851,
         "name": "Cant\u00f3n Ca\u00f1ar",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.55,
         "longitude": -78.93333
     },
     {
-        "cityId": "3660210",
+        "cityId": 3660210,
         "name": "Cant\u00f3n Bibli\u00e1n",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.70472,
         "longitude": -78.90518
     },
     {
-        "cityId": "3660433",
+        "cityId": 3660433,
         "name": "Cant\u00f3n Azogues",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.73333,
         "longitude": -78.81667
     },
     {
-        "cityId": "9155281",
+        "cityId": 9155281,
         "name": "Canton El Tambo",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.5081,
         "longitude": -78.9249
     },
     {
-        "cityId": "10792503",
+        "cityId": 10792503,
         "name": "La Troncal",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.44396,
         "longitude": -79.37937
     },
     {
-        "cityId": "10792504",
+        "cityId": 10792504,
         "name": "D\u00e9leg",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.77151,
         "longitude": -78.93276
     },
     {
-        "cityId": "10792505",
+        "cityId": 10792505,
         "name": "Suscal",
-        "stateId": "3659849",
+        "stateId": 3659849,
         "latitude": -2.44012,
         "longitude": -79.05144
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3712399",
+        "cityId": 3712399,
         "name": "Distrito Chiriqu\u00ed Grande",
-        "stateId": "3713954",
+        "stateId": 3713954,
         "latitude": 8.94748,
         "longitude": -82.12418
     },
     {
-        "cityId": "3712558",
+        "cityId": 3712558,
         "name": "Distrito de Changuinola",
-        "stateId": "3713954",
+        "stateId": 3713954,
         "latitude": 9.25,
         "longitude": -82.63333
     },
     {
-        "cityId": "3713955",
+        "cityId": 3713955,
         "name": "Distrito de Bocas del Toro",
-        "stateId": "3713954",
+        "stateId": 3713954,
         "latitude": 9.36235,
         "longitude": -82.26288
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7522477",
+        "cityId": 7522477,
         "name": "Viljandi linn",
-        "stateId": "587590",
+        "stateId": 587590,
         "latitude": 58.35631,
         "longitude": 25.59368
     },
     {
-        "cityId": "11054708",
+        "cityId": 11054708,
         "name": "Viljandi vald",
-        "stateId": "587590",
+        "stateId": 587590,
         "latitude": 58.36392,
         "longitude": 25.49103
     },
     {
-        "cityId": "11776869",
+        "cityId": 11776869,
         "name": "Mulgi vald",
-        "stateId": "587590",
+        "stateId": 587590,
         "latitude": 58.12823,
         "longitude": 25.42437
     },
     {
-        "cityId": "11776882",
+        "cityId": 11776882,
         "name": "P\u00f5hja-Sakala vald",
-        "stateId": "587590",
+        "stateId": 587590,
         "latitude": 58.48547,
         "longitude": 25.38037
     }

@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3616075",
+        "cityId": 3616075,
         "name": "Municipio de Terrabona",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.71667,
         "longitude": -85.88333
     },
     {
-        "cityId": "3616310",
+        "cityId": 3616310,
         "name": "Municipio de S\u00e9baco",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.93333,
         "longitude": -86.05
     },
     {
-        "cityId": "3616581",
+        "cityId": 3616581,
         "name": "Municipio de San Ram\u00f3n",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.96667,
         "longitude": -85.66667
     },
     {
-        "cityId": "3616814",
+        "cityId": 3616814,
         "name": "Municipio de San Isidro",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.91667,
         "longitude": -86.16667
     },
     {
-        "cityId": "3616887",
+        "cityId": 3616887,
         "name": "Municipio de San Dionisio",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.75,
         "longitude": -85.83333
     },
     {
-        "cityId": "3617068",
+        "cityId": 3617068,
         "name": "Municipio de R\u00edo Blanco",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.91667,
         "longitude": -85.25
     },
     {
-        "cityId": "3617531",
+        "cityId": 3617531,
         "name": "Municipio de Muy Muy",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.78333,
         "longitude": -85.56667
     },
     {
-        "cityId": "3617693",
+        "cityId": 3617693,
         "name": "Municipio de Matigu\u00e1s",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.91667,
         "longitude": -85.33333
     },
     {
-        "cityId": "3617706",
+        "cityId": 3617706,
         "name": "Municipio de Matagalpa",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 13.16667,
         "longitude": -85.63333
     },
     {
-        "cityId": "3619201",
+        "cityId": 3619201,
         "name": "Municipio de Esquipulas",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.7,
         "longitude": -85.73333
     },
     {
-        "cityId": "3620349",
+        "cityId": 3620349,
         "name": "Municipio de Ciudad Dar\u00edo",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 12.71667,
         "longitude": -86.08333
     },
     {
-        "cityId": "8335431",
+        "cityId": 8335431,
         "name": "Municipio de Rancho Grande",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 13.26044,
         "longitude": -85.57295
     },
     {
-        "cityId": "8335432",
+        "cityId": 8335432,
         "name": "Municipio del Tuma-La Dalia",
-        "stateId": "3617707",
+        "stateId": 3617707,
         "latitude": 13.04415,
         "longitude": -85.74872
     }

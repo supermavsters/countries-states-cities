@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "2274273",
+        "cityId": 2274273,
         "name": "Rock Cess",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.55,
         "longitude": -9.66667
     },
     {
-        "cityId": "2277365",
+        "cityId": 2277365,
         "name": "Mowe",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.91667,
         "longitude": -9.41667
     },
     {
-        "cityId": "9645144",
+        "cityId": 9645144,
         "name": "Doedain District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 6.26194,
         "longitude": -9.24521
     },
     {
-        "cityId": "9645145",
+        "cityId": 9645145,
         "name": "Jo River District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 6.04958,
         "longitude": -9.4537
     },
     {
-        "cityId": "9645146",
+        "cityId": 9645146,
         "name": "Norwein District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.85079,
         "longitude": -9.59915
     },
     {
-        "cityId": "9645147",
+        "cityId": 9645147,
         "name": "Central River Cess District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.81006,
         "longitude": -9.31794
     },
     {
-        "cityId": "9645148",
+        "cityId": 9645148,
         "name": "Fen River District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.61806,
         "longitude": -9.64473
     },
     {
-        "cityId": "9645149",
+        "cityId": 9645149,
         "name": "Zarflahn District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.55697,
         "longitude": -9.55358
     },
     {
-        "cityId": "9645150",
+        "cityId": 9645150,
         "name": "Beawor District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.57346,
         "longitude": -9.31309
     },
     {
-        "cityId": "9645151",
+        "cityId": 9645151,
         "name": "Sam Gbalor District",
-        "stateId": "2588492",
+        "stateId": 2588492,
         "latitude": 5.40861,
         "longitude": -9.4217
     }

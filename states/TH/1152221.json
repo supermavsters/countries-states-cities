@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1150609",
+        "cityId": 1150609,
         "name": "Amphoe Sop Moei",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 17.96333,
         "longitude": 97.93149
     },
     {
-        "cityId": "1151600",
+        "cityId": 1151600,
         "name": "Amphoe Pai",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 19.36036,
         "longitude": 98.40638
     },
     {
-        "cityId": "1151989",
+        "cityId": 1151989,
         "name": "Amphoe Mueang Mae Hong Son",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 19.28862,
         "longitude": 98.00607
     },
     {
-        "cityId": "1152189",
+        "cityId": 1152189,
         "name": "Amphoe Mae Sariang",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 18.26474,
         "longitude": 97.77057
     },
     {
-        "cityId": "1152764",
+        "cityId": 1152764,
         "name": "Amphoe Khun Yuam",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 18.82643,
         "longitude": 97.93303
     },
     {
-        "cityId": "8304597",
+        "cityId": 8304597,
         "name": "Amphoe Pang Mapha",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 19.60451,
         "longitude": 98.2056
     },
     {
-        "cityId": "8308746",
+        "cityId": 8308746,
         "name": "Amphoe Mae La Noi",
-        "stateId": "1152221",
+        "stateId": 1152221,
         "latitude": 18.47823,
         "longitude": 97.98295
     }

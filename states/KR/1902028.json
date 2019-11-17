@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1832824",
+        "cityId": 1832824,
         "name": "Yangsan-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.39866,
         "longitude": 129.03612
     },
     {
-        "cityId": "1833782",
+        "cityId": 1833782,
         "name": "Uiryeong-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.3923,
         "longitude": 128.26917
     },
     {
-        "cityId": "1837894",
+        "cityId": 1837894,
         "name": "Sancheong-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.36625,
         "longitude": 127.87065
     },
     {
-        "cityId": "1840450",
+        "cityId": 1840450,
         "name": "Namhae-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 34.80433,
         "longitude": 127.92708
     },
     {
-        "cityId": "1841147",
+        "cityId": 1841147,
         "name": "Miryang-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.4975,
         "longitude": 128.7869
     },
     {
-        "cityId": "1842515",
+        "cityId": 1842515,
         "name": "Goseong-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.01478,
         "longitude": 128.28244
     },
     {
-        "cityId": "1842752",
+        "cityId": 1842752,
         "name": "Geoje-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 34.9,
         "longitude": 128.66666
     },
     {
-        "cityId": "1842853",
+        "cityId": 1842853,
         "name": "Geochang-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.73034,
         "longitude": 127.90149
     },
     {
-        "cityId": "1842942",
+        "cityId": 1842942,
         "name": "Gimhae-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.25,
         "longitude": 128.86667
     },
     {
-        "cityId": "1844410",
+        "cityId": 1844410,
         "name": "Hapcheon-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.5741,
         "longitude": 128.13841
     },
     {
-        "cityId": "1844532",
+        "cityId": 1844532,
         "name": "Hamyang-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.55233,
         "longitude": 127.71196
     },
     {
-        "cityId": "1844557",
+        "cityId": 1844557,
         "name": "Haman-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.29117,
         "longitude": 128.4297
     },
     {
-        "cityId": "1844784",
+        "cityId": 1844784,
         "name": "Hadong-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.13628,
         "longitude": 127.77291
     },
     {
-        "cityId": "1845017",
+        "cityId": 1845017,
         "name": "Tongyeong-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 34.8736,
         "longitude": 128.39709
     },
     {
-        "cityId": "1846050",
+        "cityId": 1846050,
         "name": "Jinju-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.20445,
         "longitude": 128.12408
     },
     {
-        "cityId": "1846322",
+        "cityId": 1846322,
         "name": "Changwon-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.27533,
         "longitude": 128.65152
     },
     {
-        "cityId": "1846444",
+        "cityId": 1846444,
         "name": "Changnyeong-gun",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.50822,
         "longitude": 128.4902
     },
     {
-        "cityId": "8604736",
+        "cityId": 8604736,
         "name": "Sacheon-si",
-        "stateId": "1902028",
+        "stateId": 1902028,
         "latitude": 35.00385,
         "longitude": 128.06857
     }

@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "1905035",
+        "cityId": 1905035,
         "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.95482,
         "longitude": 105.76851
     },
     {
-        "cityId": "1905036",
+        "cityId": 1905036,
         "name": "Th\u1ecb X\u00e3 S\u01a1n T\u00e2y",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.09712,
         "longitude": 105.47439
     },
     {
-        "cityId": "1905037",
+        "cityId": 1905037,
         "name": "Huy\u1ec7n Thanh Oai",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.85808,
         "longitude": 105.7845
     },
     {
-        "cityId": "1905038",
+        "cityId": 1905038,
         "name": "Huy\u1ec7n Ch\u01b0\u01a1ng M\u1ef9",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.88305,
         "longitude": 105.66134
     },
     {
-        "cityId": "1905039",
+        "cityId": 1905039,
         "name": "Huy\u1ec7n Ho\u00e0i \u0110\u1ee9c",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.02014,
         "longitude": 105.7017
     },
     {
-        "cityId": "1905040",
+        "cityId": 1905040,
         "name": "Huy\u1ec7n Qu\u1ed1c Oai",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.9706,
         "longitude": 105.61127
     },
     {
-        "cityId": "1905041",
+        "cityId": 1905041,
         "name": "Huy\u1ec7n Th\u1ea1ch Th\u1ea5t",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.03046,
         "longitude": 105.56925
     },
     {
-        "cityId": "1905042",
+        "cityId": 1905042,
         "name": "Huy\u1ec7n \u0110an Ph\u01b0\u1ee3ng",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.11525,
         "longitude": 105.6756
     },
     {
-        "cityId": "1905043",
+        "cityId": 1905043,
         "name": "Huy\u1ec7n Ph\u00fac Th\u1ecd",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.12549,
         "longitude": 105.58989
     },
     {
-        "cityId": "1905044",
+        "cityId": 1905044,
         "name": "Huy\u1ec7n Ba V\u00ec",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.14987,
         "longitude": 105.37177
     },
     {
-        "cityId": "1905045",
+        "cityId": 1905045,
         "name": "Huy\u1ec7n Th\u01b0\u1eddng T\u00edn",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.84537,
         "longitude": 105.87279
     },
     {
-        "cityId": "1905046",
+        "cityId": 1905046,
         "name": "Huy\u1ec7n Ph\u00fa Xuy\u00ean",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.7263,
         "longitude": 105.91405
     },
     {
-        "cityId": "1905047",
+        "cityId": 1905047,
         "name": "Huy\u1ec7n \u1ee8ng H\u00f2a",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.70867,
         "longitude": 105.80924
     },
     {
-        "cityId": "1905048",
+        "cityId": 1905048,
         "name": "Huy\u1ec7n M\u1ef9 \u0110\u1ee9c",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.67916,
         "longitude": 105.71429
     },
     {
-        "cityId": "1905121",
+        "cityId": 1905121,
         "name": "Qu\u1eadn Ba \u0110\u00ecnh",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.03587,
         "longitude": 105.82163
     },
     {
-        "cityId": "1905122",
+        "cityId": 1905122,
         "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.02744,
         "longitude": 105.79026
     },
     {
-        "cityId": "1905123",
+        "cityId": 1905123,
         "name": "Huy\u1ec7n \u0110\u00f4ng Anh",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.13519,
         "longitude": 105.8423
     },
     {
-        "cityId": "1905124",
+        "cityId": 1905124,
         "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.01348,
         "longitude": 105.82679
     },
     {
-        "cityId": "1905125",
+        "cityId": 1905125,
         "name": "Huy\u1ec7n Gia L\u00e2m",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.03156,
         "longitude": 105.97432
     },
     {
-        "cityId": "1905126",
+        "cityId": 1905126,
         "name": "Qu\u1eadn Hai B\u00e0Tr\u01b0ng",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.00626,
         "longitude": 105.85537
     },
     {
-        "cityId": "1905127",
+        "cityId": 1905127,
         "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.02813,
         "longitude": 105.85358
     },
     {
-        "cityId": "1905128",
+        "cityId": 1905128,
         "name": "Huy\u1ec7n S\u00f3c S\u01a1n",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.27098,
         "longitude": 105.82976
     },
     {
-        "cityId": "1905129",
+        "cityId": 1905129,
         "name": "Qu\u1eadn T\u00e2y H\u1ed3",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.06632,
         "longitude": 105.81972
     },
     {
-        "cityId": "1905131",
+        "cityId": 1905131,
         "name": "Huy\u1ec7n Thanh Tr\u00ec",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.92925,
         "longitude": 105.83584
     },
     {
-        "cityId": "1905132",
+        "cityId": 1905132,
         "name": "Qu\u1eadn Thanh Xu\u00e2n",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.99548,
         "longitude": 105.8128
     },
     {
-        "cityId": "1905573",
+        "cityId": 1905573,
         "name": "Huy\u1ec7n M\u00ea Linh",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.18245,
         "longitude": 105.7114
     },
     {
-        "cityId": "8615793",
+        "cityId": 8615793,
         "name": "Qu\u1eadn Long Bi\u00ean",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.04144,
         "longitude": 105.8962
     },
     {
-        "cityId": "8615794",
+        "cityId": 8615794,
         "name": "Qu\u1eadn Ho\u00e0ng Mai",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 20.97522,
         "longitude": 105.85814
     },
     {
-        "cityId": "11497308",
+        "cityId": 11497308,
         "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.0364,
         "longitude": 105.76324
     },
     {
-        "cityId": "11497491",
+        "cityId": 11497491,
         "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam",
-        "stateId": "1581129",
+        "stateId": 1581129,
         "latitude": 21.0369,
         "longitude": 105.83564
     }

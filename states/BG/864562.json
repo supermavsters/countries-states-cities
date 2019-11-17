@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "725904",
+        "cityId": 725904,
         "name": "Obshtina Vidin",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 44,
         "longitude": 22.83333
     },
     {
-        "cityId": "727494",
+        "cityId": 727494,
         "name": "Obshtina Ruzhintsi",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.65,
         "longitude": 22.9
     },
     {
-        "cityId": "728704",
+        "cityId": 728704,
         "name": "Obshtina Novo Selo",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 44.11667,
         "longitude": 22.83333
     },
     {
-        "cityId": "729400",
+        "cityId": 729400,
         "name": "Obshtina Makresh",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.78333,
         "longitude": 22.56667
     },
     {
-        "cityId": "729824",
+        "cityId": 729824,
         "name": "Obshtina Kula",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.9,
         "longitude": 22.56667
     },
     {
-        "cityId": "731054",
+        "cityId": 731054,
         "name": "Obshtina Gramada",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.83333,
         "longitude": 22.65
     },
     {
-        "cityId": "732252",
+        "cityId": 732252,
         "name": "Obshtina Dimovo",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.75,
         "longitude": 22.81667
     },
     {
-        "cityId": "732399",
+        "cityId": 732399,
         "name": "Obshtina Chuprene",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.5,
         "longitude": 22.71667
     },
     {
-        "cityId": "732914",
+        "cityId": 732914,
         "name": "Obshtina Bregovo",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 44.11667,
         "longitude": 22.7
     },
     {
-        "cityId": "732972",
+        "cityId": 732972,
         "name": "Obshtina Boynitsa",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 44,
         "longitude": 22.55
     },
     {
-        "cityId": "733308",
+        "cityId": 733308,
         "name": "Obshtina Belogradchik",
-        "stateId": "864562",
+        "stateId": 864562,
         "latitude": 43.65,
         "longitude": 22.6
     }

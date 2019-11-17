@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "10972271",
+        "cityId": 10972271,
         "name": "Al \u2018Aq\u012bq",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 20.4,
         "longitude": 41.66667
     },
     {
-        "cityId": "10972272",
+        "cityId": 10972272,
         "name": "Al B\u0101\u1e29ah",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 20.01667,
         "longitude": 41.43333
     },
     {
-        "cityId": "10972273",
+        "cityId": 10972273,
         "name": "Al Mandaq",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 20.18333,
         "longitude": 41.23333
     },
     {
-        "cityId": "10972274",
+        "cityId": 10972274,
         "name": "Al Mikhw\u0101h",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 19.7,
         "longitude": 41.36667
     },
     {
-        "cityId": "10972283",
+        "cityId": 10972283,
         "name": "Al Qur\u00e1",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 20.45,
         "longitude": 41.3
     },
     {
-        "cityId": "10972284",
+        "cityId": 10972284,
         "name": "Baljurash\u012b",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 19.98333,
         "longitude": 41.7
     },
     {
-        "cityId": "10972285",
+        "cityId": 10972285,
         "name": "Qilwah",
-        "stateId": "109954",
+        "stateId": 109954,
         "latitude": 20,
         "longitude": 41.08333
     }

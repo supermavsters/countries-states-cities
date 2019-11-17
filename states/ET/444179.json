@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7646394",
+        "cityId": 7646394,
         "name": "Pemba District",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 12.57,
         "longitude": 40.3
     },
     {
-        "cityId": "7732968",
+        "cityId": 7732968,
         "name": "Administrative Zone 3",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 10.00902,
         "longitude": 40.47394
     },
     {
-        "cityId": "8643576",
+        "cityId": 8643576,
         "name": "Administrative Zone 1",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 12,
         "longitude": 41.16667
     },
     {
-        "cityId": "8643583",
+        "cityId": 8643583,
         "name": "Administrative Zone 2",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 13.68513,
         "longitude": 40.05615
     },
     {
-        "cityId": "8643588",
+        "cityId": 8643588,
         "name": "Administrative Zone 4",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 12.33333,
         "longitude": 40.16667
     },
     {
-        "cityId": "8643592",
+        "cityId": 8643592,
         "name": "Administrative Zone 5",
-        "stateId": "444179",
+        "stateId": 444179,
         "latitude": 10.5,
         "longitude": 40.25
     }

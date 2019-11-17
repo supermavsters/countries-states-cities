@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3165770",
+        "cityId": 3165770,
         "name": "Provincia di Terni",
-        "stateId": "3165048",
+        "stateId": 3165048,
         "latitude": 42.68333,
         "longitude": 12.31667
     },
     {
-        "cityId": "3171179",
+        "cityId": 3171179,
         "name": "Provincia di Perugia",
-        "stateId": "3165048",
+        "stateId": 3165048,
         "latitude": 43.05,
         "longitude": 12.55
     }

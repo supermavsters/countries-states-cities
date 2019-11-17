@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2761530",
+        "cityId": 2761530,
         "name": "Politischer Bezirk Weiz",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.3,
         "longitude": 15.65
     },
     {
-        "cityId": "2762326",
+        "cityId": 2762326,
         "name": "Politischer Bezirk Voitsberg",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.05,
         "longitude": 15.1
     },
     {
-        "cityId": "2771016",
+        "cityId": 2771016,
         "name": "Politischer Bezirk Murau",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.13333,
         "longitude": 14.2
     },
     {
-        "cityId": "2772479",
+        "cityId": 2772479,
         "name": "Politischer Bezirk Liezen",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.53521,
         "longitude": 14.34314
     },
     {
-        "cityId": "2772648",
+        "cityId": 2772648,
         "name": "Politischer Bezirk Leoben",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.41667,
         "longitude": 14.91667
     },
     {
-        "cityId": "2772752",
+        "cityId": 2772752,
         "name": "Politischer Bezirk Leibnitz",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 46.79565,
         "longitude": 15.51849
     },
     {
-        "cityId": "2778057",
+        "cityId": 2778057,
         "name": "Politischer Bezirk Graz-Umgebung",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.1386,
         "longitude": 15.38823
     },
     {
-        "cityId": "2778058",
+        "cityId": 2778058,
         "name": "Graz Stadt",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.06667,
         "longitude": 15.43333
     },
     {
-        "cityId": "2781022",
+        "cityId": 2781022,
         "name": "Politischer Bezirk Deutschlandsberg",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 46.75,
         "longitude": 15.2
     },
     {
-        "cityId": "8604685",
+        "cityId": 8604685,
         "name": "Politischer Bezirk Murtal",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.16964,
         "longitude": 14.66469
     },
     {
-        "cityId": "8604686",
+        "cityId": 8604686,
         "name": "Politischer Bezirk Bruck-M\u00fcrzzuschlag",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.4188,
         "longitude": 15.27512
     },
     {
-        "cityId": "8604687",
+        "cityId": 8604687,
         "name": "Politischer Bezirk Hartberg-F\u00fcrstenfeld",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 47.27923,
         "longitude": 15.98373
     },
     {
-        "cityId": "8604689",
+        "cityId": 8604689,
         "name": "Politischer Bezirk S\u00fcdoststeiermark",
-        "stateId": "2764581",
+        "stateId": 2764581,
         "latitude": 46.94089,
         "longitude": 15.88623
     }

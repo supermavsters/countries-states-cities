@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7670612",
+        "cityId": 7670612,
         "name": "Commune of Rohero",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.3835,
         "longitude": 29.37194
     },
     {
-        "cityId": "7670922",
+        "cityId": 7670922,
         "name": "Buterere",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.338,
         "longitude": 29.337
     },
     {
-        "cityId": "7670925",
+        "cityId": 7670925,
         "name": "Kamenge",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.34449,
         "longitude": 29.38933
     },
     {
-        "cityId": "7670926",
+        "cityId": 7670926,
         "name": "Kinama",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.32515,
         "longitude": 29.39225
     },
     {
-        "cityId": "7670927",
+        "cityId": 7670927,
         "name": "Gihosha",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.35826,
         "longitude": 29.3929
     },
     {
-        "cityId": "7670928",
+        "cityId": 7670928,
         "name": "Musaga",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.41213,
         "longitude": 29.3759
     },
     {
-        "cityId": "8335224",
+        "cityId": 8335224,
         "name": "Ngagara",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.357,
         "longitude": 29.359
     },
     {
-        "cityId": "8335225",
+        "cityId": 8335225,
         "name": "Commune of Buyenzi",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.369,
         "longitude": 29.359
     },
     {
-        "cityId": "9171881",
+        "cityId": 9171881,
         "name": "Nyakabiga",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.37599,
         "longitude": 29.37983
     },
     {
-        "cityId": "9171883",
+        "cityId": 9171883,
         "name": "Bwiza",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.37257,
         "longitude": 29.36957
     },
     {
-        "cityId": "9171888",
+        "cityId": 9171888,
         "name": "Kanyosha",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.45512,
         "longitude": 29.35594
     },
     {
-        "cityId": "9171890",
+        "cityId": 9171890,
         "name": "Kinindo",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.40974,
         "longitude": 29.35366
     },
     {
-        "cityId": "11819935",
+        "cityId": 11819935,
         "name": "Cibitoke",
-        "stateId": "7303939",
+        "stateId": 7303939,
         "latitude": -3.34177,
         "longitude": 29.3701
     }

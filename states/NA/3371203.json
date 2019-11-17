@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11205493",
+        "cityId": 11205493,
         "name": "Epembe Constituency",
-        "stateId": "3371203",
+        "stateId": 3371203,
         "latitude": -17.76667,
         "longitude": 16.2
     },
     {
-        "cityId": "11205499",
+        "cityId": 11205499,
         "name": "Endola",
-        "stateId": "3371203",
+        "stateId": 3371203,
         "latitude": -17.6,
         "longitude": 15.71667
     },
     {
-        "cityId": "11238950",
+        "cityId": 11238950,
         "name": "Oshikango",
-        "stateId": "3371203",
+        "stateId": 3371203,
         "latitude": -17.42681,
         "longitude": 15.96228
     },
     {
-        "cityId": "11428769",
+        "cityId": 11428769,
         "name": "Omuthiyagwiipundi",
-        "stateId": "3371203",
+        "stateId": 3371203,
         "latitude": -17.7167,
         "longitude": 16.2167
     }

@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "691713",
+        "cityId": 691713,
         "name": "Teofipol\u2019s\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.80956,
         "longitude": 26.44227
     },
     {
-        "cityId": "703141",
+        "cityId": 703141,
         "name": "Letychivs\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.40777,
         "longitude": 27.56988
     },
     {
-        "cityId": "704483",
+        "cityId": 704483,
         "name": "Krasylivs\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.72158,
         "longitude": 26.87147
     },
     {
-        "cityId": "706375",
+        "cityId": 706375,
         "name": "Khmel\u2019nyts\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.44511,
         "longitude": 26.93268
     },
     {
-        "cityId": "707294",
+        "cityId": 707294,
         "name": "Izyaslavs\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 50.10205,
         "longitude": 26.70018
     },
     {
-        "cityId": "707751",
+        "cityId": 707751,
         "name": "Horodots\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.21652,
         "longitude": 26.48859
     },
     {
-        "cityId": "709432",
+        "cityId": 709432,
         "name": "Dunayevets\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 48.89812,
         "longitude": 26.84907
     },
     {
-        "cityId": "710128",
+        "cityId": 710128,
         "name": "Derazhnyans\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.22676,
         "longitude": 27.46603
     },
     {
-        "cityId": "710863",
+        "cityId": 710863,
         "name": "Chemerovets\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 48.96166,
         "longitude": 26.36319
     },
     {
-        "cityId": "712584",
+        "cityId": 712584,
         "name": "Bilohirs\u2019kyy Rayon",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 50.01955,
         "longitude": 26.36631
     },
     {
-        "cityId": "9532774",
+        "cityId": 9532774,
         "name": "Khmel\u2019nyts\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.41231,
         "longitude": 26.99744
     },
     {
-        "cityId": "9532860",
+        "cityId": 9532860,
         "name": "Slavuts\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 50.29856,
         "longitude": 26.87191
     },
     {
-        "cityId": "9532887",
+        "cityId": 9532887,
         "name": "Starokostyantynivs\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 49.7506,
         "longitude": 27.21574
     },
     {
-        "cityId": "9532888",
+        "cityId": 9532888,
         "name": "Shepetivs\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 50.18178,
         "longitude": 27.06412
     },
     {
-        "cityId": "9532892",
+        "cityId": 9532892,
         "name": "Kam\u201dyanets\u2019-Podil\u2019s\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 48.68913,
         "longitude": 26.58867
     },
     {
-        "cityId": "9532955",
+        "cityId": 9532955,
         "name": "Netishyns\u2019ka Mis\u2019krada",
-        "stateId": "706370",
+        "stateId": 706370,
         "latitude": 50.32917,
         "longitude": 26.63049
     }

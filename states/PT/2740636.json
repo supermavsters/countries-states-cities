@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "8010481",
+        "cityId": 8010481,
         "name": "Arganil",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.2353,
         "longitude": -7.9811
     },
     {
-        "cityId": "8010482",
+        "cityId": 8010482,
         "name": "Cantanhede",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.36354,
         "longitude": -8.60549
     },
     {
-        "cityId": "8010483",
+        "cityId": 8010483,
         "name": "Coimbra",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.21816,
         "longitude": -8.45369
     },
     {
-        "cityId": "8010484",
+        "cityId": 8010484,
         "name": "Condeixa-A-Nova",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.10639,
         "longitude": -8.49632
     },
     {
-        "cityId": "8010485",
+        "cityId": 8010485,
         "name": "Figueira da Foz",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.15825,
         "longitude": -8.80609
     },
     {
-        "cityId": "8010486",
+        "cityId": 8010486,
         "name": "G\u00f3is",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.12535,
         "longitude": -8.0834
     },
     {
-        "cityId": "8010487",
+        "cityId": 8010487,
         "name": "Lous\u00e3",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.14087,
         "longitude": -8.2405
     },
     {
-        "cityId": "8010488",
+        "cityId": 8010488,
         "name": "Mira",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.44559,
         "longitude": -8.73849
     },
     {
-        "cityId": "8010489",
+        "cityId": 8010489,
         "name": "Miranda do Corvo",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.1091,
         "longitude": -8.32678
     },
     {
-        "cityId": "8010490",
+        "cityId": 8010490,
         "name": "Montemor-O-Velho",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.19385,
         "longitude": -8.66696
     },
     {
-        "cityId": "8010491",
+        "cityId": 8010491,
         "name": "Oliveira do Hospital",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.35522,
         "longitude": -7.86481
     },
     {
-        "cityId": "8010492",
+        "cityId": 8010492,
         "name": "Pampilhosa da Serra",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.07997,
         "longitude": -7.90994
     },
     {
-        "cityId": "8010493",
+        "cityId": 8010493,
         "name": "Penacova",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.29999,
         "longitude": -8.24784
     },
     {
-        "cityId": "8010494",
+        "cityId": 8010494,
         "name": "Penela",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.01224,
         "longitude": -8.38194
     },
     {
-        "cityId": "8010495",
+        "cityId": 8010495,
         "name": "Soure",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.06879,
         "longitude": -8.6277
     },
     {
-        "cityId": "8010496",
+        "cityId": 8010496,
         "name": "T\u00e1bua",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.3571,
         "longitude": -8.0286
     },
     {
-        "cityId": "8010497",
+        "cityId": 8010497,
         "name": "Vila Nova de Poiares",
-        "stateId": "2740636",
+        "stateId": 2740636,
         "latitude": 40.22129,
         "longitude": -8.24105
     }

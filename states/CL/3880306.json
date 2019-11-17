@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3870289",
+        "cityId": 3870289,
         "name": "Provincia de Talca",
-        "stateId": "3880306",
+        "stateId": 3880306,
         "latitude": -35.4378,
         "longitude": -71.35326
     },
     {
-        "cityId": "3883166",
+        "cityId": 3883166,
         "name": "Provincia de Linares",
-        "stateId": "3880306",
+        "stateId": 3880306,
         "latitude": -36.02955,
         "longitude": -71.43099
     },
     {
-        "cityId": "3892868",
+        "cityId": 3892868,
         "name": "Provincia de Curic\u00f3",
-        "stateId": "3880306",
+        "stateId": 3880306,
         "latitude": -35.04932,
         "longitude": -71.09148
     },
     {
-        "cityId": "8181713",
+        "cityId": 8181713,
         "name": "Provincia de Cauquenes",
-        "stateId": "3880306",
+        "stateId": 3880306,
         "latitude": -35.96828,
         "longitude": -72.32918
     }

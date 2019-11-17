@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "112941",
+        "cityId": 112941,
         "name": "Badreh",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33,
         "longitude": 47.25
     },
     {
-        "cityId": "449458",
+        "cityId": 449458,
         "name": "Shahrest\u0101n-e \u0100bd\u0101n\u0101n",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 32.88333,
         "longitude": 47.5
     },
     {
-        "cityId": "449459",
+        "cityId": 449459,
         "name": "Shahrest\u0101n-e \u012al\u0101m",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33.68333,
         "longitude": 46.25
     },
     {
-        "cityId": "449460",
+        "cityId": 449460,
         "name": "Shahrest\u0101n-e Eyv\u0101n",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33.9,
         "longitude": 46.16667
     },
     {
-        "cityId": "449462",
+        "cityId": 449462,
         "name": "Shahrest\u0101n-e Dehlor\u0101n",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 32.68333,
         "longitude": 47.26667
     },
     {
-        "cityId": "449463",
+        "cityId": 449463,
         "name": "Shahrest\u0101n-e Sh\u012brv\u0101n va Chard\u0101val",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33.68333,
         "longitude": 46.73333
     },
     {
-        "cityId": "449464",
+        "cityId": 449464,
         "name": "Shahrest\u0101n-e Mehr\u0101n",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33.28333,
         "longitude": 46.16667
     },
     {
-        "cityId": "9524084",
+        "cityId": 9524084,
         "name": "Shahrest\u0101n-e Maleksh\u0101h\u012b",
-        "stateId": "130801",
+        "stateId": 130801,
         "latitude": 33.3,
         "longitude": 46.55
     }

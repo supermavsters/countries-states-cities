@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7053344",
+        "cityId": 7053344,
         "name": "Arghand\u0101b",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.51196,
         "longitude": 66.98737
     },
     {
-        "cityId": "7053345",
+        "cityId": 7053345,
         "name": "A\u1e6fghar",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 31.72498,
         "longitude": 67.38507
     },
     {
-        "cityId": "7053346",
+        "cityId": 7053346,
         "name": "D\u0101ych\u014dp\u0101n",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.61321,
         "longitude": 66.69123
     },
     {
-        "cityId": "7053347",
+        "cityId": 7053347,
         "name": "K\u0101kar",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.86004,
         "longitude": 67.18145
     },
     {
-        "cityId": "7053768",
+        "cityId": 7053768,
         "name": "M\u012bz\u0101n",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.17886,
         "longitude": 66.50631
     },
     {
-        "cityId": "7053769",
+        "cityId": 7053769,
         "name": "Now Bah\u0101r",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.21718,
         "longitude": 67.57073
     },
     {
-        "cityId": "7053770",
+        "cityId": 7053770,
         "name": "Sh\u0101h J\u014dy",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.4977,
         "longitude": 67.39494
     },
     {
-        "cityId": "7053771",
+        "cityId": 7053771,
         "name": "Shamulza\u012b",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 31.82149,
         "longitude": 67.77046
     },
     {
-        "cityId": "7053772",
+        "cityId": 7053772,
         "name": "Sh\u012bnka\u012b",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 31.91999,
         "longitude": 67.15613
     },
     {
-        "cityId": "7053773",
+        "cityId": 7053773,
         "name": "Tarn\u00eak wa Jaldak",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 31.90736,
         "longitude": 66.51649
     },
     {
-        "cityId": "7732190",
+        "cityId": 7732190,
         "name": "Qal\u0101t",
-        "stateId": "1121143",
+        "stateId": 1121143,
         "latitude": 32.21925,
         "longitude": 66.97718
     }

@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "476048",
+        "cityId": 476048,
         "name": "Velikolukskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.5,
         "longitude": 30.58333
     },
     {
-        "cityId": "487109",
+        "cityId": 487109,
         "name": "Strugo-Krasnenskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 58.33333,
         "longitude": 29
     },
     {
-        "cityId": "497999",
+        "cityId": 497999,
         "name": "Sebezhskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.25,
         "longitude": 28.5
     },
     {
-        "cityId": "503373",
+        "cityId": 503373,
         "name": "Pytalovskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57,
         "longitude": 28
     },
     {
-        "cityId": "503857",
+        "cityId": 503857,
         "name": "Pustoshkinskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.41667,
         "longitude": 29.41667
     },
     {
-        "cityId": "503970",
+        "cityId": 503970,
         "name": "Pushkino-Gorskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57,
         "longitude": 28.75
     },
     {
-        "cityId": "504335",
+        "cityId": 504335,
         "name": "Pskovskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.75,
         "longitude": 28.25
     },
     {
-        "cityId": "506274",
+        "cityId": 506274,
         "name": "Porkhovskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.75,
         "longitude": 29.5
     },
     {
-        "cityId": "511788",
+        "cityId": 511788,
         "name": "Pechorskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.75,
         "longitude": 27.75
     },
     {
-        "cityId": "513043",
+        "cityId": 513043,
         "name": "Palkinskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.5,
         "longitude": 28
     },
     {
-        "cityId": "514057",
+        "cityId": 514057,
         "name": "Ostrovskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.25,
         "longitude": 28.33333
     },
     {
-        "cityId": "515157",
+        "cityId": 515157,
         "name": "Opochetskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.66667,
         "longitude": 28.83333
     },
     {
-        "cityId": "517923",
+        "cityId": 517923,
         "name": "Novosokol\u2019nicheskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.41667,
         "longitude": 30
     },
     {
-        "cityId": "518234",
+        "cityId": 518234,
         "name": "Novorzhevskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57.08333,
         "longitude": 29.41667
     },
     {
-        "cityId": "539128",
+        "cityId": 539128,
         "name": "Kun\u2019inskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 56.25,
         "longitude": 31
     },
     {
-        "cityId": "561678",
+        "cityId": 561678,
         "name": "Gdovskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 58.75,
         "longitude": 28
     },
     {
-        "cityId": "576573",
+        "cityId": 576573,
         "name": "Bezhanitskiy Rayon",
-        "stateId": "504338",
+        "stateId": 504338,
         "latitude": 57,
         "longitude": 30
     }

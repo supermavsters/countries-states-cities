@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "10972371",
+        "cityId": 10972371,
         "name": "Al Kharkh\u012br",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 19.13333,
         "longitude": 50.95
     },
     {
-        "cityId": "10972372",
+        "cityId": 10972372,
         "name": "Badr al Jan\u016bb",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 17.8,
         "longitude": 43.73333
     },
     {
-        "cityId": "10972373",
+        "cityId": 10972373,
         "name": "\u1e28ub\u016bn\u0101",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 17.78333,
         "longitude": 44.2
     },
     {
-        "cityId": "10972374",
+        "cityId": 10972374,
         "name": "Khub\u0101sh",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 17.66667,
         "longitude": 45.25
     },
     {
-        "cityId": "10972375",
+        "cityId": 10972375,
         "name": "Najr\u0101n",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 17.55,
         "longitude": 44.08333
     },
     {
-        "cityId": "10972376",
+        "cityId": 10972376,
         "name": "Shar\u016brah",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 18,
         "longitude": 47.5
     },
     {
-        "cityId": "10972377",
+        "cityId": 10972377,
         "name": "Th\u0101r",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 18.16667,
         "longitude": 44.6
     },
     {
-        "cityId": "10972378",
+        "cityId": 10972378,
         "name": "Yadamah",
-        "stateId": "103628",
+        "stateId": 103628,
         "latitude": 18.83333,
         "longitude": 44.66667
     }

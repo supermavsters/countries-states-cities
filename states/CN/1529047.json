@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "1280036",
+        "cityId": 1280036,
         "name": "Shache Xian",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 38.4,
         "longitude": 77.25
     },
     {
-        "cityId": "1280828",
+        "cityId": 1280828,
         "name": "Kizilsu Kirgiz Zizhizhou",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 39.66805,
         "longitude": 76.17156
     },
     {
-        "cityId": "1280848",
+        "cityId": 1280848,
         "name": "Kaxgar Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 39.47543,
         "longitude": 75.98968
     },
     {
-        "cityId": "1281018",
+        "cityId": 1281018,
         "name": "Hotan Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 36.07673,
         "longitude": 79.54436
     },
     {
-        "cityId": "1529101",
+        "cityId": 1529101,
         "name": "Urumqi Shi",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 43.8,
         "longitude": 87.58333
     },
     {
-        "cityId": "1529113",
+        "cityId": 1529113,
         "name": "Turpan Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 42.93333,
         "longitude": 89.16667
     },
     {
-        "cityId": "1529166",
+        "cityId": 1529166,
         "name": "Tacheng Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 46.75,
         "longitude": 82.95
     },
     {
-        "cityId": "1529400",
+        "cityId": 1529400,
         "name": "Karamay Shi",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 45.49989,
         "longitude": 84.91683
     },
     {
-        "cityId": "1529434",
+        "cityId": 1529434,
         "name": "Ili Kazak Zizhizhou",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 43.31211,
         "longitude": 82.27102
     },
     {
-        "cityId": "1529483",
+        "cityId": 1529483,
         "name": "Kumul Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 42.8,
         "longitude": 93.45
     },
     {
-        "cityId": "1529568",
+        "cityId": 1529568,
         "name": "Changji Huizu Zizhizhou",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 44.01667,
         "longitude": 87.31667
     },
     {
-        "cityId": "1529581",
+        "cityId": 1529581,
         "name": "Bortala Mongol Zizhizhou",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 44.98333,
         "longitude": 81.95
     },
     {
-        "cityId": "1529604",
+        "cityId": 1529604,
         "name": "Bayingolin Mongol Zizhizhou",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 41.73333,
         "longitude": 86.15
     },
     {
-        "cityId": "1529650",
+        "cityId": 1529650,
         "name": "Altay Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 47.86667,
         "longitude": 88.11667
     },
     {
-        "cityId": "1529658",
+        "cityId": 1529658,
         "name": "Aksu Diqu",
-        "stateId": "1529047",
+        "stateId": 1529047,
         "latitude": 40.55689,
         "longitude": 81.84629
     }

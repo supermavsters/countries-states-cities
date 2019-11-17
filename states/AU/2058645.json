@@ -1,974 +1,974 @@
 [
     {
-        "cityId": "2063213",
+        "cityId": 2063213,
         "name": "Plantagenet Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.62508,
         "longitude": 117.59753
     },
     {
-        "cityId": "2063522",
+        "cityId": 2063522,
         "name": "City of Perth",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.94978,
         "longitude": 115.85383
     },
     {
-        "cityId": "2068570",
+        "cityId": 2068570,
         "name": "Kent Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.53881,
         "longitude": 118.66993
     },
     {
-        "cityId": "2071858",
+        "cityId": 2071858,
         "name": "Esperance Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.5197,
         "longitude": 122.15586
     },
     {
-        "cityId": "2072463",
+        "cityId": 2072463,
         "name": "Dumbleyung Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.2178,
         "longitude": 117.9875
     },
     {
-        "cityId": "2077473",
+        "cityId": 2077473,
         "name": "Augusta-Margaret River Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.1152,
         "longitude": 115.32277
     },
     {
-        "cityId": "7839347",
+        "cityId": 7839347,
         "name": "Broome",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -17.94041,
         "longitude": 122.64038
     },
     {
-        "cityId": "7839348",
+        "cityId": 7839348,
         "name": "Broomehill-Tambellup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.0132,
         "longitude": 117.65297
     },
     {
-        "cityId": "7839349",
+        "cityId": 7839349,
         "name": "Bruce Rock",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.96651,
         "longitude": 118.02385
     },
     {
-        "cityId": "7839473",
+        "cityId": 7839473,
         "name": "Boyup Brook",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.88555,
         "longitude": 116.51885
     },
     {
-        "cityId": "7839474",
+        "cityId": 7839474,
         "name": "Bridgetown-Greenbushes",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.99234,
         "longitude": 116.22502
     },
     {
-        "cityId": "7839475",
+        "cityId": 7839475,
         "name": "Brookton",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.35533,
         "longitude": 116.99994
     },
     {
-        "cityId": "7839476",
+        "cityId": 7839476,
         "name": "Bunbury",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.35487,
         "longitude": 115.66214
     },
     {
-        "cityId": "7839477",
+        "cityId": 7839477,
         "name": "Busselton",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.68477,
         "longitude": 115.3708
     },
     {
-        "cityId": "7839478",
+        "cityId": 7839478,
         "name": "Cambridge",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.93542,
         "longitude": 115.79887
     },
     {
-        "cityId": "7839479",
+        "cityId": 7839479,
         "name": "Canning",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.04923,
         "longitude": 115.91943
     },
     {
-        "cityId": "7839480",
+        "cityId": 7839480,
         "name": "Capel",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.52704,
         "longitude": 115.61813
     },
     {
-        "cityId": "7839481",
+        "cityId": 7839481,
         "name": "Carnamah",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.80411,
         "longitude": 115.59402
     },
     {
-        "cityId": "7839482",
+        "cityId": 7839482,
         "name": "Carnarvon",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -24.4668,
         "longitude": 114.33685
     },
     {
-        "cityId": "7839483",
+        "cityId": 7839483,
         "name": "Chapman Valley",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.27249,
         "longitude": 115.02794
     },
     {
-        "cityId": "7839484",
+        "cityId": 7839484,
         "name": "Chittering",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.35829,
         "longitude": 116.05131
     },
     {
-        "cityId": "7839485",
+        "cityId": 7839485,
         "name": "Claremont",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.98127,
         "longitude": 115.77942
     },
     {
-        "cityId": "7839486",
+        "cityId": 7839486,
         "name": "City of Cockburn",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.10264,
         "longitude": 115.84431
     },
     {
-        "cityId": "7839487",
+        "cityId": 7839487,
         "name": "Collie",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.27353,
         "longitude": 116.16558
     },
     {
-        "cityId": "7839488",
+        "cityId": 7839488,
         "name": "Coolgardie",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.01438,
         "longitude": 121.20462
     },
     {
-        "cityId": "7839489",
+        "cityId": 7839489,
         "name": "Coorow",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.97865,
         "longitude": 115.65613
     },
     {
-        "cityId": "7839490",
+        "cityId": 7839490,
         "name": "Corrigin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.37599,
         "longitude": 117.81023
     },
     {
-        "cityId": "7839491",
+        "cityId": 7839491,
         "name": "Cottesloe",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.99905,
         "longitude": 115.76089
     },
     {
-        "cityId": "7839492",
+        "cityId": 7839492,
         "name": "Cranbrook",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.33414,
         "longitude": 117.32898
     },
     {
-        "cityId": "7839493",
+        "cityId": 7839493,
         "name": "Cuballing",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.74026,
         "longitude": 117.15497
     },
     {
-        "cityId": "7839494",
+        "cityId": 7839494,
         "name": "Cue",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -27.22633,
         "longitude": 118.00496
     },
     {
-        "cityId": "7839495",
+        "cityId": 7839495,
         "name": "Cunderdin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.61259,
         "longitude": 117.11803
     },
     {
-        "cityId": "7839496",
+        "cityId": 7839496,
         "name": "Dalwallinu",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.12998,
         "longitude": 116.98401
     },
     {
-        "cityId": "7839497",
+        "cityId": 7839497,
         "name": "Dandaragan",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.54142,
         "longitude": 115.46132
     },
     {
-        "cityId": "7839498",
+        "cityId": 7839498,
         "name": "Dardanup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.41611,
         "longitude": 115.8741
     },
     {
-        "cityId": "7839499",
+        "cityId": 7839499,
         "name": "Denmark",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.93473,
         "longitude": 117.37518
     },
     {
-        "cityId": "7839500",
+        "cityId": 7839500,
         "name": "Derby-West Kimberley",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -17.50447,
         "longitude": 125.28014
     },
     {
-        "cityId": "7839501",
+        "cityId": 7839501,
         "name": "Donnybrook-Balingup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.70217,
         "longitude": 115.97778
     },
     {
-        "cityId": "7839502",
+        "cityId": 7839502,
         "name": "Dowerin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.11328,
         "longitude": 117.10566
     },
     {
-        "cityId": "7839503",
+        "cityId": 7839503,
         "name": "Dundas",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.12502,
         "longitude": 124.50582
     },
     {
-        "cityId": "7839504",
+        "cityId": 7839504,
         "name": "East Fremantle",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.03654,
         "longitude": 115.76714
     },
     {
-        "cityId": "7839505",
+        "cityId": 7839505,
         "name": "East Pilbara",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -21.61331,
         "longitude": 123.71368
     },
     {
-        "cityId": "7839506",
+        "cityId": 7839506,
         "name": "Exmouth",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -22.03643,
         "longitude": 114.04358
     },
     {
-        "cityId": "7839507",
+        "cityId": 7839507,
         "name": "Fremantle",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.05165,
         "longitude": 115.76379
     },
     {
-        "cityId": "7839508",
+        "cityId": 7839508,
         "name": "Geraldton-Greenough",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.84832,
         "longitude": 114.85851
     },
     {
-        "cityId": "7839509",
+        "cityId": 7839509,
         "name": "Gingin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.18435,
         "longitude": 115.65944
     },
     {
-        "cityId": "7839510",
+        "cityId": 7839510,
         "name": "Gnowangerup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.08658,
         "longitude": 118.29832
     },
     {
-        "cityId": "7839511",
+        "cityId": 7839511,
         "name": "Goomalling",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.23457,
         "longitude": 116.79142
     },
     {
-        "cityId": "7839512",
+        "cityId": 7839512,
         "name": "Gosnells",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.06763,
         "longitude": 116.00203
     },
     {
-        "cityId": "7839513",
+        "cityId": 7839513,
         "name": "Halls Creek",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -19.00069,
         "longitude": 127.45204
     },
     {
-        "cityId": "7839514",
+        "cityId": 7839514,
         "name": "Harvey",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.14976,
         "longitude": 115.93376
     },
     {
-        "cityId": "7839515",
+        "cityId": 7839515,
         "name": "Irwin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.34192,
         "longitude": 115.04561
     },
     {
-        "cityId": "7839516",
+        "cityId": 7839516,
         "name": "Jerramungup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.0305,
         "longitude": 119.11369
     },
     {
-        "cityId": "7839517",
+        "cityId": 7839517,
         "name": "Joondalup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.77962,
         "longitude": 115.76498
     },
     {
-        "cityId": "7839518",
+        "cityId": 7839518,
         "name": "Kalamunda",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.00398,
         "longitude": 116.13292
     },
     {
-        "cityId": "7839519",
+        "cityId": 7839519,
         "name": "Kalgoorlie\/Boulder",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.77632,
         "longitude": 124.92347
     },
     {
-        "cityId": "7839520",
+        "cityId": 7839520,
         "name": "Katanning",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.62476,
         "longitude": 117.63965
     },
     {
-        "cityId": "7839521",
+        "cityId": 7839521,
         "name": "Kellerberrin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.57709,
         "longitude": 117.80561
     },
     {
-        "cityId": "7839522",
+        "cityId": 7839522,
         "name": "Kojonup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.92546,
         "longitude": 117.03982
     },
     {
-        "cityId": "7839523",
+        "cityId": 7839523,
         "name": "Kondinin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.48431,
         "longitude": 119.0242
     },
     {
-        "cityId": "7839524",
+        "cityId": 7839524,
         "name": "Koorda",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.60412,
         "longitude": 117.40736
     },
     {
-        "cityId": "7839596",
+        "cityId": 7839596,
         "name": "Kulin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.66096,
         "longitude": 118.57544
     },
     {
-        "cityId": "7839597",
+        "cityId": 7839597,
         "name": "Kwinana",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.23391,
         "longitude": 115.82785
     },
     {
-        "cityId": "7839598",
+        "cityId": 7839598,
         "name": "Lake Grace",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.1291,
         "longitude": 119.42041
     },
     {
-        "cityId": "7839599",
+        "cityId": 7839599,
         "name": "Laverton",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -27.93793,
         "longitude": 125.27127
     },
     {
-        "cityId": "7839600",
+        "cityId": 7839600,
         "name": "Leonora",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.39424,
         "longitude": 121.2596
     },
     {
-        "cityId": "7839601",
+        "cityId": 7839601,
         "name": "Mandurah",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.57845,
         "longitude": 115.66544
     },
     {
-        "cityId": "7839602",
+        "cityId": 7839602,
         "name": "Manjimup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.59789,
         "longitude": 116.26566
     },
     {
-        "cityId": "7839603",
+        "cityId": 7839603,
         "name": "Meekatharra",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -25.3033,
         "longitude": 118.99974
     },
     {
-        "cityId": "7839604",
+        "cityId": 7839604,
         "name": "Melville",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.04325,
         "longitude": 115.83408
     },
     {
-        "cityId": "7839605",
+        "cityId": 7839605,
         "name": "Menzies",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.39176,
         "longitude": 123.71878
     },
     {
-        "cityId": "7839606",
+        "cityId": 7839606,
         "name": "Merredin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.46054,
         "longitude": 118.38509
     },
     {
-        "cityId": "7839607",
+        "cityId": 7839607,
         "name": "Mingenew",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.14515,
         "longitude": 115.50123
     },
     {
-        "cityId": "7839608",
+        "cityId": 7839608,
         "name": "Moora",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.51218,
         "longitude": 116.2098
     },
     {
-        "cityId": "7839609",
+        "cityId": 7839609,
         "name": "Morawa",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.03545,
         "longitude": 116.05643
     },
     {
-        "cityId": "7839610",
+        "cityId": 7839610,
         "name": "Mosman Park",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.01421,
         "longitude": 115.76613
     },
     {
-        "cityId": "7839611",
+        "cityId": 7839611,
         "name": "Mount Magnet",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.29082,
         "longitude": 117.96655
     },
     {
-        "cityId": "7839612",
+        "cityId": 7839612,
         "name": "Mount Marshall",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.29376,
         "longitude": 118.00063
     },
     {
-        "cityId": "7839613",
+        "cityId": 7839613,
         "name": "Mukinbudin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.63684,
         "longitude": 118.28648
     },
     {
-        "cityId": "7839614",
+        "cityId": 7839614,
         "name": "Mullewa",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.41433,
         "longitude": 115.65524
     },
     {
-        "cityId": "7839615",
+        "cityId": 7839615,
         "name": "Mundaring",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.88456,
         "longitude": 116.21551
     },
     {
-        "cityId": "7839616",
+        "cityId": 7839616,
         "name": "Murchison",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -27.00893,
         "longitude": 116.41205
     },
     {
-        "cityId": "7839617",
+        "cityId": 7839617,
         "name": "Murray",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.62391,
         "longitude": 115.96538
     },
     {
-        "cityId": "7839618",
+        "cityId": 7839618,
         "name": "Nannup",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.13466,
         "longitude": 115.67375
     },
     {
-        "cityId": "7839619",
+        "cityId": 7839619,
         "name": "Narembeen",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.02206,
         "longitude": 118.6899
     },
     {
-        "cityId": "7839620",
+        "cityId": 7839620,
         "name": "Narrogin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.93756,
         "longitude": 117.17167
     },
     {
-        "cityId": "7839621",
+        "cityId": 7839621,
         "name": "Narrogin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.99696,
         "longitude": 117.26366
     },
     {
-        "cityId": "7839622",
+        "cityId": 7839622,
         "name": "Nedlands",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.97994,
         "longitude": 115.79942
     },
     {
-        "cityId": "7839623",
+        "cityId": 7839623,
         "name": "Ngaanyatjarraku",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -25.08871,
         "longitude": 126.83494
     },
     {
-        "cityId": "7839624",
+        "cityId": 7839624,
         "name": "Northam",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.69898,
         "longitude": 116.64964
     },
     {
-        "cityId": "7839625",
+        "cityId": 7839625,
         "name": "Northampton Shire",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.04956,
         "longitude": 114.49589
     },
     {
-        "cityId": "7839626",
+        "cityId": 7839626,
         "name": "Nungarin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.13714,
         "longitude": 118.21768
     },
     {
-        "cityId": "7839627",
+        "cityId": 7839627,
         "name": "Peppermint Grove",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.99885,
         "longitude": 115.76697
     },
     {
-        "cityId": "7839628",
+        "cityId": 7839628,
         "name": "Perenjori",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.39784,
         "longitude": 116.53543
     },
     {
-        "cityId": "7839629",
+        "cityId": 7839629,
         "name": "Pingelly",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.53174,
         "longitude": 117.20004
     },
     {
-        "cityId": "7839630",
+        "cityId": 7839630,
         "name": "Port Hedland",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -20.79258,
         "longitude": 118.63264
     },
     {
-        "cityId": "7839631",
+        "cityId": 7839631,
         "name": "Quairading",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.01462,
         "longitude": 117.39835
     },
     {
-        "cityId": "7839632",
+        "cityId": 7839632,
         "name": "Ravensthorpe",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.68375,
         "longitude": 120.15338
     },
     {
-        "cityId": "7839633",
+        "cityId": 7839633,
         "name": "Rockingham",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.28239,
         "longitude": 115.73238
     },
     {
-        "cityId": "7839634",
+        "cityId": 7839634,
         "name": "Roebourne",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -21.03971,
         "longitude": 116.85743
     },
     {
-        "cityId": "7839635",
+        "cityId": 7839635,
         "name": "Sandstone",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.42189,
         "longitude": 118.98846
     },
     {
-        "cityId": "7839636",
+        "cityId": 7839636,
         "name": "Serpentine-Jarrahdale",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.32452,
         "longitude": 116.04507
     },
     {
-        "cityId": "7839637",
+        "cityId": 7839637,
         "name": "Shark Bay",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -26.38916,
         "longitude": 114.21845
     },
     {
-        "cityId": "7839638",
+        "cityId": 7839638,
         "name": "South Perth",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.99884,
         "longitude": 115.87222
     },
     {
-        "cityId": "7839639",
+        "cityId": 7839639,
         "name": "Stirling",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.8794,
         "longitude": 115.80929
     },
     {
-        "cityId": "7839640",
+        "cityId": 7839640,
         "name": "Subiaco",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.95964,
         "longitude": 115.81564
     },
     {
-        "cityId": "7839641",
+        "cityId": 7839641,
         "name": "Swan",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.77039,
         "longitude": 116.08746
     },
     {
-        "cityId": "7839642",
+        "cityId": 7839642,
         "name": "Tammin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.60512,
         "longitude": 117.48306
     },
     {
-        "cityId": "7839643",
+        "cityId": 7839643,
         "name": "Three Springs",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -29.51386,
         "longitude": 115.63158
     },
     {
-        "cityId": "7839657",
+        "cityId": 7839657,
         "name": "Albany",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -34.7099,
         "longitude": 118.12345
     },
     {
-        "cityId": "7839658",
+        "cityId": 7839658,
         "name": "Armadale",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.17887,
         "longitude": 116.1275
     },
     {
-        "cityId": "7839659",
+        "cityId": 7839659,
         "name": "Ashburton",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -22.27674,
         "longitude": 116.90057
     },
     {
-        "cityId": "7839660",
+        "cityId": 7839660,
         "name": "Bassendean",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.90584,
         "longitude": 115.94501
     },
     {
-        "cityId": "7839661",
+        "cityId": 7839661,
         "name": "Bayswater",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.91181,
         "longitude": 115.9087
     },
     {
-        "cityId": "7839662",
+        "cityId": 7839662,
         "name": "Belmont",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.95458,
         "longitude": 115.94218
     },
     {
-        "cityId": "7839663",
+        "cityId": 7839663,
         "name": "Beverley",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.15983,
         "longitude": 116.76363
     },
     {
-        "cityId": "7839664",
+        "cityId": 7839664,
         "name": "Boddington",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.79195,
         "longitude": 116.41883
     },
     {
-        "cityId": "7839839",
+        "cityId": 7839839,
         "name": "Toodyay",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.46991,
         "longitude": 116.38804
     },
     {
-        "cityId": "7839840",
+        "cityId": 7839840,
         "name": "Trayning",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.16681,
         "longitude": 117.83812
     },
     {
-        "cityId": "7839841",
+        "cityId": 7839841,
         "name": "Upper Gascoyne",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -24.71935,
         "longitude": 116.33876
     },
     {
-        "cityId": "7839842",
+        "cityId": 7839842,
         "name": "Victoria Park",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.97651,
         "longitude": 115.90592
     },
     {
-        "cityId": "7839843",
+        "cityId": 7839843,
         "name": "Victoria Plains",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.01632,
         "longitude": 116.28546
     },
     {
-        "cityId": "7839844",
+        "cityId": 7839844,
         "name": "Vincent",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.93138,
         "longitude": 115.85412
     },
     {
-        "cityId": "7839845",
+        "cityId": 7839845,
         "name": "Wagin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.27501,
         "longitude": 117.38554
     },
     {
-        "cityId": "7839846",
+        "cityId": 7839846,
         "name": "Wandering",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.52589,
         "longitude": 116.56668
     },
     {
-        "cityId": "7839847",
+        "cityId": 7839847,
         "name": "Wanneroo",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.65293,
         "longitude": 115.72211
     },
     {
-        "cityId": "7839848",
+        "cityId": 7839848,
         "name": "Waroona",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.84916,
         "longitude": 115.90429
     },
     {
-        "cityId": "7839849",
+        "cityId": 7839849,
         "name": "West Arthur",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.44057,
         "longitude": 116.68597
     },
     {
-        "cityId": "7839850",
+        "cityId": 7839850,
         "name": "Westonia",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.88436,
         "longitude": 118.72974
     },
     {
-        "cityId": "7839851",
+        "cityId": 7839851,
         "name": "Wickepin",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -32.82211,
         "longitude": 117.63996
     },
     {
-        "cityId": "7839852",
+        "cityId": 7839852,
         "name": "Williams",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.05217,
         "longitude": 116.70943
     },
     {
-        "cityId": "7839853",
+        "cityId": 7839853,
         "name": "Wiluna",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -25.3663,
         "longitude": 121.93243
     },
     {
-        "cityId": "7839854",
+        "cityId": 7839854,
         "name": "Wongan-Ballidu",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.73138,
         "longitude": 116.84854
     },
     {
-        "cityId": "7839855",
+        "cityId": 7839855,
         "name": "Woodanilling",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -33.51937,
         "longitude": 117.3358
     },
     {
-        "cityId": "7839856",
+        "cityId": 7839856,
         "name": "Wyalkatchem",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.19528,
         "longitude": 117.44682
     },
     {
-        "cityId": "7839857",
+        "cityId": 7839857,
         "name": "Wyndham-East Kimberley",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -15.51291,
         "longitude": 126.58779
     },
     {
-        "cityId": "7839858",
+        "cityId": 7839858,
         "name": "Yalgoo",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -28.48787,
         "longitude": 117.15818
     },
     {
-        "cityId": "7839859",
+        "cityId": 7839859,
         "name": "Yilgarn",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -30.90938,
         "longitude": 119.25881
     },
     {
-        "cityId": "7839860",
+        "cityId": 7839860,
         "name": "York",
-        "stateId": "2058645",
+        "stateId": 2058645,
         "latitude": -31.91703,
         "longitude": 116.72162
     }

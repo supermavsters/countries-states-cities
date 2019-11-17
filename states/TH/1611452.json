@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "1606377",
+        "cityId": 1606377,
         "name": "Amphoe Satuek",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.22699,
         "longitude": 103.33006
     },
     {
-        "cityId": "1607256",
+        "cityId": 1607256,
         "name": "Amphoe Prakhon Chai",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.61041,
         "longitude": 103.06054
     },
     {
-        "cityId": "1607420",
+        "cityId": 1607420,
         "name": "Amphoe Phutthaisong",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.53249,
         "longitude": 102.98701
     },
     {
-        "cityId": "1608423",
+        "cityId": 1608423,
         "name": "Amphoe Nang Rong",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.63333,
         "longitude": 102.76667
     },
     {
-        "cityId": "1608664",
+        "cityId": 1608664,
         "name": "Amphoe Mueang Buriram",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.94078,
         "longitude": 103.06244
     },
     {
-        "cityId": "1609203",
+        "cityId": 1609203,
         "name": "Amphoe Lam Plai Mat",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.01688,
         "longitude": 102.87479
     },
     {
-        "cityId": "1609257",
+        "cityId": 1609257,
         "name": "Amphoe Lahan Sai",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.32194,
         "longitude": 102.87994
     },
     {
-        "cityId": "1609420",
+        "cityId": 1609420,
         "name": "Amphoe Krasang",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.94167,
         "longitude": 103.31898
     },
     {
-        "cityId": "1617329",
+        "cityId": 1617329,
         "name": "Amphoe Ban Kruat",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.39205,
         "longitude": 103.11494
     },
     {
-        "cityId": "7510756",
+        "cityId": 7510756,
         "name": "Amphoe Non Din Daeng",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.2201,
         "longitude": 102.68233
     },
     {
-        "cityId": "7510757",
+        "cityId": 7510757,
         "name": "Amphoe Pa Kham",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.4,
         "longitude": 102.66667
     },
     {
-        "cityId": "7510758",
+        "cityId": 7510758,
         "name": "Amphoe Chamni",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.78636,
         "longitude": 102.85386
     },
     {
-        "cityId": "7510759",
+        "cityId": 7510759,
         "name": "Amphoe Chaloem Phra Kiat",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.55725,
         "longitude": 102.89878
     },
     {
-        "cityId": "7510760",
+        "cityId": 7510760,
         "name": "Amphoe Nong Ki",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.72696,
         "longitude": 102.55798
     },
     {
-        "cityId": "7510761",
+        "cityId": 7510761,
         "name": "Amphoe Non Suwan",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.55511,
         "longitude": 102.58339
     },
     {
-        "cityId": "7510762",
+        "cityId": 7510762,
         "name": "Amphoe Nong Hong",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.86149,
         "longitude": 102.6708
     },
     {
-        "cityId": "7510766",
+        "cityId": 7510766,
         "name": "Amphoe Na Pho",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.69565,
         "longitude": 102.93857
     },
     {
-        "cityId": "7510767",
+        "cityId": 7510767,
         "name": "Amphoe Ban Mai Chaiyaphot",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.57857,
         "longitude": 102.84394
     },
     {
-        "cityId": "7510781",
+        "cityId": 7510781,
         "name": "Amphoe Phlapphla Chai",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 14.73299,
         "longitude": 103.17015
     },
     {
-        "cityId": "7510782",
+        "cityId": 7510782,
         "name": "Amphoe Huai Rat",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.00896,
         "longitude": 103.23499
     },
     {
-        "cityId": "7510783",
+        "cityId": 7510783,
         "name": "Amphoe Ban Dan",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.12363,
         "longitude": 103.18937
     },
     {
-        "cityId": "7510784",
+        "cityId": 7510784,
         "name": "Amphoe Khu Mueang",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.26844,
         "longitude": 103.02717
     },
     {
-        "cityId": "7511040",
+        "cityId": 7511040,
         "name": "Amphoe Khaen Dong",
-        "stateId": "1611452",
+        "stateId": 1611452,
         "latitude": 15.3062,
         "longitude": 103.13286
     }

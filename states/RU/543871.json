@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "472883",
+        "cityId": 472883,
         "name": "Vokhomskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.91667,
         "longitude": 46.58333
     },
     {
-        "cityId": "486013",
+        "cityId": 486013,
         "name": "Susaninskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.25,
         "longitude": 41.5
     },
     {
-        "cityId": "486846",
+        "cityId": 486846,
         "name": "Sudislavskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.83333,
         "longitude": 41.66667
     },
     {
-        "cityId": "491024",
+        "cityId": 491024,
         "name": "Soligalichskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 59,
         "longitude": 42.25
     },
     {
-        "cityId": "495704",
+        "cityId": 495704,
         "name": "Shar\u2019inskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.5,
         "longitude": 45.58333
     },
     {
-        "cityId": "503399",
+        "cityId": 503399,
         "name": "Pyshchugskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.83333,
         "longitude": 45.75
     },
     {
-        "cityId": "506693",
+        "cityId": 506693,
         "name": "Ponazyrevskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.7,
         "longitude": 46.31667
     },
     {
-        "cityId": "512246",
+        "cityId": 512246,
         "name": "Pavinskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 59.08333,
         "longitude": 46
     },
     {
-        "cityId": "512574",
+        "cityId": 512574,
         "name": "Parfen\u2019yevskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.66667,
         "longitude": 43.5
     },
     {
-        "cityId": "514056",
+        "cityId": 514056,
         "name": "Ostrovskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.66667,
         "longitude": 42.25
     },
     {
-        "cityId": "515833",
+        "cityId": 515833,
         "name": "Oktyabr\u2019skiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 59,
         "longitude": 47.08333
     },
     {
-        "cityId": "522334",
+        "cityId": 522334,
         "name": "Neyskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.3,
         "longitude": 43.9
     },
     {
-        "cityId": "522591",
+        "cityId": 522591,
         "name": "Nerekhtskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.41667,
         "longitude": 40.75
     },
     {
-        "cityId": "527261",
+        "cityId": 527261,
         "name": "Mezhevskoy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.83333,
         "longitude": 45
     },
     {
-        "cityId": "529502",
+        "cityId": 529502,
         "name": "Manturovskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.25,
         "longitude": 44.75
     },
     {
-        "cityId": "532129",
+        "cityId": 532129,
         "name": "Makar\u2019yevskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.75,
         "longitude": 44.16667
     },
     {
-        "cityId": "542232",
+        "cityId": 542232,
         "name": "Krasnosel\u2019skiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.58333,
         "longitude": 41.33333
     },
     {
-        "cityId": "543869",
+        "cityId": 543869,
         "name": "Kostromskoy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.83333,
         "longitude": 41
     },
     {
-        "cityId": "546275",
+        "cityId": 546275,
         "name": "Kologrivskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.91667,
         "longitude": 44.25
     },
     {
-        "cityId": "554500",
+        "cityId": 554500,
         "name": "Kadyyskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 57.75,
         "longitude": 43.25
     },
     {
-        "cityId": "562156",
+        "cityId": 562156,
         "name": "Galichskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.33333,
         "longitude": 42.25
     },
     {
-        "cityId": "567693",
+        "cityId": 567693,
         "name": "Chukhlomskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.75,
         "longitude": 42.75
     },
     {
-        "cityId": "570472",
+        "cityId": 570472,
         "name": "Buyskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.5,
         "longitude": 41.5
     },
     {
-        "cityId": "581454",
+        "cityId": 581454,
         "name": "Antropovskiy Rayon",
-        "stateId": "543871",
+        "stateId": 543871,
         "latitude": 58.16667,
         "longitude": 43
     }

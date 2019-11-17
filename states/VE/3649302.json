@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3629068",
+        "cityId": 3629068,
         "name": "Municipio Aut\u00f3nomo R\u00edo Negro",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 1.71361,
         "longitude": -66.07178
     },
     {
-        "cityId": "3648789",
+        "cityId": 3648789,
         "name": "Municipio Aut\u00f3nomo Atures",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 5.69252,
         "longitude": -67.34619
     },
     {
-        "cityId": "3648813",
+        "cityId": 3648813,
         "name": "Municipio Aut\u00f3nomo Atabapo",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 4.09441,
         "longitude": -66.57715
     },
     {
-        "cityId": "8129028",
+        "cityId": 8129028,
         "name": "Municipio Aut\u00f3nomo Alto Orinoco",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 2.73456,
         "longitude": -64.83032
     },
     {
-        "cityId": "8129029",
+        "cityId": 8129029,
         "name": "Municipio Aut\u00f3nomo Autana",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 5.01434,
         "longitude": -67.24731
     },
     {
-        "cityId": "8129030",
+        "cityId": 8129030,
         "name": "Municipio Aut\u00f3nomo Manapiare",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 5.07453,
         "longitude": -65.54443
     },
     {
-        "cityId": "8129031",
+        "cityId": 8129031,
         "name": "Municipio Aut\u00f3nomo Maroa",
-        "stateId": "3649302",
+        "stateId": 3649302,
         "latitude": 2.70164,
         "longitude": -66.78589
     }

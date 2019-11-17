@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1852895",
+        "cityId": 1852895,
         "name": "Sasebo Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.18992,
         "longitude": 129.6896
     },
     {
-        "cityId": "1855163",
+        "cityId": 1855163,
         "name": "Nishisonogi-gun",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.83438,
         "longitude": 129.86019
     },
     {
-        "cityId": "1856152",
+        "cityId": 1856152,
         "name": "Nagasaki-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.78206,
         "longitude": 129.82715
     },
     {
-        "cityId": "1857159",
+        "cityId": 1857159,
         "name": "Minamimatsuura Gun",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.953,
         "longitude": 129.06855
     },
     {
-        "cityId": "1857466",
+        "cityId": 1857466,
         "name": "Matsuura Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.35334,
         "longitude": 129.73504
     },
     {
-        "cityId": "1859301",
+        "cityId": 1859301,
         "name": "Kitamatsuura-gun",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.23871,
         "longitude": 129.65786
     },
     {
-        "cityId": "1861758",
+        "cityId": 1861758,
         "name": "Iki Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.78554,
         "longitude": 129.7167
     },
     {
-        "cityId": "1862734",
+        "cityId": 1862734,
         "name": "Higashisonigi-gun",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.07939,
         "longitude": 129.91894
     },
     {
-        "cityId": "7418804",
+        "cityId": 7418804,
         "name": "Got\u014d Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.69892,
         "longitude": 128.76871
     },
     {
-        "cityId": "7418805",
+        "cityId": 7418805,
         "name": "Hirado Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 33.31596,
         "longitude": 129.48688
     },
     {
-        "cityId": "7418806",
+        "cityId": 7418806,
         "name": "Minamishimabara-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.67565,
         "longitude": 130.25695
     },
     {
-        "cityId": "7418807",
+        "cityId": 7418807,
         "name": "\u014cmura-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.93978,
         "longitude": 129.99297
     },
     {
-        "cityId": "7418808",
+        "cityId": 7418808,
         "name": "Saikai-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.99259,
         "longitude": 129.682
     },
     {
-        "cityId": "7418809",
+        "cityId": 7418809,
         "name": "Shimabara-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.79429,
         "longitude": 130.32925
     },
     {
-        "cityId": "7418810",
+        "cityId": 7418810,
         "name": "Tsushima Shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 34.40845,
         "longitude": 129.32599
     },
     {
-        "cityId": "7418811",
+        "cityId": 7418811,
         "name": "Unzen-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.7839,
         "longitude": 130.22828
     },
     {
-        "cityId": "8301120",
+        "cityId": 8301120,
         "name": "Isahaya-shi",
-        "stateId": "1856156",
+        "stateId": 1856156,
         "latitude": 32.86912,
         "longitude": 130.06369
     }

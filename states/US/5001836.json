@@ -1,582 +1,582 @@
 [
     {
-        "cityId": "4983917",
+        "cityId": 4983917,
         "name": "Alcona County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.71161,
         "longitude": -83.34366
     },
     {
-        "cityId": "4983956",
+        "cityId": 4983956,
         "name": "Alger County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.4511,
         "longitude": -86.54755
     },
     {
-        "cityId": "4983990",
+        "cityId": 4983990,
         "name": "Allegan County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.51766,
         "longitude": -85.91034
     },
     {
-        "cityId": "4984076",
+        "cityId": 4984076,
         "name": "Alpena County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.0635,
         "longitude": -83.46039
     },
     {
-        "cityId": "4984284",
+        "cityId": 4984284,
         "name": "Antrim County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.00737,
         "longitude": -85.17579
     },
     {
-        "cityId": "4984356",
+        "cityId": 4984356,
         "name": "Arenac County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.04289,
         "longitude": -83.74725
     },
     {
-        "cityId": "4984903",
+        "cityId": 4984903,
         "name": "Baraga County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.69976,
         "longitude": -88.35215
     },
     {
-        "cityId": "4985016",
+        "cityId": 4985016,
         "name": "Barry County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.59503,
         "longitude": -85.30897
     },
     {
-        "cityId": "4985190",
+        "cityId": 4985190,
         "name": "Bay County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.72137,
         "longitude": -83.94184
     },
     {
-        "cityId": "4985733",
+        "cityId": 4985733,
         "name": "Benzie County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.61687,
         "longitude": -86.13899
     },
     {
-        "cityId": "4985760",
+        "cityId": 4985760,
         "name": "Berrien County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.91863,
         "longitude": -86.42807
     },
     {
-        "cityId": "4986828",
+        "cityId": 4986828,
         "name": "Branch County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.91611,
         "longitude": -85.05903
     },
     {
-        "cityId": "4987673",
+        "cityId": 4987673,
         "name": "Calhoun County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.24653,
         "longitude": -85.00559
     },
     {
-        "cityId": "4988216",
+        "cityId": 4988216,
         "name": "Cass County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.9154,
         "longitude": -85.99346
     },
     {
-        "cityId": "4988577",
+        "cityId": 4988577,
         "name": "Charlevoix County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.26715,
         "longitude": -85.24017
     },
     {
-        "cityId": "4988619",
+        "cityId": 4988619,
         "name": "Cheboygan County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.47294,
         "longitude": -84.49206
     },
     {
-        "cityId": "4988755",
+        "cityId": 4988755,
         "name": "Chippewa County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.32818,
         "longitude": -84.52936
     },
     {
-        "cityId": "4988934",
+        "cityId": 4988934,
         "name": "Clare County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.98787,
         "longitude": -84.84784
     },
     {
-        "cityId": "4989135",
+        "cityId": 4989135,
         "name": "Clinton County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.94365,
         "longitude": -84.60152
     },
     {
-        "cityId": "4989916",
+        "cityId": 4989916,
         "name": "Crawford County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.68361,
         "longitude": -84.6103
     },
     {
-        "cityId": "4990662",
+        "cityId": 4990662,
         "name": "Delta County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.79162,
         "longitude": -86.8706
     },
     {
-        "cityId": "4990845",
+        "cityId": 4990845,
         "name": "Dickinson County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.00935,
         "longitude": -87.87021
     },
     {
-        "cityId": "4991746",
+        "cityId": 4991746,
         "name": "Eaton County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.59607,
         "longitude": -84.83831
     },
     {
-        "cityId": "4992137",
+        "cityId": 4992137,
         "name": "Emmet County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.58754,
         "longitude": -84.98147
     },
     {
-        "cityId": "4993785",
+        "cityId": 4993785,
         "name": "Genesee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.02172,
         "longitude": -83.70671
     },
     {
-        "cityId": "4993986",
+        "cityId": 4993986,
         "name": "Gladwin County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.99067,
         "longitude": -84.38825
     },
     {
-        "cityId": "4994090",
+        "cityId": 4994090,
         "name": "Gogebic County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.49552,
         "longitude": -89.79555
     },
     {
-        "cityId": "4994374",
+        "cityId": 4994374,
         "name": "Grand Traverse County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.71624,
         "longitude": -85.5522
     },
     {
-        "cityId": "4994537",
+        "cityId": 4994537,
         "name": "Gratiot County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.29273,
         "longitude": -84.60491
     },
     {
-        "cityId": "4996110",
+        "cityId": 4996110,
         "name": "Hillsdale County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.88777,
         "longitude": -84.59293
     },
     {
-        "cityId": "4996573",
+        "cityId": 4996573,
         "name": "Houghton County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.99155,
         "longitude": -88.65206
     },
     {
-        "cityId": "4996859",
+        "cityId": 4996859,
         "name": "Huron County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.91007,
         "longitude": -82.85551
     },
     {
-        "cityId": "4997130",
+        "cityId": 4997130,
         "name": "Ingham County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.5971,
         "longitude": -84.37354
     },
     {
-        "cityId": "4997193",
+        "cityId": 4997193,
         "name": "Ionia County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.94509,
         "longitude": -85.0746
     },
     {
-        "cityId": "4997201",
+        "cityId": 4997201,
         "name": "Iosco County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.30125,
         "longitude": -83.51395
     },
     {
-        "cityId": "4997220",
+        "cityId": 4997220,
         "name": "Iron County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.20869,
         "longitude": -88.53053
     },
     {
-        "cityId": "4997272",
+        "cityId": 4997272,
         "name": "Isabella County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.6406,
         "longitude": -84.8468
     },
     {
-        "cityId": "4997389",
+        "cityId": 4997389,
         "name": "Jackson County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.24849,
         "longitude": -84.42344
     },
     {
-        "cityId": "4997791",
+        "cityId": 4997791,
         "name": "Kalamazoo County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.24545,
         "longitude": -85.53118
     },
     {
-        "cityId": "4997807",
+        "cityId": 4997807,
         "name": "Kalkaska County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.68466,
         "longitude": -85.09023
     },
     {
-        "cityId": "4998005",
+        "cityId": 4998005,
         "name": "Kent County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.03216,
         "longitude": -85.5493
     },
     {
-        "cityId": "4998067",
+        "cityId": 4998067,
         "name": "Keweenaw County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 47.28296,
         "longitude": -88.21198
     },
     {
-        "cityId": "4998535",
+        "cityId": 4998535,
         "name": "Lake County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.99001,
         "longitude": -85.8017
     },
     {
-        "cityId": "4998845",
+        "cityId": 4998845,
         "name": "Lapeer County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.09015,
         "longitude": -83.22178
     },
     {
-        "cityId": "4999022",
+        "cityId": 4999022,
         "name": "Leelanau County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.15177,
         "longitude": -86.0385
     },
     {
-        "cityId": "4999081",
+        "cityId": 4999081,
         "name": "Lenawee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.89508,
         "longitude": -84.06636
     },
     {
-        "cityId": "4999829",
+        "cityId": 4999829,
         "name": "Livingston County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.60292,
         "longitude": -83.91153
     },
     {
-        "cityId": "5000297",
+        "cityId": 5000297,
         "name": "Luce County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.36778,
         "longitude": -85.50934
     },
     {
-        "cityId": "5000447",
+        "cityId": 5000447,
         "name": "Mackinac County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.87184,
         "longitude": -84.76227
     },
     {
-        "cityId": "5000477",
+        "cityId": 5000477,
         "name": "Macomb County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.67279,
         "longitude": -82.91016
     },
     {
-        "cityId": "5000612",
+        "cityId": 5000612,
         "name": "Manistee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.23831,
         "longitude": -86.28799
     },
     {
-        "cityId": "5000950",
+        "cityId": 5000950,
         "name": "Marquette County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.66295,
         "longitude": -87.5735
     },
     {
-        "cityId": "5001099",
+        "cityId": 5001099,
         "name": "Mason County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.95625,
         "longitude": -86.42258
     },
     {
-        "cityId": "5001594",
+        "cityId": 5001594,
         "name": "Mecosta County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.6408,
         "longitude": -85.32462
     },
     {
-        "cityId": "5001670",
+        "cityId": 5001670,
         "name": "Menominee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.52514,
         "longitude": -87.50969
     },
     {
-        "cityId": "5001932",
+        "cityId": 5001932,
         "name": "Midland County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.64686,
         "longitude": -84.38811
     },
     {
-        "cityId": "5002231",
+        "cityId": 5002231,
         "name": "Missaukee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.3373,
         "longitude": -85.09467
     },
     {
-        "cityId": "5002348",
+        "cityId": 5002348,
         "name": "Monroe County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.9214,
         "longitude": -83.49426
     },
     {
-        "cityId": "5002390",
+        "cityId": 5002390,
         "name": "Montcalm County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.31096,
         "longitude": -85.15252
     },
     {
-        "cityId": "5002394",
+        "cityId": 5002394,
         "name": "Montmorency County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.02755,
         "longitude": -84.12721
     },
     {
-        "cityId": "5003136",
+        "cityId": 5003136,
         "name": "Muskegon County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.21919,
         "longitude": -86.21246
     },
     {
-        "cityId": "5003426",
+        "cityId": 5003426,
         "name": "Newaygo County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.55417,
         "longitude": -85.80091
     },
     {
-        "cityId": "5004223",
+        "cityId": 5004223,
         "name": "Oakland County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.66041,
         "longitude": -83.3858
     },
     {
-        "cityId": "5004294",
+        "cityId": 5004294,
         "name": "Oceana County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.68178,
         "longitude": -86.31683
     },
     {
-        "cityId": "5004326",
+        "cityId": 5004326,
         "name": "Ogemaw County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.33494,
         "longitude": -84.12641
     },
     {
-        "cityId": "5004521",
+        "cityId": 5004521,
         "name": "Ontonagon County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.77749,
         "longitude": -89.30511
     },
     {
-        "cityId": "5004611",
+        "cityId": 5004611,
         "name": "Osceola County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.98987,
         "longitude": -85.32528
     },
     {
-        "cityId": "5004616",
+        "cityId": 5004616,
         "name": "Oscoda County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.68175,
         "longitude": -84.12974
     },
     {
-        "cityId": "5004659",
+        "cityId": 5004659,
         "name": "Otsego County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.02144,
         "longitude": -84.59898
     },
     {
-        "cityId": "5004681",
+        "cityId": 5004681,
         "name": "Ottawa County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.00264,
         "longitude": -86.1795
     },
     {
-        "cityId": "5006470",
+        "cityId": 5006470,
         "name": "Presque Isle County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 45.39845,
         "longitude": -83.84354
     },
     {
-        "cityId": "5007587",
+        "cityId": 5007587,
         "name": "Roscommon County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.33561,
         "longitude": -84.6116
     },
     {
-        "cityId": "5007996",
+        "cityId": 5007996,
         "name": "Saginaw County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.33503,
         "longitude": -84.05319
     },
     {
-        "cityId": "5008112",
+        "cityId": 5008112,
         "name": "Saint Clair County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.93112,
         "longitude": -82.66437
     },
     {
-        "cityId": "5008347",
+        "cityId": 5008347,
         "name": "Saint Joseph County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 41.91441,
         "longitude": -85.52774
     },
     {
-        "cityId": "5008950",
+        "cityId": 5008950,
         "name": "Sanilac County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.44331,
         "longitude": -82.64575
     },
     {
-        "cityId": "5009187",
+        "cityId": 5009187,
         "name": "Schoolcraft County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 46.04249,
         "longitude": -86.1773
     },
     {
-        "cityId": "5009706",
+        "cityId": 5009706,
         "name": "Shiawassee County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.95373,
         "longitude": -84.14673
     },
     {
-        "cityId": "5012748",
+        "cityId": 5012748,
         "name": "Tuscola County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 43.49134,
         "longitude": -83.43987
     },
     {
-        "cityId": "5013104",
+        "cityId": 5013104,
         "name": "Van Buren County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.28511,
         "longitude": -86.30642
     },
     {
-        "cityId": "5014120",
+        "cityId": 5014120,
         "name": "Washtenaw County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.25323,
         "longitude": -83.83877
     },
     {
-        "cityId": "5014227",
+        "cityId": 5014227,
         "name": "Wayne County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 42.28478,
         "longitude": -83.26113
     },
     {
-        "cityId": "5014729",
+        "cityId": 5014729,
         "name": "Wexford County",
-        "stateId": "5001836",
+        "stateId": 5001836,
         "latitude": 44.33835,
         "longitude": -85.57842
     }

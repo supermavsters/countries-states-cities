@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "294904",
+        "stateId": 294904,
         "name": "Central District",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 32.08333,
         "longitude": 34.91667
     },
     {
-        "stateId": "294800",
+        "stateId": 294800,
         "name": "Haifa",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 32.58333,
         "longitude": 35
     },
     {
-        "stateId": "293198",
+        "stateId": 293198,
         "name": "Jerusalem",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 31.75,
         "longitude": 35
     },
     {
-        "stateId": "11821181",
+        "stateId": 11821181,
         "name": "Judea and Samaria Area",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 32.10578,
         "longitude": 35.18635
     },
     {
-        "stateId": "294824",
+        "stateId": 294824,
         "name": "Northern District",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 32.83333,
         "longitude": 35.33333
     },
     {
-        "stateId": "294952",
+        "stateId": 294952,
         "name": "Southern District",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 30.66667,
         "longitude": 34.83333
     },
     {
-        "stateId": "293396",
+        "stateId": 293396,
         "name": "Tel Aviv District",
-        "countryId": "294640",
+        "countryId": 294640,
         "latitude": 32.08414,
         "longitude": 34.79995
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352579",
+        "cityId": 11352579,
         "name": "Dundagas pagasts",
-        "stateId": "7628298",
+        "stateId": 7628298,
         "latitude": 57.53975,
         "longitude": 22.38597
     },
     {
-        "cityId": "11352580",
+        "cityId": 11352580,
         "name": "Kolkas pagasts",
-        "stateId": "7628298",
+        "stateId": 7628298,
         "latitude": 57.69606,
         "longitude": 22.44505
     }

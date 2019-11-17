@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11072831",
+        "cityId": 11072831,
         "name": "Maevatanana",
-        "stateId": "7670850",
+        "stateId": 7670850,
         "latitude": -17.22802,
         "longitude": 46.81273
     },
     {
-        "cityId": "11072833",
+        "cityId": 11072833,
         "name": "Tsaratanana",
-        "stateId": "7670850",
+        "stateId": 7670850,
         "latitude": -17.14301,
         "longitude": 47.64676
     }

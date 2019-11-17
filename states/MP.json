@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "7733156",
+        "stateId": 7733156,
         "name": "Northern Islands Municipality",
-        "countryId": "4041468",
+        "countryId": 4041468,
         "latitude": 18.11,
         "longitude": 145.771
     },
     {
-        "stateId": "4041530",
+        "stateId": 4041530,
         "name": "Rota Municipality",
-        "countryId": "4041468",
+        "countryId": 4041468,
         "latitude": 14.154,
         "longitude": 145.201
     },
     {
-        "stateId": "4041552",
+        "stateId": 4041552,
         "name": "Saipan Municipality",
-        "countryId": "4041468",
+        "countryId": 4041468,
         "latitude": 15.16847,
         "longitude": 145.74081
     },
     {
-        "stateId": "4041650",
+        "stateId": 4041650,
         "name": "Tinian Municipality",
-        "countryId": "4041468",
+        "countryId": 4041468,
         "latitude": 15.029,
         "longitude": 145.616
     }

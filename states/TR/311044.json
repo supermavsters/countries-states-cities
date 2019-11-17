@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "7732711",
+        "cityId": 7732711,
         "name": "Bornova",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.48492,
         "longitude": 27.25235
     },
     {
-        "cityId": "7732712",
+        "cityId": 7732712,
         "name": "Alia\u011fa",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.80078,
         "longitude": 27.04375
     },
     {
-        "cityId": "7732714",
+        "cityId": 7732714,
         "name": "\u00c7i\u011fli",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.48802,
         "longitude": 26.96596
     },
     {
-        "cityId": "7732715",
+        "cityId": 7732715,
         "name": "Bayrakl\u0131",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.46222,
         "longitude": 27.16667
     },
     {
-        "cityId": "7732716",
+        "cityId": 7732716,
         "name": "Bergama",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 39.17088,
         "longitude": 27.18918
     },
     {
-        "cityId": "7732718",
+        "cityId": 7732718,
         "name": "Buca",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.34813,
         "longitude": 27.25053
     },
     {
-        "cityId": "7732720",
+        "cityId": 7732720,
         "name": "Gaziemir",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.31098,
         "longitude": 27.15178
     },
     {
-        "cityId": "7732724",
+        "cityId": 7732724,
         "name": "Kemalpa\u015fa",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.40883,
         "longitude": 27.491
     },
     {
-        "cityId": "7732725",
+        "cityId": 7732725,
         "name": "Konak",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.41448,
         "longitude": 27.14412
     },
     {
-        "cityId": "7732726",
+        "cityId": 7732726,
         "name": "Menderes",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.15525,
         "longitude": 27.11896
     },
     {
-        "cityId": "7732727",
+        "cityId": 7732727,
         "name": "Menemen",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.61608,
         "longitude": 27.06315
     },
     {
-        "cityId": "7732732",
+        "cityId": 7732732,
         "name": "Seferihisar",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.18144,
         "longitude": 26.88877
     },
     {
-        "cityId": "7732733",
+        "cityId": 7732733,
         "name": "Tire",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.06582,
         "longitude": 27.7273
     },
     {
-        "cityId": "7732734",
+        "cityId": 7732734,
         "name": "Torbal\u0131",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.17603,
         "longitude": 27.37182
     },
     {
-        "cityId": "7733239",
+        "cityId": 7733239,
         "name": "Beyda\u011f",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.08241,
         "longitude": 28.21609
     },
     {
-        "cityId": "8632419",
+        "cityId": 8632419,
         "name": "K\u0131n\u0131k \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 39.09692,
         "longitude": 27.38829
     },
     {
-        "cityId": "8632420",
+        "cityId": 8632420,
         "name": "Bay\u0131nd\u0131r \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.227,
         "longitude": 27.65522
     },
     {
-        "cityId": "8632421",
+        "cityId": 8632421,
         "name": "\u00d6demi\u015f \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.23819,
         "longitude": 27.9801
     },
     {
-        "cityId": "8632422",
+        "cityId": 8632422,
         "name": "Kiraz \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.24086,
         "longitude": 28.2138
     },
     {
-        "cityId": "8632423",
+        "cityId": 8632423,
         "name": "Urla \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.33256,
         "longitude": 26.76883
     },
     {
-        "cityId": "8632424",
+        "cityId": 8632424,
         "name": "Kar\u015f\u0131yaka \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.46775,
         "longitude": 27.11502
     },
     {
-        "cityId": "8632426",
+        "cityId": 8632426,
         "name": "Sel\u00e7uk \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 37.95765,
         "longitude": 27.38072
     },
     {
-        "cityId": "8632427",
+        "cityId": 8632427,
         "name": "\u00c7e\u015fme \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.31658,
         "longitude": 26.32101
     },
     {
-        "cityId": "8632428",
+        "cityId": 8632428,
         "name": "Karaburun \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.63546,
         "longitude": 26.49645
     },
     {
-        "cityId": "8632429",
+        "cityId": 8632429,
         "name": "Fo\u00e7a \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.67849,
         "longitude": 26.77214
     },
     {
-        "cityId": "8632430",
+        "cityId": 8632430,
         "name": "Dikili \u0130l\u00e7esi",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 39.0784,
         "longitude": 26.90689
     },
     {
-        "cityId": "9543231",
+        "cityId": 9543231,
         "name": "Karaba\u011flar",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.36912,
         "longitude": 27.12696
     },
     {
-        "cityId": "9543301",
+        "cityId": 9543301,
         "name": "Bal\u00e7ova",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.37302,
         "longitude": 27.08714
     },
     {
-        "cityId": "9543771",
+        "cityId": 9543771,
         "name": "Narl\u0131dere",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.38957,
         "longitude": 27.02431
     },
     {
-        "cityId": "9544174",
+        "cityId": 9544174,
         "name": "G\u00fczelbah\u00e7e",
-        "stateId": "311044",
+        "stateId": 311044,
         "latitude": 38.37046,
         "longitude": 26.8693
     }

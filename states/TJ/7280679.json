@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1220048",
+        "cityId": 1220048,
         "name": "Zheleznodorozhnyy Rayon",
-        "stateId": "7280679",
+        "stateId": 7280679,
         "latitude": 38.55,
         "longitude": 68.8
     },
     {
-        "cityId": "1220319",
+        "cityId": 1220319,
         "name": "Tsentral\u2019nyy Rayon",
-        "stateId": "7280679",
+        "stateId": 7280679,
         "latitude": 38.55,
         "longitude": 68.8
     },
     {
-        "cityId": "1220859",
+        "cityId": 1220859,
         "name": "Oktyabr\u2019skiy Rayon",
-        "stateId": "7280679",
+        "stateId": 7280679,
         "latitude": 38.55,
         "longitude": 68.8
     },
     {
-        "cityId": "1221873",
+        "cityId": 1221873,
         "name": "Dushanbe",
-        "stateId": "7280679",
+        "stateId": 7280679,
         "latitude": 38.57335,
         "longitude": 68.77874
     }

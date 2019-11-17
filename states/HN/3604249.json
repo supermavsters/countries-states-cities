@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "3600213",
+        "cityId": 3600213,
         "name": "Yoc\u00f3n",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.95,
         "longitude": -86.82
     },
     {
-        "cityId": "3601303",
+        "cityId": 3601303,
         "name": "Silca",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.83333,
         "longitude": -86.5
     },
     {
-        "cityId": "3601544",
+        "cityId": 3601544,
         "name": "Santa Mar\u00eda del Real",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.8,
         "longitude": -85.93333
     },
     {
-        "cityId": "3602282",
+        "cityId": 3602282,
         "name": "San Francisco de la Paz",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.91667,
         "longitude": -86.16667
     },
     {
-        "cityId": "3602288",
+        "cityId": 3602288,
         "name": "San Francisco de Becerra",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.66667,
         "longitude": -86.1
     },
     {
-        "cityId": "3602357",
+        "cityId": 3602357,
         "name": "San Esteban",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.25,
         "longitude": -85.75
     },
     {
-        "cityId": "3602604",
+        "cityId": 3602604,
         "name": "Salam\u00e1",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.83333,
         "longitude": -86.6
     },
     {
-        "cityId": "3605043",
+        "cityId": 3605043,
         "name": "Manto",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.93333,
         "longitude": -86.36667
     },
     {
-        "cityId": "3605054",
+        "cityId": 3605054,
         "name": "Mangulile",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.08333,
         "longitude": -86.8
     },
     {
-        "cityId": "3606177",
+        "cityId": 3606177,
         "name": "La Uni\u00f3n",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.08333,
         "longitude": -86.71667
     },
     {
-        "cityId": "3607831",
+        "cityId": 3607831,
         "name": "La Guata",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.1,
         "longitude": -86.4
     },
     {
-        "cityId": "3608504",
+        "cityId": 3608504,
         "name": "Juticalpa",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.55,
         "longitude": -86.3
     },
     {
-        "cityId": "3608736",
+        "cityId": 3608736,
         "name": "Jano",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.06667,
         "longitude": -86.5
     },
     {
-        "cityId": "3609153",
+        "cityId": 3609153,
         "name": "Guayape",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.79,
         "longitude": -86.85
     },
     {
-        "cityId": "3609232",
+        "cityId": 3609232,
         "name": "Guarizama",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.91667,
         "longitude": -86.3
     },
     {
-        "cityId": "3609390",
+        "cityId": 3609390,
         "name": "Gualaco",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15,
         "longitude": -86
     },
     {
-        "cityId": "3609735",
+        "cityId": 3609735,
         "name": "Esquipulas del Norte",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.28333,
         "longitude": -86.55
     },
     {
-        "cityId": "3610388",
+        "cityId": 3610388,
         "name": "El Rosario",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.91667,
         "longitude": -86.7
     },
     {
-        "cityId": "3612811",
+        "cityId": 3612811,
         "name": "Dulce Nombre de Culm\u00ed",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 15.05,
         "longitude": -85.27
     },
     {
-        "cityId": "3613265",
+        "cityId": 3613265,
         "name": "Concordia",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.66667,
         "longitude": -86.65
     },
     {
-        "cityId": "3613975",
+        "cityId": 3613975,
         "name": "Catacamas",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.83333,
         "longitude": -85.9
     },
     {
-        "cityId": "3614321",
+        "cityId": 3614321,
         "name": "Campamento",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.56667,
         "longitude": -86.63333
     },
     {
-        "cityId": "8062434",
+        "cityId": 8062434,
         "name": "Patuca",
-        "stateId": "3604249",
+        "stateId": 3604249,
         "latitude": 14.36,
         "longitude": -85.97
     }

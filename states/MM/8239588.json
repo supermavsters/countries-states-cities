@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11154018",
+        "cityId": 11154018,
         "name": "Nay Pyi Taw (South)",
-        "stateId": "8239588",
+        "stateId": 8239588,
         "latitude": 19.6402,
         "longitude": 96.16847
     },
     {
-        "cityId": "11154023",
+        "cityId": 11154023,
         "name": "Nay Pyi Taw (North)",
-        "stateId": "8239588",
+        "stateId": 8239588,
         "latitude": 20.04775,
         "longitude": 96.1384
     }

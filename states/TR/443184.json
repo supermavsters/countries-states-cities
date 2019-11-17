@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "8630873",
+        "cityId": 8630873,
         "name": "Tuzluca \u0130l\u00e7esi",
-        "stateId": "443184",
+        "stateId": 443184,
         "latitude": 40.03863,
         "longitude": 43.65212
     },
     {
-        "cityId": "8630874",
+        "cityId": 8630874,
         "name": "Karakoyunlu \u0130l\u00e7esi",
-        "stateId": "443184",
+        "stateId": 443184,
         "latitude": 39.8804,
         "longitude": 43.63302
     }

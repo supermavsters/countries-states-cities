@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "157958",
+        "cityId": 157958,
         "name": "Kibondo",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.07833,
         "longitude": 31.0089
     },
     {
-        "cityId": "158213",
+        "cityId": 158213,
         "name": "Kasulu",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.43917,
         "longitude": 30.43798
     },
     {
-        "cityId": "7646313",
+        "cityId": 7646313,
         "name": "Kigoma Rural",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.75299,
         "longitude": 29.68918
     },
     {
-        "cityId": "9258474",
+        "cityId": 9258474,
         "name": "Uvinza District",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -5.09795,
         "longitude": 30.37548
     },
     {
-        "cityId": "9258493",
+        "cityId": 9258493,
         "name": "Kakonko District",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -3.27694,
         "longitude": 30.949
     },
     {
-        "cityId": "9998113",
+        "cityId": 9998113,
         "name": "Buhigwe",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.45088,
         "longitude": 29.91369
     },
     {
-        "cityId": "9998114",
+        "cityId": 9998114,
         "name": "Kasulu Town",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.55979,
         "longitude": 30.09646
     },
     {
-        "cityId": "9998117",
+        "cityId": 9998117,
         "name": "Kigoma Ujiji Municipal",
-        "stateId": "157732",
+        "stateId": 157732,
         "latitude": -4.88905,
         "longitude": 29.6623
     }

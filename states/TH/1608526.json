@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "1152376",
+        "cityId": 1152376,
         "name": "Amphoe Lat Yao",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.77526,
         "longitude": 99.80046
     },
     {
-        "cityId": "1605489",
+        "cityId": 1605489,
         "name": "Amphoe Tha Tako",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.65434,
         "longitude": 100.45939
     },
     {
-        "cityId": "1605911",
+        "cityId": 1605911,
         "name": "Amphoe Takhli",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.25928,
         "longitude": 100.38058
     },
     {
-        "cityId": "1607751",
+        "cityId": 1607751,
         "name": "Amphoe Phayuha Khiri",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.50783,
         "longitude": 100.21226
     },
     {
-        "cityId": "1607880",
+        "cityId": 1607880,
         "name": "Amphoe Phai Sali",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.58723,
         "longitude": 100.6853
     },
     {
-        "cityId": "1608285",
+        "cityId": 1608285,
         "name": "Amphoe Nong Bua",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.86591,
         "longitude": 100.6286
     },
     {
-        "cityId": "1608645",
+        "cityId": 1608645,
         "name": "Amphoe Mueang Nakhon Sawan",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.71991,
         "longitude": 100.10067
     },
     {
-        "cityId": "1609378",
+        "cityId": 1609378,
         "name": "Amphoe Krok Phra",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.58638,
         "longitude": 100.01815
     },
     {
-        "cityId": "1611016",
+        "cityId": 1611016,
         "name": "Amphoe Chumsaeng",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.84745,
         "longitude": 100.28971
     },
     {
-        "cityId": "1614121",
+        "cityId": 1614121,
         "name": "Amphoe Banphot Phisai",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.99714,
         "longitude": 99.99409
     },
     {
-        "cityId": "7510629",
+        "cityId": 7510629,
         "name": "Amphoe Mae Poen",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.70656,
         "longitude": 99.34827
     },
     {
-        "cityId": "7510662",
+        "cityId": 7510662,
         "name": "Amphoe Chum Ta Bong",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.68311,
         "longitude": 99.56908
     },
     {
-        "cityId": "7510663",
+        "cityId": 7510663,
         "name": "Amphoe Mae Wong",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.83538,
         "longitude": 99.40785
     },
     {
-        "cityId": "7510677",
+        "cityId": 7510677,
         "name": "Amphoe Tak Fa",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.38249,
         "longitude": 100.46693
     },
     {
-        "cityId": "7510678",
+        "cityId": 7510678,
         "name": "Amphoe Kao Liao",
-        "stateId": "1608526",
+        "stateId": 1608526,
         "latitude": 15.88778,
         "longitude": 100.09647
     }

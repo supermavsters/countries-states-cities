@@ -1,183 +1,183 @@
 [
     {
-        "stateId": "2661551",
+        "stateId": 2661551,
         "name": "Canton de Berne",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.87251,
         "longitude": 7.59563
     },
     {
-        "stateId": "2660717",
+        "stateId": 2660717,
         "name": "Canton de Fribourg",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.70834,
         "longitude": 7.10311
     },
     {
-        "stateId": "2658182",
+        "stateId": 2658182,
         "name": "Canton de Vaud",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.61671,
         "longitude": 6.64496
     },
     {
-        "stateId": "2658205",
+        "stateId": 2658205,
         "name": "Canton du Valais",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.22925,
         "longitude": 7.45972
     },
     {
-        "stateId": "2660645",
+        "stateId": 2660645,
         "name": "Gen\u00e8ve",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.19673,
         "longitude": 6.11044
     },
     {
-        "stateId": "2660207",
+        "stateId": 2660207,
         "name": "Jura",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.37266,
         "longitude": 7.16802
     },
     {
-        "stateId": "2661876",
+        "stateId": 2661876,
         "name": "Kanton Aargau",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.39557,
         "longitude": 8.17214
     },
     {
-        "stateId": "2661739",
+        "stateId": 2661739,
         "name": "Kanton Appenzell Ausserrhoden",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.36293,
         "longitude": 9.28283
     },
     {
-        "stateId": "2661741",
+        "stateId": 2661741,
         "name": "Kanton Appenzell Innerrhoden",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.31262,
         "longitude": 9.40562
     },
     {
-        "stateId": "2661603",
+        "stateId": 2661603,
         "name": "Kanton Basel-Landschaft",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.50438,
         "longitude": 7.70444
     },
     {
-        "stateId": "2661602",
+        "stateId": 2661602,
         "name": "Kanton Basel-Stadt",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.5669,
         "longitude": 7.61519
     },
     {
-        "stateId": "2660593",
+        "stateId": 2660593,
         "name": "Kanton Glarus",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.97559,
         "longitude": 9.07318
     },
     {
-        "stateId": "2660522",
+        "stateId": 2660522,
         "name": "Kanton Graub\u00fcnden",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.6587,
         "longitude": 9.62296
     },
     {
-        "stateId": "2659810",
+        "stateId": 2659810,
         "name": "Kanton Luzern",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.16667,
         "longitude": 8.16667
     },
     {
-        "stateId": "2659471",
+        "stateId": 2659471,
         "name": "Kanton Nidwalden",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.92739,
         "longitude": 8.41028
     },
     {
-        "stateId": "2659315",
+        "stateId": 2659315,
         "name": "Kanton Obwalden",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.85867,
         "longitude": 8.20984
     },
     {
-        "stateId": "2658760",
+        "stateId": 2658760,
         "name": "Kanton Schaffhausen",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.71034,
         "longitude": 8.63388
     },
     {
-        "stateId": "2658664",
+        "stateId": 2658664,
         "name": "Kanton Schwyz",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.0405,
         "longitude": 8.74101
     },
     {
-        "stateId": "2658563",
+        "stateId": 2658563,
         "name": "Kanton Solothurn",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.21071,
         "longitude": 7.52048
     },
     {
-        "stateId": "2658821",
+        "stateId": 2658821,
         "name": "Kanton St. Gallen",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.25,
         "longitude": 9.25
     },
     {
-        "stateId": "2658372",
+        "stateId": 2658372,
         "name": "Kanton Thurgau",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.5562,
         "longitude": 9.07686
     },
     {
-        "stateId": "2658226",
+        "stateId": 2658226,
         "name": "Kanton Uri",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.7847,
         "longitude": 8.64175
     },
     {
-        "stateId": "2657907",
+        "stateId": 2657907,
         "name": "Kanton Zug",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.15886,
         "longitude": 8.53866
     },
     {
-        "stateId": "2657895",
+        "stateId": 2657895,
         "name": "Kanton Z\u00fcrich",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 47.41667,
         "longitude": 8.66667
     },
     {
-        "stateId": "2659495",
+        "stateId": 2659495,
         "name": "Neuch\u00e2tel",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.99087,
         "longitude": 6.79767
     },
     {
-        "stateId": "2658370",
+        "stateId": 2658370,
         "name": "Ticino",
-        "countryId": "2658434",
+        "countryId": 2658434,
         "latitude": 46.28455,
         "longitude": 8.79065
     }

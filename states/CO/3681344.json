@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "6798554",
+        "cityId": 6798554,
         "name": "Calamar",
-        "stateId": "3681344",
+        "stateId": 3681344,
         "latitude": 1.60178,
         "longitude": -72.98243
     },
     {
-        "cityId": "6851384",
+        "cityId": 6851384,
         "name": "San Jos\u00e9 del Guaviare",
-        "stateId": "3681344",
+        "stateId": 3681344,
         "latitude": 2.55368,
         "longitude": -72.07462
     },
     {
-        "cityId": "6976870",
+        "cityId": 6976870,
         "name": "Miraflores",
-        "stateId": "3681344",
+        "stateId": 3681344,
         "latitude": 1.3098,
         "longitude": -72.0419
     },
     {
-        "cityId": "9172390",
+        "cityId": 9172390,
         "name": "El Retorno",
-        "stateId": "3681344",
+        "stateId": 3681344,
         "latitude": 1.92608,
         "longitude": -71.57561
     }

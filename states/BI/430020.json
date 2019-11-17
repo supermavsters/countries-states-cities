@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7670588",
+        "cityId": 7670588,
         "name": "Bukinanvana",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.86816,
         "longitude": 29.3586
     },
     {
-        "cityId": "7670604",
+        "cityId": 7670604,
         "name": "Mabayi",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.72082,
         "longitude": 29.24791
     },
     {
-        "cityId": "7670607",
+        "cityId": 7670607,
         "name": "Murwi",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.90289,
         "longitude": 29.2497
     },
     {
-        "cityId": "7670613",
+        "cityId": 7670613,
         "name": "Commune of Rugombo",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.82335,
         "longitude": 29.10228
     },
     {
-        "cityId": "8334579",
+        "cityId": 8334579,
         "name": "Commune of Buganda",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.9648,
         "longitude": 29.18874
     },
     {
-        "cityId": "9072889",
+        "cityId": 9072889,
         "name": "Commune of Mugina",
-        "stateId": "430020",
+        "stateId": 430020,
         "latitude": -2.79417,
         "longitude": 29.12806
     }

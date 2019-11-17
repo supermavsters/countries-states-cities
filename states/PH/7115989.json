@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1682671",
+        "cityId": 1682671,
         "name": "Province of Tawi-Tawi",
-        "stateId": "7115989",
+        "stateId": 7115989,
         "latitude": 5.2057,
         "longitude": 120.0265
     },
     {
-        "cityId": "1685370",
+        "cityId": 1685370,
         "name": "Province of Sulu",
-        "stateId": "7115989",
+        "stateId": 7115989,
         "latitude": 6,
         "longitude": 121
     },
     {
-        "cityId": "1703701",
+        "cityId": 1703701,
         "name": "Province of Maguindanao",
-        "stateId": "7115989",
+        "stateId": 7115989,
         "latitude": 7.13333,
         "longitude": 124.3
     },
     {
-        "cityId": "1707667",
+        "cityId": 1707667,
         "name": "Province of Lanao del Sur",
-        "stateId": "7115989",
+        "stateId": 7115989,
         "latitude": 7.8525,
         "longitude": 124.45862
     },
     {
-        "cityId": "1726404",
+        "cityId": 1726404,
         "name": "Province of Basilan",
-        "stateId": "7115989",
+        "stateId": 7115989,
         "latitude": 6.54729,
         "longitude": 122.11853
     }

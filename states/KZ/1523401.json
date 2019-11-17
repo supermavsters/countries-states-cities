@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "1516894",
+        "cityId": 1516894,
         "name": "Zhangaarqa A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 47.66667,
         "longitude": 70.5
     },
     {
-        "cityId": "1517288",
+        "cityId": 1517288,
         "name": "Qazybek B\u012b A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.82039,
         "longitude": 76.49606
     },
     {
-        "cityId": "1517740",
+        "cityId": 1517740,
         "name": "Ulyta\u016b A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 48.66667,
         "longitude": 66.5
     },
     {
-        "cityId": "1518252",
+        "cityId": 1518252,
         "name": "Tengiz A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.66667,
         "longitude": 69
     },
     {
-        "cityId": "1518281",
+        "cityId": 1518281,
         "name": "Tel\u2019man A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 50.08333,
         "longitude": 73
     },
     {
-        "cityId": "1519197",
+        "cityId": 1519197,
         "name": "Shet A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 48.66667,
         "longitude": 73.5
     },
     {
-        "cityId": "1520325",
+        "cityId": 1520325,
         "name": "Osakarovka A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 50.5,
         "longitude": 73.5
     },
     {
-        "cityId": "1520378",
+        "cityId": 1520378,
         "name": "Ordzhon\u012bk\u012bdze A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 52.66667,
         "longitude": 61.66667
     },
     {
-        "cityId": "1520497",
+        "cityId": 1520497,
         "name": "Nura A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 50,
         "longitude": 71.25
     },
     {
-        "cityId": "1520873",
+        "cityId": 1520873,
         "name": "Molodezhnyy A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 50.75,
         "longitude": 73.75
     },
     {
-        "cityId": "1520952",
+        "cityId": 1520952,
         "name": "M\u012bch\u016br\u012bn A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.5,
         "longitude": 72.75
     },
     {
-        "cityId": "1523004",
+        "cityId": 1523004,
         "name": "Qarqaraly A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.33333,
         "longitude": 75.5
     },
     {
-        "cityId": "1524382",
+        "cityId": 1524382,
         "name": "Zhezdi A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.33333,
         "longitude": 66.5
     },
     {
-        "cityId": "1526570",
+        "cityId": 1526570,
         "name": "Aqtoghay A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 48.5,
         "longitude": 74.75
     },
     {
-        "cityId": "1526940",
+        "cityId": 1526940,
         "name": "Aqadyr A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 47.33333,
         "longitude": 72.5
     },
     {
-        "cityId": "1537252",
+        "cityId": 1537252,
         "name": "Toqyra\u016byn A\u016bdany",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 47.33333,
         "longitude": 75.5
     },
     {
-        "cityId": "1537254",
+        "cityId": 1537254,
         "name": "Zhezqazghan Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 47.78333,
         "longitude": 67.76667
     },
     {
-        "cityId": "1537255",
+        "cityId": 1537255,
         "name": "Balqash Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 46.81667,
         "longitude": 75
     },
     {
-        "cityId": "1537256",
+        "cityId": 1537256,
         "name": "Qarazhal Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 48.03333,
         "longitude": 70.81667
     },
     {
-        "cityId": "1537257",
+        "cityId": 1537257,
         "name": "Qalasy S\u00e4tbaev",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 48.18333,
         "longitude": 67.5
     },
     {
-        "cityId": "1537266",
+        "cityId": 1537266,
         "name": "Qaraghandy Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.8364,
         "longitude": 73.15789
     },
     {
-        "cityId": "1537267",
+        "cityId": 1537267,
         "name": "Abay Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.63333,
         "longitude": 72.88333
     },
     {
-        "cityId": "1537268",
+        "cityId": 1537268,
         "name": "Sorang Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.76667,
         "longitude": 72.86667
     },
     {
-        "cityId": "1537269",
+        "cityId": 1537269,
         "name": "Temirta\u016b Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 50.08333,
         "longitude": 72.93333
     },
     {
-        "cityId": "1537270",
+        "cityId": 1537270,
         "name": "Shakht\u012bnsk Qalasy",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.68333,
         "longitude": 72.6
     },
     {
-        "cityId": "9072845",
+        "cityId": 9072845,
         "name": "Bukhar-Zhyrau",
-        "stateId": "1523401",
+        "stateId": 1523401,
         "latitude": 49.85658,
         "longitude": 73.68118
     }

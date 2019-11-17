@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1285898",
+        "cityId": 1285898,
         "name": "Yamethin District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 20.5022,
         "longitude": 96.11984
     },
     {
-        "cityId": "1307834",
+        "cityId": 1307834,
         "name": "Myingyan District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 21.27763,
         "longitude": 95.48423
     },
     {
-        "cityId": "1309790",
+        "cityId": 1309790,
         "name": "Meiktila District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 20.95695,
         "longitude": 95.95621
     },
     {
-        "cityId": "1311872",
+        "cityId": 1311872,
         "name": "Mandalay District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 21.94941,
         "longitude": 96.1235
     },
     {
-        "cityId": "1316697",
+        "cityId": 1316697,
         "name": "Kyaukse District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 21.60502,
         "longitude": 96.24675
     },
     {
-        "cityId": "8238735",
+        "cityId": 8238735,
         "name": "Nyaung-U District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 21.0881,
         "longitude": 95.03638
     },
     {
-        "cityId": "8238738",
+        "cityId": 8238738,
         "name": "Pyin Oo Lwin District",
-        "stateId": "1311871",
+        "stateId": 1311871,
         "latitude": 22.80987,
         "longitude": 96.18107
     }

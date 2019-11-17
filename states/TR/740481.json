@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7911029",
+        "cityId": 7911029,
         "name": "Kalkandere",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 40.92143,
         "longitude": 40.43999
     },
     {
-        "cityId": "8631450",
+        "cityId": 8631450,
         "name": "\u0130kizdere \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 40.77713,
         "longitude": 40.56076
     },
     {
-        "cityId": "8631451",
+        "cityId": 8631451,
         "name": "G\u00fcneysu \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 40.97526,
         "longitude": 40.60757
     },
     {
-        "cityId": "8631452",
+        "cityId": 8631452,
         "name": "Hem\u015fin \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.05922,
         "longitude": 40.9014
     },
     {
-        "cityId": "8631453",
+        "cityId": 8631453,
         "name": "Pazar \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.17286,
         "longitude": 40.88398
     },
     {
-        "cityId": "8631454",
+        "cityId": 8631454,
         "name": "\u00c7aml\u0131hem\u015fin \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.04088,
         "longitude": 41.02071
     },
     {
-        "cityId": "8631455",
+        "cityId": 8631455,
         "name": "Derepazar\u0131 \u0130l\u00e7esi",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.02212,
         "longitude": 40.43876
     },
     {
-        "cityId": "9549009",
+        "cityId": 9549009,
         "name": "\u0130yidere",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.00905,
         "longitude": 40.37776
     },
     {
-        "cityId": "9549101",
+        "cityId": 9549101,
         "name": "Arde\u015fen",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.18557,
         "longitude": 40.98639
     },
     {
-        "cityId": "9549145",
+        "cityId": 9549145,
         "name": "\u00c7ayeli",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.08941,
         "longitude": 40.73696
     },
     {
-        "cityId": "9549311",
+        "cityId": 9549311,
         "name": "F\u0131nd\u0131kl\u0131",
-        "stateId": "740481",
+        "stateId": 740481,
         "latitude": 41.2711,
         "longitude": 41.14449
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7522388",
+        "cityId": 7522388,
         "name": "Otep\u00e4\u00e4 vald",
-        "stateId": "587875",
+        "stateId": 587875,
         "latitude": 58.02177,
         "longitude": 26.45306
     },
     {
-        "cityId": "11776870",
+        "cityId": 11776870,
         "name": "Valga vald",
-        "stateId": "587875",
+        "stateId": 587875,
         "latitude": 57.77908,
         "longitude": 26.27151
     },
     {
-        "cityId": "11776878",
+        "cityId": 11776878,
         "name": "T\u00f5rva vald",
-        "stateId": "587875",
+        "stateId": 587875,
         "latitude": 57.98419,
         "longitude": 25.88741
     }

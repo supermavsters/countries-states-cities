@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "9179626",
+        "cityId": 9179626,
         "name": "Cabudwaaq",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 5.82608,
         "longitude": 46.125
     },
     {
-        "cityId": "9179641",
+        "cityId": 9179641,
         "name": "Ceel Buur",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 4.76049,
         "longitude": 46.84157
     },
     {
-        "cityId": "9179646",
+        "cityId": 9179646,
         "name": "Ceel Dheer",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 4.0519,
         "longitude": 47.05096
     },
     {
-        "cityId": "9179650",
+        "cityId": 9179650,
         "name": "Dhuusamarreeb",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 5.44113,
         "longitude": 46.68405
     },
     {
-        "cityId": "9179982",
+        "cityId": 9179982,
         "name": "Adado",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 6.137,
         "longitude": 46.6259
     },
     {
-        "cityId": "9180013",
+        "cityId": 9180013,
         "name": "Ceelbuur",
-        "stateId": "59362",
+        "stateId": 59362,
         "latitude": 4.68457,
         "longitude": 46.61956
     }

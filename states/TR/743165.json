@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "8632561",
+        "cityId": 8632561,
         "name": "Pehlivank\u00f6y \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.35922,
         "longitude": 26.93445
     },
     {
-        "cityId": "8632562",
+        "cityId": 8632562,
         "name": "Babaeski \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.44371,
         "longitude": 27.10458
     },
     {
-        "cityId": "8632563",
+        "cityId": 8632563,
         "name": "L\u00fcleburgaz \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.41495,
         "longitude": 27.37325
     },
     {
-        "cityId": "8632564",
+        "cityId": 8632564,
         "name": "Kof\u00e7az \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.9547,
         "longitude": 27.17165
     },
     {
-        "cityId": "8632565",
+        "cityId": 8632565,
         "name": "P\u0131narhisar \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.63517,
         "longitude": 27.52951
     },
     {
-        "cityId": "8632566",
+        "cityId": 8632566,
         "name": "Demirk\u00f6y \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.83567,
         "longitude": 27.77137
     },
     {
-        "cityId": "8632567",
+        "cityId": 8632567,
         "name": "Vize \u0130l\u00e7esi",
-        "stateId": "743165",
+        "stateId": 743165,
         "latitude": 41.58294,
         "longitude": 27.77452
     }

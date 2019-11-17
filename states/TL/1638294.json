@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8617922",
+        "cityId": 8617922,
         "name": "Lautem",
-        "stateId": "1638294",
+        "stateId": 1638294,
         "latitude": -8.36514,
         "longitude": 126.90389
     },
     {
-        "cityId": "8617923",
+        "cityId": 8617923,
         "name": "Iliomar",
-        "stateId": "1638294",
+        "stateId": 1638294,
         "latitude": -8.70917,
         "longitude": 126.82833
     },
     {
-        "cityId": "8618007",
+        "cityId": 8618007,
         "name": "Tutuala",
-        "stateId": "1638294",
+        "stateId": 1638294,
         "latitude": -8.39597,
         "longitude": 127.25923
     },
     {
-        "cityId": "8629266",
+        "cityId": 8629266,
         "name": "Lospalos",
-        "stateId": "1638294",
+        "stateId": 1638294,
         "latitude": -8.51821,
         "longitude": 126.9956
     },
     {
-        "cityId": "8629267",
+        "cityId": 8629267,
         "name": "Luro",
-        "stateId": "1638294",
+        "stateId": 1638294,
         "latitude": -8.54359,
         "longitude": 126.83003
     }

@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "2760421",
+        "cityId": 2760421,
         "name": "Politischer Bezirk Zwettl",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.57435,
         "longitude": 15.17159
     },
     {
-        "cityId": "2761349",
+        "cityId": 2761349,
         "name": "Wiener Neustadt Stadt",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.8,
         "longitude": 16.25
     },
     {
-        "cityId": "2761352",
+        "cityId": 2761352,
         "name": "Politischer Bezirk Wiener Neustadt",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.83203,
         "longitude": 16.14291
     },
     {
-        "cityId": "2762078",
+        "cityId": 2762078,
         "name": "Politischer Bezirk Waidhofen an der Thaya",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.85925,
         "longitude": 15.35814
     },
     {
-        "cityId": "2763265",
+        "cityId": 2763265,
         "name": "Politischer Bezirk Tulln",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.3,
         "longitude": 16
     },
     {
-        "cityId": "2766079",
+        "cityId": 2766079,
         "name": "Politischer Bezirk Scheibbs",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.92316,
         "longitude": 15.10376
     },
     {
-        "cityId": "2766426",
+        "cityId": 2766426,
         "name": "Sankt P\u00f6lten Stadt",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.2,
         "longitude": 15.61667
     },
     {
-        "cityId": "2766428",
+        "cityId": 2766428,
         "name": "Politischer Bezirk Sankt P\u00f6lten",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.16905,
         "longitude": 15.66508
     },
     {
-        "cityId": "2770710",
+        "cityId": 2770710,
         "name": "Politischer Bezirk Neunkirchen",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.69424,
         "longitude": 15.93783
     },
     {
-        "cityId": "2771333",
+        "cityId": 2771333,
         "name": "Politischer Bezirk M\u00f6dling",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.08517,
         "longitude": 16.24118
     },
     {
-        "cityId": "2771556",
+        "cityId": 2771556,
         "name": "Politischer Bezirk Mistelbach",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.59436,
         "longitude": 16.5473
     },
     {
-        "cityId": "2771680",
+        "cityId": 2771680,
         "name": "Politischer Bezirk Melk",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.21314,
         "longitude": 15.24282
     },
     {
-        "cityId": "2772469",
+        "cityId": 2772469,
         "name": "Politischer Bezirk Lilienfeld",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.91667,
         "longitude": 15.6
     },
     {
-        "cityId": "2773547",
+        "cityId": 2773547,
         "name": "Krems an der Donau Stadt",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.4104,
         "longitude": 15.60574
     },
     {
-        "cityId": "2773548",
+        "cityId": 2773548,
         "name": "Politischer Bezirk Krems",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.46582,
         "longitude": 15.52093
     },
     {
-        "cityId": "2773697",
+        "cityId": 2773697,
         "name": "Politischer Bezirk Korneuburg",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.44343,
         "longitude": 16.2412
     },
     {
-        "cityId": "2775515",
+        "cityId": 2775515,
         "name": "Politischer Bezirk Horn",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.71341,
         "longitude": 15.68712
     },
     {
-        "cityId": "2775635",
+        "cityId": 2775635,
         "name": "Politischer Bezirk Hollabrunn",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.65286,
         "longitude": 15.99701
     },
     {
-        "cityId": "2778438",
+        "cityId": 2778438,
         "name": "Politischer Bezirk Gm\u00fcnd",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.74732,
         "longitude": 14.98166
     },
     {
-        "cityId": "2778876",
+        "cityId": 2778876,
         "name": "Politischer Bezirk G\u00e4nserndorf",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.3934,
         "longitude": 16.73892
     },
     {
-        "cityId": "2781372",
+        "cityId": 2781372,
         "name": "Politischer Bezirk Bruck an der Leitha",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48.06781,
         "longitude": 16.77284
     },
     {
-        "cityId": "2782066",
+        "cityId": 2782066,
         "name": "Politischer Bezirk Baden",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.97729,
         "longitude": 16.19845
     },
     {
-        "cityId": "2782554",
+        "cityId": 2782554,
         "name": "Politischer Bezirk Amstetten",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 48,
         "longitude": 14.76667
     },
     {
-        "cityId": "6621168",
+        "cityId": 6621168,
         "name": "Waidhofen an der Ybbs Stadt",
-        "stateId": "2770542",
+        "stateId": 2770542,
         "latitude": 47.95999,
         "longitude": 14.77438
     }

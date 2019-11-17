@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3491930",
+        "cityId": 3491930,
         "name": "Villa Isabela",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.8,
         "longitude": -71.08333
     },
     {
-        "cityId": "3492630",
+        "cityId": 3492630,
         "name": "Sos\u00faa",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.71667,
         "longitude": -70.46667
     },
     {
-        "cityId": "3494269",
+        "cityId": 3494269,
         "name": "Puerto Plata",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.75119,
         "longitude": -70.70251
     },
     {
-        "cityId": "3497351",
+        "cityId": 3497351,
         "name": "Luper\u00f3n",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.85668,
         "longitude": -70.97439
     },
     {
-        "cityId": "3498419",
+        "cityId": 3498419,
         "name": "Los Hidalgos",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.75,
         "longitude": -71.03333
     },
     {
-        "cityId": "3504333",
+        "cityId": 3504333,
         "name": "Imbert",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.75,
         "longitude": -70.86667
     },
     {
-        "cityId": "3512798",
+        "cityId": 3512798,
         "name": "Altamira",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.7,
         "longitude": -70.83333
     },
     {
-        "cityId": "11154554",
+        "cityId": 11154554,
         "name": "Villa Montellano",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.70826,
         "longitude": -70.59261
     },
     {
-        "cityId": "11154577",
+        "cityId": 11154577,
         "name": "Guananico",
-        "stateId": "3494267",
+        "stateId": 3494267,
         "latitude": 19.6992,
         "longitude": -70.92124
     }

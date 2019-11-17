@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2464646",
+        "cityId": 2464646,
         "name": "Tozeur",
-        "stateId": "2464645",
+        "stateId": 2464645,
         "latitude": 33.94235,
         "longitude": 8.10349
     },
     {
-        "cityId": "2468560",
+        "cityId": 2468560,
         "name": "Nefta",
-        "stateId": "2464645",
+        "stateId": 2464645,
         "latitude": 33.84889,
         "longitude": 7.87926
     },
     {
-        "cityId": "11106375",
+        "cityId": 11106375,
         "name": "Hazoua",
-        "stateId": "2464645",
+        "stateId": 2464645,
         "latitude": 33.76614,
         "longitude": 7.65571
     },
     {
-        "cityId": "11106376",
+        "cityId": 11106376,
         "name": "Degache",
-        "stateId": "2464645",
+        "stateId": 2464645,
         "latitude": 34.06956,
         "longitude": 8.25047
     },
     {
-        "cityId": "11106377",
+        "cityId": 11106377,
         "name": "Tamaghza",
-        "stateId": "2464645",
+        "stateId": 2464645,
         "latitude": 34.2647,
         "longitude": 7.88488
     }

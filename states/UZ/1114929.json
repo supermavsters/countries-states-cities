@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1215788",
+        "cityId": 1215788,
         "name": "Wobkent Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40,
         "longitude": 64.5
     },
     {
-        "cityId": "1216048",
+        "cityId": 1216048,
         "name": "Jondor Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40,
         "longitude": 63.75
     },
     {
-        "cityId": "1216289",
+        "cityId": 1216289,
         "name": "Romiton Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.9,
         "longitude": 64.4
     },
     {
-        "cityId": "1217081",
+        "cityId": 1217081,
         "name": "Qorak\u016dl Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.50987,
         "longitude": 63.84602
     },
     {
-        "cityId": "1217179",
+        "cityId": 1217179,
         "name": "Kogon Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.75,
         "longitude": 64.58333
     },
     {
-        "cityId": "1217663",
+        "cityId": 1217663,
         "name": "Bukhoro Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.53542,
         "longitude": 64.39921
     },
     {
-        "cityId": "1217905",
+        "cityId": 1217905,
         "name": "Olot Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.16667,
         "longitude": 64.16667
     },
     {
-        "cityId": "1346433",
+        "cityId": 1346433,
         "name": "Qorovulbozor Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.4742,
         "longitude": 64.77046
     },
     {
-        "cityId": "1346437",
+        "cityId": 1346437,
         "name": "Kogon Shahri",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.72722,
         "longitude": 64.55722
     },
     {
-        "cityId": "1512837",
+        "cityId": 1512837,
         "name": "Shofirkon Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40.5,
         "longitude": 64.33333
     },
     {
-        "cityId": "1513006",
+        "cityId": 1513006,
         "name": "Peshku Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40.41667,
         "longitude": 63.83333
     },
     {
-        "cityId": "1513982",
+        "cityId": 1513982,
         "name": "Ghijduwon Tumani",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40.5,
         "longitude": 64.83333
     },
     {
-        "cityId": "1538236",
+        "cityId": 1538236,
         "name": "Ghijduwon Shahri",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 40.1,
         "longitude": 64.68333
     },
     {
-        "cityId": "7668831",
+        "cityId": 7668831,
         "name": "Alat",
-        "stateId": "1114929",
+        "stateId": 1114929,
         "latitude": 39.21115,
         "longitude": 64.15041
     }

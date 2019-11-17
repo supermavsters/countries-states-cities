@@ -1,1555 +1,1555 @@
 [
     {
-        "cityId": "3464981",
+        "cityId": 3464981,
         "name": "Curimat\u00e1",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.86209,
         "longitude": -44.38994
     },
     {
-        "cityId": "6319017",
+        "cityId": 6319017,
         "name": "Beneditinos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.46008,
         "longitude": -42.43965
     },
     {
-        "cityId": "6319018",
+        "cityId": 6319018,
         "name": "Caridade do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.70139,
         "longitude": -40.89597
     },
     {
-        "cityId": "6319019",
+        "cityId": 6319019,
         "name": "Curral Novo do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.88978,
         "longitude": -40.76427
     },
     {
-        "cityId": "6319020",
+        "cityId": 6319020,
         "name": "Dirceu Arcoverde",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.3323,
         "longitude": -42.43422
     },
     {
-        "cityId": "6319021",
+        "cityId": 6319021,
         "name": "Fronteiras",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.0125,
         "longitude": -40.56213
     },
     {
-        "cityId": "6319022",
+        "cityId": 6319022,
         "name": "Jatob\u00e1 do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.80296,
         "longitude": -41.89545
     },
     {
-        "cityId": "6319023",
+        "cityId": 6319023,
         "name": "Jerumenha",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.09885,
         "longitude": -43.54675
     },
     {
-        "cityId": "6319024",
+        "cityId": 6319024,
         "name": "Parnagu\u00e1",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.12155,
         "longitude": -44.56012
     },
     {
-        "cityId": "6319025",
+        "cityId": 6319025,
         "name": "Pedro Laurentino",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.11766,
         "longitude": -42.23542
     },
     {
-        "cityId": "6319026",
+        "cityId": 6319026,
         "name": "Santa Cruz dos Milagres",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.83227,
         "longitude": -41.95795
     },
     {
-        "cityId": "6319027",
+        "cityId": 6319027,
         "name": "S\u00e3o F\u00e9lix do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.88422,
         "longitude": -42.1083
     },
     {
-        "cityId": "6319028",
+        "cityId": 6319028,
         "name": "S\u00e3o Jos\u00e9 do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.84096,
         "longitude": -41.51702
     },
     {
-        "cityId": "6319029",
+        "cityId": 6319029,
         "name": "Sim\u00f5es",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.7382,
         "longitude": -40.72738
     },
     {
-        "cityId": "6319194",
+        "cityId": 6319194,
         "name": "Pau D'arco do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.24511,
         "longitude": -42.45473
     },
     {
-        "cityId": "6319221",
+        "cityId": 6319221,
         "name": "Altos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.1609,
         "longitude": -42.45038
     },
     {
-        "cityId": "6319834",
+        "cityId": 6319834,
         "name": "Acau\u00e3",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.31552,
         "longitude": -40.91283
     },
     {
-        "cityId": "6319835",
+        "cityId": 6319835,
         "name": "Agricol\u00e2ndia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.74819,
         "longitude": -42.67458
     },
     {
-        "cityId": "6319836",
+        "cityId": 6319836,
         "name": "Alagoinha do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.98016,
         "longitude": -40.91814
     },
     {
-        "cityId": "6319837",
+        "cityId": 6319837,
         "name": "Alegrete do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.16226,
         "longitude": -40.82488
     },
     {
-        "cityId": "6319838",
+        "cityId": 6319838,
         "name": "Alto Long\u00e1",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.40788,
         "longitude": -42.06612
     },
     {
-        "cityId": "6319839",
+        "cityId": 6319839,
         "name": "Alvorada do Gurgu\u00e9ia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.38553,
         "longitude": -43.83237
     },
     {
-        "cityId": "6319840",
+        "cityId": 6319840,
         "name": "Amarante",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.3702,
         "longitude": -42.78806
     },
     {
-        "cityId": "6319841",
+        "cityId": 6319841,
         "name": "Angical do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.09884,
         "longitude": -42.72022
     },
     {
-        "cityId": "6319842",
+        "cityId": 6319842,
         "name": "An\u00edsio de Abreu",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.24779,
         "longitude": -43.05238
     },
     {
-        "cityId": "6319843",
+        "cityId": 6319843,
         "name": "Ant\u00f4nio Almeida",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.12211,
         "longitude": -44.25307
     },
     {
-        "cityId": "6319844",
+        "cityId": 6319844,
         "name": "Aroazes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.20348,
         "longitude": -41.86926
     },
     {
-        "cityId": "6319845",
+        "cityId": 6319845,
         "name": "Arraial",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.62721,
         "longitude": -42.49393
     },
     {
-        "cityId": "6319846",
+        "cityId": 6319846,
         "name": "Assun\u00e7\u00e3o do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.85575,
         "longitude": -40.94796
     },
     {
-        "cityId": "6319847",
+        "cityId": 6319847,
         "name": "Baixa Grande do Ribeiro",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.69171,
         "longitude": -45.12583
     },
     {
-        "cityId": "6319848",
+        "cityId": 6319848,
         "name": "Barra d'Alc\u00e2ntara",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.54095,
         "longitude": -42.11504
     },
     {
-        "cityId": "6319849",
+        "cityId": 6319849,
         "name": "Barras",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.13224,
         "longitude": -42.31359
     },
     {
-        "cityId": "6319850",
+        "cityId": 6319850,
         "name": "Barreiras do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.99042,
         "longitude": -45.69329
     },
     {
-        "cityId": "6319851",
+        "cityId": 6319851,
         "name": "Barro Duro",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.85063,
         "longitude": -42.45878
     },
     {
-        "cityId": "6319852",
+        "cityId": 6319852,
         "name": "Bela Vista do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.91606,
         "longitude": -41.90091
     },
     {
-        "cityId": "6319853",
+        "cityId": 6319853,
         "name": "Bel\u00e9m do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.40657,
         "longitude": -40.98873
     },
     {
-        "cityId": "6319854",
+        "cityId": 6319854,
         "name": "Bertol\u00ednia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.75477,
         "longitude": -43.79588
     },
     {
-        "cityId": "6319855",
+        "cityId": 6319855,
         "name": "Bet\u00e2nia do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.0643,
         "longitude": -40.85924
     },
     {
-        "cityId": "6319856",
+        "cityId": 6319856,
         "name": "Boa Hora",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.35576,
         "longitude": -42.14109
     },
     {
-        "cityId": "6319857",
+        "cityId": 6319857,
         "name": "Bocaina",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.89508,
         "longitude": -41.32746
     },
     {
-        "cityId": "6319858",
+        "cityId": 6319858,
         "name": "Bom Jesus",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.1626,
         "longitude": -44.60177
     },
     {
-        "cityId": "6319859",
+        "cityId": 6319859,
         "name": "Bom Princ\u00edpio do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.23751,
         "longitude": -41.64572
     },
     {
-        "cityId": "6319860",
+        "cityId": 6319860,
         "name": "Bonfim do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.16462,
         "longitude": -42.88253
     },
     {
-        "cityId": "6319861",
+        "cityId": 6319861,
         "name": "Boqueir\u00e3o do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.5665,
         "longitude": -42.13601
     },
     {
-        "cityId": "6319862",
+        "cityId": 6319862,
         "name": "Brasileira",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.13325,
         "longitude": -41.58774
     },
     {
-        "cityId": "6319863",
+        "cityId": 6319863,
         "name": "Brejo do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.26858,
         "longitude": -42.78801
     },
     {
-        "cityId": "6319864",
+        "cityId": 6319864,
         "name": "Buriti dos Lopes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.23977,
         "longitude": -41.80378
     },
     {
-        "cityId": "6319865",
+        "cityId": 6319865,
         "name": "Buriti dos Montes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.20888,
         "longitude": -41.25078
     },
     {
-        "cityId": "6319866",
+        "cityId": 6319866,
         "name": "Cabeceiras do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.43347,
         "longitude": -42.2306
     },
     {
-        "cityId": "6319867",
+        "cityId": 6319867,
         "name": "Cajazeiras do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.78182,
         "longitude": -42.39243
     },
     {
-        "cityId": "6319868",
+        "cityId": 6319868,
         "name": "Cajueiro da Praia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -2.98747,
         "longitude": -41.35439
     },
     {
-        "cityId": "6319869",
+        "cityId": 6319869,
         "name": "Caldeir\u00e3o Grande do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.34361,
         "longitude": -40.58774
     },
     {
-        "cityId": "6319870",
+        "cityId": 6319870,
         "name": "Campinas do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.67905,
         "longitude": -41.87938
     },
     {
-        "cityId": "6319871",
+        "cityId": 6319871,
         "name": "Campo Alegre do Fidalgo",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.31452,
         "longitude": -41.79184
     },
     {
-        "cityId": "6319872",
+        "cityId": 6319872,
         "name": "Campo Grande do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.2207,
         "longitude": -41.04511
     },
     {
-        "cityId": "6319873",
+        "cityId": 6319873,
         "name": "Campo Largo do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.85518,
         "longitude": -42.60317
     },
     {
-        "cityId": "6319874",
+        "cityId": 6319874,
         "name": "Campo Maior",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.78675,
         "longitude": -42.10869
     },
     {
-        "cityId": "6319875",
+        "cityId": 6319875,
         "name": "Canavieira",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.50756,
         "longitude": -43.6863
     },
     {
-        "cityId": "6319876",
+        "cityId": 6319876,
         "name": "Canto do Buriti",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.25966,
         "longitude": -43.08036
     },
     {
-        "cityId": "6319877",
+        "cityId": 6319877,
         "name": "Capit\u00e3o de Campos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.47203,
         "longitude": -41.88512
     },
     {
-        "cityId": "6319878",
+        "cityId": 6319878,
         "name": "Capit\u00e3o Gerv\u00e1sio Oliveira",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.52938,
         "longitude": -41.90126
     },
     {
-        "cityId": "6319879",
+        "cityId": 6319879,
         "name": "Caracol",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.34943,
         "longitude": -43.27078
     },
     {
-        "cityId": "6319880",
+        "cityId": 6319880,
         "name": "Cara\u00fabas do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.53699,
         "longitude": -41.84588
     },
     {
-        "cityId": "6319881",
+        "cityId": 6319881,
         "name": "Castelo do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.2158,
         "longitude": -41.55735
     },
     {
-        "cityId": "6319882",
+        "cityId": 6319882,
         "name": "Caxing\u00f3",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.40863,
         "longitude": -41.88771
     },
     {
-        "cityId": "6319883",
+        "cityId": 6319883,
         "name": "Cocal",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.43751,
         "longitude": -41.54594
     },
     {
-        "cityId": "6319884",
+        "cityId": 6319884,
         "name": "Cocal de Telha",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.64857,
         "longitude": -41.99568
     },
     {
-        "cityId": "6319885",
+        "cityId": 6319885,
         "name": "Cocal dos Alves",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.57383,
         "longitude": -41.45183
     },
     {
-        "cityId": "6319886",
+        "cityId": 6319886,
         "name": "Coivaras",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.11661,
         "longitude": -42.26583
     },
     {
-        "cityId": "6319887",
+        "cityId": 6319887,
         "name": "Col\u00f4nia do Gurgu\u00e9ia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.14465,
         "longitude": -43.77459
     },
     {
-        "cityId": "6319888",
+        "cityId": 6319888,
         "name": "Col\u00f4nia do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.22638,
         "longitude": -42.21262
     },
     {
-        "cityId": "6319889",
+        "cityId": 6319889,
         "name": "Concei\u00e7\u00e3o do Canind\u00e9",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.98695,
         "longitude": -41.57544
     },
     {
-        "cityId": "6319890",
+        "cityId": 6319890,
         "name": "Coronel Jos\u00e9 Dias",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.07216,
         "longitude": -42.27241
     },
     {
-        "cityId": "6319891",
+        "cityId": 6319891,
         "name": "Corrente",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.47219,
         "longitude": -45.04691
     },
     {
-        "cityId": "6319892",
+        "cityId": 6319892,
         "name": "Cristal\u00e2ndia do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.82007,
         "longitude": -45.11052
     },
     {
-        "cityId": "6319893",
+        "cityId": 6319893,
         "name": "Cristino Castro",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.69043,
         "longitude": -44.04806
     },
     {
-        "cityId": "6319894",
+        "cityId": 6319894,
         "name": "Currais",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.73985,
         "longitude": -44.86466
     },
     {
-        "cityId": "6319895",
+        "cityId": 6319895,
         "name": "Curralinhos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.58488,
         "longitude": -42.86082
     },
     {
-        "cityId": "6319896",
+        "cityId": 6319896,
         "name": "Demerval Lob\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.31543,
         "longitude": -42.6663
     },
     {
-        "cityId": "6319897",
+        "cityId": 6319897,
         "name": "Dom Expedito Lopes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.95806,
         "longitude": -41.71629
     },
     {
-        "cityId": "6319898",
+        "cityId": 6319898,
         "name": "Domingos Mour\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.19141,
         "longitude": -41.34833
     },
     {
-        "cityId": "6319899",
+        "cityId": 6319899,
         "name": "Dom Inoc\u00eancio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.8848,
         "longitude": -41.72
     },
     {
-        "cityId": "6319900",
+        "cityId": 6319900,
         "name": "Elesb\u00e3o Veloso",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.19359,
         "longitude": -42.16607
     },
     {
-        "cityId": "6319901",
+        "cityId": 6319901,
         "name": "Eliseu Martins",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.90155,
         "longitude": -43.77769
     },
     {
-        "cityId": "6319902",
+        "cityId": 6319902,
         "name": "Esperantina",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.84898,
         "longitude": -42.17102
     },
     {
-        "cityId": "6319903",
+        "cityId": 6319903,
         "name": "Fartura do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.52033,
         "longitude": -42.78927
     },
     {
-        "cityId": "6319904",
+        "cityId": 6319904,
         "name": "Flores do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.64121,
         "longitude": -42.84551
     },
     {
-        "cityId": "6319905",
+        "cityId": 6319905,
         "name": "Floresta do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.47628,
         "longitude": -41.84428
     },
     {
-        "cityId": "6319906",
+        "cityId": 6319906,
         "name": "Francin\u00f3polis",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.41032,
         "longitude": -42.24638
     },
     {
-        "cityId": "6319907",
+        "cityId": 6319907,
         "name": "Francisco Ayres",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.6913,
         "longitude": -42.69202
     },
     {
-        "cityId": "6319908",
+        "cityId": 6319908,
         "name": "Francisco Macedo",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.35845,
         "longitude": -40.77056
     },
     {
-        "cityId": "6319909",
+        "cityId": 6319909,
         "name": "Francisco Santos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.10293,
         "longitude": -41.145
     },
     {
-        "cityId": "6319910",
+        "cityId": 6319910,
         "name": "Geminiano",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.16595,
         "longitude": -41.38802
     },
     {
-        "cityId": "6319911",
+        "cityId": 6319911,
         "name": "Gilbu\u00e9s",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.72737,
         "longitude": -45.52017
     },
     {
-        "cityId": "6319912",
+        "cityId": 6319912,
         "name": "Guadalupe",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.82297,
         "longitude": -43.77762
     },
     {
-        "cityId": "6319913",
+        "cityId": 6319913,
         "name": "Guaribas",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.2887,
         "longitude": -43.58188
     },
     {
-        "cityId": "6319914",
+        "cityId": 6319914,
         "name": "Hugo Napole\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.03293,
         "longitude": -42.46773
     },
     {
-        "cityId": "6319915",
+        "cityId": 6319915,
         "name": "Ilha Grande",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -2.84022,
         "longitude": -41.82881
     },
     {
-        "cityId": "6319916",
+        "cityId": 6319916,
         "name": "Inhuma",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.66187,
         "longitude": -41.68135
     },
     {
-        "cityId": "6319917",
+        "cityId": 6319917,
         "name": "Ipiranga do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.84634,
         "longitude": -41.74687
     },
     {
-        "cityId": "6319918",
+        "cityId": 6319918,
         "name": "Isa\u00edas Coelho",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.54521,
         "longitude": -41.64289
     },
     {
-        "cityId": "6319919",
+        "cityId": 6319919,
         "name": "Itain\u00f3polis",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.45524,
         "longitude": -41.54165
     },
     {
-        "cityId": "6319920",
+        "cityId": 6319920,
         "name": "Itaueira",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.55236,
         "longitude": -43.09874
     },
     {
-        "cityId": "6319921",
+        "cityId": 6319921,
         "name": "Jacobina do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.96488,
         "longitude": -41.17396
     },
     {
-        "cityId": "6319922",
+        "cityId": 6319922,
         "name": "Jaic\u00f3s",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.45645,
         "longitude": -41.22016
     },
     {
-        "cityId": "6319923",
+        "cityId": 6319923,
         "name": "Jardim do Mulato",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.15734,
         "longitude": -42.47763
     },
     {
-        "cityId": "6319924",
+        "cityId": 6319924,
         "name": "Jo\u00e3o Costa",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.54315,
         "longitude": -42.41513
     },
     {
-        "cityId": "6319925",
+        "cityId": 6319925,
         "name": "Joaquim Pires",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.53692,
         "longitude": -42.0775
     },
     {
-        "cityId": "6319926",
+        "cityId": 6319926,
         "name": "Joca Marques",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.54211,
         "longitude": -42.43579
     },
     {
-        "cityId": "6319927",
+        "cityId": 6319927,
         "name": "Jos\u00e9 de Freitas",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.72992,
         "longitude": -42.61373
     },
     {
-        "cityId": "6319928",
+        "cityId": 6319928,
         "name": "Juazeiro do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.02486,
         "longitude": -41.52841
     },
     {
-        "cityId": "6319929",
+        "cityId": 6319929,
         "name": "J\u00falio Borges",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.5158,
         "longitude": -44.19178
     },
     {
-        "cityId": "6319930",
+        "cityId": 6319930,
         "name": "Jurema",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.29862,
         "longitude": -43.15301
     },
     {
-        "cityId": "6319931",
+        "cityId": 6319931,
         "name": "Lagoinha do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.80702,
         "longitude": -42.62796
     },
     {
-        "cityId": "6319932",
+        "cityId": 6319932,
         "name": "Lagoa Alegre",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.4951,
         "longitude": -42.56555
     },
     {
-        "cityId": "6319933",
+        "cityId": 6319933,
         "name": "Lagoa do Barro do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.73535,
         "longitude": -41.54813
     },
     {
-        "cityId": "6319934",
+        "cityId": 6319934,
         "name": "Lagoa de S\u00e3o Francisco",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.35468,
         "longitude": -41.59168
     },
     {
-        "cityId": "6319935",
+        "cityId": 6319935,
         "name": "Lagoa do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.47513,
         "longitude": -42.54814
     },
     {
-        "cityId": "6319936",
+        "cityId": 6319936,
         "name": "Lagoa do S\u00edtio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.51918,
         "longitude": -41.42058
     },
     {
-        "cityId": "6319937",
+        "cityId": 6319937,
         "name": "Landri Sales",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.23268,
         "longitude": -43.86456
     },
     {
-        "cityId": "6319938",
+        "cityId": 6319938,
         "name": "Lu\u00eds Correia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.03117,
         "longitude": -41.51665
     },
     {
-        "cityId": "6319939",
+        "cityId": 6319939,
         "name": "Luzil\u00e2ndia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.60743,
         "longitude": -42.36456
     },
     {
-        "cityId": "6319940",
+        "cityId": 6319940,
         "name": "Madeiro",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.54658,
         "longitude": -42.51114
     },
     {
-        "cityId": "6319941",
+        "cityId": 6319941,
         "name": "Manoel Em\u00eddio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.16469,
         "longitude": -43.8336
     },
     {
-        "cityId": "6319942",
+        "cityId": 6319942,
         "name": "Marcol\u00e2ndia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.40891,
         "longitude": -40.74945
     },
     {
-        "cityId": "6319943",
+        "cityId": 6319943,
         "name": "Marcos Parente",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.05412,
         "longitude": -43.91664
     },
     {
-        "cityId": "6319944",
+        "cityId": 6319944,
         "name": "Massap\u00ea do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.53879,
         "longitude": -41.01755
     },
     {
-        "cityId": "6319945",
+        "cityId": 6319945,
         "name": "Matias Ol\u00edmpio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.68774,
         "longitude": -42.60695
     },
     {
-        "cityId": "6319946",
+        "cityId": 6319946,
         "name": "Miguel Alves",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.1579,
         "longitude": -42.77263
     },
     {
-        "cityId": "6319947",
+        "cityId": 6319947,
         "name": "Miguel Le\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.72867,
         "longitude": -42.68942
     },
     {
-        "cityId": "6319948",
+        "cityId": 6319948,
         "name": "Milton Brand\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.74021,
         "longitude": -41.59457
     },
     {
-        "cityId": "6319949",
+        "cityId": 6319949,
         "name": "Monsenhor Gil",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.64162,
         "longitude": -42.54879
     },
     {
-        "cityId": "6319950",
+        "cityId": 6319950,
         "name": "Monsenhor Hip\u00f3lito",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.94982,
         "longitude": -41.03155
     },
     {
-        "cityId": "6319951",
+        "cityId": 6319951,
         "name": "Monte Alegre do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.74213,
         "longitude": -44.98266
     },
     {
-        "cityId": "6319952",
+        "cityId": 6319952,
         "name": "Morro do Chap\u00e9u do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.68694,
         "longitude": -42.22185
     },
     {
-        "cityId": "6319953",
+        "cityId": 6319953,
         "name": "Murici dos Portelas",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.36504,
         "longitude": -42.00218
     },
     {
-        "cityId": "6319954",
+        "cityId": 6319954,
         "name": "Nazar\u00e9 do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.03279,
         "longitude": -42.73216
     },
     {
-        "cityId": "6319955",
+        "cityId": 6319955,
         "name": "Nossa Senhora de Nazar\u00e9",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.63841,
         "longitude": -42.19017
     },
     {
-        "cityId": "6319956",
+        "cityId": 6319956,
         "name": "Nossa Senhora dos Rem\u00e9dios",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.05765,
         "longitude": -42.60651
     },
     {
-        "cityId": "6319957",
+        "cityId": 6319957,
         "name": "Novo Oriente do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.55034,
         "longitude": -41.98555
     },
     {
-        "cityId": "6319958",
+        "cityId": 6319958,
         "name": "Novo Santo Ant\u00f4nio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.32848,
         "longitude": -41.96256
     },
     {
-        "cityId": "6319959",
+        "cityId": 6319959,
         "name": "Oeiras",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.90686,
         "longitude": -42.17529
     },
     {
-        "cityId": "6319960",
+        "cityId": 6319960,
         "name": "Olho d'\u00c1gua do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.84854,
         "longitude": -42.53937
     },
     {
-        "cityId": "6319961",
+        "cityId": 6319961,
         "name": "Padre Marcos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.36533,
         "longitude": -40.93416
     },
     {
-        "cityId": "6319962",
+        "cityId": 6319962,
         "name": "Paes Landim",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.77461,
         "longitude": -42.35087
     },
     {
-        "cityId": "6319963",
+        "cityId": 6319963,
         "name": "Paje\u00fa do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.05364,
         "longitude": -42.86625
     },
     {
-        "cityId": "6319964",
+        "cityId": 6319964,
         "name": "Palmeira do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.51549,
         "longitude": -44.43642
     },
     {
-        "cityId": "6319965",
+        "cityId": 6319965,
         "name": "Palmeirais",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.78548,
         "longitude": -43.02434
     },
     {
-        "cityId": "6319966",
+        "cityId": 6319966,
         "name": "Paquet\u00e1",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.10746,
         "longitude": -41.64719
     },
     {
-        "cityId": "6319967",
+        "cityId": 6319967,
         "name": "Parna\u00edba",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -2.92278,
         "longitude": -41.73536
     },
     {
-        "cityId": "6319968",
+        "cityId": 6319968,
         "name": "Passagem Franca do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.82734,
         "longitude": -42.40584
     },
     {
-        "cityId": "6319969",
+        "cityId": 6319969,
         "name": "Patos do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.60918,
         "longitude": -41.29464
     },
     {
-        "cityId": "6319970",
+        "cityId": 6319970,
         "name": "Paulistana",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.22526,
         "longitude": -41.22746
     },
     {
-        "cityId": "6319971",
+        "cityId": 6319971,
         "name": "Pavussu",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.88646,
         "longitude": -43.19694
     },
     {
-        "cityId": "6319972",
+        "cityId": 6319972,
         "name": "Pedro II",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.49028,
         "longitude": -41.39962
     },
     {
-        "cityId": "6319973",
+        "cityId": 6319973,
         "name": "Nova Santa Rita",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.11204,
         "longitude": -42.01361
     },
     {
-        "cityId": "6319974",
+        "cityId": 6319974,
         "name": "Picos",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.10697,
         "longitude": -41.51271
     },
     {
-        "cityId": "6319975",
+        "cityId": 6319975,
         "name": "Pimenteiras",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.33065,
         "longitude": -41.21807
     },
     {
-        "cityId": "6319976",
+        "cityId": 6319976,
         "name": "Pio IX",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.86982,
         "longitude": -40.59717
     },
     {
-        "cityId": "6319977",
+        "cityId": 6319977,
         "name": "Piracuruca",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.86656,
         "longitude": -41.74153
     },
     {
-        "cityId": "6319978",
+        "cityId": 6319978,
         "name": "Piripiri",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.39488,
         "longitude": -41.78819
     },
     {
-        "cityId": "6319979",
+        "cityId": 6319979,
         "name": "Porto",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.94558,
         "longitude": -42.68879
     },
     {
-        "cityId": "6319980",
+        "cityId": 6319980,
         "name": "Porto Alegre do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.95931,
         "longitude": -44.07411
     },
     {
-        "cityId": "6319981",
+        "cityId": 6319981,
         "name": "Prata do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.71099,
         "longitude": -42.15331
     },
     {
-        "cityId": "6319982",
+        "cityId": 6319982,
         "name": "Queimada Nova",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.53997,
         "longitude": -41.24753
     },
     {
-        "cityId": "6319983",
+        "cityId": 6319983,
         "name": "Reden\u00e7\u00e3o do Gurgu\u00e9ia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.58205,
         "longitude": -44.53802
     },
     {
-        "cityId": "6319984",
+        "cityId": 6319984,
         "name": "Regenera\u00e7\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.27844,
         "longitude": -42.48165
     },
     {
-        "cityId": "6319985",
+        "cityId": 6319985,
         "name": "Riacho Frio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.8366,
         "longitude": -44.67899
     },
     {
-        "cityId": "6319986",
+        "cityId": 6319986,
         "name": "Ribeira do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.09706,
         "longitude": -42.57609
     },
     {
-        "cityId": "6319987",
+        "cityId": 6319987,
         "name": "Ribeiro Gon\u00e7alves",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.08721,
         "longitude": -45.47197
     },
     {
-        "cityId": "6319988",
+        "cityId": 6319988,
         "name": "Rio Grande do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.86062,
         "longitude": -43.14551
     },
     {
-        "cityId": "6319989",
+        "cityId": 6319989,
         "name": "Santa Cruz do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.2649,
         "longitude": -41.7638
     },
     {
-        "cityId": "6319990",
+        "cityId": 6319990,
         "name": "Santa Filomena",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.89582,
         "longitude": -45.66715
     },
     {
-        "cityId": "6319991",
+        "cityId": 6319991,
         "name": "Santa Luz",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.97437,
         "longitude": -44.27778
     },
     {
-        "cityId": "6319992",
+        "cityId": 6319992,
         "name": "Santana do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.95247,
         "longitude": -41.46185
     },
     {
-        "cityId": "6319993",
+        "cityId": 6319993,
         "name": "Santa Rosa do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.82877,
         "longitude": -42.24627
     },
     {
-        "cityId": "6319994",
+        "cityId": 6319994,
         "name": "Santo Ant\u00f4nio de Lisboa",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.87642,
         "longitude": -41.18103
     },
     {
-        "cityId": "6319995",
+        "cityId": 6319995,
         "name": "Santo Ant\u00f4nio dos Milagres",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.05399,
         "longitude": -42.70083
     },
     {
-        "cityId": "6319996",
+        "cityId": 6319996,
         "name": "Santo In\u00e1cio do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.46906,
         "longitude": -41.91794
     },
     {
-        "cityId": "6319997",
+        "cityId": 6319997,
         "name": "S\u00e3o Braz do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.9738,
         "longitude": -42.97568
     },
     {
-        "cityId": "6319998",
+        "cityId": 6319998,
         "name": "S\u00e3o Francisco de Assis do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.12334,
         "longitude": -41.48056
     },
     {
-        "cityId": "6319999",
+        "cityId": 6319999,
         "name": "S\u00e3o Francisco do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.16899,
         "longitude": -42.55086
     },
     {
-        "cityId": "6320000",
+        "cityId": 6320000,
         "name": "S\u00e3o Gon\u00e7alo do Gurgu\u00e9ia",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.0763,
         "longitude": -45.42387
     },
     {
-        "cityId": "6320001",
+        "cityId": 6320001,
         "name": "S\u00e3o Gon\u00e7alo do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.02033,
         "longitude": -42.6702
     },
     {
-        "cityId": "6320002",
+        "cityId": 6320002,
         "name": "S\u00e3o Jo\u00e3o da Canabrava",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.72756,
         "longitude": -41.38226
     },
     {
-        "cityId": "6320003",
+        "cityId": 6320003,
         "name": "S\u00e3o Jo\u00e3o da Serra",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.44173,
         "longitude": -41.85793
     },
     {
-        "cityId": "6320004",
+        "cityId": 6320004,
         "name": "S\u00e3o Jo\u00e3o da Varjota",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.94733,
         "longitude": -41.92917
     },
     {
-        "cityId": "6320005",
+        "cityId": 6320005,
         "name": "S\u00e3o Jo\u00e3o do Arraial",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.80325,
         "longitude": -42.46973
     },
     {
-        "cityId": "6320006",
+        "cityId": 6320006,
         "name": "S\u00e3o Jo\u00e3o do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.27575,
         "longitude": -42.34005
     },
     {
-        "cityId": "6320007",
+        "cityId": 6320007,
         "name": "S\u00e3o Jos\u00e9 do Divino",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.74297,
         "longitude": -41.90119
     },
     {
-        "cityId": "6320008",
+        "cityId": 6320008,
         "name": "S\u00e3o Jos\u00e9 do Peixe",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.49544,
         "longitude": -42.49355
     },
     {
-        "cityId": "6320009",
+        "cityId": 6320009,
         "name": "S\u00e3o Juli\u00e3o",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.05987,
         "longitude": -40.79725
     },
     {
-        "cityId": "6320010",
+        "cityId": 6320010,
         "name": "S\u00e3o Louren\u00e7o do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.13336,
         "longitude": -42.40297
     },
     {
-        "cityId": "6320011",
+        "cityId": 6320011,
         "name": "S\u00e3o Luis do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.77801,
         "longitude": -41.2765
     },
     {
-        "cityId": "6320012",
+        "cityId": 6320012,
         "name": "S\u00e3o Miguel da Baixa Grande",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.81791,
         "longitude": -42.27077
     },
     {
-        "cityId": "6320013",
+        "cityId": 6320013,
         "name": "S\u00e3o Miguel do Fidalgo",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.59935,
         "longitude": -42.38796
     },
     {
-        "cityId": "6320014",
+        "cityId": 6320014,
         "name": "S\u00e3o Miguel do Tapuio",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.70486,
         "longitude": -41.61634
     },
     {
-        "cityId": "6320016",
+        "cityId": 6320016,
         "name": "S\u00e3o Raimundo Nonato",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.0522,
         "longitude": -42.60836
     },
     {
-        "cityId": "6320017",
+        "cityId": 6320017,
         "name": "Sebasti\u00e3o Barros",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.59755,
         "longitude": -44.83609
     },
     {
-        "cityId": "6320018",
+        "cityId": 6320018,
         "name": "Sebasti\u00e3o Leal",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.51324,
         "longitude": -44.02545
     },
     {
-        "cityId": "6320019",
+        "cityId": 6320019,
         "name": "Sigefredo Pacheco",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.79886,
         "longitude": -41.78459
     },
     {
-        "cityId": "6320020",
+        "cityId": 6320020,
         "name": "Simpl\u00edcio Mendes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.86171,
         "longitude": -41.92479
     },
     {
-        "cityId": "6320021",
+        "cityId": 6320021,
         "name": "Socorro do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.8982,
         "longitude": -42.50745
     },
     {
-        "cityId": "6320022",
+        "cityId": 6320022,
         "name": "Sussuapara",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.00335,
         "longitude": -41.39182
     },
     {
-        "cityId": "6320023",
+        "cityId": 6320023,
         "name": "Tamboril do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -8.40278,
         "longitude": -43.09084
     },
     {
-        "cityId": "6320024",
+        "cityId": 6320024,
         "name": "Tanque do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.69614,
         "longitude": -42.1831
     },
     {
-        "cityId": "6320025",
+        "cityId": 6320025,
         "name": "Teresina",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.10252,
         "longitude": -42.7407
     },
     {
-        "cityId": "6320027",
+        "cityId": 6320027,
         "name": "Uru\u00e7u\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.34206,
         "longitude": -44.58334
     },
     {
-        "cityId": "6320028",
+        "cityId": 6320028,
         "name": "Valen\u00e7a do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.2787,
         "longitude": -41.81385
     },
     {
-        "cityId": "6320029",
+        "cityId": 6320029,
         "name": "V\u00e1rzea Branca",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.34411,
         "longitude": -42.95158
     },
     {
-        "cityId": "6320030",
+        "cityId": 6320030,
         "name": "V\u00e1rzea Grande",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.56374,
         "longitude": -42.17729
     },
     {
-        "cityId": "6320031",
+        "cityId": 6320031,
         "name": "Vera Mendes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.5548,
         "longitude": -41.50596
     },
     {
-        "cityId": "6320032",
+        "cityId": 6320032,
         "name": "Vila Nova do Piau\u00ed",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.18671,
         "longitude": -40.93621
     },
     {
-        "cityId": "6320033",
+        "cityId": 6320033,
         "name": "Wall Ferraz",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.29532,
         "longitude": -41.8373
     },
     {
-        "cityId": "6324194",
+        "cityId": 6324194,
         "name": "Floriano",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -6.83639,
         "longitude": -43.13606
     },
     {
-        "cityId": "6324223",
+        "cityId": 6324223,
         "name": "S\u00e3o Jo\u00e3o da Fronteira",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -4.09363,
         "longitude": -41.21552
     },
     {
-        "cityId": "6324242",
+        "cityId": 6324242,
         "name": "\u00c1gua Branca",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.89907,
         "longitude": -42.61058
     },
     {
-        "cityId": "6324253",
+        "cityId": 6324253,
         "name": "Batalha",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -3.99736,
         "longitude": -42.10645
     },
     {
-        "cityId": "6324283",
+        "cityId": 6324283,
         "name": "Avelino Lopes",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -10.11463,
         "longitude": -43.89286
     },
     {
-        "cityId": "6324284",
+        "cityId": 6324284,
         "name": "Morro Cabe\u00e7a no Tempo",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -9.87713,
         "longitude": -43.90657
     },
     {
-        "cityId": "7932510",
+        "cityId": 7932510,
         "name": "Aroeiras do Itaim",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -7.27,
         "longitude": -41.56
     },
     {
-        "cityId": "8354590",
+        "cityId": 8354590,
         "name": "Naz\u00e1ria",
-        "stateId": "3392213",
+        "stateId": 3392213,
         "latitude": -5.44546,
         "longitude": -42.8684
     }

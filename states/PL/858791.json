@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "6619358",
+        "cityId": 6619358,
         "name": "Powiat olszty\u0144ski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.72922,
         "longitude": 20.56641
     },
     {
-        "cityId": "7530753",
+        "cityId": 7530753,
         "name": "Powiat ostr\u00f3dzki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.72906,
         "longitude": 19.9144
     },
     {
-        "cityId": "7530783",
+        "cityId": 7530783,
         "name": "Powiat braniewski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.27782,
         "longitude": 20.0063
     },
     {
-        "cityId": "7530784",
+        "cityId": 7530784,
         "name": "Powiat elbl\u0105ski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.15928,
         "longitude": 19.63768
     },
     {
-        "cityId": "7530798",
+        "cityId": 7530798,
         "name": "Powiat bartoszycki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.21253,
         "longitude": 20.74076
     },
     {
-        "cityId": "7530799",
+        "cityId": 7530799,
         "name": "Powiat gi\u017cycki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.01808,
         "longitude": 21.82191
     },
     {
-        "cityId": "7530800",
+        "cityId": 7530800,
         "name": "Powiat lidzbarski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.10581,
         "longitude": 20.38045
     },
     {
-        "cityId": "7530803",
+        "cityId": 7530803,
         "name": "Powiat szczycie\u0144ski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.54176,
         "longitude": 21.07034
     },
     {
-        "cityId": "7530859",
+        "cityId": 7530859,
         "name": "Powiat w\u0119gorzewski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.20728,
         "longitude": 21.77861
     },
     {
-        "cityId": "7530860",
+        "cityId": 7530860,
         "name": "Powiat k\u0119trzy\u0144ski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.13651,
         "longitude": 21.31217
     },
     {
-        "cityId": "7530936",
+        "cityId": 7530936,
         "name": "Powiat dzia\u0142dowski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.28883,
         "longitude": 20.04817
     },
     {
-        "cityId": "7530937",
+        "cityId": 7530937,
         "name": "Powiat i\u0142awski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.67477,
         "longitude": 19.53792
     },
     {
-        "cityId": "7530938",
+        "cityId": 7530938,
         "name": "Powiat nowomiejski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.43572,
         "longitude": 19.54662
     },
     {
-        "cityId": "7530990",
+        "cityId": 7530990,
         "name": "Olsztyn",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.77657,
         "longitude": 20.46657
     },
     {
-        "cityId": "7531000",
+        "cityId": 7531000,
         "name": "Powiat nidzicki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.3724,
         "longitude": 20.49858
     },
     {
-        "cityId": "7531001",
+        "cityId": 7531001,
         "name": "Powiat piski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.68076,
         "longitude": 21.85723
     },
     {
-        "cityId": "7531012",
+        "cityId": 7531012,
         "name": "Powiat e\u0142cki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.81673,
         "longitude": 22.40465
     },
     {
-        "cityId": "7531013",
+        "cityId": 7531013,
         "name": "Powiat olecki",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.05129,
         "longitude": 22.41695
     },
     {
-        "cityId": "7531014",
+        "cityId": 7531014,
         "name": "Powiat go\u0142dapski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.2609,
         "longitude": 22.37192
     },
     {
-        "cityId": "7531072",
+        "cityId": 7531072,
         "name": "Powiat mr\u0105gowski",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 53.81063,
         "longitude": 21.39758
     },
     {
-        "cityId": "7531083",
+        "cityId": 7531083,
         "name": "Elbl\u0105g",
-        "stateId": "858791",
+        "stateId": 858791,
         "latitude": 54.19882,
         "longitude": 19.43443
     }

@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1185185",
+        "cityId": 1185185,
         "name": "Kushtia",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.83333,
         "longitude": 88.91667
     },
     {
-        "cityId": "1337203",
+        "cityId": 1337203,
         "name": "Meherpur",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.75,
         "longitude": 88.7
     },
     {
-        "cityId": "1337204",
+        "cityId": 1337204,
         "name": "Jhenaidah",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.5,
         "longitude": 89.16667
     },
     {
-        "cityId": "1337205",
+        "cityId": 1337205,
         "name": "Chuadanga",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.63333,
         "longitude": 88.85
     },
     {
-        "cityId": "1337206",
+        "cityId": 1337206,
         "name": "Magura",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.43333,
         "longitude": 89.43333
     },
     {
-        "cityId": "1337207",
+        "cityId": 1337207,
         "name": "Jessore",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.08333,
         "longitude": 89.16667
     },
     {
-        "cityId": "1337208",
+        "cityId": 1337208,
         "name": "Narail",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 23.13333,
         "longitude": 89.6
     },
     {
-        "cityId": "1337209",
+        "cityId": 1337209,
         "name": "Bagerhat",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 22.4,
         "longitude": 89.75
     },
     {
-        "cityId": "1337211",
+        "cityId": 1337211,
         "name": "Khulna",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 22.5,
         "longitude": 89.33333
     },
     {
-        "cityId": "1337212",
+        "cityId": 1337212,
         "name": "Satkhira",
-        "stateId": "1337210",
+        "stateId": 1337210,
         "latitude": 22.35,
         "longitude": 89.15
     }

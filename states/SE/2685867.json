@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2662215",
+        "cityId": 2662215,
         "name": "Ydre Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 57.86355,
         "longitude": 15.26266
     },
     {
-        "cityId": "2665672",
+        "cityId": 2665672,
         "name": "Valdemarsviks Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.2,
         "longitude": 16.6
     },
     {
-        "cityId": "2665901",
+        "cityId": 2665901,
         "name": "Vadstena Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.40783,
         "longitude": 14.86162
     },
     {
-        "cityId": "2676214",
+        "cityId": 2676214,
         "name": "S\u00f6derk\u00f6pings Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.42056,
         "longitude": 16.4451
     },
     {
-        "cityId": "2687419",
+        "cityId": 2687419,
         "name": "\u00d6desh\u00f6gs Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.2264,
         "longitude": 14.74067
     },
     {
-        "cityId": "2688367",
+        "cityId": 2688367,
         "name": "Norrk\u00f6pings Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.61139,
         "longitude": 16.32092
     },
     {
-        "cityId": "2690959",
+        "cityId": 2690959,
         "name": "Motala Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.65131,
         "longitude": 15.19105
     },
     {
-        "cityId": "2691742",
+        "cityId": 2691742,
         "name": "Mj\u00f6lby Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.34576,
         "longitude": 15.13853
     },
     {
-        "cityId": "2694759",
+        "cityId": 2694759,
         "name": "Link\u00f6pings Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.41046,
         "longitude": 15.6187
     },
     {
-        "cityId": "2700854",
+        "cityId": 2700854,
         "name": "Kinda Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.01315,
         "longitude": 15.73373
     },
     {
-        "cityId": "2714901",
+        "cityId": 2714901,
         "name": "Finsp\u00e5ngs Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.80568,
         "longitude": 15.78783
     },
     {
-        "cityId": "2720036",
+        "cityId": 2720036,
         "name": "Boxholms Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.14842,
         "longitude": 15.10988
     },
     {
-        "cityId": "2724320",
+        "cityId": 2724320,
         "name": "\u00c5tvidabergs Kommun",
-        "stateId": "2685867",
+        "stateId": 2685867,
         "latitude": 58.22799,
         "longitude": 16.12522
     }

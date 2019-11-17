@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "2029819",
+        "cityId": 2029819,
         "name": "Nomgon Sum",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 42.41462,
         "longitude": 105.0564
     },
     {
-        "cityId": "6618789",
+        "cityId": 6618789,
         "name": "Mandal-Ovoo",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 44.64264,
         "longitude": 104.04997
     },
     {
-        "cityId": "6618790",
+        "cityId": 6618790,
         "name": "Tsogt-Ovoo",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 44.41429,
         "longitude": 105.32112
     },
     {
-        "cityId": "6618791",
+        "cityId": 6618791,
         "name": "Hanhongor",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.77345,
         "longitude": 104.47998
     },
     {
-        "cityId": "6618792",
+        "cityId": 6618792,
         "name": "Tsogttsetsiy",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.64477,
         "longitude": 105.75611
     },
     {
-        "cityId": "6618793",
+        "cityId": 6618793,
         "name": "Manlay",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 44.07402,
         "longitude": 106.87019
     },
     {
-        "cityId": "6618794",
+        "cityId": 6618794,
         "name": "Hanbogd",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.19141,
         "longitude": 107.20013
     },
     {
-        "cityId": "6618795",
+        "cityId": 6618795,
         "name": "Bayan-Ovoo",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 42.96898,
         "longitude": 106.12003
     },
     {
-        "cityId": "6618796",
+        "cityId": 6618796,
         "name": "H\u00fcrmen",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.29932,
         "longitude": 104.07417
     },
     {
-        "cityId": "6618797",
+        "cityId": 6618797,
         "name": "Bayandalay",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.45815,
         "longitude": 103.51353
     },
     {
-        "cityId": "6618798",
+        "cityId": 6618798,
         "name": "Bulgan",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 44.09141,
         "longitude": 103.54305
     },
     {
-        "cityId": "6618799",
+        "cityId": 6618799,
         "name": "Sevrey",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.6116,
         "longitude": 102.533
     },
     {
-        "cityId": "6618800",
+        "cityId": 6618800,
         "name": "Noyon",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.16875,
         "longitude": 102.132
     },
     {
-        "cityId": "6618801",
+        "cityId": 6618801,
         "name": "Gurvantes",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.22369,
         "longitude": 101.0471
     },
     {
-        "cityId": "6618802",
+        "cityId": 6618802,
         "name": "Dalandzadgad",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 43.56447,
         "longitude": 104.42471
     },
     {
-        "cityId": "6987984",
+        "cityId": 6987984,
         "name": "Bayan-Ovoo Sum",
-        "stateId": "2029669",
+        "stateId": 2029669,
         "latitude": 42.75708,
         "longitude": 105.96403
     }

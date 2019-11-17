@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "725987",
+        "cityId": 725987,
         "name": "Obshtina Velingrad",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 41.96667,
         "longitude": 23.93333
     },
     {
-        "cityId": "726721",
+        "cityId": 726721,
         "name": "Obshtina Strelcha",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.46667,
         "longitude": 24.36667
     },
     {
-        "cityId": "727353",
+        "cityId": 727353,
         "name": "Obshtina Septemvri",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.26667,
         "longitude": 24.13333
     },
     {
-        "cityId": "727800",
+        "cityId": 727800,
         "name": "Obshtina Rakitovo",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 41.99965,
         "longitude": 24.10877
     },
     {
-        "cityId": "728315",
+        "cityId": 728315,
         "name": "Obshtina Peshtera",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.03333,
         "longitude": 24.3
     },
     {
-        "cityId": "728376",
+        "cityId": 728376,
         "name": "Obshtina Pazardzhik",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.2,
         "longitude": 24.33333
     },
     {
-        "cityId": "728447",
+        "cityId": 728447,
         "name": "Obshtina Panagyurishte",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.5,
         "longitude": 24.16667
     },
     {
-        "cityId": "729666",
+        "cityId": 729666,
         "name": "Obshtina Lesichovo",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.36667,
         "longitude": 24.15
     },
     {
-        "cityId": "732922",
+        "cityId": 732922,
         "name": "Obshtina Bratsigovo",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42,
         "longitude": 24.4
     },
     {
-        "cityId": "733285",
+        "cityId": 733285,
         "name": "Obshtina Belovo",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 42.2,
         "longitude": 23.93333
     },
     {
-        "cityId": "733431",
+        "cityId": 733431,
         "name": "Obshtina Batak",
-        "stateId": "728379",
+        "stateId": 728379,
         "latitude": 41.86667,
         "longitude": 24.21667
     }

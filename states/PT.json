@@ -1,141 +1,141 @@
 [
     {
-        "stateId": "3411865",
+        "stateId": 3411865,
         "name": "Azores",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 37.80847,
         "longitude": -25.47466
     },
     {
-        "stateId": "2738782",
+        "stateId": 2738782,
         "name": "Distrito da Guarda",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 40.64223,
         "longitude": -7.2185
     },
     {
-        "stateId": "2742610",
+        "stateId": 2742610,
         "name": "Distrito de Aveiro",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 40.72974,
         "longitude": -8.4815
     },
     {
-        "stateId": "2270984",
+        "stateId": 2270984,
         "name": "Distrito de Beja",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 37.84204,
         "longitude": -7.91855
     },
     {
-        "stateId": "2742031",
+        "stateId": 2742031,
         "name": "Distrito de Braga",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 41.54821,
         "longitude": -8.42545
     },
     {
-        "stateId": "2742026",
+        "stateId": 2742026,
         "name": "Distrito de Bragan\u00e7a",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 41.83615,
         "longitude": -6.76346
     },
     {
-        "stateId": "2269513",
+        "stateId": 2269513,
         "name": "Distrito de Castelo Branco",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 39.95658,
         "longitude": -7.52323
     },
     {
-        "stateId": "2740636",
+        "stateId": 2740636,
         "name": "Distrito de Coimbra",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 40.1925,
         "longitude": -8.32963
     },
     {
-        "stateId": "2268337",
+        "stateId": 2268337,
         "name": "Distrito de Faro",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 37.2,
         "longitude": -8.16667
     },
     {
-        "stateId": "2267094",
+        "stateId": 2267094,
         "name": "Distrito de Leiria",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 39.7205,
         "longitude": -8.81403
     },
     {
-        "stateId": "2267056",
+        "stateId": 2267056,
         "name": "Distrito de Lisboa",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 39,
         "longitude": -9.13333
     },
     {
-        "stateId": "2264507",
+        "stateId": 2264507,
         "name": "Distrito de Portalegre",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 39.25,
         "longitude": -7.58333
     },
     {
-        "stateId": "2263478",
+        "stateId": 2263478,
         "name": "Distrito de Santar\u00e9m",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 39.28881,
         "longitude": -8.50192
     },
     {
-        "stateId": "2262961",
+        "stateId": 2262961,
         "name": "Distrito de Set\u00fabal",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 38.34957,
         "longitude": -8.58651
     },
     {
-        "stateId": "2732772",
+        "stateId": 2732772,
         "name": "Distrito de Viana do Castelo",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 41.89649,
         "longitude": -8.5063
     },
     {
-        "stateId": "2732437",
+        "stateId": 2732437,
         "name": "Distrito de Vila Real",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 41.54355,
         "longitude": -7.59915
     },
     {
-        "stateId": "2732264",
+        "stateId": 2732264,
         "name": "Distrito de Viseu",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 40.82747,
         "longitude": -7.79816
     },
     {
-        "stateId": "2268404",
+        "stateId": 2268404,
         "name": "Distrito de \u00c9vora",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 38.58333,
         "longitude": -7.83333
     },
     {
-        "stateId": "2735941",
+        "stateId": 2735941,
         "name": "Distrito do Porto",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 41.22852,
         "longitude": -8.32691
     },
     {
-        "stateId": "2593105",
+        "stateId": 2593105,
         "name": "Madeira",
-        "countryId": "2264397",
+        "countryId": 2264397,
         "latitude": 32.76737,
         "longitude": -16.94699
     }

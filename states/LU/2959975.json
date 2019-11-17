@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2959978",
+        "cityId": 2959978,
         "name": "Wiltz",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.97888,
         "longitude": 5.9398
     },
     {
-        "cityId": "3285198",
+        "cityId": 3285198,
         "name": "Lac de la Haute-S\u00fbre",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.91667,
         "longitude": 5.83333
     },
     {
-        "cityId": "6693322",
+        "cityId": 6693322,
         "name": "Boulaide",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.88778,
         "longitude": 5.81639
     },
     {
-        "cityId": "6693323",
+        "cityId": 6693323,
         "name": "Esch-sur-S\u00fbre",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.91139,
         "longitude": 5.93639
     },
     {
-        "cityId": "6693325",
+        "cityId": 6693325,
         "name": "Goesdorf",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.92167,
         "longitude": 5.96833
     },
     {
-        "cityId": "6693330",
+        "cityId": 6693330,
         "name": "Winseler",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.96778,
         "longitude": 5.89028
     },
     {
-        "cityId": "8641289",
+        "cityId": 8641289,
         "name": "Kiischpelt",
-        "stateId": "2959975",
+        "stateId": 2959975,
         "latitude": 49.97835,
         "longitude": 6.0076
     }

@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "10295215",
+        "cityId": 10295215,
         "name": "Anaa",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -17.40803,
         "longitude": -145.5134
     },
     {
-        "cityId": "10295216",
+        "cityId": 10295216,
         "name": "Arutua",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -15.23663,
         "longitude": -146.64534
     },
     {
-        "cityId": "10295217",
+        "cityId": 10295217,
         "name": "Fakarava",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -16.34101,
         "longitude": -145.61794
     },
     {
-        "cityId": "10295218",
+        "cityId": 10295218,
         "name": "Fangatau",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -15.82117,
         "longitude": -140.88429
     },
     {
-        "cityId": "10295219",
+        "cityId": 10295219,
         "name": "Gambier",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -19.38025,
         "longitude": -138.71887
     },
     {
-        "cityId": "10295301",
+        "cityId": 10295301,
         "name": "Hikueru",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -17.54974,
         "longitude": -142.60915
     },
     {
-        "cityId": "10295307",
+        "cityId": 10295307,
         "name": "Makemo",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -16.60077,
         "longitude": -143.71662
     },
     {
-        "cityId": "10295319",
+        "cityId": 10295319,
         "name": "Manihi",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -14.43113,
         "longitude": -146.02581
     },
     {
-        "cityId": "10295320",
+        "cityId": 10295320,
         "name": "Napuka",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -14.17774,
         "longitude": -141.24435
     },
     {
-        "cityId": "10295321",
+        "cityId": 10295321,
         "name": "Nukutavake",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -19.28066,
         "longitude": -138.78166
     },
     {
-        "cityId": "10295322",
+        "cityId": 10295322,
         "name": "Pukapuka",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -14.82122,
         "longitude": -138.80007
     },
     {
-        "cityId": "10295326",
+        "cityId": 10295326,
         "name": "Rangiroa",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -14.95916,
         "longitude": -147.64664
     },
     {
-        "cityId": "10295340",
+        "cityId": 10295340,
         "name": "Reao",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -18.47611,
         "longitude": -136.44294
     },
     {
-        "cityId": "10295365",
+        "cityId": 10295365,
         "name": "Takaroa",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -14.45166,
         "longitude": -145.00889
     },
     {
-        "cityId": "10295367",
+        "cityId": 10295367,
         "name": "Tatakoto",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -17.33152,
         "longitude": -138.41194
     },
     {
-        "cityId": "10295368",
+        "cityId": 10295368,
         "name": "Tureia",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -20.85566,
         "longitude": -138.56026
     },
     {
-        "cityId": "10297421",
+        "cityId": 10297421,
         "name": "Hao",
-        "stateId": "4030621",
+        "stateId": 4030621,
         "latitude": -18.12899,
         "longitude": -140.94669
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3652572",
+        "cityId": 3652572,
         "name": "Cant\u00f3n Quero",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.36667,
         "longitude": -78.6
     },
     {
-        "cityId": "3653158",
+        "cityId": 3653158,
         "name": "Cant\u00f3n P\u00edllaro",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.16667,
         "longitude": -78.53333
     },
     {
-        "cityId": "3653286",
+        "cityId": 3653286,
         "name": "Cant\u00f3n Pelileo",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.31667,
         "longitude": -78.53333
     },
     {
-        "cityId": "3653370",
+        "cityId": 3653370,
         "name": "Cant\u00f3n Patate",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.31667,
         "longitude": -78.5
     },
     {
-        "cityId": "3660343",
+        "cityId": 3660343,
         "name": "Cant\u00f3n Ba\u00f1os",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.4,
         "longitude": -78.41667
     },
     {
-        "cityId": "3660688",
+        "cityId": 3660688,
         "name": "Cant\u00f3n Ambato",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.25,
         "longitude": -78.63333
     },
     {
-        "cityId": "10792487",
+        "cityId": 10792487,
         "name": "Cevallos",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.34814,
         "longitude": -78.60846
     },
     {
-        "cityId": "10792488",
+        "cityId": 10792488,
         "name": "Mocha",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.41553,
         "longitude": -78.6923
     },
     {
-        "cityId": "10792489",
+        "cityId": 10792489,
         "name": "Tisaleo",
-        "stateId": "3650445",
+        "stateId": 3650445,
         "latitude": -1.36606,
         "longitude": -78.67967
     }

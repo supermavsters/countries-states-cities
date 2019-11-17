@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "9644333",
+        "cityId": 9644333,
         "name": "B\u00e9lap\u00e1tfalvai J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 48.06386,
         "longitude": 20.36163
     },
     {
-        "cityId": "9644334",
+        "cityId": 9644334,
         "name": "Egri J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 47.92961,
         "longitude": 20.37383
     },
     {
-        "cityId": "9644335",
+        "cityId": 9644335,
         "name": "F\u00fczesabonyi J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 47.72671,
         "longitude": 20.42875
     },
     {
-        "cityId": "9644336",
+        "cityId": 9644336,
         "name": "Gy\u00f6ngy\u00f6si J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 47.79079,
         "longitude": 19.9543
     },
     {
-        "cityId": "9644337",
+        "cityId": 9644337,
         "name": "Hatvani J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 47.69468,
         "longitude": 19.72852
     },
     {
-        "cityId": "9644338",
+        "cityId": 9644338,
         "name": "Hevesi J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 47.61535,
         "longitude": 20.31739
     },
     {
-        "cityId": "9644339",
+        "cityId": 9644339,
         "name": "P\u00e9terv\u00e1s\u00e1rai J\u00e1r\u00e1s",
-        "stateId": "720002",
+        "stateId": 720002,
         "latitude": 48.00589,
         "longitude": 20.09466
     }

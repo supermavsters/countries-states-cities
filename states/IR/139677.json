@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "449517",
+        "cityId": 449517,
         "name": "Ardal",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 31.9501,
         "longitude": 50.41672
     },
     {
-        "cityId": "449518",
+        "cityId": 449518,
         "name": "Shahrest\u0101n-e Bor\u016bjen",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 31.9,
         "longitude": 51.2
     },
     {
-        "cityId": "449519",
+        "cityId": 449519,
         "name": "Shahrekord",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 32.31667,
         "longitude": 50.8
     },
     {
-        "cityId": "449520",
+        "cityId": 449520,
         "name": "Shahrest\u0101n-e F\u0101rs\u0101n",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 32.25,
         "longitude": 50.56667
     },
     {
-        "cityId": "449521",
+        "cityId": 449521,
         "name": "Shahrest\u0101n-e K\u016bhrang",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 32.41667,
         "longitude": 50
     },
     {
-        "cityId": "449522",
+        "cityId": 449522,
         "name": "Shahrest\u0101n-e Lordeg\u0101n",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 31.43333,
         "longitude": 50.83333
     },
     {
-        "cityId": "9519976",
+        "cityId": 9519976,
         "name": "Shahrest\u0101n-e K\u012b\u0101r",
-        "stateId": "139677",
+        "stateId": 139677,
         "latitude": 32,
         "longitude": 50.76667
     }

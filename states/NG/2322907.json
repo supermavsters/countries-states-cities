@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "7701525",
+        "cityId": 7701525,
         "name": "Bodinga",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.88333,
         "longitude": 5.16667
     },
     {
-        "cityId": "7701527",
+        "cityId": 7701527,
         "name": "Sokoto North",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.0656,
         "longitude": 5.26804
     },
     {
-        "cityId": "7701528",
+        "cityId": 7701528,
         "name": "Sokoto South",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.04012,
         "longitude": 5.25937
     },
     {
-        "cityId": "7873920",
+        "cityId": 7873920,
         "name": "Yabo",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.78914,
         "longitude": 4.94955
     },
     {
-        "cityId": "7873921",
+        "cityId": 7873921,
         "name": "Wamako",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.03992,
         "longitude": 5.11946
     },
     {
-        "cityId": "8632710",
+        "cityId": 8632710,
         "name": "Gudu",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.43162,
         "longitude": 4.49535
     },
     {
-        "cityId": "8632711",
+        "cityId": 8632711,
         "name": "Binji",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.20872,
         "longitude": 4.83289
     },
     {
-        "cityId": "8632712",
+        "cityId": 8632712,
         "name": "Tangaza",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.49687,
         "longitude": 4.96286
     },
     {
-        "cityId": "8632713",
+        "cityId": 8632713,
         "name": "Gwadabawa",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.44757,
         "longitude": 5.3106
     },
     {
-        "cityId": "8632714",
+        "cityId": 8632714,
         "name": "Gada",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.74739,
         "longitude": 5.65521
     },
     {
-        "cityId": "8632715",
+        "cityId": 8632715,
         "name": "Sabon Birni",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.4847,
         "longitude": 6.26409
     },
     {
-        "cityId": "8632716",
+        "cityId": 8632716,
         "name": "Goronyo",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.39076,
         "longitude": 5.80049
     },
     {
-        "cityId": "8632717",
+        "cityId": 8632717,
         "name": "Isa",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.22201,
         "longitude": 6.33803
     },
     {
-        "cityId": "8632718",
+        "cityId": 8632718,
         "name": "Wurno",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.25681,
         "longitude": 5.48649
     },
     {
-        "cityId": "8632719",
+        "cityId": 8632719,
         "name": "Kware",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.16982,
         "longitude": 5.28817
     },
     {
-        "cityId": "8632720",
+        "cityId": 8632720,
         "name": "Rabah",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.01326,
         "longitude": 5.71959
     },
     {
-        "cityId": "8632721",
+        "cityId": 8632721,
         "name": "Silame",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.99239,
         "longitude": 4.81935
     },
     {
-        "cityId": "8633493",
+        "cityId": 8633493,
         "name": "Dange-Shuni",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.84626,
         "longitude": 5.41777
     },
     {
-        "cityId": "8633494",
+        "cityId": 8633494,
         "name": "Tureta",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.48616,
         "longitude": 5.49432
     },
     {
-        "cityId": "8633495",
+        "cityId": 8633495,
         "name": "Shagari",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.55983,
         "longitude": 5.13013
     },
     {
-        "cityId": "8633496",
+        "cityId": 8633496,
         "name": "Tambuwal",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 12.36609,
         "longitude": 4.84882
     },
     {
-        "cityId": "8633497",
+        "cityId": 8633497,
         "name": "Kebbe",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 11.93616,
         "longitude": 4.75328
     },
     {
-        "cityId": "9180446",
+        "cityId": 9180446,
         "name": "Illela",
-        "stateId": "2322907",
+        "stateId": 2322907,
         "latitude": 13.69519,
         "longitude": 5.36123
     }

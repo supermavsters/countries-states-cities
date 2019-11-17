@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "522401",
+        "cityId": 522401,
         "name": "Neverkinskiy Rayon",
-        "stateId": "511555",
+        "stateId": 511555,
         "latitude": 52.75,
         "longitude": 46.66667
     },
     {
-        "cityId": "537733",
+        "cityId": 537733,
         "name": "Kuznetskiy Rayon",
-        "stateId": "511555",
+        "stateId": 511555,
         "latitude": 53.08333,
         "longitude": 46.58333
     },
     {
-        "cityId": "553390",
+        "cityId": 553390,
         "name": "Kameshkirskiy Rayon",
-        "stateId": "511555",
+        "stateId": 511555,
         "latitude": 52.75,
         "longitude": 46.08333
     },
     {
-        "cityId": "555790",
+        "cityId": 555790,
         "name": "Issinskiy Rayon",
-        "stateId": "511555",
+        "stateId": 511555,
         "latitude": 53.83333,
         "longitude": 45
     }

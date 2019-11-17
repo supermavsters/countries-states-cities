@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7521587",
+        "cityId": 7521587,
         "name": "Birnie",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -3.58333,
         "longitude": -171.51667
     },
     {
-        "cityId": "7521590",
+        "cityId": 7521590,
         "name": "Enderbury",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -3.13333,
         "longitude": -171.08333
     },
     {
-        "cityId": "7521592",
+        "cityId": 7521592,
         "name": "Kanton",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -2.81,
         "longitude": -171.678
     },
     {
-        "cityId": "7521598",
+        "cityId": 7521598,
         "name": "Manra",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -4.45561,
         "longitude": -171.24415
     },
     {
-        "cityId": "7521600",
+        "cityId": 7521600,
         "name": "McKean",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -3.59562,
         "longitude": -174.12292
     },
     {
-        "cityId": "7521601",
+        "cityId": 7521601,
         "name": "Nikumaroro",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -4.67412,
         "longitude": -174.52246
     },
     {
-        "cityId": "7521605",
+        "cityId": 7521605,
         "name": "Orona",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -4.51667,
         "longitude": -172.18333
     },
     {
-        "cityId": "7521606",
+        "cityId": 7521606,
         "name": "Rawaki",
-        "stateId": "7521379",
+        "stateId": 7521379,
         "latitude": -3.71667,
         "longitude": -170.71667
     }

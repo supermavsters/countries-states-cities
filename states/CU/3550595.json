@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3543297",
+        "cityId": 3543297,
         "name": "Municipio de Puerto Padre",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 21.2,
         "longitude": -76.6
     },
     {
-        "cityId": "3550596",
+        "cityId": 3550596,
         "name": "Municipio de Las Tunas",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 20.96667,
         "longitude": -76.95
     },
     {
-        "cityId": "11287700",
+        "cityId": 11287700,
         "name": "Municipio de Jobabo",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 20.90778,
         "longitude": -77.28306
     },
     {
-        "cityId": "11287705",
+        "cityId": 11287705,
         "name": "Municipio de Manat\u00ed",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 21.31444,
         "longitude": -76.93778
     },
     {
-        "cityId": "11287706",
+        "cityId": 11287706,
         "name": "Municipio de Jes\u00fas Men\u00e9ndez",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 21.16333,
         "longitude": -76.4775
     },
     {
-        "cityId": "11288234",
+        "cityId": 11288234,
         "name": "Amancio",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 20.81989,
         "longitude": -77.57592
     },
     {
-        "cityId": "11288235",
+        "cityId": 11288235,
         "name": "Colombia",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 20.98623,
         "longitude": -77.42314
     },
     {
-        "cityId": "11288240",
+        "cityId": 11288240,
         "name": "Majibacoa",
-        "stateId": "3550595",
+        "stateId": 3550595,
         "latitude": 20.94189,
         "longitude": -76.71783
     }

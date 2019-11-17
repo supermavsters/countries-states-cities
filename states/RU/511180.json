@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "466117",
+        "cityId": 466117,
         "name": "Yus\u2019vinskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 59.08333,
         "longitude": 55.25
     },
     {
-        "cityId": "466348",
+        "cityId": 466348,
         "name": "Yurlinskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 59.33333,
         "longitude": 54.25
     },
     {
-        "cityId": "539816",
+        "cityId": 539816,
         "name": "Kudymkarskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 59,
         "longitude": 54.5
     },
     {
-        "cityId": "542183",
+        "cityId": 542183,
         "name": "Krasnovisherskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 60.25,
         "longitude": 58
     },
     {
-        "cityId": "544114",
+        "cityId": 544114,
         "name": "Kosinskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 59.91667,
         "longitude": 55
     },
     {
-        "cityId": "546843",
+        "cityId": 546843,
         "name": "Kochevskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 59.75,
         "longitude": 54.25
     },
     {
-        "cityId": "561701",
+        "cityId": 561701,
         "name": "Gaynskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 60.5,
         "longitude": 54
     },
     {
-        "cityId": "565775",
+        "cityId": 565775,
         "name": "Dobryanskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 58.5,
         "longitude": 56.5
     },
     {
-        "cityId": "569358",
+        "cityId": 569358,
         "name": "Cherdynskiy Rayon",
-        "stateId": "511180",
+        "stateId": 511180,
         "latitude": 60.5,
         "longitude": 56
     }

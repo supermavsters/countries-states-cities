@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "4500561",
+        "cityId": 4500561,
         "name": "Atlantic County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.46883,
         "longitude": -74.63373
     },
     {
-        "cityId": "4500994",
+        "cityId": 4500994,
         "name": "Burlington County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.87769,
         "longitude": -74.6682
     },
     {
-        "cityId": "4501019",
+        "cityId": 4501019,
         "name": "Camden County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.80353,
         "longitude": -74.95976
     },
     {
-        "cityId": "4501053",
+        "cityId": 4501053,
         "name": "Cape May County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.08513,
         "longitude": -74.84998
     },
     {
-        "cityId": "4501427",
+        "cityId": 4501427,
         "name": "Cumberland County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.32807,
         "longitude": -75.12934
     },
     {
-        "cityId": "4501944",
+        "cityId": 4501944,
         "name": "Gloucester County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.71731,
         "longitude": -75.14167
     },
     {
-        "cityId": "4503355",
+        "cityId": 4503355,
         "name": "Ocean County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.866,
         "longitude": -74.25003
     },
     {
-        "cityId": "4503949",
+        "cityId": 4503949,
         "name": "Salem County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 39.57658,
         "longitude": -75.35791
     },
     {
-        "cityId": "5095598",
+        "cityId": 5095598,
         "name": "Bergen County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.95977,
         "longitude": -74.07441
     },
     {
-        "cityId": "5097707",
+        "cityId": 5097707,
         "name": "Essex County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.78707,
         "longitude": -74.24687
     },
     {
-        "cityId": "5099357",
+        "cityId": 5099357,
         "name": "Hudson County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.73094,
         "longitude": -74.07594
     },
     {
-        "cityId": "5099381",
+        "cityId": 5099381,
         "name": "Hunterdon County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.56729,
         "longitude": -74.91222
     },
     {
-        "cityId": "5101090",
+        "cityId": 5101090,
         "name": "Mercer County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.2834,
         "longitude": -74.70169
     },
     {
-        "cityId": "5101160",
+        "cityId": 5101160,
         "name": "Middlesex County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.44004,
         "longitude": -74.40889
     },
     {
-        "cityId": "5101305",
+        "cityId": 5101305,
         "name": "Monmouth County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.28755,
         "longitude": -74.15815
     },
     {
-        "cityId": "5101405",
+        "cityId": 5101405,
         "name": "Morris County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.86203,
         "longitude": -74.54444
     },
     {
-        "cityId": "5102445",
+        "cityId": 5102445,
         "name": "Passaic County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 41.0337,
         "longitude": -74.30032
     },
     {
-        "cityId": "5104759",
+        "cityId": 5104759,
         "name": "Somerset County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.56351,
         "longitude": -74.61631
     },
     {
-        "cityId": "5105168",
+        "cityId": 5105168,
         "name": "Sussex County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 41.13946,
         "longitude": -74.69023
     },
     {
-        "cityId": "5105640",
+        "cityId": 5105640,
         "name": "Union County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.6598,
         "longitude": -74.30859
     },
     {
-        "cityId": "5106044",
+        "cityId": 5106044,
         "name": "Warren County",
-        "stateId": "5101760",
+        "stateId": 5101760,
         "latitude": 40.85725,
         "longitude": -74.99702
     }

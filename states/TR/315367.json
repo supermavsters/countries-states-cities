@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "8631373",
+        "cityId": 8631373,
         "name": "\u015eenkaya \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.56221,
         "longitude": 42.34524
     },
     {
-        "cityId": "8631375",
+        "cityId": 8631375,
         "name": "Olur \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.82661,
         "longitude": 42.13229
     },
     {
-        "cityId": "8631376",
+        "cityId": 8631376,
         "name": "Horasan \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.04228,
         "longitude": 42.16723
     },
     {
-        "cityId": "8631377",
+        "cityId": 8631377,
         "name": "Narman \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.34492,
         "longitude": 41.87003
     },
     {
-        "cityId": "8631378",
+        "cityId": 8631378,
         "name": "Uzundere \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.53175,
         "longitude": 41.54826
     },
     {
-        "cityId": "8631379",
+        "cityId": 8631379,
         "name": "K\u00f6pr\u00fck\u00f6y \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.97178,
         "longitude": 41.86804
     },
     {
-        "cityId": "8631380",
+        "cityId": 8631380,
         "name": "Tortum \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.29699,
         "longitude": 41.55084
     },
     {
-        "cityId": "8631381",
+        "cityId": 8631381,
         "name": "Oltu \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.54562,
         "longitude": 41.99582
     },
     {
-        "cityId": "8631382",
+        "cityId": 8631382,
         "name": "Pasinler \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.97735,
         "longitude": 41.67848
     },
     {
-        "cityId": "8631384",
+        "cityId": 8631384,
         "name": "Tekman \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.64998,
         "longitude": 41.5116
     },
     {
-        "cityId": "8631386",
+        "cityId": 8631386,
         "name": "Karayaz\u0131 \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.70292,
         "longitude": 42.14503
     },
     {
-        "cityId": "8631387",
+        "cityId": 8631387,
         "name": "H\u0131n\u0131s \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.36104,
         "longitude": 41.69717
     },
     {
-        "cityId": "8631388",
+        "cityId": 8631388,
         "name": "Kara\u00e7oban \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.35157,
         "longitude": 42.1097
     },
     {
-        "cityId": "8631389",
+        "cityId": 8631389,
         "name": "\u00c7at \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.61055,
         "longitude": 40.97851
     },
     {
-        "cityId": "8631390",
+        "cityId": 8631390,
         "name": "A\u015fkale \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.93082,
         "longitude": 40.68718
     },
     {
-        "cityId": "8631391",
+        "cityId": 8631391,
         "name": "Pazaryolu \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.41377,
         "longitude": 40.77253
     },
     {
-        "cityId": "8631392",
+        "cityId": 8631392,
         "name": "\u0130spir \u0130l\u00e7esi",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.48305,
         "longitude": 40.99837
     },
     {
-        "cityId": "9538817",
+        "cityId": 9538817,
         "name": "Aziziye",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.94028,
         "longitude": 41.11153
     },
     {
-        "cityId": "9538819",
+        "cityId": 9538819,
         "name": "Yakutiye",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 40.00132,
         "longitude": 41.30997
     },
     {
-        "cityId": "9565016",
+        "cityId": 9565016,
         "name": "Paland\u00f6ken",
-        "stateId": "315367",
+        "stateId": 315367,
         "latitude": 39.8556,
         "longitude": 41.27975
     }

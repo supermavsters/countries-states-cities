@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7268087",
+        "cityId": 7268087,
         "name": "Cintrona Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.01033,
         "longitude": -66.49952
     },
     {
-        "cityId": "7268096",
+        "cityId": 7268096,
         "name": "Collores Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.117,
         "longitude": -66.53922
     },
     {
-        "cityId": "7268193",
+        "cityId": 7268193,
         "name": "Amuelas Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.037,
         "longitude": -66.50146
     },
     {
-        "cityId": "7268300",
+        "cityId": 7268300,
         "name": "Callabo Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.06465,
         "longitude": -66.54087
     },
     {
-        "cityId": "7268339",
+        "cityId": 7268339,
         "name": "Capitanejo Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 17.96144,
         "longitude": -66.50743
     },
     {
-        "cityId": "7268371",
+        "cityId": 7268371,
         "name": "Emajagual Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.07387,
         "longitude": -66.43981
     },
     {
-        "cityId": "7268433",
+        "cityId": 7268433,
         "name": "Guayabal Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.07683,
         "longitude": -66.48536
     },
     {
-        "cityId": "7268501",
+        "cityId": 7268501,
         "name": "Jacaguas Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.06271,
         "longitude": -66.52393
     },
     {
-        "cityId": "7268533",
+        "cityId": 7268533,
         "name": "Juana D\u00edaz Barrio-Pueblo",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.05122,
         "longitude": -66.50655
     },
     {
-        "cityId": "7268574",
+        "cityId": 7268574,
         "name": "Lomas Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.05991,
         "longitude": -66.50709
     },
     {
-        "cityId": "7268898",
+        "cityId": 7268898,
         "name": "R\u00edo Ca\u00f1as Abajo Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 17.98147,
         "longitude": -66.45759
     },
     {
-        "cityId": "7268900",
+        "cityId": 7268900,
         "name": "R\u00edo Ca\u00f1as Arriba Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.05396,
         "longitude": -66.44818
     },
     {
-        "cityId": "7268943",
+        "cityId": 7268943,
         "name": "Sabana Llana Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.0269,
         "longitude": -66.52685
     },
     {
-        "cityId": "7269038",
+        "cityId": 7269038,
         "name": "Tijeras Barrio",
-        "stateId": "4565713",
+        "stateId": 4565713,
         "latitude": 18.04992,
         "longitude": -66.48158
     }

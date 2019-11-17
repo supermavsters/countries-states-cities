@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7870458",
+        "cityId": 7870458,
         "name": "Komo Mondah District",
-        "stateId": "2400682",
+        "stateId": 2400682,
         "latitude": -0.071,
         "longitude": 9.579
     },
     {
-        "cityId": "8260630",
+        "cityId": 8260630,
         "name": "Commune of Libreville",
-        "stateId": "2400682",
+        "stateId": 2400682,
         "latitude": 0.385,
         "longitude": 9.51
     },
     {
-        "cityId": "8260631",
+        "cityId": 8260631,
         "name": "Komo-Mondah Department",
-        "stateId": "2400682",
+        "stateId": 2400682,
         "latitude": 0.124,
         "longitude": 9.634
     },
     {
-        "cityId": "8260632",
+        "cityId": 8260632,
         "name": "Komo Department",
-        "stateId": "2400682",
+        "stateId": 2400682,
         "latitude": 0.246,
         "longitude": 10.351
     }

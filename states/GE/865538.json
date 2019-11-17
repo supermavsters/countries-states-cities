@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "612535",
+        "cityId": 612535,
         "name": "Ozurget\u2019is Raioni",
-        "stateId": "865538",
+        "stateId": 865538,
         "latitude": 41.93333,
         "longitude": 42.05
     },
     {
-        "cityId": "613310",
+        "cityId": 613310,
         "name": "Lanchkhutis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865538",
+        "stateId": 865538,
         "latitude": 42.1,
         "longitude": 41.95
     },
     {
-        "cityId": "615117",
+        "cityId": 615117,
         "name": "Chokhat\u2019auris Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865538",
+        "stateId": 865538,
         "latitude": 41.93333,
         "longitude": 42.36667
     },
     {
-        "cityId": "7668994",
+        "cityId": 7668994,
         "name": "Chokhatauri",
-        "stateId": "865538",
+        "stateId": 865538,
         "latitude": 42.01869,
         "longitude": 42.2435
     }

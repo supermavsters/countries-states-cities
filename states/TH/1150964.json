@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1151982",
+        "cityId": 1151982,
         "name": "Amphoe Mueang Ranong",
-        "stateId": "1150964",
+        "stateId": 1150964,
         "latitude": 9.86238,
         "longitude": 98.62229
     },
     {
-        "cityId": "1152373",
+        "cityId": 1152373,
         "name": "Amphoe La-un",
-        "stateId": "1150964",
+        "stateId": 1150964,
         "latitude": 10.09691,
         "longitude": 98.78498
     },
     {
-        "cityId": "1152624",
+        "cityId": 1152624,
         "name": "Amphoe Kra Buri",
-        "stateId": "1150964",
+        "stateId": 1150964,
         "latitude": 10.45895,
         "longitude": 98.84373
     },
     {
-        "cityId": "1153060",
+        "cityId": 1153060,
         "name": "Amphoe Kapoe",
-        "stateId": "1150964",
+        "stateId": 1150964,
         "latitude": 9.53028,
         "longitude": 98.62369
     },
     {
-        "cityId": "7510608",
+        "cityId": 7510608,
         "name": "Amphoe Suk Samran",
-        "stateId": "1150964",
+        "stateId": 1150964,
         "latitude": 9.4157,
         "longitude": 98.49117
     }

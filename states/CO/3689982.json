@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "9172023",
+        "cityId": 9172023,
         "name": "El Encanto",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -1.56261,
         "longitude": -73.25684
     },
     {
-        "cityId": "9172025",
+        "cityId": 9172025,
         "name": "La Chorrera",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -1.48894,
         "longitude": -72.72935
     },
     {
-        "cityId": "9172026",
+        "cityId": 9172026,
         "name": "La Pedrera",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -1.65596,
         "longitude": -70.22186
     },
     {
-        "cityId": "9172028",
+        "cityId": 9172028,
         "name": "Leticia",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -3.65829,
         "longitude": -70.02817
     },
     {
-        "cityId": "9172030",
+        "cityId": 9172030,
         "name": "Miriti - Paran\u00e1",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -0.81858,
         "longitude": -70.78925
     },
     {
-        "cityId": "9172031",
+        "cityId": 9172031,
         "name": "Puerto Nari\u00f1o",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -3.60552,
         "longitude": -70.41458
     },
     {
-        "cityId": "9172033",
+        "cityId": 9172033,
         "name": "Puerto Santander",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -1.0987,
         "longitude": -71.93911
     },
     {
-        "cityId": "9172034",
+        "cityId": 9172034,
         "name": "Tarapac\u00e1",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -2.88544,
         "longitude": -69.77692
     },
     {
-        "cityId": "9172266",
+        "cityId": 9172266,
         "name": "La Victoria",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -0.18311,
         "longitude": -71.0376
     },
     {
-        "cityId": "9609512",
+        "cityId": 9609512,
         "name": "Puerto Alegr\u00eda",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -0.96886,
         "longitude": -73.74962
     },
     {
-        "cityId": "9609513",
+        "cityId": 9609513,
         "name": "Puerto Arica",
-        "stateId": "3689982",
+        "stateId": 3689982,
         "latitude": -1.90677,
         "longitude": -71.14653
     }

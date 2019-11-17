@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7667670",
+        "cityId": 7667670,
         "name": "Mwingi",
-        "stateId": "191037",
+        "stateId": 191037,
         "latitude": -0.93,
         "longitude": 38.07
     },
     {
-        "cityId": "11170827",
+        "cityId": 11170827,
         "name": "Kyuso sub-county",
-        "stateId": "191037",
+        "stateId": 191037,
         "latitude": -0.55736,
         "longitude": 38.21075
     }

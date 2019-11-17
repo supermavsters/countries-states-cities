@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "7053318",
+        "cityId": 7053318,
         "name": "Bah\u0101rak",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.83288,
         "longitude": 69.39531
     },
     {
-        "cityId": "7053319",
+        "cityId": 7053319,
         "name": "Bang\u012b",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.61337,
         "longitude": 69.33807
     },
     {
-        "cityId": "7053320",
+        "cityId": 7053320,
         "name": "Ch\u0101h \u0100b",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.45004,
         "longitude": 69.8799
     },
     {
-        "cityId": "7053321",
+        "cityId": 7053321,
         "name": "Ch\u0101l",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.4974,
         "longitude": 69.55919
     },
     {
-        "cityId": "7053322",
+        "cityId": 7053322,
         "name": "Darqad",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.45379,
         "longitude": 69.49901
     },
     {
-        "cityId": "7053323",
+        "cityId": 7053323,
         "name": "Dasht-e Qal\u2018ah",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.20226,
         "longitude": 69.50157
     },
     {
-        "cityId": "7053324",
+        "cityId": 7053324,
         "name": "Farkh\u0101r",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.4699,
         "longitude": 69.96083
     },
     {
-        "cityId": "7053325",
+        "cityId": 7053325,
         "name": "Haz\u0101r Sum\u016bch",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.92633,
         "longitude": 69.56967
     },
     {
-        "cityId": "7053326",
+        "cityId": 7053326,
         "name": "Ishkamish",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.36733,
         "longitude": 69.38993
     },
     {
-        "cityId": "7053327",
+        "cityId": 7053327,
         "name": "Kalafg\u0101n",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.78771,
         "longitude": 69.91488
     },
     {
-        "cityId": "7053328",
+        "cityId": 7053328,
         "name": "Khw\u0101jah Bah\u0101wudd\u012bn",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.33925,
         "longitude": 69.58251
     },
     {
-        "cityId": "7053329",
+        "cityId": 7053329,
         "name": "Khw\u0101jah Gh\u0101r",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.01827,
         "longitude": 69.39796
     },
     {
-        "cityId": "7053330",
+        "cityId": 7053330,
         "name": "Namak \u0100b",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.47151,
         "longitude": 69.71465
     },
     {
-        "cityId": "7053331",
+        "cityId": 7053331,
         "name": "Rust\u0101q",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.1062,
         "longitude": 69.81728
     },
     {
-        "cityId": "7053332",
+        "cityId": 7053332,
         "name": "T\u0101luq\u0101n",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.74061,
         "longitude": 69.60882
     },
     {
-        "cityId": "7053333",
+        "cityId": 7053333,
         "name": "Warsaj",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 36.09597,
         "longitude": 70.13882
     },
     {
-        "cityId": "7053334",
+        "cityId": 7053334,
         "name": "Yang\u012b Qal\u2018ah",
-        "stateId": "1123230",
+        "stateId": 1123230,
         "latitude": 37.46077,
         "longitude": 69.67017
     }

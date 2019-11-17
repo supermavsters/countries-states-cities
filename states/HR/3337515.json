@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "3187450",
+        "cityId": 3187450,
         "name": "Op\u0107ina Vojni\u0107",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.33333,
         "longitude": 15.7
     },
     {
-        "cityId": "3190522",
+        "cityId": 3190522,
         "name": "Grad Slunj",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.08333,
         "longitude": 15.58333
     },
     {
-        "cityId": "3193753",
+        "cityId": 3193753,
         "name": "Grad Ozalj",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.6,
         "longitude": 15.46667
     },
     {
-        "cityId": "3194182",
+        "cityId": 3194182,
         "name": "Grad Ogulin",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.26667,
         "longitude": 15.23333
     },
     {
-        "cityId": "3198257",
+        "cityId": 3198257,
         "name": "Grad Karlovac",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.5,
         "longitude": 15.53333
     },
     {
-        "cityId": "3201029",
+        "cityId": 3201029,
         "name": "Grad Duga Resa",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.43333,
         "longitude": 15.5
     },
     {
-        "cityId": "11049266",
+        "cityId": 11049266,
         "name": "Barilovi\u0107",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.38241,
         "longitude": 15.54943
     },
     {
-        "cityId": "11049267",
+        "cityId": 11049267,
         "name": "Bosiljevo",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.40239,
         "longitude": 15.28542
     },
     {
-        "cityId": "11049268",
+        "cityId": 11049268,
         "name": "Cetingrad",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.15909,
         "longitude": 15.73877
     },
     {
-        "cityId": "11049269",
+        "cityId": 11049269,
         "name": "Dragani\u0107",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.60088,
         "longitude": 15.59818
     },
     {
-        "cityId": "11049270",
+        "cityId": 11049270,
         "name": "Generalski Stol",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.34185,
         "longitude": 15.37554
     },
     {
-        "cityId": "11049271",
+        "cityId": 11049271,
         "name": "Josipdol",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.19391,
         "longitude": 15.28868
     },
     {
-        "cityId": "11049272",
+        "cityId": 11049272,
         "name": "Kamanje",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.63395,
         "longitude": 15.39322
     },
     {
-        "cityId": "11049273",
+        "cityId": 11049273,
         "name": "Krnjak",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.33591,
         "longitude": 15.59883
     },
     {
-        "cityId": "11049275",
+        "cityId": 11049275,
         "name": "Lasinja",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.52814,
         "longitude": 15.85851
     },
     {
-        "cityId": "11049276",
+        "cityId": 11049276,
         "name": "Netreti\u0107",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.50862,
         "longitude": 15.41206
     },
     {
-        "cityId": "11049277",
+        "cityId": 11049277,
         "name": "Pla\u0161ki",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.07794,
         "longitude": 15.36824
     },
     {
-        "cityId": "11049278",
+        "cityId": 11049278,
         "name": "Rakovica",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 44.99323,
         "longitude": 15.6496
     },
     {
-        "cityId": "11049279",
+        "cityId": 11049279,
         "name": "Ribnik",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.57712,
         "longitude": 15.35108
     },
     {
-        "cityId": "11049280",
+        "cityId": 11049280,
         "name": "Saborsko",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 44.98349,
         "longitude": 15.47523
     },
     {
-        "cityId": "11049281",
+        "cityId": 11049281,
         "name": "Tounj",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.25228,
         "longitude": 15.32614
     },
     {
-        "cityId": "11049283",
+        "cityId": 11049283,
         "name": "\u017dakanje",
-        "stateId": "3337515",
+        "stateId": 3337515,
         "latitude": 45.60946,
         "longitude": 15.3379
     }

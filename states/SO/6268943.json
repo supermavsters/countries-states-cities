@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "9179614",
+        "cityId": 9179614,
         "name": "Baki",
-        "stateId": "6268943",
+        "stateId": 6268943,
         "latitude": 10.28595,
         "longitude": 43.73256
     },
     {
-        "cityId": "9179616",
+        "cityId": 9179616,
         "name": "Borama District",
-        "stateId": "6268943",
+        "stateId": 6268943,
         "latitude": 10.18763,
         "longitude": 43.17024
     },
     {
-        "cityId": "9179619",
+        "cityId": 9179619,
         "name": "Lughaya District",
-        "stateId": "6268943",
+        "stateId": 6268943,
         "latitude": 10.64771,
         "longitude": 43.57897
     },
     {
-        "cityId": "9179623",
+        "cityId": 9179623,
         "name": "Zeila District",
-        "stateId": "6268943",
+        "stateId": 6268943,
         "latitude": 10.89415,
         "longitude": 43.16889
     },
     {
-        "cityId": "9259236",
+        "cityId": 9259236,
         "name": "Diila District",
-        "stateId": "6268943",
+        "stateId": 6268943,
         "latitude": 9.77889,
         "longitude": 43.346
     }

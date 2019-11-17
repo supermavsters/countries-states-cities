@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11153170",
+        "cityId": 11153170,
         "name": "Gb\u00eak\u00ea",
-        "stateId": "11153061",
+        "stateId": 11153061,
         "latitude": 7.70271,
         "longitude": -5.28511
     },
     {
-        "cityId": "11153171",
+        "cityId": 11153171,
         "name": "Hambol",
-        "stateId": "11153061",
+        "stateId": 11153061,
         "latitude": 8.30368,
         "longitude": -5.15396
     }

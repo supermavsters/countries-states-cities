@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3701171",
+        "cityId": 3701171,
         "name": "Distrito de Santa Mar\u00eda",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 8.11667,
         "longitude": -80.68333
     },
     {
-        "cityId": "3703009",
+        "cityId": 3703009,
         "name": "Distrito de Pes\u00e9",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 7.88194,
         "longitude": -80.63261
     },
     {
-        "cityId": "3703351",
+        "cityId": 3703351,
         "name": "Distrito de Parita",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 8.0624,
         "longitude": -80.56373
     },
     {
-        "cityId": "3703784",
+        "cityId": 3703784,
         "name": "Distrito de Oc\u00fa",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 7.90641,
         "longitude": -80.79752
     },
     {
-        "cityId": "3705017",
+        "cityId": 3705017,
         "name": "Distrito de Los Pozos",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 7.70944,
         "longitude": -80.64311
     },
     {
-        "cityId": "3706342",
+        "cityId": 3706342,
         "name": "Distrito de Las Minas",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 7.76525,
         "longitude": -80.82249
     },
     {
-        "cityId": "3712382",
+        "cityId": 3712382,
         "name": "Distrito de Chitr\u00e9",
-        "stateId": "3708710",
+        "stateId": 3708710,
         "latitude": 7.98333,
         "longitude": -80.43333
     }

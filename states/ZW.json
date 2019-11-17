@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "1105843",
+        "stateId": 1105843,
         "name": "Bulawayo Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -20.14167,
         "longitude": 28.55
     },
     {
-        "stateId": "1105844",
+        "stateId": 1105844,
         "name": "Harare Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -17.85417,
         "longitude": 31.05833
     },
     {
-        "stateId": "887358",
+        "stateId": 887358,
         "name": "Manicaland Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -19,
         "longitude": 32.41667
     },
     {
-        "stateId": "886843",
+        "stateId": 886843,
         "name": "Mashonaland Central Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -16.7,
         "longitude": 31.2
     },
     {
-        "stateId": "886842",
+        "stateId": 886842,
         "name": "Mashonaland East Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -17.96667,
         "longitude": 31.66667
     },
     {
-        "stateId": "886841",
+        "stateId": 886841,
         "name": "Mashonaland West Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -17.16667,
         "longitude": 29.75
     },
     {
-        "stateId": "886761",
+        "stateId": 886761,
         "name": "Masvingo Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -20.6,
         "longitude": 31.4
     },
     {
-        "stateId": "886748",
+        "stateId": 886748,
         "name": "Matabeleland North Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -18.83333,
         "longitude": 27.41667
     },
     {
-        "stateId": "886747",
+        "stateId": 886747,
         "name": "Matabeleland South Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -20.9,
         "longitude": 28.8
     },
     {
-        "stateId": "886119",
+        "stateId": 886119,
         "name": "Midlands Province",
-        "countryId": "878675",
+        "countryId": 878675,
         "latitude": -19.2,
         "longitude": 29.8
     }

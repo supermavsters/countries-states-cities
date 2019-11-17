@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "726172",
+        "cityId": 726172,
         "name": "Obshtina Targovishte",
-        "stateId": "864560",
+        "stateId": 864560,
         "latitude": 43.25,
         "longitude": 26.56667
     },
     {
-        "cityId": "728074",
+        "cityId": 728074,
         "name": "Obshtina Popovo",
-        "stateId": "864560",
+        "stateId": 864560,
         "latitude": 43.35,
         "longitude": 26.23333
     },
     {
-        "cityId": "728630",
+        "cityId": 728630,
         "name": "Obshtina Opaka",
-        "stateId": "864560",
+        "stateId": 864560,
         "latitude": 43.46667,
         "longitude": 26.15
     },
     {
-        "cityId": "728633",
+        "cityId": 728633,
         "name": "Obshtina Omurtag",
-        "stateId": "864560",
+        "stateId": 864560,
         "latitude": 43.08333,
         "longitude": 26.48333
     },
     {
-        "cityId": "733656",
+        "cityId": 733656,
         "name": "Obshtina Antonovo",
-        "stateId": "864560",
+        "stateId": 864560,
         "latitude": 43.11667,
         "longitude": 26.2
     }

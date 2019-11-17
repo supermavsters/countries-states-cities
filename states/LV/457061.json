@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "11352765",
+        "cityId": 11352765,
         "name": "Ogre",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.8129,
         "longitude": 24.61782
     },
     {
-        "cityId": "11352789",
+        "cityId": 11352789,
         "name": "\u0136eipenes pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.90619,
         "longitude": 25.14104
     },
     {
-        "cityId": "11352790",
+        "cityId": 11352790,
         "name": "Krapes pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.73751,
         "longitude": 25.19718
     },
     {
-        "cityId": "11352791",
+        "cityId": 11352791,
         "name": "Lauberes pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.83746,
         "longitude": 25.01419
     },
     {
-        "cityId": "11352792",
+        "cityId": 11352792,
         "name": "Madlienas pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.81341,
         "longitude": 25.19492
     },
     {
-        "cityId": "11352793",
+        "cityId": 11352793,
         "name": "Mazozolu pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.91856,
         "longitude": 25.46093
     },
     {
-        "cityId": "11352796",
+        "cityId": 11352796,
         "name": "Me\u0146\u0123eles pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.81156,
         "longitude": 25.4089
     },
     {
-        "cityId": "11352797",
+        "cityId": 11352797,
         "name": "Ogresgala pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.80707,
         "longitude": 24.72388
     },
     {
-        "cityId": "11352798",
+        "cityId": 11352798,
         "name": "Sunta\u017eu pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.89066,
         "longitude": 24.88473
     },
     {
-        "cityId": "11352799",
+        "cityId": 11352799,
         "name": "Taurupes pagasts",
-        "stateId": "457061",
+        "stateId": 457061,
         "latitude": 56.90305,
         "longitude": 25.31905
     }

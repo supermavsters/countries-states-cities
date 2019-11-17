@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "620133",
+        "cityId": 620133,
         "name": "Vitsyebski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.25,
         "longitude": 30.33333
     },
     {
-        "cityId": "620254",
+        "cityId": 620254,
         "name": "Vyerkhnyadzvinski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.75,
         "longitude": 28.16667
     },
     {
-        "cityId": "620539",
+        "cityId": 620539,
         "name": "Ushatski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.17079,
         "longitude": 28.56978
     },
     {
-        "cityId": "620831",
+        "cityId": 620831,
         "name": "Talachynski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.5,
         "longitude": 29.75
     },
     {
-        "cityId": "621985",
+        "cityId": 621985,
         "name": "Shumilinski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.33333,
         "longitude": 29.5
     },
     {
-        "cityId": "622178",
+        "cityId": 622178,
         "name": "Sharkawshchynski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.41667,
         "longitude": 27.41667
     },
     {
-        "cityId": "622261",
+        "cityId": 622261,
         "name": "Syennyenski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.83333,
         "longitude": 29.83333
     },
     {
-        "cityId": "622691",
+        "cityId": 622691,
         "name": "Rasonski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.83333,
         "longitude": 28.91667
     },
     {
-        "cityId": "623176",
+        "cityId": 623176,
         "name": "Pastawski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.08333,
         "longitude": 26.91667
     },
     {
-        "cityId": "623283",
+        "cityId": 623283,
         "name": "Polatski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.58333,
         "longitude": 29
     },
     {
-        "cityId": "624077",
+        "cityId": 624077,
         "name": "Arshanski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.5,
         "longitude": 30.33333
     },
     {
-        "cityId": "625131",
+        "cityId": 625131,
         "name": "Myorski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.58333,
         "longitude": 27.83333
     },
     {
-        "cityId": "626065",
+        "cityId": 626065,
         "name": "Lyoznyenski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55,
         "longitude": 30.66667
     },
     {
-        "cityId": "626141",
+        "cityId": 626141,
         "name": "Lyepyel\u2019ski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.83333,
         "longitude": 28.66667
     },
     {
-        "cityId": "628152",
+        "cityId": 628152,
         "name": "Haradotski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.66667,
         "longitude": 30.16667
     },
     {
-        "cityId": "628404",
+        "cityId": 628404,
         "name": "Hlybotski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.16667,
         "longitude": 27.83333
     },
     {
-        "cityId": "628789",
+        "cityId": 628789,
         "name": "Dubrovyenski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.58333,
         "longitude": 30.83333
     },
     {
-        "cityId": "629003",
+        "cityId": 629003,
         "name": "Dokshytski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.83333,
         "longitude": 27.91667
     },
     {
-        "cityId": "629398",
+        "cityId": 629398,
         "name": "Chashnitski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.75,
         "longitude": 29.25
     },
     {
-        "cityId": "629639",
+        "cityId": 629639,
         "name": "Braslawski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.55972,
         "longitude": 27
     },
     {
-        "cityId": "630135",
+        "cityId": 630135,
         "name": "Byeshankovitski Rayon",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55,
         "longitude": 29.5
     },
     {
-        "cityId": "828887",
+        "cityId": 828887,
         "name": "Horad Vitsyebsk",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.1925,
         "longitude": 30.19444
     },
     {
-        "cityId": "828888",
+        "cityId": 828888,
         "name": "Horad Lyepyel\u2019",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 54.88333,
         "longitude": 28.7
     },
     {
-        "cityId": "828889",
+        "cityId": 828889,
         "name": "Horad Navapolatsk",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.52917,
         "longitude": 28.64306
     },
     {
-        "cityId": "828891",
+        "cityId": 828891,
         "name": "Horad Polatsk",
-        "stateId": "620134",
+        "stateId": 620134,
         "latitude": 55.48556,
         "longitude": 28.80417
     }

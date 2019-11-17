@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "613987",
+        "cityId": 613987,
         "name": "Khashuris Raioni",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 42,
         "longitude": 43.63333
     },
     {
-        "cityId": "614103",
+        "cityId": 614103,
         "name": "Kaspis Raioni",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 41.9,
         "longitude": 44.36667
     },
     {
-        "cityId": "614130",
+        "cityId": 614130,
         "name": "Kareli",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 42.03042,
         "longitude": 43.89553
     },
     {
-        "cityId": "614450",
+        "cityId": 614450,
         "name": "Goris Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 42.06667,
         "longitude": 44.11667
     },
     {
-        "cityId": "614792",
+        "cityId": 614792,
         "name": "Javis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 42.5,
         "longitude": 44.05
     },
     {
-        "cityId": "10285963",
+        "cityId": 10285963,
         "name": "Tskhinvali District",
-        "stateId": "865540",
+        "stateId": 865540,
         "latitude": 42.23333,
         "longitude": 43.96667
     }

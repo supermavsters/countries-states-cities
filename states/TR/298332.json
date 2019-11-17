@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "436459",
+        "cityId": 436459,
         "name": "Ak\u00e7akale \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 36.76139,
         "longitude": 38.96944
     },
     {
-        "cityId": "439166",
+        "cityId": 439166,
         "name": "Harran \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 36.84306,
         "longitude": 39.21833
     },
     {
-        "cityId": "439201",
+        "cityId": 439201,
         "name": "Ceylanp\u0131nar \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 36.91944,
         "longitude": 39.905
     },
     {
-        "cityId": "7732984",
+        "cityId": 7732984,
         "name": "Merkez",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.08216,
         "longitude": 39.14955
     },
     {
-        "cityId": "8630788",
+        "cityId": 8630788,
         "name": "Viran\u015fehir \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.23103,
         "longitude": 39.76247
     },
     {
-        "cityId": "8630789",
+        "cityId": 8630789,
         "name": "Suru\u00e7 \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 36.97681,
         "longitude": 38.4262
     },
     {
-        "cityId": "8630791",
+        "cityId": 8630791,
         "name": "Siverek \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.76186,
         "longitude": 39.32024
     },
     {
-        "cityId": "8630792",
+        "cityId": 8630792,
         "name": "Hilvan \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.59383,
         "longitude": 38.96
     },
     {
-        "cityId": "8630793",
+        "cityId": 8630793,
         "name": "Birecik \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.03387,
         "longitude": 37.99658
     },
     {
-        "cityId": "8630794",
+        "cityId": 8630794,
         "name": "Bozova \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.37074,
         "longitude": 38.53343
     },
     {
-        "cityId": "8630795",
+        "cityId": 8630795,
         "name": "Halfeti \u0130l\u00e7esi",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.25397,
         "longitude": 37.8794
     },
     {
-        "cityId": "9550246",
+        "cityId": 9550246,
         "name": "Eyy\u00fcbiye",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.21434,
         "longitude": 38.79358
     },
     {
-        "cityId": "9550457",
+        "cityId": 9550457,
         "name": "Karak\u00f6pr\u00fc",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.18029,
         "longitude": 38.81109
     },
     {
-        "cityId": "9550541",
+        "cityId": 9550541,
         "name": "Haliliye",
-        "stateId": "298332",
+        "stateId": 298332,
         "latitude": 37.14144,
         "longitude": 38.79599
     }

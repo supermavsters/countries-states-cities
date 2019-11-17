@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "5883098",
+        "cityId": 5883098,
         "name": "Albert County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.83346,
         "longitude": -64.91548
     },
     {
-        "cityId": "5917147",
+        "cityId": 5917147,
         "name": "Carleton County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 46.33339,
         "longitude": -67.4156
     },
     {
-        "cityId": "5920264",
+        "cityId": 5920264,
         "name": "Charlotte County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.16684,
         "longitude": -66.83218
     },
     {
-        "cityId": "5991094",
+        "cityId": 5991094,
         "name": "Kent County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 46.58343,
         "longitude": -65.24875
     },
     {
-        "cityId": "5992378",
+        "cityId": 5992378,
         "name": "Kings County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.66685,
         "longitude": -65.74884
     },
     {
-        "cityId": "6090771",
+        "cityId": 6090771,
         "name": "Northumberland County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 46.9168,
         "longitude": -65.99877
     },
     {
-        "cityId": "6115101",
+        "cityId": 6115101,
         "name": "Queens County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.83344,
         "longitude": -65.99886
     },
     {
-        "cityId": "6138518",
+        "cityId": 6138518,
         "name": "Saint John County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.33347,
         "longitude": -65.83213
     },
     {
-        "cityId": "6159368",
+        "cityId": 6159368,
         "name": "Sunbury County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 45.91683,
         "longitude": -66.33217
     },
     {
-        "cityId": "6179219",
+        "cityId": 6179219,
         "name": "Westmorland County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 46.00015,
         "longitude": -64.66546
     },
     {
-        "cityId": "6185557",
+        "cityId": 6185557,
         "name": "York County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 46.1668,
         "longitude": -66.99888
     },
     {
-        "cityId": "6944116",
+        "cityId": 6944116,
         "name": "Restigouche",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 47.74137,
         "longitude": -67.04073
     },
     {
-        "cityId": "8593708",
+        "cityId": 8593708,
         "name": "Gloucester County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 47.64966,
         "longitude": -65.2533
     },
     {
-        "cityId": "8593709",
+        "cityId": 8593709,
         "name": "Madawaska County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 47.4253,
         "longitude": -68.20587
     },
     {
-        "cityId": "8593710",
+        "cityId": 8593710,
         "name": "Victoria County",
-        "stateId": "6087430",
+        "stateId": 6087430,
         "latitude": 47.07293,
         "longitude": -67.41417
     }

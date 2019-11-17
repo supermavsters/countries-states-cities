@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "9212602",
+        "cityId": 9212602,
         "name": "Guerou",
-        "stateId": "2381344",
+        "stateId": 2381344,
         "latitude": 16.86456,
         "longitude": -11.97782
     },
     {
-        "cityId": "9212605",
+        "cityId": 9212605,
         "name": "Kiffa",
-        "stateId": "2381344",
+        "stateId": 2381344,
         "latitude": 16.74974,
         "longitude": -11.3478
     },
     {
-        "cityId": "9212624",
+        "cityId": 9212624,
         "name": "Kankossa",
-        "stateId": "2381344",
+        "stateId": 2381344,
         "latitude": 15.95629,
         "longitude": -11.16317
     },
     {
-        "cityId": "9229053",
+        "cityId": 9229053,
         "name": "Barkeol",
-        "stateId": "2381344",
+        "stateId": 2381344,
         "latitude": 16.63333,
         "longitude": -12.5
     },
     {
-        "cityId": "9253087",
+        "cityId": 9253087,
         "name": "Aftout",
-        "stateId": "2381344",
+        "stateId": 2381344,
         "latitude": 16.71199,
         "longitude": -12.62625
     }

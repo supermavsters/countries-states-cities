@@ -1,246 +1,246 @@
 [
     {
-        "cityId": "1252771",
+        "cityId": 1252771,
         "name": "Yavatmal",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.15,
         "longitude": 78.35
     },
     {
-        "cityId": "1252944",
+        "cityId": 1252944,
         "name": "Wardha",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.83333,
         "longitude": 78.6
     },
     {
-        "cityId": "1254662",
+        "cityId": 1254662,
         "name": "Thane",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.33333,
         "longitude": 73.25
     },
     {
-        "cityId": "1255847",
+        "cityId": 1255847,
         "name": "Solapur",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 17.75,
         "longitude": 75.5
     },
     {
-        "cityId": "1258340",
+        "cityId": 1258340,
         "name": "Ratnagiri",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 17,
         "longitude": 73.5
     },
     {
-        "cityId": "1260342",
+        "cityId": 1260342,
         "name": "Parbhani",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.5,
         "longitude": 76.75
     },
     {
-        "cityId": "1261013",
+        "cityId": 1261013,
         "name": "Osmanabad",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.25,
         "longitude": 76.16667
     },
     {
-        "cityId": "1261978",
+        "cityId": 1261978,
         "name": "Nanded",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.91667,
         "longitude": 77.5
     },
     {
-        "cityId": "1266287",
+        "cityId": 1266287,
         "name": "Kolhapur",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 16.69013,
         "longitude": 74.22981
     },
     {
-        "cityId": "1269411",
+        "cityId": 1269411,
         "name": "Jalgaon",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21,
         "longitude": 75.5
     },
     {
-        "cityId": "1270836",
+        "cityId": 1270836,
         "name": "Mumbai Suburban",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.12636,
         "longitude": 72.84897
     },
     {
-        "cityId": "1272692",
+        "cityId": 1272692,
         "name": "Dhule",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21.41667,
         "longitude": 74.5
     },
     {
-        "cityId": "1275118",
+        "cityId": 1275118,
         "name": "Buldana",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.58333,
         "longitude": 76.41667
     },
     {
-        "cityId": "1275540",
+        "cityId": 1275540,
         "name": "Bid",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.83333,
         "longitude": 75.75
     },
     {
-        "cityId": "1276192",
+        "cityId": 1276192,
         "name": "Bhandara",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21.18333,
         "longitude": 80
     },
     {
-        "cityId": "1279109",
+        "cityId": 1279109,
         "name": "Akola",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.5,
         "longitude": 77.16667
     },
     {
-        "cityId": "7626531",
+        "cityId": 7626531,
         "name": "Washim",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.2,
         "longitude": 77.2
     },
     {
-        "cityId": "7626532",
+        "cityId": 7626532,
         "name": "Jalna",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.8,
         "longitude": 75.9
     },
     {
-        "cityId": "7626533",
+        "cityId": 7626533,
         "name": "Hingoli",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.7,
         "longitude": 77.15
     },
     {
-        "cityId": "7626534",
+        "cityId": 7626534,
         "name": "Ahmadnagar",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.4,
         "longitude": 74.65
     },
     {
-        "cityId": "7626535",
+        "cityId": 7626535,
         "name": "Gondiya",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21.05,
         "longitude": 80.25
     },
     {
-        "cityId": "7626536",
+        "cityId": 7626536,
         "name": "Gadchiroli",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.8,
         "longitude": 80.2
     },
     {
-        "cityId": "7626537",
+        "cityId": 7626537,
         "name": "Latur",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.4,
         "longitude": 76.8
     },
     {
-        "cityId": "7626539",
+        "cityId": 7626539,
         "name": "Sindhudurg",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 16.17,
         "longitude": 73.7
     },
     {
-        "cityId": "7626540",
+        "cityId": 7626540,
         "name": "Raigarh",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.57,
         "longitude": 73.13
     },
     {
-        "cityId": "7626542",
+        "cityId": 7626542,
         "name": "Nandurbar",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21.37,
         "longitude": 74.2
     },
     {
-        "cityId": "8131497",
+        "cityId": 8131497,
         "name": "Amravati Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.93483,
         "longitude": 77.75694
     },
     {
-        "cityId": "8131498",
+        "cityId": 8131498,
         "name": "Aurangabad Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.88467,
         "longitude": 75.33986
     },
     {
-        "cityId": "8131500",
+        "cityId": 8131500,
         "name": "Nagpur Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 21.14911,
         "longitude": 79.10748
     },
     {
-        "cityId": "8131501",
+        "cityId": 8131501,
         "name": "Nashik Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 19.98295,
         "longitude": 73.78942
     },
     {
-        "cityId": "8131502",
+        "cityId": 8131502,
         "name": "Satara Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 17.72601,
         "longitude": 74.06433
     },
     {
-        "cityId": "8133375",
+        "cityId": 8133375,
         "name": "Pune Division",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.74673,
         "longitude": 73.75465
     },
     {
-        "cityId": "9747944",
+        "cityId": 9747944,
         "name": "Chandrapur",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 20.11793,
         "longitude": 79.44377
     },
     {
-        "cityId": "9747967",
+        "cityId": 9747967,
         "name": "Sangli",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 17.11202,
         "longitude": 74.7699
     },
     {
-        "cityId": "9747998",
+        "cityId": 9747998,
         "name": "Mumbai",
-        "stateId": "1264418",
+        "stateId": 1264418,
         "latitude": 18.95963,
         "longitude": 72.84962
     }

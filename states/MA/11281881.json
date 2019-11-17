@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2540846",
+        "cityId": 2540846,
         "name": "Ouarzazate",
-        "stateId": "11281881",
+        "stateId": 11281881,
         "latitude": 30.9413,
         "longitude": -6.90285
     },
     {
-        "cityId": "2549340",
+        "cityId": 2549340,
         "name": "Errachidia",
-        "stateId": "11281881",
+        "stateId": 11281881,
         "latitude": 31.75,
         "longitude": -4.5
     },
     {
-        "cityId": "6547302",
+        "cityId": 6547302,
         "name": "Zagora",
-        "stateId": "11281881",
+        "stateId": 11281881,
         "latitude": 30.34839,
         "longitude": -5.83649
     },
     {
-        "cityId": "11281984",
+        "cityId": 11281984,
         "name": "Tinghir Province",
-        "stateId": "11281881",
+        "stateId": 11281881,
         "latitude": 31.51965,
         "longitude": -5.52999
     },
     {
-        "cityId": "11282171",
+        "cityId": 11282171,
         "name": "Midelt",
-        "stateId": "11281881",
+        "stateId": 11281881,
         "latitude": 32.68055,
         "longitude": -4.73691
     }

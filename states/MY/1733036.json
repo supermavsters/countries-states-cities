@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9781175",
+        "cityId": 9781175,
         "name": "Daerah Setiu",
-        "stateId": "1733036",
+        "stateId": 1733036,
         "latitude": 5.51969,
         "longitude": 102.74605
     },
     {
-        "cityId": "9781176",
+        "cityId": 9781176,
         "name": "Daerah Besut",
-        "stateId": "1733036",
+        "stateId": 1733036,
         "latitude": 5.82901,
         "longitude": 102.55238
     }

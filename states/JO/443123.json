@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "8621692",
+        "cityId": 8621692,
         "name": "Liw\u0101\u2019 Qa\u015fabat M\u0101dab\u0101",
-        "stateId": "443123",
+        "stateId": 443123,
         "latitude": 31.70578,
         "longitude": 35.71624
     },
     {
-        "cityId": "8621693",
+        "cityId": 8621693,
         "name": "Liw\u0101\u2019 Dh\u012bb\u0101n",
-        "stateId": "443123",
+        "stateId": 443123,
         "latitude": 31.53855,
         "longitude": 35.71033
     }

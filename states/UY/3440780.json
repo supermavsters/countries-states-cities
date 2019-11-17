@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11820808",
+        "cityId": 11820808,
         "name": "Tranqueras",
-        "stateId": "3440780",
+        "stateId": 3440780,
         "latitude": -31.21274,
         "longitude": -55.84563
     },
     {
-        "cityId": "11820830",
+        "cityId": 11820830,
         "name": "Vichadero",
-        "stateId": "3440780",
+        "stateId": 3440780,
         "latitude": -31.79629,
         "longitude": -54.60219
     },
     {
-        "cityId": "11820831",
+        "cityId": 11820831,
         "name": "Minas De Corrales",
-        "stateId": "3440780",
+        "stateId": 3440780,
         "latitude": -31.5103,
         "longitude": -55.49982
     }

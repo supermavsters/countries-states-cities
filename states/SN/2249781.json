@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2244181",
+        "cityId": 2244181,
         "name": "Velingara Department",
-        "stateId": "2249781",
+        "stateId": 2249781,
         "latitude": 12.986,
         "longitude": -13.813
     },
     {
-        "cityId": "2245705",
+        "cityId": 2245705,
         "name": "S\u00e9dhiou",
-        "stateId": "2249781",
+        "stateId": 2249781,
         "latitude": 12.75,
         "longitude": -15.5
     },
     {
-        "cityId": "7670821",
+        "cityId": 7670821,
         "name": "Kolda Department",
-        "stateId": "2249781",
+        "stateId": 2249781,
         "latitude": 12.883,
         "longitude": -14.95
     },
     {
-        "cityId": "10779433",
+        "cityId": 10779433,
         "name": "D\u00e9partement de M\u00e9dina Yoro Foulah",
-        "stateId": "2249781",
+        "stateId": 2249781,
         "latitude": 13.22561,
         "longitude": -14.85773
     }

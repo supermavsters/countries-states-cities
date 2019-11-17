@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7268236",
+        "cityId": 7268236,
         "name": "Barrazas Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.31214,
         "longitude": -65.93606
     },
     {
-        "cityId": "7268282",
+        "cityId": 7268282,
         "name": "Cacao Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.34639,
         "longitude": -65.96305
     },
     {
-        "cityId": "7268323",
+        "cityId": 7268323,
         "name": "Cangrejo Arriba Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.43945,
         "longitude": -66.01003
     },
     {
-        "cityId": "7268329",
+        "cityId": 7268329,
         "name": "Canovanillas Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.35474,
         "longitude": -65.9232
     },
     {
-        "cityId": "7268346",
+        "cityId": 7268346,
         "name": "Carolina Barrio-Pueblo",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.38178,
         "longitude": -65.95691
     },
     {
-        "cityId": "7268352",
+        "cityId": 7268352,
         "name": "Carruzos Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.31343,
         "longitude": -65.91634
     },
     {
-        "cityId": "7268363",
+        "cityId": 7268363,
         "name": "Cedro Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.28777,
         "longitude": -65.9171
     },
     {
-        "cityId": "7268484",
+        "cityId": 7268484,
         "name": "Buena Vista Barrio (Inactive)",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.40805,
         "longitude": -65.94632
     },
     {
-        "cityId": "7268631",
+        "cityId": 7268631,
         "name": "Mart\u00edn Gonz\u00e1lez Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.3758,
         "longitude": -65.97267
     },
     {
-        "cityId": "7268934",
+        "cityId": 7268934,
         "name": "Sabana Abajo Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.41628,
         "longitude": -65.98328
     },
     {
-        "cityId": "7268961",
+        "cityId": 7268961,
         "name": "San Ant\u00f3n Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.38858,
         "longitude": -65.99037
     },
     {
-        "cityId": "7268987",
+        "cityId": 7268987,
         "name": "Santa Cruz Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.34906,
         "longitude": -65.93979
     },
     {
-        "cityId": "7269053",
+        "cityId": 7269053,
         "name": "Trujillo Bajo Barrio",
-        "stateId": "4563244",
+        "stateId": 4563244,
         "latitude": 18.36378,
         "longitude": -65.94776
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11352464",
+        "cityId": 11352464,
         "name": "Skrunda",
-        "stateId": "7628308",
+        "stateId": 7628308,
         "latitude": 56.67158,
         "longitude": 22.00927
     },
     {
-        "cityId": "11352885",
+        "cityId": 11352885,
         "name": "Rudb\u0101r\u017eu pagasts",
-        "stateId": "7628308",
+        "stateId": 7628308,
         "latitude": 56.65376,
         "longitude": 21.87861
     },
     {
-        "cityId": "11352914",
+        "cityId": 11352914,
         "name": "N\u012bkr\u0101ces pagasts",
-        "stateId": "7628308",
+        "stateId": 7628308,
         "latitude": 56.56099,
         "longitude": 21.92835
     },
     {
-        "cityId": "11352915",
+        "cityId": 11352915,
         "name": "Ra\u0146\u0137u pagasts",
-        "stateId": "7628308",
+        "stateId": 7628308,
         "latitude": 56.78118,
         "longitude": 21.99326
     },
     {
-        "cityId": "11352917",
+        "cityId": 11352917,
         "name": "Skrundas pagasts",
-        "stateId": "7628308",
+        "stateId": 7628308,
         "latitude": 56.69699,
         "longitude": 22.06831
     }

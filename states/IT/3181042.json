@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3168670",
+        "cityId": 3168670,
         "name": "Provincia di Salerno",
-        "stateId": "3181042",
+        "stateId": 3181042,
         "latitude": 40.45,
         "longitude": 15.26667
     },
     {
-        "cityId": "3172391",
+        "cityId": 3172391,
         "name": "Provincia di Napoli",
-        "stateId": "3181042",
+        "stateId": 3181042,
         "latitude": 40.88333,
         "longitude": 14.41667
     },
     {
-        "cityId": "3179865",
+        "cityId": 3179865,
         "name": "Provincia di Caserta",
-        "stateId": "3181042",
+        "stateId": 3181042,
         "latitude": 41.23333,
         "longitude": 14.16667
     },
     {
-        "cityId": "3182178",
+        "cityId": 3182178,
         "name": "Provincia di Benevento",
-        "stateId": "3181042",
+        "stateId": 3181042,
         "latitude": 41.21792,
         "longitude": 14.7464
     },
     {
-        "cityId": "3182649",
+        "cityId": 3182649,
         "name": "Provincia di Avellino",
-        "stateId": "3181042",
+        "stateId": 3181042,
         "latitude": 40.98333,
         "longitude": 15.15
     }

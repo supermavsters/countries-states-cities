@@ -1,204 +1,204 @@
 [
     {
-        "cityId": "5554074",
+        "cityId": 5554074,
         "name": "Juneau City and Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 58.41667,
         "longitude": -134.33333
     },
     {
-        "cityId": "5554432",
+        "cityId": 5554432,
         "name": "Ketchikan Gateway Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 55.50056,
         "longitude": -131.41667
     },
     {
-        "cityId": "5557295",
+        "cityId": 5557295,
         "name": "Sitka City and Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 57.08255,
         "longitude": -135.26917
     },
     {
-        "cityId": "5558618",
+        "cityId": 5558618,
         "name": "Yakutat City and Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 59.66667,
         "longitude": -139.13333
     },
     {
-        "cityId": "5846893",
+        "cityId": 5846893,
         "name": "Haines Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 59.25056,
         "longitude": -135.50056
     },
     {
-        "cityId": "5858042",
+        "cityId": 5858042,
         "name": "Bristol Bay Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 58.75056,
         "longitude": -156.83333
     },
     {
-        "cityId": "5860541",
+        "cityId": 5860541,
         "name": "Denali Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 63.78889,
         "longitude": -150.19167
     },
     {
-        "cityId": "5860696",
+        "cityId": 5860696,
         "name": "Dillingham Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 59.76193,
         "longitude": -158.31848
     },
     {
-        "cityId": "5861900",
+        "cityId": 5861900,
         "name": "Fairbanks North Star Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 64.83333,
         "longitude": -146.41667
     },
     {
-        "cityId": "5866071",
+        "cityId": 5866071,
         "name": "Kenai Peninsula Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 60.41667,
         "longitude": -151.25056
     },
     {
-        "cityId": "5866574",
+        "cityId": 5866574,
         "name": "Kodiak Island Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 57.33333,
         "longitude": -153.33333
     },
     {
-        "cityId": "5867113",
+        "cityId": 5867113,
         "name": "Lake and Peninsula Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 57.00056,
         "longitude": -158.00056
     },
     {
-        "cityId": "5868437",
+        "cityId": 5868437,
         "name": "Matanuska-Susitna Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 62.50056,
         "longitude": -150.00556
     },
     {
-        "cityId": "5870134",
+        "cityId": 5870134,
         "name": "Nome Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 64.83333,
         "longitude": -163.75056
     },
     {
-        "cityId": "5870308",
+        "cityId": 5870308,
         "name": "North Slope Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 69.25056,
         "longitude": -152.00056
     },
     {
-        "cityId": "5870351",
+        "cityId": 5870351,
         "name": "Northwest Arctic Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 66.83333,
         "longitude": -161.00056
     },
     {
-        "cityId": "5874863",
+        "cityId": 5874863,
         "name": "Southeast Fairbanks Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 63.75056,
         "longitude": -143.25056
     },
     {
-        "cityId": "5877395",
+        "cityId": 5877395,
         "name": "Valdez-Cordova Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 61.50056,
         "longitude": -144.50056
     },
     {
-        "cityId": "5878558",
+        "cityId": 5878558,
         "name": "Yukon-Koyukuk Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 65.7,
         "longitude": -152.71667
     },
     {
-        "cityId": "5879164",
+        "cityId": 5879164,
         "name": "Aleutians West Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 52.16298,
         "longitude": -174.28505
     },
     {
-        "cityId": "5879166",
+        "cityId": 5879166,
         "name": "Aleutians East Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 54.85,
         "longitude": -163.41667
     },
     {
-        "cityId": "5879348",
+        "cityId": 5879348,
         "name": "Anchorage Municipality",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 61.16667,
         "longitude": -149.25056
     },
     {
-        "cityId": "5880573",
+        "cityId": 5880573,
         "name": "Bethel Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 60.75056,
         "longitude": -160.50056
     },
     {
-        "cityId": "7117565",
+        "cityId": 7117565,
         "name": "Skagway Municipality",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 59.46852,
         "longitude": -135.30596
     },
     {
-        "cityId": "7117568",
+        "cityId": 7117568,
         "name": "Hoonah-Angoon Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 57.94807,
         "longitude": -134.94153
     },
     {
-        "cityId": "7117591",
+        "cityId": 7117591,
         "name": "City and Borough of Wrangell",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 56.41331,
         "longitude": -132.32009
     },
     {
-        "cityId": "7117732",
+        "cityId": 7117732,
         "name": "Petersburg Borough",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 56.76529,
         "longitude": -133.19313
     },
     {
-        "cityId": "11550055",
+        "cityId": 11550055,
         "name": "Prince of Wales-Hyder Census Area, Alaska",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 55.59697,
         "longitude": -132.80273
     },
     {
-        "cityId": "11550056",
+        "cityId": 11550056,
         "name": "Kusilvak Census Area",
-        "stateId": "5879092",
+        "stateId": 5879092,
         "latitude": 61.99059,
         "longitude": -164.55322
     }

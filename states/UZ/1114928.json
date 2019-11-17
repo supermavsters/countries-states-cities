@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1215766",
+        "cityId": 1215766,
         "name": "Yakkabog\u2018 Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.89304,
         "longitude": 66.77132
     },
     {
-        "cityId": "1215811",
+        "cityId": 1215811,
         "name": "Usmon Yusupov Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.8272,
         "longitude": 65.24484
     },
     {
-        "cityId": "1215855",
+        "cityId": 1215855,
         "name": "Kasbi Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.87552,
         "longitude": 65.46117
     },
     {
-        "cityId": "1216186",
+        "cityId": 1216186,
         "name": "Shahrisabz Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 39,
         "longitude": 67.16667
     },
     {
-        "cityId": "1216399",
+        "cityId": 1216399,
         "name": "Nishon Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.58333,
         "longitude": 65.58333
     },
     {
-        "cityId": "1216474",
+        "cityId": 1216474,
         "name": "Muborak Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 39.31717,
         "longitude": 65.27045
     },
     {
-        "cityId": "1216786",
+        "cityId": 1216786,
         "name": "Kitob Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 39.16074,
         "longitude": 67.03055
     },
     {
-        "cityId": "1217005",
+        "cityId": 1217005,
         "name": "Koson Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 39.13079,
         "longitude": 65.74414
     },
     {
-        "cityId": "1217013",
+        "cityId": 1217013,
         "name": "Qarshi Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.82798,
         "longitude": 65.87618
     },
     {
-        "cityId": "1217142",
+        "cityId": 1217142,
         "name": "Qamashi Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.76257,
         "longitude": 66.57713
     },
     {
-        "cityId": "1217259",
+        "cityId": 1217259,
         "name": "G\u2018uzor Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.53962,
         "longitude": 66.20102
     },
     {
-        "cityId": "1217479",
+        "cityId": 1217479,
         "name": "Dehqonobod Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.33333,
         "longitude": 66.66667
     },
     {
-        "cityId": "1217538",
+        "cityId": 1217538,
         "name": "Chiroqchi Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 39.1879,
         "longitude": 66.29877
     },
     {
-        "cityId": "1346479",
+        "cityId": 1346479,
         "name": "Mirishkor Tumani",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.90072,
         "longitude": 64.9162
     },
     {
-        "cityId": "1346481",
+        "cityId": 1346481,
         "name": "Qarshi Shahri",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.85307,
         "longitude": 65.81862
     },
     {
-        "cityId": "7668833",
+        "cityId": 7668833,
         "name": "Mirishkar",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.81801,
         "longitude": 65.02318
     },
     {
-        "cityId": "8714362",
+        "cityId": 8714362,
         "name": "Kamashi District",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.79306,
         "longitude": 66.47472
     },
     {
-        "cityId": "8714363",
+        "cityId": 8714363,
         "name": "Guzar District",
-        "stateId": "1114928",
+        "stateId": 1114928,
         "latitude": 38.52361,
         "longitude": 66.14139
     }

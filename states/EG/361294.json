@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "346029",
+        "cityId": 346029,
         "name": "Markaz Zift\u00e1",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.7265,
         "longitude": 31.2184
     },
     {
-        "cityId": "347496",
+        "cityId": 347496,
         "name": "Markaz \u0162an\u0163\u0101",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.81099,
         "longitude": 30.98086
     },
     {
-        "cityId": "350373",
+        "cityId": 350373,
         "name": "Markaz Qu\u0163\u016br",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.96661,
         "longitude": 30.97298
     },
     {
-        "cityId": "358969",
+        "cityId": 358969,
         "name": "Markaz Basy\u016bn",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.95436,
         "longitude": 30.83018
     },
     {
-        "cityId": "359850",
+        "cityId": 359850,
         "name": "Markaz as San\u0163ah",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.76525,
         "longitude": 31.11383
     },
     {
-        "cityId": "360830",
+        "cityId": 360830,
         "name": "Markaz al Ma\u1e29allah al Kubr\u00e1",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 31.02071,
         "longitude": 31.1338
     },
     {
-        "cityId": "8561528",
+        "cityId": 8561528,
         "name": "Markaz Samman\u016bd",
-        "stateId": "361294",
+        "stateId": 361294,
         "latitude": 30.91108,
         "longitude": 31.21005
     }

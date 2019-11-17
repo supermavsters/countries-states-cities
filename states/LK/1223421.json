@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1241963",
+        "cityId": 1241963,
         "name": "Kalutara District",
-        "stateId": "1223421",
+        "stateId": 1223421,
         "latitude": 6.6031,
         "longitude": 80.1026
     },
     {
-        "cityId": "1246005",
+        "cityId": 1246005,
         "name": "Gampaha District",
-        "stateId": "1223421",
+        "stateId": 1223421,
         "latitude": 7.1333,
         "longitude": 80
     },
     {
-        "cityId": "1248990",
+        "cityId": 1248990,
         "name": "Colombo District",
-        "stateId": "1223421",
+        "stateId": 1223421,
         "latitude": 6.8664,
         "longitude": 80.0166
     }

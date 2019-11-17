@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "864511",
+        "cityId": 864511,
         "name": "Tel\u0161iai",
-        "stateId": "864483",
+        "stateId": 864483,
         "latitude": 55.98333,
         "longitude": 22.25
     },
     {
-        "cityId": "864512",
+        "cityId": 864512,
         "name": "Ma\u017eeikiai",
-        "stateId": "864483",
+        "stateId": 864483,
         "latitude": 56.31667,
         "longitude": 22.33333
     },
     {
-        "cityId": "864513",
+        "cityId": 864513,
         "name": "Plung\u0117",
-        "stateId": "864483",
+        "stateId": 864483,
         "latitude": 55.91667,
         "longitude": 21.85
     },
     {
-        "cityId": "9610126",
+        "cityId": 9610126,
         "name": "Rietavas",
-        "stateId": "864483",
+        "stateId": 864483,
         "latitude": 55.72375,
         "longitude": 21.93266
     }

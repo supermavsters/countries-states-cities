@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7670595",
+        "cityId": 7670595,
         "name": "Gashoho",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.76124,
         "longitude": 30.17289
     },
     {
-        "cityId": "7670598",
+        "cityId": 7670598,
         "name": "Giteranyi",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.46164,
         "longitude": 30.44627
     },
     {
-        "cityId": "7670609",
+        "cityId": 7670609,
         "name": "Muyinga",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.80948,
         "longitude": 30.38518
     },
     {
-        "cityId": "9171829",
+        "cityId": 9171829,
         "name": "Butihinda",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.71095,
         "longitude": 30.32232
     },
     {
-        "cityId": "9171832",
+        "cityId": 9171832,
         "name": "Buhinyuza",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.97978,
         "longitude": 30.37831
     },
     {
-        "cityId": "9171882",
+        "cityId": 9171882,
         "name": "Mwakiro",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -3.09587,
         "longitude": 30.31165
     },
     {
-        "cityId": "9171884",
+        "cityId": 9171884,
         "name": "Gasorwe",
-        "stateId": "431747",
+        "stateId": 431747,
         "latitude": -2.85116,
         "longitude": 30.23576
     }

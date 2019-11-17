@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2243943",
+        "cityId": 2243943,
         "name": "Ziguinchor",
-        "stateId": "2243939",
+        "stateId": 2243939,
         "latitude": 12.52201,
         "longitude": -16.21621
     },
     {
-        "cityId": "2246902",
+        "cityId": 2246902,
         "name": "Oussouye",
-        "stateId": "2243939",
+        "stateId": 2243939,
         "latitude": 12.48552,
         "longitude": -16.61648
     },
     {
-        "cityId": "2253903",
+        "cityId": 2253903,
         "name": "Bignona",
-        "stateId": "2243939",
+        "stateId": 2243939,
         "latitude": 12.88163,
         "longitude": -16.36944
     }

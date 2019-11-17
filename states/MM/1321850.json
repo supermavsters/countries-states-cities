@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1299235",
+        "cityId": 1299235,
         "name": "Pyapon District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 16.18031,
         "longitude": 95.55134
     },
     {
-        "cityId": "1308077",
+        "cityId": 1308077,
         "name": "Myaungmya District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 16.63724,
         "longitude": 95.09575
     },
     {
-        "cityId": "1310354",
+        "cityId": 1310354,
         "name": "Ma-ubin District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 16.96037,
         "longitude": 95.55621
     },
     {
-        "cityId": "1325210",
+        "cityId": 1325210,
         "name": "Hinthada District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 17.8532,
         "longitude": 95.20172
     },
     {
-        "cityId": "1328420",
+        "cityId": 1328420,
         "name": "Pathein District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 16.87954,
         "longitude": 94.71487
     },
     {
-        "cityId": "8238693",
+        "cityId": 8238693,
         "name": "Labutta District",
-        "stateId": "1321850",
+        "stateId": 1321850,
         "latitude": 16.25406,
         "longitude": 95.04221
     }

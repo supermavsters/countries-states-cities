@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268331",
+        "cityId": 7268331,
         "name": "Caonillas Abajo Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.10017,
         "longitude": -66.44951
     },
     {
-        "cityId": "7268333",
+        "cityId": 7268333,
         "name": "Caonillas Arriba Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.13972,
         "longitude": -66.44204
     },
     {
-        "cityId": "7268460",
+        "cityId": 7268460,
         "name": "Hato Puerco Abajo Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.10246,
         "longitude": -66.48315
     },
     {
-        "cityId": "7268461",
+        "cityId": 7268461,
         "name": "Hato Puerco Arriba Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.12484,
         "longitude": -66.4905
     },
     {
-        "cityId": "7269061",
+        "cityId": 7269061,
         "name": "Vacas Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.15335,
         "longitude": -66.47627
     },
     {
-        "cityId": "7269079",
+        "cityId": 7269079,
         "name": "Villalba Abajo Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.09853,
         "longitude": -66.51444
     },
     {
-        "cityId": "7269080",
+        "cityId": 7269080,
         "name": "Villalba Arriba Barrio",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.13768,
         "longitude": -66.5079
     },
     {
-        "cityId": "7269081",
+        "cityId": 7269081,
         "name": "Villalba Barrio-Pueblo",
-        "stateId": "4568684",
+        "stateId": 4568684,
         "latitude": 18.12854,
         "longitude": -66.4924
     }

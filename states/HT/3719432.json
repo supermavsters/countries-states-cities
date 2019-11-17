@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3718425",
+        "cityId": 3718425,
         "name": "Arrondissement de Port-au-Prince",
-        "stateId": "3719432",
+        "stateId": 3719432,
         "latitude": 18.5,
         "longitude": -72.36667
     },
     {
-        "cityId": "3722285",
+        "cityId": 3722285,
         "name": "Arrondissement de L\u00e9og\u00e2ne",
-        "stateId": "3719432",
+        "stateId": 3719432,
         "latitude": 18.41667,
         "longitude": -72.75
     },
     {
-        "cityId": "3723019",
+        "cityId": 3723019,
         "name": "Lagonav",
-        "stateId": "3719432",
+        "stateId": 3719432,
         "latitude": 18.85,
         "longitude": -73.05
     },
     {
-        "cityId": "3727134",
+        "cityId": 3727134,
         "name": "Arrondissement de Croix des Bouquets",
-        "stateId": "3719432",
+        "stateId": 3719432,
         "latitude": 18.48333,
         "longitude": -72.01667
     },
     {
-        "cityId": "3731086",
+        "cityId": 3731086,
         "name": "Arcahaie",
-        "stateId": "3719432",
+        "stateId": 3719432,
         "latitude": 18.83333,
         "longitude": -72.41667
     }

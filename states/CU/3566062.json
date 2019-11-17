@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3537839",
+        "cityId": 3537839,
         "name": "Municipio de Santa Cruz del Sur",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 20.71667,
         "longitude": -78
     },
     {
-        "cityId": "3545838",
+        "cityId": 3545838,
         "name": "Municipio de Nuevitas",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.55,
         "longitude": -77.26667
     },
     {
-        "cityId": "3557921",
+        "cityId": 3557921,
         "name": "Municipio de Gu\u00e1imaro",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.05,
         "longitude": -77.35
     },
     {
-        "cityId": "3558766",
+        "cityId": 3558766,
         "name": "Municipio de Florida",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.53333,
         "longitude": -78.21667
     },
     {
-        "cityId": "3559316",
+        "cityId": 3559316,
         "name": "Municipio de Esmeralda",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.85,
         "longitude": -78.11667
     },
     {
-        "cityId": "3566063",
+        "cityId": 3566063,
         "name": "Municipio de Camag\u00fcey",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.38333,
         "longitude": -77.91667
     },
     {
-        "cityId": "11288079",
+        "cityId": 11288079,
         "name": "Jimaguayu",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.24273,
         "longitude": -77.82436
     },
     {
-        "cityId": "11288080",
+        "cityId": 11288080,
         "name": "Minas",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.48752,
         "longitude": -77.6103
     },
     {
-        "cityId": "11288081",
+        "cityId": 11288081,
         "name": "Sibanicu",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.23569,
         "longitude": -77.52408
     },
     {
-        "cityId": "11288082",
+        "cityId": 11288082,
         "name": "Sierra De Cubitas",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.55172,
         "longitude": -77.46902
     },
     {
-        "cityId": "11288083",
+        "cityId": 11288083,
         "name": "Vertientes",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.26317,
         "longitude": -78.15125
     },
     {
-        "cityId": "11288252",
+        "cityId": 11288252,
         "name": "Carlos Manuel De Cespedes",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.57495,
         "longitude": -78.27952
     },
     {
-        "cityId": "11288301",
+        "cityId": 11288301,
         "name": "Najasa",
-        "stateId": "3566062",
+        "stateId": 3566062,
         "latitude": 21.07211,
         "longitude": -77.74681
     }

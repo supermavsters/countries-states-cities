@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "635817",
+        "cityId": 635817,
         "name": "Sund",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.25,
         "longitude": 20.16667
     },
     {
-        "cityId": "637880",
+        "cityId": 637880,
         "name": "Saltvik",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.33333,
         "longitude": 20.11667
     },
     {
-        "cityId": "647457",
+        "cityId": 647457,
         "name": "Lumparland",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.11667,
         "longitude": 20.25
     },
     {
-        "cityId": "648384",
+        "cityId": 648384,
         "name": "Lemland",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.08333,
         "longitude": 20.08333
     },
     {
-        "cityId": "3041761",
+        "cityId": 3041761,
         "name": "Jomala",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.16667,
         "longitude": 19.91667
     },
     {
-        "cityId": "3041777",
+        "cityId": 3041777,
         "name": "Hammarland",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.25,
         "longitude": 19.75
     },
     {
-        "cityId": "3041793",
+        "cityId": 3041793,
         "name": "Geta",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.41667,
         "longitude": 19.83333
     },
     {
-        "cityId": "3041799",
+        "cityId": 3041799,
         "name": "Finstr\u00f6m",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.25,
         "longitude": 19.91667
     },
     {
-        "cityId": "3041809",
+        "cityId": 3041809,
         "name": "Ecker\u00f6",
-        "stateId": "9611692",
+        "stateId": 9611692,
         "latitude": 60.22294,
         "longitude": 19.55498
     }

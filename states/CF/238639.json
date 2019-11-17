@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9143461",
+        "cityId": 9143461,
         "name": "Bambouti",
-        "stateId": "238639",
+        "stateId": 238639,
         "latitude": 5.46783,
         "longitude": 26.97295
     },
     {
-        "cityId": "9143462",
+        "cityId": 9143462,
         "name": "Dj\u00e9ma",
-        "stateId": "238639",
+        "stateId": 238639,
         "latitude": 6.78212,
         "longitude": 25.33716
     },
     {
-        "cityId": "9143463",
+        "cityId": 9143463,
         "name": "Obo",
-        "stateId": "238639",
+        "stateId": 238639,
         "latitude": 5.49906,
         "longitude": 26.34986
     },
     {
-        "cityId": "9143464",
+        "cityId": 9143464,
         "name": "Z\u00e9mio",
-        "stateId": "238639",
+        "stateId": 238639,
         "latitude": 5.4004,
         "longitude": 25.23735
     }

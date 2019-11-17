@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "921882",
+        "stateId": 921882,
         "name": "Grande Comore",
-        "countryId": "921929",
+        "countryId": 921929,
         "latitude": -11.58333,
         "longitude": 43.33333
     },
     {
-        "stateId": "921780",
+        "stateId": 921780,
         "name": "Moh\u00e9li",
-        "countryId": "921929",
+        "countryId": 921929,
         "latitude": -12.34268,
         "longitude": 43.73623
     },
     {
-        "stateId": "922001",
+        "stateId": 922001,
         "name": "Ndzuwani",
-        "countryId": "921929",
+        "countryId": 921929,
         "latitude": -12.25,
         "longitude": 44.41667
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3690615",
+        "cityId": 3690615,
         "name": "Provincia de Zarumilla",
-        "stateId": "3691146",
+        "stateId": 3691146,
         "latitude": -3.66667,
         "longitude": -80.25
     },
     {
-        "cityId": "3691145",
+        "cityId": 3691145,
         "name": "Provincia de Tumbes",
-        "stateId": "3691146",
+        "stateId": 3691146,
         "latitude": -3.75,
         "longitude": -80.41667
     },
     {
-        "cityId": "3697834",
+        "cityId": 3697834,
         "name": "Provincia de Contralmirante Villar",
-        "stateId": "3691146",
+        "stateId": 3691146,
         "latitude": -4,
         "longitude": -80.75
     }

@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "921064",
+        "stateId": 921064,
         "name": "Central Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -14,
         "longitude": 29
     },
     {
-        "stateId": "917524",
+        "stateId": 917524,
         "name": "Copperbelt Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -13,
         "longitude": 28
     },
     {
-        "stateId": "917388",
+        "stateId": 917388,
         "name": "Eastern Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -13.66667,
         "longitude": 32
     },
     {
-        "stateId": "909845",
+        "stateId": 909845,
         "name": "Luapula Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -11,
         "longitude": 29
     },
     {
-        "stateId": "909129",
+        "stateId": 909129,
         "name": "Lusaka Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -15.41667,
         "longitude": 29
     },
     {
-        "stateId": "11154503",
+        "stateId": 11154503,
         "name": "Muchinga Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -10.54393,
         "longitude": 32.07725
     },
     {
-        "stateId": "900594",
+        "stateId": 900594,
         "name": "North-Western Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -13,
         "longitude": 25
     },
     {
-        "stateId": "900601",
+        "stateId": 900601,
         "name": "Northern Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -9.75,
         "longitude": 30.75
     },
     {
-        "stateId": "896972",
+        "stateId": 896972,
         "name": "Southern Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -16.5,
         "longitude": 27
     },
     {
-        "stateId": "896140",
+        "stateId": 896140,
         "name": "Western Province",
-        "countryId": "895949",
+        "countryId": 895949,
         "latitude": -15,
         "longitude": 24
     }

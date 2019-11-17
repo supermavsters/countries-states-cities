@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2610303",
+        "cityId": 2610303,
         "name": "Vi\u00f0arei\u00f0i",
-        "stateId": "2616145",
+        "stateId": 2616145,
         "latitude": 62.36299,
         "longitude": -6.53
     },
     {
-        "cityId": "2618121",
+        "cityId": 2618121,
         "name": "Kunoy",
-        "stateId": "2616145",
+        "stateId": 2616145,
         "latitude": 62.31964,
         "longitude": -6.67419
     },
     {
-        "cityId": "2618796",
+        "cityId": 2618796,
         "name": "Klaksvik",
-        "stateId": "2616145",
+        "stateId": 2616145,
         "latitude": 62.22636,
         "longitude": -6.54922
     },
     {
-        "cityId": "2619569",
+        "cityId": 2619569,
         "name": "Hvannasund",
-        "stateId": "2616145",
+        "stateId": 2616145,
         "latitude": 62.29667,
         "longitude": -6.55334
     },
     {
-        "cityId": "2621795",
+        "cityId": 2621795,
         "name": "Fugloy",
-        "stateId": "2616145",
+        "stateId": 2616145,
         "latitude": 62.33686,
         "longitude": -6.29791
     }

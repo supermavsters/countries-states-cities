@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7646634",
+        "cityId": 7646634,
         "name": "Khar",
-        "stateId": "1337287",
+        "stateId": 1337287,
         "latitude": 26.94093,
         "longitude": 91.39005
     },
     {
-        "cityId": "7646635",
+        "cityId": 7646635,
         "name": "Chongshing",
-        "stateId": "1337287",
+        "stateId": 1337287,
         "latitude": 27.00063,
         "longitude": 91.35817
     },
     {
-        "cityId": "7646636",
+        "cityId": 7646636,
         "name": "Yurung",
-        "stateId": "1337287",
+        "stateId": 1337287,
         "latitude": 27.0437,
         "longitude": 91.34465
     }

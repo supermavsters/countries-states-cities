@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "10972286",
+        "cityId": 10972286,
         "name": "\u2018Ar\u2018ar",
-        "stateId": "109579",
+        "stateId": 109579,
         "latitude": 30.91667,
         "longitude": 41.5
     },
     {
-        "cityId": "10972287",
+        "cityId": 10972287,
         "name": "Rafha",
-        "stateId": "109579",
+        "stateId": 109579,
         "latitude": 29.16667,
         "longitude": 43.58333
     },
     {
-        "cityId": "10972288",
+        "cityId": 10972288,
         "name": "\u0162urayf",
-        "stateId": "109579",
+        "stateId": 109579,
         "latitude": 31.5,
         "longitude": 39
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3591061",
+        "cityId": 3591061,
         "name": "Municipio de Puerto Barrios",
-        "stateId": "3595259",
+        "stateId": 3595259,
         "latitude": 15.71754,
         "longitude": -88.58517
     },
     {
-        "cityId": "3592361",
+        "cityId": 3592361,
         "name": "Municipio de Morales",
-        "stateId": "3595259",
+        "stateId": 3595259,
         "latitude": 15.48333,
         "longitude": -88.81667
     },
     {
-        "cityId": "3593233",
+        "cityId": 3593233,
         "name": "Municipio de Los Amates",
-        "stateId": "3595259",
+        "stateId": 3595259,
         "latitude": 15.25744,
         "longitude": -89.10092
     },
     {
-        "cityId": "3593375",
+        "cityId": 3593375,
         "name": "Municipio de L\u00edvingston",
-        "stateId": "3595259",
+        "stateId": 3595259,
         "latitude": 15.82783,
         "longitude": -88.75352
     },
     {
-        "cityId": "3597077",
+        "cityId": 3597077,
         "name": "Municipio de El Estor",
-        "stateId": "3595259",
+        "stateId": 3595259,
         "latitude": 15.53333,
         "longitude": -89.35
     }

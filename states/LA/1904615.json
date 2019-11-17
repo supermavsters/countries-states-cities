@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1652594",
+        "cityId": 1652594,
         "name": "Muang That\u00e8ng",
-        "stateId": "1904615",
+        "stateId": 1904615,
         "latitude": 15.42745,
         "longitude": 106.48149
     },
     {
-        "cityId": "1904713",
+        "cityId": 1904713,
         "name": "Muang Dakchung",
-        "stateId": "1904615",
+        "stateId": 1904615,
         "latitude": 15.38199,
         "longitude": 107.31847
     },
     {
-        "cityId": "1904768",
+        "cityId": 1904768,
         "name": "Muang Laman",
-        "stateId": "1904615",
+        "stateId": 1904615,
         "latitude": 15.41273,
         "longitude": 106.81706
     },
     {
-        "cityId": "1904775",
+        "cityId": 1904775,
         "name": "Muang Khaleum",
-        "stateId": "1904615",
+        "stateId": 1904615,
         "latitude": 15.79886,
         "longitude": 107.04529
     }

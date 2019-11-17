@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "3067050",
+        "cityId": 3067050,
         "name": "Okres Rakovn\u00edk",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.1,
         "longitude": 13.7
     },
     {
-        "cityId": "3067540",
+        "cityId": 3067540,
         "name": "Okres P\u0159\u00edbram",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 49.66667,
         "longitude": 14.16667
     },
     {
-        "cityId": "3067692",
+        "cityId": 3067692,
         "name": "Okres Praha-Z\u00e1pad",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 49.83333,
         "longitude": 14.33333
     },
     {
-        "cityId": "3067693",
+        "cityId": 3067693,
         "name": "Okres Praha-V\u00fdchod",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.08333,
         "longitude": 14.75
     },
     {
-        "cityId": "3069235",
+        "cityId": 3069235,
         "name": "Okres Nymburk",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.16667,
         "longitude": 15.16667
     },
     {
-        "cityId": "3070543",
+        "cityId": 3070543,
         "name": "Okres Mlad\u00e1 Boleslav",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.41667,
         "longitude": 14.91667
     },
     {
-        "cityId": "3070861",
+        "cityId": 3070861,
         "name": "Okres M\u011bln\u00edk",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.33333,
         "longitude": 14.5
     },
     {
-        "cityId": "3072462",
+        "cityId": 3072462,
         "name": "Okres Kutn\u00e1 Hora",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 49.83333,
         "longitude": 15.25
     },
     {
-        "cityId": "3073370",
+        "cityId": 3073370,
         "name": "Okres Kol\u00edn",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50,
         "longitude": 15
     },
     {
-        "cityId": "3073698",
+        "cityId": 3073698,
         "name": "Okres Kladno",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 50.16667,
         "longitude": 14.16667
     },
     {
-        "cityId": "3079466",
+        "cityId": 3079466,
         "name": "Okres Beroun",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 49.83333,
         "longitude": 14.08333
     },
     {
-        "cityId": "3079506",
+        "cityId": 3079506,
         "name": "Okres Bene\u0161ov",
-        "stateId": "3339576",
+        "stateId": 3339576,
         "latitude": 49.66667,
         "longitude": 14.75
     }

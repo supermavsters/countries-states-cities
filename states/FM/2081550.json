@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "7626920",
+        "cityId": 7626920,
         "name": "Kapingamarangi Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 1.067,
         "longitude": 154.76
     },
     {
-        "cityId": "7626921",
+        "cityId": 7626921,
         "name": "Kitti Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.8249,
         "longitude": 158.16081
     },
     {
-        "cityId": "7626922",
+        "cityId": 7626922,
         "name": "Kolonia Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.964,
         "longitude": 158.2058
     },
     {
-        "cityId": "7626923",
+        "cityId": 7626923,
         "name": "Madolenihm Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.86759,
         "longitude": 158.31277
     },
     {
-        "cityId": "7626924",
+        "cityId": 7626924,
         "name": "Mokil Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.68916,
         "longitude": 159.7661
     },
     {
-        "cityId": "7626925",
+        "cityId": 7626925,
         "name": "Nett Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.95152,
         "longitude": 158.22437
     },
     {
-        "cityId": "7626926",
+        "cityId": 7626926,
         "name": "Ngatik Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 5.815,
         "longitude": 157.28
     },
     {
-        "cityId": "7626927",
+        "cityId": 7626927,
         "name": "Nukuoro Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 3.841,
         "longitude": 154.93
     },
     {
-        "cityId": "7626928",
+        "cityId": 7626928,
         "name": "Oroluk Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 7.516,
         "longitude": 155.3
     },
     {
-        "cityId": "7626929",
+        "cityId": 7626929,
         "name": "Pingelap Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.20908,
         "longitude": 160.71033
     },
     {
-        "cityId": "7626930",
+        "cityId": 7626930,
         "name": "Sokehs Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.93273,
         "longitude": 158.1427
     },
     {
-        "cityId": "7626931",
+        "cityId": 7626931,
         "name": "U Municipality",
-        "stateId": "2081550",
+        "stateId": 2081550,
         "latitude": 6.94972,
         "longitude": 158.27361
     }

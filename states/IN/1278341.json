@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1252865",
+        "cityId": 1252865,
         "name": "West Siang",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.4,
         "longitude": 94.55
     },
     {
-        "cityId": "1252869",
+        "cityId": 1252869,
         "name": "West Kameng",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.4,
         "longitude": 92.35
     },
     {
-        "cityId": "1253720",
+        "cityId": 1253720,
         "name": "Upper Subansiri",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.3,
         "longitude": 94
     },
     {
-        "cityId": "1254418",
+        "cityId": 1254418,
         "name": "Tir\u0101p",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.01917,
         "longitude": 95.51788
     },
     {
-        "cityId": "1264739",
+        "cityId": 1264739,
         "name": "Lower Subansiri",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.62554,
         "longitude": 93.93908
     },
     {
-        "cityId": "1264818",
+        "cityId": 1264818,
         "name": "Lohit District",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.84012,
         "longitude": 96.19521
     },
     {
-        "cityId": "1272115",
+        "cityId": 1272115,
         "name": "East Siang",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.12379,
         "longitude": 95.16339
     },
     {
-        "cityId": "1272120",
+        "cityId": 1272120,
         "name": "East Kameng",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.3,
         "longitude": 93.05
     },
     {
-        "cityId": "1272651",
+        "cityId": 1272651,
         "name": "Dib\u0101ng Valley",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.7,
         "longitude": 95.7
     },
     {
-        "cityId": "9747946",
+        "cityId": 9747946,
         "name": "Changlang",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.36265,
         "longitude": 96.34518
     },
     {
-        "cityId": "9747950",
+        "cityId": 9747950,
         "name": "Anjaw",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.06549,
         "longitude": 96.82878
     },
     {
-        "cityId": "9748007",
+        "cityId": 9748007,
         "name": "Kurung Kumey",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.99983,
         "longitude": 93.3924
     },
     {
-        "cityId": "9748012",
+        "cityId": 9748012,
         "name": "Lower Dibang Valley",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.37258,
         "longitude": 95.8804
     },
     {
-        "cityId": "9748025",
+        "cityId": 9748025,
         "name": "Papum Pare",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.28879,
         "longitude": 93.59694
     },
     {
-        "cityId": "9748034",
+        "cityId": 9748034,
         "name": "Tawang",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 27.66186,
         "longitude": 91.95358
     },
     {
-        "cityId": "9748035",
+        "cityId": 9748035,
         "name": "Upper Siang",
-        "stateId": "1278341",
+        "stateId": 1278341,
         "latitude": 28.83355,
         "longitude": 94.91806
     }

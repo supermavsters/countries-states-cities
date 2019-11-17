@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3940641",
+        "cityId": 3940641,
         "name": "Provincia de Grau",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -14,
         "longitude": -72.58333
     },
     {
-        "cityId": "3942083",
+        "cityId": 3942083,
         "name": "Provincia de Cotabambas",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -14,
         "longitude": -72.2
     },
     {
-        "cityId": "3946963",
+        "cityId": 3946963,
         "name": "Provincia de Aymaraes",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -14.41667,
         "longitude": -73.25
     },
     {
-        "cityId": "3947611",
+        "cityId": 3947611,
         "name": "Provincia de Antabamba",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -14.41667,
         "longitude": -72.75
     },
     {
-        "cityId": "3947739",
+        "cityId": 3947739,
         "name": "Provincia de Andahuaylas",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -13.66667,
         "longitude": -73.41667
     },
     {
-        "cityId": "3948641",
+        "cityId": 3948641,
         "name": "Provincia de Abancay",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -13.66667,
         "longitude": -72.91667
     },
     {
-        "cityId": "8349550",
+        "cityId": 8349550,
         "name": "Chincheros",
-        "stateId": "3947421",
+        "stateId": 3947421,
         "latitude": -13.47005,
         "longitude": -73.67162
     }

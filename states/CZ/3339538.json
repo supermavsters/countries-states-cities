@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3061694",
+        "cityId": 3061694,
         "name": "Okres \u017d\u010f\u00e1r nad S\u00e1zavou",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.5,
         "longitude": 16.03333
     },
     {
-        "cityId": "3061695",
+        "cityId": 3061695,
         "name": "\u017d\u010f\u00e1r nad S\u00e1zavou",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.56263,
         "longitude": 15.93924
     },
     {
-        "cityId": "3064103",
+        "cityId": 3064103,
         "name": "Okres T\u0159eb\u00ed\u010d",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.13333,
         "longitude": 15.93333
     },
     {
-        "cityId": "3068444",
+        "cityId": 3068444,
         "name": "Okres Pelh\u0159imov",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.41667,
         "longitude": 15.16667
     },
     {
-        "cityId": "3074197",
+        "cityId": 3074197,
         "name": "Okres Jihlava",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.33333,
         "longitude": 15.58333
     },
     {
-        "cityId": "3075918",
+        "cityId": 3075918,
         "name": "Okres Havl\u00ed\u010dk\u016fv Brod",
-        "stateId": "3339538",
+        "stateId": 3339538,
         "latitude": 49.66667,
         "longitude": 15.58333
     }

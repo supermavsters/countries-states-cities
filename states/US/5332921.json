@@ -1,407 +1,407 @@
 [
     {
-        "cityId": "5322745",
+        "cityId": 5322745,
         "name": "Alameda County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.65055,
         "longitude": -121.91789
     },
     {
-        "cityId": "5323414",
+        "cityId": 5323414,
         "name": "Alpine County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.59725,
         "longitude": -119.82065
     },
     {
-        "cityId": "5323622",
+        "cityId": 5323622,
         "name": "Amador County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.44639,
         "longitude": -120.65112
     },
     {
-        "cityId": "5332191",
+        "cityId": 5332191,
         "name": "Butte County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.66693,
         "longitude": -121.60067
     },
     {
-        "cityId": "5332628",
+        "cityId": 5332628,
         "name": "Calaveras County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.20461,
         "longitude": -120.55413
     },
     {
-        "cityId": "5338872",
+        "cityId": 5338872,
         "name": "Colusa County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.17757,
         "longitude": -122.23703
     },
     {
-        "cityId": "5339268",
+        "cityId": 5339268,
         "name": "Contra Costa County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.92342,
         "longitude": -121.95121
     },
     {
-        "cityId": "5345659",
+        "cityId": 5345659,
         "name": "El Dorado County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.77874,
         "longitude": -120.52465
     },
     {
-        "cityId": "5350964",
+        "cityId": 5350964,
         "name": "Fresno County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.75818,
         "longitude": -119.64932
     },
     {
-        "cityId": "5352462",
+        "cityId": 5352462,
         "name": "Glenn County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.5984,
         "longitude": -122.39221
     },
     {
-        "cityId": "5359067",
+        "cityId": 5359067,
         "name": "Imperial County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 33.03951,
         "longitude": -115.36532
     },
     {
-        "cityId": "5359604",
+        "cityId": 5359604,
         "name": "Inyo County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.51113,
         "longitude": -117.41079
     },
     {
-        "cityId": "5362932",
+        "cityId": 5362932,
         "name": "Kern County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 35.34285,
         "longitude": -118.7299
     },
     {
-        "cityId": "5363385",
+        "cityId": 5363385,
         "name": "Kings County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.07536,
         "longitude": -119.8155
     },
     {
-        "cityId": "5364466",
+        "cityId": 5364466,
         "name": "Lake County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.09965,
         "longitude": -122.75318
     },
     {
-        "cityId": "5368381",
+        "cityId": 5368381,
         "name": "Los Angeles County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 34.19801,
         "longitude": -118.26102
     },
     {
-        "cityId": "5369578",
+        "cityId": 5369578,
         "name": "Madera County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.21804,
         "longitude": -119.76265
     },
     {
-        "cityId": "5370468",
+        "cityId": 5370468,
         "name": "Marin County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.05518,
         "longitude": -122.74886
     },
     {
-        "cityId": "5370594",
+        "cityId": 5370594,
         "name": "Mariposa County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.58152,
         "longitude": -119.90552
     },
     {
-        "cityId": "5372163",
+        "cityId": 5372163,
         "name": "Mendocino County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.43362,
         "longitude": -123.43155
     },
     {
-        "cityId": "5372259",
+        "cityId": 5372259,
         "name": "Merced County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.19186,
         "longitude": -120.71767
     },
     {
-        "cityId": "5374091",
+        "cityId": 5374091,
         "name": "Mono County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.93899,
         "longitude": -118.88671
     },
     {
-        "cityId": "5374376",
+        "cityId": 5374376,
         "name": "Monterey County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.23977,
         "longitude": -121.3089
     },
     {
-        "cityId": "5376101",
+        "cityId": 5376101,
         "name": "Napa County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.50647,
         "longitude": -122.33053
     },
     {
-        "cityId": "5376509",
+        "cityId": 5376509,
         "name": "Nevada County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.30137,
         "longitude": -120.76875
     },
     {
-        "cityId": "5379524",
+        "cityId": 5379524,
         "name": "Orange County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 33.67691,
         "longitude": -117.77617
     },
     {
-        "cityId": "5383537",
+        "cityId": 5383537,
         "name": "Placer County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.06343,
         "longitude": -120.71766
     },
     {
-        "cityId": "5383832",
+        "cityId": 5383832,
         "name": "Plumas County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.00468,
         "longitude": -120.8386
     },
     {
-        "cityId": "5387890",
+        "cityId": 5387890,
         "name": "Riverside County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 33.74368,
         "longitude": -115.99386
     },
     {
-        "cityId": "5389519",
+        "cityId": 5389519,
         "name": "Sacramento County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.44932,
         "longitude": -121.34424
     },
     {
-        "cityId": "5391692",
+        "cityId": 5391692,
         "name": "San Benito County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.60571,
         "longitude": -121.075
     },
     {
-        "cityId": "5391726",
+        "cityId": 5391726,
         "name": "San Bernardino County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 34.84143,
         "longitude": -116.17846
     },
     {
-        "cityId": "5391832",
+        "cityId": 5391832,
         "name": "San Diego County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 33.0282,
         "longitude": -116.77021
     },
     {
-        "cityId": "5391997",
+        "cityId": 5391997,
         "name": "City and County of San Francisco",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.77823,
         "longitude": -122.4425
     },
     {
-        "cityId": "5392126",
+        "cityId": 5392126,
         "name": "San Joaquin County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.93478,
         "longitude": -121.27145
     },
     {
-        "cityId": "5392329",
+        "cityId": 5392329,
         "name": "San Luis Obispo County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 35.38742,
         "longitude": -120.4522
     },
     {
-        "cityId": "5392427",
+        "cityId": 5392427,
         "name": "San Mateo County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.43621,
         "longitude": -122.35566
     },
     {
-        "cityId": "5392967",
+        "cityId": 5392967,
         "name": "Santa Barbara County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 34.53834,
         "longitude": -120.03078
     },
     {
-        "cityId": "5393021",
+        "cityId": 5393021,
         "name": "Santa Clara County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.23249,
         "longitude": -121.69627
     },
     {
-        "cityId": "5393068",
+        "cityId": 5393068,
         "name": "Santa Cruz County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.02161,
         "longitude": -122.00979
     },
     {
-        "cityId": "5395582",
+        "cityId": 5395582,
         "name": "Sierra County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.5804,
         "longitude": -120.516
     },
     {
-        "cityId": "5396987",
+        "cityId": 5396987,
         "name": "Solano County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.26692,
         "longitude": -121.94001
     },
     {
-        "cityId": "5397100",
+        "cityId": 5397100,
         "name": "Sonoma County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.52529,
         "longitude": -122.92254
     },
     {
-        "cityId": "5398597",
+        "cityId": 5398597,
         "name": "Stanislaus County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 37.55914,
         "longitude": -120.99769
     },
     {
-        "cityId": "5400390",
+        "cityId": 5400390,
         "name": "Sutter County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.03452,
         "longitude": -121.69484
     },
     {
-        "cityId": "5403789",
+        "cityId": 5403789,
         "name": "Tulare County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 36.22016,
         "longitude": -118.80047
     },
     {
-        "cityId": "5403973",
+        "cityId": 5403973,
         "name": "Tuolumne County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.0276,
         "longitude": -119.95475
     },
     {
-        "cityId": "5405889",
+        "cityId": 5405889,
         "name": "Ventura County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 34.35753,
         "longitude": -119.12603
     },
     {
-        "cityId": "5410882",
+        "cityId": 5410882,
         "name": "Yolo County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 38.68665,
         "longitude": -121.90162
     },
     {
-        "cityId": "5411026",
+        "cityId": 5411026,
         "name": "Yuba County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 39.26902,
         "longitude": -121.35126
     },
     {
-        "cityId": "5553701",
+        "cityId": 5553701,
         "name": "Trinity County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.65069,
         "longitude": -123.11263
     },
     {
-        "cityId": "5562484",
+        "cityId": 5562484,
         "name": "Del Norte County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 41.74496,
         "longitude": -123.95781
     },
     {
-        "cityId": "5565500",
+        "cityId": 5565500,
         "name": "Humboldt County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.70501,
         "longitude": -123.91582
     },
     {
-        "cityId": "5566544",
+        "cityId": 5566544,
         "name": "Lassen County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.67359,
         "longitude": -120.59433
     },
     {
-        "cityId": "5568120",
+        "cityId": 5568120,
         "name": "Modoc County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 41.58985,
         "longitude": -120.72497
     },
     {
-        "cityId": "5571096",
+        "cityId": 5571096,
         "name": "Shasta County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.76377,
         "longitude": -122.04052
     },
     {
-        "cityId": "5571369",
+        "cityId": 5571369,
         "name": "Siskiyou County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 41.59265,
         "longitude": -122.54037
     },
     {
-        "cityId": "5572575",
+        "cityId": 5572575,
         "name": "Tehama County",
-        "stateId": "5332921",
+        "stateId": 5332921,
         "latitude": 40.12574,
         "longitude": -122.23388
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2961422",
+        "cityId": 2961422,
         "name": "Sligo",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 54.25,
         "longitude": -8.66667
     },
     {
-        "cityId": "2961731",
+        "cityId": 2961731,
         "name": "Roscommon",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 53.75,
         "longitude": -8.25
     },
     {
-        "cityId": "2962666",
+        "cityId": 2962666,
         "name": "Mayo County",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 53.9,
         "longitude": -9.25
     },
     {
-        "cityId": "2962975",
+        "cityId": 2962975,
         "name": "County Leitrim",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 54.11667,
         "longitude": -8
     },
     {
-        "cityId": "2964179",
+        "cityId": 2964179,
         "name": "County Galway",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 53.33333,
         "longitude": -9
     },
     {
-        "cityId": "7778676",
+        "cityId": 7778676,
         "name": "Galway City",
-        "stateId": "7521313",
+        "stateId": 7521313,
         "latitude": 53.2877,
         "longitude": -9.05004
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2658196",
+        "cityId": 2658196,
         "name": "Vallemaggia District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.35483,
         "longitude": 8.6054
     },
     {
-        "cityId": "6458750",
+        "cityId": 6458750,
         "name": "Locarno District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.18033,
         "longitude": 8.75991
     },
     {
-        "cityId": "6458756",
+        "cityId": 6458756,
         "name": "Riviera District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.30926,
         "longitude": 8.98148
     },
     {
-        "cityId": "6458771",
+        "cityId": 6458771,
         "name": "Lugano District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.02322,
         "longitude": 8.93802
     },
     {
-        "cityId": "6458784",
+        "cityId": 6458784,
         "name": "Blenio District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.47613,
         "longitude": 8.94609
     },
     {
-        "cityId": "6458870",
+        "cityId": 6458870,
         "name": "Bellinzona District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.18858,
         "longitude": 9.00254
     },
     {
-        "cityId": "6458894",
+        "cityId": 6458894,
         "name": "Mendrisio District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 45.86592,
         "longitude": 8.99931
     },
     {
-        "cityId": "6458903",
+        "cityId": 6458903,
         "name": "Leventina District",
-        "stateId": "2658370",
+        "stateId": 2658370,
         "latitude": 46.46912,
         "longitude": 8.75539
     }

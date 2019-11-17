@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7732348",
+        "cityId": 7732348,
         "name": "Merkez",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.50905,
         "longitude": 34.85791
     },
     {
-        "cityId": "7732349",
+        "cityId": 7732349,
         "name": "Osmanc\u0131k",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 41.0024,
         "longitude": 34.78243
     },
     {
-        "cityId": "7732351",
+        "cityId": 7732351,
         "name": "Sungurlu",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.18213,
         "longitude": 34.28217
     },
     {
-        "cityId": "8631998",
+        "cityId": 8631998,
         "name": "Dodurga \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.86324,
         "longitude": 34.81455
     },
     {
-        "cityId": "8631999",
+        "cityId": 8631999,
         "name": "Ortak\u00f6y \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.28295,
         "longitude": 35.25879
     },
     {
-        "cityId": "8632000",
+        "cityId": 8632000,
         "name": "Mecit\u00f6z\u00fc \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.52774,
         "longitude": 35.2877
     },
     {
-        "cityId": "8632021",
+        "cityId": 8632021,
         "name": "La\u00e7in \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.77792,
         "longitude": 34.90625
     },
     {
-        "cityId": "8632022",
+        "cityId": 8632022,
         "name": "O\u011fuzlar \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.76323,
         "longitude": 34.70813
     },
     {
-        "cityId": "8632023",
+        "cityId": 8632023,
         "name": "Karg\u0131 \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 41.14377,
         "longitude": 34.49342
     },
     {
-        "cityId": "8632024",
+        "cityId": 8632024,
         "name": "Bo\u011fazkale \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.03031,
         "longitude": 34.61745
     },
     {
-        "cityId": "8632025",
+        "cityId": 8632025,
         "name": "Alaca \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.17835,
         "longitude": 34.84968
     },
     {
-        "cityId": "8632026",
+        "cityId": 8632026,
         "name": "U\u011furluda\u011f \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.45567,
         "longitude": 34.45627
     },
     {
-        "cityId": "8632027",
+        "cityId": 8632027,
         "name": "Bayat \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.6559,
         "longitude": 34.26433
     },
     {
-        "cityId": "8632028",
+        "cityId": 8632028,
         "name": "\u0130skilip \u0130l\u00e7esi",
-        "stateId": "748877",
+        "stateId": 748877,
         "latitude": 40.74363,
         "longitude": 34.47911
     }

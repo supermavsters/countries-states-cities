@@ -1,232 +1,232 @@
 [
     {
-        "cityId": "5457180",
+        "cityId": 5457180,
         "name": "Bernalillo County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.05131,
         "longitude": -106.67017
     },
     {
-        "cityId": "5460788",
+        "cityId": 5460788,
         "name": "Catron County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 33.91533,
         "longitude": -108.40473
     },
     {
-        "cityId": "5461428",
+        "cityId": 5461428,
         "name": "Chaves County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 33.36319,
         "longitude": -104.467
     },
     {
-        "cityId": "5462019",
+        "cityId": 5462019,
         "name": "Cibola County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.91257,
         "longitude": -107.99971
     },
     {
-        "cityId": "5462567",
+        "cityId": 5462567,
         "name": "Colfax County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.60612,
         "longitude": -104.64686
     },
     {
-        "cityId": "5464151",
+        "cityId": 5464151,
         "name": "Curry County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.57416,
         "longitude": -103.34691
     },
     {
-        "cityId": "5464477",
+        "cityId": 5464477,
         "name": "De Baca County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.34239,
         "longitude": -104.412
     },
     {
-        "cityId": "5465283",
+        "cityId": 5465283,
         "name": "Do\u00f1a Ana County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.35268,
         "longitude": -106.8328
     },
     {
-        "cityId": "5466318",
+        "cityId": 5466318,
         "name": "Eddy County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.47149,
         "longitude": -104.30431
     },
     {
-        "cityId": "5469835",
+        "cityId": 5469835,
         "name": "Grant County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.73901,
         "longitude": -108.38225
     },
     {
-        "cityId": "5470197",
+        "cityId": 5470197,
         "name": "Guadalupe County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.86333,
         "longitude": -104.7907
     },
     {
-        "cityId": "5470675",
+        "cityId": 5470675,
         "name": "Harding County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.85794,
         "longitude": -103.81993
     },
     {
-        "cityId": "5471293",
+        "cityId": 5471293,
         "name": "Hidalgo County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 31.91416,
         "longitude": -108.71482
     },
     {
-        "cityId": "5475594",
+        "cityId": 5475594,
         "name": "Lea County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.79218,
         "longitude": -103.41245
     },
     {
-        "cityId": "5475934",
+        "cityId": 5475934,
         "name": "Lincoln County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 33.74524,
         "longitude": -105.45925
     },
     {
-        "cityId": "5476834",
+        "cityId": 5476834,
         "name": "Los Alamos County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.86937,
         "longitude": -106.30729
     },
     {
-        "cityId": "5477433",
+        "cityId": 5477433,
         "name": "Luna County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.18215,
         "longitude": -107.74977
     },
     {
-        "cityId": "5478585",
+        "cityId": 5478585,
         "name": "McKinley County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.58061,
         "longitude": -108.26193
     },
     {
-        "cityId": "5480123",
+        "cityId": 5480123,
         "name": "Mora County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.00995,
         "longitude": -104.94458
     },
     {
-        "cityId": "5482932",
+        "cityId": 5482932,
         "name": "Otero County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 32.61316,
         "longitude": -105.74168
     },
     {
-        "cityId": "5485605",
+        "cityId": 5485605,
         "name": "Quay County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.10436,
         "longitude": -103.54974
     },
     {
-        "cityId": "5487732",
+        "cityId": 5487732,
         "name": "Rio Arriba County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.50957,
         "longitude": -106.69311
     },
     {
-        "cityId": "5488372",
+        "cityId": 5488372,
         "name": "Roosevelt County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.02127,
         "longitude": -103.48018
     },
     {
-        "cityId": "5489698",
+        "cityId": 5489698,
         "name": "San Juan County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.50847,
         "longitude": -108.3206
     },
     {
-        "cityId": "5489818",
+        "cityId": 5489818,
         "name": "San Miguel County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.48029,
         "longitude": -104.81585
     },
     {
-        "cityId": "5490135",
+        "cityId": 5490135,
         "name": "Sandoval County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.68855,
         "longitude": -106.86584
     },
     {
-        "cityId": "5490272",
+        "cityId": 5490272,
         "name": "Santa Fe County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 35.50686,
         "longitude": -105.97612
     },
     {
-        "cityId": "5491395",
+        "cityId": 5491395,
         "name": "Sierra County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 33.13047,
         "longitude": -107.1925
     },
     {
-        "cityId": "5492031",
+        "cityId": 5492031,
         "name": "Socorro County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.00724,
         "longitude": -106.93033
     },
     {
-        "cityId": "5493780",
+        "cityId": 5493780,
         "name": "Taos County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.5783,
         "longitude": -105.63097
     },
     {
-        "cityId": "5494881",
+        "cityId": 5494881,
         "name": "Torrance County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.64047,
         "longitude": -105.85078
     },
     {
-        "cityId": "5495841",
+        "cityId": 5495841,
         "name": "Union County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 36.48176,
         "longitude": -103.47099
     },
     {
-        "cityId": "5496319",
+        "cityId": 5496319,
         "name": "Valencia County",
-        "stateId": "5481136",
+        "stateId": 5481136,
         "latitude": 34.71545,
         "longitude": -106.80911
     }

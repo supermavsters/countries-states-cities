@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1337174",
+        "cityId": 1337174,
         "name": "Tangail",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 24.33853,
         "longitude": 89.98667
     },
     {
-        "cityId": "1337175",
+        "cityId": 1337175,
         "name": "Gazipur",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 24.20689,
         "longitude": 90.47241
     },
     {
-        "cityId": "1337176",
+        "cityId": 1337176,
         "name": "Kishoregonj",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 24.41667,
         "longitude": 90.95
     },
     {
-        "cityId": "1337177",
+        "cityId": 1337177,
         "name": "Narsingdi",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 24,
         "longitude": 90.83333
     },
     {
-        "cityId": "1337178",
+        "cityId": 1337178,
         "name": "Dhaka",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.81093,
         "longitude": 90.36542
     },
     {
-        "cityId": "1337180",
+        "cityId": 1337180,
         "name": "Rajbari",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.66667,
         "longitude": 89.55
     },
     {
-        "cityId": "1337181",
+        "cityId": 1337181,
         "name": "Faridpur",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.59419,
         "longitude": 89.82147
     },
     {
-        "cityId": "1337182",
+        "cityId": 1337182,
         "name": "Narayanganj",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.75,
         "longitude": 90.58333
     },
     {
-        "cityId": "1337183",
+        "cityId": 1337183,
         "name": "Munshiganj",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.55,
         "longitude": 90.36667
     },
     {
-        "cityId": "1337184",
+        "cityId": 1337184,
         "name": "Gopalganj",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.16667,
         "longitude": 89.91667
     },
     {
-        "cityId": "1337186",
+        "cityId": 1337186,
         "name": "Shariatpur",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.25,
         "longitude": 90.36667
     },
     {
-        "cityId": "1337187",
+        "cityId": 1337187,
         "name": "Madaripur",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.25,
         "longitude": 90.2
     },
     {
-        "cityId": "1337391",
+        "cityId": 1337391,
         "name": "Manikganj",
-        "stateId": "1337179",
+        "stateId": 1337179,
         "latitude": 23.86667,
         "longitude": 89.95
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7870425",
+        "cityId": 7870425,
         "name": "Abanga-Bign\u00e9 Department",
-        "stateId": "2397842",
+        "stateId": 2397842,
         "latitude": -0.196,
         "longitude": 10.984
     },
     {
-        "cityId": "7870459",
+        "cityId": 7870459,
         "name": "Ogooue et Lacs District",
-        "stateId": "2397842",
+        "stateId": 2397842,
         "latitude": -0.681,
         "longitude": 10.18
     },
     {
-        "cityId": "11204018",
+        "cityId": 11204018,
         "name": "Ogooue et des Lacs",
-        "stateId": "2397842",
+        "stateId": 2397842,
         "latitude": -0.7,
         "longitude": 10.21667
     }

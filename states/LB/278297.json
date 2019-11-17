@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "265845",
+        "cityId": 265845,
         "name": "Caza de Zgharta",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.34654,
         "longitude": 35.90857
     },
     {
-        "cityId": "266825",
+        "cityId": 266825,
         "name": "Caza de Trablous",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.42208,
         "longitude": 35.84065
     },
     {
-        "cityId": "276358",
+        "cityId": 276358,
         "name": "Caza de B\u00e9charr\u00e9",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.25052,
         "longitude": 35.96653
     },
     {
-        "cityId": "279676",
+        "cityId": 279676,
         "name": "Caza de Koura",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.3202,
         "longitude": 35.80493
     },
     {
-        "cityId": "280329",
+        "cityId": 280329,
         "name": "Caza de Batroun",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.21714,
         "longitude": 35.82894
     },
     {
-        "cityId": "7735321",
+        "cityId": 7735321,
         "name": "Caza de Miniy\u00e9-Danniy\u00e9",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.39924,
         "longitude": 36.02392
     },
     {
-        "cityId": "10121424",
+        "cityId": 10121424,
         "name": "Miniyeh-Danniyeh",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.4653,
         "longitude": 35.9378
     },
     {
-        "cityId": "10121443",
+        "cityId": 10121443,
         "name": "Tripoli",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.43,
         "longitude": 35.85
     },
     {
-        "cityId": "10126909",
+        "cityId": 10126909,
         "name": "Minie-Denniyeh",
-        "stateId": "278297",
+        "stateId": 278297,
         "latitude": 34.49057,
         "longitude": 36.15566
     }

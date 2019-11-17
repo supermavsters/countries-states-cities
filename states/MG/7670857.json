@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7670896",
+        "cityId": 7670896,
         "name": "Brickaville",
-        "stateId": "7670857",
+        "stateId": 7670857,
         "latitude": -18.81991,
         "longitude": 49.06353
     },
     {
-        "cityId": "7670901",
+        "cityId": 7670901,
         "name": "Vohibinany",
-        "stateId": "7670857",
+        "stateId": 7670857,
         "latitude": -18.66097,
         "longitude": 48.86546
     },
     {
-        "cityId": "7670944",
+        "cityId": 7670944,
         "name": "Toamasina I",
-        "stateId": "7670857",
+        "stateId": 7670857,
         "latitude": -18.06488,
         "longitude": 49.37475
     },
     {
-        "cityId": "7670945",
+        "cityId": 7670945,
         "name": "Toamasina II",
-        "stateId": "7670857",
+        "stateId": 7670857,
         "latitude": -17.94053,
         "longitude": 49.14608
     }

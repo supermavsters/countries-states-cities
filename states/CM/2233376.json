@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "2223327",
+        "cityId": 2223327,
         "name": "D\u00e9partement du Nyong-et-Soo",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.4,
         "longitude": 11.5
     },
     {
-        "cityId": "2223329",
+        "cityId": 2223329,
         "name": "D\u00e9partement du Nyong-et-Mfoumou",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 4,
         "longitude": 12.4
     },
     {
-        "cityId": "2223330",
+        "cityId": 2223330,
         "name": "D\u00e9partement du Nyong-et-K\u00e9ll\u00e9",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.83333,
         "longitude": 10.83333
     },
     {
-        "cityId": "2227419",
+        "cityId": 2227419,
         "name": "D\u00e9partement de la M\u00e9fou",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.83333,
         "longitude": 11.66667
     },
     {
-        "cityId": "2228070",
+        "cityId": 2228070,
         "name": "D\u00e9partement du Mbam",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 5.25,
         "longitude": 12
     },
     {
-        "cityId": "2229546",
+        "cityId": 2229546,
         "name": "D\u00e9partement de la L\u00e9ki\u00e9",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 4.2,
         "longitude": 11.4
     },
     {
-        "cityId": "2230817",
+        "cityId": 2230817,
         "name": "D\u00e9partement de la Haute-Sanaga",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 4.6,
         "longitude": 12.4
     },
     {
-        "cityId": "7730793",
+        "cityId": 7730793,
         "name": "Mbam-et-Kim",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 4.44157,
         "longitude": 11.64104
     },
     {
-        "cityId": "7731690",
+        "cityId": 7731690,
         "name": "M\u00e9fou-et-Afamba",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.96,
         "longitude": 11.93
     },
     {
-        "cityId": "8693008",
+        "cityId": 8693008,
         "name": "Mfoundi",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.8667,
         "longitude": 11.5167
     },
     {
-        "cityId": "9165815",
+        "cityId": 9165815,
         "name": "Mefou-et-Akono",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 3.58706,
         "longitude": 11.36089
     },
     {
-        "cityId": "9224948",
+        "cityId": 9224948,
         "name": "Mbam-Et-Inoubou",
-        "stateId": "2233376",
+        "stateId": 2233376,
         "latitude": 4.73754,
         "longitude": 10.96972
     }

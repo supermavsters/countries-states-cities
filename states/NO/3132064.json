@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "3132206",
+        "cityId": 3132206,
         "name": "Vennesla",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.34271,
         "longitude": 7.97596
     },
     {
-        "cityId": "3137638",
+        "cityId": 3137638,
         "name": "Audnedal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.28378,
         "longitude": 7.35487
     },
     {
-        "cityId": "3137970",
+        "cityId": 3137970,
         "name": "S\u00f8gne",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.09663,
         "longitude": 7.81491
     },
     {
-        "cityId": "3139612",
+        "cityId": 3139612,
         "name": "Sirdal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.6651,
         "longitude": 6.71585
     },
     {
-        "cityId": "3146682",
+        "cityId": 3146682,
         "name": "Lyngdal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.13829,
         "longitude": 7.06836
     },
     {
-        "cityId": "3148775",
+        "cityId": 3148775,
         "name": "Kvinesdal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.23894,
         "longitude": 6.71445
     },
     {
-        "cityId": "3154388",
+        "cityId": 3154388,
         "name": "H\u00e6gebostad",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.37572,
         "longitude": 7.21973
     },
     {
-        "cityId": "3162697",
+        "cityId": 3162697,
         "name": "\u00c5seral",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.6173,
         "longitude": 7.41118
     },
     {
-        "cityId": "6453398",
+        "cityId": 6453398,
         "name": "Flekkefjord",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.29791,
         "longitude": 6.66345
     },
     {
-        "cityId": "6453400",
+        "cityId": 6453400,
         "name": "Marnardal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.19802,
         "longitude": 7.52802
     },
     {
-        "cityId": "6453402",
+        "cityId": 6453402,
         "name": "Songdalen",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.15273,
         "longitude": 7.83677
     },
     {
-        "cityId": "6453403",
+        "cityId": 6453403,
         "name": "Farsund",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.09538,
         "longitude": 6.80403
     },
     {
-        "cityId": "6453404",
+        "cityId": 6453404,
         "name": "Lindesnes",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.08435,
         "longitude": 7.30162
     },
     {
-        "cityId": "6453405",
+        "cityId": 6453405,
         "name": "Kristiansand",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.14642,
         "longitude": 7.99687
     },
     {
-        "cityId": "6453406",
+        "cityId": 6453406,
         "name": "Mandal",
-        "stateId": "3132064",
+        "stateId": 3132064,
         "latitude": 58.02633,
         "longitude": 7.45014
     }

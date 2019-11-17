@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "9857644",
+        "cityId": 9857644,
         "name": "Nole D\u00fcima",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.32682,
         "longitude": -81.81531
     },
     {
-        "cityId": "9857648",
+        "cityId": 9857648,
         "name": "M\u00fcna",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.35035,
         "longitude": -81.67219
     },
     {
-        "cityId": "9862220",
+        "cityId": 9862220,
         "name": "Mirono",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.40469,
         "longitude": -81.83064
     },
     {
-        "cityId": "9862221",
+        "cityId": 9862221,
         "name": "Kusap\u00edn",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 9.17119,
         "longitude": -81.89621
     },
     {
-        "cityId": "9862223",
+        "cityId": 9862223,
         "name": "Kankint\u00fa",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.89503,
         "longitude": -81.8575
     },
     {
-        "cityId": "9862224",
+        "cityId": 9862224,
         "name": "Besiko",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.54863,
         "longitude": -82.0898
     },
     {
-        "cityId": "9862226",
+        "cityId": 9862226,
         "name": "Nurun",
-        "stateId": "7303688",
+        "stateId": 7303688,
         "latitude": 8.47815,
         "longitude": -81.47015
     }

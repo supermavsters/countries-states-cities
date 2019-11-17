@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7732936",
+        "cityId": 7732936,
         "name": "Battalgazi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.43932,
         "longitude": 38.45764
     },
     {
-        "cityId": "7732937",
+        "cityId": 7732937,
         "name": "Merkez",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.33296,
         "longitude": 38.42459
     },
     {
-        "cityId": "8631666",
+        "cityId": 8631666,
         "name": "Ye\u015filyurt \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.29814,
         "longitude": 38.24698
     },
     {
-        "cityId": "8631667",
+        "cityId": 8631667,
         "name": "Kale \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.39773,
         "longitude": 38.74406
     },
     {
-        "cityId": "8631668",
+        "cityId": 8631668,
         "name": "Arapgir \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 39.05029,
         "longitude": 38.50255
     },
     {
-        "cityId": "8631669",
+        "cityId": 8631669,
         "name": "Yaz\u0131han \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.59567,
         "longitude": 38.17967
     },
     {
-        "cityId": "8631670",
+        "cityId": 8631670,
         "name": "Hekimhan \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.81627,
         "longitude": 37.93134
     },
     {
-        "cityId": "8631672",
+        "cityId": 8631672,
         "name": "Ak\u00e7ada\u011f \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.34403,
         "longitude": 37.97409
     },
     {
-        "cityId": "8631673",
+        "cityId": 8631673,
         "name": "Do\u011fan\u015fehir \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.09134,
         "longitude": 37.87687
     },
     {
-        "cityId": "8631674",
+        "cityId": 8631674,
         "name": "Darende \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.55585,
         "longitude": 37.51378
     },
     {
-        "cityId": "8631676",
+        "cityId": 8631676,
         "name": "Kuluncak \u0130l\u00e7esi",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.88244,
         "longitude": 37.67181
     },
     {
-        "cityId": "9548267",
+        "cityId": 9548267,
         "name": "P\u00fct\u00fcrge",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.1963,
         "longitude": 38.87418
     },
     {
-        "cityId": "9548308",
+        "cityId": 9548308,
         "name": "Do\u011fanyol",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.31008,
         "longitude": 39.03756
     },
     {
-        "cityId": "9548365",
+        "cityId": 9548365,
         "name": "Arguvan",
-        "stateId": "304919",
+        "stateId": 304919,
         "latitude": 38.78172,
         "longitude": 38.26349
     }

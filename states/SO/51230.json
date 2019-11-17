@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9179656",
+        "cityId": 9179656,
         "name": "Burao",
-        "stateId": "51230",
+        "stateId": 51230,
         "latitude": 9.14134,
         "longitude": 45.75868
     },
     {
-        "cityId": "9179659",
+        "cityId": 9179659,
         "name": "Buuhoodle",
-        "stateId": "51230",
+        "stateId": 51230,
         "latitude": 8.46016,
         "longitude": 46.66129
     },
     {
-        "cityId": "9179663",
+        "cityId": 9179663,
         "name": "Owdweyne",
-        "stateId": "51230",
+        "stateId": 51230,
         "latitude": 9.25739,
         "longitude": 45.01097
     },
     {
-        "cityId": "9179665",
+        "cityId": 9179665,
         "name": "Sheikh",
-        "stateId": "51230",
+        "stateId": 51230,
         "latitude": 9.99245,
         "longitude": 45.42914
     }

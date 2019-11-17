@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3615812",
+        "cityId": 3615812,
         "name": "Municipio de Villa Sandino",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12,
         "longitude": -84.83333
     },
     {
-        "cityId": "3616347",
+        "cityId": 3616347,
         "name": "Municipio de Santo Tom\u00e1s",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.08333,
         "longitude": -85
     },
     {
-        "cityId": "3616351",
+        "cityId": 3616351,
         "name": "Municipio de Santo Domingo",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.3,
         "longitude": -85
     },
     {
-        "cityId": "3616608",
+        "cityId": 3616608,
         "name": "Municipio de San Pedro de L\u00f3vago",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.13333,
         "longitude": -85.08333
     },
     {
-        "cityId": "3618481",
+        "cityId": 3618481,
         "name": "Municipio de La Libertad",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.25,
         "longitude": -85.16667
     },
     {
-        "cityId": "3618907",
+        "cityId": 3618907,
         "name": "Municipio de Juigalpa",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.08333,
         "longitude": -85.33333
     },
     {
-        "cityId": "3620317",
+        "cityId": 3620317,
         "name": "Municipio de Comalapa",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.16667,
         "longitude": -85.55
     },
     {
-        "cityId": "3620977",
+        "cityId": 3620977,
         "name": "Municipio de Acoyapa",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 11.83333,
         "longitude": -85.16667
     },
     {
-        "cityId": "8335434",
+        "cityId": 8335434,
         "name": "Municipio de San Francisco de Cuapa",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 12.26667,
         "longitude": -85.38333
     },
     {
-        "cityId": "11002674",
+        "cityId": 11002674,
         "name": "El Coral",
-        "stateId": "3620368",
+        "stateId": 3620368,
         "latitude": 11.91651,
         "longitude": -84.6476
     }

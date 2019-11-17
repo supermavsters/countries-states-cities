@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "152698",
+        "cityId": 152698,
         "name": "Mufindi",
-        "stateId": "159067",
+        "stateId": 159067,
         "latitude": -8.59529,
         "longitude": 35.2082
     },
     {
-        "cityId": "159070",
+        "cityId": 159070,
         "name": "Iringa Rural District",
-        "stateId": "159067",
+        "stateId": 159067,
         "latitude": -7.56399,
         "longitude": 34.88159
     },
     {
-        "cityId": "7647452",
+        "cityId": 7647452,
         "name": "Kilolo District",
-        "stateId": "159067",
+        "stateId": 159067,
         "latitude": -8,
         "longitude": 35.85
     },
     {
-        "cityId": "7731037",
+        "cityId": 7731037,
         "name": "Iringa Urban District",
-        "stateId": "159067",
+        "stateId": 159067,
         "latitude": -7.77,
         "longitude": 35.69
     },
     {
-        "cityId": "9998068",
+        "cityId": 9998068,
         "name": "Mafinga Town Council",
-        "stateId": "159067",
+        "stateId": 159067,
         "latitude": -8.35287,
         "longitude": 35.22356
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "726286",
+        "cityId": 726286,
         "name": "Obshtina Tryavna",
-        "stateId": "864552",
+        "stateId": 864552,
         "latitude": 42.85,
         "longitude": 25.55
     },
     {
-        "cityId": "727336",
+        "cityId": 727336,
         "name": "Obshtina Sevlievo",
-        "stateId": "864552",
+        "stateId": 864552,
         "latitude": 43.01667,
         "longitude": 25.1
     },
     {
-        "cityId": "731548",
+        "cityId": 731548,
         "name": "Obshtina Gabrovo",
-        "stateId": "864552",
+        "stateId": 864552,
         "latitude": 42.9,
         "longitude": 25.3
     },
     {
-        "cityId": "731880",
+        "cityId": 731880,
         "name": "Obshtina Dryanovo",
-        "stateId": "864552",
+        "stateId": 864552,
         "latitude": 43,
         "longitude": 25.46667
     }

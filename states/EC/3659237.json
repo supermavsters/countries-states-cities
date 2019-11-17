@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3652349",
+        "cityId": 3652349,
         "name": "Cant\u00f3n Riobamba",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.66667,
         "longitude": -78.63333
     },
     {
-        "cityId": "3657593",
+        "cityId": 3657593,
         "name": "Cant\u00f3n Guano",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.6,
         "longitude": -78.63333
     },
     {
-        "cityId": "3657620",
+        "cityId": 3657620,
         "name": "Cant\u00f3n Guamote",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.93333,
         "longitude": -78.71667
     },
     {
-        "cityId": "3658919",
+        "cityId": 3658919,
         "name": "Cant\u00f3n Colta",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.7,
         "longitude": -78.75
     },
     {
-        "cityId": "3659071",
+        "cityId": 3659071,
         "name": "Cant\u00f3n Chunchi",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -2.28333,
         "longitude": -78.91667
     },
     {
-        "cityId": "3660797",
+        "cityId": 3660797,
         "name": "Cant\u00f3n Alaus\u00ed",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -2.2,
         "longitude": -78.85
     },
     {
-        "cityId": "9155063",
+        "cityId": 9155063,
         "name": "Cumanda",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -2.20788,
         "longitude": -79.13504
     },
     {
-        "cityId": "10792443",
+        "cityId": 10792443,
         "name": "Pallatanga",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -2.01392,
         "longitude": -78.92697
     },
     {
-        "cityId": "10792444",
+        "cityId": 10792444,
         "name": "Penipe",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.56228,
         "longitude": -78.44812
     },
     {
-        "cityId": "10792509",
+        "cityId": 10792509,
         "name": "Chambo",
-        "stateId": "3659237",
+        "stateId": 3659237,
         "latitude": -1.75149,
         "longitude": -78.54528
     }

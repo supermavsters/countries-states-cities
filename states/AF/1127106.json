@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7053945",
+        "cityId": 7053945,
         "name": "Balkh\u0101b",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 35.45799,
         "longitude": 66.60225
     },
     {
-        "cityId": "7053946",
+        "cityId": 7053946,
         "name": "G\u014dsfand\u012b",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 36.08563,
         "longitude": 66.5173
     },
     {
-        "cityId": "7053947",
+        "cityId": 7053947,
         "name": "K\u014dhist\u0101n\u0101t",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 35.43834,
         "longitude": 65.93647
     },
     {
-        "cityId": "7053948",
+        "cityId": 7053948,
         "name": "Sangch\u0101rak",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 35.8421,
         "longitude": 66.34159
     },
     {
-        "cityId": "7053949",
+        "cityId": 7053949,
         "name": "Sar-e Pul",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 36.29894,
         "longitude": 66.00741
     },
     {
-        "cityId": "7053950",
+        "cityId": 7053950,
         "name": "\u015eay\u0101d",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 36.14984,
         "longitude": 65.70895
     },
     {
-        "cityId": "7053951",
+        "cityId": 7053951,
         "name": "S\u014dzmah Qal\u2018ah",
-        "stateId": "1127106",
+        "stateId": 1127106,
         "latitude": 36.02,
         "longitude": 66.23298
     }

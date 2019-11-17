@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2997856",
+        "cityId": 2997856,
         "name": "D\u00e9partement du Loir-et-Cher",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 47.5,
         "longitude": 1.5
     },
     {
-        "cityId": "2997857",
+        "cityId": 2997857,
         "name": "Loiret",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 47.93598,
         "longitude": 2.30173
     },
     {
-        "cityId": "3012804",
+        "cityId": 3012804,
         "name": "D\u00e9partement d'Indre-et-Loire",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 47.25,
         "longitude": 0.75
     },
     {
-        "cityId": "3012805",
+        "cityId": 3012805,
         "name": "D\u00e9partement de l'Indre",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 46.83333,
         "longitude": 1.66667
     },
     {
-        "cityId": "3019316",
+        "cityId": 3019316,
         "name": "D\u00e9partement d'Eure-et-Loir",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 48.5,
         "longitude": 1.5
     },
     {
-        "cityId": "3025480",
+        "cityId": 3025480,
         "name": "Cher",
-        "stateId": "3027939",
+        "stateId": 3027939,
         "latitude": 47.11304,
         "longitude": 2.50983
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1653142",
+        "cityId": 1653142,
         "name": "Muang Sing",
-        "stateId": "1655561",
+        "stateId": 1655561,
         "latitude": 21.26178,
         "longitude": 101.10913
     },
     {
-        "cityId": "1655560",
+        "cityId": 1655560,
         "name": "Muang Louang Namtha",
-        "stateId": "1655561",
+        "stateId": 1655561,
         "latitude": 21.00424,
         "longitude": 101.44785
     },
     {
-        "cityId": "1904824",
+        "cityId": 1904824,
         "name": "Muang Nal\u00e8",
-        "stateId": "1655561",
+        "stateId": 1655561,
         "latitude": 20.5,
         "longitude": 101.41667
     },
     {
-        "cityId": "1904825",
+        "cityId": 1904825,
         "name": "Muang Viangphoukha",
-        "stateId": "1655561",
+        "stateId": 1655561,
         "latitude": 20.63194,
         "longitude": 101.0784
     },
     {
-        "cityId": "1904826",
+        "cityId": 1904826,
         "name": "Muang Long",
-        "stateId": "1655561",
+        "stateId": 1655561,
         "latitude": 20.98503,
         "longitude": 100.83104
     }

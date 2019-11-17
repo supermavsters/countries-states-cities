@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2766935",
+        "cityId": 2766935,
         "name": "Rust Stadt",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.80174,
         "longitude": 16.6721
     },
     {
-        "cityId": "2769621",
+        "cityId": 2769621,
         "name": "Politischer Bezirk Oberwart",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.28854,
         "longitude": 16.20861
     },
     {
-        "cityId": "2769811",
+        "cityId": 2769811,
         "name": "Politischer Bezirk Oberpullendorf",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.50184,
         "longitude": 16.50593
     },
     {
-        "cityId": "2770682",
+        "cityId": 2770682,
         "name": "Politischer Bezirk Neusiedl am See",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.88853,
         "longitude": 16.92465
     },
     {
-        "cityId": "2771816",
+        "cityId": 2771816,
         "name": "Politischer Bezirk Mattersburg",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.73823,
         "longitude": 16.39486
     },
     {
-        "cityId": "2775088",
+        "cityId": 2775088,
         "name": "Politischer Bezirk Jennersdorf",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 46.96667,
         "longitude": 16.15
     },
     {
-        "cityId": "2777215",
+        "cityId": 2777215,
         "name": "Politischer Bezirk G\u00fcssing",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.10164,
         "longitude": 16.30363
     },
     {
-        "cityId": "2780188",
+        "cityId": 2780188,
         "name": "Eisenstadt Stadt",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.8445,
         "longitude": 16.52575
     },
     {
-        "cityId": "2780189",
+        "cityId": 2780189,
         "name": "Eisenstadt-Umgebung",
-        "stateId": "2781194",
+        "stateId": 2781194,
         "latitude": 47.83333,
         "longitude": 16.58333
     }

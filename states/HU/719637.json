@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "9644779",
+        "cityId": 9644779,
         "name": "J\u00e1szber\u00e9nyi J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.565,
         "longitude": 19.86887
     },
     {
-        "cityId": "9644780",
+        "cityId": 9644780,
         "name": "J\u00e1szap\u00e1ti J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.46126,
         "longitude": 20.06567
     },
     {
-        "cityId": "9644781",
+        "cityId": 9644781,
         "name": "Szolnoki J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.2248,
         "longitude": 20.19839
     },
     {
-        "cityId": "9644782",
+        "cityId": 9644782,
         "name": "T\u00f6r\u00f6kszentmikl\u00f3si J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.18209,
         "longitude": 20.44859
     },
     {
-        "cityId": "9644783",
+        "cityId": 9644783,
         "name": "Kunszentm\u00e1rtoni J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 46.87698,
         "longitude": 20.25179
     },
     {
-        "cityId": "9644784",
+        "cityId": 9644784,
         "name": "Mez\u0151t\u00fari J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.02495,
         "longitude": 20.59046
     },
     {
-        "cityId": "9644785",
+        "cityId": 9644785,
         "name": "Karcagi J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.28583,
         "longitude": 20.84218
     },
     {
-        "cityId": "9644786",
+        "cityId": 9644786,
         "name": "Tiszaf\u00fcredi J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.53907,
         "longitude": 20.78879
     },
     {
-        "cityId": "9644787",
+        "cityId": 9644787,
         "name": "Kunhegyesi J\u00e1r\u00e1s",
-        "stateId": "719637",
+        "stateId": 719637,
         "latitude": 47.40329,
         "longitude": 20.59199
     }

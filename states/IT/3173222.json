@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3175444",
+        "cityId": 3175444,
         "name": "Provincia di Isernia",
-        "stateId": "3173222",
+        "stateId": 3173222,
         "latitude": 41.66667,
         "longitude": 14.25
     },
     {
-        "cityId": "3180990",
+        "cityId": 3180990,
         "name": "Provincia di Campobasso",
-        "stateId": "3173222",
+        "stateId": 3173222,
         "latitude": 41.7007,
         "longitude": 14.75848
     }

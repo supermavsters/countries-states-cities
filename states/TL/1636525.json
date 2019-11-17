@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "8617857",
+        "cityId": 8617857,
         "name": "Barique",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.85472,
         "longitude": 126.06556
     },
     {
-        "cityId": "8618003",
+        "cityId": 8618003,
         "name": "Manatuto",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.52207,
         "longitude": 126.01516
     },
     {
-        "cityId": "8618004",
+        "cityId": 8618004,
         "name": "Laclubar",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.74975,
         "longitude": 125.91186
     },
     {
-        "cityId": "8628948",
+        "cityId": 8628948,
         "name": "Laleia",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.53333,
         "longitude": 126.16667
     },
     {
-        "cityId": "8628961",
+        "cityId": 8628961,
         "name": "Soibada",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.86,
         "longitude": 125.94
     },
     {
-        "cityId": "8629130",
+        "cityId": 8629130,
         "name": "Laclo",
-        "stateId": "1636525",
+        "stateId": 1636525,
         "latitude": -8.55,
         "longitude": 125.91667
     }

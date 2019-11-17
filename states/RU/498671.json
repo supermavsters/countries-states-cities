@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "471644",
+        "cityId": 471644,
         "name": "Voskresenskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.84139,
         "longitude": 46.9025
     },
     {
-        "cityId": "472276",
+        "cityId": 472276,
         "name": "Vol\u2019skiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 52.08333,
         "longitude": 47.25
     },
     {
-        "cityId": "490027",
+        "cityId": 490027,
         "name": "Sovetskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.41667,
         "longitude": 46.83333
     },
     {
-        "cityId": "498661",
+        "cityId": 498661,
         "name": "Saratovskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.75,
         "longitude": 46.16667
     },
     {
-        "cityId": "529068",
+        "cityId": 529068,
         "name": "Marksovskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.66667,
         "longitude": 46.83333
     },
     {
-        "cityId": "542310",
+        "cityId": 542310,
         "name": "Krasnokutskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51,
         "longitude": 47
     },
     {
-        "cityId": "542438",
+        "cityId": 542438,
         "name": "Krasnoarmeyskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51,
         "longitude": 45.5
     },
     {
-        "cityId": "548980",
+        "cityId": 548980,
         "name": "Khvalynskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 52.5,
         "longitude": 47.91667
     },
     {
-        "cityId": "563462",
+        "cityId": 563462,
         "name": "Engel\u2019sskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.5,
         "longitude": 46.16667
     },
     {
-        "cityId": "578469",
+        "cityId": 578469,
         "name": "Bazarno-Karabulakskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 52.33333,
         "longitude": 46.33333
     },
     {
-        "cityId": "579379",
+        "cityId": 579379,
         "name": "Baltayskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 52.5,
         "longitude": 46.66667
     },
     {
-        "cityId": "580419",
+        "cityId": 580419,
         "name": "Atkarskiy Rayon",
-        "stateId": "498671",
+        "stateId": 498671,
         "latitude": 51.91667,
         "longitude": 45
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1699076",
+        "cityId": 1699076,
         "name": "Muntinlupa",
-        "stateId": "7521311",
+        "stateId": 7521311,
         "latitude": 14.39028,
         "longitude": 121.0475
     },
     {
-        "cityId": "11395835",
+        "cityId": 11395835,
         "name": "Capital District",
-        "stateId": "7521311",
+        "stateId": 7521311,
         "latitude": 14.5982,
         "longitude": 120.98986
     },
     {
-        "cityId": "11395836",
+        "cityId": 11395836,
         "name": "Eastern Manila District",
-        "stateId": "7521311",
+        "stateId": 7521311,
         "latitude": 14.58043,
         "longitude": 121.08376
     },
     {
-        "cityId": "11395837",
+        "cityId": 11395837,
         "name": "Northern Manila District",
-        "stateId": "7521311",
+        "stateId": 7521311,
         "latitude": 14.73421,
         "longitude": 121.01337
     },
     {
-        "cityId": "11395838",
+        "cityId": 11395838,
         "name": "Southern Manila District",
-        "stateId": "7521311",
+        "stateId": 7521311,
         "latitude": 14.51845,
         "longitude": 121.02882
     }

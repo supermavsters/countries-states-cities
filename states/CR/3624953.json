@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "3621127",
+        "cityId": 3621127,
         "name": "Valverde Vega",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.18721,
         "longitude": -84.3029
     },
     {
-        "cityId": "3621152",
+        "cityId": 3621152,
         "name": "Upala",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.85,
         "longitude": -85.16667
     },
     {
-        "cityId": "3621757",
+        "cityId": 3621757,
         "name": "San Mateo",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 9.95,
         "longitude": -84.51667
     },
     {
-        "cityId": "3621940",
+        "cityId": 3621940,
         "name": "San Carlos",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.58333,
         "longitude": -84.41667
     },
     {
-        "cityId": "3622341",
+        "cityId": 3622341,
         "name": "Po\u00e1s",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.08333,
         "longitude": -84.23333
     },
     {
-        "cityId": "3622608",
+        "cityId": 3622608,
         "name": "Palmares",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.03333,
         "longitude": -84.43333
     },
     {
-        "cityId": "3622659",
+        "cityId": 3622659,
         "name": "Orotina",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 9.9,
         "longitude": -84.56667
     },
     {
-        "cityId": "3622749",
+        "cityId": 3622749,
         "name": "Naranjo",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.11667,
         "longitude": -84.4
     },
     {
-        "cityId": "3623007",
+        "cityId": 3623007,
         "name": "Los Chiles",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.86667,
         "longitude": -84.66667
     },
     {
-        "cityId": "3623553",
+        "cityId": 3623553,
         "name": "Guatuso",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.66667,
         "longitude": -84.83333
     },
     {
-        "cityId": "3623619",
+        "cityId": 3623619,
         "name": "Grecia",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.06892,
         "longitude": -84.31458
     },
     {
-        "cityId": "3624841",
+        "cityId": 3624841,
         "name": "Atenas",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 9.98333,
         "longitude": -84.38333
     },
     {
-        "cityId": "3624942",
+        "cityId": 3624942,
         "name": "Zarcero",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.2,
         "longitude": -84.4
     },
     {
-        "cityId": "3624954",
+        "cityId": 3624954,
         "name": "Alajuela",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.03333,
         "longitude": -84.18333
     },
     {
-        "cityId": "6946040",
+        "cityId": 6946040,
         "name": "San Ram\u00f3n",
-        "stateId": "3624953",
+        "stateId": 3624953,
         "latitude": 10.08718,
         "longitude": -84.47044
     }

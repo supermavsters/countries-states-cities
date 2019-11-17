@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1630720",
+        "cityId": 1630720,
         "name": "Kabupaten Poso",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.65,
         "longitude": 120.5
     },
     {
-        "cityId": "1633033",
+        "cityId": 1633033,
         "name": "Kota Palu",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -0.86972,
         "longitude": 119.9
     },
     {
-        "cityId": "1645322",
+        "cityId": 1645322,
         "name": "Kabupaten Donggala",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -0.58333,
         "longitude": 119.85
     },
     {
-        "cityId": "1647571",
+        "cityId": 1647571,
         "name": "Kabupaten Buol",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": 0.75,
         "longitude": 120.75
     },
     {
-        "cityId": "6983688",
+        "cityId": 6983688,
         "name": "Kabupaten Banggai",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.2835,
         "longitude": 122.8892
     },
     {
-        "cityId": "9165688",
+        "cityId": 9165688,
         "name": "Kabupaten Tojo Una-Una",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.2036,
         "longitude": 121.48201
     },
     {
-        "cityId": "9165690",
+        "cityId": 9165690,
         "name": "Kabupaten Parigi Moutong",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": 0.3368,
         "longitude": 120.17841
     },
     {
-        "cityId": "9165691",
+        "cityId": 9165691,
         "name": "Kabupaten Banggai Kepulauan",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.6424,
         "longitude": 123.54881
     },
     {
-        "cityId": "9165694",
+        "cityId": 9165694,
         "name": "Morowali Regency",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.89342,
         "longitude": 121.25473
     },
     {
-        "cityId": "9781856",
+        "cityId": 9781856,
         "name": "Kabupaten Sigi",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.385,
         "longitude": 119.96694
     },
     {
-        "cityId": "9827971",
+        "cityId": 9827971,
         "name": "Kabupaten Morowali Utara",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.7207,
         "longitude": 121.24649
     },
     {
-        "cityId": "9846654",
+        "cityId": 9846654,
         "name": "Kabupaten Toli-Toli",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": 1.30862,
         "longitude": 120.88643
     },
     {
-        "cityId": "9846665",
+        "cityId": 9846665,
         "name": "Kabupaten Banggai Laut",
-        "stateId": "1626231",
+        "stateId": 1626231,
         "latitude": -1.61841,
         "longitude": 123.49388
     }

@@ -1,435 +1,435 @@
 [
     {
-        "cityId": "5106841",
+        "cityId": 5106841,
         "name": "Albany County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.60018,
         "longitude": -73.97356
     },
     {
-        "cityId": "5106997",
+        "cityId": 5106997,
         "name": "Allegany County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.25739,
         "longitude": -78.02756
     },
     {
-        "cityId": "5110253",
+        "cityId": 5110253,
         "name": "Bronx",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.82732,
         "longitude": -73.92357
     },
     {
-        "cityId": "5110365",
+        "cityId": 5110365,
         "name": "Broome County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.16022,
         "longitude": -75.81962
     },
     {
-        "cityId": "5111846",
+        "cityId": 5111846,
         "name": "Cattaraugus County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.24863,
         "longitude": -78.67885
     },
     {
-        "cityId": "5111868",
+        "cityId": 5111868,
         "name": "Cayuga County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.01033,
         "longitude": -76.57436
     },
     {
-        "cityId": "5112358",
+        "cityId": 5112358,
         "name": "Chautauqua County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.30294,
         "longitude": -79.40576
     },
     {
-        "cityId": "5112392",
+        "cityId": 5112392,
         "name": "Chemung County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.14125,
         "longitude": -76.76003
     },
     {
-        "cityId": "5112398",
+        "cityId": 5112398,
         "name": "Chenango County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.49351,
         "longitude": -75.61158
     },
     {
-        "cityId": "5112977",
+        "cityId": 5112977,
         "name": "Clinton County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 44.74623,
         "longitude": -73.67817
     },
     {
-        "cityId": "5113366",
+        "cityId": 5113366,
         "name": "Columbia County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.25008,
         "longitude": -73.63185
     },
     {
-        "cityId": "5113792",
+        "cityId": 5113792,
         "name": "Cortland County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.59501,
         "longitude": -76.07027
     },
     {
-        "cityId": "5114810",
+        "cityId": 5114810,
         "name": "Delaware County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.19809,
         "longitude": -74.96647
     },
     {
-        "cityId": "5115580",
+        "cityId": 5115580,
         "name": "Dutchess County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.76515,
         "longitude": -73.74286
     },
     {
-        "cityId": "5116642",
+        "cityId": 5116642,
         "name": "Erie County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.75824,
         "longitude": -78.77966
     },
     {
-        "cityId": "5116680",
+        "cityId": 5116680,
         "name": "Essex County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 44.11722,
         "longitude": -73.77271
     },
     {
-        "cityId": "5117867",
+        "cityId": 5117867,
         "name": "Franklin County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 44.59293,
         "longitude": -74.30376
     },
     {
-        "cityId": "5118116",
+        "cityId": 5118116,
         "name": "Fulton County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.11385,
         "longitude": -74.42217
     },
     {
-        "cityId": "5118380",
+        "cityId": 5118380,
         "name": "Genesee County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.00093,
         "longitude": -78.19371
     },
     {
-        "cityId": "5119355",
+        "cityId": 5119355,
         "name": "Greene County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.27652,
         "longitude": -74.12271
     },
     {
-        "cityId": "5119847",
+        "cityId": 5119847,
         "name": "Hamilton County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.66112,
         "longitude": -74.49736
     },
     {
-        "cityId": "5120548",
+        "cityId": 5120548,
         "name": "Herkimer County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.4197,
         "longitude": -74.9625
     },
     {
-        "cityId": "5122581",
+        "cityId": 5122581,
         "name": "Jefferson County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.99885,
         "longitude": -76.05211
     },
     {
-        "cityId": "5124290",
+        "cityId": 5124290,
         "name": "Lewis County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.78469,
         "longitude": -75.44879
     },
     {
-        "cityId": "5124928",
+        "cityId": 5124928,
         "name": "Livingston County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.72808,
         "longitude": -77.77549
     },
     {
-        "cityId": "5125630",
+        "cityId": 5125630,
         "name": "Madison County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.91277,
         "longitude": -75.66967
     },
     {
-        "cityId": "5127305",
+        "cityId": 5127305,
         "name": "Monroe County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.16512,
         "longitude": -77.63626
     },
     {
-        "cityId": "5127354",
+        "cityId": 5127354,
         "name": "Montgomery County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.90228,
         "longitude": -74.43968
     },
     {
-        "cityId": "5128316",
+        "cityId": 5128316,
         "name": "Nassau County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.73217,
         "longitude": -73.58545
     },
     {
-        "cityId": "5128594",
+        "cityId": 5128594,
         "name": "New York County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.77427,
         "longitude": -73.96981
     },
     {
-        "cityId": "5128734",
+        "cityId": 5128734,
         "name": "Niagara County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.17314,
         "longitude": -78.69095
     },
     {
-        "cityId": "5129832",
+        "cityId": 5129832,
         "name": "Oneida County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.24175,
         "longitude": -75.43584
     },
     {
-        "cityId": "5129867",
+        "cityId": 5129867,
         "name": "Onondaga County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.0058,
         "longitude": -76.19464
     },
     {
-        "cityId": "5129891",
+        "cityId": 5129891,
         "name": "Ontario County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.85285,
         "longitude": -77.29982
     },
     {
-        "cityId": "5129915",
+        "cityId": 5129915,
         "name": "Orange County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.40214,
         "longitude": -74.30557
     },
     {
-        "cityId": "5129995",
+        "cityId": 5129995,
         "name": "Orleans County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.2507,
         "longitude": -78.18901
     },
     {
-        "cityId": "5130076",
+        "cityId": 5130076,
         "name": "Oswego County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.46389,
         "longitude": -76.20868
     },
     {
-        "cityId": "5130111",
+        "cityId": 5130111,
         "name": "Otsego County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.63376,
         "longitude": -75.03261
     },
     {
-        "cityId": "5133166",
+        "cityId": 5133166,
         "name": "Putnam County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.42666,
         "longitude": -73.74951
     },
     {
-        "cityId": "5133268",
+        "cityId": 5133268,
         "name": "Queens County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.65749,
         "longitude": -73.83875
     },
     {
-        "cityId": "5133668",
+        "cityId": 5133668,
         "name": "Rensselaer County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.71105,
         "longitude": -73.50972
     },
     {
-        "cityId": "5134189",
+        "cityId": 5134189,
         "name": "Rockland County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.15243,
         "longitude": -74.02409
     },
     {
-        "cityId": "5135484",
+        "cityId": 5135484,
         "name": "St. Lawrence County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 44.50062,
         "longitude": -75.11631
     },
     {
-        "cityId": "5136325",
+        "cityId": 5136325,
         "name": "Saratoga County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.10738,
         "longitude": -73.8639
     },
     {
-        "cityId": "5136456",
+        "cityId": 5136456,
         "name": "Schenectady County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.81812,
         "longitude": -74.05857
     },
     {
-        "cityId": "5136495",
+        "cityId": 5136495,
         "name": "Schoharie County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.58822,
         "longitude": -74.44212
     },
     {
-        "cityId": "5137368",
+        "cityId": 5137368,
         "name": "Schuyler County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.3938,
         "longitude": -76.87518
     },
     {
-        "cityId": "5137620",
+        "cityId": 5137620,
         "name": "Seneca County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.78108,
         "longitude": -76.82378
     },
     {
-        "cityId": "5139559",
+        "cityId": 5139559,
         "name": "Richmond County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.58344,
         "longitude": -74.14959
     },
     {
-        "cityId": "5139656",
+        "cityId": 5139656,
         "name": "Steuben County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.26781,
         "longitude": -77.3838
     },
     {
-        "cityId": "5140076",
+        "cityId": 5140076,
         "name": "Suffolk County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.94046,
         "longitude": -72.68524
     },
     {
-        "cityId": "5140135",
+        "cityId": 5140135,
         "name": "Sullivan County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.71642,
         "longitude": -74.76814
     },
     {
-        "cityId": "5141045",
+        "cityId": 5141045,
         "name": "Tioga County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.1703,
         "longitude": -76.30632
     },
     {
-        "cityId": "5141153",
+        "cityId": 5141153,
         "name": "Tompkins County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.45202,
         "longitude": -76.47366
     },
     {
-        "cityId": "5141784",
+        "cityId": 5141784,
         "name": "Ulster County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.88815,
         "longitude": -74.25857
     },
     {
-        "cityId": "5143268",
+        "cityId": 5143268,
         "name": "Warren County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.56098,
         "longitude": -73.84601
     },
     {
-        "cityId": "5143303",
+        "cityId": 5143303,
         "name": "Washington County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.3137,
         "longitude": -73.43076
     },
     {
-        "cityId": "5143455",
+        "cityId": 5143455,
         "name": "Wayne County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 43.06588,
         "longitude": -76.97845
     },
     {
-        "cityId": "5144050",
+        "cityId": 5144050,
         "name": "Westchester County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 41.15148,
         "longitude": -73.75339
     },
     {
-        "cityId": "5145163",
+        "cityId": 5145163,
         "name": "Wyoming County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.70238,
         "longitude": -78.22444
     },
     {
-        "cityId": "5145190",
+        "cityId": 5145190,
         "name": "Yates County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 42.63344,
         "longitude": -77.10546
     },
     {
-        "cityId": "6941775",
+        "cityId": 6941775,
         "name": "Kings County",
-        "stateId": "5128638",
+        "stateId": 5128638,
         "latitude": 40.63439,
         "longitude": -73.95027
     }

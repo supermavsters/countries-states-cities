@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "11352742",
+        "cityId": 11352742,
         "name": "Bri\u0123u pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.44915,
         "longitude": 28.06754
     },
     {
-        "cityId": "11352743",
+        "cityId": 11352743,
         "name": "Cirmas pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.52112,
         "longitude": 27.58717
     },
     {
-        "cityId": "11352744",
+        "cityId": 11352744,
         "name": "Isnaudas pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.48466,
         "longitude": 27.81625
     },
     {
-        "cityId": "11352745",
+        "cityId": 11352745,
         "name": "Istras pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.24359,
         "longitude": 27.96685
     },
     {
-        "cityId": "11352746",
+        "cityId": 11352746,
         "name": "Ludza",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.54484,
         "longitude": 27.7117
     },
     {
-        "cityId": "11352747",
+        "cityId": 11352747,
         "name": "Nirzas pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.38982,
         "longitude": 27.92056
     },
     {
-        "cityId": "11352748",
+        "cityId": 11352748,
         "name": "\u0145uk\u0161u pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.43283,
         "longitude": 27.70959
     },
     {
-        "cityId": "11352749",
+        "cityId": 11352749,
         "name": "Pildas pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.36668,
         "longitude": 27.76749
     },
     {
-        "cityId": "11352750",
+        "cityId": 11352750,
         "name": "Pure\u0146u pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.46254,
         "longitude": 27.63462
     },
     {
-        "cityId": "11352751",
+        "cityId": 11352751,
         "name": "Rund\u0113nu pagasts",
-        "stateId": "457773",
+        "stateId": 457773,
         "latitude": 56.26304,
         "longitude": 27.78287
     }

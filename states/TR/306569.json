@@ -1,218 +1,218 @@
 [
     {
-        "cityId": "7732933",
+        "cityId": 7732933,
         "name": "Selcuklu",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.05761,
         "longitude": 32.54088
     },
     {
-        "cityId": "7732935",
+        "cityId": 7732935,
         "name": "Karatay",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.94001,
         "longitude": 32.99828
     },
     {
-        "cityId": "7932392",
+        "cityId": 7932392,
         "name": "Cihanbeyli District",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.67131,
         "longitude": 32.92522
     },
     {
-        "cityId": "8632065",
+        "cityId": 8632065,
         "name": "Hadim \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 36.99794,
         "longitude": 32.46117
     },
     {
-        "cityId": "8632066",
+        "cityId": 8632066,
         "name": "Ere\u011fli \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.52305,
         "longitude": 34.05553
     },
     {
-        "cityId": "8632068",
+        "cityId": 8632068,
         "name": "Halkap\u0131nar \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.44361,
         "longitude": 34.19336
     },
     {
-        "cityId": "8632069",
+        "cityId": 8632069,
         "name": "Emirgazi \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.91229,
         "longitude": 33.84666
     },
     {
-        "cityId": "8632070",
+        "cityId": 8632070,
         "name": "Karap\u0131nar \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.72637,
         "longitude": 33.55759
     },
     {
-        "cityId": "8632092",
+        "cityId": 8632092,
         "name": "Kulu \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 39.10536,
         "longitude": 33.08858
     },
     {
-        "cityId": "8632094",
+        "cityId": 8632094,
         "name": "Saray\u00f6n\u00fc \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.2703,
         "longitude": 32.41188
     },
     {
-        "cityId": "8632095",
+        "cityId": 8632095,
         "name": "Alt\u0131nekin \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.31787,
         "longitude": 32.87447
     },
     {
-        "cityId": "8632096",
+        "cityId": 8632096,
         "name": "Kad\u0131nhan\u0131 \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.24958,
         "longitude": 32.2173
     },
     {
-        "cityId": "8632098",
+        "cityId": 8632098,
         "name": "Derbent \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.02403,
         "longitude": 32.02463
     },
     {
-        "cityId": "8632099",
+        "cityId": 8632099,
         "name": "Bey\u015fehir \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.68668,
         "longitude": 31.73051
     },
     {
-        "cityId": "8632100",
+        "cityId": 8632100,
         "name": "Seydi\u015fehir \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.4293,
         "longitude": 31.85046
     },
     {
-        "cityId": "8632102",
+        "cityId": 8632102,
         "name": "Yal\u0131h\u00fcy\u00fck \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.3111,
         "longitude": 32.08924
     },
     {
-        "cityId": "8632103",
+        "cityId": 8632103,
         "name": "Ah\u0131rl\u0131 \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.24828,
         "longitude": 32.12419
     },
     {
-        "cityId": "8632104",
+        "cityId": 8632104,
         "name": "Ak\u00f6ren \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.46265,
         "longitude": 32.37489
     },
     {
-        "cityId": "8632105",
+        "cityId": 8632105,
         "name": "Bozk\u0131r \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.19978,
         "longitude": 32.25234
     },
     {
-        "cityId": "8632106",
+        "cityId": 8632106,
         "name": "Ta\u015fkent \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 36.93392,
         "longitude": 32.49529
     },
     {
-        "cityId": "8632107",
+        "cityId": 8632107,
         "name": "Ilg\u0131n \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.28942,
         "longitude": 31.91916
     },
     {
-        "cityId": "8632108",
+        "cityId": 8632108,
         "name": "Derebucak \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.4018,
         "longitude": 31.51665
     },
     {
-        "cityId": "8632109",
+        "cityId": 8632109,
         "name": "Tuzluk\u00e7u \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.48788,
         "longitude": 31.63047
     },
     {
-        "cityId": "8632110",
+        "cityId": 8632110,
         "name": "Yunak \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.82374,
         "longitude": 31.73748
     },
     {
-        "cityId": "8632111",
+        "cityId": 8632111,
         "name": "\u00c7eltik \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 39.03388,
         "longitude": 31.79408
     },
     {
-        "cityId": "8632112",
+        "cityId": 8632112,
         "name": "Do\u011fanhisar \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.1565,
         "longitude": 31.68226
     },
     {
-        "cityId": "8632113",
+        "cityId": 8632113,
         "name": "G\u00fcneys\u0131n\u0131r \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.27977,
         "longitude": 32.73735
     },
     {
-        "cityId": "8632115",
+        "cityId": 8632115,
         "name": "Meram \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.83984,
         "longitude": 32.47111
     },
     {
-        "cityId": "8632116",
+        "cityId": 8632116,
         "name": "\u00c7umra \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.58165,
         "longitude": 32.77971
     },
     {
-        "cityId": "8632117",
+        "cityId": 8632117,
         "name": "H\u00fcy\u00fck \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 37.96331,
         "longitude": 31.6001
     },
     {
-        "cityId": "8632118",
+        "cityId": 8632118,
         "name": "Ak\u015fehir \u0130l\u00e7esi",
-        "stateId": "306569",
+        "stateId": 306569,
         "latitude": 38.3673,
         "longitude": 31.41983
     }

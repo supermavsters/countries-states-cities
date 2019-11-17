@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "9212608",
+        "cityId": 9212608,
         "name": "Nema",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 16.43284,
         "longitude": -7.3026
     },
     {
-        "cityId": "9212609",
+        "cityId": 9212609,
         "name": "Timbedra",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 16.10191,
         "longitude": -8.18235
     },
     {
-        "cityId": "9212623",
+        "cityId": 9212623,
         "name": "Amourj",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 15.7639,
         "longitude": -7.00961
     },
     {
-        "cityId": "9212636",
+        "cityId": 9212636,
         "name": "Djiguenni",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 15.87106,
         "longitude": -8.71418
     },
     {
-        "cityId": "9212644",
+        "cityId": 9212644,
         "name": "Ouadane",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 18.69278,
         "longitude": -7.05739
     },
     {
-        "cityId": "9212655",
+        "cityId": 9212655,
         "name": "Oualata",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 17.44628,
         "longitude": -7.01165
     },
     {
-        "cityId": "9222754",
+        "cityId": 9222754,
         "name": "Bassiknou",
-        "stateId": "2379025",
+        "stateId": 2379025,
         "latitude": 15.85,
         "longitude": -5.93583
     }

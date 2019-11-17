@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7522269",
+        "cityId": 7522269,
         "name": "Haapsalu linn",
-        "stateId": "590856",
+        "stateId": 590856,
         "latitude": 58.9358,
         "longitude": 23.53005
     },
     {
-        "cityId": "7522480",
+        "cityId": 7522480,
         "name": "Vormsi vald",
-        "stateId": "590856",
+        "stateId": 590856,
         "latitude": 58.99986,
         "longitude": 23.23408
     },
     {
-        "cityId": "11054712",
+        "cityId": 11054712,
         "name": "L\u00e4\u00e4ne-Nigula vald",
-        "stateId": "590856",
+        "stateId": 590856,
         "latitude": 58.96045,
         "longitude": 23.74489
     }

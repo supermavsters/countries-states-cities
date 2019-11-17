@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "149601",
+        "cityId": 149601,
         "name": "Tanga",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.11574,
         "longitude": 39.02753
     },
     {
-        "cityId": "150788",
+        "cityId": 150788,
         "name": "Pangani",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.59686,
         "longitude": 38.82202
     },
     {
-        "cityId": "152629",
+        "cityId": 152629,
         "name": "Muheza District",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.17301,
         "longitude": 38.79547
     },
     {
-        "cityId": "155568",
+        "cityId": 155568,
         "name": "Lushoto",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -4.54528,
         "longitude": 38.43927
     },
     {
-        "cityId": "156478",
+        "cityId": 156478,
         "name": "Korogwe District",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.08274,
         "longitude": 38.41919
     },
     {
-        "cityId": "159673",
+        "cityId": 159673,
         "name": "Handeni",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.55032,
         "longitude": 38.34768
     },
     {
-        "cityId": "9072688",
+        "cityId": 9072688,
         "name": "Kilindi District",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.56667,
         "longitude": 37.56667
     },
     {
-        "cityId": "9998230",
+        "cityId": 9998230,
         "name": "Handeni Town",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.4991,
         "longitude": 37.99056
     },
     {
-        "cityId": "9998232",
+        "cityId": 9998232,
         "name": "Korogwe Town",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -5.15271,
         "longitude": 38.47717
     },
     {
-        "cityId": "9998233",
+        "cityId": 9998233,
         "name": "Mkinga",
-        "stateId": "149595",
+        "stateId": 149595,
         "latitude": -4.73507,
         "longitude": 38.93438
     }

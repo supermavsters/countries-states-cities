@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7670549",
+        "cityId": 7670549,
         "name": "Douentza Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 15.06947,
         "longitude": -2.40875
     },
     {
-        "cityId": "7701484",
+        "cityId": 7701484,
         "name": "Mopti Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 14.77995,
         "longitude": -4.09297
     },
     {
-        "cityId": "7701493",
+        "cityId": 7701493,
         "name": "Bankass Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 13.65966,
         "longitude": -3.60347
     },
     {
-        "cityId": "7701494",
+        "cityId": 7701494,
         "name": "Koro Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 14.384,
         "longitude": -2.853
     },
     {
-        "cityId": "8299587",
+        "cityId": 8299587,
         "name": "Youwarou Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 15.373,
         "longitude": -4.488
     },
     {
-        "cityId": "8299588",
+        "cityId": 8299588,
         "name": "Niafunke Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 15.889,
         "longitude": -3.821
     },
     {
-        "cityId": "8299589",
+        "cityId": 8299589,
         "name": "Tenenkou Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 14.659,
         "longitude": -4.908
     },
     {
-        "cityId": "8299590",
+        "cityId": 8299590,
         "name": "Djenne Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 13.916,
         "longitude": -4.595
     },
     {
-        "cityId": "8299591",
+        "cityId": 8299591,
         "name": "Bandiagara Cercle",
-        "stateId": "2453347",
+        "stateId": 2453347,
         "latitude": 14.484,
         "longitude": -3.581
     }

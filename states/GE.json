@@ -1,85 +1,85 @@
 [
     {
-        "stateId": "6643410",
+        "stateId": 6643410,
         "name": "Abkhazia",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 43.0005,
         "longitude": 41.00501
     },
     {
-        "stateId": "615929",
+        "stateId": 615929,
         "name": "Ajaria",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.66667,
         "longitude": 42
     },
     {
-        "stateId": "865538",
+        "stateId": 865538,
         "name": "Guria",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.96667,
         "longitude": 42.2
     },
     {
-        "stateId": "865539",
+        "stateId": 865539,
         "name": "Imereti",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 42.16667,
         "longitude": 42.98333
     },
     {
-        "stateId": "611716",
+        "stateId": 611716,
         "name": "K'alak'i T'bilisi",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.71667,
         "longitude": 44.83333
     },
     {
-        "stateId": "865537",
+        "stateId": 865537,
         "name": "Kakheti",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.75,
         "longitude": 45.71667
     },
     {
-        "stateId": "865536",
+        "stateId": 865536,
         "name": "Kvemo Kartli",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.51667,
         "longitude": 44.51667
     },
     {
-        "stateId": "865541",
+        "stateId": 865541,
         "name": "Mtskheta-Mtianeti",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 42.28333,
         "longitude": 44.75
     },
     {
-        "stateId": "865542",
+        "stateId": 865542,
         "name": "Racha-Lechkhumi and Kvemo Svaneti",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 42.63333,
         "longitude": 43.13333
     },
     {
-        "stateId": "865543",
+        "stateId": 865543,
         "name": "Samegrelo-Zemo Svanetis Mkhare",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 42.70076,
         "longitude": 42.21496
     },
     {
-        "stateId": "865544",
+        "stateId": 865544,
         "name": "Samtskhe-Javakheti",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 41.58333,
         "longitude": 43.26667
     },
     {
-        "stateId": "865540",
+        "stateId": 865540,
         "name": "Shida Kartli",
-        "countryId": "614540",
+        "countryId": 614540,
         "latitude": 42.32,
         "longitude": 44.14
     }

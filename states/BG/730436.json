@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "726383",
+        "cityId": 726383,
         "name": "Obshtina Topolovgrad",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 42.08333,
         "longitude": 26.33333
     },
     {
-        "cityId": "726545",
+        "cityId": 726545,
         "name": "Obshtina Svilengrad",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.86667,
         "longitude": 26.31667
     },
     {
-        "cityId": "726885",
+        "cityId": 726885,
         "name": "Obshtina Stambolovo",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.73333,
         "longitude": 25.7
     },
     {
-        "cityId": "727216",
+        "cityId": 727216,
         "name": "Obshtina Simeonovgrad",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 42.05,
         "longitude": 25.88333
     },
     {
-        "cityId": "729072",
+        "cityId": 729072,
         "name": "Obshtina Mineralni Bani",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.9,
         "longitude": 25.33333
     },
     {
-        "cityId": "729465",
+        "cityId": 729465,
         "name": "Obshtina Lyubimets",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.81667,
         "longitude": 26.05
     },
     {
-        "cityId": "730434",
+        "cityId": 730434,
         "name": "Obshtina Haskovo",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.88333,
         "longitude": 25.61667
     },
     {
-        "cityId": "730441",
+        "cityId": 730441,
         "name": "Obshtina Harmanli",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.93333,
         "longitude": 25.98333
     },
     {
-        "cityId": "730836",
+        "cityId": 730836,
         "name": "Obshtina Ivaylovgrad",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.48333,
         "longitude": 26
     },
     {
-        "cityId": "732262",
+        "cityId": 732262,
         "name": "Obshtina Dimitrovgrad",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 42.05,
         "longitude": 25.6
     },
     {
-        "cityId": "864600",
+        "cityId": 864600,
         "name": "Obshtina Madzharovo",
-        "stateId": "730436",
+        "stateId": 730436,
         "latitude": 41.68333,
         "longitude": 25.9
     }

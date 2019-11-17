@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7268226",
+        "cityId": 7268226,
         "name": "Bajura Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.1019,
         "longitude": -67.12892
     },
     {
-        "cityId": "7268260",
+        "cityId": 7268260,
         "name": "Boquer\u00f3n Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 17.99903,
         "longitude": -67.18156
     },
     {
-        "cityId": "7268279",
+        "cityId": 7268279,
         "name": "Cabo Rojo Barrio-Pueblo",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.08721,
         "longitude": -67.14666
     },
     {
-        "cityId": "7268419",
+        "cityId": 7268419,
         "name": "Guanajibo Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.13514,
         "longitude": -67.16604
     },
     {
-        "cityId": "7268568",
+        "cityId": 7268568,
         "name": "Llanos Costa Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 17.9788,
         "longitude": -67.14432
     },
     {
-        "cityId": "7268569",
+        "cityId": 7268569,
         "name": "Llanos Tuna Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.05164,
         "longitude": -67.12753
     },
     {
-        "cityId": "7268657",
+        "cityId": 7268657,
         "name": "Miradero Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.09072,
         "longitude": -67.17824
     },
     {
-        "cityId": "7268670",
+        "cityId": 7268670,
         "name": "Monte Grande Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.07771,
         "longitude": -67.12824
     },
     {
-        "cityId": "7268741",
+        "cityId": 7268741,
         "name": "Pedernales Barrio",
-        "stateId": "4562997",
+        "stateId": 4562997,
         "latitude": 18.05062,
         "longitude": -67.18102
     }

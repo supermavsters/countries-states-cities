@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "3041566",
+        "stateId": 3041566,
         "name": "Andorra la Vella",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.5045,
         "longitude": 1.49414
     },
     {
-        "stateId": "3041203",
+        "stateId": 3041203,
         "name": "Canillo",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.58333,
         "longitude": 1.65833
     },
     {
-        "stateId": "3040684",
+        "stateId": 3040684,
         "name": "Encamp",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.53333,
         "longitude": 1.63333
     },
     {
-        "stateId": "3338529",
+        "stateId": 3338529,
         "name": "Escaldes-Engordany",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.5,
         "longitude": 1.56667
     },
     {
-        "stateId": "3040131",
+        "stateId": 3040131,
         "name": "La Massana",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.55417,
         "longitude": 1.48333
     },
     {
-        "stateId": "3039676",
+        "stateId": 3039676,
         "name": "Ordino",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.59758,
         "longitude": 1.52573
     },
     {
-        "stateId": "3039162",
+        "stateId": 3039162,
         "name": "Sant Juli\u00e0 de L\u00f2ria",
-        "countryId": "3041565",
+        "countryId": 3041565,
         "latitude": 42.46247,
         "longitude": 1.48247
     }

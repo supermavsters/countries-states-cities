@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "1847999",
+        "cityId": 1847999,
         "name": "Zama Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.48752,
         "longitude": 139.40925
     },
     {
-        "cityId": "1848308",
+        "cityId": 1848308,
         "name": "Yokosuka Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.24985,
         "longitude": 139.66033
     },
     {
-        "cityId": "1848350",
+        "cityId": 1848350,
         "name": "Yokohama Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.46225,
         "longitude": 139.57645
     },
     {
-        "cityId": "1848595",
+        "cityId": 1848595,
         "name": "Yamato-shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.46934,
         "longitude": 139.46165
     },
     {
-        "cityId": "1853293",
+        "cityId": 1853293,
         "name": "Sagamihara-shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.55,
         "longitude": 139.35
     },
     {
-        "cityId": "1854744",
+        "cityId": 1854744,
         "name": "Odawara-shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.25,
         "longitude": 139.13333
     },
     {
-        "cityId": "1855966",
+        "cityId": 1855966,
         "name": "Naka-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.31546,
         "longitude": 139.2746
     },
     {
-        "cityId": "1856849",
+        "cityId": 1856849,
         "name": "Miura Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.16754,
         "longitude": 139.64104
     },
     {
-        "cityId": "1856851",
+        "cityId": 1856851,
         "name": "Miura-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.27127,
         "longitude": 139.6006
     },
     {
-        "cityId": "1858593",
+        "cityId": 1858593,
         "name": "K\u014dza-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.37555,
         "longitude": 139.38559
     },
     {
-        "cityId": "1859635",
+        "cityId": 1859635,
         "name": "Kawasaki-shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.56996,
         "longitude": 139.62854
     },
     {
-        "cityId": "1860670",
+        "cityId": 1860670,
         "name": "Kamakura Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.33,
         "longitude": 139.53798
     },
     {
-        "cityId": "1861448",
+        "cityId": 1861448,
         "name": "Isehara Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.41011,
         "longitude": 139.29203
     },
     {
-        "cityId": "1862461",
+        "cityId": 1862461,
         "name": "Hiratsuka Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.35099,
         "longitude": 139.32013
     },
     {
-        "cityId": "1863429",
+        "cityId": 1863429,
         "name": "Hadano-shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.4,
         "longitude": 139.2
     },
     {
-        "cityId": "1864091",
+        "cityId": 1864091,
         "name": "Fujisawa Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.36814,
         "longitude": 139.45899
     },
     {
-        "cityId": "1864622",
+        "cityId": 1864622,
         "name": "Chigasaki Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.34429,
         "longitude": 139.40958
     },
     {
-        "cityId": "1864864",
+        "cityId": 1864864,
         "name": "Ayase Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.43995,
         "longitude": 139.43089
     },
     {
-        "cityId": "1864928",
+        "cityId": 1864928,
         "name": "Atsugi Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.46513,
         "longitude": 139.32707
     },
     {
-        "cityId": "1865009",
+        "cityId": 1865009,
         "name": "Ashigarashimo-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.21603,
         "longitude": 139.05206
     },
     {
-        "cityId": "1865011",
+        "cityId": 1865011,
         "name": "Ashigarakami-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.40898,
         "longitude": 139.07337
     },
     {
-        "cityId": "7468160",
+        "cityId": 7468160,
         "name": "Aik\u014d-gun",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.50012,
         "longitude": 139.25211
     },
     {
-        "cityId": "7470888",
+        "cityId": 7470888,
         "name": "Zushi Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.299,
         "longitude": 139.59125
     },
     {
-        "cityId": "7470889",
+        "cityId": 7470889,
         "name": "Ebina Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.43762,
         "longitude": 139.39307
     },
     {
-        "cityId": "7470890",
+        "cityId": 7470890,
         "name": "Minamiashigara Shi",
-        "stateId": "1860291",
+        "stateId": 1860291,
         "latitude": 35.30991,
         "longitude": 139.07016
     }

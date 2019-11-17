@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "725401",
+        "cityId": 725401,
         "name": "Obshtina Zemen",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.55067,
         "longitude": 22.7144
     },
     {
-        "cityId": "726306",
+        "cityId": 726306,
         "name": "Tran",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.76667,
         "longitude": 22.63333
     },
     {
-        "cityId": "727831",
+        "cityId": 727831,
         "name": "Obshtina Radomir",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.46667,
         "longitude": 23.01667
     },
     {
-        "cityId": "728329",
+        "cityId": 728329,
         "name": "Obshtina Pernik",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.61667,
         "longitude": 23.08333
     },
     {
-        "cityId": "730049",
+        "cityId": 730049,
         "name": "Obshtina Kovachevtsi",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.55,
         "longitude": 22.83333
     },
     {
-        "cityId": "732882",
+        "cityId": 732882,
         "name": "Obshtina Breznik",
-        "stateId": "728331",
+        "stateId": 728331,
         "latitude": 42.71667,
         "longitude": 22.85
     }

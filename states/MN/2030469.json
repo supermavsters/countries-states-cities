@@ -1,204 +1,204 @@
 [
     {
-        "cityId": "2029006",
+        "cityId": 2029006,
         "name": "Tarialan",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.61667,
         "longitude": 102.05
     },
     {
-        "cityId": "6618997",
+        "cityId": 6618997,
         "name": "Renchinlh\u00fcmbe",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 51.1032,
         "longitude": 99.67243
     },
     {
-        "cityId": "6618998",
+        "cityId": 6618998,
         "name": "Tsagaannuur",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 51.33919,
         "longitude": 99.34525
     },
     {
-        "cityId": "6618999",
+        "cityId": 6618999,
         "name": "Ulaan-Uul",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.67743,
         "longitude": 99.2304
     },
     {
-        "cityId": "6619000",
+        "cityId": 6619000,
         "name": "Bayandz\u00fcrh",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.16854,
         "longitude": 98.96999
     },
     {
-        "cityId": "6619001",
+        "cityId": 6619001,
         "name": "Alag-Erdene",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.11177,
         "longitude": 100.04288
     },
     {
-        "cityId": "6619002",
+        "cityId": 6619002,
         "name": "Arbulag",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.89198,
         "longitude": 99.43417
     },
     {
-        "cityId": "6619003",
+        "cityId": 6619003,
         "name": "Tsagaan-Uul",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.59224,
         "longitude": 98.6931
     },
     {
-        "cityId": "6619004",
+        "cityId": 6619004,
         "name": "Tsetserleg",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.5237,
         "longitude": 97.74116
     },
     {
-        "cityId": "6619005",
+        "cityId": 6619005,
         "name": "M\u00f6r\u00f6n",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.62495,
         "longitude": 100.16304
     },
     {
-        "cityId": "6619006",
+        "cityId": 6619006,
         "name": "B\u00fcrentogtoh",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.4246,
         "longitude": 99.59999
     },
     {
-        "cityId": "6619007",
+        "cityId": 6619007,
         "name": "T\u00f6m\u00f6rbulag",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.29043,
         "longitude": 100.2566
     },
     {
-        "cityId": "6619008",
+        "cityId": 6619008,
         "name": "Shine-Ider",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 48.94596,
         "longitude": 99.53665
     },
     {
-        "cityId": "6619009",
+        "cityId": 6619009,
         "name": "Galt",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 48.76728,
         "longitude": 99.87465
     },
     {
-        "cityId": "6619010",
+        "cityId": 6619010,
         "name": "Jargalant",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 48.58024,
         "longitude": 99.3528
     },
     {
-        "cityId": "6619011",
+        "cityId": 6619011,
         "name": "Tosontsengel",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.47058,
         "longitude": 100.88917
     },
     {
-        "cityId": "6619012",
+        "cityId": 6619012,
         "name": "Ih-Uul",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.4313,
         "longitude": 101.46732
     },
     {
-        "cityId": "6619013",
+        "cityId": 6619013,
         "name": "Rashaant",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.12062,
         "longitude": 101.42921
     },
     {
-        "cityId": "6619014",
+        "cityId": 6619014,
         "name": "T\u00fcnel",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.85437,
         "longitude": 100.62824
     },
     {
-        "cityId": "6619015",
+        "cityId": 6619015,
         "name": "Chandman\u012d-\u00d6nd\u00f6r",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.4692,
         "longitude": 100.93071
     },
     {
-        "cityId": "6619016",
+        "cityId": 6619016,
         "name": "Tsagaan-\u00dc\u00fcr",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.53525,
         "longitude": 101.51299
     },
     {
-        "cityId": "6619017",
+        "cityId": 6619017,
         "name": "Erdenebulgan",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.10076,
         "longitude": 101.57616
     },
     {
-        "cityId": "6619018",
+        "cityId": 6619018,
         "name": "Hanh",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 51.50265,
         "longitude": 100.66395
     },
     {
-        "cityId": "6987854",
+        "cityId": 6987854,
         "name": "Jargalant Sum",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 48.55972,
         "longitude": 99.42541
     },
     {
-        "cityId": "6987860",
+        "cityId": 6987860,
         "name": "Ih-Uul Sum",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.50917,
         "longitude": 101.43847
     },
     {
-        "cityId": "6987865",
+        "cityId": 6987865,
         "name": "Tsagaan-Uul Sum",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.55399,
         "longitude": 98.60264
     },
     {
-        "cityId": "6999363",
+        "cityId": 6999363,
         "name": "M\u00f6r\u00f6n Sum",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 49.64905,
         "longitude": 100.09668
     },
     {
-        "cityId": "10375937",
+        "cityId": 10375937,
         "name": "Bayanz\u00fcrkh",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.17563,
         "longitude": 98.97823
     },
     {
-        "cityId": "10375938",
+        "cityId": 10375938,
         "name": "Khatgal",
-        "stateId": "2030469",
+        "stateId": 2030469,
         "latitude": 50.43944,
         "longitude": 100.16167
     }

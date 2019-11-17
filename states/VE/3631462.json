@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3625334",
+        "cityId": 3625334,
         "name": "Municipio Villalba",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 10.78333,
         "longitude": -63.95
     },
     {
-        "cityId": "3625967",
+        "cityId": 3625967,
         "name": "Municipio Tubores",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 10.95,
         "longitude": -64.08333
     },
     {
-        "cityId": "3630389",
+        "cityId": 3630389,
         "name": "Municipio Pen\u00ednsula de Macanao",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11.01667,
         "longitude": -64.28333
     },
     {
-        "cityId": "3632894",
+        "cityId": 3632894,
         "name": "Municipio Mari\u00f1o",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 10.95,
         "longitude": -63.88333
     },
     {
-        "cityId": "3633180",
+        "cityId": 3633180,
         "name": "Municipio Maneiro",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11,
         "longitude": -63.83333
     },
     {
-        "cityId": "3640582",
+        "cityId": 3640582,
         "name": "Municipio G\u00f3mez",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11.08333,
         "longitude": -63.91667
     },
     {
-        "cityId": "3644510",
+        "cityId": 3644510,
         "name": "Municipio D\u00edaz",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 10.98333,
         "longitude": -64.15
     },
     {
-        "cityId": "3648881",
+        "cityId": 3648881,
         "name": "Municipio Arismendi",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11.05291,
         "longitude": -63.84911
     },
     {
-        "cityId": "8129156",
+        "cityId": 8129156,
         "name": "Municipio Garc\u00eda",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 10.98283,
         "longitude": -63.8831
     },
     {
-        "cityId": "8131448",
+        "cityId": 8131448,
         "name": "Municipio Antol\u00edn del Campo",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11.10758,
         "longitude": -63.8564
     },
     {
-        "cityId": "8131449",
+        "cityId": 8131449,
         "name": "Municipio Marcano",
-        "stateId": "3631462",
+        "stateId": 3631462,
         "latitude": 11.08307,
         "longitude": -63.96412
     }

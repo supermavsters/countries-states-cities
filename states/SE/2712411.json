@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "2676222",
+        "cityId": 2676222,
         "name": "S\u00f6derhamns Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 61.25371,
         "longitude": 16.94879
     },
     {
-        "cityId": "2680068",
+        "cityId": 2680068,
         "name": "Sandvikens Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 60.55029,
         "longitude": 16.68461
     },
     {
-        "cityId": "2685092",
+        "cityId": 2685092,
         "name": "Ovan\u00e5kers Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 61.33328,
         "longitude": 15.78067
     },
     {
-        "cityId": "2687516",
+        "cityId": 2687516,
         "name": "Ockelbo Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 60.94179,
         "longitude": 16.57003
     },
     {
-        "cityId": "2689383",
+        "cityId": 2689383,
         "name": "Nordanstigs kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 62.05261,
         "longitude": 16.91378
     },
     {
-        "cityId": "2694502",
+        "cityId": 2694502,
         "name": "Ljusdals Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 61.85527,
         "longitude": 15.50695
     },
     {
-        "cityId": "2704611",
+        "cityId": 2704611,
         "name": "Hudiksvalls Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 61.76615,
         "longitude": 16.77055
     },
     {
-        "cityId": "2706055",
+        "cityId": 2706055,
         "name": "Hofors Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 60.49619,
         "longitude": 16.41088
     },
     {
-        "cityId": "2712409",
+        "cityId": 2712409,
         "name": "G\u00e4vle Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 60.6426,
         "longitude": 17.12066
     },
     {
-        "cityId": "2720678",
+        "cityId": 2720678,
         "name": "Bolln\u00e4s Kommun",
-        "stateId": "2712411",
+        "stateId": 2712411,
         "latitude": 61.31418,
         "longitude": 16.41725
     }

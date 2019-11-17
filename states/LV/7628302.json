@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352873",
+        "cityId": 11352873,
         "name": "Dunikas pagasts",
-        "stateId": "7628302",
+        "stateId": 7628302,
         "latitude": 56.27916,
         "longitude": 21.31446
     },
     {
-        "cityId": "11352874",
+        "cityId": 11352874,
         "name": "Rucavas pagasts",
-        "stateId": "7628302",
+        "stateId": 7628302,
         "latitude": 56.16653,
         "longitude": 21.12998
     }

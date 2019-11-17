@@ -1,246 +1,246 @@
 [
     {
-        "cityId": "7530735",
+        "cityId": 7530735,
         "name": "Powiat k\u0119pi\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.24852,
         "longitude": 17.95934
     },
     {
-        "cityId": "7530767",
+        "cityId": 7530767,
         "name": "Powiat kaliski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.78921,
         "longitude": 18.20809
     },
     {
-        "cityId": "7530802",
+        "cityId": 7530802,
         "name": "Powiat obornicki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.71705,
         "longitude": 16.85437
     },
     {
-        "cityId": "7530858",
+        "cityId": 7530858,
         "name": "Pozna\u0144",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.40063,
         "longitude": 16.90154
     },
     {
-        "cityId": "7530862",
+        "cityId": 7530862,
         "name": "Powiat pleszewski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.92526,
         "longitude": 17.7785
     },
     {
-        "cityId": "7530863",
+        "cityId": 7530863,
         "name": "Kalisz",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.74725,
         "longitude": 18.07606
     },
     {
-        "cityId": "7530902",
+        "cityId": 7530902,
         "name": "Powiat krotoszy\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.74174,
         "longitude": 17.42125
     },
     {
-        "cityId": "7530903",
+        "cityId": 7530903,
         "name": "Powiat leszczy\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.8501,
         "longitude": 16.5012
     },
     {
-        "cityId": "7530944",
+        "cityId": 7530944,
         "name": "Powiat koni\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.25965,
         "longitude": 18.29616
     },
     {
-        "cityId": "7530945",
+        "cityId": 7530945,
         "name": "Powiat pilski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 53.15753,
         "longitude": 16.91465
     },
     {
-        "cityId": "7530946",
+        "cityId": 7530946,
         "name": "Powiat s\u0142upecki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.31422,
         "longitude": 17.90822
     },
     {
-        "cityId": "7530947",
+        "cityId": 7530947,
         "name": "Powiat w\u0105growiecki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.80805,
         "longitude": 17.21077
     },
     {
-        "cityId": "7530948",
+        "cityId": 7530948,
         "name": "Powiat z\u0142otowski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 53.41261,
         "longitude": 16.91516
     },
     {
-        "cityId": "7530954",
+        "cityId": 7530954,
         "name": "Powiat czarnkowsko-trzcianecki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.92885,
         "longitude": 16.34673
     },
     {
-        "cityId": "7530956",
+        "cityId": 7530956,
         "name": "Powiat mi\u0119dzychodzki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.60187,
         "longitude": 16.05741
     },
     {
-        "cityId": "7530957",
+        "cityId": 7530957,
         "name": "Powiat nowotomyski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.34837,
         "longitude": 16.15849
     },
     {
-        "cityId": "7530958",
+        "cityId": 7530958,
         "name": "Powiat wolszty\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.08791,
         "longitude": 16.14983
     },
     {
-        "cityId": "7530963",
+        "cityId": 7530963,
         "name": "Konin",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.25622,
         "longitude": 18.26219
     },
     {
-        "cityId": "7530993",
+        "cityId": 7530993,
         "name": "Leszno",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.84408,
         "longitude": 16.57593
     },
     {
-        "cityId": "7530994",
+        "cityId": 7530994,
         "name": "Powiat pozna\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.32443,
         "longitude": 16.86539
     },
     {
-        "cityId": "7530995",
+        "cityId": 7530995,
         "name": "Powiat szamotulski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.58391,
         "longitude": 16.37726
     },
     {
-        "cityId": "7530996",
+        "cityId": 7530996,
         "name": "Powiat wrzesi\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.24091,
         "longitude": 17.59019
     },
     {
-        "cityId": "7531004",
+        "cityId": 7531004,
         "name": "Powiat turecki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.99581,
         "longitude": 18.49301
     },
     {
-        "cityId": "7531043",
+        "cityId": 7531043,
         "name": "Powiat ostrowski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.60798,
         "longitude": 17.8503
     },
     {
-        "cityId": "7531044",
+        "cityId": 7531044,
         "name": "Powiat ostrzeszowski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.43768,
         "longitude": 18.04334
     },
     {
-        "cityId": "7531045",
+        "cityId": 7531045,
         "name": "Powiat rawicki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.64507,
         "longitude": 16.94944
     },
     {
-        "cityId": "7531073",
+        "cityId": 7531073,
         "name": "Powiat gosty\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 51.8368,
         "longitude": 17.03471
     },
     {
-        "cityId": "7531074",
+        "cityId": 7531074,
         "name": "Powiat grodziski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.16038,
         "longitude": 16.33566
     },
     {
-        "cityId": "7531075",
+        "cityId": 7531075,
         "name": "Powiat jaroci\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.00901,
         "longitude": 17.45497
     },
     {
-        "cityId": "7531076",
+        "cityId": 7531076,
         "name": "Powiat ko\u015bcia\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.06616,
         "longitude": 16.71514
     },
     {
-        "cityId": "7531077",
+        "cityId": 7531077,
         "name": "Powiat chodzieski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.95289,
         "longitude": 17.01545
     },
     {
-        "cityId": "7531079",
+        "cityId": 7531079,
         "name": "Powiat \u015bredzki",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.1801,
         "longitude": 17.30686
     },
     {
-        "cityId": "7531080",
+        "cityId": 7531080,
         "name": "Powiat \u015bremski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.06149,
         "longitude": 17.05853
     },
     {
-        "cityId": "7531081",
+        "cityId": 7531081,
         "name": "Powiat gnie\u017anie\u0144ski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.55359,
         "longitude": 17.5714
     },
     {
-        "cityId": "7531082",
+        "cityId": 7531082,
         "name": "Powiat kolski",
-        "stateId": "3337498",
+        "stateId": 3337498,
         "latitude": 52.24446,
         "longitude": 18.78096
     }

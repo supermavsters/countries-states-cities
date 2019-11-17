@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3491797",
+        "cityId": 3491797,
         "name": "Yamas\u00e1",
-        "stateId": "3496132",
+        "stateId": 3496132,
         "latitude": 18.78333,
         "longitude": -70.05
     },
     {
-        "cityId": "3493483",
+        "cityId": 3493483,
         "name": "Sabana Grande de Boy\u00e1",
-        "stateId": "3496132",
+        "stateId": 3496132,
         "latitude": 19,
         "longitude": -69.83333
     },
     {
-        "cityId": "3496135",
+        "cityId": 3496135,
         "name": "Monte Plata",
-        "stateId": "3496132",
+        "stateId": 3496132,
         "latitude": 18.75,
         "longitude": -69.85
     },
     {
-        "cityId": "3511627",
+        "cityId": 3511627,
         "name": "Bayaguana",
-        "stateId": "3496132",
+        "stateId": 3496132,
         "latitude": 18.78333,
         "longitude": -69.6
     },
     {
-        "cityId": "11154579",
+        "cityId": 11154579,
         "name": "Peralvillo",
-        "stateId": "3496132",
+        "stateId": 3496132,
         "latitude": 18.85025,
         "longitude": -70.05637
     }

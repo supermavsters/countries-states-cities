@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "7647506",
+        "cityId": 7647506,
         "name": "Sekyere Afram Plains",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.9,
         "longitude": -1.28333
     },
     {
-        "cityId": "7648924",
+        "cityId": 7648924,
         "name": "Adansi North",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.28333,
         "longitude": -1.51667
     },
     {
-        "cityId": "7648925",
+        "cityId": 7648925,
         "name": "Adansi South",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.06667,
         "longitude": -1.4
     },
     {
-        "cityId": "7648927",
+        "cityId": 7648927,
         "name": "Afigya-Kwabre District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.98644,
         "longitude": -1.55794
     },
     {
-        "cityId": "7648930",
+        "cityId": 7648930,
         "name": "Ahafo Ano North",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 7,
         "longitude": -2.16667
     },
     {
-        "cityId": "7648931",
+        "cityId": 7648931,
         "name": "Ahafo Ano South",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.91784,
         "longitude": -1.95763
     },
     {
-        "cityId": "7648938",
+        "cityId": 7648938,
         "name": "Amansie Central",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.25421,
         "longitude": -1.75069
     },
     {
-        "cityId": "7648939",
+        "cityId": 7648939,
         "name": "Amansie West",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.46667,
         "longitude": -1.88333
     },
     {
-        "cityId": "7648942",
+        "cityId": 7648942,
         "name": "Asante Akim North",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.61667,
         "longitude": -1.21667
     },
     {
-        "cityId": "7648943",
+        "cityId": 7648943,
         "name": "Asante Akim South District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.478,
         "longitude": -1.084
     },
     {
-        "cityId": "7648951",
+        "cityId": 7648951,
         "name": "Atwima Kwanwoma",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.65,
         "longitude": -1.73333
     },
     {
-        "cityId": "7648952",
+        "cityId": 7648952,
         "name": "Atwima Mponua",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.6,
         "longitude": -2.11667
     },
     {
-        "cityId": "7648953",
+        "cityId": 7648953,
         "name": "Atwima Nwabiagya",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.66667,
         "longitude": -1.81667
     },
     {
-        "cityId": "7648957",
+        "cityId": 7648957,
         "name": "Bekwai",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.45,
         "longitude": -1.58333
     },
     {
-        "cityId": "7648967",
+        "cityId": 7648967,
         "name": "Bosome Freho",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.41667,
         "longitude": -1.33333
     },
     {
-        "cityId": "7648968",
+        "cityId": 7648968,
         "name": "Bosomtwe",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.53333,
         "longitude": -1.48333
     },
     {
-        "cityId": "7648977",
+        "cityId": 7648977,
         "name": "Ejisu Juaben",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.68,
         "longitude": -1.379
     },
     {
-        "cityId": "7648978",
+        "cityId": 7648978,
         "name": "Ejura Sekyedumase",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 7.375,
         "longitude": -1.432
     },
     {
-        "cityId": "7649000",
+        "cityId": 7649000,
         "name": "Kumasi",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.68333,
         "longitude": -1.61667
     },
     {
-        "cityId": "7649001",
+        "cityId": 7649001,
         "name": "Kwabre District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.78333,
         "longitude": -1.56667
     },
     {
-        "cityId": "7649012",
+        "cityId": 7649012,
         "name": "Mampong",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 7.06667,
         "longitude": -1.4
     },
     {
-        "cityId": "7649023",
+        "cityId": 7649023,
         "name": "Obuasi",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 5.99348,
         "longitude": -1.67067
     },
     {
-        "cityId": "7649024",
+        "cityId": 7649024,
         "name": "Offinso",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.9,
         "longitude": -1.65
     },
     {
-        "cityId": "7649025",
+        "cityId": 7649025,
         "name": "Offinso North",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 7.4,
         "longitude": -1.95
     },
     {
-        "cityId": "7649033",
+        "cityId": 7649033,
         "name": "Sekyere Central",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 7.01667,
         "longitude": -1.38333
     },
     {
-        "cityId": "7649035",
+        "cityId": 7649035,
         "name": "Sekyere East",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.84684,
         "longitude": -1.39612
     },
     {
-        "cityId": "7649037",
+        "cityId": 7649037,
         "name": "Sekyere South",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.93333,
         "longitude": -1.48333
     },
     {
-        "cityId": "8299695",
+        "cityId": 8299695,
         "name": "Kumasi Metropolitan District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.68333,
         "longitude": -1.61667
     },
     {
-        "cityId": "10400449",
+        "cityId": 10400449,
         "name": "Obuasi Municipal District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.2,
         "longitude": -1.68333
     },
     {
-        "cityId": "11205009",
+        "cityId": 11205009,
         "name": "Offinso Municipal District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.989,
         "longitude": -1.69
     },
     {
-        "cityId": "11205295",
+        "cityId": 11205295,
         "name": "Bekwai Municipal District",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.3569,
         "longitude": -1.3685
     },
     {
-        "cityId": "11353026",
+        "cityId": 11353026,
         "name": "Amansie East",
-        "stateId": "2304116",
+        "stateId": 2304116,
         "latitude": 6.34896,
         "longitude": -1.34312
     }

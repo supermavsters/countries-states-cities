@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "11820784",
+        "cityId": 11820784,
         "name": "Lavalleja",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -31.08196,
         "longitude": -57.00585
     },
     {
-        "cityId": "11820785",
+        "cityId": 11820785,
         "name": "San Antonio",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -31.38503,
         "longitude": -57.75688
     },
     {
-        "cityId": "11820786",
+        "cityId": 11820786,
         "name": "Mataojo",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -31.16385,
         "longitude": -56.32533
     },
     {
-        "cityId": "11820805",
+        "cityId": 11820805,
         "name": "Villa Constitucion",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -31.12125,
         "longitude": -57.56911
     },
     {
-        "cityId": "11820806",
+        "cityId": 11820806,
         "name": "Pueblo Belen",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -30.85231,
         "longitude": -57.74092
     },
     {
-        "cityId": "11820873",
+        "cityId": 11820873,
         "name": "Rincon De Valentin",
-        "stateId": "3440711",
+        "stateId": 3440711,
         "latitude": -31.35558,
         "longitude": -57.17893
     }

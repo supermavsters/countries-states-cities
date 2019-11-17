@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "3615682",
+        "cityId": 3615682,
         "name": "Municipio de Wiwil\u00ed",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.61667,
         "longitude": -85.86667
     },
     {
-        "cityId": "3616439",
+        "cityId": 3616439,
         "name": "Municipio de Santa Mar\u00eda",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.75,
         "longitude": -86.61667
     },
     {
-        "cityId": "3616869",
+        "cityId": 3616869,
         "name": "Municipio de San Fernando",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.8,
         "longitude": -86.25
     },
     {
-        "cityId": "3617108",
+        "cityId": 3617108,
         "name": "Municipio de Quilal\u00ed",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.6,
         "longitude": -85.88333
     },
     {
-        "cityId": "3617447",
+        "cityId": 3617447,
         "name": "Municipio de Ocotal",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.66667,
         "longitude": -86.45
     },
     {
-        "cityId": "3617542",
+        "cityId": 3617542,
         "name": "Municipio de Murra",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.81667,
         "longitude": -85.83333
     },
     {
-        "cityId": "3617564",
+        "cityId": 3617564,
         "name": "Municipio de Mozonte",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.71667,
         "longitude": -86.35
     },
     {
-        "cityId": "3617803",
+        "cityId": 3617803,
         "name": "Municipio de Macuelizo",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.71667,
         "longitude": -86.55
     },
     {
-        "cityId": "3618951",
+        "cityId": 3618951,
         "name": "Municipio de Jalapa",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.95,
         "longitude": -86
     },
     {
-        "cityId": "3620176",
+        "cityId": 3620176,
         "name": "Municipio de Dipilto",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.76667,
         "longitude": -86.46667
     },
     {
-        "cityId": "3620347",
+        "cityId": 3620347,
         "name": "Municipio de Ciudad Sandino",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.75,
         "longitude": -86.08333
     },
     {
-        "cityId": "3620352",
+        "cityId": 3620352,
         "name": "Municipio de Ciudad Antigua",
-        "stateId": "3617458",
+        "stateId": 3617458,
         "latitude": 13.66667,
         "longitude": -86.16667
     }

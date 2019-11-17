@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9610703",
+        "cityId": 9610703,
         "name": "Kehys-Kainuu",
-        "stateId": "830664",
+        "stateId": 830664,
         "latitude": 64.66528,
         "longitude": 29.10467
     },
     {
-        "cityId": "9610704",
+        "cityId": 9610704,
         "name": "Kajaani",
-        "stateId": "830664",
+        "stateId": 830664,
         "latitude": 64.24515,
         "longitude": 27.9022
     }

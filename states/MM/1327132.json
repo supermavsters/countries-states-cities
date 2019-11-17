@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11154014",
+        "cityId": 11154014,
         "name": "Falam",
-        "stateId": "1327132",
+        "stateId": 1327132,
         "latitude": 23.42199,
         "longitude": 93.71488
     },
     {
-        "cityId": "11154015",
+        "cityId": 11154015,
         "name": "Hakha",
-        "stateId": "1327132",
+        "stateId": 1327132,
         "latitude": 22.51244,
         "longitude": 93.56355
     },
     {
-        "cityId": "11154016",
+        "cityId": 11154016,
         "name": "Mindat",
-        "stateId": "1327132",
+        "stateId": 1327132,
         "latitude": 21.48455,
         "longitude": 93.39837
     }

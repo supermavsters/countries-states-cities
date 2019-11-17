@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "153093",
+        "cityId": 153093,
         "name": "Mpwapwa",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -6.68257,
         "longitude": 36.32145
     },
     {
-        "cityId": "156509",
+        "cityId": 156509,
         "name": "Kondoa",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -4.70931,
         "longitude": 35.86227
     },
     {
-        "cityId": "7628450",
+        "cityId": 7628450,
         "name": "Chamwino",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -6.11325,
         "longitude": 36.09558
     },
     {
-        "cityId": "7628451",
+        "cityId": 7628451,
         "name": "Bahi District",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -5.93792,
         "longitude": 35.28886
     },
     {
-        "cityId": "7647659",
+        "cityId": 7647659,
         "name": "Kongwa",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -6.2,
         "longitude": 36.417
     },
     {
-        "cityId": "7731058",
+        "cityId": 7731058,
         "name": "Dodoma Urban District",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -6.15973,
         "longitude": 35.798
     },
     {
-        "cityId": "9998004",
+        "cityId": 9998004,
         "name": "Chemba",
-        "stateId": "160192",
+        "stateId": 160192,
         "latitude": -5.33774,
         "longitude": 35.69138
     }

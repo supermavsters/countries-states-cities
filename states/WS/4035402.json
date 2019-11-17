@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "4035421",
+        "cityId": 4035421,
         "name": "Aleipata Itupa i Lalo",
-        "stateId": "4035402",
+        "stateId": 4035402,
         "latitude": -14.00844,
         "longitude": -171.42867
     },
     {
-        "cityId": "7668017",
+        "cityId": 7668017,
         "name": "Aleipata Itupa i Luga",
-        "stateId": "4035402",
+        "stateId": 4035402,
         "latitude": -14.03425,
         "longitude": -171.4635
     },
     {
-        "cityId": "7668018",
+        "cityId": 7668018,
         "name": "Lepa",
-        "stateId": "4035402",
+        "stateId": 4035402,
         "latitude": -14.01927,
         "longitude": -171.51631
     }

@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "8010460",
+        "cityId": 8010460,
         "name": "Alf\u00e2ndega da F\u00e9",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.3495,
         "longitude": -6.95063
     },
     {
-        "cityId": "8010461",
+        "cityId": 8010461,
         "name": "Bragan\u00e7a Municipality",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.75608,
         "longitude": -6.75535
     },
     {
-        "cityId": "8010462",
+        "cityId": 8010462,
         "name": "Carrazeda de Ansi\u00e3es",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.23424,
         "longitude": -7.31129
     },
     {
-        "cityId": "8010463",
+        "cityId": 8010463,
         "name": "Freixo de Espada \u00c0 Cinta",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.12344,
         "longitude": -6.82463
     },
     {
-        "cityId": "8010464",
+        "cityId": 8010464,
         "name": "Macedo de Cavaleiros",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.55132,
         "longitude": -6.93355
     },
     {
-        "cityId": "8010465",
+        "cityId": 8010465,
         "name": "Miranda do Douro",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.51902,
         "longitude": -6.35449
     },
     {
-        "cityId": "8010466",
+        "cityId": 8010466,
         "name": "Mirandela",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.50098,
         "longitude": -7.19185
     },
     {
-        "cityId": "8010467",
+        "cityId": 8010467,
         "name": "Mogadouro",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.34193,
         "longitude": -6.71934
     },
     {
-        "cityId": "8010468",
+        "cityId": 8010468,
         "name": "Torre de Moncorvo",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.17922,
         "longitude": -7.0358
     },
     {
-        "cityId": "8010469",
+        "cityId": 8010469,
         "name": "Vila Flor",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.31429,
         "longitude": -7.15071
     },
     {
-        "cityId": "8010470",
+        "cityId": 8010470,
         "name": "Vimioso",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.57287,
         "longitude": -6.52087
     },
     {
-        "cityId": "8010471",
+        "cityId": 8010471,
         "name": "Vinhais",
-        "stateId": "2742026",
+        "stateId": 2742026,
         "latitude": 41.83104,
         "longitude": -7.04061
     }

@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1849903",
+        "cityId": 1849903,
         "name": "Tosu Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.37825,
         "longitude": 130.49001
     },
     {
-        "cityId": "1850771",
+        "cityId": 1850771,
         "name": "Taku Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.27829,
         "longitude": 130.10523
     },
     {
-        "cityId": "1850832",
+        "cityId": 1850832,
         "name": "Takeo Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.20413,
         "longitude": 129.99775
     },
     {
-        "cityId": "1853274",
+        "cityId": 1853274,
         "name": "Saga Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.32558,
         "longitude": 130.2643
     },
     {
-        "cityId": "1854650",
+        "cityId": 1854650,
         "name": "Ogi-shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.26667,
         "longitude": 130.2
     },
     {
-        "cityId": "1855238",
+        "cityId": 1855238,
         "name": "Nishimatsuura-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.19924,
         "longitude": 129.86473
     },
     {
-        "cityId": "1856784",
+        "cityId": 1856784,
         "name": "Miyaki-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.35298,
         "longitude": 130.45711
     },
     {
-        "cityId": "1859936",
+        "cityId": 1859936,
         "name": "Kashima Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.06203,
         "longitude": 130.09396
     },
     {
-        "cityId": "1862779",
+        "cityId": 1862779,
         "name": "Higashimatsuura-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.4786,
         "longitude": 129.86542
     },
     {
-        "cityId": "7391354",
+        "cityId": 7391354,
         "name": "Fujitsu-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 32.9967,
         "longitude": 130.15037
     },
     {
-        "cityId": "7391355",
+        "cityId": 7391355,
         "name": "Imari Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.30409,
         "longitude": 129.88598
     },
     {
-        "cityId": "7391356",
+        "cityId": 7391356,
         "name": "Kanzaki-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.3632,
         "longitude": 130.4
     },
     {
-        "cityId": "7391357",
+        "cityId": 7391357,
         "name": "Kanzaki Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.34446,
         "longitude": 130.35883
     },
     {
-        "cityId": "7391358",
+        "cityId": 7391358,
         "name": "Kishima-gun",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.18156,
         "longitude": 130.14715
     },
     {
-        "cityId": "7391363",
+        "cityId": 7391363,
         "name": "Ureshino Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.09558,
         "longitude": 130.01495
     },
     {
-        "cityId": "8300623",
+        "cityId": 8300623,
         "name": "Karatsu Shi",
-        "stateId": "1853299",
+        "stateId": 1853299,
         "latitude": 33.41802,
         "longitude": 129.99775
     }

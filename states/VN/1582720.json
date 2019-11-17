@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1905542",
+        "cityId": 1905542,
         "name": "Th\u00e0nh Ph\u1ed1 Bi\u00ean H\u00f2a",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.9575,
         "longitude": 106.84264
     },
     {
-        "cityId": "1905543",
+        "cityId": 1905543,
         "name": "Huy\u1ec7n V\u0129nh C\u1eedu",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 11.25725,
         "longitude": 107.02773
     },
     {
-        "cityId": "1905544",
+        "cityId": 1905544,
         "name": "Huy\u1ec7n Th\u1ed1ng Nh\u1ea5t",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.97764,
         "longitude": 107.15909
     },
     {
-        "cityId": "1905545",
+        "cityId": 1905545,
         "name": "Huy\u1ec7n Long Th\u00e0nh",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.76162,
         "longitude": 107.02688
     },
     {
-        "cityId": "1905546",
+        "cityId": 1905546,
         "name": "Huy\u1ec7n Nh\u01a1n Tr\u1ea1ch",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.69692,
         "longitude": 106.88205
     },
     {
-        "cityId": "1905547",
+        "cityId": 1905547,
         "name": "Th\u1ecb X\u00e3 Long Kh\u00e1nh",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.93653,
         "longitude": 107.22555
     },
     {
-        "cityId": "1905548",
+        "cityId": 1905548,
         "name": "Huy\u1ec7n Xu\u00e2n L\u1ed9c",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.91163,
         "longitude": 107.43642
     },
     {
-        "cityId": "1905549",
+        "cityId": 1905549,
         "name": "Huy\u1ec7n \u0110\u1ecbnh Qu\u00e1n",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 11.21866,
         "longitude": 107.33959
     },
     {
-        "cityId": "1905550",
+        "cityId": 1905550,
         "name": "Huy\u1ec7n T\u00e2n Ph\u00fa",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 11.39867,
         "longitude": 107.39976
     },
     {
-        "cityId": "9075679",
+        "cityId": 9075679,
         "name": "Huy\u1ec7n C\u1ea9m M\u1ef9",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.80894,
         "longitude": 107.25284
     },
     {
-        "cityId": "9075680",
+        "cityId": 9075680,
         "name": "Huy\u1ec7n Tr\u1ea3ng Bom",
-        "stateId": "1582720",
+        "stateId": 1582720,
         "latitude": 10.96624,
         "longitude": 107.03614
     }

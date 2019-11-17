@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3832131",
+        "cityId": 3832131,
         "name": "Departamento de Zapala",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -39,
         "longitude": -69.83333
     },
     {
-        "cityId": "3841298",
+        "cityId": 3841298,
         "name": "Departamento de Pic\u00fan Leuf\u00fa",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -39.5,
         "longitude": -69.5
     },
     {
-        "cityId": "3841303",
+        "cityId": 3841303,
         "name": "Departamento de Picunches",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -38.53333,
         "longitude": -70.25
     },
     {
-        "cityId": "3841673",
+        "cityId": 3841673,
         "name": "Departamento de Pehuenches",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -37.5,
         "longitude": -69.33333
     },
     {
-        "cityId": "3842991",
+        "cityId": 3842991,
         "name": "Departamento de \u00d1orqu\u00edn",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -37.75,
         "longitude": -70.58333
     },
     {
-        "cityId": "3844208",
+        "cityId": 3844208,
         "name": "Departamento de Minas",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -36.83333,
         "longitude": -70.83333
     },
     {
-        "cityId": "3846077",
+        "cityId": 3846077,
         "name": "Departamento de Los Lagos",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -40.75,
         "longitude": -71.41667
     },
     {
-        "cityId": "3846632",
+        "cityId": 3846632,
         "name": "Departamento de Loncopu\u00e9",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -38.08333,
         "longitude": -70.33333
     },
     {
-        "cityId": "3852288",
+        "cityId": 3852288,
         "name": "Departamento de L\u00e1car",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -40.25,
         "longitude": -71.2
     },
     {
-        "cityId": "3853984",
+        "cityId": 3853984,
         "name": "Departamento de Huiliches",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -39.75,
         "longitude": -71.33333
     },
     {
-        "cityId": "3860360",
+        "cityId": 3860360,
         "name": "Departamento de Confluencia",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -38.83333,
         "longitude": -68.83333
     },
     {
-        "cityId": "3860849",
+        "cityId": 3860849,
         "name": "Departamento de Coll\u00f3n-Cur\u00e1",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -40.08333,
         "longitude": -70.16667
     },
     {
-        "cityId": "3861261",
+        "cityId": 3861261,
         "name": "Departamento de Chos-Malal",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -36.91667,
         "longitude": -70.16667
     },
     {
-        "cityId": "3862279",
+        "cityId": 3862279,
         "name": "Departamento de Cat\u00e1n-Lil",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -39.5,
         "longitude": -70.33333
     },
     {
-        "cityId": "3865775",
+        "cityId": 3865775,
         "name": "Departamento de A\u00f1elo",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -38.16667,
         "longitude": -69
     },
     {
-        "cityId": "3865999",
+        "cityId": 3865999,
         "name": "Departamento de Alumin\u00e9",
-        "stateId": "3843122",
+        "stateId": 3843122,
         "latitude": -39.16667,
         "longitude": -71
     }

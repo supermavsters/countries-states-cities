@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8613240",
+        "cityId": 8613240,
         "name": "Kabupaten Bulungan",
-        "stateId": "8604684",
+        "stateId": 8604684,
         "latitude": 3,
         "longitude": 117.16667
     },
     {
-        "cityId": "8613334",
+        "cityId": 8613334,
         "name": "Kota Tarakan",
-        "stateId": "8604684",
+        "stateId": 8604684,
         "latitude": 3.36667,
         "longitude": 117.6
     },
     {
-        "cityId": "8613353",
+        "cityId": 8613353,
         "name": "Kabupaten Malinau",
-        "stateId": "8604684",
+        "stateId": 8604684,
         "latitude": 2.45,
         "longitude": 115.68333
     },
     {
-        "cityId": "8613360",
+        "cityId": 8613360,
         "name": "Kabupaten Nunukan",
-        "stateId": "8604684",
+        "stateId": 8604684,
         "latitude": 4.13333,
         "longitude": 116.7
     },
     {
-        "cityId": "8613361",
+        "cityId": 8613361,
         "name": "Kabupaten Tana Tidung",
-        "stateId": "8604684",
+        "stateId": 8604684,
         "latitude": 3.55,
         "longitude": 117.25
     }

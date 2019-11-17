@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9255562",
+        "cityId": 9255562,
         "name": "North Goa",
-        "stateId": "1271157",
+        "stateId": 1271157,
         "latitude": 15.53397,
         "longitude": 73.96408
     },
     {
-        "cityId": "9255567",
+        "cityId": 9255567,
         "name": "South Goa",
-        "stateId": "1271157",
+        "stateId": 1271157,
         "latitude": 15.20425,
         "longitude": 74.16733
     }

@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "6618754",
+        "cityId": 6618754,
         "name": "Dalanjargalan",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 45.91079,
         "longitude": 109.0666
     },
     {
-        "cityId": "6618755",
+        "cityId": 6618755,
         "name": "Ayrag",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 45.79434,
         "longitude": 109.31671
     },
     {
-        "cityId": "6618756",
+        "cityId": 6618756,
         "name": "Ihhet",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 46.24065,
         "longitude": 110.16644
     },
     {
-        "cityId": "6618757",
+        "cityId": 6618757,
         "name": "Altanshiree",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 45.52439,
         "longitude": 110.46684
     },
     {
-        "cityId": "6618758",
+        "cityId": 6618758,
         "name": "Delgereh",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 45.7941,
         "longitude": 111.19984
     },
     {
-        "cityId": "6618760",
+        "cityId": 6618760,
         "name": "Saynshand",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.88689,
         "longitude": 110.13451
     },
     {
-        "cityId": "6618761",
+        "cityId": 6618761,
         "name": "\u00d6rg\u00f6n",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.70893,
         "longitude": 110.76759
     },
     {
-        "cityId": "6618762",
+        "cityId": 6618762,
         "name": "Erdene",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.43439,
         "longitude": 111.09083
     },
     {
-        "cityId": "6618763",
+        "cityId": 6618763,
         "name": "Dzamyn \u00dc\u00fcd",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 43.73365,
         "longitude": 111.90605
     },
     {
-        "cityId": "6618764",
+        "cityId": 6618764,
         "name": "Ulaanbadrah",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 43.57455,
         "longitude": 110.46684
     },
     {
-        "cityId": "6618765",
+        "cityId": 6618765,
         "name": "Sayhandulaan",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.67842,
         "longitude": 109.01648
     },
     {
-        "cityId": "6618766",
+        "cityId": 6618766,
         "name": "Mandah",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.3943,
         "longitude": 108.25001
     },
     {
-        "cityId": "6618767",
+        "cityId": 6618767,
         "name": "H\u00f6vsg\u00f6l",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 43.5983,
         "longitude": 109.63875
     },
     {
-        "cityId": "6618768",
+        "cityId": 6618768,
         "name": "Hatanbulag",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 43.14546,
         "longitude": 109.13338
     },
     {
-        "cityId": "6618771",
+        "cityId": 6618771,
         "name": "Shiveegov\u012d",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 46.12037,
         "longitude": 108.65067
     },
     {
-        "cityId": "6997394",
+        "cityId": 6997394,
         "name": "Saynshand Sum",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 44.6254,
         "longitude": 109.88193
     },
     {
-        "cityId": "6999252",
+        "cityId": 6999252,
         "name": "Dzam\u00efn-\u00dc\u00fcd Sum",
-        "stateId": "2031798",
+        "stateId": 2031798,
         "latitude": 43.76655,
         "longitude": 111.8943
     }

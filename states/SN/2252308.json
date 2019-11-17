@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2248699",
+        "cityId": 2248699,
         "name": "Mback\u00e9",
-        "stateId": "2252308",
+        "stateId": 2252308,
         "latitude": 14.80828,
         "longitude": -15.86454
     },
     {
-        "cityId": "2249283",
+        "cityId": 2249283,
         "name": "Linguere Department",
-        "stateId": "2252308",
+        "stateId": 2252308,
         "latitude": 15.359,
         "longitude": -15.158
     },
     {
-        "cityId": "2252312",
+        "cityId": 2252312,
         "name": "Diourbel",
-        "stateId": "2252308",
+        "stateId": 2252308,
         "latitude": 14.77831,
         "longitude": -16.22319
     },
     {
-        "cityId": "2254315",
+        "cityId": 2254315,
         "name": "Bambey",
-        "stateId": "2252308",
+        "stateId": 2252308,
         "latitude": 14.80266,
         "longitude": -16.48258
     }

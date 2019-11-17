@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "2667872",
+        "cityId": 2667872,
         "name": "Torsby Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 60.56939,
         "longitude": 12.93837
     },
     {
-        "cityId": "2670703",
+        "cityId": 2670703,
         "name": "Sunne Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.90378,
         "longitude": 13.0442
     },
     {
-        "cityId": "2672047",
+        "cityId": 2672047,
         "name": "Storfors Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.49478,
         "longitude": 14.24733
     },
     {
-        "cityId": "2680762",
+        "cityId": 2680762,
         "name": "S\u00e4ffle Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.19559,
         "longitude": 12.86437
     },
     {
-        "cityId": "2690828",
+        "cityId": 2690828,
         "name": "Munkfors Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.81625,
         "longitude": 13.49458
     },
     {
-        "cityId": "2699281",
+        "cityId": 2699281,
         "name": "Kristinehamns Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.25288,
         "longitude": 14.13593
     },
     {
-        "cityId": "2700878",
+        "cityId": 2700878,
         "name": "Kils Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.50406,
         "longitude": 13.3174
     },
     {
-        "cityId": "2701679",
+        "cityId": 2701679,
         "name": "Karlstads Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.47409,
         "longitude": 13.59961
     },
     {
-        "cityId": "2708180",
+        "cityId": 2708180,
         "name": "Hammar\u00f6 Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.30699,
         "longitude": 13.54869
     },
     {
-        "cityId": "2709213",
+        "cityId": 2709213,
         "name": "Hagfors Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 60.08997,
         "longitude": 13.60757
     },
     {
-        "cityId": "2710341",
+        "cityId": 2710341,
         "name": "Grums Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.40406,
         "longitude": 13.02192
     },
     {
-        "cityId": "2713969",
+        "cityId": 2713969,
         "name": "Forshaga Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.64596,
         "longitude": 13.50572
     },
     {
-        "cityId": "2715080",
+        "cityId": 2715080,
         "name": "Filipstads Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.87354,
         "longitude": 14.14706
     },
     {
-        "cityId": "2716958",
+        "cityId": 2716958,
         "name": "Eda kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.8,
         "longitude": 12.21667
     },
     {
-        "cityId": "2725122",
+        "cityId": 2725122,
         "name": "Arvika Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.70484,
         "longitude": 12.63202
     },
     {
-        "cityId": "2725378",
+        "cityId": 2725378,
         "name": "\u00c5rj\u00e4ngs Kommun",
-        "stateId": "2664870",
+        "stateId": 2664870,
         "latitude": 59.43589,
         "longitude": 12.10366
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3932833",
+        "cityId": 3932833,
         "name": "Provincia de Pasco",
-        "stateId": "3932834",
+        "stateId": 3932834,
         "latitude": -10.66667,
         "longitude": -76.08333
     },
     {
-        "cityId": "3933873",
+        "cityId": 3933873,
         "name": "Provincia de Oxapampa",
-        "stateId": "3932834",
+        "stateId": 3932834,
         "latitude": -10.33333,
         "longitude": -75.08333
     },
     {
-        "cityId": "3941507",
+        "cityId": 3941507,
         "name": "Provincia de Daniel Carri\u00f3n",
-        "stateId": "3932834",
+        "stateId": 3932834,
         "latitude": -10.5,
         "longitude": -76.5
     }

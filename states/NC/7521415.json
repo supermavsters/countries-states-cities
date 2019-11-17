@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2139030",
+        "cityId": 2139030,
         "name": "Ouv\u00e9a",
-        "stateId": "7521415",
+        "stateId": 7521415,
         "latitude": -20.6617,
         "longitude": 166.55308
     },
     {
-        "cityId": "2140297",
+        "cityId": 2140297,
         "name": "Mar\u00e9",
-        "stateId": "7521415",
+        "stateId": 7521415,
         "latitude": -21.49109,
         "longitude": 167.99744
     },
     {
-        "cityId": "2140391",
+        "cityId": 2140391,
         "name": "Lifou",
-        "stateId": "7521415",
+        "stateId": 7521415,
         "latitude": -20.96667,
         "longitude": 167.25
     }

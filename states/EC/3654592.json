@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3650185",
+        "cityId": 3650185,
         "name": "Cant\u00f3n Vinces",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.55,
         "longitude": -79.73333
     },
     {
-        "cityId": "3650264",
+        "cityId": 3650264,
         "name": "Cant\u00f3n Ventanas",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.45,
         "longitude": -79.46667
     },
     {
-        "cityId": "3650340",
+        "cityId": 3650340,
         "name": "Cant\u00f3n Urdaneta",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.58333,
         "longitude": -79.46667
     },
     {
-        "cityId": "3652566",
+        "cityId": 3652566,
         "name": "Cant\u00f3n Quevedo",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.01667,
         "longitude": -79.48333
     },
     {
-        "cityId": "3652785",
+        "cityId": 3652785,
         "name": "Cant\u00f3n Puebloviejo",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.55,
         "longitude": -79.53333
     },
     {
-        "cityId": "3660417",
+        "cityId": 3660417,
         "name": "Cant\u00f3n Babahoyo",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.81667,
         "longitude": -79.51667
     },
     {
-        "cityId": "3660421",
+        "cityId": 3660421,
         "name": "Cant\u00f3n Baba",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.78333,
         "longitude": -79.66667
     },
     {
-        "cityId": "8471961",
+        "cityId": 8471961,
         "name": "Cant\u00f3n Valencia",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -0.71187,
         "longitude": -79.37743
     },
     {
-        "cityId": "8471975",
+        "cityId": 8471975,
         "name": "Cant\u00f3n Buena Fe",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -0.61598,
         "longitude": -79.40223
     },
     {
-        "cityId": "10792469",
+        "cityId": 10792469,
         "name": "Mocache",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.18683,
         "longitude": -79.54442
     },
     {
-        "cityId": "10792499",
+        "cityId": 10792499,
         "name": "Montalvo",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.80295,
         "longitude": -79.31703
     },
     {
-        "cityId": "10792500",
+        "cityId": 10792500,
         "name": "Palenque",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.32542,
         "longitude": -79.71102
     },
     {
-        "cityId": "10792544",
+        "cityId": 10792544,
         "name": "Quinsaloma",
-        "stateId": "3654592",
+        "stateId": 3654592,
         "latitude": -1.20726,
         "longitude": -79.31099
     }

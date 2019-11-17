@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7647210",
+        "cityId": 7647210,
         "name": "Phnom Penh",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.5591,
         "longitude": 104.9177
     },
     {
-        "cityId": "8405993",
+        "cityId": 8405993,
         "name": "Khan Russey Keo",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.61946,
         "longitude": 104.9099
     },
     {
-        "cityId": "8405994",
+        "cityId": 8405994,
         "name": "Khan Du\u014fn P\u00e9nh",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.57561,
         "longitude": 104.92025
     },
     {
-        "cityId": "8405995",
+        "cityId": 8405995,
         "name": "Khan Tu\u014fl Ko\u016dk",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.56712,
         "longitude": 104.89964
     },
     {
-        "cityId": "8405996",
+        "cityId": 8405996,
         "name": "Khan 7 Makara",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.56254,
         "longitude": 104.91405
     },
     {
-        "cityId": "8405998",
+        "cityId": 8405998,
         "name": "Khan Ch\u00e2mkar Mon",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.5439,
         "longitude": 104.92175
     },
     {
-        "cityId": "8405999",
+        "cityId": 8405999,
         "name": "Khan Saen Sokh",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.61289,
         "longitude": 104.86078
     },
     {
-        "cityId": "8406000",
+        "cityId": 8406000,
         "name": "Khan M\u00e9an Chey",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.51976,
         "longitude": 104.95467
     },
     {
-        "cityId": "8406003",
+        "cityId": 8406003,
         "name": "Khan Chey Por Senchey",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.56309,
         "longitude": 104.78906
     },
     {
-        "cityId": "8406190",
+        "cityId": 8406190,
         "name": "Khan D\u00e2ngka\u00f4",
-        "stateId": "1830103",
+        "stateId": 1830103,
         "latitude": 11.52457,
         "longitude": 104.83944
     }

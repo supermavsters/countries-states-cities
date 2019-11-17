@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7670587",
+        "cityId": 7670587,
         "name": "Bubanza",
-        "stateId": "428514",
+        "stateId": 428514,
         "latitude": -3.05209,
         "longitude": 29.36963
     },
     {
-        "cityId": "8303259",
+        "cityId": 8303259,
         "name": "Commune of Gihanga",
-        "stateId": "428514",
+        "stateId": 428514,
         "latitude": -3.192,
         "longitude": 29.294
     },
     {
-        "cityId": "9072887",
+        "cityId": 9072887,
         "name": "Commune of Mpanda",
-        "stateId": "428514",
+        "stateId": 428514,
         "latitude": -3.2,
         "longitude": 29.4
     },
     {
-        "cityId": "9072888",
+        "cityId": 9072888,
         "name": "Commune of Musigati",
-        "stateId": "428514",
+        "stateId": 428514,
         "latitude": -3.06667,
         "longitude": 29.43333
     },
     {
-        "cityId": "9171822",
+        "cityId": 9171822,
         "name": "Rugazi",
-        "stateId": "428514",
+        "stateId": 428514,
         "latitude": -3.20675,
         "longitude": 29.48447
     }

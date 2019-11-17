@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11153080",
+        "cityId": 11153080,
         "name": "Folon",
-        "stateId": "11153054",
+        "stateId": 11153054,
         "latitude": 9.81241,
         "longitude": -7.51894
     },
     {
-        "cityId": "11153082",
+        "cityId": 11153082,
         "name": "Kabadougou",
-        "stateId": "11153054",
+        "stateId": 11153054,
         "latitude": 9.60571,
         "longitude": -7.43774
     }

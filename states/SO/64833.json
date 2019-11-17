@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "9179621",
+        "cityId": 9179621,
         "name": "Banadir",
-        "stateId": "64833",
+        "stateId": 64833,
         "latitude": 2.10718,
         "longitude": 45.42684
     },
     {
-        "cityId": "9180017",
+        "cityId": 9180017,
         "name": "Hodan",
-        "stateId": "64833",
+        "stateId": 64833,
         "latitude": 2.03333,
         "longitude": 45.35
     },
     {
-        "cityId": "9180039",
+        "cityId": 9180039,
         "name": "Daynile",
-        "stateId": "64833",
+        "stateId": 64833,
         "latitude": 2.05814,
         "longitude": 45.30029
     }

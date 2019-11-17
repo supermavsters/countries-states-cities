@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "1654392",
+        "cityId": 1654392,
         "name": "Muang Pak-Ou",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.16711,
         "longitude": 102.326
     },
     {
-        "cityId": "1654686",
+        "cityId": 1654686,
         "name": "Muang Ngoy",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.73393,
         "longitude": 102.7515
     },
     {
-        "cityId": "1654833",
+        "cityId": 1654833,
         "name": "Muang Nan",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.40005,
         "longitude": 101.94556
     },
     {
-        "cityId": "1654981",
+        "cityId": 1654981,
         "name": "Muang Nambak",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.61018,
         "longitude": 102.39686
     },
     {
-        "cityId": "1655557",
+        "cityId": 1655557,
         "name": "Muang Louangphabang",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.8226,
         "longitude": 102.15214
     },
     {
-        "cityId": "1904807",
+        "cityId": 1904807,
         "name": "Muang Chomph\u00e9t",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.88723,
         "longitude": 101.96167
     },
     {
-        "cityId": "1904808",
+        "cityId": 1904808,
         "name": "Muang Phou Khoun",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.50724,
         "longitude": 102.59606
     },
     {
-        "cityId": "1904809",
+        "cityId": 1904809,
         "name": "Muang Ph\u00f4nxai",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.88818,
         "longitude": 102.73109
     },
     {
-        "cityId": "1904810",
+        "cityId": 1904810,
         "name": "Muang Pakx\u00e8ng",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.18787,
         "longitude": 102.65544
     },
     {
-        "cityId": "1904811",
+        "cityId": 1904811,
         "name": "Muang Viangkhan",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.49112,
         "longitude": 103.04112
     },
     {
-        "cityId": "11550497",
+        "cityId": 11550497,
         "name": "Xieng ngeun",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 19.75859,
         "longitude": 102.18487
     },
     {
-        "cityId": "11550501",
+        "cityId": 11550501,
         "name": "Phonthong",
-        "stateId": "1655558",
+        "stateId": 1655558,
         "latitude": 20.84149,
         "longitude": 103.11218
     }

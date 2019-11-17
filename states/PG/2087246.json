@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2085584",
+        "cityId": 2085584,
         "name": "Telefomin",
-        "stateId": "2087246",
+        "stateId": 2087246,
         "latitude": -4.91667,
         "longitude": 141.66667
     },
     {
-        "cityId": "2089418",
+        "cityId": 2089418,
         "name": "Nuku",
-        "stateId": "2087246",
+        "stateId": 2087246,
         "latitude": -3.66667,
         "longitude": 142.41667
     },
     {
-        "cityId": "8657189",
+        "cityId": 8657189,
         "name": "Vanimo Green",
-        "stateId": "2087246",
+        "stateId": 2087246,
         "latitude": -3.36667,
         "longitude": 141.35
     },
     {
-        "cityId": "8657198",
+        "cityId": 8657198,
         "name": "Aitape Lumi",
-        "stateId": "2087246",
+        "stateId": 2087246,
         "latitude": -3.25,
         "longitude": 142.08333
     }

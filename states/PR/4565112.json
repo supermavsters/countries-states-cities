@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "7268103",
+        "cityId": 7268103,
         "name": "Consejo Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.05574,
         "longitude": -66.81312
     },
     {
-        "cityId": "7268238",
+        "cityId": 7268238,
         "name": "Barrero Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.07102,
         "longitude": -66.77168
     },
     {
-        "cityId": "7268257",
+        "cityId": 7268257,
         "name": "Boca Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 17.97181,
         "longitude": -66.81577
     },
     {
-        "cityId": "7268365",
+        "cityId": 7268365,
         "name": "Cedro Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.02746,
         "longitude": -66.7517
     },
     {
-        "cityId": "7268440",
+        "cityId": 7268440,
         "name": "Guayanilla Barrio-Pueblo",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.02303,
         "longitude": -66.79143
     },
     {
-        "cityId": "7268493",
+        "cityId": 7268493,
         "name": "Indios Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.00792,
         "longitude": -66.80976
     },
     {
-        "cityId": "7268504",
+        "cityId": 7268504,
         "name": "Jagua Pasto Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.11047,
         "longitude": -66.77601
     },
     {
-        "cityId": "7268509",
+        "cityId": 7268509,
         "name": "Jaguas Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.04061,
         "longitude": -66.79166
     },
     {
-        "cityId": "7268565",
+        "cityId": 7268565,
         "name": "Llano Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.05737,
         "longitude": -66.79798
     },
     {
-        "cityId": "7268580",
+        "cityId": 7268580,
         "name": "Macan\u00e1 Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.05056,
         "longitude": -66.77757
     },
     {
-        "cityId": "7268588",
+        "cityId": 7268588,
         "name": "Magas Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.02673,
         "longitude": -66.77592
     },
     {
-        "cityId": "7268737",
+        "cityId": 7268737,
         "name": "Pasto Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.11471,
         "longitude": -66.79337
     },
     {
-        "cityId": "7268769",
+        "cityId": 7268769,
         "name": "Playa Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.00295,
         "longitude": -66.76837
     },
     {
-        "cityId": "7268856",
+        "cityId": 7268856,
         "name": "Quebrada Honda Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.08231,
         "longitude": -66.77987
     },
     {
-        "cityId": "7268865",
+        "cityId": 7268865,
         "name": "Quebradas Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.03744,
         "longitude": -66.81069
     },
     {
-        "cityId": "7268932",
+        "cityId": 7268932,
         "name": "Rufina Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.00231,
         "longitude": -66.78877
     },
     {
-        "cityId": "7269009",
+        "cityId": 7269009,
         "name": "Sierra Baja Barrio",
-        "stateId": "4565112",
+        "stateId": 4565112,
         "latitude": 18.07763,
         "longitude": -66.79772
     }

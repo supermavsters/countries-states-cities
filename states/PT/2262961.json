@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7732032",
+        "cityId": 7732032,
         "name": "Seixal",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.61173,
         "longitude": -9.10371
     },
     {
-        "cityId": "8010615",
+        "cityId": 8010615,
         "name": "Alc\u00e1cer do Sal",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.3882,
         "longitude": -8.50011
     },
     {
-        "cityId": "8010616",
+        "cityId": 8010616,
         "name": "Alcochete",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.73827,
         "longitude": -8.97936
     },
     {
-        "cityId": "8010617",
+        "cityId": 8010617,
         "name": "Almada",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.68399,
         "longitude": -9.14955
     },
     {
-        "cityId": "8010618",
+        "cityId": 8010618,
         "name": "Barreiro",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.6376,
         "longitude": -9.05168
     },
     {
-        "cityId": "8010619",
+        "cityId": 8010619,
         "name": "Gr\u00e2ndola",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.18999,
         "longitude": -8.61197
     },
     {
-        "cityId": "8010620",
+        "cityId": 8010620,
         "name": "Moita",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.65854,
         "longitude": -9.0104
     },
     {
-        "cityId": "8010621",
+        "cityId": 8010621,
         "name": "Montijo",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.7299,
         "longitude": -8.69364
     },
     {
-        "cityId": "8010622",
+        "cityId": 8010622,
         "name": "Palmela",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.58423,
         "longitude": -8.89996
     },
     {
-        "cityId": "8010623",
+        "cityId": 8010623,
         "name": "Santiago do Cac\u00e9m",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.02502,
         "longitude": -8.67577
     },
     {
-        "cityId": "8010624",
+        "cityId": 8010624,
         "name": "Sesimbra",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.49486,
         "longitude": -9.12011
     },
     {
-        "cityId": "8010625",
+        "cityId": 8010625,
         "name": "Set\u00fabal",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 38.51742,
         "longitude": -8.90817
     },
     {
-        "cityId": "8010626",
+        "cityId": 8010626,
         "name": "Sines",
-        "stateId": "2262961",
+        "stateId": 2262961,
         "latitude": 37.95359,
         "longitude": -8.87117
     }

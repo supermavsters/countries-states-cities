@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "786713",
+        "cityId": 786713,
         "name": "Komuna e Prishtin\u00ebs",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.7,
         "longitude": 21.28333
     },
     {
-        "cityId": "786949",
+        "cityId": 786949,
         "name": "Podujevo",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.9,
         "longitude": 21.2
     },
     {
-        "cityId": "788651",
+        "cityId": 788651,
         "name": "Lipjan",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.5,
         "longitude": 21.11667
     },
     {
-        "cityId": "790697",
+        "cityId": 790697,
         "name": "Komuna e Drenasit",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.6,
         "longitude": 20.86667
     },
     {
-        "cityId": "831099",
+        "cityId": 831099,
         "name": "Kosovo Polje",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.62083,
         "longitude": 21.03972
     },
     {
-        "cityId": "831102",
+        "cityId": 831102,
         "name": "Novo Brdo",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.56667,
         "longitude": 21.4
     },
     {
-        "cityId": "831103",
+        "cityId": 831103,
         "name": "Komuna e Obiliqit",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.68333,
         "longitude": 21.03333
     },
     {
-        "cityId": "8299768",
+        "cityId": 8299768,
         "name": "Komuna e Gra\u00e7anic\u00ebs",
-        "stateId": "10097360",
+        "stateId": 10097360,
         "latitude": 42.57389,
         "longitude": 21.15167
     }

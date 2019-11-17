@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "2302058",
+        "cityId": 2302058,
         "name": "Dagomba",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.5,
         "longitude": -0.25
     },
     {
-        "cityId": "7647382",
+        "cityId": 7647382,
         "name": "Saboba Chereponi",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.91338,
         "longitude": 0.24399
     },
     {
-        "cityId": "7647387",
+        "cityId": 7647387,
         "name": "Nanumba South",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.79217,
         "longitude": 0.11207
     },
     {
-        "cityId": "7647388",
+        "cityId": 7647388,
         "name": "Nanumba North",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.92453,
         "longitude": -0.07468
     },
     {
-        "cityId": "7647389",
+        "cityId": 7647389,
         "name": "Sawla-Tuna-Kalba",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.27324,
         "longitude": -2.41346
     },
     {
-        "cityId": "7647391",
+        "cityId": 7647391,
         "name": "Bunkpurugu-Yunyoo",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 10.4846,
         "longitude": -0.11207
     },
     {
-        "cityId": "7647394",
+        "cityId": 7647394,
         "name": "Karaga",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.90568,
         "longitude": -0.53521
     },
     {
-        "cityId": "7647396",
+        "cityId": 7647396,
         "name": "Gushiegu",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.97027,
         "longitude": -0.18772
     },
     {
-        "cityId": "7647453",
+        "cityId": 7647453,
         "name": "Bole",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.5927,
         "longitude": -2.06783
     },
     {
-        "cityId": "7647454",
+        "cityId": 7647454,
         "name": "Kpandai",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.46667,
         "longitude": -0.01667
     },
     {
-        "cityId": "7647456",
+        "cityId": 7647456,
         "name": "East Gonja",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.57151,
         "longitude": -0.67731
     },
     {
-        "cityId": "7647638",
+        "cityId": 7647638,
         "name": "Saboba",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.70176,
         "longitude": 0.32364
     },
     {
-        "cityId": "7647639",
+        "cityId": 7647639,
         "name": "Chereponi",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 10.13417,
         "longitude": 0.28806
     },
     {
-        "cityId": "7648970",
+        "cityId": 7648970,
         "name": "Central Gonja",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 8.9242,
         "longitude": -1.32349
     },
     {
-        "cityId": "7648975",
+        "cityId": 7648975,
         "name": "East Mamprusi",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 10.53056,
         "longitude": -0.44222
     },
     {
-        "cityId": "7649029",
+        "cityId": 7649029,
         "name": "Savelugu\/Nanton",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.62472,
         "longitude": -0.82778
     },
     {
-        "cityId": "7649051",
+        "cityId": 7649051,
         "name": "Tamale",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.4,
         "longitude": -0.83333
     },
     {
-        "cityId": "7649058",
+        "cityId": 7649058,
         "name": "Tolon\/Kumbungu",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.43333,
         "longitude": -1.06667
     },
     {
-        "cityId": "7649070",
+        "cityId": 7649070,
         "name": "West Gonja",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.08333,
         "longitude": -1.81667
     },
     {
-        "cityId": "7649071",
+        "cityId": 7649071,
         "name": "West Mamprusi",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 10.35,
         "longitude": -0.8
     },
     {
-        "cityId": "7649072",
+        "cityId": 7649072,
         "name": "Yendi",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.43333,
         "longitude": -0.01667
     },
     {
-        "cityId": "7649074",
+        "cityId": 7649074,
         "name": "Zabzugu\/Tatale",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.28333,
         "longitude": 0.36667
     },
     {
-        "cityId": "10303459",
+        "cityId": 10303459,
         "name": "Bole District",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.034,
         "longitude": -2.485
     },
     {
-        "cityId": "10303494",
+        "cityId": 10303494,
         "name": "Gushegu District",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 9.921,
         "longitude": -0.219
     },
     {
-        "cityId": "10303516",
+        "cityId": 10303516,
         "name": "Mamprugo Moaduri District",
-        "stateId": "2297169",
+        "stateId": 2297169,
         "latitude": 10.23304,
         "longitude": -1.28184
     }

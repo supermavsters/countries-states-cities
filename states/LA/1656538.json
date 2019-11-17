@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1655492",
+        "cityId": 1655492,
         "name": "Muang Mahaxai",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.36317,
         "longitude": 105.31497
     },
     {
-        "cityId": "1656537",
+        "cityId": 1656537,
         "name": "Muang Thakh\u00e8k",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.4088,
         "longitude": 104.82639
     },
     {
-        "cityId": "1657260",
+        "cityId": 1657260,
         "name": "Muang Hinboun",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.87674,
         "longitude": 104.59526
     },
     {
-        "cityId": "1657427",
+        "cityId": 1657427,
         "name": "Muang Gn\u00f4mmarat",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.55983,
         "longitude": 105.26487
     },
     {
-        "cityId": "1904788",
+        "cityId": 1904788,
         "name": "Muang Nongb\u00f4k",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.06133,
         "longitude": 104.8239
     },
     {
-        "cityId": "1904789",
+        "cityId": 1904789,
         "name": "Muang Xebangfai",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.1762,
         "longitude": 105.1259
     },
     {
-        "cityId": "1904790",
+        "cityId": 1904790,
         "name": "Muang Xaibouathong",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.18114,
         "longitude": 105.55175
     },
     {
-        "cityId": "1904791",
+        "cityId": 1904791,
         "name": "Muang Boualapha",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.30329,
         "longitude": 105.94077
     },
     {
-        "cityId": "1904793",
+        "cityId": 1904793,
         "name": "Muang Na Kay",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.86886,
         "longitude": 105.29147
     },
     {
-        "cityId": "11550495",
+        "cityId": 11550495,
         "name": "Kounkham",
-        "stateId": "1656538",
+        "stateId": 1656538,
         "latitude": 17.20393,
         "longitude": 105.53123
     }

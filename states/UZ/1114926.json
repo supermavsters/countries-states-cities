@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1215958",
+        "cityId": 1215958,
         "name": "Termiz Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.31667,
         "longitude": 67.5
     },
     {
-        "cityId": "1216113",
+        "cityId": 1216113,
         "name": "Sho\u2018rchi Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38,
         "longitude": 67.83333
     },
     {
-        "cityId": "1216154",
+        "cityId": 1216154,
         "name": "Sherobod Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.75,
         "longitude": 66.83333
     },
     {
-        "cityId": "1216243",
+        "cityId": 1216243,
         "name": "Sariosiyo Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.66667,
         "longitude": 67.8
     },
     {
-        "cityId": "1216571",
+        "cityId": 1216571,
         "name": "Qiziriq Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.66667,
         "longitude": 67.25
     },
     {
-        "cityId": "1216685",
+        "cityId": 1216685,
         "name": "Qumq\u016drghon Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38,
         "longitude": 67.58333
     },
     {
-        "cityId": "1217341",
+        "cityId": 1217341,
         "name": "Muzrabod Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.41667,
         "longitude": 66.83333
     },
     {
-        "cityId": "1217391",
+        "cityId": 1217391,
         "name": "Jarqo\u2018rg\u2018on Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.5,
         "longitude": 67.5
     },
     {
-        "cityId": "1217476",
+        "cityId": 1217476,
         "name": "Denov Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.32684,
         "longitude": 67.83372
     },
     {
-        "cityId": "1217733",
+        "cityId": 1217733,
         "name": "Boysun Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.25,
         "longitude": 67.25
     },
     {
-        "cityId": "1217872",
+        "cityId": 1217872,
         "name": "Angor Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.41667,
         "longitude": 67.16667
     },
     {
-        "cityId": "1217894",
+        "cityId": 1217894,
         "name": "Oltinsoy Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.2,
         "longitude": 67.75
     },
     {
-        "cityId": "1346497",
+        "cityId": 1346497,
         "name": "Uzun Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.16667,
         "longitude": 68.16667
     },
     {
-        "cityId": "1346534",
+        "cityId": 1346534,
         "name": "Bandikhon Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.83333,
         "longitude": 67.36667
     },
     {
-        "cityId": "1346536",
+        "cityId": 1346536,
         "name": "Termiz Shahri",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 37.23917,
         "longitude": 67.27639
     },
     {
-        "cityId": "1346537",
+        "cityId": 1346537,
         "name": "Denov Shahri",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 38.26667,
         "longitude": 67.9
     },
     {
-        "cityId": "1538254",
+        "cityId": 1538254,
         "name": "Yangiy\u016dl Tumani",
-        "stateId": "1114926",
+        "stateId": 1114926,
         "latitude": 41.16667,
         "longitude": 69
     }

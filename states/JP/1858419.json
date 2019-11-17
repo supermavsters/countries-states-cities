@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "1848441",
+        "cityId": 1848441,
         "name": "Yatsushiro Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.49063,
         "longitude": 130.74972
     },
     {
-        "cityId": "1848443",
+        "cityId": 1848443,
         "name": "Yatsushiro-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.57429,
         "longitude": 130.67256
     },
     {
-        "cityId": "1849062",
+        "cityId": 1849062,
         "name": "Uto Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.68092,
         "longitude": 130.61308
     },
     {
-        "cityId": "1850743",
+        "cityId": 1850743,
         "name": "Tamana Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.9155,
         "longitude": 130.56018
     },
     {
-        "cityId": "1850744",
+        "cityId": 1850744,
         "name": "Tamana-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 33.01141,
         "longitude": 130.58194
     },
     {
-        "cityId": "1857206",
+        "cityId": 1857206,
         "name": "Minamata Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.17055,
         "longitude": 130.46211
     },
     {
-        "cityId": "1858418",
+        "cityId": 1858418,
         "name": "Kumamoto Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.79733,
         "longitude": 130.69171
     },
     {
-        "cityId": "1859488",
+        "cityId": 1859488,
         "name": "Kikuchi Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.99107,
         "longitude": 130.85523
     },
     {
-        "cityId": "1859490",
+        "cityId": 1859490,
         "name": "Kikuchi-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.88525,
         "longitude": 130.88046
     },
     {
-        "cityId": "1862350",
+        "cityId": 1862350,
         "name": "Hitoyoshi Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.17298,
         "longitude": 130.74013
     },
     {
-        "cityId": "1864973",
+        "cityId": 1864973,
         "name": "Aso-shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.95608,
         "longitude": 131.09458
     },
     {
-        "cityId": "1864975",
+        "cityId": 1864975,
         "name": "Aso-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.83222,
         "longitude": 131.10229
     },
     {
-        "cityId": "1865168",
+        "cityId": 1865168,
         "name": "Arao Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.97619,
         "longitude": 130.47562
     },
     {
-        "cityId": "1865358",
+        "cityId": 1865358,
         "name": "Amakusa Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.38515,
         "longitude": 130.15014
     },
     {
-        "cityId": "1865360",
+        "cityId": 1865360,
         "name": "Amakusa Gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.48513,
         "longitude": 130.0724
     },
     {
-        "cityId": "7412705",
+        "cityId": 7412705,
         "name": "Ashikita-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.28998,
         "longitude": 130.52863
     },
     {
-        "cityId": "7412706",
+        "cityId": 7412706,
         "name": "Kamimashiki-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.71111,
         "longitude": 130.98175
     },
     {
-        "cityId": "7412708",
+        "cityId": 7412708,
         "name": "Kuma-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.30597,
         "longitude": 130.86092
     },
     {
-        "cityId": "7412709",
+        "cityId": 7412709,
         "name": "Shimomashiki-gun",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.61885,
         "longitude": 130.87257
     },
     {
-        "cityId": "7413150",
+        "cityId": 7413150,
         "name": "Yamaga Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 33.05587,
         "longitude": 130.72309
     },
     {
-        "cityId": "7413151",
+        "cityId": 7413151,
         "name": "Kamiamakusa Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.4955,
         "longitude": 130.40816
     },
     {
-        "cityId": "7413152",
+        "cityId": 7413152,
         "name": "Uki Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.62669,
         "longitude": 130.65491
     },
     {
-        "cityId": "7413153",
+        "cityId": 7413153,
         "name": "K\u014dshi Shi",
-        "stateId": "1858419",
+        "stateId": 1858419,
         "latitude": 32.89305,
         "longitude": 130.76867
     }

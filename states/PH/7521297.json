@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1691975",
+        "cityId": 1691975,
         "name": "Province of Quirino",
-        "stateId": "7521297",
+        "stateId": 7521297,
         "latitude": 16.28333,
         "longitude": 121.58333
     },
     {
-        "cityId": "1697456",
+        "cityId": 1697456,
         "name": "Province of Nueva Vizcaya",
-        "stateId": "7521297",
+        "stateId": 7521297,
         "latitude": 16.33333,
         "longitude": 121.33333
     },
     {
-        "cityId": "1710515",
+        "cityId": 1710515,
         "name": "Province of Isabela",
-        "stateId": "7521297",
+        "stateId": 7521297,
         "latitude": 17,
         "longitude": 122
     },
     {
-        "cityId": "1721086",
+        "cityId": 1721086,
         "name": "Province of Cagayan",
-        "stateId": "7521297",
+        "stateId": 7521297,
         "latitude": 18,
         "longitude": 121.83333
     },
     {
-        "cityId": "1726302",
+        "cityId": 1726302,
         "name": "Province of Batanes",
-        "stateId": "7521297",
+        "stateId": 7521297,
         "latitude": 20.45798,
         "longitude": 121.9941
     }

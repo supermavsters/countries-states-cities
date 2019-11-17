@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "723357",
+        "cityId": 723357,
         "name": "Okres Trebi\u0161ov",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.63333,
         "longitude": 21.71667
     },
     {
-        "cityId": "723525",
+        "cityId": 723525,
         "name": "Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.95,
         "longitude": 20.56667
     },
     {
-        "cityId": "723712",
+        "cityId": 723712,
         "name": "Okres Ro\u017e\u0148ava",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.66667,
         "longitude": 20.53333
     },
     {
-        "cityId": "724143",
+        "cityId": 724143,
         "name": "Okres Michalovce",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.75,
         "longitude": 21.93333
     },
     {
-        "cityId": "8986286",
+        "cityId": 8986286,
         "name": "Okres Gelnica",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.85207,
         "longitude": 20.93385
     },
     {
-        "cityId": "8986304",
+        "cityId": 8986304,
         "name": "Okres Sobrance",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.74247,
         "longitude": 22.18197
     },
     {
-        "cityId": "8986335",
+        "cityId": 8986335,
         "name": "Ko\u0161ice I",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.71872,
         "longitude": 21.2418
     },
     {
-        "cityId": "8986336",
+        "cityId": 8986336,
         "name": "Ko\u0161ice II",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.69753,
         "longitude": 21.22273
     },
     {
-        "cityId": "8986337",
+        "cityId": 8986337,
         "name": "Ko\u0161ice III",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.73242,
         "longitude": 21.29047
     },
     {
-        "cityId": "8986338",
+        "cityId": 8986338,
         "name": "Ko\u0161ice IV",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.68691,
         "longitude": 21.2657
     },
     {
-        "cityId": "8986343",
+        "cityId": 8986343,
         "name": "Okres Kosice-okolie",
-        "stateId": "865084",
+        "stateId": 865084,
         "latitude": 48.77897,
         "longitude": 21.41373
     }

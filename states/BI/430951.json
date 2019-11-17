@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7670599",
+        "cityId": 7670599,
         "name": "Kabarore",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -2.84457,
         "longitude": 29.54628
     },
     {
-        "cityId": "7670600",
+        "cityId": 7670600,
         "name": "Kayanza",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -2.92127,
         "longitude": 29.6444
     },
     {
-        "cityId": "7732510",
+        "cityId": 7732510,
         "name": "Muruta",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -2.96841,
         "longitude": 29.55803
     },
     {
-        "cityId": "8692984",
+        "cityId": 8692984,
         "name": "Butaganzwa",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -3.10229,
         "longitude": 29.69479
     },
     {
-        "cityId": "9072885",
+        "cityId": 9072885,
         "name": "Commune of Matongo",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -3.08944,
         "longitude": 29.61194
     },
     {
-        "cityId": "9171817",
+        "cityId": 9171817,
         "name": "Rango",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -3.15571,
         "longitude": 29.76212
     },
     {
-        "cityId": "9171830",
+        "cityId": 9171830,
         "name": "Gatara",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -2.99226,
         "longitude": 29.67742
     },
     {
-        "cityId": "9171831",
+        "cityId": 9171831,
         "name": "Gahombo",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -2.99278,
         "longitude": 29.73247
     },
     {
-        "cityId": "9171868",
+        "cityId": 9171868,
         "name": "Muhanga",
-        "stateId": "430951",
+        "stateId": 430951,
         "latitude": -3.04449,
         "longitude": 29.80341
     }

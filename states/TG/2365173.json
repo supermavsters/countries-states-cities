@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2363489",
+        "cityId": 2363489,
         "name": "Vo Prefecture",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.41667,
         "longitude": 1.5
     },
     {
-        "cityId": "2363533",
+        "cityId": 2363533,
         "name": "Zio Prefecture",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.58333,
         "longitude": 1.16667
     },
     {
-        "cityId": "2364040",
+        "cityId": 2364040,
         "name": "Pr\u00e9fecture de Yoto",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.66667,
         "longitude": 1.5
     },
     {
-        "cityId": "2365263",
+        "cityId": 2365263,
         "name": "Golfe Prefecture",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.23333,
         "longitude": 1.2
     },
     {
-        "cityId": "2367989",
+        "cityId": 2367989,
         "name": "Lacs Prefecture",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.36667,
         "longitude": 1.66667
     },
     {
-        "cityId": "2597440",
+        "cityId": 2597440,
         "name": "Ave Prefecture",
-        "stateId": "2365173",
+        "stateId": 2365173,
         "latitude": 6.43333,
         "longitude": 0.93333
     }

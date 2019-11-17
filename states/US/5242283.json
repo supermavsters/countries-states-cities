@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "5233146",
+        "cityId": 5233146,
         "name": "Addison County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.03091,
         "longitude": -73.14094
     },
     {
-        "cityId": "5233748",
+        "cityId": 5233748,
         "name": "Bennington County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 43.03546,
         "longitude": -73.09295
     },
     {
-        "cityId": "5234484",
+        "cityId": 5234484,
         "name": "Caledonia County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.46472,
         "longitude": -72.10219
     },
     {
-        "cityId": "5234861",
+        "cityId": 5234861,
         "name": "Chittenden County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.46098,
         "longitude": -73.08092
     },
     {
-        "cityId": "5235945",
+        "cityId": 5235945,
         "name": "Essex County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.72779,
         "longitude": -71.73605
     },
     {
-        "cityId": "5236279",
+        "cityId": 5236279,
         "name": "Franklin County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.85748,
         "longitude": -72.912
     },
     {
-        "cityId": "5236542",
+        "cityId": 5236542,
         "name": "Grand Isle County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.79683,
         "longitude": -73.29483
     },
     {
-        "cityId": "5237839",
+        "cityId": 5237839,
         "name": "Lamoille County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.60576,
         "longitude": -72.64145
     },
     {
-        "cityId": "5239504",
+        "cityId": 5239504,
         "name": "Orange County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.0056,
         "longitude": -72.37661
     },
     {
-        "cityId": "5239520",
+        "cityId": 5239520,
         "name": "Orleans County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.82881,
         "longitude": -72.24381
     },
     {
-        "cityId": "5240516",
+        "cityId": 5240516,
         "name": "Rutland County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 43.58009,
         "longitude": -73.03661
     },
     {
-        "cityId": "5242529",
+        "cityId": 5242529,
         "name": "Washington County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 44.27342,
         "longitude": -72.6149
     },
     {
-        "cityId": "5243051",
+        "cityId": 5243051,
         "name": "Windham County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 42.99059,
         "longitude": -72.71384
     },
     {
-        "cityId": "5243062",
+        "cityId": 5243062,
         "name": "Windsor County",
-        "stateId": "5242283",
+        "stateId": 5242283,
         "latitude": 43.58,
         "longitude": -72.58624
     }

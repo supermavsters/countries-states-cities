@@ -1,92 +1,92 @@
 [
     {
-        "stateId": "6930701",
+        "stateId": 6930701,
         "name": "Boucle du Mouhoun Region",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 12.47203,
         "longitude": -3.47305
     },
     {
-        "stateId": "6930703",
+        "stateId": 6930703,
         "name": "Cascades Region",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 10.38,
         "longitude": -4.5
     },
     {
-        "stateId": "6930704",
+        "stateId": 6930704,
         "name": "Centre",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 12.37874,
         "longitude": -1.53276
     },
     {
-        "stateId": "6930705",
+        "stateId": 6930705,
         "name": "Centre-Est",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 11.78922,
         "longitude": -0.35706
     },
     {
-        "stateId": "6930706",
+        "stateId": 6930706,
         "name": "Centre-Nord",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 13.09829,
         "longitude": -1.0855
     },
     {
-        "stateId": "6930707",
+        "stateId": 6930707,
         "name": "Centre-Ouest",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 12.25488,
         "longitude": -2.36876
     },
     {
-        "stateId": "6930708",
+        "stateId": 6930708,
         "name": "Centre-Sud",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 11.67132,
         "longitude": -1.07374
     },
     {
-        "stateId": "6930709",
+        "stateId": 6930709,
         "name": "Est",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 12.06308,
         "longitude": 0.36349
     },
     {
-        "stateId": "6930710",
+        "stateId": 6930710,
         "name": "High-Basins Region",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 11.28,
         "longitude": -4.32
     },
     {
-        "stateId": "6930711",
+        "stateId": 6930711,
         "name": "Nord",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 13.58809,
         "longitude": -2.4212
     },
     {
-        "stateId": "6930712",
+        "stateId": 6930712,
         "name": "Plateau-Central",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 12.58774,
         "longitude": -1.30102
     },
     {
-        "stateId": "6930713",
+        "stateId": 6930713,
         "name": "Sahel",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 14.03351,
         "longitude": -0.04575
     },
     {
-        "stateId": "6930714",
+        "stateId": 6930714,
         "name": "Southwest Region",
-        "countryId": "2361809",
+        "countryId": 2361809,
         "latitude": 10.5,
         "longitude": -3.2
     }

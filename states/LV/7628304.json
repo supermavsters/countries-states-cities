@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11352571",
+        "cityId": 11352571,
         "name": "Durbe",
-        "stateId": "7628304",
+        "stateId": 7628304,
         "latitude": 56.58654,
         "longitude": 21.37887
     },
     {
-        "cityId": "11352581",
+        "cityId": 11352581,
         "name": "Dunalkas pagasts",
-        "stateId": "7628304",
+        "stateId": 7628304,
         "latitude": 56.673,
         "longitude": 21.33102
     },
     {
-        "cityId": "11352582",
+        "cityId": 11352582,
         "name": "Durbes pagasts",
-        "stateId": "7628304",
+        "stateId": 7628304,
         "latitude": 56.57773,
         "longitude": 21.4352
     },
     {
-        "cityId": "11352583",
+        "cityId": 11352583,
         "name": "Tadai\u0137u pagasts",
-        "stateId": "7628304",
+        "stateId": 7628304,
         "latitude": 56.58061,
         "longitude": 21.31595
     },
     {
-        "cityId": "11352584",
+        "cityId": 11352584,
         "name": "Vecpils pagasts",
-        "stateId": "7628304",
+        "stateId": 7628304,
         "latitude": 56.61609,
         "longitude": 21.53452
     }

@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2611753",
+        "cityId": 2611753,
         "name": "Thisted Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.00397,
         "longitude": 8.61834
     },
     {
-        "cityId": "2616755",
+        "cityId": 2616755,
         "name": "Mors\u00f8 Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 56.79622,
         "longitude": 8.73272
     },
     {
-        "cityId": "2617382",
+        "cityId": 2617382,
         "name": "L\u00e6so Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.26774,
         "longitude": 11.02265
     },
     {
-        "cityId": "2620209",
+        "cityId": 2620209,
         "name": "Hj\u00f8rring Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.45682,
         "longitude": 10.05859
     },
     {
-        "cityId": "2621926",
+        "cityId": 2621926,
         "name": "Frederikshavn Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.43347,
         "longitude": 10.42507
     },
     {
-        "cityId": "2623351",
+        "cityId": 2623351,
         "name": "Br\u00f8nderslev Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.23506,
         "longitude": 10.10061
     },
     {
-        "cityId": "6543926",
+        "cityId": 6543926,
         "name": "Jammerbugt Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57.14583,
         "longitude": 9.5625
     },
     {
-        "cityId": "6543930",
+        "cityId": 6543930,
         "name": "Mariagerfjord Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 56.69722,
         "longitude": 9.84722
     },
     {
-        "cityId": "6543934",
+        "cityId": 6543934,
         "name": "\u00c5lborg Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 57,
         "longitude": 9.95
     },
     {
-        "cityId": "6543937",
+        "cityId": 6543937,
         "name": "Rebild Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 56.80556,
         "longitude": 9.77778
     },
     {
-        "cityId": "6543939",
+        "cityId": 6543939,
         "name": "Vesthimmerland Kommune",
-        "stateId": "6418540",
+        "stateId": 6418540,
         "latitude": 56.8,
         "longitude": 9.37083
     }

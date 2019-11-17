@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7668892",
+        "cityId": 7668892,
         "name": "Commune of Adjohoun",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.71182,
         "longitude": 2.49399
     },
     {
-        "cityId": "7668898",
+        "cityId": 7668898,
         "name": "Bonou",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.86938,
         "longitude": 2.47934
     },
     {
-        "cityId": "7668900",
+        "cityId": 7668900,
         "name": "Dangbo",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.58039,
         "longitude": 2.49927
     },
     {
-        "cityId": "7668939",
+        "cityId": 7668939,
         "name": "Porto-novo",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.48047,
         "longitude": 2.62129
     },
     {
-        "cityId": "7668940",
+        "cityId": 7668940,
         "name": "Agu\u00e9gu\u00e9s",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.462,
         "longitude": 2.51945
     },
     {
-        "cityId": "7668941",
+        "cityId": 7668941,
         "name": "Seme-kpodji",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.39468,
         "longitude": 2.58172
     },
     {
-        "cityId": "8693304",
+        "cityId": 8693304,
         "name": "Adjara",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.49135,
         "longitude": 2.68101
     },
     {
-        "cityId": "9063965",
+        "cityId": 9063965,
         "name": "Akpro-Misserete",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.5625,
         "longitude": 2.58528
     },
     {
-        "cityId": "9063966",
+        "cityId": 9063966,
         "name": "Avrankou",
-        "stateId": "2392325",
+        "stateId": 2392325,
         "latitude": 6.55,
         "longitude": 2.66667
     }

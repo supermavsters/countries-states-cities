@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8617853",
+        "cityId": 8617853,
         "name": "Atsabe",
-        "stateId": "1644865",
+        "stateId": 1644865,
         "latitude": -8.93058,
         "longitude": 125.3968
     },
     {
-        "cityId": "8617920",
+        "cityId": 8617920,
         "name": "Railaco",
-        "stateId": "1644865",
+        "stateId": 1644865,
         "latitude": -8.67237,
         "longitude": 125.42546
     },
     {
-        "cityId": "8617931",
+        "cityId": 8617931,
         "name": "Ermera Villa",
-        "stateId": "1644865",
+        "stateId": 1644865,
         "latitude": -8.75222,
         "longitude": 125.39694
     },
     {
-        "cityId": "8628960",
+        "cityId": 8628960,
         "name": "Letefoho",
-        "stateId": "1644865",
+        "stateId": 1644865,
         "latitude": -8.83444,
         "longitude": 125.42639
     },
     {
-        "cityId": "8629076",
+        "cityId": 8629076,
         "name": "Hatulia",
-        "stateId": "1644865",
+        "stateId": 1644865,
         "latitude": -8.81667,
         "longitude": 125.31667
     }

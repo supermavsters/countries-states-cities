@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2666219",
+        "cityId": 2666219,
         "name": "Uppsala Kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 59.96425,
         "longitude": 17.77395
     },
     {
-        "cityId": "2669097",
+        "cityId": 2669097,
         "name": "Tierps kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 60.37206,
         "longitude": 17.63629
     },
     {
-        "cityId": "2685697",
+        "cityId": 2685697,
         "name": "\u00d6sthammars Kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 60.24156,
         "longitude": 18.26968
     },
     {
-        "cityId": "2707055",
+        "cityId": 2707055,
         "name": "Heby kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 60.1,
         "longitude": 17
     },
     {
-        "cityId": "2709491",
+        "cityId": 2709491,
         "name": "H\u00e5bo kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 59.64953,
         "longitude": 17.50701
     },
     {
-        "cityId": "2716165",
+        "cityId": 2716165,
         "name": "Enk\u00f6pings Kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 59.68575,
         "longitude": 17.11668
     },
     {
-        "cityId": "2726284",
+        "cityId": 2726284,
         "name": "\u00c4lvkarleby Kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 60.58212,
         "longitude": 17.44532
     },
     {
-        "cityId": "3337384",
+        "cityId": 3337384,
         "name": "Knivsta Kommun",
-        "stateId": "2666218",
+        "stateId": 2666218,
         "latitude": 59.73702,
         "longitude": 17.78137
     }

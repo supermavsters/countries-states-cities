@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3836983",
+        "cityId": 3836983,
         "name": "Departamento de Libertador General San Mart\u00edn",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -32.66667,
         "longitude": -65.66667
     },
     {
-        "cityId": "3840260",
+        "cityId": 3840260,
         "name": "Coronel Pringles",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -33.08333,
         "longitude": -65.83333
     },
     {
-        "cityId": "3853353",
+        "cityId": 3853353,
         "name": "Departamento de Jun\u00edn",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -32.25,
         "longitude": -65.33333
     },
     {
-        "cityId": "3854968",
+        "cityId": 3854968,
         "name": "Departamento de Gobernador Vicente Dupuy",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -35.33333,
         "longitude": -65.83333
     },
     {
-        "cityId": "3855076",
+        "cityId": 3855076,
         "name": "Departamento de General Pedernera",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -33.83333,
         "longitude": -65.58333
     },
     {
-        "cityId": "3861949",
+        "cityId": 3861949,
         "name": "Departamento de Chacabuco",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -32.75,
         "longitude": -65.25
     },
     {
-        "cityId": "3864411",
+        "cityId": 3864411,
         "name": "Departamento de Belgrano",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -32.75,
         "longitude": -66.75
     },
     {
-        "cityId": "3865174",
+        "cityId": 3865174,
         "name": "Departamento de Ayacucho",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -32.16667,
         "longitude": -66.58333
     },
     {
-        "cityId": "10231161",
+        "cityId": 10231161,
         "name": "Juan Mart\u00edn de Pueyrred\u00f3n",
-        "stateId": "3837029",
+        "stateId": 3837029,
         "latitude": -33.27544,
         "longitude": -66.32017
     }

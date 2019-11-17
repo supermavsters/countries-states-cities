@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3628397",
+        "cityId": 3628397,
         "name": "Municipio San Fernando",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 7.58333,
         "longitude": -67.16667
     },
     {
-        "cityId": "3628986",
+        "cityId": 3628986,
         "name": "Municipio R\u00f3mulo Gallegos",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 6.75,
         "longitude": -69.41667
     },
     {
-        "cityId": "3630456",
+        "cityId": 3630456,
         "name": "Municipio Pedro Camejo",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 6.5,
         "longitude": -67.91667
     },
     {
-        "cityId": "3631171",
+        "cityId": 3631171,
         "name": "Municipio P\u00e1ez",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 7.25,
         "longitude": -71
     },
     {
-        "cityId": "3631656",
+        "cityId": 3631656,
         "name": "Municipio Mu\u00f1oz",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 7.58333,
         "longitude": -69.41667
     },
     {
-        "cityId": "3649809",
+        "cityId": 3649809,
         "name": "Municipio Achaguas",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 7.25,
         "longitude": -68.41667
     },
     {
-        "cityId": "8129211",
+        "cityId": 8129211,
         "name": "Municipio Biruaca",
-        "stateId": "3649151",
+        "stateId": 3649151,
         "latitude": 7.84483,
         "longitude": -67.51679
     }

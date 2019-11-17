@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3720809",
+        "cityId": 3720809,
         "name": "Arrondissement de Mirebalais",
-        "stateId": "3728069",
+        "stateId": 3728069,
         "latitude": 18.88333,
         "longitude": -72.13333
     },
     {
-        "cityId": "3722578",
+        "cityId": 3722578,
         "name": "Arrondissement de Lascahobas",
-        "stateId": "3728069",
+        "stateId": 3728069,
         "latitude": 18.83333,
         "longitude": -71.88333
     },
     {
-        "cityId": "3723840",
+        "cityId": 3723840,
         "name": "Arrondissement de Hinche",
-        "stateId": "3728069",
+        "stateId": 3728069,
         "latitude": 19.13333,
         "longitude": -72.06667
     },
     {
-        "cityId": "3728053",
+        "cityId": 3728053,
         "name": "Arrondissement de Cerca La Source",
-        "stateId": "3728069",
+        "stateId": 3728069,
         "latitude": 19.11667,
         "longitude": -71.75
     }

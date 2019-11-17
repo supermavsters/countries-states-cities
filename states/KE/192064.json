@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7667639",
+        "cityId": 7667639,
         "name": "Malindi District",
-        "stateId": "192064",
+        "stateId": 192064,
         "latitude": -2.921,
         "longitude": 39.84
     },
     {
-        "cityId": "7667674",
+        "cityId": 7667674,
         "name": "Kisii Central",
-        "stateId": "192064",
+        "stateId": 192064,
         "latitude": -3.61,
         "longitude": 39.85
     }

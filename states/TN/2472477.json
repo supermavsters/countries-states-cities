@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7870318",
+        "cityId": 7870318,
         "name": "Oudhna",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.60875,
         "longitude": 10.16956
     },
     {
-        "cityId": "11109010",
+        "cityId": 11109010,
         "name": "Mornag",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.59752,
         "longitude": 10.25717
     },
     {
-        "cityId": "11109011",
+        "cityId": 11109011,
         "name": "Hammam Chott",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.68679,
         "longitude": 10.36188
     },
     {
-        "cityId": "11109012",
+        "cityId": 11109012,
         "name": "D\u00e9l\u00e9gation de Rad\u00e8s",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.77455,
         "longitude": 10.27035
     },
     {
-        "cityId": "11109013",
+        "cityId": 11109013,
         "name": "Ezzahra",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.748,
         "longitude": 10.29634
     },
     {
-        "cityId": "11109014",
+        "cityId": 11109014,
         "name": "Mohamedia",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.64705,
         "longitude": 10.11743
     },
     {
-        "cityId": "11109015",
+        "cityId": 11109015,
         "name": "Fouchana",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.69489,
         "longitude": 10.18127
     },
     {
-        "cityId": "11109016",
+        "cityId": 11109016,
         "name": "El Mourouj",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.71787,
         "longitude": 10.21084
     },
     {
-        "cityId": "11109017",
+        "cityId": 11109017,
         "name": "D\u00e9l\u00e9gation de la Nouvelle M\u00e9dina",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.73887,
         "longitude": 10.23777
     },
     {
-        "cityId": "11109018",
+        "cityId": 11109018,
         "name": "D\u00e9l\u00e9gation de M\u00e9grine",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.77314,
         "longitude": 10.23005
     },
     {
-        "cityId": "11109019",
+        "cityId": 11109019,
         "name": "Bou Mhel El Bassatine",
-        "stateId": "2472477",
+        "stateId": 2472477,
         "latitude": 36.72286,
         "longitude": 10.28354
     }

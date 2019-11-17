@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3868829",
+        "cityId": 3868829,
         "name": "Provincia de \u00daltima Esperanza",
-        "stateId": "4036650",
+        "stateId": 4036650,
         "latitude": -50.75,
         "longitude": -74
     },
     {
-        "cityId": "3869875",
+        "cityId": 3869875,
         "name": "Provincia de Tierra del Fuego",
-        "stateId": "4036650",
+        "stateId": 4036650,
         "latitude": -53.66083,
         "longitude": -69.45173
     },
     {
-        "cityId": "3881037",
+        "cityId": 3881037,
         "name": "Provincia de Magallanes",
-        "stateId": "4036650",
+        "stateId": 4036650,
         "latitude": -52.91667,
         "longitude": -71.08333
     },
     {
-        "cityId": "4036651",
+        "cityId": 4036651,
         "name": "Provincia Ant\u00e1rtica Chilena",
-        "stateId": "4036650",
+        "stateId": 4036650,
         "latitude": -55.0225,
         "longitude": -69.22781
     }

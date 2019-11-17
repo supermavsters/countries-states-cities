@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "2413875",
+        "stateId": 2413875,
         "name": "Banjul",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.45,
         "longitude": -16.58333
     },
     {
-        "stateId": "2412707",
+        "stateId": 2412707,
         "name": "Central River",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.58333,
         "longitude": -14.91667
     },
     {
-        "stateId": "2412716",
+        "stateId": 2412716,
         "name": "Lower River Division",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.4,
         "longitude": -15.66
     },
     {
-        "stateId": "2412353",
+        "stateId": 2412353,
         "name": "North Bank",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.5,
         "longitude": -16
     },
     {
-        "stateId": "2411711",
+        "stateId": 2411711,
         "name": "Upper River",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.36667,
         "longitude": -14.16667
     },
     {
-        "stateId": "2411683",
+        "stateId": 2411683,
         "name": "West Coast",
-        "countryId": "2413451",
+        "countryId": 2413451,
         "latitude": 13.23333,
         "longitude": -16.35
     }

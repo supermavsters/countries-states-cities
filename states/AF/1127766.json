@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7053818",
+        "cityId": 7053818,
         "name": "A\u012bbak",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 36.20667,
         "longitude": 67.98661
     },
     {
-        "cityId": "7053819",
+        "cityId": 7053819,
         "name": "Darah-ye \u015e\u016bf-e B\u0101l\u0101",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 35.6807,
         "longitude": 67.28246
     },
     {
-        "cityId": "7053820",
+        "cityId": 7053820,
         "name": "Darah-ye \u015e\u016bf-e P\u0101\u2019\u012bn",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 36.02504,
         "longitude": 67.34716
     },
     {
-        "cityId": "7053821",
+        "cityId": 7053821,
         "name": "Fayr\u014dz Nakhch\u012br",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 36.45637,
         "longitude": 67.57733
     },
     {
-        "cityId": "7053822",
+        "cityId": 7053822,
         "name": "\u1e28a\u1e95rat-e Sul\u0163\u0101n",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 36.38295,
         "longitude": 67.86511
     },
     {
-        "cityId": "7053823",
+        "cityId": 7053823,
         "name": "Khuram wa S\u0101r B\u0101gh",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 35.98651,
         "longitude": 68.12169
     },
     {
-        "cityId": "7053824",
+        "cityId": 7053824,
         "name": "R\u016by D\u016b\u0101b",
-        "stateId": "1127766",
+        "stateId": 1127766,
         "latitude": 35.63549,
         "longitude": 67.81726
     }

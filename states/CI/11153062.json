@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2597334",
+        "cityId": 2597334,
         "name": "Bafing",
-        "stateId": "11153062",
+        "stateId": 11153062,
         "latitude": 8.40611,
         "longitude": -7.58048
     },
     {
-        "cityId": "11153172",
+        "cityId": 11153172,
         "name": "B\u00e9r\u00e9",
-        "stateId": "11153062",
+        "stateId": 11153062,
         "latitude": 8.18952,
         "longitude": -6.17157
     },
     {
-        "cityId": "11153174",
+        "cityId": 11153174,
         "name": "Worodougou",
-        "stateId": "11153062",
+        "stateId": 11153062,
         "latitude": 8.16482,
         "longitude": -6.66595
     },
     {
-        "cityId": "11362037",
+        "cityId": 11362037,
         "name": "R\u00e9gion du B\u00e9r\u00e9",
-        "stateId": "11153062",
+        "stateId": 11153062,
         "latitude": 8.36667,
         "longitude": -6.025
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3717545",
+        "cityId": 3717545,
         "name": "Arrondissement de Saint-Rapha\u00ebl",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.41667,
         "longitude": -72.18333
     },
     {
-        "cityId": "3718665",
+        "cityId": 3718665,
         "name": "Arrondissement de Plaisance",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.66756,
         "longitude": -72.54908
     },
     {
-        "cityId": "3722122",
+        "cityId": 3722122,
         "name": "Lenbe",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.66667,
         "longitude": -72.41667
     },
     {
-        "cityId": "3724438",
+        "cityId": 3724438,
         "name": "Arrondissement de la Grande Rivi\u00e8re du Nord",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.51667,
         "longitude": -72.16667
     },
     {
-        "cityId": "3728473",
+        "cityId": 3728473,
         "name": "Okap",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.66667,
         "longitude": -72.15
     },
     {
-        "cityId": "3729454",
+        "cityId": 3729454,
         "name": "Arrondissement du Borgne",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.75,
         "longitude": -72.5
     },
     {
-        "cityId": "3731232",
+        "cityId": 3731232,
         "name": "Acul du Nord",
-        "stateId": "3719543",
+        "stateId": 3719543,
         "latitude": 19.66667,
         "longitude": -72.28333
     }

@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3692383",
+        "cityId": 3692383,
         "name": "Provincia de San Mart\u00edn",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6.58333,
         "longitude": -76.16667
     },
     {
-        "cityId": "3692862",
+        "cityId": 3692862,
         "name": "Provincia de Rioja",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6,
         "longitude": -77.41667
     },
     {
-        "cityId": "3694563",
+        "cityId": 3694563,
         "name": "Provincia de Moyobamba",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -5.75,
         "longitude": -77.25
     },
     {
-        "cityId": "3694924",
+        "cityId": 3694924,
         "name": "Provincia de Mariscal C\u00e1ceres",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -7.2739,
         "longitude": -77.18216
     },
     {
-        "cityId": "3695756",
+        "cityId": 3695756,
         "name": "Provincia de Lamas",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6.33333,
         "longitude": -76.66667
     },
     {
-        "cityId": "3696534",
+        "cityId": 3696534,
         "name": "Provincia de Huallaga",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6.75664,
         "longitude": -76.90143
     },
     {
-        "cityId": "8349574",
+        "cityId": 8349574,
         "name": "Bellavista",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -7.63825,
         "longitude": -76.31932
     },
     {
-        "cityId": "8349575",
+        "cityId": 8349575,
         "name": "El Dorado",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6.56298,
         "longitude": -76.7413
     },
     {
-        "cityId": "8349576",
+        "cityId": 8349576,
         "name": "Picota",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -6.90221,
         "longitude": -76.25573
     },
     {
-        "cityId": "8349577",
+        "cityId": 8349577,
         "name": "Tocache",
-        "stateId": "3692385",
+        "stateId": 3692385,
         "latitude": -8.2493,
         "longitude": -76.63451
     }

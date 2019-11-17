@@ -1,330 +1,330 @@
 [
     {
-        "stateId": "1865694",
+        "stateId": 1865694,
         "name": "Aichi-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.18017,
         "longitude": 136.90656
     },
     {
-        "stateId": "2113124",
+        "stateId": 2113124,
         "name": "Akita",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 39.75,
         "longitude": 140.4
     },
     {
-        "stateId": "2130656",
+        "stateId": 2130656,
         "name": "Aomori-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 40.7831,
         "longitude": 140.82827
     },
     {
-        "stateId": "2113014",
+        "stateId": 2113014,
         "name": "Chiba-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.60506,
         "longitude": 140.12333
     },
     {
-        "stateId": "1864226",
+        "stateId": 1864226,
         "name": "Ehime",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.61667,
         "longitude": 132.85
     },
     {
-        "stateId": "1863983",
+        "stateId": 1863983,
         "name": "Fukui",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.85,
         "longitude": 136.21667
     },
     {
-        "stateId": "1863958",
+        "stateId": 1863958,
         "name": "Fukuoka Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.52813,
         "longitude": 130.66472
     },
     {
-        "stateId": "2112922",
+        "stateId": 2112922,
         "name": "Fukushima-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 37.38158,
         "longitude": 140.22199
     },
     {
-        "stateId": "1863640",
+        "stateId": 1863640,
         "name": "Gifu",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.78333,
         "longitude": 137.05
     },
     {
-        "stateId": "1863501",
+        "stateId": 1863501,
         "name": "Gunma-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.50747,
         "longitude": 138.98235
     },
     {
-        "stateId": "1862413",
+        "stateId": 1862413,
         "name": "Hiroshima-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.60673,
         "longitude": 132.78543
     },
     {
-        "stateId": "2130037",
+        "stateId": 2130037,
         "name": "Hokkaido",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 43.06451,
         "longitude": 141.3466
     },
     {
-        "stateId": "1862047",
+        "stateId": 1862047,
         "name": "Hy\u014dgo",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.03333,
         "longitude": 134.81667
     },
     {
-        "stateId": "2112669",
+        "stateId": 2112669,
         "name": "Ibaraki",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.3,
         "longitude": 140.31667
     },
     {
-        "stateId": "1861387",
+        "stateId": 1861387,
         "name": "Ishikawa-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.77145,
         "longitude": 136.7705
     },
     {
-        "stateId": "2112518",
+        "stateId": 2112518,
         "name": "Iwate",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 39.6,
         "longitude": 141.35
     },
     {
-        "stateId": "1860834",
+        "stateId": 1860834,
         "name": "Kagawa-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.24717,
         "longitude": 133.99471
     },
     {
-        "stateId": "1860825",
+        "stateId": 1860825,
         "name": "Kagoshima-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 31.59303,
         "longitude": 130.99301
     },
     {
-        "stateId": "1860291",
+        "stateId": 1860291,
         "name": "Kanagawa",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.41667,
         "longitude": 139.33333
     },
     {
-        "stateId": "1859133",
+        "stateId": 1859133,
         "name": "Kochi Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.58333,
         "longitude": 133.36667
     },
     {
-        "stateId": "1858419",
+        "stateId": 1858419,
         "name": "Kumamoto",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 32.61667,
         "longitude": 130.75
     },
     {
-        "stateId": "1857907",
+        "stateId": 1857907,
         "name": "Kyoto Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.25,
         "longitude": 135.43333
     },
     {
-        "stateId": "1857352",
+        "stateId": 1857352,
         "name": "Mie-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.52123,
         "longitude": 136.38296
     },
     {
-        "stateId": "2111888",
+        "stateId": 2111888,
         "name": "Miyagi-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 38.44938,
         "longitude": 140.92624
     },
     {
-        "stateId": "1856710",
+        "stateId": 1856710,
         "name": "Miyazaki",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 32.2,
         "longitude": 131.3
     },
     {
-        "stateId": "1856210",
+        "stateId": 1856210,
         "name": "Nagano-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.13464,
         "longitude": 138.04077
     },
     {
-        "stateId": "1856156",
+        "stateId": 1856156,
         "name": "Nagasaki Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.23333,
         "longitude": 129.6
     },
     {
-        "stateId": "1855608",
+        "stateId": 1855608,
         "name": "Nara-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.68525,
         "longitude": 135.83289
     },
     {
-        "stateId": "1855429",
+        "stateId": 1855429,
         "name": "Niigata-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 37.52343,
         "longitude": 138.91748
     },
     {
-        "stateId": "1854484",
+        "stateId": 1854484,
         "name": "Oita Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.19899,
         "longitude": 131.43353
     },
     {
-        "stateId": "1854381",
+        "stateId": 1854381,
         "name": "Okayama-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.90204,
         "longitude": 133.81018
     },
     {
-        "stateId": "1854345",
+        "stateId": 1854345,
         "name": "Okinawa",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 26.5,
         "longitude": 127.93333
     },
     {
-        "stateId": "1853299",
+        "stateId": 1853299,
         "name": "Saga-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.28904,
         "longitude": 130.11491
     },
     {
-        "stateId": "1853226",
+        "stateId": 1853226,
         "name": "Saitama-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.85721,
         "longitude": 139.64904
     },
     {
-        "stateId": "1852553",
+        "stateId": 1852553,
         "name": "Shiga",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.21667,
         "longitude": 136.13333
     },
     {
-        "stateId": "1852442",
+        "stateId": 1852442,
         "name": "Shimane-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.07693,
         "longitude": 132.56111
     },
     {
-        "stateId": "1851715",
+        "stateId": 1851715,
         "name": "Shizuoka",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.01667,
         "longitude": 138.33333
     },
     {
-        "stateId": "1850310",
+        "stateId": 1850310,
         "name": "Tochigi",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.7,
         "longitude": 139.81667
     },
     {
-        "stateId": "1850157",
+        "stateId": 1850157,
         "name": "Tokushima-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.92176,
         "longitude": 134.23682
     },
     {
-        "stateId": "1850144",
+        "stateId": 1850144,
         "name": "Tokyo Prefecture",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.6895,
         "longitude": 139.69171
     },
     {
-        "stateId": "1849890",
+        "stateId": 1849890,
         "name": "Tottori",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.4,
         "longitude": 133.85
     },
     {
-        "stateId": "1849872",
+        "stateId": 1849872,
         "name": "Toyama-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 36.63926,
         "longitude": 137.26513
     },
     {
-        "stateId": "1848938",
+        "stateId": 1848938,
         "name": "Wakayama",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 33.91667,
         "longitude": 135.41667
     },
     {
-        "stateId": "2110554",
+        "stateId": 2110554,
         "name": "Yamagata-ken",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 38.4503,
         "longitude": 140.0997
     },
     {
-        "stateId": "1848681",
+        "stateId": 1848681,
         "name": "Yamaguchi",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.2,
         "longitude": 131.56667
     },
     {
-        "stateId": "1848649",
+        "stateId": 1848649,
         "name": "Yamanashi",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 35.61667,
         "longitude": 138.6
     },
     {
-        "stateId": "1853904",
+        "stateId": 1853904,
         "name": "\u014csaka-fu",
-        "countryId": "1861060",
+        "countryId": 1861060,
         "latitude": 34.68631,
         "longitude": 135.51968
     }

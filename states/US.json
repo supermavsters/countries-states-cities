@@ -1,358 +1,358 @@
 [
     {
-        "stateId": "4829764",
+        "stateId": 4829764,
         "name": "Alabama",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 32.75041,
         "longitude": -86.75026
     },
     {
-        "stateId": "5879092",
+        "stateId": 5879092,
         "name": "Alaska",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 64.00028,
         "longitude": -150.00028
     },
     {
-        "stateId": "5551752",
+        "stateId": 5551752,
         "name": "Arizona",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 34.5003,
         "longitude": -111.50098
     },
     {
-        "stateId": "4099753",
+        "stateId": 4099753,
         "name": "Arkansas",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 34.75037,
         "longitude": -92.50044
     },
     {
-        "stateId": "5332921",
+        "stateId": 5332921,
         "name": "California",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 37.25022,
         "longitude": -119.75126
     },
     {
-        "stateId": "5417618",
+        "stateId": 5417618,
         "name": "Colorado",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 39.00027,
         "longitude": -105.50083
     },
     {
-        "stateId": "4831725",
+        "stateId": 4831725,
         "name": "Connecticut",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 41.66704,
         "longitude": -72.66648
     },
     {
-        "stateId": "4142224",
+        "stateId": 4142224,
         "name": "Delaware",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 39.00039,
         "longitude": -75.49992
     },
     {
-        "stateId": "4138106",
+        "stateId": 4138106,
         "name": "District of Columbia",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 38.91706,
         "longitude": -77.00025
     },
     {
-        "stateId": "4155751",
+        "stateId": 4155751,
         "name": "Florida",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 28.75054,
         "longitude": -82.5001
     },
     {
-        "stateId": "4197000",
+        "stateId": 4197000,
         "name": "Georgia",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 32.75042,
         "longitude": -83.50018
     },
     {
-        "stateId": "5855797",
+        "stateId": 5855797,
         "name": "Hawaii",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 20.75028,
         "longitude": -156.50028
     },
     {
-        "stateId": "5596512",
+        "stateId": 5596512,
         "name": "Idaho",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.5002,
         "longitude": -114.25118
     },
     {
-        "stateId": "4896861",
+        "stateId": 4896861,
         "name": "Illinois",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 40.00032,
         "longitude": -89.25037
     },
     {
-        "stateId": "4921868",
+        "stateId": 4921868,
         "name": "Indiana",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 40.00032,
         "longitude": -86.25027
     },
     {
-        "stateId": "4862182",
+        "stateId": 4862182,
         "name": "Iowa",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 42.00027,
         "longitude": -93.50049
     },
     {
-        "stateId": "4273857",
+        "stateId": 4273857,
         "name": "Kansas",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 38.50029,
         "longitude": -98.50063
     },
     {
-        "stateId": "6254925",
+        "stateId": 6254925,
         "name": "Kentucky",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 38.20042,
         "longitude": -84.87762
     },
     {
-        "stateId": "4331987",
+        "stateId": 4331987,
         "name": "Louisiana",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 31.00047,
         "longitude": -92.0004
     },
     {
-        "stateId": "4971068",
+        "stateId": 4971068,
         "name": "Maine",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 45.50032,
         "longitude": -69.24977
     },
     {
-        "stateId": "4361885",
+        "stateId": 4361885,
         "name": "Maryland",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 39.00039,
         "longitude": -76.74997
     },
     {
-        "stateId": "6254926",
+        "stateId": 6254926,
         "name": "Massachusetts",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 42.36565,
         "longitude": -71.10832
     },
     {
-        "stateId": "5001836",
+        "stateId": 5001836,
         "name": "Michigan",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.25029,
         "longitude": -85.50033
     },
     {
-        "stateId": "5037779",
+        "stateId": 5037779,
         "name": "Minnesota",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 46.25024,
         "longitude": -94.25055
     },
     {
-        "stateId": "4436296",
+        "stateId": 4436296,
         "name": "Mississippi",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 32.75041,
         "longitude": -89.75036
     },
     {
-        "stateId": "4398678",
+        "stateId": 4398678,
         "name": "Missouri",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 38.25031,
         "longitude": -92.50046
     },
     {
-        "stateId": "5667009",
+        "stateId": 5667009,
         "name": "Montana",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 47.00025,
         "longitude": -109.75102
     },
     {
-        "stateId": "5073708",
+        "stateId": 5073708,
         "name": "Nebraska",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 41.50028,
         "longitude": -99.75067
     },
     {
-        "stateId": "5509151",
+        "stateId": 5509151,
         "name": "Nevada",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 39.25021,
         "longitude": -116.75119
     },
     {
-        "stateId": "5090174",
+        "stateId": 5090174,
         "name": "New Hampshire",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 43.66702,
         "longitude": -71.4998
     },
     {
-        "stateId": "5101760",
+        "stateId": 5101760,
         "name": "New Jersey",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 40.16706,
         "longitude": -74.49987
     },
     {
-        "stateId": "5481136",
+        "stateId": 5481136,
         "name": "New Mexico",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 34.50034,
         "longitude": -106.00085
     },
     {
-        "stateId": "5128638",
+        "stateId": 5128638,
         "name": "New York",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 43.00035,
         "longitude": -75.4999
     },
     {
-        "stateId": "4482348",
+        "stateId": 4482348,
         "name": "North Carolina",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 35.50069,
         "longitude": -80.00032
     },
     {
-        "stateId": "5690763",
+        "stateId": 5690763,
         "name": "North Dakota",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 47.50027,
         "longitude": -100.00068
     },
     {
-        "stateId": "5165418",
+        "stateId": 5165418,
         "name": "Ohio",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 40.25034,
         "longitude": -83.00018
     },
     {
-        "stateId": "4544379",
+        "stateId": 4544379,
         "name": "Oklahoma",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 35.49209,
         "longitude": -97.50328
     },
     {
-        "stateId": "5744337",
+        "stateId": 5744337,
         "name": "Oregon",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.00013,
         "longitude": -120.50139
     },
     {
-        "stateId": "6254927",
+        "stateId": 6254927,
         "name": "Pennsylvania",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 40.27245,
         "longitude": -76.90567
     },
     {
-        "stateId": "5224323",
+        "stateId": 5224323,
         "name": "Rhode Island",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 41.75038,
         "longitude": -71.49978
     },
     {
-        "stateId": "4597040",
+        "stateId": 4597040,
         "name": "South Carolina",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 34.00043,
         "longitude": -81.00009
     },
     {
-        "stateId": "5769223",
+        "stateId": 5769223,
         "name": "South Dakota",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.50026,
         "longitude": -100.25069
     },
     {
-        "stateId": "4662168",
+        "stateId": 4662168,
         "name": "Tennessee",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 35.75035,
         "longitude": -86.25027
     },
     {
-        "stateId": "4736286",
+        "stateId": 4736286,
         "name": "Texas",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 31.25044,
         "longitude": -99.25061
     },
     {
-        "stateId": "5549030",
+        "stateId": 5549030,
         "name": "Utah",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 39.25024,
         "longitude": -111.75103
     },
     {
-        "stateId": "5242283",
+        "stateId": 5242283,
         "name": "Vermont",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.00034,
         "longitude": -72.74983
     },
     {
-        "stateId": "6254928",
+        "stateId": 6254928,
         "name": "Virginia",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 37.54812,
         "longitude": -77.44675
     },
     {
-        "stateId": "5815135",
+        "stateId": 5815135,
         "name": "Washington",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 47.50012,
         "longitude": -120.50147
     },
     {
-        "stateId": "4826850",
+        "stateId": 4826850,
         "name": "West Virginia",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 38.50038,
         "longitude": -80.50009
     },
     {
-        "stateId": "5279468",
+        "stateId": 5279468,
         "name": "Wisconsin",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 44.50024,
         "longitude": -90.00041
     },
     {
-        "stateId": "5843591",
+        "stateId": 5843591,
         "name": "Wyoming",
-        "countryId": "6252001",
+        "countryId": 6252001,
         "latitude": 43.00024,
         "longitude": -107.5009
     }

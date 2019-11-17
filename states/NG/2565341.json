@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "7729915",
+        "cityId": 7729915,
         "name": "Aniocha South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.12829,
         "longitude": 6.48334
     },
     {
-        "cityId": "7729917",
+        "cityId": 7729917,
         "name": "Ethiope West",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.91996,
         "longitude": 5.72939
     },
     {
-        "cityId": "7729918",
+        "cityId": 7729918,
         "name": "Ethiope East",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.68799,
         "longitude": 5.98414
     },
     {
-        "cityId": "7729919",
+        "cityId": 7729919,
         "name": "Ika North East",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.22865,
         "longitude": 6.28963
     },
     {
-        "cityId": "7729921",
+        "cityId": 7729921,
         "name": "Ika South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.17084,
         "longitude": 6.12881
     },
     {
-        "cityId": "7729922",
+        "cityId": 7729922,
         "name": "Isoko North",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.52493,
         "longitude": 6.23414
     },
     {
-        "cityId": "7729923",
+        "cityId": 7729923,
         "name": "Isoko South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.38209,
         "longitude": 6.21417
     },
     {
-        "cityId": "7729925",
+        "cityId": 7729925,
         "name": "Ndokwa East",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.67029,
         "longitude": 6.50771
     },
     {
-        "cityId": "7729927",
+        "cityId": 7729927,
         "name": "Ndokwa West",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.77323,
         "longitude": 6.39223
     },
     {
-        "cityId": "7729931",
+        "cityId": 7729931,
         "name": "Oshimili North",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.32273,
         "longitude": 6.64445
     },
     {
-        "cityId": "7729934",
+        "cityId": 7729934,
         "name": "Oshimili South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.09213,
         "longitude": 6.68172
     },
     {
-        "cityId": "7729936",
+        "cityId": 7729936,
         "name": "Udu",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.47222,
         "longitude": 5.82203
     },
     {
-        "cityId": "7729938",
+        "cityId": 7729938,
         "name": "Ughelli North",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.51122,
         "longitude": 6.04821
     },
     {
-        "cityId": "7729939",
+        "cityId": 7729939,
         "name": "Ughelli South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.3435,
         "longitude": 5.95108
     },
     {
-        "cityId": "7729940",
+        "cityId": 7729940,
         "name": "Ukwuani",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.84481,
         "longitude": 6.23741
     },
     {
-        "cityId": "7729942",
+        "cityId": 7729942,
         "name": "Warri North",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.88243,
         "longitude": 5.27687
     },
     {
-        "cityId": "7729943",
+        "cityId": 7729943,
         "name": "Warri South",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.61326,
         "longitude": 5.61063
     },
     {
-        "cityId": "7729945",
+        "cityId": 7729945,
         "name": "Uvwie",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.57157,
         "longitude": 5.77602
     },
     {
-        "cityId": "7729946",
+        "cityId": 7729946,
         "name": "Warri South-West",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.49686,
         "longitude": 5.37418
     },
     {
-        "cityId": "7873883",
+        "cityId": 7873883,
         "name": "Aniocha North",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 6.35447,
         "longitude": 6.48737
     },
     {
-        "cityId": "8637981",
+        "cityId": 8637981,
         "name": "Sapele",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.82618,
         "longitude": 5.65354
     },
     {
-        "cityId": "8637984",
+        "cityId": 8637984,
         "name": "Okpe",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.68625,
         "longitude": 5.78333
     },
     {
-        "cityId": "8638005",
+        "cityId": 8638005,
         "name": "Burutu",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.21173,
         "longitude": 5.60285
     },
     {
-        "cityId": "8638006",
+        "cityId": 8638006,
         "name": "Bomadi",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.16914,
         "longitude": 5.90424
     },
     {
-        "cityId": "8638007",
+        "cityId": 8638007,
         "name": "Patani",
-        "stateId": "2565341",
+        "stateId": 2565341,
         "latitude": 5.17928,
         "longitude": 6.09765
     }

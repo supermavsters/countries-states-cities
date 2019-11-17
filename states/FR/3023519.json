@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3013793",
+        "cityId": 3013793,
         "name": "D\u00e9partement de la Haute-Corse",
-        "stateId": "3023519",
+        "stateId": 3023519,
         "latitude": 42.41667,
         "longitude": 9.16667
     },
     {
-        "cityId": "3023514",
+        "cityId": 3023514,
         "name": "D\u00e9partement de la Corse-du-Sud",
-        "stateId": "3023519",
+        "stateId": 3023519,
         "latitude": 41.91667,
         "longitude": 9.16667
     }

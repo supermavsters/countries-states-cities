@@ -1,316 +1,316 @@
 [
     {
-        "cityId": "1848455",
+        "cityId": 1848455,
         "name": "Yatomi-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.10938,
         "longitude": 136.72451
     },
     {
-        "cityId": "1849535",
+        "cityId": 1849535,
         "name": "Tsushima-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.17718,
         "longitude": 136.74168
     },
     {
-        "cityId": "1849809",
+        "cityId": 1849809,
         "name": "Toyota-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.087,
         "longitude": 137.15
     },
     {
-        "cityId": "1849840",
+        "cityId": 1849840,
         "name": "Toyokawa-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.85032,
         "longitude": 137.36175
     },
     {
-        "cityId": "1849862",
+        "cityId": 1849862,
         "name": "Toyoake-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.06248,
         "longitude": 137.00887
     },
     {
-        "cityId": "1850183",
+        "cityId": 1850183,
         "name": "Tokoname-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.88929,
         "longitude": 136.85299
     },
     {
-        "cityId": "1850219",
+        "cityId": 1850219,
         "name": "T\u014dkai-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.02676,
         "longitude": 136.89846
     },
     {
-        "cityId": "1851258",
+        "cityId": 1851258,
         "name": "Tahara-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.6414,
         "longitude": 137.18314
     },
     {
-        "cityId": "1852044",
+        "cityId": 1852044,
         "name": "Shinshiro-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.96073,
         "longitude": 137.5436
     },
     {
-        "cityId": "1852647",
+        "cityId": 1852647,
         "name": "Seto-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.2234,
         "longitude": 137.08414
     },
     {
-        "cityId": "1853518",
+        "cityId": 1853518,
         "name": "Owariasahi-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.21652,
         "longitude": 137.03542
     },
     {
-        "cityId": "1854373",
+        "cityId": 1854373,
         "name": "Okazaki-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.95245,
         "longitude": 137.25783
     },
     {
-        "cityId": "1854797",
+        "cityId": 1854797,
         "name": "\u014cbu-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.0192,
         "longitude": 136.95424
     },
     {
-        "cityId": "1854914",
+        "cityId": 1854914,
         "name": "Nukata-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.86331,
         "longitude": 137.16582
     },
     {
-        "cityId": "1855103",
+        "cityId": 1855103,
         "name": "Niwa-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.34609,
         "longitude": 136.91253
     },
     {
-        "cityId": "1855111",
+        "cityId": 1855111,
         "name": "Nisshin-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.13114,
         "longitude": 137.03934
     },
     {
-        "cityId": "1855183",
+        "cityId": 1855183,
         "name": "Nishio-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.86223,
         "longitude": 137.05433
     },
     {
-        "cityId": "1855273",
+        "cityId": 1855273,
         "name": "Nishikasugai-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.25163,
         "longitude": 136.91633
     },
     {
-        "cityId": "1856053",
+        "cityId": 1856053,
         "name": "Nagoya-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.18147,
         "longitude": 136.90641
     },
     {
-        "cityId": "1856225",
+        "cityId": 1856225,
         "name": "Nagakute-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.18335,
         "longitude": 137.04895
     },
     {
-        "cityId": "1856697",
+        "cityId": 1856697,
         "name": "Miyoshi-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.0948,
         "longitude": 137.0887
     },
     {
-        "cityId": "1858832",
+        "cityId": 1858832,
         "name": "K\u014dnan-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.33137,
         "longitude": 136.87077
     },
     {
-        "cityId": "1858921",
+        "cityId": 1858921,
         "name": "Komaki-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.29103,
         "longitude": 136.91196
     },
     {
-        "cityId": "1859272",
+        "cityId": 1859272,
         "name": "Kitashitara-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.12851,
         "longitude": 137.63561
     },
     {
-        "cityId": "1859890",
+        "cityId": 1859890,
         "name": "Kasugai-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.24762,
         "longitude": 136.97226
     },
     {
-        "cityId": "1860033",
+        "cityId": 1860033,
         "name": "Kariya-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.01098,
         "longitude": 137.00166
     },
     {
-        "cityId": "1861527",
+        "cityId": 1861527,
         "name": "Inuyama-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.36232,
         "longitude": 136.98072
     },
     {
-        "cityId": "1861601",
+        "cityId": 1861601,
         "name": "Inazawa-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.24814,
         "longitude": 136.77979
     },
     {
-        "cityId": "1861940",
+        "cityId": 1861940,
         "name": "Ichinomiya-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.31037,
         "longitude": 136.79237
     },
     {
-        "cityId": "1862911",
+        "cityId": 1862911,
         "name": "Hekinan-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.87955,
         "longitude": 136.99155
     },
     {
-        "cityId": "1863204",
+        "cityId": 1863204,
         "name": "Handa-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.89903,
         "longitude": 136.9266
     },
     {
-        "cityId": "1863692",
+        "cityId": 1863692,
         "name": "Gamag\u014dri-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.82759,
         "longitude": 137.22752
     },
     {
-        "cityId": "1864539",
+        "cityId": 1864539,
         "name": "Chita-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.97048,
         "longitude": 136.8649
     },
     {
-        "cityId": "1864542",
+        "cityId": 1864542,
         "name": "Chita-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.83625,
         "longitude": 136.91577
     },
     {
-        "cityId": "1864548",
+        "cityId": 1864548,
         "name": "Chiry\u016b-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.99862,
         "longitude": 137.05
     },
     {
-        "cityId": "1865293",
+        "cityId": 1865293,
         "name": "Anj\u014d-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.94341,
         "longitude": 137.07165
     },
     {
-        "cityId": "1865365",
+        "cityId": 1865365,
         "name": "Ama-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.17174,
         "longitude": 136.82308
     },
     {
-        "cityId": "1865696",
+        "cityId": 1865696,
         "name": "Aichi-gun",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.10811,
         "longitude": 137.06577
     },
     {
-        "cityId": "7369797",
+        "cityId": 7369797,
         "name": "Kiyosu-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.21325,
         "longitude": 136.84771
     },
     {
-        "cityId": "7369798",
+        "cityId": 7369798,
         "name": "Aisai-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.17234,
         "longitude": 136.69478
     },
     {
-        "cityId": "7369799",
+        "cityId": 7369799,
         "name": "Iwakura-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.27927,
         "longitude": 136.86885
     },
     {
-        "cityId": "7369800",
+        "cityId": 7369800,
         "name": "Kitanagoya-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.2464,
         "longitude": 136.87293
     },
     {
-        "cityId": "7369801",
+        "cityId": 7369801,
         "name": "Takahama-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.93337,
         "longitude": 136.9949
     },
     {
-        "cityId": "7369802",
+        "cityId": 7369802,
         "name": "Toyohashi-shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 34.7405,
         "longitude": 137.40714
     },
     {
-        "cityId": "9405857",
+        "cityId": 9405857,
         "name": "Ama-Shi",
-        "stateId": "1865694",
+        "stateId": 1865694,
         "latitude": 35.18844,
         "longitude": 136.80365
     }

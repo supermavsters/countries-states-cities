@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "8334583",
+        "cityId": 8334583,
         "name": "City of Cape Town",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -33.91667,
         "longitude": 18.41667
     },
     {
-        "cityId": "8347344",
+        "cityId": 8347344,
         "name": "Cape Winelands District Municipality",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -33.32249,
         "longitude": 19.68998
     },
     {
-        "cityId": "8347349",
+        "cityId": 8347349,
         "name": "Eden District Municipality",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -33.82139,
         "longitude": 22.01263
     },
     {
-        "cityId": "8347352",
+        "cityId": 8347352,
         "name": "Central Karoo District Municipality",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -32.62812,
         "longitude": 22.21192
     },
     {
-        "cityId": "8347356",
+        "cityId": 8347356,
         "name": "West Coast District Municipality",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -32.09506,
         "longitude": 18.62695
     },
     {
-        "cityId": "8347370",
+        "cityId": 8347370,
         "name": "Overberg District Municipality",
-        "stateId": "1085599",
+        "stateId": 1085599,
         "latitude": -34.26131,
         "longitude": 19.93985
     }

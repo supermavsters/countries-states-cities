@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "11352432",
+        "cityId": 11352432,
         "name": "Aizpute",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.71721,
         "longitude": 21.60867
     },
     {
-        "cityId": "11352433",
+        "cityId": 11352433,
         "name": "Aizputes pagasts",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.69082,
         "longitude": 21.52506
     },
     {
-        "cityId": "11352434",
+        "cityId": 11352434,
         "name": "C\u012bravas pagasts",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.74737,
         "longitude": 21.38971
     },
     {
-        "cityId": "11352435",
+        "cityId": 11352435,
         "name": "Kalvenes pagasts",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.60827,
         "longitude": 21.7069
     },
     {
-        "cityId": "11352436",
+        "cityId": 11352436,
         "name": "Kazdangas pagasts",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.70473,
         "longitude": 21.70209
     },
     {
-        "cityId": "11352438",
+        "cityId": 11352438,
         "name": "La\u017eas pagasts",
-        "stateId": "7628305",
+        "stateId": 7628305,
         "latitude": 56.79677,
         "longitude": 21.52865
     }

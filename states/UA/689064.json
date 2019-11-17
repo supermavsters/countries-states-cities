@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "695788",
+        "cityId": 695788,
         "name": "Ratnivs\u2019kyy Rayon",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.71712,
         "longitude": 24.51959
     },
     {
-        "cityId": "701905",
+        "cityId": 701905,
         "name": "Manevyts\u2019kyy Rayon",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.24513,
         "longitude": 25.60945
     },
     {
-        "cityId": "702420",
+        "cityId": 702420,
         "name": "Lyuboml\u2019s\u2019kyy Rayon",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.25062,
         "longitude": 24.01161
     },
     {
-        "cityId": "702468",
+        "cityId": 702468,
         "name": "Lyubeshivs\u2019kyy Rayon",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.79639,
         "longitude": 25.33133
     },
     {
-        "cityId": "9287851",
+        "cityId": 9287851,
         "name": "Volodymyr-Volyns\u2019ka Mis\u2019krada",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 50.85004,
         "longitude": 24.32456
     },
     {
-        "cityId": "9287853",
+        "cityId": 9287853,
         "name": "Kovel\u2019s\u2019ka Mis\u2019krada",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.21198,
         "longitude": 24.70163
     },
     {
-        "cityId": "9287950",
+        "cityId": 9287950,
         "name": "Luts\u2019ka Mis\u2019krada",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 50.74879,
         "longitude": 25.34201
     },
     {
-        "cityId": "9289908",
+        "cityId": 9289908,
         "name": "Shats\u2019kyy Rayon",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 51.52237,
         "longitude": 23.86522
     },
     {
-        "cityId": "9289932",
+        "cityId": 9289932,
         "name": "Novovolyns\u2019ka Mis\u2019krada",
-        "stateId": "689064",
+        "stateId": 689064,
         "latitude": 50.73313,
         "longitude": 24.16825
     }

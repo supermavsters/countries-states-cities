@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "7530796",
+        "cityId": 7530796,
         "name": "Jelenia G\u00f3ra",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.87358,
         "longitude": 15.70633
     },
     {
-        "cityId": "7530801",
+        "cityId": 7530801,
         "name": "Wroc\u0142aw",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.1081,
         "longitude": 17.03859
     },
     {
-        "cityId": "7530804",
+        "cityId": 7530804,
         "name": "Powiat boles\u0142awiecki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.32174,
         "longitude": 15.53215
     },
     {
-        "cityId": "7530805",
+        "cityId": 7530805,
         "name": "Powiat dzier\u017coniowski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.73506,
         "longitude": 16.69192
     },
     {
-        "cityId": "7530806",
+        "cityId": 7530806,
         "name": "Powiat g\u0142ogowski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.67132,
         "longitude": 16.09486
     },
     {
-        "cityId": "7530807",
+        "cityId": 7530807,
         "name": "Powiat g\u00f3rowski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.63666,
         "longitude": 16.54815
     },
     {
-        "cityId": "7530815",
+        "cityId": 7530815,
         "name": "Powiat jaworski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.03967,
         "longitude": 16.16364
     },
     {
-        "cityId": "7530816",
+        "cityId": 7530816,
         "name": "Powiat jeleniog\u00f3rski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.89654,
         "longitude": 15.63835
     },
     {
-        "cityId": "7530821",
+        "cityId": 7530821,
         "name": "Powiat k\u0142odzki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.38882,
         "longitude": 16.61185
     },
     {
-        "cityId": "7530822",
+        "cityId": 7530822,
         "name": "Powiat legnicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.24113,
         "longitude": 16.10744
     },
     {
-        "cityId": "7530823",
+        "cityId": 7530823,
         "name": "Powiat luba\u0144ski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.04506,
         "longitude": 15.27739
     },
     {
-        "cityId": "7530831",
+        "cityId": 7530831,
         "name": "Powiat lubi\u0144ski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.44172,
         "longitude": 16.24318
     },
     {
-        "cityId": "7530832",
+        "cityId": 7530832,
         "name": "Powiat lw\u00f3wecki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.01559,
         "longitude": 15.52144
     },
     {
-        "cityId": "7530833",
+        "cityId": 7530833,
         "name": "Powiat milicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.50792,
         "longitude": 17.28292
     },
     {
-        "cityId": "7530834",
+        "cityId": 7530834,
         "name": "Powiat ole\u015bnicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.25458,
         "longitude": 17.51679
     },
     {
-        "cityId": "7530835",
+        "cityId": 7530835,
         "name": "Powiat o\u0142awski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.96062,
         "longitude": 17.30601
     },
     {
-        "cityId": "7530836",
+        "cityId": 7530836,
         "name": "Powiat polkowicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.49982,
         "longitude": 16.01528
     },
     {
-        "cityId": "7530837",
+        "cityId": 7530837,
         "name": "Powiat strzeli\u0144ski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.76688,
         "longitude": 17.10629
     },
     {
-        "cityId": "7530838",
+        "cityId": 7530838,
         "name": "Powiat \u015bredzki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.12628,
         "longitude": 16.61904
     },
     {
-        "cityId": "7530846",
+        "cityId": 7530846,
         "name": "Powiat \u015bwidnicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.87051,
         "longitude": 16.43043
     },
     {
-        "cityId": "7530847",
+        "cityId": 7530847,
         "name": "Powiat trzebnicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.37195,
         "longitude": 17.04989
     },
     {
-        "cityId": "7530848",
+        "cityId": 7530848,
         "name": "Powiat wa\u0142brzyski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.7534,
         "longitude": 16.19865
     },
     {
-        "cityId": "7530849",
+        "cityId": 7530849,
         "name": "Powiat wo\u0142owski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.37202,
         "longitude": 16.61399
     },
     {
-        "cityId": "7530850",
+        "cityId": 7530850,
         "name": "Powiat wroc\u0142awski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.04278,
         "longitude": 16.97115
     },
     {
-        "cityId": "7530851",
+        "cityId": 7530851,
         "name": "Powiat z\u0105bkowicki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.55669,
         "longitude": 16.87221
     },
     {
-        "cityId": "7530852",
+        "cityId": 7530852,
         "name": "Powiat zgorzelecki",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.16297,
         "longitude": 15.07863
     },
     {
-        "cityId": "7530853",
+        "cityId": 7530853,
         "name": "Powiat z\u0142otoryjski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.09129,
         "longitude": 15.87948
     },
     {
-        "cityId": "7530968",
+        "cityId": 7530968,
         "name": "Legnica",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 51.20473,
         "longitude": 16.15834
     },
     {
-        "cityId": "7530998",
+        "cityId": 7530998,
         "name": "Powiat kamiennog\u00f3rski",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.75603,
         "longitude": 16.00471
     },
     {
-        "cityId": "11669858",
+        "cityId": 11669858,
         "name": "Wa\u0142brzych",
-        "stateId": "3337492",
+        "stateId": 3337492,
         "latitude": 50.76882,
         "longitude": 16.27556
     }

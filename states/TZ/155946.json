@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "155918",
+        "cityId": 155918,
         "name": "Liwale",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -9.32739,
         "longitude": 37.91843
     },
     {
-        "cityId": "157383",
+        "cityId": 157383,
         "name": "Kilwa",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -9.03945,
         "longitude": 39.04456
     },
     {
-        "cityId": "877701",
+        "cityId": 877701,
         "name": "Nachingwea",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -10.40399,
         "longitude": 38.34422
     },
     {
-        "cityId": "878280",
+        "cityId": 878280,
         "name": "Lindi Urban",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -9.97832,
         "longitude": 39.67163
     },
     {
-        "cityId": "7647665",
+        "cityId": 7647665,
         "name": "Lindi Rural",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -9.68333,
         "longitude": 39.55
     },
     {
-        "cityId": "7647667",
+        "cityId": 7647667,
         "name": "Ruangwa",
-        "stateId": "155946",
+        "stateId": 155946,
         "latitude": -10.06667,
         "longitude": 38.93333
     }

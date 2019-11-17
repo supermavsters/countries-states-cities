@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2013228",
+        "cityId": 2013228,
         "name": "Vyazemskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 47.5,
         "longitude": 135
     },
     {
-        "cityId": "2013652",
+        "cityId": 2013652,
         "name": "Verkhnebureinskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 50.5,
         "longitude": 133
     },
     {
-        "cityId": "2014399",
+        "cityId": 2014399,
         "name": "Ul\u2019chskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 51.83333,
         "longitude": 139.5
     },
     {
-        "cityId": "2014966",
+        "cityId": 2014966,
         "name": "Tuguro-Chumikanskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 54.5,
         "longitude": 134
     },
     {
-        "cityId": "2022887",
+        "cityId": 2022887,
         "name": "Khabarovskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 48.5,
         "longitude": 135.25
     },
     {
-        "cityId": "2026693",
+        "cityId": 2026693,
         "name": "Bikinskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 47,
         "longitude": 134.25
     },
     {
-        "cityId": "2027744",
+        "cityId": 2027744,
         "name": "Amurskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 50.25,
         "longitude": 136.91667
     },
     {
-        "cityId": "2119929",
+        "cityId": 2119929,
         "name": "Vaninskiy Rayon",
-        "stateId": "2022888",
+        "stateId": 2022888,
         "latitude": 49.08333,
         "longitude": 140.25
     }

@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "470541",
+        "cityId": 470541,
         "name": "Vyborgskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 60.75,
         "longitude": 28.75
     },
     {
-        "cityId": "471099",
+        "cityId": 471099,
         "name": "Vsevolozhskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 60.16667,
         "longitude": 30.5
     },
     {
-        "cityId": "472350",
+        "cityId": 472350,
         "name": "Volosovskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.42105,
         "longitude": 29.47705
     },
     {
-        "cityId": "472711",
+        "cityId": 472711,
         "name": "Volkhovskiy rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.75,
         "longitude": 32.5
     },
     {
-        "cityId": "481965",
+        "cityId": 481965,
         "name": "Tosnenskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.41667,
         "longitude": 31
     },
     {
-        "cityId": "483008",
+        "cityId": 483008,
         "name": "Tikhvinskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.75,
         "longitude": 33.33333
     },
     {
-        "cityId": "492167",
+        "cityId": 492167,
         "name": "Slantsevskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.08333,
         "longitude": 28.25
     },
     {
-        "cityId": "508035",
+        "cityId": 508035,
         "name": "Podporozhskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 61,
         "longitude": 34.5
     },
     {
-        "cityId": "533053",
+        "cityId": 533053,
         "name": "Luzhskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 58.75,
         "longitude": 29.75
     },
     {
-        "cityId": "534332",
+        "cityId": 534332,
         "name": "Lomonosovskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.89721,
         "longitude": 29.73994
     },
     {
-        "cityId": "534562",
+        "cityId": 534562,
         "name": "Lodeynopol\u2019skiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 60.5,
         "longitude": 33.75
     },
     {
-        "cityId": "548376",
+        "cityId": 548376,
         "name": "Kirovskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.83333,
         "longitude": 31
     },
     {
-        "cityId": "548441",
+        "cityId": 548441,
         "name": "Kirishskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.41667,
         "longitude": 32.5
     },
     {
-        "cityId": "548601",
+        "cityId": 548601,
         "name": "Kingiseppskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.5,
         "longitude": 28.5
     },
     {
-        "cityId": "561883",
+        "cityId": 561883,
         "name": "Gatchinskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.41667,
         "longitude": 30.16667
     },
     {
-        "cityId": "575409",
+        "cityId": 575409,
         "name": "Boksitogorskiy Rayon",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.5,
         "longitude": 34
     },
     {
-        "cityId": "6695196",
+        "cityId": 6695196,
         "name": "Priozersky",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 61.03901,
         "longitude": 30.13515
     },
     {
-        "cityId": "11103379",
+        "cityId": 11103379,
         "name": "Sosnovoborsky Urban Okrug",
-        "stateId": "536199",
+        "stateId": 536199,
         "latitude": 59.87462,
         "longitude": 29.09008
     }

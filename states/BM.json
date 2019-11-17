@@ -1,78 +1,78 @@
 [
     {
-        "stateId": "3573251",
+        "stateId": 3573251,
         "name": "Devonshire Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.30278,
         "longitude": -64.75583
     },
     {
-        "stateId": "3573195",
+        "stateId": 3573195,
         "name": "Hamilton",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.34222,
         "longitude": -64.72833
     },
     {
-        "stateId": "3573198",
+        "stateId": 3573198,
         "name": "Hamilton",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.29326,
         "longitude": -64.78063
     },
     {
-        "stateId": "3573103",
+        "stateId": 3573103,
         "name": "Paget Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.27833,
         "longitude": -64.78167
     },
     {
-        "stateId": "3573095",
+        "stateId": 3573095,
         "name": "Pembroke Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.29944,
         "longitude": -64.79278
     },
     {
-        "stateId": "3573062",
+        "stateId": 3573062,
         "name": "Saint George",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.38417,
         "longitude": -64.67639
     },
     {
-        "stateId": "3573057",
+        "stateId": 3573057,
         "name": "Saint George\u2019s Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.3726,
         "longitude": -64.69437
     },
     {
-        "stateId": "3573050",
+        "stateId": 3573050,
         "name": "Sandys Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.29345,
         "longitude": -64.86828
     },
     {
-        "stateId": "3573031",
+        "stateId": 3573031,
         "name": "Smith\u2019s Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.31528,
         "longitude": -64.73528
     },
     {
-        "stateId": "3573026",
+        "stateId": 3573026,
         "name": "Southampton Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.25083,
         "longitude": -64.85639
     },
     {
-        "stateId": "3572972",
+        "stateId": 3572972,
         "name": "Warwick Parish",
-        "countryId": "3573345",
+        "countryId": 3573345,
         "latitude": 32.26583,
         "longitude": -64.80722
     }

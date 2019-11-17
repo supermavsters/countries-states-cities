@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "1854681",
+        "cityId": 1854681,
         "name": "Oga-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.93793,
         "longitude": 139.83611
     },
     {
-        "cityId": "1855401",
+        "cityId": 1855401,
         "name": "Nikaho-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.19677,
         "longitude": 139.97305
     },
     {
-        "cityId": "2110459",
+        "cityId": 2110459,
         "name": "Yuzawa-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.03658,
         "longitude": 140.54267
     },
     {
-        "cityId": "2110504",
+        "cityId": 2110504,
         "name": "Yokote-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.28369,
         "longitude": 140.54432
     },
     {
-        "cityId": "2111153",
+        "cityId": 2111153,
         "name": "Semboku-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.427,
         "longitude": 140.59592
     },
     {
-        "cityId": "2111935",
+        "cityId": 2111935,
         "name": "Minamiakita-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.95466,
         "longitude": 140.11372
     },
     {
-        "cityId": "2112235",
+        "cityId": 2112235,
         "name": "Kitaakita-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.95,
         "longitude": 140.3186
     },
     {
-        "cityId": "2113122",
+        "cityId": 2113122,
         "name": "Akita Shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.71043,
         "longitude": 140.23207
     },
     {
-        "cityId": "2127468",
+        "cityId": 2127468,
         "name": "Yamamoto-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.36014,
         "longitude": 140.26527
     },
     {
-        "cityId": "2128783",
+        "cityId": 2128783,
         "name": "\u014cdate-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.3,
         "longitude": 140.55
     },
     {
-        "cityId": "2128864",
+        "cityId": 2128864,
         "name": "Noshiro Shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.20289,
         "longitude": 140.14486
     },
     {
-        "cityId": "2129593",
+        "cityId": 2129593,
         "name": "Kazuno Shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.21035,
         "longitude": 140.8303
     },
     {
-        "cityId": "2129594",
+        "cityId": 2129594,
         "name": "Kazuno-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.39781,
         "longitude": 140.77263
     },
     {
-        "cityId": "7443147",
+        "cityId": 7443147,
         "name": "Ogachi-gun",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.17328,
         "longitude": 140.36312
     },
     {
-        "cityId": "7443149",
+        "cityId": 7443149,
         "name": "Daisen-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.5371,
         "longitude": 140.44139
     },
     {
-        "cityId": "7443155",
+        "cityId": 7443155,
         "name": "Katagami-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.87209,
         "longitude": 140.0491
     },
     {
-        "cityId": "7443156",
+        "cityId": 7443156,
         "name": "Kitaakita-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 40.23446,
         "longitude": 140.39978
     },
     {
-        "cityId": "7443160",
+        "cityId": 7443160,
         "name": "Yurihonj\u014d-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.29336,
         "longitude": 140.16498
     },
     {
-        "cityId": "9035660",
+        "cityId": 9035660,
         "name": "Semboku-shi",
-        "stateId": "2113124",
+        "stateId": 2113124,
         "latitude": 39.75709,
         "longitude": 140.66998
     }

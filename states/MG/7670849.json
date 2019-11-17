@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7910100",
+        "cityId": 7910100,
         "name": "Marovoay District",
-        "stateId": "7670849",
+        "stateId": 7670849,
         "latitude": -16.15,
         "longitude": 46.61667
     },
     {
-        "cityId": "11072816",
+        "cityId": 11072816,
         "name": "Mahajanga II",
-        "stateId": "7670849",
+        "stateId": 7670849,
         "latitude": -15.67936,
         "longitude": 46.81137
     },
     {
-        "cityId": "11072817",
+        "cityId": 11072817,
         "name": "Mahajanga I",
-        "stateId": "7670849",
+        "stateId": 7670849,
         "latitude": -15.59737,
         "longitude": 46.43509
     }

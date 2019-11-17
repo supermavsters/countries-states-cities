@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "11611648",
+        "cityId": 11611648,
         "name": "Region Surselva",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.69564,
         "longitude": 9.04834
     },
     {
-        "cityId": "11611649",
+        "cityId": 11611649,
         "name": "Region Viamala",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.58762,
         "longitude": 9.40035
     },
     {
-        "cityId": "11611650",
+        "cityId": 11611650,
         "name": "Region Engiadina Bassa \/ Val M\u00fcstair",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.75212,
         "longitude": 10.26032
     },
     {
-        "cityId": "11611651",
+        "cityId": 11611651,
         "name": "Region Plessur",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.81819,
         "longitude": 9.62542
     },
     {
-        "cityId": "11611652",
+        "cityId": 11611652,
         "name": "Region Imboden",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.84876,
         "longitude": 9.36225
     },
     {
-        "cityId": "11611653",
+        "cityId": 11611653,
         "name": "Region Albula",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.60255,
         "longitude": 9.6515
     },
     {
-        "cityId": "11611654",
+        "cityId": 11611654,
         "name": "Region Pr\u00e4ttigau \/ Davos",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.86727,
         "longitude": 9.82014
     },
     {
-        "cityId": "11611655",
+        "cityId": 11611655,
         "name": "Region Landquart",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.96403,
         "longitude": 9.56365
     },
     {
-        "cityId": "11611656",
+        "cityId": 11611656,
         "name": "Region Bernina",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.33488,
         "longitude": 10.07349
     },
     {
-        "cityId": "11611657",
+        "cityId": 11611657,
         "name": "Region Moesa",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.352,
         "longitude": 9.1787
     },
     {
-        "cityId": "11611658",
+        "cityId": 11611658,
         "name": "Region Maloja",
-        "stateId": "2660522",
+        "stateId": 2660522,
         "latitude": 46.47448,
         "longitude": 9.83138
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "1229899",
+        "cityId": 1229899,
         "name": "Polonnaruwa District",
-        "stateId": "1232870",
+        "stateId": 1232870,
         "latitude": 8,
         "longitude": 81
     },
     {
-        "cityId": "1251080",
+        "cityId": 1251080,
         "name": "Anuradhapura District",
-        "stateId": "1232870",
+        "stateId": 1232870,
         "latitude": 8.33333,
         "longitude": 80.5
     }

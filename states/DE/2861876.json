@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2867539",
+        "cityId": 2867539,
         "name": "Regierungsbezirk M\u00fcnster",
-        "stateId": "2861876",
+        "stateId": 2861876,
         "latitude": 51.9666,
         "longitude": 7.4333
     },
     {
-        "cityId": "2886241",
+        "cityId": 2886241,
         "name": "Regierungsbezirk K\u00f6ln",
-        "stateId": "2861876",
+        "stateId": 2861876,
         "latitude": 50.78333,
         "longitude": 6.8666
     },
     {
-        "cityId": "2934245",
+        "cityId": 2934245,
         "name": "Regierungsbezirk D\u00fcsseldorf",
-        "stateId": "2861876",
+        "stateId": 2861876,
         "latitude": 51.4,
         "longitude": 6.6
     },
     {
-        "cityId": "2937935",
+        "cityId": 2937935,
         "name": "Regierungsbezirk Detmold",
-        "stateId": "2861876",
+        "stateId": 2861876,
         "latitude": 51.9666,
         "longitude": 8.78333
     },
     {
-        "cityId": "2955470",
+        "cityId": 2955470,
         "name": "Regierungsbezirk Arnsberg",
-        "stateId": "2861876",
+        "stateId": 2861876,
         "latitude": 51.32967,
         "longitude": 8.0071
     }

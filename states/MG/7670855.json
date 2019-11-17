@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11072809",
+        "cityId": 11072809,
         "name": "Arivonimamo",
-        "stateId": "7670855",
+        "stateId": 7670855,
         "latitude": -19.04604,
         "longitude": 47.25955
     },
     {
-        "cityId": "11072810",
+        "cityId": 11072810,
         "name": "Miarinarivo",
-        "stateId": "7670855",
+        "stateId": 7670855,
         "latitude": -18.87482,
         "longitude": 46.81833
     },
     {
-        "cityId": "11072811",
+        "cityId": 11072811,
         "name": "Soavinandriana",
-        "stateId": "7670855",
+        "stateId": 7670855,
         "latitude": -19.2259,
         "longitude": 46.56167
     }

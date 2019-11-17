@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "862993",
+        "cityId": 862993,
         "name": "P\u00e4rnu linn",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.37901,
         "longitude": 24.52784
     },
     {
-        "cityId": "7522278",
+        "cityId": 7522278,
         "name": "H\u00e4\u00e4demeeste vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.05004,
         "longitude": 24.53832
     },
     {
-        "cityId": "7522303",
+        "cityId": 7522303,
         "name": "Kihnu vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.13,
         "longitude": 23.99002
     },
     {
-        "cityId": "7522394",
+        "cityId": 7522394,
         "name": "Tori vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.48663,
         "longitude": 24.88961
     },
     {
-        "cityId": "7522410",
+        "cityId": 7522410,
         "name": "Saarde vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.13802,
         "longitude": 24.95564
     },
     {
-        "cityId": "11776880",
+        "cityId": 11776880,
         "name": "L\u00e4\u00e4neranna vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.58909,
         "longitude": 23.89627
     },
     {
-        "cityId": "11776883",
+        "cityId": 11776883,
         "name": "P\u00f5hja-P\u00e4rnumaa vald",
-        "stateId": "589576",
+        "stateId": 589576,
         "latitude": 58.6346,
         "longitude": 24.79186
     }

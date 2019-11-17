@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2803558",
+        "cityId": 2803558,
         "name": "Zwickau",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.71667,
         "longitude": 12.48333
     },
     {
-        "cityId": "2821806",
+        "cityId": 2821806,
         "name": "Landkreis Nordsachsen",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.42556,
         "longitude": 13.04472
     },
     {
-        "cityId": "2872153",
+        "cityId": 2872153,
         "name": "Landkreis Mei\u00dfen",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.22501,
         "longitude": 13.50776
     },
     {
-        "cityId": "2879137",
+        "cityId": 2879137,
         "name": "Kreisfreie Stadt Leipzig",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.35,
         "longitude": 12.3833
     },
     {
-        "cityId": "2879138",
+        "cityId": 2879138,
         "name": "Landkreis Leipzig",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.22143,
         "longitude": 12.5995
     },
     {
-        "cityId": "2892916",
+        "cityId": 2892916,
         "name": "Kreisfreie Stadt Chemnitz",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.83194,
         "longitude": 12.93611
     },
     {
-        "cityId": "2918985",
+        "cityId": 2918985,
         "name": "Landkreis G\u00f6rlitz",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.14889,
         "longitude": 14.975
     },
     {
-        "cityId": "2925190",
+        "cityId": 2925190,
         "name": "Landkreis Mittelsachsen",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.83333,
         "longitude": 13.33333
     },
     {
-        "cityId": "2935020",
+        "cityId": 2935020,
         "name": "Kreisfreie Stadt Dresden",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.0833,
         "longitude": 13.7666
     },
     {
-        "cityId": "2951880",
+        "cityId": 2951880,
         "name": "Landkreis Bautzen",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 51.26513,
         "longitude": 14.24573
     },
     {
-        "cityId": "3305808",
+        "cityId": 3305808,
         "name": "Erzgebirgskreis",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.68333,
         "longitude": 13.18944
     },
     {
-        "cityId": "3305812",
+        "cityId": 3305812,
         "name": "Landkreis S\u00e4chsische Schweiz",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.95056,
         "longitude": 14.08056
     },
     {
-        "cityId": "6547384",
+        "cityId": 6547384,
         "name": "Vogtlandkreis",
-        "stateId": "2842566",
+        "stateId": 2842566,
         "latitude": 50.47198,
         "longitude": 12.23711
     }

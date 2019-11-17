@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "11352867",
+        "cityId": 11352867,
         "name": "Saldus",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.66442,
         "longitude": 22.49038
     },
     {
-        "cityId": "11352887",
+        "cityId": 11352887,
         "name": "Ezeres pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.43236,
         "longitude": 22.33708
     },
     {
-        "cityId": "11352888",
+        "cityId": 11352888,
         "name": "Jaunauces pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.45692,
         "longitude": 22.66043
     },
     {
-        "cityId": "11352889",
+        "cityId": 11352889,
         "name": "Jaunlutri\u0146u pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.80393,
         "longitude": 22.34975
     },
     {
-        "cityId": "11352890",
+        "cityId": 11352890,
         "name": "Kurs\u012b\u0161u pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.51435,
         "longitude": 22.38939
     },
     {
-        "cityId": "11352891",
+        "cityId": 11352891,
         "name": "Lutri\u0146u pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.73815,
         "longitude": 22.33481
     },
     {
-        "cityId": "11352893",
+        "cityId": 11352893,
         "name": "N\u012bgrandes pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.45883,
         "longitude": 22.04751
     },
     {
-        "cityId": "11352895",
+        "cityId": 11352895,
         "name": "Novadnieku pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.6103,
         "longitude": 22.40819
     },
     {
-        "cityId": "11352896",
+        "cityId": 11352896,
         "name": "Pamp\u0101\u013cu pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.55996,
         "longitude": 22.1591
     },
     {
-        "cityId": "11352899",
+        "cityId": 11352899,
         "name": "Rubas pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.41488,
         "longitude": 22.5677
     },
     {
-        "cityId": "11352900",
+        "cityId": 11352900,
         "name": "Saldus pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.70583,
         "longitude": 22.44916
     },
     {
-        "cityId": "11352902",
+        "cityId": 11352902,
         "name": "\u0160\u0137\u0113des pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.88096,
         "longitude": 22.40977
     },
     {
-        "cityId": "11352903",
+        "cityId": 11352903,
         "name": "Vadakstes pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.39066,
         "longitude": 22.77974
     },
     {
-        "cityId": "11352904",
+        "cityId": 11352904,
         "name": "Za\u0146as pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.48347,
         "longitude": 22.2071
     },
     {
-        "cityId": "11352906",
+        "cityId": 11352906,
         "name": "Zir\u0146u pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.67368,
         "longitude": 22.25185
     },
     {
-        "cityId": "11352907",
+        "cityId": 11352907,
         "name": "Zv\u0101rdes pagasts",
-        "stateId": "455888",
+        "stateId": 455888,
         "latitude": 56.55328,
         "longitude": 22.60381
     }

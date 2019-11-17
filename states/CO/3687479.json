@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3668291",
+        "cityId": 3668291,
         "name": "San Vicente del Cagu\u00e1n",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 2.1525,
         "longitude": -74.78889
     },
     {
-        "cityId": "3674528",
+        "cityId": 3674528,
         "name": "La Monta\u00f1ita",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.46389,
         "longitude": -75.30363
     },
     {
-        "cityId": "3682428",
+        "cityId": 3682428,
         "name": "Florencia",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.75,
         "longitude": -75.58333
     },
     {
-        "cityId": "3688992",
+        "cityId": 3688992,
         "name": "Bel\u00e9n de Los Andaquies",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.41667,
         "longitude": -75.91667
     },
     {
-        "cityId": "6792005",
+        "cityId": 6792005,
         "name": "Solita",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 0.96979,
         "longitude": -75.65532
     },
     {
-        "cityId": "6977691",
+        "cityId": 6977691,
         "name": "Mil\u00e1n",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.15382,
         "longitude": -75.54606
     },
     {
-        "cityId": "6979259",
+        "cityId": 6979259,
         "name": "Puerto Rico",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.96779,
         "longitude": -75.03334
     },
     {
-        "cityId": "6979260",
+        "cityId": 6979260,
         "name": "El Doncello",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.7086,
         "longitude": -75.28588
     },
     {
-        "cityId": "6979261",
+        "cityId": 6979261,
         "name": "El Paujil",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.57085,
         "longitude": -75.31403
     },
     {
-        "cityId": "8128836",
+        "cityId": 8128836,
         "name": "Albania",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.26325,
         "longitude": -75.95366
     },
     {
-        "cityId": "9172287",
+        "cityId": 9172287,
         "name": "Cartagena del Chair\u00e1",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 0.85246,
         "longitude": -74.6059
     },
     {
-        "cityId": "9172289",
+        "cityId": 9172289,
         "name": "Curillo",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.09861,
         "longitude": -76.0304
     },
     {
-        "cityId": "9172293",
+        "cityId": 9172293,
         "name": "Morelia",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.4823,
         "longitude": -75.72052
     },
     {
-        "cityId": "9172295",
+        "cityId": 9172295,
         "name": "San Jos\u00e9 del Fragua",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.3078,
         "longitude": -76.16554
     },
     {
-        "cityId": "9172297",
+        "cityId": 9172297,
         "name": "Solano",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 0.22842,
         "longitude": -73.27597
     },
     {
-        "cityId": "9172351",
+        "cityId": 9172351,
         "name": "Valpara\u00edso",
-        "stateId": "3687479",
+        "stateId": 3687479,
         "latitude": 1.05706,
         "longitude": -75.75969
     }

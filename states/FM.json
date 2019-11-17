@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "2082282",
+        "stateId": 2082282,
         "name": "State of Chuuk",
-        "countryId": "2081918",
+        "countryId": 2081918,
         "latitude": 7.44077,
         "longitude": 151.85431
     },
     {
-        "stateId": "2082036",
+        "stateId": 2082036,
         "name": "State of Kosrae",
-        "countryId": "2081918",
+        "countryId": 2081918,
         "latitude": 5.325,
         "longitude": 162.981
     },
     {
-        "stateId": "2081550",
+        "stateId": 2081550,
         "name": "State of Pohnpei",
-        "countryId": "2081918",
+        "countryId": 2081918,
         "latitude": 6.964,
         "longitude": 158.2056
     },
     {
-        "stateId": "2081175",
+        "stateId": 2081175,
         "name": "State of Yap",
-        "countryId": "2081918",
+        "countryId": 2081918,
         "latitude": 9.538,
         "longitude": 138.097
     }

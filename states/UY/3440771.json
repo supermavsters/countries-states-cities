@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11820803",
+        "cityId": 11820803,
         "name": "La Paloma",
-        "stateId": "3440771",
+        "stateId": 3440771,
         "latitude": -34.56823,
         "longitude": -54.17842
     },
     {
-        "cityId": "11820804",
+        "cityId": 11820804,
         "name": "Lascano",
-        "stateId": "3440771",
+        "stateId": 3440771,
         "latitude": -33.7651,
         "longitude": -54.26093
     },
     {
-        "cityId": "11820850",
+        "cityId": 11820850,
         "name": "Castillos",
-        "stateId": "3440771",
+        "stateId": 3440771,
         "latitude": -34.01738,
         "longitude": -53.87891
     },
     {
-        "cityId": "11820872",
+        "cityId": 11820872,
         "name": "Chuy",
-        "stateId": "3440771",
+        "stateId": 3440771,
         "latitude": -33.73128,
         "longitude": -53.50001
     }

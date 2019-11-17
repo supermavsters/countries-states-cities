@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "463424",
+        "cityId": 463424,
         "name": "Primorskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.99624,
         "longitude": 30.2409
     },
     {
-        "cityId": "470542",
+        "cityId": 470542,
         "name": "Vyborgskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 60.05662,
         "longitude": 30.36621
     },
     {
-        "cityId": "476815",
+        "cityId": 476815,
         "name": "Vasileostrovskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.93971,
         "longitude": 30.26115
     },
     {
-        "cityId": "496477",
+        "cityId": 496477,
         "name": "Sestroretskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 60.08333,
         "longitude": 30
     },
     {
-        "cityId": "510222",
+        "cityId": 510222,
         "name": "Petrogradskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.96667,
         "longitude": 30.3
     },
     {
-        "cityId": "522360",
+        "cityId": 522360,
         "name": "Nevskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.89204,
         "longitude": 30.45341
     },
     {
-        "cityId": "524915",
+        "cityId": 524915,
         "name": "Moskovskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.85447,
         "longitude": 30.32982
     },
     {
-        "cityId": "542231",
+        "cityId": 542231,
         "name": "Krasnosel\u2019skiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.85777,
         "longitude": 30.22132
     },
     {
-        "cityId": "542341",
+        "cityId": 542341,
         "name": "Krasnogvardeyskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.97288,
         "longitude": 30.47058
     },
     {
-        "cityId": "548375",
+        "cityId": 548375,
         "name": "Kirovskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.86667,
         "longitude": 30.28333
     },
     {
-        "cityId": "554181",
+        "cityId": 554181,
         "name": "Kalininskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.99075,
         "longitude": 30.3717
     },
     {
-        "cityId": "562330",
+        "cityId": 562330,
         "name": "Frunzenskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.91667,
         "longitude": 30.33333
     },
     {
-        "cityId": "8521318",
+        "cityId": 8521318,
         "name": "Admiralteysky Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.92337,
         "longitude": 30.29823
     },
     {
-        "cityId": "8521319",
+        "cityId": 8521319,
         "name": "Kolpinskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.78042,
         "longitude": 30.58628
     },
     {
-        "cityId": "8521320",
+        "cityId": 8521320,
         "name": "Kronshtadtskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.99813,
         "longitude": 29.75304
     },
     {
-        "cityId": "8521321",
+        "cityId": 8521321,
         "name": "Kurortnyy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 60.17601,
         "longitude": 29.87389
     },
     {
-        "cityId": "8521322",
+        "cityId": 8521322,
         "name": "Petrodvortsovyy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.88687,
         "longitude": 29.8447
     },
     {
-        "cityId": "8521323",
+        "cityId": 8521323,
         "name": "Pushkinskiy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.73875,
         "longitude": 30.34561
     },
     {
-        "cityId": "8521324",
+        "cityId": 8521324,
         "name": "Tsentralniy Rayon",
-        "stateId": "536203",
+        "stateId": 536203,
         "latitude": 59.94573,
         "longitude": 30.39162
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "349716",
+        "cityId": 349716,
         "name": "Markaz Sam\u0101l\u016b\u0163",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 28.28333,
         "longitude": 30.66667
     },
     {
-        "cityId": "352626",
+        "cityId": 352626,
         "name": "Markaz Ma\u0163\u0101y",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 28.40457,
         "longitude": 30.71746
     },
     {
-        "cityId": "352950",
+        "cityId": 352950,
         "name": "Markaz Mallaw\u012b",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 27.76209,
         "longitude": 30.80105
     },
     {
-        "cityId": "358273",
+        "cityId": 358273,
         "name": "Markaz Dayr Maw\u0101s",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 27.62645,
         "longitude": 30.79317
     },
     {
-        "cityId": "359211",
+        "cityId": 359211,
         "name": "Markaz Ban\u012b Maz\u0101r",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 28.50789,
         "longitude": 30.75736
     },
     {
-        "cityId": "360687",
+        "cityId": 360687,
         "name": "Markaz al Miny\u0101",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 28.08581,
         "longitude": 30.70452
     },
     {
-        "cityId": "361099",
+        "cityId": 361099,
         "name": "Markaz al \u2018Idwah",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 28.68896,
         "longitude": 30.74143
     },
     {
-        "cityId": "362276",
+        "cityId": 362276,
         "name": "Markaz Ab\u016b Qurq\u0101\u015f",
-        "stateId": "360688",
+        "stateId": 360688,
         "latitude": 27.92177,
         "longitude": 30.77655
     }

@@ -1,99 +1,99 @@
 [
     {
-        "stateId": "3490952",
+        "stateId": 3490952,
         "name": "Clarendon",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 17.98333,
         "longitude": -77.3
     },
     {
-        "stateId": "3489853",
+        "stateId": 3489853,
         "name": "Kingston",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 17.96667,
         "longitude": -76.8
     },
     {
-        "stateId": "3489586",
+        "stateId": 3489586,
         "name": "Manchester",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.05,
         "longitude": -77.53333
     },
     {
-        "stateId": "3490145",
+        "stateId": 3490145,
         "name": "Parish of Hanover",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.41667,
         "longitude": -78.13333
     },
     {
-        "stateId": "3488715",
+        "stateId": 3488715,
         "name": "Parish of Saint Ann",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.35,
         "longitude": -77.26667
     },
     {
-        "stateId": "3488997",
+        "stateId": 3488997,
         "name": "Portland",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.13333,
         "longitude": -76.53333
     },
     {
-        "stateId": "3488716",
+        "stateId": 3488716,
         "name": "Saint Andrew",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.06667,
         "longitude": -76.75
     },
     {
-        "stateId": "3488711",
+        "stateId": 3488711,
         "name": "Saint Catherine",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.06667,
         "longitude": -77.01667
     },
     {
-        "stateId": "3488708",
+        "stateId": 3488708,
         "name": "Saint Elizabeth",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.05,
         "longitude": -77.78333
     },
     {
-        "stateId": "3488700",
+        "stateId": 3488700,
         "name": "Saint James",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.38333,
         "longitude": -77.88333
     },
     {
-        "stateId": "3488693",
+        "stateId": 3488693,
         "name": "Saint Mary",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.31667,
         "longitude": -76.9
     },
     {
-        "stateId": "3488688",
+        "stateId": 3488688,
         "name": "Saint Thomas",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 17.9,
         "longitude": -76.43333
     },
     {
-        "stateId": "3488222",
+        "stateId": 3488222,
         "name": "Trelawny",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.38333,
         "longitude": -77.63333
     },
     {
-        "stateId": "3488081",
+        "stateId": 3488081,
         "name": "Westmoreland",
-        "countryId": "3489940",
+        "countryId": 3489940,
         "latitude": 18.23333,
         "longitude": -78.15
     }

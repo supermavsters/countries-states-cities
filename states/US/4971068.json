@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "4956755",
+        "cityId": 4956755,
         "name": "Androscoggin County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.16585,
         "longitude": -70.20645
     },
     {
-        "cityId": "4956873",
+        "cityId": 4956873,
         "name": "Aroostook County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 46.65881,
         "longitude": -68.59889
     },
     {
-        "cityId": "4961900",
+        "cityId": 4961900,
         "name": "Cumberland County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 43.80608,
         "longitude": -70.3302
     },
     {
-        "cityId": "4964821",
+        "cityId": 4964821,
         "name": "Franklin County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.97417,
         "longitude": -70.4441
     },
     {
-        "cityId": "4966407",
+        "cityId": 4966407,
         "name": "Hancock County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.56289,
         "longitude": -68.36821
     },
     {
-        "cityId": "4968714",
+        "cityId": 4968714,
         "name": "Kennebec County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.40916,
         "longitude": -69.76726
     },
     {
-        "cityId": "4968996",
+        "cityId": 4968996,
         "name": "Knox County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.07575,
         "longitude": -69.12598
     },
     {
-        "cityId": "4969555",
+        "cityId": 4969555,
         "name": "Lincoln County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 43.99779,
         "longitude": -69.52576
     },
     {
-        "cityId": "4974522",
+        "cityId": 4974522,
         "name": "Oxford County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.49977,
         "longitude": -70.75657
     },
     {
-        "cityId": "4974977",
+        "cityId": 4974977,
         "name": "Penobscot County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 45.40051,
         "longitude": -68.64943
     },
     {
-        "cityId": "4975418",
+        "cityId": 4975418,
         "name": "Piscataquis County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 45.83736,
         "longitude": -69.28452
     },
     {
-        "cityId": "4977278",
+        "cityId": 4977278,
         "name": "Sagadahoc County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 43.91173,
         "longitude": -69.83931
     },
     {
-        "cityId": "4978972",
+        "cityId": 4978972,
         "name": "Somerset County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 45.51385,
         "longitude": -69.95882
     },
     {
-        "cityId": "4982040",
+        "cityId": 4982040,
         "name": "Waldo County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.48525,
         "longitude": -69.12188
     },
     {
-        "cityId": "4982182",
+        "cityId": 4982182,
         "name": "Washington County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 44.96946,
         "longitude": -67.60906
     },
     {
-        "cityId": "4983621",
+        "cityId": 4983621,
         "name": "York County",
-        "stateId": "4971068",
+        "stateId": 4971068,
         "latitude": 43.42923,
         "longitude": -70.67015
     }

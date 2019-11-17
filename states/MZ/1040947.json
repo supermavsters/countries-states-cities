@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1035732",
+        "cityId": 1035732,
         "name": "Guro",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -16.95262,
         "longitude": 33.51865
     },
     {
-        "cityId": "1037018",
+        "cityId": 1037018,
         "name": "Circunscri\u00e7\u00e3o de Mossurize",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -20.51262,
         "longitude": 32.94367
     },
     {
-        "cityId": "1040948",
+        "cityId": 1040948,
         "name": "Concelho de Manica",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -18.94857,
         "longitude": 32.89509
     },
     {
-        "cityId": "1049260",
+        "cityId": 1049260,
         "name": "Concelho do Chimoio",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -19.12704,
         "longitude": 33.45627
     },
     {
-        "cityId": "1052446",
+        "cityId": 1052446,
         "name": "Barue District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -17.81047,
         "longitude": 33.17267
     },
     {
-        "cityId": "7646374",
+        "cityId": 7646374,
         "name": "Gondola District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -19.15,
         "longitude": 33.66
     },
     {
-        "cityId": "7670758",
+        "cityId": 7670758,
         "name": "Sussundenga District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -19.69082,
         "longitude": 33.27154
     },
     {
-        "cityId": "7874045",
+        "cityId": 7874045,
         "name": "Guro District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -16.964,
         "longitude": 33.569
     },
     {
-        "cityId": "7874620",
+        "cityId": 7874620,
         "name": "Machaze District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -20.8021,
         "longitude": 33.41389
     },
     {
-        "cityId": "7874622",
+        "cityId": 7874622,
         "name": "Macossa District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -17.89152,
         "longitude": 33.93694
     },
     {
-        "cityId": "7874624",
+        "cityId": 7874624,
         "name": "Tambara District",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -16.72359,
         "longitude": 34.25571
     },
     {
-        "cityId": "10701340",
+        "cityId": 10701340,
         "name": "Distrito de Vanduzi",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -18.83573,
         "longitude": 33.26348
     },
     {
-        "cityId": "10701341",
+        "cityId": 10701341,
         "name": "Distrito de Macate",
-        "stateId": "1040947",
+        "stateId": 1040947,
         "latitude": -19.38915,
         "longitude": 33.56895
     }

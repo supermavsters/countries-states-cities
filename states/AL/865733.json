@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "782072",
+        "cityId": 782072,
         "name": "Rrethi i P\u00ebrmetit",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.28333,
         "longitude": 20.33333
     },
     {
-        "cityId": "783151",
+        "cityId": 783151,
         "name": "Rrethi i Gjirokastr\u00ebs",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.03333,
         "longitude": 20.16667
     },
     {
-        "cityId": "3183911",
+        "cityId": 3183911,
         "name": "Rrethi i Tepelen\u00ebs",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.33333,
         "longitude": 19.96667
     },
     {
-        "cityId": "10944393",
+        "cityId": 10944393,
         "name": "Bashkia Dropull",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 39.98584,
         "longitude": 20.30529
     },
     {
-        "cityId": "10944394",
+        "cityId": 10944394,
         "name": "Bashkia Gjirokast\u00ebr",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.12775,
         "longitude": 20.07291
     },
     {
-        "cityId": "10944395",
+        "cityId": 10944395,
         "name": "Bashkia Kelcyr\u00eb",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.36196,
         "longitude": 20.16476
     },
     {
-        "cityId": "10944396",
+        "cityId": 10944396,
         "name": "Bashkia Libohov\u00eb",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.10754,
         "longitude": 20.25753
     },
     {
-        "cityId": "10944397",
+        "cityId": 10944397,
         "name": "Bashkia Memaliaj",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.41524,
         "longitude": 19.96911
     },
     {
-        "cityId": "10944398",
+        "cityId": 10944398,
         "name": "Bashkia P\u00ebrmet",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.23246,
         "longitude": 20.41091
     },
     {
-        "cityId": "10944399",
+        "cityId": 10944399,
         "name": "Bashkia Tepelen\u00eb",
-        "stateId": "865733",
+        "stateId": 865733,
         "latitude": 40.26736,
         "longitude": 19.97003
     }

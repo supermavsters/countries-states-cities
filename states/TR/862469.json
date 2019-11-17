@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7732689",
+        "cityId": 7732689,
         "name": "Merkez",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.60665,
         "longitude": 29.26346
     },
     {
-        "cityId": "8632542",
+        "cityId": 8632542,
         "name": "Alt\u0131nova \u0130l\u00e7esi",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.70478,
         "longitude": 29.51606
     },
     {
-        "cityId": "8632543",
+        "cityId": 8632543,
         "name": "Termal \u0130l\u00e7esi",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.61381,
         "longitude": 29.18049
     },
     {
-        "cityId": "8632544",
+        "cityId": 8632544,
         "name": "\u00c7iftlikk\u00f6y \u0130l\u00e7esi",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.65302,
         "longitude": 29.33946
     },
     {
-        "cityId": "8632545",
+        "cityId": 8632545,
         "name": "Armutlu \u0130l\u00e7esi",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.52919,
         "longitude": 28.83871
     },
     {
-        "cityId": "8632546",
+        "cityId": 8632546,
         "name": "\u00c7\u0131narc\u0131k \u0130l\u00e7esi",
-        "stateId": "862469",
+        "stateId": 862469,
         "latitude": 40.63669,
         "longitude": 29.13881
     }

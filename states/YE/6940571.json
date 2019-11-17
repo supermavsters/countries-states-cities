@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "6940595",
+        "cityId": 6940595,
         "name": "Bani Al Harith",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.5062,
         "longitude": 44.2601
     },
     {
-        "cityId": "6940657",
+        "cityId": 6940657,
         "name": "Al Wahdah",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3352,
         "longitude": 44.1868
     },
     {
-        "cityId": "6940658",
+        "cityId": 6940658,
         "name": "Old City",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3551,
         "longitude": 44.2145
     },
     {
-        "cityId": "6940659",
+        "cityId": 6940659,
         "name": "Ath'thaorah",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3911,
         "longitude": 44.1929
     },
     {
-        "cityId": "6940660",
+        "cityId": 6940660,
         "name": "Assafi'yah",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3431,
         "longitude": 44.2355
     },
     {
-        "cityId": "6940661",
+        "cityId": 6940661,
         "name": "Ma'ain",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3706,
         "longitude": 44.1659
     },
     {
-        "cityId": "6940662",
+        "cityId": 6940662,
         "name": "As Sabain",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3145,
         "longitude": 44.2198
     },
     {
-        "cityId": "6940663",
+        "cityId": 6940663,
         "name": "Shu'aub",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3856,
         "longitude": 44.2241
     },
     {
-        "cityId": "6940664",
+        "cityId": 6940664,
         "name": "Az'zal",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.3562,
         "longitude": 44.2385
     },
     {
-        "cityId": "6940665",
+        "cityId": 6940665,
         "name": "At Tahrir",
-        "stateId": "6940571",
+        "stateId": 6940571,
         "latitude": 15.354,
         "longitude": 44.1979
     }

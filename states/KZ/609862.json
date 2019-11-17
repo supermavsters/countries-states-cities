@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "608723",
+        "cityId": 608723,
         "name": "\u012asatay A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.66667,
         "longitude": 50.66667
     },
     {
-        "cityId": "608914",
+        "cityId": 608914,
         "name": "Makhambet A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.5,
         "longitude": 51
     },
     {
-        "cityId": "608919",
+        "cityId": 608919,
         "name": "Maqat A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.5,
         "longitude": 53
     },
     {
-        "cityId": "608966",
+        "cityId": 608966,
         "name": "Qyzylqogha A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 48.41667,
         "longitude": 53.91667
     },
     {
-        "cityId": "609795",
+        "cityId": 609795,
         "name": "\u012ander A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 48.58333,
         "longitude": 51.75
     },
     {
-        "cityId": "609923",
+        "cityId": 609923,
         "name": "Zhylyoy A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 46.83333,
         "longitude": 54.33333
     },
     {
-        "cityId": "610044",
+        "cityId": 610044,
         "name": "Kurmanghazy A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.5,
         "longitude": 49
     },
     {
-        "cityId": "610444",
+        "cityId": 610444,
         "name": "Balyqshy A\u016bdany",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.25,
         "longitude": 52
     },
     {
-        "cityId": "828321",
+        "cityId": 828321,
         "name": "Atyra\u016b Qalasy",
-        "stateId": "609862",
+        "stateId": 609862,
         "latitude": 47.11667,
         "longitude": 51.91667
     }

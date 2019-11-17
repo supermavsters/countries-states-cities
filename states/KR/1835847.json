@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "1832311",
+        "cityId": 1832311,
         "name": "Yongsan-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.53391,
         "longitude": 126.9775
     },
     {
-        "cityId": "1832536",
+        "cityId": 1832536,
         "name": "Yeongdeungpo-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.52606,
         "longitude": 126.90308
     },
     {
-        "cityId": "1833594",
+        "cityId": 1833594,
         "name": "Eunpyeong-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.61846,
         "longitude": 126.9278
     },
     {
-        "cityId": "1834245",
+        "cityId": 1834245,
         "name": "Dongjak-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.50056,
         "longitude": 126.95149
     },
     {
-        "cityId": "1834328",
+        "cityId": 1834328,
         "name": "Dongdaemun-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.58189,
         "longitude": 127.05408
     },
     {
-        "cityId": "1834758",
+        "cityId": 1834758,
         "name": "Dobong-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.65066,
         "longitude": 127.03011
     },
     {
-        "cityId": "1836279",
+        "cityId": 1836279,
         "name": "Gangdong-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.55274,
         "longitude": 127.14546
     },
     {
-        "cityId": "1836339",
+        "cityId": 1836339,
         "name": "Gangbuk-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.6349,
         "longitude": 127.02015
     },
     {
-        "cityId": "1836701",
+        "cityId": 1836701,
         "name": "Seodaemun-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.57809,
         "longitude": 126.93506
     },
     {
-        "cityId": "1841277",
+        "cityId": 1841277,
         "name": "Mapo-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.55438,
         "longitude": 126.90926
     },
     {
-        "cityId": "1841893",
+        "cityId": 1841893,
         "name": "Gwanak-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.47876,
         "longitude": 126.95235
     },
     {
-        "cityId": "1841986",
+        "cityId": 1841986,
         "name": "Guro-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.49447,
         "longitude": 126.8502
     },
     {
-        "cityId": "1843128",
+        "cityId": 1843128,
         "name": "Gangseo-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.56227,
         "longitude": 126.81622
     },
     {
-        "cityId": "1843140",
+        "cityId": 1843140,
         "name": "Gangnam-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.4951,
         "longitude": 127.06278
     },
     {
-        "cityId": "1845068",
+        "cityId": 1845068,
         "name": "Jung-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.55986,
         "longitude": 126.99398
     },
     {
-        "cityId": "1845581",
+        "cityId": 1845581,
         "name": "Jongno-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.5729,
         "longitude": 126.97928
     },
     {
-        "cityId": "8349528",
+        "cityId": 8349528,
         "name": "Seongdong-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.54784,
         "longitude": 127.02461
     },
     {
-        "cityId": "8349529",
+        "cityId": 8349529,
         "name": "Gwangjin-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.53913,
         "longitude": 127.08366
     },
     {
-        "cityId": "8349530",
+        "cityId": 8349530,
         "name": "Jungnang-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.60199,
         "longitude": 127.10461
     },
     {
-        "cityId": "8349531",
+        "cityId": 8349531,
         "name": "Nowon-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.66045,
         "longitude": 127.06718
     },
     {
-        "cityId": "8349532",
+        "cityId": 8349532,
         "name": "Seongbuk-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.60267,
         "longitude": 127.01448
     },
     {
-        "cityId": "8349533",
+        "cityId": 8349533,
         "name": "Yangcheon-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.52157,
         "longitude": 126.85827
     },
     {
-        "cityId": "8349534",
+        "cityId": 8349534,
         "name": "Geumcheon-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.47486,
         "longitude": 126.89106
     },
     {
-        "cityId": "8349535",
+        "cityId": 8349535,
         "name": "Seocho-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.49447,
         "longitude": 127.01088
     },
     {
-        "cityId": "8349536",
+        "cityId": 8349536,
         "name": "Songpa-gu",
-        "stateId": "1835847",
+        "stateId": 1835847,
         "latitude": 37.5021,
         "longitude": 127.11113
     }

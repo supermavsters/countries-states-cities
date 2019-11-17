@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3615668",
+        "cityId": 3615668,
         "name": "Municipio de Yalag\u00fcina",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.5,
         "longitude": -86.43333
     },
     {
-        "cityId": "3615997",
+        "cityId": 3615997,
         "name": "Municipio de Totogalpa",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.56092,
         "longitude": -86.49283
     },
     {
-        "cityId": "3616087",
+        "cityId": 3616087,
         "name": "Municipio de Telpaneca",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.53333,
         "longitude": -86.28333
     },
     {
-        "cityId": "3616231",
+        "cityId": 3616231,
         "name": "Municipio de Somoto",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.56667,
         "longitude": -86.58333
     },
     {
-        "cityId": "3616697",
+        "cityId": 3616697,
         "name": "Municipio de San Lucas",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.41667,
         "longitude": -86.58333
     },
     {
-        "cityId": "3616727",
+        "cityId": 3616727,
         "name": "Municipio de San Juan del R\u00edo Coco",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.53333,
         "longitude": -86.16667
     },
     {
-        "cityId": "3616756",
+        "cityId": 3616756,
         "name": "Municipio de San Jos\u00e9 de Cusmapa",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.3,
         "longitude": -86.63333
     },
     {
-        "cityId": "3617387",
+        "cityId": 3617387,
         "name": "Municipio de Palacag\u00fcina",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.48333,
         "longitude": -86.33333
     },
     {
-        "cityId": "3618123",
+        "cityId": 3618123,
         "name": "Municipio de Las Sabanas",
-        "stateId": "3617796",
+        "stateId": 3617796,
         "latitude": 13.34152,
         "longitude": -86.62007
     }

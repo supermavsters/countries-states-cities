@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "461703",
+        "cityId": 461703,
         "name": "Sortaval\u2019skiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61.75,
         "longitude": 30.66667
     },
     {
-        "cityId": "486183",
+        "cityId": 486183,
         "name": "Suoyarvskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 62.25,
         "longitude": 32.25
     },
     {
-        "cityId": "497924",
+        "cityId": 497924,
         "name": "Segezhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 63.58333,
         "longitude": 34.33333
     },
     {
-        "cityId": "504259",
+        "cityId": 504259,
         "name": "Pudozhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 62,
         "longitude": 37
     },
     {
-        "cityId": "504407",
+        "cityId": 504407,
         "name": "Pryazhinskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61.5,
         "longitude": 33.66667
     },
     {
-        "cityId": "505244",
+        "cityId": 505244,
         "name": "Prionezhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61.5,
         "longitude": 34.33333
     },
     {
-        "cityId": "509233",
+        "cityId": 509233,
         "name": "Pitkyarantskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61.58333,
         "longitude": 31.5
     },
     {
-        "cityId": "515401",
+        "cityId": 515401,
         "name": "Olonetskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61,
         "longitude": 33
     },
     {
-        "cityId": "524099",
+        "cityId": 524099,
         "name": "Muyezerskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 64,
         "longitude": 31.66667
     },
     {
-        "cityId": "527887",
+        "cityId": 527887,
         "name": "Medvezh\u2019yegorskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 63,
         "longitude": 35
     },
     {
-        "cityId": "533962",
+        "cityId": 533962,
         "name": "Loukhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 66,
         "longitude": 33.5
     },
     {
-        "cityId": "537148",
+        "cityId": 537148,
         "name": "Lakhdenpokhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 61.51667,
         "longitude": 30.18333
     },
     {
-        "cityId": "545624",
+        "cityId": 545624,
         "name": "Kondopozhskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 62.16667,
         "longitude": 34.33333
     },
     {
-        "cityId": "551115",
+        "cityId": 551115,
         "name": "Kemskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 65.16667,
         "longitude": 34
     },
     {
-        "cityId": "554317",
+        "cityId": 554317,
         "name": "Kaleval\u2019skiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 65,
         "longitude": 31
     },
     {
-        "cityId": "577920",
+        "cityId": 577920,
         "name": "Belomorskiy Rayon",
-        "stateId": "552548",
+        "stateId": 552548,
         "latitude": 64.16667,
         "longitude": 35
     }

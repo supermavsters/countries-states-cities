@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8347346",
+        "cityId": 8347346,
         "name": "Capricorn District Municipality",
-        "stateId": "1085597",
+        "stateId": 1085597,
         "latitude": -23.48163,
         "longitude": 29.1835
     },
     {
-        "cityId": "8347373",
+        "cityId": 8347373,
         "name": "Mopani District Municipality",
-        "stateId": "1085597",
+        "stateId": 1085597,
         "latitude": -23.76661,
         "longitude": 30.836
     },
     {
-        "cityId": "8347374",
+        "cityId": 8347374,
         "name": "Vhembe District Municipality",
-        "stateId": "1085597",
+        "stateId": 1085597,
         "latitude": -22.75467,
         "longitude": 30.1936
     },
     {
-        "cityId": "8347375",
+        "cityId": 8347375,
         "name": "Waterberg District Municipality",
-        "stateId": "1085597",
+        "stateId": 1085597,
         "latitude": -24.20514,
         "longitude": 27.9787
     },
     {
-        "cityId": "8347380",
+        "cityId": 8347380,
         "name": "Sekhukhune District Municipality",
-        "stateId": "1085597",
+        "stateId": 1085597,
         "latitude": -24.82806,
         "longitude": 29.83803
     }

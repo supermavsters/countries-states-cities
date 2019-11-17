@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "2273272",
+        "cityId": 2273272,
         "name": "Waiglomai-Woniglomai",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.36528,
         "longitude": -9.59722
     },
     {
-        "cityId": "2275898",
+        "cityId": 2275898,
         "name": "Kisi",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.37583,
         "longitude": -10.24528
     },
     {
-        "cityId": "2276054",
+        "cityId": 2276054,
         "name": "Kambo Hills",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.12556,
         "longitude": -10.42778
     },
     {
-        "cityId": "2276555",
+        "cityId": 2276555,
         "name": "Guma-Mendi",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8,
         "longitude": -10.41667
     },
     {
-        "cityId": "2276828",
+        "cityId": 2276828,
         "name": "Gizima-Ziema",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 7.83778,
         "longitude": -9.66694
     },
     {
-        "cityId": "2277082",
+        "cityId": 2277082,
         "name": "Gbandi",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.06667,
         "longitude": -10.21667
     },
     {
-        "cityId": "2277102",
+        "cityId": 2277102,
         "name": "Gbalein Faala",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 7.45139,
         "longitude": -9.58194
     },
     {
-        "cityId": "2278307",
+        "cityId": 2278307,
         "name": "Bonde-Wubomai",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.25694,
         "longitude": -9.715
     },
     {
-        "cityId": "2569974",
+        "cityId": 2569974,
         "name": "Guma",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.06139,
         "longitude": -10.41389
     },
     {
-        "cityId": "9645009",
+        "cityId": 9645009,
         "name": "Vahun District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.04665,
         "longitude": -10.49068
     },
     {
-        "cityId": "9645106",
+        "cityId": 9645106,
         "name": "Foya District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.37031,
         "longitude": -10.21993
     },
     {
-        "cityId": "9645107",
+        "cityId": 9645107,
         "name": "Kolahun District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.1036,
         "longitude": -10.16115
     },
     {
-        "cityId": "9645108",
+        "cityId": 9645108,
         "name": "Voinjama District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.25615,
         "longitude": -9.84336
     },
     {
-        "cityId": "9645110",
+        "cityId": 9645110,
         "name": "Zorzor District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 7.90228,
         "longitude": -9.64904
     },
     {
-        "cityId": "9645111",
+        "cityId": 9645111,
         "name": "Salayea District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 7.45629,
         "longitude": -9.56748
     },
     {
-        "cityId": "9645112",
+        "cityId": 9645112,
         "name": "Quardu Gboni District",
-        "stateId": "2275344",
+        "stateId": 2275344,
         "latitude": 8.36774,
         "longitude": -9.61487
     }

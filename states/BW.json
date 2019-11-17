@@ -1,113 +1,113 @@
 [
     {
-        "stateId": "933851",
+        "stateId": 933851,
         "name": "Central District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -22,
         "longitude": 26
     },
     {
-        "stateId": "933840",
+        "stateId": 933840,
         "name": "Chobe District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -18.5,
         "longitude": 25
     },
     {
-        "stateId": "11778168",
+        "stateId": 11778168,
         "name": "City of Francistown",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -21.17,
         "longitude": 27.50778
     },
     {
-        "stateId": "11778169",
+        "stateId": 11778169,
         "name": "Gaborone",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -24.64639,
         "longitude": 25.91194
     },
     {
-        "stateId": "933758",
+        "stateId": 933758,
         "name": "Ghanzi District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -22,
         "longitude": 22
     },
     {
-        "stateId": "11778170",
+        "stateId": 11778170,
         "name": "Jwaneng",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -24.60167,
         "longitude": 24.72806
     },
     {
-        "stateId": "933657",
+        "stateId": 933657,
         "name": "Kgalagadi District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -25,
         "longitude": 22
     },
     {
-        "stateId": "933654",
+        "stateId": 933654,
         "name": "Kgatleng District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -24.25,
         "longitude": 26.5
     },
     {
-        "stateId": "933562",
+        "stateId": 933562,
         "name": "Kweneng District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -24,
         "longitude": 25
     },
     {
-        "stateId": "11778171",
+        "stateId": 11778171,
         "name": "Lobatse",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -25.21417,
         "longitude": 25.68083
     },
     {
-        "stateId": "933210",
+        "stateId": 933210,
         "name": "North East District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -21,
         "longitude": 27.5
     },
     {
-        "stateId": "933230",
+        "stateId": 933230,
         "name": "North West District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -20,
         "longitude": 22.5
     },
     {
-        "stateId": "11778172",
+        "stateId": 11778172,
         "name": "Selibe Phikwe",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -21.97583,
         "longitude": 27.83472
     },
     {
-        "stateId": "933044",
+        "stateId": 933044,
         "name": "South East District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -25,
         "longitude": 25.75
     },
     {
-        "stateId": "933043",
+        "stateId": 933043,
         "name": "Southern District",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -25,
         "longitude": 25
     },
     {
-        "stateId": "11778173",
+        "stateId": 11778173,
         "name": "Sowa Town",
-        "countryId": "933860",
+        "countryId": 933860,
         "latitude": -20.56361,
         "longitude": 26.22444
     }

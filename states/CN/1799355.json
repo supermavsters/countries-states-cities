@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1786512",
+        "cityId": 1786512,
         "name": "Wuzhong Shi",
-        "stateId": "1799355",
+        "stateId": 1799355,
         "latitude": 37.32829,
         "longitude": 106.51315
     },
     {
-        "cityId": "1786656",
+        "cityId": 1786656,
         "name": "Yinchuan Shi",
-        "stateId": "1799355",
+        "stateId": 1799355,
         "latitude": 38.46667,
         "longitude": 106.31667
     },
     {
-        "cityId": "1794805",
+        "cityId": 1794805,
         "name": "Shizuishan Shi",
-        "stateId": "1799355",
+        "stateId": 1799355,
         "latitude": 38.99443,
         "longitude": 106.51604
     },
     {
-        "cityId": "1809151",
+        "cityId": 1809151,
         "name": "Guyuan Shi",
-        "stateId": "1799355",
+        "stateId": 1799355,
         "latitude": 35.93495,
         "longitude": 106.23267
     },
     {
-        "cityId": "6643239",
+        "cityId": 6643239,
         "name": "Zhongwei Shi",
-        "stateId": "1799355",
+        "stateId": 1799355,
         "latitude": 36.98507,
         "longitude": 105.49659
     }

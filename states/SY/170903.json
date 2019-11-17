@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "169339",
+        "cityId": 169339,
         "name": "Izra District",
-        "stateId": "170903",
+        "stateId": 170903,
         "latitude": 32.90121,
         "longitude": 36.16144
     },
     {
-        "cityId": "170904",
+        "cityId": 170904,
         "name": "Daraa District",
-        "stateId": "170903",
+        "stateId": 170903,
         "latitude": 32.63144,
         "longitude": 36.20352
     },
     {
-        "cityId": "8276863",
+        "cityId": 8276863,
         "name": "Al-Sanamayn District",
-        "stateId": "170903",
+        "stateId": 170903,
         "latitude": 33.12559,
         "longitude": 36.2754
     }

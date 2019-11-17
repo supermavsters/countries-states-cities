@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "601276",
+        "cityId": 601276,
         "name": "Shumanay Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.71047,
         "longitude": 58.89168
     },
     {
-        "cityId": "601292",
+        "cityId": 601292,
         "name": "Nukus Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.48043,
         "longitude": 59.69085
     },
     {
-        "cityId": "601301",
+        "cityId": 601301,
         "name": "Mo\u2019ynoq Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 43.82577,
         "longitude": 59.67065
     },
     {
-        "cityId": "601309",
+        "cityId": 601309,
         "name": "Qanliko\u2018l Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.78666,
         "longitude": 58.93785
     },
     {
-        "cityId": "601322",
+        "cityId": 601322,
         "name": "Qo\u2018ng\u2018irot Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 43.5,
         "longitude": 57.5
     },
     {
-        "cityId": "601340",
+        "cityId": 601340,
         "name": "Xo\u2018jayli Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.51319,
         "longitude": 59.30546
     },
     {
-        "cityId": "601347",
+        "cityId": 601347,
         "name": "Kegeyli Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.72168,
         "longitude": 59.65834
     },
     {
-        "cityId": "601394",
+        "cityId": 601394,
         "name": "Chimboy Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 43.00964,
         "longitude": 59.67437
     },
     {
-        "cityId": "601398",
+        "cityId": 601398,
         "name": "Bo\u2018zatov Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 43.15224,
         "longitude": 59.32998
     },
     {
-        "cityId": "1512534",
+        "cityId": 1512534,
         "name": "To\u2018rtko\u2018l Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 41.6242,
         "longitude": 61.72683
     },
     {
-        "cityId": "1512698",
+        "cityId": 1512698,
         "name": "Taxtako\u2018pir Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.98175,
         "longitude": 61.07328
     },
     {
-        "cityId": "1513732",
+        "cityId": 1513732,
         "name": "Qorao\u2018zak Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.66667,
         "longitude": 60.16667
     },
     {
-        "cityId": "1514037",
+        "cityId": 1514037,
         "name": "Ellikqala Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.35583,
         "longitude": 61.76375
     },
     {
-        "cityId": "1514386",
+        "cityId": 1514386,
         "name": "Beruniy Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.16667,
         "longitude": 61
     },
     {
-        "cityId": "1514593",
+        "cityId": 1514593,
         "name": "Amudaryo Tumani",
-        "stateId": "453752",
+        "stateId": 453752,
         "latitude": 42.14947,
         "longitude": 60.09502
     }

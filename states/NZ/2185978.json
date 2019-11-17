@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2179291",
+        "cityId": 2179291,
         "name": "Whangarei",
-        "stateId": "2185978",
+        "stateId": 2185978,
         "latitude": -35.73333,
         "longitude": 174.33333
     },
     {
-        "cityId": "7910039",
+        "cityId": 7910039,
         "name": "Far North District",
-        "stateId": "2185978",
+        "stateId": 2185978,
         "latitude": -35.03359,
         "longitude": 173.48841
     },
     {
-        "cityId": "7910047",
+        "cityId": 7910047,
         "name": "Kaipara District",
-        "stateId": "2185978",
+        "stateId": 2185978,
         "latitude": -35.99546,
         "longitude": 174.04688
     }

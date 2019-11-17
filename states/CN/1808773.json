@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1788925",
+        "cityId": 1788925,
         "name": "Xingtai County",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 37.06,
         "longitude": 114.49
     },
     {
-        "cityId": "1793343",
+        "cityId": 1793343,
         "name": "Tangshan Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 39.63,
         "longitude": 118.18
     },
     {
-        "cityId": "1795266",
+        "cityId": 1795266,
         "name": "Shijiazhuang Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 38.04,
         "longitude": 114.47
     },
     {
-        "cityId": "1797593",
+        "cityId": 1797593,
         "name": "Qinhuangdao Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 40.16835,
         "longitude": 119.29208
     },
     {
-        "cityId": "1804539",
+        "cityId": 1804539,
         "name": "Langfang Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 39.51667,
         "longitude": 116.68333
     },
     {
-        "cityId": "1808391",
+        "cityId": 1808391,
         "name": "Hengshui Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 37.73,
         "longitude": 115.7
     },
     {
-        "cityId": "1808961",
+        "cityId": 1808961,
         "name": "Handan Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 36.58312,
         "longitude": 114.48341
     },
     {
-        "cityId": "1808962",
+        "cityId": 1808962,
         "name": "Handan Diqu",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 36.58349,
         "longitude": 114.48325
     },
     {
-        "cityId": "1816078",
+        "cityId": 1816078,
         "name": "Cangzhou Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 38.31,
         "longitude": 116.86
     },
     {
-        "cityId": "1816079",
+        "cityId": 1816079,
         "name": "Cangzhou Diqu",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 38.316,
         "longitude": 116.866
     },
     {
-        "cityId": "1816969",
+        "cityId": 1816969,
         "name": "Baoding Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 38.866,
         "longitude": 115.48
     },
     {
-        "cityId": "1816970",
+        "cityId": 1816970,
         "name": "Baoding Diqu",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 38.86667,
         "longitude": 115.48333
     },
     {
-        "cityId": "2033194",
+        "cityId": 2033194,
         "name": "Zhangjiakou Shi",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 40.83333,
         "longitude": 114.93333
     },
     {
-        "cityId": "2038085",
+        "cityId": 2038085,
         "name": "Chengde Prefecture",
-        "stateId": "1808773",
+        "stateId": 1808773,
         "latitude": 40.97,
         "longitude": 117.93
     }

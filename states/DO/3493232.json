@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3493201",
+        "cityId": 3493201,
         "name": "S\u00e1nchez",
-        "stateId": "3493232",
+        "stateId": 3493232,
         "latitude": 19.16953,
         "longitude": -69.64648
     },
     {
-        "cityId": "3493236",
+        "cityId": 3493236,
         "name": "Saman\u00e1 Municipality",
-        "stateId": "3493232",
+        "stateId": 3493232,
         "latitude": 19.23333,
         "longitude": -69.33333
     },
     {
-        "cityId": "11154555",
+        "cityId": 11154555,
         "name": "Las Terrenas",
-        "stateId": "3493232",
+        "stateId": 3493232,
         "latitude": 19.28578,
         "longitude": -69.55459
     }

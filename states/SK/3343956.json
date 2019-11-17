@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3057173",
+        "cityId": 3057173,
         "name": "Okres Topo\u013e\u010dany",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 48.56667,
         "longitude": 18.18333
     },
     {
-        "cityId": "3058471",
+        "cityId": 3058471,
         "name": "Okres Nov\u00e9 Z\u00e1mky",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 47.98333,
         "longitude": 18.16667
     },
     {
-        "cityId": "3058529",
+        "cityId": 3058529,
         "name": "Okres Nitra",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 48.31667,
         "longitude": 18.08333
     },
     {
-        "cityId": "3059100",
+        "cityId": 3059100,
         "name": "Okres Levice",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 48.21667,
         "longitude": 18.6
     },
     {
-        "cityId": "3059432",
+        "cityId": 3059432,
         "name": "Okres Kom\u00e1rno",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 47.76667,
         "longitude": 18.13333
     },
     {
-        "cityId": "8986306",
+        "cityId": 8986306,
         "name": "Okres \u0160a\u013ea",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 48.1477,
         "longitude": 17.87306
     },
     {
-        "cityId": "8986333",
+        "cityId": 8986333,
         "name": "Okres Zlat\u00e9 Moravce",
-        "stateId": "3343956",
+        "stateId": 3343956,
         "latitude": 48.38294,
         "longitude": 18.39842
     }

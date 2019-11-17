@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1791778",
+        "cityId": 1791778,
         "name": "Wanning Shi",
-        "stateId": "1809054",
+        "stateId": 1809054,
         "latitude": 18.83778,
         "longitude": 110.2875
     },
     {
-        "cityId": "1796539",
+        "cityId": 1796539,
         "name": "Sanya Shi",
-        "stateId": "1809054",
+        "stateId": 1809054,
         "latitude": 18.39111,
         "longitude": 109.41944
     },
     {
-        "cityId": "1797544",
+        "cityId": 1797544,
         "name": "Qionghai County",
-        "stateId": "1809054",
+        "stateId": 1809054,
         "latitude": 19.20944,
         "longitude": 110.40139
     },
     {
-        "cityId": "1809072",
+        "cityId": 1809072,
         "name": "Haikou Shi",
-        "stateId": "1809054",
+        "stateId": 1809054,
         "latitude": 19.83056,
         "longitude": 110.42167
     },
     {
-        "cityId": "8402317",
+        "cityId": 8402317,
         "name": "Sansha",
-        "stateId": "1809054",
+        "stateId": 1809054,
         "latitude": 16.83387,
         "longitude": 112.33435
     }

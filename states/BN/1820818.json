@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "11821300",
+        "cityId": 11821300,
         "name": "Gadong A",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.94579,
         "longitude": 114.89401
     },
     {
-        "cityId": "11821301",
+        "cityId": 11821301,
         "name": "Gadong B",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.92054,
         "longitude": 114.91091
     },
     {
-        "cityId": "11821302",
+        "cityId": 11821302,
         "name": "Berakas A",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.97032,
         "longitude": 114.92989
     },
     {
-        "cityId": "11821303",
+        "cityId": 11821303,
         "name": "Berakas B",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.95972,
         "longitude": 114.95748
     },
     {
-        "cityId": "11821304",
+        "cityId": 11821304,
         "name": "Serasa",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 5.01718,
         "longitude": 115.05841
     },
     {
-        "cityId": "11821305",
+        "cityId": 11821305,
         "name": "Mentiri",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.97477,
         "longitude": 115.00211
     },
     {
-        "cityId": "11821306",
+        "cityId": 11821306,
         "name": "Kota Batu",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.88874,
         "longitude": 114.96898
     },
     {
-        "cityId": "11821307",
+        "cityId": 11821307,
         "name": "Lumapas",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.8253,
         "longitude": 114.9113
     },
     {
-        "cityId": "11821309",
+        "cityId": 11821309,
         "name": "Sengkurong",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.92399,
         "longitude": 114.83577
     },
     {
-        "cityId": "11821310",
+        "cityId": 11821310,
         "name": "Pengkalan Batu",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.84634,
         "longitude": 114.84761
     },
     {
-        "cityId": "11821313",
+        "cityId": 11821313,
         "name": "Kianggeh",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.89945,
         "longitude": 114.94382
     },
     {
-        "cityId": "11821315",
+        "cityId": 11821315,
         "name": "Tamoi",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.87572,
         "longitude": 114.91559
     },
     {
-        "cityId": "11821317",
+        "cityId": 11821317,
         "name": "Burong Pingai Ayer",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.87142,
         "longitude": 114.91662
     },
     {
-        "cityId": "11821318",
+        "cityId": 11821318,
         "name": "Peramu",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.87209,
         "longitude": 114.9222
     },
     {
-        "cityId": "11821319",
+        "cityId": 11821319,
         "name": "Saba",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.87487,
         "longitude": 114.92572
     },
     {
-        "cityId": "11821320",
+        "cityId": 11821320,
         "name": "Sungai Kedayan",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.87945,
         "longitude": 114.9198
     },
     {
-        "cityId": "11821322",
+        "cityId": 11821322,
         "name": "Sungai Kebun",
-        "stateId": "1820818",
+        "stateId": 1820818,
         "latitude": 4.86816,
         "longitude": 114.92375
     }

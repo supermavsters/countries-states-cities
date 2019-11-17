@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "2411430",
+        "stateId": 2411430,
         "name": "Ascension",
-        "countryId": "3370751",
+        "countryId": 3370751,
         "latitude": -7.94167,
         "longitude": -14.3625
     },
     {
-        "stateId": "6930057",
+        "stateId": 6930057,
         "name": "Saint Helena",
-        "countryId": "3370751",
+        "countryId": 3370751,
         "latitude": -15.93183,
         "longitude": -5.71817
     },
     {
-        "stateId": "3370684",
+        "stateId": 3370684,
         "name": "Tristan da Cunha",
-        "countryId": "3370751",
+        "countryId": 3370751,
         "latitude": -37.11284,
         "longitude": -12.28343
     }

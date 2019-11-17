@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "11351403",
+        "cityId": 11351403,
         "name": "Village",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.90526,
         "longitude": -61.06108
     },
     {
-        "cityId": "11351430",
+        "cityId": 11351430,
         "name": "Theodrine",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.92878,
         "longitude": -61.04972
     },
     {
-        "cityId": "11351458",
+        "cityId": 11351458,
         "name": "Anse La Verdue",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.90964,
         "longitude": -61.04755
     },
     {
-        "cityId": "11351634",
+        "cityId": 11351634,
         "name": "Anse Cochon",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.92261,
         "longitude": -61.0525
     },
     {
-        "cityId": "11351637",
+        "cityId": 11351637,
         "name": "Anse Galet",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.93221,
         "longitude": -61.0429
     },
     {
-        "cityId": "11351639",
+        "cityId": 11351639,
         "name": "Belvedere",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.89122,
         "longitude": -61.0555
     },
     {
-        "cityId": "11351641",
+        "cityId": 11351641,
         "name": "Chalon",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.92018,
         "longitude": -61.04412
     },
     {
-        "cityId": "11351643",
+        "cityId": 11351643,
         "name": "Chatin",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.9184,
         "longitude": -61.03896
     },
     {
-        "cityId": "11351645",
+        "cityId": 11351645,
         "name": "Des Bottes",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.88055,
         "longitude": -61.03409
     },
     {
-        "cityId": "11351648",
+        "cityId": 11351648,
         "name": "Morne Siquot",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.89102,
         "longitude": -61.06407
     },
     {
-        "cityId": "11351649",
+        "cityId": 11351649,
         "name": "Riverside Road",
-        "stateId": "11351387",
+        "stateId": 11351387,
         "latitude": 13.89408,
         "longitude": -61.04989
     }

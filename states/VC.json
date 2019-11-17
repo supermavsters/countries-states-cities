@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "3577892",
+        "stateId": 3577892,
         "name": "Grenadines",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 12.83333,
         "longitude": -61.25
     },
     {
-        "stateId": "3577934",
+        "stateId": 3577934,
         "name": "Parish of Charlotte",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 13.25064,
         "longitude": -61.15196
     },
     {
-        "stateId": "3577822",
+        "stateId": 3577822,
         "name": "Parish of Saint Andrew",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 13.20393,
         "longitude": -61.23015
     },
     {
-        "stateId": "3577821",
+        "stateId": 3577821,
         "name": "Parish of Saint David",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 13.3,
         "longitude": -61.2
     },
     {
-        "stateId": "3577819",
+        "stateId": 3577819,
         "name": "Parish of Saint George",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 13.16524,
         "longitude": -61.19282
     },
     {
-        "stateId": "3577818",
+        "stateId": 3577818,
         "name": "Parish of Saint Patrick",
-        "countryId": "3577815",
+        "countryId": 3577815,
         "latitude": 13.2399,
         "longitude": -61.23449
     }

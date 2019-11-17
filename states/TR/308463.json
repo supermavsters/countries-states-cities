@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7732925",
+        "cityId": 7732925,
         "name": "Develi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.26789,
         "longitude": 35.59161
     },
     {
-        "cityId": "7732928",
+        "cityId": 7732928,
         "name": "Melikgazi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.77933,
         "longitude": 35.66076
     },
     {
-        "cityId": "7732929",
+        "cityId": 7732929,
         "name": "Kocasinan",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.87959,
         "longitude": 35.3554
     },
     {
-        "cityId": "7910468",
+        "cityId": 7910468,
         "name": "Yesilhisar",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.33475,
         "longitude": 35.11795
     },
     {
-        "cityId": "7910469",
+        "cityId": 7910469,
         "name": "Incesu",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.63789,
         "longitude": 35.19394
     },
     {
-        "cityId": "7932395",
+        "cityId": 7932395,
         "name": "Yahyali",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 37.9666,
         "longitude": 35.44012
     },
     {
-        "cityId": "8631773",
+        "cityId": 8631773,
         "name": "Akk\u0131\u015fla \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 39.01218,
         "longitude": 36.17905
     },
     {
-        "cityId": "8631774",
+        "cityId": 8631774,
         "name": "Sar\u0131z \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.48015,
         "longitude": 36.51488
     },
     {
-        "cityId": "8631775",
+        "cityId": 8631775,
         "name": "Tomarza \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.4578,
         "longitude": 35.80465
     },
     {
-        "cityId": "8631781",
+        "cityId": 8631781,
         "name": "P\u0131narba\u015f\u0131 \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.73231,
         "longitude": 36.38219
     },
     {
-        "cityId": "8631782",
+        "cityId": 8631782,
         "name": "B\u00fcnyan \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.85461,
         "longitude": 35.85195
     },
     {
-        "cityId": "8631783",
+        "cityId": 8631783,
         "name": "Sar\u0131o\u011flan \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 39.08765,
         "longitude": 35.97445
     },
     {
-        "cityId": "8631784",
+        "cityId": 8631784,
         "name": "Talas \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.70161,
         "longitude": 35.56056
     },
     {
-        "cityId": "8631787",
+        "cityId": 8631787,
         "name": "Hac\u0131lar \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 38.6571,
         "longitude": 35.45832
     },
     {
-        "cityId": "8631788",
+        "cityId": 8631788,
         "name": "Felahiye \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 39.10166,
         "longitude": 35.57162
     },
     {
-        "cityId": "8631789",
+        "cityId": 8631789,
         "name": "\u00d6zvatan \u0130l\u00e7esi",
-        "stateId": "308463",
+        "stateId": 308463,
         "latitude": 39.11737,
         "longitude": 35.71149
     }

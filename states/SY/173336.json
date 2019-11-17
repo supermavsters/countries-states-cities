@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "172039",
+        "cityId": 172039,
         "name": "Fiq District",
-        "stateId": "173336",
+        "stateId": 173336,
         "latitude": 32.79793,
         "longitude": 35.72198
     },
     {
-        "cityId": "173335",
+        "cityId": 173335,
         "name": "Quneitra District",
-        "stateId": "173336",
+        "stateId": 173336,
         "latitude": 33.08571,
         "longitude": 35.78844
     }

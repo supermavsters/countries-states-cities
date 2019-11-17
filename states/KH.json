@@ -1,176 +1,176 @@
 [
     {
-        "stateId": "1899273",
+        "stateId": 1899273,
         "name": "Banteay Meanchey",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 13.75,
         "longitude": 103
     },
     {
-        "stateId": "1821310",
+        "stateId": 1821310,
         "name": "Battambang",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.91667,
         "longitude": 103.08333
     },
     {
-        "stateId": "1831172",
+        "stateId": 1831172,
         "name": "Kampong Cham",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.05,
         "longitude": 105.25
     },
     {
-        "stateId": "1831166",
+        "stateId": 1831166,
         "name": "Kampong Chhnang",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.16667,
         "longitude": 104.55
     },
     {
-        "stateId": "1831132",
+        "stateId": 1831132,
         "name": "Kampong Speu",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.5,
         "longitude": 104.33333
     },
     {
-        "stateId": "1831124",
+        "stateId": 1831124,
         "name": "Kampong Thom",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.83333,
         "longitude": 105
     },
     {
-        "stateId": "1831111",
+        "stateId": 1831111,
         "name": "Kampot",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 10.83333,
         "longitude": 104.33333
     },
     {
-        "stateId": "1831095",
+        "stateId": 1831095,
         "name": "Kandal",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.41667,
         "longitude": 105
     },
     {
-        "stateId": "1830937",
+        "stateId": 1830937,
         "name": "Kep",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 10.5125,
         "longitude": 104.31667
     },
     {
-        "stateId": "1831037",
+        "stateId": 1831037,
         "name": "Koh Kong",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.5,
         "longitude": 103.5
     },
     {
-        "stateId": "1830563",
+        "stateId": 1830563,
         "name": "Kratie",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.66667,
         "longitude": 106.08333
     },
     {
-        "stateId": "1830306",
+        "stateId": 1830306,
         "name": "Mondolkiri",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.75,
         "longitude": 107
     },
     {
-        "stateId": "1830206",
+        "stateId": 1830206,
         "name": "Pailin",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.86667,
         "longitude": 102.6
     },
     {
-        "stateId": "1830103",
+        "stateId": 1830103,
         "name": "Phnom Penh",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.57489,
         "longitude": 104.91394
     },
     {
-        "stateId": "1822676",
+        "stateId": 1822676,
         "name": "Preah Vihear",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 13.75,
         "longitude": 105
     },
     {
-        "stateId": "1822609",
+        "stateId": 1822609,
         "name": "Prey Veng",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.36667,
         "longitude": 105.46667
     },
     {
-        "stateId": "1821301",
+        "stateId": 1821301,
         "name": "Pursat",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 12.33333,
         "longitude": 103.66667
     },
     {
-        "stateId": "1822449",
+        "stateId": 1822449,
         "name": "Ratanakiri",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 13.83333,
         "longitude": 107.11667
     },
     {
-        "stateId": "1822213",
+        "stateId": 1822213,
         "name": "Siem Reap",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 13.5,
         "longitude": 104
     },
     {
-        "stateId": "1899262",
+        "stateId": 1899262,
         "name": "Sihanoukville",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 10.66667,
         "longitude": 103.75
     },
     {
-        "stateId": "1822028",
+        "stateId": 1822028,
         "name": "Stung Treng",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 13.75,
         "longitude": 106.25
     },
     {
-        "stateId": "1821992",
+        "stateId": 1821992,
         "name": "Svay Rieng",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.16667,
         "longitude": 105.83333
     },
     {
-        "stateId": "1821939",
+        "stateId": 1821939,
         "name": "Takeo",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 10.91667,
         "longitude": 104.83333
     },
     {
-        "stateId": "7647525",
+        "stateId": 7647525,
         "name": "Tboung Khmum",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 11.98,
         "longitude": 105.65
     },
     {
-        "stateId": "1822210",
+        "stateId": 1822210,
         "name": "\u014et\u00e2r M\u00e9anchey",
-        "countryId": "1831722",
+        "countryId": 1831722,
         "latitude": 14.16667,
         "longitude": 103.5
     }

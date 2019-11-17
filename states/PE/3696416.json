@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3694144",
+        "cityId": 3694144,
         "name": "Provincia de Pachitea",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.95262,
         "longitude": -75.8139
     },
     {
-        "cityId": "3694961",
+        "cityId": 3694961,
         "name": "Provincia de Mara\u00f1\u00f3n",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -8.75,
         "longitude": -76.66667
     },
     {
-        "cityId": "3695414",
+        "cityId": 3695414,
         "name": "Provincia de Leoncio Prado",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.16667,
         "longitude": -76
     },
     {
-        "cityId": "3696415",
+        "cityId": 3696415,
         "name": "Provincia de Hu\u00e1nuco",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.66667,
         "longitude": -76.08333
     },
     {
-        "cityId": "3696505",
+        "cityId": 3696505,
         "name": "Provincia de Huamal\u00edes",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.25,
         "longitude": -76.5
     },
     {
-        "cityId": "3697460",
+        "cityId": 3697460,
         "name": "Provincia de Dos de Mayo",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.91667,
         "longitude": -76.75
     },
     {
-        "cityId": "3947955",
+        "cityId": 3947955,
         "name": "Provincia de Ambo",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -10.16667,
         "longitude": -76.16667
     },
     {
-        "cityId": "8349555",
+        "cityId": 8349555,
         "name": "Huacaybamba",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -8.9948,
         "longitude": -76.81027
     },
     {
-        "cityId": "8349556",
+        "cityId": 8349556,
         "name": "Puerto Inca",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.36696,
         "longitude": -75.08958
     },
     {
-        "cityId": "8349557",
+        "cityId": 8349557,
         "name": "Lauricocha",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -10.20055,
         "longitude": -76.70359
     },
     {
-        "cityId": "8349558",
+        "cityId": 8349558,
         "name": "Yarowilca",
-        "stateId": "3696416",
+        "stateId": 3696416,
         "latitude": -9.80263,
         "longitude": -76.59516
     }

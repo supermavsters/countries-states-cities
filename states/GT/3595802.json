@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3588341",
+        "cityId": 3588341,
         "name": "Munic\u00edpio de Tiquisate",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.28356,
         "longitude": -91.3681
     },
     {
-        "cityId": "3588719",
+        "cityId": 3588719,
         "name": "Municipio de Siquinal\u00e1",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.3,
         "longitude": -90.96667
     },
     {
-        "cityId": "3589034",
+        "cityId": 3589034,
         "name": "Municipio de San Vicente Pacaya",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.41667,
         "longitude": -90.63333
     },
     {
-        "cityId": "3589288",
+        "cityId": 3589288,
         "name": "Municipio de Santa Luc\u00eda Cotzumalguapa",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.33333,
         "longitude": -91.01667
     },
     {
-        "cityId": "3590059",
+        "cityId": 3590059,
         "name": "Municipio de San Jos\u00e9",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 13.95797,
         "longitude": -90.88326
     },
     {
-        "cityId": "3591830",
+        "cityId": 3591830,
         "name": "Municipio de Pal\u00edn",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.4,
         "longitude": -90.7
     },
     {
-        "cityId": "3592142",
+        "cityId": 3592142,
         "name": "Municipio de Nueva Concepci\u00f3n",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.2,
         "longitude": -91.3
     },
     {
-        "cityId": "3592641",
+        "cityId": 3592641,
         "name": "Municipio de Masagua",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.2,
         "longitude": -90.85
     },
     {
-        "cityId": "3594574",
+        "cityId": 3594574,
         "name": "Municipio de La Gomera",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.08333,
         "longitude": -91.05
     },
     {
-        "cityId": "3594750",
+        "cityId": 3594750,
         "name": "Municipio de La Democracia",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.23333,
         "longitude": -90.95
     },
     {
-        "cityId": "3595254",
+        "cityId": 3595254,
         "name": "Municipio de Iztapa",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 13.93333,
         "longitude": -90.71667
     },
     {
-        "cityId": "3595553",
+        "cityId": 3595553,
         "name": "Municipio de Guanagazapa",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.23333,
         "longitude": -90.65
     },
     {
-        "cityId": "3595801",
+        "cityId": 3595801,
         "name": "Municipio de Escuintla",
-        "stateId": "3595802",
+        "stateId": 3595802,
         "latitude": 14.3,
         "longitude": -90.78333
     }

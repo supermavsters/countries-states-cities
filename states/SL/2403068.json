@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9179949",
+        "cityId": 9179949,
         "name": "Western Area Urban",
-        "stateId": "2403068",
+        "stateId": 2403068,
         "latitude": 8.45358,
         "longitude": -13.26617
     },
     {
-        "cityId": "9179950",
+        "cityId": 9179950,
         "name": "Western Area Rural",
-        "stateId": "2403068",
+        "stateId": 2403068,
         "latitude": 8.32319,
         "longitude": -13.09485
     }

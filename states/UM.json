@@ -1,64 +1,64 @@
 [
     {
-        "stateId": "5854907",
+        "stateId": 5854907,
         "name": "Baker Island",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 0.19472,
         "longitude": -176.47944
     },
     {
-        "stateId": "5854922",
+        "stateId": 5854922,
         "name": "Howland Island",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 0.81021,
         "longitude": -176.61733
     },
     {
-        "stateId": "5854926",
+        "stateId": 5854926,
         "name": "Jarvis Island",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": -0.37215,
         "longitude": -159.99702
     },
     {
-        "stateId": "5854929",
+        "stateId": 5854929,
         "name": "Johnston Atoll",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 16.72,
         "longitude": -169.506
     },
     {
-        "stateId": "5854936",
+        "stateId": 5854936,
         "name": "Kingman Reef",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 6.4,
         "longitude": -162.4
     },
     {
-        "stateId": "5854943",
+        "stateId": 5854943,
         "name": "Midway Islands",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 28.20935,
         "longitude": -177.37813
     },
     {
-        "stateId": "4743755",
+        "stateId": 4743755,
         "name": "Navassa Island",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 18.403,
         "longitude": -75.012
     },
     {
-        "stateId": "5854952",
+        "stateId": 5854952,
         "name": "Palmyra Atoll",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 5.875,
         "longitude": -162.056
     },
     {
-        "stateId": "4041685",
+        "stateId": 4041685,
         "name": "Wake Island",
-        "countryId": "5854968",
+        "countryId": 5854968,
         "latitude": 19.30005,
         "longitude": 166.62269
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "9212580",
+        "cityId": 9212580,
         "name": "Dar Naim",
-        "stateId": "11496392",
+        "stateId": 11496392,
         "latitude": 18.11616,
         "longitude": -15.92571
     },
     {
-        "cityId": "9212594",
+        "cityId": 9212594,
         "name": "Teyarett",
-        "stateId": "11496392",
+        "stateId": 11496392,
         "latitude": 18.12778,
         "longitude": -15.93917
     },
     {
-        "cityId": "9212597",
+        "cityId": 9212597,
         "name": "Toujounine",
-        "stateId": "11496392",
+        "stateId": 11496392,
         "latitude": 18.07169,
         "longitude": -15.90311
     }

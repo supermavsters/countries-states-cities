@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "440476",
+        "cityId": 440476,
         "name": "Be\u015firi \u0130l\u00e7esi",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 37.85722,
         "longitude": 41.39306
     },
     {
-        "cityId": "440905",
+        "cityId": 440905,
         "name": "Hasankeyf \u0130l\u00e7esi",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 37.69694,
         "longitude": 41.49972
     },
     {
-        "cityId": "441468",
+        "cityId": 441468,
         "name": "Gerc\u00fc\u015f \u0130l\u00e7esi",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 37.59139,
         "longitude": 41.33278
     },
     {
-        "cityId": "7732202",
+        "cityId": 7732202,
         "name": "Merkez",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 37.84362,
         "longitude": 41.18341
     },
     {
-        "cityId": "8630819",
+        "cityId": 8630819,
         "name": "Sason \u0130l\u00e7esi",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 38.3346,
         "longitude": 41.41993
     },
     {
-        "cityId": "8630820",
+        "cityId": 8630820,
         "name": "Kozluk \u0130l\u00e7esi",
-        "stateId": "443186",
+        "stateId": 443186,
         "latitude": 38.19249,
         "longitude": 41.48705
     }

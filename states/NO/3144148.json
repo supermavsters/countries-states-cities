@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "3131656",
+        "cityId": 3131656,
         "name": "Vikna",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.86362,
         "longitude": 11.24198
     },
     {
-        "cityId": "3132142",
+        "cityId": 3132142,
         "name": "Verran",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.071,
         "longitude": 11.21795
     },
     {
-        "cityId": "3132178",
+        "cityId": 3132178,
         "name": "Verdal",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.90023,
         "longitude": 11.72724
     },
     {
-        "cityId": "3136768",
+        "cityId": 3136768,
         "name": "Stj\u00f8rdal",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.56699,
         "longitude": 11.0273
     },
     {
-        "cityId": "3136944",
+        "cityId": 3136944,
         "name": "Steinkjer",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.19303,
         "longitude": 11.38505
     },
     {
-        "cityId": "3138075",
+        "cityId": 3138075,
         "name": "Sn\u00e5sa",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.24606,
         "longitude": 12.38294
     },
     {
-        "cityId": "3141059",
+        "cityId": 3141059,
         "name": "R\u00f8yrvik",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.8838,
         "longitude": 13.5631
     },
     {
-        "cityId": "3143058",
+        "cityId": 3143058,
         "name": "Overhalla",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.4938,
         "longitude": 11.94753
     },
     {
-        "cityId": "3145020",
+        "cityId": 3145020,
         "name": "Namsskogan",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.92597,
         "longitude": 13.15932
     },
     {
-        "cityId": "3145028",
+        "cityId": 3145028,
         "name": "Namdalseid",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.10843,
         "longitude": 10.91862
     },
     {
-        "cityId": "3145065",
+        "cityId": 3145065,
         "name": "N\u00e6r\u00f8y",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.86298,
         "longitude": 11.60505
     },
     {
-        "cityId": "3146022",
+        "cityId": 3146022,
         "name": "Mer\u00e5ker",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.41423,
         "longitude": 11.74558
     },
     {
-        "cityId": "3147775",
+        "cityId": 3147775,
         "name": "Leksvik",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.6736,
         "longitude": 10.6272
     },
     {
-        "cityId": "3147796",
+        "cityId": 3147796,
         "name": "Leka",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 65.09244,
         "longitude": 11.70513
     },
     {
-        "cityId": "3151158",
+        "cityId": 3151158,
         "name": "Inder\u00f8y",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.87826,
         "longitude": 11.28424
     },
     {
-        "cityId": "3151536",
+        "cityId": 3151536,
         "name": "H\u00f8ylandet",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.62759,
         "longitude": 12.30041
     },
     {
-        "cityId": "3154905",
+        "cityId": 3154905,
         "name": "Grong",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.46397,
         "longitude": 12.31114
     },
     {
-        "cityId": "3156441",
+        "cityId": 3156441,
         "name": "Frosta",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.5877,
         "longitude": 10.74135
     },
     {
-        "cityId": "3156675",
+        "cityId": 3156675,
         "name": "Fosnes",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.6591,
         "longitude": 11.26535
     },
     {
-        "cityId": "3157170",
+        "cityId": 3157170,
         "name": "Flatanger",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.41282,
         "longitude": 11.03285
     },
     {
-        "cityId": "6453327",
+        "cityId": 6453327,
         "name": "Lierne",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.46413,
         "longitude": 13.59249
     },
     {
-        "cityId": "6453328",
+        "cityId": 6453328,
         "name": "Namsos",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 64.47842,
         "longitude": 11.54182
     },
     {
-        "cityId": "6453330",
+        "cityId": 6453330,
         "name": "Levanger",
-        "stateId": "3144148",
+        "stateId": 3144148,
         "latitude": 63.74585,
         "longitude": 11.29991
     }

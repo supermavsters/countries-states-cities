@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7268051",
+        "cityId": 7268051,
         "name": "Ceiba Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.20164,
         "longitude": -66.16927
     },
     {
-        "cityId": "7268080",
+        "cityId": 7268080,
         "name": "Cidra Barrio-Pueblo",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.17584,
         "longitude": -66.16106
     },
     {
-        "cityId": "7268211",
+        "cityId": 7268211,
         "name": "Arenas Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.16056,
         "longitude": -66.14017
     },
     {
-        "cityId": "7268245",
+        "cityId": 7268245,
         "name": "Bayam\u00f3n Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.18723,
         "longitude": -66.1504
     },
     {
-        "cityId": "7268252",
+        "cityId": 7268252,
         "name": "Beatriz Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.15666,
         "longitude": -66.11668
     },
     {
-        "cityId": "7268480",
+        "cityId": 7268480,
         "name": "Honduras Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.15203,
         "longitude": -66.20882
     },
     {
-        "cityId": "7268672",
+        "cityId": 7268672,
         "name": "Monte Llano Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.20448,
         "longitude": -66.15198
     },
     {
-        "cityId": "7268873",
+        "cityId": 7268873,
         "name": "Rabanal Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.17079,
         "longitude": -66.19334
     },
     {
-        "cityId": "7268880",
+        "cityId": 7268880,
         "name": "Rinc\u00f3n Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.15094,
         "longitude": -66.16946
     },
     {
-        "cityId": "7268885",
+        "cityId": 7268885,
         "name": "R\u00edo Abajo Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.18708,
         "longitude": -66.18989
     },
     {
-        "cityId": "7268957",
+        "cityId": 7268957,
         "name": "Salto Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.16961,
         "longitude": -66.22509
     },
     {
-        "cityId": "7269014",
+        "cityId": 7269014,
         "name": "Sud Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.16441,
         "longitude": -66.16433
     },
     {
-        "cityId": "7269042",
+        "cityId": 7269042,
         "name": "To\u00edta Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.15009,
         "longitude": -66.1901
     },
     {
-        "cityId": "7309609",
+        "cityId": 7309609,
         "name": "Certenejas Barrio",
-        "stateId": "4563778",
+        "stateId": 4563778,
         "latitude": 18.19346,
         "longitude": -66.12243
     }

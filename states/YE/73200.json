@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "70135",
+        "cityId": 70135,
         "name": "A\u0163 \u0162aw\u012blah",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.44165,
         "longitude": 43.77484
     },
     {
-        "cityId": "73956",
+        "cityId": 73956,
         "name": "Shib\u0101m Kawkab\u0101n",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.50277,
         "longitude": 43.84237
     },
     {
-        "cityId": "6940845",
+        "cityId": 6940845,
         "name": "Al Mahwait",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.4117,
         "longitude": 43.5663
     },
     {
-        "cityId": "6940846",
+        "cityId": 6940846,
         "name": "Bani Sa'd",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.2355,
         "longitude": 43.5156
     },
     {
-        "cityId": "6940847",
+        "cityId": 6940847,
         "name": "Al Khabt",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.4817,
         "longitude": 43.3677
     },
     {
-        "cityId": "6940848",
+        "cityId": 6940848,
         "name": "Ar Rujum",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.4101,
         "longitude": 43.6606
     },
     {
-        "cityId": "6940849",
+        "cityId": 6940849,
         "name": "Al Mahwait City",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.4635,
         "longitude": 43.5463
     },
     {
-        "cityId": "6940850",
+        "cityId": 6940850,
         "name": "Hufash",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.3747,
         "longitude": 43.4265
     },
     {
-        "cityId": "6940851",
+        "cityId": 6940851,
         "name": "Milhan",
-        "stateId": "73200",
+        "stateId": 73200,
         "latitude": 15.3224,
         "longitude": 43.3318
     }

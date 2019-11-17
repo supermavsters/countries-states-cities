@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "2743693",
+        "cityId": 2743693,
         "name": "Gemeente Zuidhorn",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.27719,
         "longitude": 6.37144
     },
     {
-        "cityId": "2744336",
+        "cityId": 2744336,
         "name": "Gemeente Winsum",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.33026,
         "longitude": 6.5058
     },
     {
-        "cityId": "2745460",
+        "cityId": 2745460,
         "name": "Gemeente Vlagtwedde",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 52.94367,
         "longitude": 7.14111
     },
     {
-        "cityId": "2745782",
+        "cityId": 2745782,
         "name": "Gemeente Veendam",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.08951,
         "longitude": 6.87923
     },
     {
-        "cityId": "2746490",
+        "cityId": 2746490,
         "name": "Gemeente Ten Boer",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.27862,
         "longitude": 6.69618
     },
     {
-        "cityId": "2746859",
+        "cityId": 2746859,
         "name": "Gemeente Stadskanaal",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.00005,
         "longitude": 6.98906
     },
     {
-        "cityId": "2747142",
+        "cityId": 2747142,
         "name": "Gemeente Slochteren",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.23368,
         "longitude": 6.78903
     },
     {
-        "cityId": "2751110",
+        "cityId": 2751110,
         "name": "Gemeente Marum",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.1474,
         "longitude": 6.2747
     },
     {
-        "cityId": "2751428",
+        "cityId": 2751428,
         "name": "Gemeente Loppersum",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.33849,
         "longitude": 6.72149
     },
     {
-        "cityId": "2751833",
+        "cityId": 2751833,
         "name": "Gemeente Leek",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.15561,
         "longitude": 6.3771
     },
     {
-        "cityId": "2753705",
+        "cityId": 2753705,
         "name": "Gemeente Hoogezand-Sappemeer",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.14612,
         "longitude": 6.73611
     },
     {
-        "cityId": "2754840",
+        "cityId": 2754840,
         "name": "Gemeente Haren",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.15693,
         "longitude": 6.63063
     },
     {
-        "cityId": "2755203",
+        "cityId": 2755203,
         "name": "Gemeente Grootegast",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.21557,
         "longitude": 6.28215
     },
     {
-        "cityId": "2755250",
+        "cityId": 2755250,
         "name": "Gemeente Groningen",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.22369,
         "longitude": 6.56479
     },
     {
-        "cityId": "2757339",
+        "cityId": 2757339,
         "name": "Gemeente Delfzijl",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.30019,
         "longitude": 6.93129
     },
     {
-        "cityId": "2759248",
+        "cityId": 2759248,
         "name": "Gemeente Bellingwedde",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.09835,
         "longitude": 7.11884
     },
     {
-        "cityId": "2759355",
+        "cityId": 2759355,
         "name": "Gemeente Bedum",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.29462,
         "longitude": 6.59768
     },
     {
-        "cityId": "2759686",
+        "cityId": 2759686,
         "name": "Gemeente Appingedam",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.31926,
         "longitude": 6.84864
     },
     {
-        "cityId": "6544229",
+        "cityId": 6544229,
         "name": "Gemeente De Marne",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.36712,
         "longitude": 6.3944
     },
     {
-        "cityId": "6544231",
+        "cityId": 6544231,
         "name": "Gemeente Menterwolde",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.16735,
         "longitude": 6.86757
     },
     {
-        "cityId": "6544234",
+        "cityId": 6544234,
         "name": "Gemeente Pekela",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.05969,
         "longitude": 6.9651
     },
     {
-        "cityId": "6544278",
+        "cityId": 6544278,
         "name": "Gemeente Eemsmond",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.40034,
         "longitude": 6.66739
     },
     {
-        "cityId": "7535498",
+        "cityId": 7535498,
         "name": "Gemeente  Oldambt",
-        "stateId": "2755249",
+        "stateId": 2755249,
         "latitude": 53.16859,
         "longitude": 7.04224
     }

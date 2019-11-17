@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "1512404",
+        "cityId": 1512404,
         "name": "Sayhunobod Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.71667,
         "longitude": 68.85
     },
     {
-        "cityId": "1512717",
+        "cityId": 1512717,
         "name": "Sirdaryo Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.83333,
         "longitude": 68.66667
     },
     {
-        "cityId": "1513490",
+        "cityId": 1513490,
         "name": "Mirzaobod Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.5,
         "longitude": 68.58333
     },
     {
-        "cityId": "1513618",
+        "cityId": 1513618,
         "name": "Khovos Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.26722,
         "longitude": 68.905
     },
     {
-        "cityId": "1513952",
+        "cityId": 1513952,
         "name": "Sharof-Rashidow Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.33333,
         "longitude": 68.33333
     },
     {
-        "cityId": "1513967",
+        "cityId": 1513967,
         "name": "Guliston Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.5,
         "longitude": 68.91667
     },
     {
-        "cityId": "1514430",
+        "cityId": 1514430,
         "name": "Boyowut Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.36667,
         "longitude": 69
     },
     {
-        "cityId": "1514705",
+        "cityId": 1514705,
         "name": "Oqoltin Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.5,
         "longitude": 68.33333
     },
     {
-        "cityId": "1538246",
+        "cityId": 1538246,
         "name": "Mehnatobod Tumani",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.33333,
         "longitude": 68.66667
     },
     {
-        "cityId": "1538249",
+        "cityId": 1538249,
         "name": "Guliston Shahri",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.48972,
         "longitude": 68.78417
     },
     {
-        "cityId": "1538250",
+        "cityId": 1538250,
         "name": "Sirdaryo Shahri",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.83948,
         "longitude": 68.66191
     },
     {
-        "cityId": "1538251",
+        "cityId": 1538251,
         "name": "Shirin Shahri",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.23333,
         "longitude": 69.12
     },
     {
-        "cityId": "1538252",
+        "cityId": 1538252,
         "name": "Yangiyer Shahri",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.2769,
         "longitude": 68.82548
     },
     {
-        "cityId": "1538253",
+        "cityId": 1538253,
         "name": "Bakht Shahri",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.7184,
         "longitude": 68.69463
     },
     {
-        "cityId": "7668840",
+        "cityId": 7668840,
         "name": "Bayaut",
-        "stateId": "1484840",
+        "stateId": 1484840,
         "latitude": 40.35237,
         "longitude": 68.9559
     }

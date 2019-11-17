@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "2012726",
+        "cityId": 2012726,
         "name": "Zakamenskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 50.58333,
         "longitude": 103.5
     },
     {
-        "cityId": "2012734",
+        "cityId": 2012734,
         "name": "Zaigrayevskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.83333,
         "longitude": 108.5
     },
     {
-        "cityId": "2012958",
+        "cityId": 2012958,
         "name": "Yeravninskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 53,
         "longitude": 112.25
     },
     {
-        "cityId": "2014864",
+        "cityId": 2014864,
         "name": "Tunkinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.5,
         "longitude": 102.5
     },
     {
-        "cityId": "2016909",
+        "cityId": 2016909,
         "name": "Severo-Baykal\u2019skiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 56,
         "longitude": 111.5
     },
     {
-        "cityId": "2017058",
+        "cityId": 2017058,
         "name": "Selenginskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.16667,
         "longitude": 106.33333
     },
     {
-        "cityId": "2017644",
+        "cityId": 2017644,
         "name": "Pribaykal\u2019skiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 52.5,
         "longitude": 108
     },
     {
-        "cityId": "2018629",
+        "cityId": 2018629,
         "name": "Okinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 52.5,
         "longitude": 100.5
     },
     {
-        "cityId": "2019707",
+        "cityId": 2019707,
         "name": "Mukhorshibirskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.08333,
         "longitude": 107.75
     },
     {
-        "cityId": "2021063",
+        "cityId": 2021063,
         "name": "Kyakhtinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 50.5,
         "longitude": 106.5
     },
     {
-        "cityId": "2021185",
+        "cityId": 2021185,
         "name": "Kurumkanskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 54.3,
         "longitude": 110.3
     },
     {
-        "cityId": "2022001",
+        "cityId": 2022001,
         "name": "Kizhinginskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.83333,
         "longitude": 110.5
     },
     {
-        "cityId": "2022301",
+        "cityId": 2022301,
         "name": "Khorinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 52.5,
         "longitude": 109.83333
     },
     {
-        "cityId": "2023349",
+        "cityId": 2023349,
         "name": "Kabanskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.66667,
         "longitude": 106
     },
     {
-        "cityId": "2024574",
+        "cityId": 2024574,
         "name": "Dzhidinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 50.75,
         "longitude": 105.5
     },
     {
-        "cityId": "2026705",
+        "cityId": 2026705,
         "name": "Bichurskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 50.58333,
         "longitude": 107.58333
     },
     {
-        "cityId": "2027013",
+        "cityId": 2027013,
         "name": "Bauntovskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 54.66667,
         "longitude": 114.5
     },
     {
-        "cityId": "2027104",
+        "cityId": 2027104,
         "name": "Barguzinskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 54,
         "longitude": 109.75
     },
     {
-        "cityId": "2050912",
+        "cityId": 2050912,
         "name": "Ivolginskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.83333,
         "longitude": 107.33333
     },
     {
-        "cityId": "2050913",
+        "cityId": 2050913,
         "name": "Tarbagatayskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 51.5,
         "longitude": 107.66667
     },
     {
-        "cityId": "2050914",
+        "cityId": 2050914,
         "name": "Muyskiy Rayon",
-        "stateId": "2050915",
+        "stateId": 2050915,
         "latitude": 56.33333,
         "longitude": 115
     }

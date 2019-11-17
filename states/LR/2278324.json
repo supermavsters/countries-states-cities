@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2275016",
+        "cityId": 2275016,
         "name": "Suehn Mecca District",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.72331,
         "longitude": -10.64097
     },
     {
-        "cityId": "2276737",
+        "cityId": 2276737,
         "name": "Gola",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.71528,
         "longitude": -10.91333
     },
     {
-        "cityId": "2277849",
+        "cityId": 2277849,
         "name": "Dei",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.53333,
         "longitude": -10.91667
     },
     {
-        "cityId": "8714531",
+        "cityId": 8714531,
         "name": "Klay District",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.69417,
         "longitude": -10.87444
     },
     {
-        "cityId": "9645005",
+        "cityId": 9645005,
         "name": "Senjeh District",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.85254,
         "longitude": -10.88638
     },
     {
-        "cityId": "9645006",
+        "cityId": 9645006,
         "name": "Dowein District",
-        "stateId": "2278324",
+        "stateId": 2278324,
         "latitude": 6.58879,
         "longitude": -10.94974
     }

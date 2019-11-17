@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "690871",
+        "cityId": 690871,
         "name": "Tysmenyts\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.92246,
         "longitude": 24.74486
     },
     {
-        "cityId": "691495",
+        "cityId": 691495,
         "name": "Tlumats\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.82924,
         "longitude": 25.09055
     },
     {
-        "cityId": "693362",
+        "cityId": 693362,
         "name": "Snyatyns\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.47674,
         "longitude": 25.41153
     },
     {
-        "cityId": "695312",
+        "cityId": 695312,
         "name": "Rozhnyativs\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.7589,
         "longitude": 24.07588
     },
     {
-        "cityId": "695558",
+        "cityId": 695558,
         "name": "Rohatyns\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.38025,
         "longitude": 24.57111
     },
     {
-        "cityId": "700505",
+        "cityId": 700505,
         "name": "Nadvirnyans\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.55387,
         "longitude": 24.50381
     },
     {
-        "cityId": "704755",
+        "cityId": 704755,
         "name": "Kosivs\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.32569,
         "longitude": 24.98641
     },
     {
-        "cityId": "705389",
+        "cityId": 705389,
         "name": "Kolomyys\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.58586,
         "longitude": 24.993
     },
     {
-        "cityId": "707098",
+        "cityId": 707098,
         "name": "Kalus\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.06088,
         "longitude": 24.38766
     },
     {
-        "cityId": "708378",
+        "cityId": 708378,
         "name": "Horodenkivs\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.70617,
         "longitude": 25.42008
     },
     {
-        "cityId": "709029",
+        "cityId": 709029,
         "name": "Halyts\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.16169,
         "longitude": 24.71797
     },
     {
-        "cityId": "709779",
+        "cityId": 709779,
         "name": "Dolyns\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.89148,
         "longitude": 23.84343
     },
     {
-        "cityId": "711580",
+        "cityId": 711580,
         "name": "Borshchevskiy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.75,
         "longitude": 26
     },
     {
-        "cityId": "711888",
+        "cityId": 711888,
         "name": "Bohorodchans\u2019kyy Rayon",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.72278,
         "longitude": 24.38042
     },
     {
-        "cityId": "9522667",
+        "cityId": 9522667,
         "name": "Kalus\u2019ka Mis\u2019krada",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.04037,
         "longitude": 24.3598
     },
     {
-        "cityId": "9523736",
+        "cityId": 9523736,
         "name": "Ivano-Frankivs\u2019ka Mis\u2019krada",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.91177,
         "longitude": 24.72831
     },
     {
-        "cityId": "9524094",
+        "cityId": 9524094,
         "name": "Yaremchans\u2019ks Mis\u2019krada",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 48.33234,
         "longitude": 24.57426
     },
     {
-        "cityId": "9524095",
+        "cityId": 9524095,
         "name": "Bolekhivs\u2019ka Mis\u2019krada",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.06255,
         "longitude": 23.84339
     },
     {
-        "cityId": "9524109",
+        "cityId": 9524109,
         "name": "Burshtyns\u2019ka Mis\u2019krada",
-        "stateId": "707470",
+        "stateId": 707470,
         "latitude": 49.25217,
         "longitude": 24.6332
     }

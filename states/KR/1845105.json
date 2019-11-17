@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1832770",
+        "cityId": 1832770,
         "name": "Yesan-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.68218,
         "longitude": 126.79592
     },
     {
-        "cityId": "1834884",
+        "cityId": 1834884,
         "name": "Dangjin-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.91667,
         "longitude": 126.66667
     },
     {
-        "cityId": "1835889",
+        "cityId": 1835889,
         "name": "Seosan-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.78518,
         "longitude": 126.46568
     },
     {
-        "cityId": "1836710",
+        "cityId": 1836710,
         "name": "Seocheon-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.1082,
         "longitude": 126.69722
     },
     {
-        "cityId": "1838507",
+        "cityId": 1838507,
         "name": "Buyeo-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.26257,
         "longitude": 126.85802
     },
     {
-        "cityId": "1838749",
+        "cityId": 1838749,
         "name": "Boryeong-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.35649,
         "longitude": 126.59444
     },
     {
-        "cityId": "1840209",
+        "cityId": 1840209,
         "name": "Nonsan-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.19774,
         "longitude": 127.12143
     },
     {
-        "cityId": "1842149",
+        "cityId": 1842149,
         "name": "Geumsan-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.13381,
         "longitude": 127.48062
     },
     {
-        "cityId": "1842615",
+        "cityId": 1842615,
         "name": "Gongju-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.5,
         "longitude": 127.08333
     },
     {
-        "cityId": "1844173",
+        "cityId": 1844173,
         "name": "Hongseong-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.56705,
         "longitude": 126.62626
     },
     {
-        "cityId": "1845490",
+        "cityId": 1845490,
         "name": "Cheongyang-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.44586,
         "longitude": 126.84288
     },
     {
-        "cityId": "1845757",
+        "cityId": 1845757,
         "name": "Cheonan-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.80488,
         "longitude": 127.19431
     },
     {
-        "cityId": "1846848",
+        "cityId": 1846848,
         "name": "Asan-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.80791,
         "longitude": 126.97769
     },
     {
-        "cityId": "8419249",
+        "cityId": 8419249,
         "name": "Taean-gun",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.70036,
         "longitude": 126.28391
     },
     {
-        "cityId": "8419251",
+        "cityId": 8419251,
         "name": "Gyeryong-si",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.29304,
         "longitude": 127.22575
     },
     {
-        "cityId": "8659218",
+        "cityId": 8659218,
         "name": "Seobuk-gu",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.89,
         "longitude": 127.161
     },
     {
-        "cityId": "8659219",
+        "cityId": 8659219,
         "name": "Dongnam-gu",
-        "stateId": "1845105",
+        "stateId": 1845105,
         "latitude": 36.761,
         "longitude": 127.22
     }

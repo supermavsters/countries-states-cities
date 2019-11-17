@@ -1,106 +1,106 @@
 [
     {
-        "stateId": "2278324",
+        "stateId": 2278324,
         "name": "Bomi County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.73333,
         "longitude": -10.81667
     },
     {
-        "stateId": "2278292",
+        "stateId": 2278292,
         "name": "Bong County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.96667,
         "longitude": -9.63333
     },
     {
-        "stateId": "2593119",
+        "stateId": 2593119,
         "name": "Gbarpolu County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 7.36667,
         "longitude": -10.31667
     },
     {
-        "stateId": "2276630",
+        "stateId": 2276630,
         "name": "Grand Bassa County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.23333,
         "longitude": -9.83333
     },
     {
-        "stateId": "2276627",
+        "stateId": 2276627,
         "name": "Grand Cape Mount County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 7.13333,
         "longitude": -11.05
     },
     {
-        "stateId": "2276622",
+        "stateId": 2276622,
         "name": "Grand Gedeh County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 5.96667,
         "longitude": -8.2
     },
     {
-        "stateId": "2588490",
+        "stateId": 2588490,
         "name": "Grand Kru County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 4.78333,
         "longitude": -8.21667
     },
     {
-        "stateId": "2275344",
+        "stateId": 2275344,
         "name": "Lofa County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 8.03333,
         "longitude": -9.85
     },
     {
-        "stateId": "2588491",
+        "stateId": 2588491,
         "name": "Margibi County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.55,
         "longitude": -10.31667
     },
     {
-        "stateId": "2275099",
+        "stateId": 2275099,
         "name": "Maryland County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 4.75,
         "longitude": -7.75
     },
     {
-        "stateId": "2274890",
+        "stateId": 2274890,
         "name": "Montserrado County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.5,
         "longitude": -10.56667
     },
     {
-        "stateId": "2274688",
+        "stateId": 2274688,
         "name": "Nimba County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 6.81667,
         "longitude": -8.78333
     },
     {
-        "stateId": "2588492",
+        "stateId": 2588492,
         "name": "River Cess County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 5.91667,
         "longitude": -9.36667
     },
     {
-        "stateId": "2593120",
+        "stateId": 2593120,
         "name": "River Gee County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 5.31667,
         "longitude": -7.8
     },
     {
-        "stateId": "2273898",
+        "stateId": 2273898,
         "name": "Sinoe County",
-        "countryId": "2275384",
+        "countryId": 2275384,
         "latitude": 5.33333,
         "longitude": -8.76667
     }

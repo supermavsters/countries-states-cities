@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "7530732",
+        "cityId": 7530732,
         "name": "Powiat brzeski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.7893,
         "longitude": 17.48499
     },
     {
-        "cityId": "7530733",
+        "cityId": 7530733,
         "name": "Powiat namys\u0142owski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 51.01628,
         "longitude": 17.76304
     },
     {
-        "cityId": "7530734",
+        "cityId": 7530734,
         "name": "Powiat nyski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.46054,
         "longitude": 17.33546
     },
     {
-        "cityId": "7530761",
+        "cityId": 7530761,
         "name": "Powiat kluczborski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.98576,
         "longitude": 18.15258
     },
     {
-        "cityId": "7530762",
+        "cityId": 7530762,
         "name": "Powiat oleski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.87887,
         "longitude": 18.46037
     },
     {
-        "cityId": "7530818",
+        "cityId": 7530818,
         "name": "Opole",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.65622,
         "longitude": 17.93066
     },
     {
-        "cityId": "7531046",
+        "cityId": 7531046,
         "name": "Powiat g\u0142ubczycki",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.14846,
         "longitude": 17.83266
     },
     {
-        "cityId": "7531047",
+        "cityId": 7531047,
         "name": "Powiat prudnicki",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.40981,
         "longitude": 17.73995
     },
     {
-        "cityId": "7531048",
+        "cityId": 7531048,
         "name": "Powiat k\u0119dzierzy\u0144sko-kozielski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.29384,
         "longitude": 18.16961
     },
     {
-        "cityId": "7531049",
+        "cityId": 7531049,
         "name": "Powiat opolski",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.73689,
         "longitude": 17.98462
     },
     {
-        "cityId": "7531051",
+        "cityId": 7531051,
         "name": "Powiat krapkowicki",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.45263,
         "longitude": 17.95768
     },
     {
-        "cityId": "7531052",
+        "cityId": 7531052,
         "name": "Powiat strzelecki",
-        "stateId": "3337495",
+        "stateId": 3337495,
         "latitude": 50.53057,
         "longitude": 18.34597
     }

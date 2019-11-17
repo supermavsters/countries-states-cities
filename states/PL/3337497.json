@@ -1,253 +1,253 @@
 [
     {
-        "cityId": "3079850",
+        "cityId": 3079850,
         "name": "Powiat b\u0119dzi\u0144ski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.32924,
         "longitude": 19.10419
     },
     {
-        "cityId": "7530746",
+        "cityId": 7530746,
         "name": "D\u0105browa G\u00f3rnicza",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.37103,
         "longitude": 19.32131
     },
     {
-        "cityId": "7530763",
+        "cityId": 7530763,
         "name": "Powiat cz\u0119stochowski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.84118,
         "longitude": 19.34045
     },
     {
-        "cityId": "7530764",
+        "cityId": 7530764,
         "name": "Powiat k\u0142obucki",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.93274,
         "longitude": 18.87005
     },
     {
-        "cityId": "7530790",
+        "cityId": 7530790,
         "name": "Rybnik",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.11082,
         "longitude": 18.54926
     },
     {
-        "cityId": "7530791",
+        "cityId": 7530791,
         "name": "Bielsko-Bia\u0142a",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.81204,
         "longitude": 19.03899
     },
     {
-        "cityId": "7530792",
+        "cityId": 7530792,
         "name": "Katowice",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.21414,
         "longitude": 19.00798
     },
     {
-        "cityId": "7530808",
+        "cityId": 7530808,
         "name": "Powiat cieszy\u0144ski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.72628,
         "longitude": 18.79147
     },
     {
-        "cityId": "7530809",
+        "cityId": 7530809,
         "name": "Powiat miko\u0142owski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.15133,
         "longitude": 18.83689
     },
     {
-        "cityId": "7530810",
+        "cityId": 7530810,
         "name": "Powiat myszkowski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.60554,
         "longitude": 19.35125
     },
     {
-        "cityId": "7530811",
+        "cityId": 7530811,
         "name": "Powiat rybnicki",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.10385,
         "longitude": 18.46527
     },
     {
-        "cityId": "7530817",
+        "cityId": 7530817,
         "name": "Jaworzno",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.18914,
         "longitude": 19.30133
     },
     {
-        "cityId": "7530854",
+        "cityId": 7530854,
         "name": "Powiat wodzis\u0142awski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.99323,
         "longitude": 18.42504
     },
     {
-        "cityId": "7530857",
+        "cityId": 7530857,
         "name": "Gliwice",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.30116,
         "longitude": 18.64983
     },
     {
-        "cityId": "7530950",
+        "cityId": 7530950,
         "name": "Mys\u0142owice",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.20962,
         "longitude": 19.15388
     },
     {
-        "cityId": "7530951",
+        "cityId": 7530951,
         "name": "Ruda \u015al\u0105ska",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.27006,
         "longitude": 18.87424
     },
     {
-        "cityId": "7530952",
+        "cityId": 7530952,
         "name": "Zabrze",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.31412,
         "longitude": 18.79656
     },
     {
-        "cityId": "7530953",
+        "cityId": 7530953,
         "name": "\u017bory",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.03896,
         "longitude": 18.6884
     },
     {
-        "cityId": "7530961",
+        "cityId": 7530961,
         "name": "Jastrz\u0119bie-Zdr\u00f3j",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.96063,
         "longitude": 18.60053
     },
     {
-        "cityId": "7530964",
+        "cityId": 7530964,
         "name": "Cz\u0119stochowa",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.80964,
         "longitude": 19.12217
     },
     {
-        "cityId": "7530965",
+        "cityId": 7530965,
         "name": "Piekary \u015al\u0105skie",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.38094,
         "longitude": 18.92841
     },
     {
-        "cityId": "7530967",
+        "cityId": 7530967,
         "name": "Chorz\u00f3w",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.28849,
         "longitude": 18.96283
     },
     {
-        "cityId": "7530975",
+        "cityId": 7530975,
         "name": "Sosnowiec",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.27119,
         "longitude": 19.19463
     },
     {
-        "cityId": "7530984",
+        "cityId": 7530984,
         "name": "Tychy",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.1265,
         "longitude": 19.0084
     },
     {
-        "cityId": "7530985",
+        "cityId": 7530985,
         "name": "Siemianowice \u015al\u0105skie",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.31231,
         "longitude": 19.0232
     },
     {
-        "cityId": "7530986",
+        "cityId": 7530986,
         "name": "Bytom",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.36521,
         "longitude": 18.8763
     },
     {
-        "cityId": "7530992",
+        "cityId": 7530992,
         "name": "\u015awi\u0119toch\u0142owice",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.29796,
         "longitude": 18.91022
     },
     {
-        "cityId": "7531032",
+        "cityId": 7531032,
         "name": "Powiat bielski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.76175,
         "longitude": 19.1066
     },
     {
-        "cityId": "7531033",
+        "cityId": 7531033,
         "name": "Powiat pszczy\u0144ski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.98987,
         "longitude": 18.88177
     },
     {
-        "cityId": "7531034",
+        "cityId": 7531034,
         "name": "Powiat bieru\u0144sko-l\u0119dzi\u0144ski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.09356,
         "longitude": 19.1427
     },
     {
-        "cityId": "7531035",
+        "cityId": 7531035,
         "name": "Powiat zawiercia\u0144ski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.54225,
         "longitude": 19.61192
     },
     {
-        "cityId": "7531036",
+        "cityId": 7531036,
         "name": "Powiat \u017cywiecki",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 49.61145,
         "longitude": 19.21367
     },
     {
-        "cityId": "7531050",
+        "cityId": 7531050,
         "name": "Powiat lubliniecki",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.67367,
         "longitude": 18.79378
     },
     {
-        "cityId": "7531053",
+        "cityId": 7531053,
         "name": "Powiat tarnog\u00f3rski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.47264,
         "longitude": 18.86265
     },
     {
-        "cityId": "7531054",
+        "cityId": 7531054,
         "name": "Powiat raciborski",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.08696,
         "longitude": 18.26916
     },
     {
-        "cityId": "7531055",
+        "cityId": 7531055,
         "name": "Powiat gliwicki",
-        "stateId": "3337497",
+        "stateId": 3337497,
         "latitude": 50.36266,
         "longitude": 18.58107
     }

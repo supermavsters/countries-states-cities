@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3165802",
+        "cityId": 3165802,
         "name": "Provincia di Teramo",
-        "stateId": "3183560",
+        "stateId": 3183560,
         "latitude": 42.65,
         "longitude": 13.68333
     },
     {
-        "cityId": "3171163",
+        "cityId": 3171163,
         "name": "Provincia di Pescara",
-        "stateId": "3183560",
+        "stateId": 3183560,
         "latitude": 42.33333,
         "longitude": 13.95
     },
     {
-        "cityId": "3175120",
+        "cityId": 3175120,
         "name": "Provincia dell' Aquila",
-        "stateId": "3183560",
+        "stateId": 3183560,
         "latitude": 42.08333,
         "longitude": 13.66667
     },
     {
-        "cityId": "3178795",
+        "cityId": 3178795,
         "name": "Provincia di Chieti",
-        "stateId": "3183560",
+        "stateId": 3183560,
         "latitude": 42.11667,
         "longitude": 14.35
     }

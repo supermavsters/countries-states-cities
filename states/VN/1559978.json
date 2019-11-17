@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1905660",
+        "cityId": 1905660,
         "name": "Th\u00e0nh Ph\u1ed1 Y\u00ean B\u00e1i",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.7324,
         "longitude": 104.9064
     },
     {
-        "cityId": "1905661",
+        "cityId": 1905661,
         "name": "Th\u1ecb X\u00e3 Ngh\u0129a L\u1ed9",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.59878,
         "longitude": 104.50395
     },
     {
-        "cityId": "1905662",
+        "cityId": 1905662,
         "name": "Huy\u1ec7n Tr\u1ea5n Y\u00ean",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.66586,
         "longitude": 104.79702
     },
     {
-        "cityId": "1905663",
+        "cityId": 1905663,
         "name": "Huy\u1ec7n V\u0103n Ch\u1ea5n",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.55722,
         "longitude": 104.64038
     },
     {
-        "cityId": "1905664",
+        "cityId": 1905664,
         "name": "Huy\u1ec7n Y\u00ean B\u00ecnh",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.85464,
         "longitude": 104.95402
     },
     {
-        "cityId": "1905665",
+        "cityId": 1905665,
         "name": "Huy\u1ec7n V\u0103n Y\u00ean",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.90022,
         "longitude": 104.56669
     },
     {
-        "cityId": "1905666",
+        "cityId": 1905666,
         "name": "Huy\u1ec7n L\u1ee5c Y\u00ean",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 22.10235,
         "longitude": 104.72538
     },
     {
-        "cityId": "1905667",
+        "cityId": 1905667,
         "name": "Huy\u1ec7n Tr\u1ea1m T\u1ea5u",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.48553,
         "longitude": 104.42756
     },
     {
-        "cityId": "1905668",
+        "cityId": 1905668,
         "name": "Huy\u1ec7n M\u00f9 Cang Ch\u1ea3i",
-        "stateId": "1559978",
+        "stateId": 1559978,
         "latitude": 21.78815,
         "longitude": 104.11998
     }

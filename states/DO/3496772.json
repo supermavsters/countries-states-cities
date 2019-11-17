@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3493745",
+        "cityId": 3493745,
         "name": "R\u00edo San Juan",
-        "stateId": "3496772",
+        "stateId": 3496772,
         "latitude": 19.55022,
         "longitude": -70.07703
     },
     {
-        "cityId": "3496022",
+        "cityId": 3496022,
         "name": "Nagua",
-        "stateId": "3496772",
+        "stateId": 3496772,
         "latitude": 19.36667,
         "longitude": -70
     },
     {
-        "cityId": "3507629",
+        "cityId": 3507629,
         "name": "El Factor",
-        "stateId": "3496772",
+        "stateId": 3496772,
         "latitude": 19.28333,
         "longitude": -69.91667
     },
     {
-        "cityId": "3510875",
+        "cityId": 3510875,
         "name": "Cabrera",
-        "stateId": "3496772",
+        "stateId": 3496772,
         "latitude": 19.58333,
         "longitude": -69.96667
     }

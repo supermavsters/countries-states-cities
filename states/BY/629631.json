@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "618911",
+        "cityId": 618911,
         "name": "Zhabinkawski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.16667,
         "longitude": 24.08333
     },
     {
-        "cityId": "621276",
+        "cityId": 621276,
         "name": "Stolinski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52,
         "longitude": 27
     },
     {
-        "cityId": "622998",
+        "cityId": 622998,
         "name": "Pruzhanski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.66667,
         "longitude": 24.58333
     },
     {
-        "cityId": "623548",
+        "cityId": 623548,
         "name": "Pinski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.16667,
         "longitude": 26.16667
     },
     {
-        "cityId": "625538",
+        "cityId": 625538,
         "name": "Malarytski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 51.83333,
         "longitude": 24.08333
     },
     {
-        "cityId": "625765",
+        "cityId": 625765,
         "name": "Lyakhavitski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.91667,
         "longitude": 26.16667
     },
     {
-        "cityId": "625820",
+        "cityId": 625820,
         "name": "Luninyetski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.33395,
         "longitude": 26.80848
     },
     {
-        "cityId": "627146",
+        "cityId": 627146,
         "name": "Kobrynski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.16667,
         "longitude": 24.5
     },
     {
-        "cityId": "627709",
+        "cityId": 627709,
         "name": "Kamyanyetski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.41667,
         "longitude": 23.66667
     },
     {
-        "cityId": "627799",
+        "cityId": 627799,
         "name": "Ivatsevitski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.66667,
         "longitude": 25.5
     },
     {
-        "cityId": "627807",
+        "cityId": 627807,
         "name": "Ivanawski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.16667,
         "longitude": 25.58333
     },
     {
-        "cityId": "628532",
+        "cityId": 628532,
         "name": "Hantsavitski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.66667,
         "longitude": 26.5
     },
     {
-        "cityId": "628882",
+        "cityId": 628882,
         "name": "Drahichynski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.16667,
         "longitude": 25
     },
     {
-        "cityId": "629630",
+        "cityId": 629630,
         "name": "Brestski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52,
         "longitude": 23.75
     },
     {
-        "cityId": "630155",
+        "cityId": 630155,
         "name": "Byarozawski Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.5,
         "longitude": 25
     },
     {
-        "cityId": "630420",
+        "cityId": 630420,
         "name": "Baranovichskiy Rayon",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 53.16667,
         "longitude": 25.83333
     },
     {
-        "cityId": "828881",
+        "cityId": 828881,
         "name": "Horad Brest",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 52.1,
         "longitude": 23.7
     },
     {
-        "cityId": "828883",
+        "cityId": 828883,
         "name": "Horad Baranavichy",
-        "stateId": "629631",
+        "stateId": 629631,
         "latitude": 53.13333,
         "longitude": 26.03333
     }

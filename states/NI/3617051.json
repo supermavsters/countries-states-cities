@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3616018",
+        "cityId": 3616018,
         "name": "Municipio de Tola",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.46667,
         "longitude": -86
     },
     {
-        "cityId": "3616724",
+        "cityId": 3616724,
         "name": "Municipio de San Juan del Sur",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.2,
         "longitude": -85.78333
     },
     {
-        "cityId": "3616791",
+        "cityId": 3616791,
         "name": "Municipio de San Jorge",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.48333,
         "longitude": -85.8
     },
     {
-        "cityId": "3617050",
+        "cityId": 3617050,
         "name": "Municipio de Rivas",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.43931,
         "longitude": -85.827
     },
     {
-        "cityId": "3617185",
+        "cityId": 3617185,
         "name": "Municipio de Potos\u00ed",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.65,
         "longitude": -85.9
     },
     {
-        "cityId": "3617568",
+        "cityId": 3617568,
         "name": "Municipio de Moyogalpa",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.55,
         "longitude": -85.65
     },
     {
-        "cityId": "3620478",
+        "cityId": 3620478,
         "name": "Municipio de C\u00e1rdenas",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.15,
         "longitude": -85.38333
     },
     {
-        "cityId": "3620596",
+        "cityId": 3620596,
         "name": "Municipio de Buenos Aires",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.5176,
         "longitude": -85.78333
     },
     {
-        "cityId": "3620731",
+        "cityId": 3620731,
         "name": "Municipio de Bel\u00e9n",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.58333,
         "longitude": -85.96667
     },
     {
-        "cityId": "3620929",
+        "cityId": 3620929,
         "name": "Municipio de Altagracia",
-        "stateId": "3617051",
+        "stateId": 3617051,
         "latitude": 11.5,
         "longitude": -85.53333
     }

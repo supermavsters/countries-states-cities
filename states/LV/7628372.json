@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "11352514",
+        "cityId": 11352514,
         "name": "Burtnieku pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.68902,
         "longitude": 25.29868
     },
     {
-        "cityId": "11352515",
+        "cityId": 11352515,
         "name": "\u0112veles pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.71938,
         "longitude": 25.58406
     },
     {
-        "cityId": "11352516",
+        "cityId": 11352516,
         "name": "Mat\u012b\u0161u pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.71294,
         "longitude": 25.14849
     },
     {
-        "cityId": "11352517",
+        "cityId": 11352517,
         "name": "Renc\u0113nu pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.71435,
         "longitude": 25.44937
     },
     {
-        "cityId": "11352518",
+        "cityId": 11352518,
         "name": "Valmieras pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.59249,
         "longitude": 25.4536
     },
     {
-        "cityId": "11352520",
+        "cityId": 11352520,
         "name": "Vecates pagasts",
-        "stateId": "7628372",
+        "stateId": 7628372,
         "latitude": 57.79143,
         "longitude": 25.14483
     }

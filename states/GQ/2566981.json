@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2308017",
+        "cityId": 2308017,
         "name": "Micomeseng",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 2,
         "longitude": 10.66667
     },
     {
-        "cityId": "2309335",
+        "cityId": 2309335,
         "name": "Ebebiy\u00edn",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 1.91667,
         "longitude": 11.16667
     },
     {
-        "cityId": "11237868",
+        "cityId": 11237868,
         "name": "Nsang",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 2.02376,
         "longitude": 10.93946
     },
     {
-        "cityId": "11237869",
+        "cityId": 11237869,
         "name": "Ncue",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 2.01244,
         "longitude": 10.46976
     },
     {
-        "cityId": "11237877",
+        "cityId": 11237877,
         "name": "Bidjabidjan",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 2.16301,
         "longitude": 11.14906
     },
     {
-        "cityId": "11237881",
+        "cityId": 11237881,
         "name": "Nsork-Nzomo",
-        "stateId": "2566981",
+        "stateId": 2566981,
         "latitude": 2.00217,
         "longitude": 10.97903
     }

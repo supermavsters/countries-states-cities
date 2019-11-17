@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1904769",
+        "cityId": 1904769,
         "name": "Muang Xais\u00e9ttha",
-        "stateId": "1665045",
+        "stateId": 1665045,
         "latitude": 14.90594,
         "longitude": 106.97894
     },
     {
-        "cityId": "1904770",
+        "cityId": 1904770,
         "name": "Muang Samakhixai",
-        "stateId": "1665045",
+        "stateId": 1665045,
         "latitude": 14.80539,
         "longitude": 106.78164
     },
     {
-        "cityId": "1904771",
+        "cityId": 1904771,
         "name": "Muang Sanamxai",
-        "stateId": "1665045",
+        "stateId": 1665045,
         "latitude": 14.73807,
         "longitude": 106.41328
     },
     {
-        "cityId": "1904772",
+        "cityId": 1904772,
         "name": "Muang Phouvong",
-        "stateId": "1665045",
+        "stateId": 1665045,
         "latitude": 14.56821,
         "longitude": 107.01087
     },
     {
-        "cityId": "1904773",
+        "cityId": 1904773,
         "name": "Muang Sanxai",
-        "stateId": "1665045",
+        "stateId": 1665045,
         "latitude": 15.02944,
         "longitude": 107.23158
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7522489",
+        "cityId": 7522489,
         "name": "Makhaleng Constituency",
-        "stateId": "932506",
+        "stateId": 932506,
         "latitude": -29.69998,
         "longitude": 27.72572
     },
     {
-        "cityId": "11256888",
+        "cityId": 11256888,
         "name": "Rothe",
-        "stateId": "932506",
+        "stateId": 932506,
         "latitude": -29.51887,
         "longitude": 27.40119
     },
     {
-        "cityId": "11428652",
+        "cityId": 11428652,
         "name": "Maseru Central",
-        "stateId": "932506",
+        "stateId": 932506,
         "latitude": -29.30639,
         "longitude": 27.475
     }

@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3600592",
+        "cityId": 3600592,
         "name": "Trujillo",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.88333,
         "longitude": -85.83333
     },
     {
-        "cityId": "3600705",
+        "cityId": 3600705,
         "name": "Tocoa",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.58333,
         "longitude": -86
     },
     {
-        "cityId": "3601212",
+        "cityId": 3601212,
         "name": "Sonaguera",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.64,
         "longitude": -86.26
     },
     {
-        "cityId": "3601404",
+        "cityId": 3601404,
         "name": "Sav\u00e1",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.45,
         "longitude": -86.16667
     },
     {
-        "cityId": "3601497",
+        "cityId": 3601497,
         "name": "Santa Rosa de Agu\u00e1n",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.91667,
         "longitude": -85.66667
     },
     {
-        "cityId": "3601601",
+        "cityId": 3601601,
         "name": "Santa Fe",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.83333,
         "longitude": -86.05
     },
     {
-        "cityId": "3606014",
+        "cityId": 3606014,
         "name": "Lim\u00f3n",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.78333,
         "longitude": -85.48333
     },
     {
-        "cityId": "3608823",
+        "cityId": 3608823,
         "name": "Iriona",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.58333,
         "longitude": -85.21667
     },
     {
-        "cityId": "3614905",
+        "cityId": 3614905,
         "name": "Balfate",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.75,
         "longitude": -86.36667
     },
     {
-        "cityId": "8062523",
+        "cityId": 8062523,
         "name": "Bonito Oriental",
-        "stateId": "3613358",
+        "stateId": 3613358,
         "latitude": 15.74641,
         "longitude": -85.7361
     }

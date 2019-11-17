@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "7530813",
+        "cityId": 7530813,
         "name": "Toru\u0144",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.01449,
         "longitude": 18.60145
     },
     {
-        "cityId": "7530814",
+        "cityId": 7530814,
         "name": "Bydgoszcz",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.12973,
         "longitude": 18.0383
     },
     {
-        "cityId": "7530904",
+        "cityId": 7530904,
         "name": "Powiat aleksandrowski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.78465,
         "longitude": 18.7193
     },
     {
-        "cityId": "7530905",
+        "cityId": 7530905,
         "name": "Powiat brodnicki",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.26982,
         "longitude": 19.42279
     },
     {
-        "cityId": "7530906",
+        "cityId": 7530906,
         "name": "Powiat bydgoski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.19029,
         "longitude": 18.03808
     },
     {
-        "cityId": "7530907",
+        "cityId": 7530907,
         "name": "Powiat che\u0142mi\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.30056,
         "longitude": 18.50396
     },
     {
-        "cityId": "7530908",
+        "cityId": 7530908,
         "name": "Powiat golubsko-dobrzy\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.09922,
         "longitude": 18.99209
     },
     {
-        "cityId": "7530909",
+        "cityId": 7530909,
         "name": "Powiat grudzi\u0105dzki",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.47146,
         "longitude": 18.9162
     },
     {
-        "cityId": "7530910",
+        "cityId": 7530910,
         "name": "Powiat inowroc\u0142awski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.76463,
         "longitude": 18.29671
     },
     {
-        "cityId": "7530911",
+        "cityId": 7530911,
         "name": "Powiat lipnowski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.81573,
         "longitude": 19.21704
     },
     {
-        "cityId": "7530912",
+        "cityId": 7530912,
         "name": "Powiat mogile\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.6616,
         "longitude": 18.07424
     },
     {
-        "cityId": "7530913",
+        "cityId": 7530913,
         "name": "Powiat nakielski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.0948,
         "longitude": 17.58988
     },
     {
-        "cityId": "7530914",
+        "cityId": 7530914,
         "name": "Powiat radziejowski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.62358,
         "longitude": 18.52964
     },
     {
-        "cityId": "7530915",
+        "cityId": 7530915,
         "name": "Powiat rypi\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.06613,
         "longitude": 19.40975
     },
     {
-        "cityId": "7530916",
+        "cityId": 7530916,
         "name": "Powiat s\u0119pole\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.44263,
         "longitude": 17.50895
     },
     {
-        "cityId": "7530917",
+        "cityId": 7530917,
         "name": "Powiat \u015bwiecki",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.48128,
         "longitude": 18.41163
     },
     {
-        "cityId": "7530918",
+        "cityId": 7530918,
         "name": "Powiat toru\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.98255,
         "longitude": 18.83331
     },
     {
-        "cityId": "7530919",
+        "cityId": 7530919,
         "name": "Powiat tucholski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.58146,
         "longitude": 17.93967
     },
     {
-        "cityId": "7530920",
+        "cityId": 7530920,
         "name": "Powiat w\u0105brzeski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.28267,
         "longitude": 18.92649
     },
     {
-        "cityId": "7530921",
+        "cityId": 7530921,
         "name": "Powiat w\u0142oc\u0142awski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.55662,
         "longitude": 19.05157
     },
     {
-        "cityId": "7530922",
+        "cityId": 7530922,
         "name": "Powiat \u017cni\u0144ski",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.82255,
         "longitude": 17.73743
     },
     {
-        "cityId": "7530966",
+        "cityId": 7530966,
         "name": "W\u0142oc\u0142awek",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 52.66538,
         "longitude": 19.06083
     },
     {
-        "cityId": "7530969",
+        "cityId": 7530969,
         "name": "Grudzi\u0105dz",
-        "stateId": "3337500",
+        "stateId": 3337500,
         "latitude": 53.47246,
         "longitude": 18.77849
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352829",
+        "cityId": 11352829,
         "name": "Drustu pagasts",
-        "stateId": "7628377",
+        "stateId": 7628377,
         "latitude": 57.24312,
         "longitude": 25.8922
     },
     {
-        "cityId": "11352830",
+        "cityId": 11352830,
         "name": "Raunas pagasts",
-        "stateId": "7628377",
+        "stateId": 7628377,
         "latitude": 57.34204,
         "longitude": 25.6411
     }

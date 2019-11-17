@@ -1,197 +1,197 @@
 [
     {
-        "cityId": "1164211",
+        "cityId": 1164211,
         "name": "Sw\u0101t District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 35.2416,
         "longitude": 72.49933
     },
     {
-        "cityId": "1168194",
+        "cityId": 1168194,
         "name": "Peshawar Division",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.00081,
         "longitude": 71.78231
     },
     {
-        "cityId": "1168195",
+        "cityId": 1168195,
         "name": "Pesh\u0101war District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.98512,
         "longitude": 71.55784
     },
     {
-        "cityId": "1170875",
+        "cityId": 1170875,
         "name": "Mard\u0101n District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.30671,
         "longitude": 72.09042
     },
     {
-        "cityId": "1170950",
+        "cityId": 1170950,
         "name": "M\u0101nsehra District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.64827,
         "longitude": 73.4647
     },
     {
-        "cityId": "1171387",
+        "cityId": 1171387,
         "name": "Malakand Division",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 35.64194,
         "longitude": 72.26194
     },
     {
-        "cityId": "1171388",
+        "cityId": 1171388,
         "name": "Malakand Protected Area",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.53635,
         "longitude": 71.8847
     },
     {
-        "cityId": "1173473",
+        "cityId": 1173473,
         "name": "Kohist\u0101n District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 35.325,
         "longitude": 73.22923
     },
     {
-        "cityId": "1173489",
+        "cityId": 1173489,
         "name": "Koh\u0101t District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.44911,
         "longitude": 71.54394
     },
     {
-        "cityId": "1176967",
+        "cityId": 1176967,
         "name": "Hazara Division",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.83438,
         "longitude": 73.22525
     },
     {
-        "cityId": "1179754",
+        "cityId": 1179754,
         "name": "Upper D\u012br District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 35.30879,
         "longitude": 72.04692
     },
     {
-        "cityId": "1180282",
+        "cityId": 1180282,
         "name": "Dera Ism\u0101\u012bl Kh\u0101n District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 31.85963,
         "longitude": 70.64879
     },
     {
-        "cityId": "1181064",
+        "cityId": 1181064,
         "name": "Chitr\u0101l District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 36.25829,
         "longitude": 72.24302
     },
     {
-        "cityId": "1182146",
+        "cityId": 1182146,
         "name": "Buner District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.44301,
         "longitude": 72.49933
     },
     {
-        "cityId": "1183459",
+        "cityId": 1183459,
         "name": "Bannu District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 32.90357,
         "longitude": 70.63676
     },
     {
-        "cityId": "1185055",
+        "cityId": 1185055,
         "name": "Abbott\u0101b\u0101d District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.09497,
         "longitude": 73.26043
     },
     {
-        "cityId": "7419039",
+        "cityId": 7419039,
         "name": "Lakki Marwat District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 32.59921,
         "longitude": 70.85119
     },
     {
-        "cityId": "7419040",
+        "cityId": 7419040,
         "name": "T\u0101nk District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 32.24,
         "longitude": 70.39256
     },
     {
-        "cityId": "7419047",
+        "cityId": 7419047,
         "name": "Karak District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.13609,
         "longitude": 71.08336
     },
     {
-        "cityId": "7419048",
+        "cityId": 7419048,
         "name": "Hangu District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.44718,
         "longitude": 70.88772
     },
     {
-        "cityId": "7419051",
+        "cityId": 7419051,
         "name": "Ch\u0101rsadda District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.25102,
         "longitude": 71.69037
     },
     {
-        "cityId": "7419052",
+        "cityId": 7419052,
         "name": "Nowshera District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.92538,
         "longitude": 71.98092
     },
     {
-        "cityId": "7419053",
+        "cityId": 7419053,
         "name": "Sh\u0101ngla District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.68516,
         "longitude": 72.70139
     },
     {
-        "cityId": "7419054",
+        "cityId": 7419054,
         "name": "Har\u012bpur District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 33.9459,
         "longitude": 72.91146
     },
     {
-        "cityId": "7419055",
+        "cityId": 7419055,
         "name": "Sw\u0101bi District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.14133,
         "longitude": 72.47665
     },
     {
-        "cityId": "7419056",
+        "cityId": 7419056,
         "name": "Lower D\u012br District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.85194,
         "longitude": 71.85335
     },
     {
-        "cityId": "8061265",
+        "cityId": 8061265,
         "name": "Tor Ghar",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.58699,
         "longitude": 73.40321
     },
     {
-        "cityId": "8224052",
+        "cityId": 8224052,
         "name": "Battagram District",
-        "stateId": "1168873",
+        "stateId": 1168873,
         "latitude": 34.68051,
         "longitude": 73.00535
     }

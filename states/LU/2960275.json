@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "6693285",
+        "cityId": 6693285,
         "name": "Berg",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.81361,
         "longitude": 6.08917
     },
     {
-        "cityId": "6693286",
+        "cityId": 6693286,
         "name": "Bissen",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.7875,
         "longitude": 6.06944
     },
     {
-        "cityId": "6693287",
+        "cityId": 6693287,
         "name": "Boevange-sur-Attert",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.77528,
         "longitude": 6.01556
     },
     {
-        "cityId": "6693288",
+        "cityId": 6693288,
         "name": "Fischbach",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.73972,
         "longitude": 6.18722
     },
     {
-        "cityId": "6693289",
+        "cityId": 6693289,
         "name": "Heffingen",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.7625,
         "longitude": 6.24139
     },
     {
-        "cityId": "6693290",
+        "cityId": 6693290,
         "name": "Larochette",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.78476,
         "longitude": 6.21779
     },
     {
-        "cityId": "6693291",
+        "cityId": 6693291,
         "name": "Lintgen",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.71583,
         "longitude": 6.13361
     },
     {
-        "cityId": "6693292",
+        "cityId": 6693292,
         "name": "Lorentzweiler",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.69472,
         "longitude": 6.1425
     },
     {
-        "cityId": "6693293",
+        "cityId": 6693293,
         "name": "Mersch",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.74889,
         "longitude": 6.10611
     },
     {
-        "cityId": "6693294",
+        "cityId": 6693294,
         "name": "Nommern",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.78694,
         "longitude": 6.17472
     },
     {
-        "cityId": "6693295",
+        "cityId": 6693295,
         "name": "Tuntange",
-        "stateId": "2960275",
+        "stateId": 2960275,
         "latitude": 49.71778,
         "longitude": 6.01028
     }

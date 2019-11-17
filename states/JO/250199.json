@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "8621730",
+        "cityId": 8621730,
         "name": "Liw\u0101\u2019 al \u1e28as\u0101",
-        "stateId": "250199",
+        "stateId": 250199,
         "latitude": 30.77057,
         "longitude": 35.87614
     },
     {
-        "cityId": "8621739",
+        "cityId": 8621739,
         "name": "Liw\u0101\u2019 Qa\u015fabat a\u0163 \u0162af\u012blah",
-        "stateId": "250199",
+        "stateId": 250199,
         "latitude": 30.82788,
         "longitude": 35.54781
     },
     {
-        "cityId": "8621741",
+        "cityId": 8621741,
         "name": "Liw\u0101\u2019 Bu\u015fayr\u0101",
-        "stateId": "250199",
+        "stateId": 250199,
         "latitude": 30.67979,
         "longitude": 35.61525
     }

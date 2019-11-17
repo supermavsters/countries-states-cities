@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2464039",
+        "cityId": 2464039,
         "name": "Zaghouan",
-        "stateId": "2464038",
+        "stateId": 2464038,
         "latitude": 36.44247,
         "longitude": 10.17127
     },
     {
-        "cityId": "7870578",
+        "cityId": 7870578,
         "name": "Nadhour",
-        "stateId": "2464038",
+        "stateId": 2464038,
         "latitude": 36.11185,
         "longitude": 9.9961
     },
     {
-        "cityId": "11108352",
+        "cityId": 11108352,
         "name": "Bir Mcherga",
-        "stateId": "2464038",
+        "stateId": 2464038,
         "latitude": 36.53186,
         "longitude": 9.97594
     },
     {
-        "cityId": "11108353",
+        "cityId": 11108353,
         "name": "Zriba",
-        "stateId": "2464038",
+        "stateId": 2464038,
         "latitude": 36.32695,
         "longitude": 10.21286
     },
     {
-        "cityId": "11108354",
+        "cityId": 11108354,
         "name": "Saouaf",
-        "stateId": "2464038",
+        "stateId": 2464038,
         "latitude": 36.20793,
         "longitude": 10.1413
     }

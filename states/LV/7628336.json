@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352883",
+        "cityId": 11352883,
         "name": "Salas pagasts",
-        "stateId": "7628336",
+        "stateId": 7628336,
         "latitude": 56.44651,
         "longitude": 25.73798
     },
     {
-        "cityId": "11352884",
+        "cityId": 11352884,
         "name": "S\u0113lpils pagasts",
-        "stateId": "7628336",
+        "stateId": 7628336,
         "latitude": 56.53955,
         "longitude": 25.65595
     }

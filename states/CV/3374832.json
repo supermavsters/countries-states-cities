@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11429279",
+        "cityId": 11429279,
         "name": "S\u00e3o Jo\u00e3o Baptista",
-        "stateId": "3374832",
+        "stateId": 3374832,
         "latitude": 14.84525,
         "longitude": -24.67941
     },
     {
-        "cityId": "11468093",
+        "cityId": 11468093,
         "name": "Nossa Senhora do Monte",
-        "stateId": "3374832",
+        "stateId": 3374832,
         "latitude": 14.86168,
         "longitude": -24.72336
     }

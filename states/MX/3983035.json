@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "8582651",
+        "cityId": 8582651,
         "name": "Guasave",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.58081,
         "longitude": -108.5135
     },
     {
-        "cityId": "8583348",
+        "cityId": 8583348,
         "name": "Ahome",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.89893,
         "longitude": -109.08106
     },
     {
-        "cityId": "8583349",
+        "cityId": 8583349,
         "name": "Angostura",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.29136,
         "longitude": -108.12742
     },
     {
-        "cityId": "8583350",
+        "cityId": 8583350,
         "name": "Badiraguato",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.6392,
         "longitude": -107.39599
     },
     {
-        "cityId": "8583351",
+        "cityId": 8583351,
         "name": "Concordia",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 23.36259,
         "longitude": -106.00161
     },
     {
-        "cityId": "8583352",
+        "cityId": 8583352,
         "name": "Cosal\u00e1",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 24.47551,
         "longitude": -106.78037
     },
     {
-        "cityId": "8583353",
+        "cityId": 8583353,
         "name": "Culiac\u00e1n",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 24.70309,
         "longitude": -107.35265
     },
     {
-        "cityId": "8583354",
+        "cityId": 8583354,
         "name": "Choix",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 26.63568,
         "longitude": -108.22314
     },
     {
-        "cityId": "8583355",
+        "cityId": 8583355,
         "name": "Elota",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 24.03463,
         "longitude": -106.84491
     },
     {
-        "cityId": "8583356",
+        "cityId": 8583356,
         "name": "Escuinapa",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 22.7388,
         "longitude": -105.72987
     },
     {
-        "cityId": "8583357",
+        "cityId": 8583357,
         "name": "El Fuerte",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 26.19174,
         "longitude": -108.74931
     },
     {
-        "cityId": "8583358",
+        "cityId": 8583358,
         "name": "Mazatl\u00e1n",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 23.22,
         "longitude": -106.42
     },
     {
-        "cityId": "8583359",
+        "cityId": 8583359,
         "name": "Mocorito",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.32192,
         "longitude": -107.77442
     },
     {
-        "cityId": "8583360",
+        "cityId": 8583360,
         "name": "Rosario",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 23.01761,
         "longitude": -105.85768
     },
     {
-        "cityId": "8583361",
+        "cityId": 8583361,
         "name": "Salvador Alvarado",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.4306,
         "longitude": -108.0765
     },
     {
-        "cityId": "8583362",
+        "cityId": 8583362,
         "name": "San Ignacio",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 23.96168,
         "longitude": -106.41048
     },
     {
-        "cityId": "8583363",
+        "cityId": 8583363,
         "name": "Sinaloa",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 25.94103,
         "longitude": -108.09076
     },
     {
-        "cityId": "8583364",
+        "cityId": 8583364,
         "name": "Navolato",
-        "stateId": "3983035",
+        "stateId": 3983035,
         "latitude": 24.73457,
         "longitude": -107.68282
     }

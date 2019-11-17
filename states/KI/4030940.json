@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7521589",
+        "cityId": 7521589,
         "name": "Caroline",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": -9.95871,
         "longitude": -150.20748
     },
     {
-        "cityId": "7521591",
+        "cityId": 7521591,
         "name": "Flint",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": -11.43149,
         "longitude": -151.81852
     },
     {
-        "cityId": "7521593",
+        "cityId": 7521593,
         "name": "Kiritimati",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": 1.94,
         "longitude": -157.475
     },
     {
-        "cityId": "7521597",
+        "cityId": 7521597,
         "name": "Malden",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": -4.01873,
         "longitude": -154.92954
     },
     {
-        "cityId": "7521607",
+        "cityId": 7521607,
         "name": "Starbuck",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": -5.63632,
         "longitude": -155.89531
     },
     {
-        "cityId": "7521609",
+        "cityId": 7521609,
         "name": "Tabuaeran",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": 3.86667,
         "longitude": -159.33333
     },
     {
-        "cityId": "7521612",
+        "cityId": 7521612,
         "name": "Teraina",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": 4.68764,
         "longitude": -160.38803
     },
     {
-        "cityId": "7521613",
+        "cityId": 7521613,
         "name": "Vostok",
-        "stateId": "4030940",
+        "stateId": 4030940,
         "latitude": -10.06318,
         "longitude": -152.31068
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "8631613",
+        "cityId": 8631613,
         "name": "Demir\u00f6z\u00fc \u0130l\u00e7esi",
-        "stateId": "862471",
+        "stateId": 862471,
         "latitude": 40.1656,
         "longitude": 39.89343
     },
     {
-        "cityId": "8631614",
+        "cityId": 8631614,
         "name": "Ayd\u0131ntepe \u0130l\u00e7esi",
-        "stateId": "862471",
+        "stateId": 862471,
         "latitude": 40.39137,
         "longitude": 40.14729
     }

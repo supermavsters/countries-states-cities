@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "3132050",
+        "cityId": 3132050,
         "name": "Vestby",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.60228,
         "longitude": 10.74807
     },
     {
-        "cityId": "3133381",
+        "cityId": 3133381,
         "name": "Ullensaker",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.14401,
         "longitude": 11.17441
     },
     {
-        "cityId": "3137391",
+        "cityId": 3137391,
         "name": "S\u00f8rum",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.98709,
         "longitude": 11.24019
     },
     {
-        "cityId": "3139064",
+        "cityId": 3139064,
         "name": "Ski",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.72049,
         "longitude": 10.83882
     },
     {
-        "cityId": "3139111",
+        "cityId": 3139111,
         "name": "Skedsmo",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.95448,
         "longitude": 11.03952
     },
     {
-        "cityId": "3142561",
+        "cityId": 3142561,
         "name": "R\u00e6lingen",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.92626,
         "longitude": 11.06527
     },
     {
-        "cityId": "3143498",
+        "cityId": 3143498,
         "name": "Oppeg\u00e5rd",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.81149,
         "longitude": 10.79712
     },
     {
-        "cityId": "3144549",
+        "cityId": 3144549,
         "name": "Nittedal",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.04278,
         "longitude": 10.88167
     },
     {
-        "cityId": "3144656",
+        "cityId": 3144656,
         "name": "Nesodden",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.8422,
         "longitude": 10.6494
     },
     {
-        "cityId": "3145014",
+        "cityId": 3145014,
         "name": "Nannestad",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.21707,
         "longitude": 11.012
     },
     {
-        "cityId": "3146936",
+        "cityId": 3146936,
         "name": "L\u00f8renskog",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.93209,
         "longitude": 10.96079
     },
     {
-        "cityId": "3151414",
+        "cityId": 3151414,
         "name": "Hurdal",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.43518,
         "longitude": 11.06707
     },
     {
-        "cityId": "3155709",
+        "cityId": 3155709,
         "name": "Gjerdrum",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.07159,
         "longitude": 11.03597
     },
     {
-        "cityId": "3156466",
+        "cityId": 3156466,
         "name": "Frogn",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.66665,
         "longitude": 10.63566
     },
     {
-        "cityId": "3157694",
+        "cityId": 3157694,
         "name": "Fet",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.92216,
         "longitude": 11.16778
     },
     {
-        "cityId": "3158260",
+        "cityId": 3158260,
         "name": "Enebakk",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.76452,
         "longitude": 11.14492
     },
     {
-        "cityId": "3158606",
+        "cityId": 3158606,
         "name": "Eidsvoll",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.32893,
         "longitude": 11.26119
     },
     {
-        "cityId": "3162212",
+        "cityId": 3162212,
         "name": "B\u00e6rum",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.88996,
         "longitude": 10.52649
     },
     {
-        "cityId": "3162656",
+        "cityId": 3162656,
         "name": "Asker",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.83734,
         "longitude": 10.43595
     },
     {
-        "cityId": "3162672",
+        "cityId": 3162672,
         "name": "\u00c5s",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.66366,
         "longitude": 10.79101
     },
     {
-        "cityId": "6453364",
+        "cityId": 6453364,
         "name": "Nes",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 60.12252,
         "longitude": 11.4657
     },
     {
-        "cityId": "6453368",
+        "cityId": 6453368,
         "name": "Aurskog-H\u00f8land",
-        "stateId": "3163480",
+        "stateId": 3163480,
         "latitude": 59.88321,
         "longitude": 11.56491
     }

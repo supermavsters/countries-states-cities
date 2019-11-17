@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "784371",
+        "cityId": 784371,
         "name": "Komuna e Vitis\u00eb",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.33333,
         "longitude": 21.36667
     },
     {
-        "cityId": "789226",
+        "cityId": 789226,
         "name": "Kamenica",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.6,
         "longitude": 21.61667
     },
     {
-        "cityId": "790673",
+        "cityId": 790673,
         "name": "Komuna e Gjilanit",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.46667,
         "longitude": 21.45
     },
     {
-        "cityId": "8299771",
+        "cityId": 8299771,
         "name": "Komuna e Kllokotit",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.3446,
         "longitude": 21.39373
     },
     {
-        "cityId": "8299773",
+        "cityId": 8299773,
         "name": "Komuna e Parteshit",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.40848,
         "longitude": 21.47737
     },
     {
-        "cityId": "8299774",
+        "cityId": 8299774,
         "name": "Komuna e Ranillugut",
-        "stateId": "10097357",
+        "stateId": 10097357,
         "latitude": 42.50741,
         "longitude": 21.60231
     }

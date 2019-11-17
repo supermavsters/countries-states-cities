@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2973357",
+        "cityId": 2973357,
         "name": "D\u00e9partement du Tarn-et-Garonne",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 44,
         "longitude": 1.16667
     },
     {
-        "cityId": "2973362",
+        "cityId": 2973362,
         "name": "Tarn",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.7817,
         "longitude": 2.16317
     },
     {
-        "cityId": "2984885",
+        "cityId": 2984885,
         "name": "D\u00e9partement des Pyr\u00e9n\u00e9es-Orientales",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 42.60075,
         "longitude": 2.58889
     },
     {
-        "cityId": "2997288",
+        "cityId": 2997288,
         "name": "D\u00e9partement de la Loz\u00e8re",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 44.5,
         "longitude": 3.5
     },
     {
-        "cityId": "2997524",
+        "cityId": 2997524,
         "name": "Lot",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 44.62703,
         "longitude": 1.63461
     },
     {
-        "cityId": "3013500",
+        "cityId": 3013500,
         "name": "D\u00e9partement de l'H\u00e9rault",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.66667,
         "longitude": 3.5
     },
     {
-        "cityId": "3013726",
+        "cityId": 3013726,
         "name": "D\u00e9partement des Hautes-Pyr\u00e9n\u00e9es",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.03686,
         "longitude": 0.18632
     },
     {
-        "cityId": "3013767",
+        "cityId": 3013767,
         "name": "Haute-Garonne",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.38724,
         "longitude": 1.22191
     },
     {
-        "cityId": "3016194",
+        "cityId": 3016194,
         "name": "Gers",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.71731,
         "longitude": 0.45422
     },
     {
-        "cityId": "3016670",
+        "cityId": 3016670,
         "name": "Gard",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 44.0179,
         "longitude": 4.28751
     },
     {
-        "cityId": "3035691",
+        "cityId": 3035691,
         "name": "D\u00e9partement de l'Aveyron",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 44.25,
         "longitude": 2.5
     },
     {
-        "cityId": "3036264",
+        "cityId": 3036264,
         "name": "D\u00e9partement de l'Aude",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43.08333,
         "longitude": 2.5
     },
     {
-        "cityId": "3036965",
+        "cityId": 3036965,
         "name": "D\u00e9partement de l'Ari\u00e8ge",
-        "stateId": "11071623",
+        "stateId": 11071623,
         "latitude": 43,
         "longitude": 1.5
     }

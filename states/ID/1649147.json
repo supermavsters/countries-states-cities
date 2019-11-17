@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1629764",
+        "cityId": 1629764,
         "name": "Kabupaten Rejang Lebong",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.43333,
         "longitude": 102.71667
     },
     {
-        "cityId": "1649145",
+        "cityId": 1649145,
         "name": "Kabupaten Bengkulu Utara",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.33333,
         "longitude": 102.05
     },
     {
-        "cityId": "1649146",
+        "cityId": 1649146,
         "name": "Kabupaten Bengkulu Selatan",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -4.35,
         "longitude": 103.03333
     },
     {
-        "cityId": "1649148",
+        "cityId": 1649148,
         "name": "Kota Bengkulu",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.81667,
         "longitude": 102.31667
     },
     {
-        "cityId": "9821946",
+        "cityId": 9821946,
         "name": "Kabupaten Bengkulu Tengah",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.20679,
         "longitude": 102.12616
     },
     {
-        "cityId": "9828030",
+        "cityId": 9828030,
         "name": "Kabupaten Kaur",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -4.78179,
         "longitude": 103.36109
     },
     {
-        "cityId": "9828032",
+        "cityId": 9828032,
         "name": "Kabupaten Kepahiang",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.60194,
         "longitude": 102.56424
     },
     {
-        "cityId": "9828041",
+        "cityId": 9828041,
         "name": "Kabupaten Lebong",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.24278,
         "longitude": 102.3349
     },
     {
-        "cityId": "9828963",
+        "cityId": 9828963,
         "name": "Kabupaten Mukomuko",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.07438,
         "longitude": 101.54766
     },
     {
-        "cityId": "9845356",
+        "cityId": 9845356,
         "name": "Kabupaten Seluma",
-        "stateId": "1649147",
+        "stateId": 1649147,
         "latitude": -3.96644,
         "longitude": 102.47429
     }

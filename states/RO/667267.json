@@ -1,449 +1,449 @@
 [
     {
-        "cityId": "662378",
+        "cityId": 662378,
         "name": "Comuna Vurp\u0103r",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.89672,
         "longitude": 24.34315
     },
     {
-        "cityId": "663310",
+        "cityId": 663310,
         "name": "Comuna Valea Viilor",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.07141,
         "longitude": 24.31223
     },
     {
-        "cityId": "665100",
+        "cityId": 665100,
         "name": "Comuna Tili\u015fca",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.80131,
         "longitude": 23.81411
     },
     {
-        "cityId": "665605",
+        "cityId": 665605,
         "name": "Ora\u015f T\u00e3lmaciu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.66751,
         "longitude": 24.25357
     },
     {
-        "cityId": "665749",
+        "cityId": 665749,
         "name": "Comuna \u015eura Mic\u0103",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.82485,
         "longitude": 24.0421
     },
     {
-        "cityId": "665751",
+        "cityId": 665751,
         "name": "Comuna \u015eura Mare",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.85917,
         "longitude": 24.18477
     },
     {
-        "cityId": "666726",
+        "cityId": 666726,
         "name": "Comuna Slimnic",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.94465,
         "longitude": 24.19777
     },
     {
-        "cityId": "667419",
+        "cityId": 667419,
         "name": "Comuna \u015eelimb\u0103r",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.75141,
         "longitude": 24.21985
     },
     {
-        "cityId": "667442",
+        "cityId": 667442,
         "name": "Comuna \u015eeica Mic\u0103",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.04202,
         "longitude": 24.09567
     },
     {
-        "cityId": "667444",
+        "cityId": 667444,
         "name": "Comuna \u015eeica Mare",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.99998,
         "longitude": 24.23909
     },
     {
-        "cityId": "668275",
+        "cityId": 668275,
         "name": "Comuna Sadu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.67199,
         "longitude": 24.18393
     },
     {
-        "cityId": "668651",
+        "cityId": 668651,
         "name": "Comuna Ro\u015fia",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.80385,
         "longitude": 24.31786
     },
     {
-        "cityId": "668808",
+        "cityId": 668808,
         "name": "Comuna R\u00e2u Sadului",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.62401,
         "longitude": 24.06132
     },
     {
-        "cityId": "669155",
+        "cityId": 669155,
         "name": "Comuna R\u0103\u015finari",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.69761,
         "longitude": 24.07378
     },
     {
-        "cityId": "669315",
+        "cityId": 669315,
         "name": "Comuna Racovi\u0163a",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.66604,
         "longitude": 24.35142
     },
     {
-        "cityId": "669817",
+        "cityId": 669817,
         "name": "Comuna Porumbacu de Jos",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.75078,
         "longitude": 24.49551
     },
     {
-        "cityId": "669854",
+        "cityId": 669854,
         "name": "Comuna Poplaca",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.72815,
         "longitude": 24.0538
     },
     {
-        "cityId": "670032",
+        "cityId": 670032,
         "name": "Comuna Poiana Sibiului",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.8092,
         "longitude": 23.73095
     },
     {
-        "cityId": "671242",
+        "cityId": 671242,
         "name": "Comuna P\u0103uca",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.00209,
         "longitude": 23.91696
     },
     {
-        "cityId": "671710",
+        "cityId": 671710,
         "name": "Comuna Orlat",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.7555,
         "longitude": 23.96855
     },
     {
-        "cityId": "672022",
+        "cityId": 672022,
         "name": "Ora\u015f Ocna Sibiului",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.88311,
         "longitude": 24.00095
     },
     {
-        "cityId": "672175",
+        "cityId": 672175,
         "name": "Comuna Nocrich",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.87075,
         "longitude": 24.43314
     },
     {
-        "cityId": "672822",
+        "cityId": 672822,
         "name": "Comuna Mo\u015fna",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.07534,
         "longitude": 24.42509
     },
     {
-        "cityId": "673390",
+        "cityId": 673390,
         "name": "Comuna Mih\u0103ileni",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.99998,
         "longitude": 24.36621
     },
     {
-        "cityId": "673484",
+        "cityId": 673484,
         "name": "Comuna Mic\u0103sasa",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.10607,
         "longitude": 24.13264
     },
     {
-        "cityId": "673565",
+        "cityId": 673565,
         "name": "Comuna Merghindeal",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.97533,
         "longitude": 24.71324
     },
     {
-        "cityId": "673749",
+        "cityId": 673749,
         "name": "Comuna Marpod",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.87101,
         "longitude": 24.51544
     },
     {
-        "cityId": "674543",
+        "cityId": 674543,
         "name": "Comuna Ludo\u015f",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.93336,
         "longitude": 23.9007
     },
     {
-        "cityId": "674635",
+        "cityId": 674635,
         "name": "Comuna Loamne\u015f",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.95467,
         "longitude": 24.04197
     },
     {
-        "cityId": "675002",
+        "cityId": 675002,
         "name": "Comuna Laslea",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.14966,
         "longitude": 24.63839
     },
     {
-        "cityId": "675217",
+        "cityId": 675217,
         "name": "Comuna Jina",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.78593,
         "longitude": 23.67793
     },
     {
-        "cityId": "675862",
+        "cityId": 675862,
         "name": "Comuna Iacobeni",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.0444,
         "longitude": 24.75456
     },
     {
-        "cityId": "676088",
+        "cityId": 676088,
         "name": "Comuna Hoghilag",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.21941,
         "longitude": 24.61559
     },
     {
-        "cityId": "676494",
+        "cityId": 676494,
         "name": "Comuna Gura R\u00e2ului",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.73012,
         "longitude": 23.98417
     },
     {
-        "cityId": "679323",
+        "cityId": 679323,
         "name": "Comuna D\u00e2rlos",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.20795,
         "longitude": 24.39737
     },
     {
-        "cityId": "680164",
+        "cityId": 680164,
         "name": "Comuna Cristian",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.78444,
         "longitude": 24.02995
     },
     {
-        "cityId": "680900",
+        "cityId": 680900,
         "name": "Ora\u015f Cop\u015fa Mic\u00e3",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.11651,
         "longitude": 24.25517
     },
     {
-        "cityId": "681516",
+        "cityId": 681516,
         "name": "Comuna C\u00e2r\u0163i\u015foara",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.72704,
         "longitude": 24.57985
     },
     {
-        "cityId": "681522",
+        "cityId": 681522,
         "name": "Comuna C\u00e2r\u0163a",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.80033,
         "longitude": 24.56371
     },
     {
-        "cityId": "682027",
+        "cityId": 682027,
         "name": "Comuna Chirp\u0103r",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.90545,
         "longitude": 24.61093
     },
     {
-        "cityId": "683620",
+        "cityId": 683620,
         "name": "Comuna Bruiu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.8635,
         "longitude": 24.70341
     },
     {
-        "cityId": "683831",
+        "cityId": 683831,
         "name": "Comuna Brateiu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.15361,
         "longitude": 24.42007
     },
     {
-        "cityId": "683962",
+        "cityId": 683962,
         "name": "Comuna Br\u0103deni",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.06701,
         "longitude": 24.86289
     },
     {
-        "cityId": "684607",
+        "cityId": 684607,
         "name": "Comuna Bl\u0103jel",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.22436,
         "longitude": 24.34108
     },
     {
-        "cityId": "684810",
+        "cityId": 684810,
         "name": "Comuna B\u00e2rghi\u015f",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.01126,
         "longitude": 24.50431
     },
     {
-        "cityId": "684886",
+        "cityId": 684886,
         "name": "Comuna Biertan",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.12456,
         "longitude": 24.51945
     },
     {
-        "cityId": "685232",
+        "cityId": 685232,
         "name": "Comuna Bazna",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.21384,
         "longitude": 24.26438
     },
     {
-        "cityId": "686007",
+        "cityId": 686007,
         "name": "Comuna Axente Sever",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.07315,
         "longitude": 24.22535
     },
     {
-        "cityId": "686010",
+        "cityId": 686010,
         "name": "Ora\u015f Avrig",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.73797,
         "longitude": 24.38713
     },
     {
-        "cityId": "686064",
+        "cityId": 686064,
         "name": "Comuna A\u0163el",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.15465,
         "longitude": 24.48297
     },
     {
-        "cityId": "686125",
+        "cityId": 686125,
         "name": "Comuna Arpa\u015fu de Jos",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.77314,
         "longitude": 24.6087
     },
     {
-        "cityId": "686269",
+        "cityId": 686269,
         "name": "Comuna Apoldu de Jos",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.89598,
         "longitude": 23.85036
     },
     {
-        "cityId": "686430",
+        "cityId": 686430,
         "name": "Comuna Al\u021b\u00e2na",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.95534,
         "longitude": 24.46144
     },
     {
-        "cityId": "686467",
+        "cityId": 686467,
         "name": "Comuna Alma",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.22726,
         "longitude": 24.46825
     },
     {
-        "cityId": "8334650",
+        "cityId": 8334650,
         "name": "Municipiul Sibiu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.79383,
         "longitude": 24.13533
     },
     {
-        "cityId": "8334657",
+        "cityId": 8334657,
         "name": "Ora\u015f Miercurea Sibiului",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.86247,
         "longitude": 23.79766
     },
     {
-        "cityId": "8334663",
+        "cityId": 8334663,
         "name": "Municipiul Media\u015f",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.13663,
         "longitude": 24.35377
     },
     {
-        "cityId": "8334775",
+        "cityId": 8334775,
         "name": "Comuna T\u00e2rnava",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.13752,
         "longitude": 24.29756
     },
     {
-        "cityId": "8334777",
+        "cityId": 8334777,
         "name": "Ora\u015f S\u00e3li\u015fte",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.78967,
         "longitude": 23.89532
     },
     {
-        "cityId": "8334778",
+        "cityId": 8334778,
         "name": "Comuna Boi\u0163a",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.57905,
         "longitude": 24.24651
     },
     {
-        "cityId": "8334825",
+        "cityId": 8334825,
         "name": "Comuna Turnu Ro\u015fu",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.64667,
         "longitude": 24.31762
     },
     {
-        "cityId": "8334858",
+        "cityId": 8334858,
         "name": "Ora\u015f Dumbr\u00e3veni",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 46.22258,
         "longitude": 24.55274
     },
     {
-        "cityId": "8334908",
+        "cityId": 8334908,
         "name": "Ora\u015f Cisn\u00e3die",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.70924,
         "longitude": 24.13284
     },
     {
-        "cityId": "8334970",
+        "cityId": 8334970,
         "name": "Ora\u015f Agnita",
-        "stateId": "667267",
+        "stateId": 667267,
         "latitude": 45.98952,
         "longitude": 24.61458
     }

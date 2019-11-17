@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "10972359",
+        "cityId": 10972359,
         "name": "Al Jum\u016bm",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.78333,
         "longitude": 39.91667
     },
     {
-        "cityId": "10972360",
+        "cityId": 10972360,
         "name": "Al K\u0101mil",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 22.4,
         "longitude": 39.9
     },
     {
-        "cityId": "10972361",
+        "cityId": 10972361,
         "name": "Al Khurmah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.91667,
         "longitude": 42.53333
     },
     {
-        "cityId": "10972362",
+        "cityId": 10972362,
         "name": "Al L\u012bth",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 20.46667,
         "longitude": 40.36667
     },
     {
-        "cityId": "10972363",
+        "cityId": 10972363,
         "name": "Al Qunfidhah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 19.25,
         "longitude": 41.38333
     },
     {
-        "cityId": "10972364",
+        "cityId": 10972364,
         "name": "A\u0163 \u0162\u0101\u2019if",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 22.25,
         "longitude": 41.25
     },
     {
-        "cityId": "10972365",
+        "cityId": 10972365,
         "name": "Jiddah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.63333,
         "longitude": 39.2
     },
     {
-        "cityId": "10972366",
+        "cityId": 10972366,
         "name": "Khulay\u015f",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 22.3,
         "longitude": 39.43333
     },
     {
-        "cityId": "10972367",
+        "cityId": 10972367,
         "name": "Makkah al Mukarramah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.25,
         "longitude": 39.8
     },
     {
-        "cityId": "10972368",
+        "cityId": 10972368,
         "name": "R\u0101bigh",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 22.8,
         "longitude": 39.23333
     },
     {
-        "cityId": "10972369",
+        "cityId": 10972369,
         "name": "Ranyah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.08333,
         "longitude": 42.75
     },
     {
-        "cityId": "10972370",
+        "cityId": 10972370,
         "name": "Turubah",
-        "stateId": "104514",
+        "stateId": 104514,
         "latitude": 21.2,
         "longitude": 41.56667
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2187238",
+        "cityId": 2187238,
         "name": "Masterton District",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -40.95,
         "longitude": 175.66667
     },
     {
-        "cityId": "2192570",
+        "cityId": 2192570,
         "name": "Carterton District",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.01667,
         "longitude": 175.51667
     },
     {
-        "cityId": "7910048",
+        "cityId": 7910048,
         "name": "Kapiti Coast District",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -40.85682,
         "longitude": 175.1469
     },
     {
-        "cityId": "7910049",
+        "cityId": 7910049,
         "name": "Lower Hutt City",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.28479,
         "longitude": 174.96747
     },
     {
-        "cityId": "7910057",
+        "cityId": 7910057,
         "name": "Porirua City",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.08403,
         "longitude": 174.88316
     },
     {
-        "cityId": "7910064",
+        "cityId": 7910064,
         "name": "South Wairarapa District",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.26731,
         "longitude": 175.38442
     },
     {
-        "cityId": "7910067",
+        "cityId": 7910067,
         "name": "Upper Hutt City",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.08777,
         "longitude": 175.13286
     },
     {
-        "cityId": "7910072",
+        "cityId": 7910072,
         "name": "Wellington City",
-        "stateId": "2179538",
+        "stateId": 2179538,
         "latitude": -41.253,
         "longitude": 174.75424
     }

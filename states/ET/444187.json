@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7667868",
+        "cityId": 7667868,
         "name": "Southern Tigray Zone",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 12.96033,
         "longitude": 39.52831
     },
     {
-        "cityId": "7869875",
+        "cityId": 7869875,
         "name": "Central Tigray Zone",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 13.78507,
         "longitude": 38.82055
     },
     {
-        "cityId": "7869879",
+        "cityId": 7869879,
         "name": "Eastern Tigray Zone",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 14.1154,
         "longitude": 39.58699
     },
     {
-        "cityId": "7869945",
+        "cityId": 7869945,
         "name": "North Western Tigray",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 14.02038,
         "longitude": 38.1639
     },
     {
-        "cityId": "8643579",
+        "cityId": 8643579,
         "name": "Mekelle",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 13.49781,
         "longitude": 39.54391
     },
     {
-        "cityId": "8643826",
+        "cityId": 8643826,
         "name": "Mi'irabawi Zone",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 13.75,
         "longitude": 37
     },
     {
-        "cityId": "11153778",
+        "cityId": 11153778,
         "name": "Southeastern Tigray Zone",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 13.24797,
         "longitude": 39.53156
     },
     {
-        "cityId": "11750806",
+        "cityId": 11750806,
         "name": "Western",
-        "stateId": "444187",
+        "stateId": 444187,
         "latitude": 13.85681,
         "longitude": 37.10707
     }

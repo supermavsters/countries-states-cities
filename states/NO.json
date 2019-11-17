@@ -1,134 +1,134 @@
 [
     {
-        "stateId": "3163480",
+        "stateId": 3163480,
         "name": "Akershus fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 60,
         "longitude": 11.16667
     },
     {
-        "stateId": "3162354",
+        "stateId": 3162354,
         "name": "Aust-Agder fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 58.4643,
         "longitude": 8.768
     },
     {
-        "stateId": "3159665",
+        "stateId": 3159665,
         "name": "Buskerud fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.7484,
         "longitude": 10.1891
     },
     {
-        "stateId": "780166",
+        "stateId": 780166,
         "name": "Finnmark Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 70.0815,
         "longitude": 29.7358
     },
     {
-        "stateId": "3153403",
+        "stateId": 3153403,
         "name": "Hedmark fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 60.7953,
         "longitude": 11.0827
     },
     {
-        "stateId": "3151864",
+        "stateId": 3151864,
         "name": "Hordaland Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 60.3867,
         "longitude": 5.3325
     },
     {
-        "stateId": "3145495",
+        "stateId": 3145495,
         "name": "M\u00f8re og Romsdal fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 62.7345,
         "longitude": 7.1506
     },
     {
-        "stateId": "3144148",
+        "stateId": 3144148,
         "name": "Nord-Tr\u00f8ndelag Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 64.28042,
         "longitude": 12.26667
     },
     {
-        "stateId": "3144301",
+        "stateId": 3144301,
         "name": "Nordland Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 66.914,
         "longitude": 14.76254
     },
     {
-        "stateId": "3143487",
+        "stateId": 3143487,
         "name": "Oppland fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 61.1163,
         "longitude": 10.4622
     },
     {
-        "stateId": "3143242",
+        "stateId": 3143242,
         "name": "Oslo County",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.9119,
         "longitude": 10.7336
     },
     {
-        "stateId": "3141558",
+        "stateId": 3141558,
         "name": "Rogaland Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.09608,
         "longitude": 6.20442
     },
     {
-        "stateId": "3137966",
+        "stateId": 3137966,
         "name": "Sogn og Fjordane Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 61.1826,
         "longitude": 6.8526
     },
     {
-        "stateId": "3137400",
+        "stateId": 3137400,
         "name": "S\u00f8r-Tr\u00f8ndelag Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 63.4292,
         "longitude": 10.3945
     },
     {
-        "stateId": "3134723",
+        "stateId": 3134723,
         "name": "Telemark fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.2161,
         "longitude": 9.6112
     },
     {
-        "stateId": "3133897",
+        "stateId": 3133897,
         "name": "Troms Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 69.26591,
         "longitude": 19.51504
     },
     {
-        "stateId": "3132064",
+        "stateId": 3132064,
         "name": "Vest-Agder Fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 58.1513,
         "longitude": 7.9947
     },
     {
-        "stateId": "3132015",
+        "stateId": 3132015,
         "name": "Vestfold fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.2654,
         "longitude": 10.4159
     },
     {
-        "stateId": "3143188",
+        "stateId": 3143188,
         "name": "\u00d8stfold fylke",
-        "countryId": "3144096",
+        "countryId": 3144096,
         "latitude": 59.2752,
         "longitude": 11.1058
     }

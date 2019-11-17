@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3583157",
+        "cityId": 3583157,
         "name": "Distrito de Sensuntepeque",
-        "stateId": "3587217",
+        "stateId": 3587217,
         "latitude": 13.88333,
         "longitude": -88.58333
     },
     {
-        "cityId": "3585486",
+        "cityId": 3585486,
         "name": "Distrito de Ilobasco",
-        "stateId": "3587217",
+        "stateId": 3587217,
         "latitude": 13.88333,
         "longitude": -88.83333
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268234",
+        "cityId": 7268234,
         "name": "Barrancas Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.21862,
         "longitude": -66.3159
     },
     {
-        "cityId": "7268235",
+        "cityId": 7268235,
         "name": "Barranquitas Barrio-Pueblo",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.18476,
         "longitude": -66.31017
     },
     {
-        "cityId": "7268312",
+        "cityId": 7268312,
         "name": "Ca\u00f1ab\u00f3n Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.22192,
         "longitude": -66.33694
     },
     {
-        "cityId": "7268470",
+        "cityId": 7268470,
         "name": "Helechal Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.17202,
         "longitude": -66.32091
     },
     {
-        "cityId": "7268479",
+        "cityId": 7268479,
         "name": "Honduras Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.17936,
         "longitude": -66.26899
     },
     {
-        "cityId": "7268726",
+        "cityId": 7268726,
         "name": "Palo Hincado Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.19086,
         "longitude": -66.34972
     },
     {
-        "cityId": "7268853",
+        "cityId": 7268853,
         "name": "Quebrada Grande Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.19888,
         "longitude": -66.28046
     },
     {
-        "cityId": "7268867",
+        "cityId": 7268867,
         "name": "Quebradillas Barrio",
-        "stateId": "4562779",
+        "stateId": 4562779,
         "latitude": 18.22518,
         "longitude": -66.28911
     }

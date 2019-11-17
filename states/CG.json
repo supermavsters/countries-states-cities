@@ -1,78 +1,78 @@
 [
     {
-        "stateId": "2572183",
+        "stateId": 2572183,
         "name": "Commune de Brazzaville",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -4.2657,
         "longitude": 15.28048
     },
     {
-        "stateId": "2260487",
+        "stateId": 2260487,
         "name": "Cuvette",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -0.5,
         "longitude": 16
     },
     {
-        "stateId": "2258431",
+        "stateId": 2258431,
         "name": "Likouala",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": 2,
         "longitude": 17.5
     },
     {
-        "stateId": "2258534",
+        "stateId": 2258534,
         "name": "L\u00e9koumou",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -3.1,
         "longitude": 13.53333
     },
     {
-        "stateId": "2255422",
+        "stateId": 2255422,
         "name": "Plateaux",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -2,
         "longitude": 15.5
     },
     {
-        "stateId": "7280295",
+        "stateId": 7280295,
         "name": "Pointe-Noire",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -4.79029,
         "longitude": 11.87622
     },
     {
-        "stateId": "2255404",
+        "stateId": 2255404,
         "name": "Pool",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -3.53333,
         "longitude": 14.83333
     },
     {
-        "stateId": "2260668",
+        "stateId": 2260668,
         "name": "R\u00e9gion de la Bouenza",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -4.1629,
         "longitude": 13.71094
     },
     {
-        "stateId": "2258738",
+        "stateId": 2258738,
         "name": "R\u00e9gion du Kouilou",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -4.19577,
         "longitude": 11.99982
     },
     {
-        "stateId": "2256175",
+        "stateId": 2256175,
         "name": "R\u00e9gion du Niari",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": -3.01436,
         "longitude": 12.34863
     },
     {
-        "stateId": "2255329",
+        "stateId": 2255329,
         "name": "Sangha",
-        "countryId": "2260494",
+        "countryId": 2260494,
         "latitude": 1.33333,
         "longitude": 15.5
     }

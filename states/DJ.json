@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "225282",
+        "stateId": 225282,
         "name": "Ali Sabieh Region",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 11.2,
         "longitude": 42.94
     },
     {
-        "stateId": "449265",
+        "stateId": 449265,
         "name": "Arta Region",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 11.5,
         "longitude": 42.75
     },
     {
-        "stateId": "223889",
+        "stateId": 223889,
         "name": "Dikhil",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 11.5,
         "longitude": 42.16667
     },
     {
-        "stateId": "223818",
+        "stateId": 223818,
         "name": "Djibouti Region",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 11.56,
         "longitude": 43.06
     },
     {
-        "stateId": "221525",
+        "stateId": 221525,
         "name": "Obock",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 12.25007,
         "longitude": 43.08369
     },
     {
-        "stateId": "220781",
+        "stateId": 220781,
         "name": "Tadjourah",
-        "countryId": "223816",
+        "countryId": 223816,
         "latitude": 12,
         "longitude": 42.5
     }

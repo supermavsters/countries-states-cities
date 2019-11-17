@@ -1,253 +1,253 @@
 [
     {
-        "cityId": "2821160",
+        "cityId": 2821160,
         "name": "Landkreis Trier-Saarburg",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.70722,
         "longitude": 6.71972
     },
     {
-        "cityId": "2825001",
+        "cityId": 2825001,
         "name": "Landkreis S\u00fcdliche Weinstra\u00dfe",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.21746,
         "longitude": 8.04752
     },
     {
-        "cityId": "2894002",
+        "cityId": 2894002,
         "name": "Landkreis Kaiserslautern",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.4565,
         "longitude": 7.67253
     },
     {
-        "cityId": "2925546",
+        "cityId": 2925546,
         "name": "Kreisfreie Stadt Frankenthal (Pfalz)",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.54361,
         "longitude": 8.36389
     },
     {
-        "cityId": "2936213",
+        "cityId": 2936213,
         "name": "Donnersbergkreis",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.63444,
         "longitude": 7.91639
     },
     {
-        "cityId": "2948589",
+        "cityId": 2948589,
         "name": "Landkreis Birkenfeld",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.71944,
         "longitude": 7.28139
     },
     {
-        "cityId": "2953415",
+        "cityId": 2953415,
         "name": "Landkreis Bad Kreuznach",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.82389,
         "longitude": 7.69833
     },
     {
-        "cityId": "2953523",
+        "cityId": 2953523,
         "name": "Landkreis Bad D\u00fcrkheim",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.49917,
         "longitude": 8.1525
     },
     {
-        "cityId": "2956708",
+        "cityId": 2956708,
         "name": "Landkreis Alzey-Worms",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.74944,
         "longitude": 8.15
     },
     {
-        "cityId": "3247456",
+        "cityId": 3247456,
         "name": "Landkreis Altenkirchen",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.77917,
         "longitude": 7.75
     },
     {
-        "cityId": "3247457",
+        "cityId": 3247457,
         "name": "Westerwaldkreis",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.52222,
         "longitude": 7.87028
     },
     {
-        "cityId": "3247458",
+        "cityId": 3247458,
         "name": "Landkreis Neuwied",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.53944,
         "longitude": 7.47806
     },
     {
-        "cityId": "3247459",
+        "cityId": 3247459,
         "name": "Kreisfreie Stadt Koblenz",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.35806,
         "longitude": 7.59472
     },
     {
-        "cityId": "3247460",
+        "cityId": 3247460,
         "name": "Landkreis Ahrweiler",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.47722,
         "longitude": 7.04917
     },
     {
-        "cityId": "3247461",
+        "cityId": 3247461,
         "name": "Landkreis Mayen-Koblenz",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.33333,
         "longitude": 7.31722
     },
     {
-        "cityId": "3247462",
+        "cityId": 3247462,
         "name": "Rhein-Lahn-Kreis",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.26889,
         "longitude": 7.86583
     },
     {
-        "cityId": "3247463",
+        "cityId": 3247463,
         "name": "Rhein-Hunsr\u00fcck-Kreis",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.06778,
         "longitude": 7.54667
     },
     {
-        "cityId": "3247464",
+        "cityId": 3247464,
         "name": "Landkreis Cochem-Zell",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.14611,
         "longitude": 7.17917
     },
     {
-        "cityId": "3247465",
+        "cityId": 3247465,
         "name": "Kreisfreie Stadt Mainz",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.99167,
         "longitude": 8.25361
     },
     {
-        "cityId": "3247466",
+        "cityId": 3247466,
         "name": "Landkreis Mainz-Bingen",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.9375,
         "longitude": 8.11361
     },
     {
-        "cityId": "3247467",
+        "cityId": 3247467,
         "name": "Kreisfreie Stadt Worms",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.66306,
         "longitude": 8.33583
     },
     {
-        "cityId": "3247900",
+        "cityId": 3247900,
         "name": "Kreisfreie Stadt Kaiserslautern",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.44,
         "longitude": 7.76028
     },
     {
-        "cityId": "3247901",
+        "cityId": 3247901,
         "name": "Landkreis Kusel",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.57111,
         "longitude": 7.49917
     },
     {
-        "cityId": "3247902",
+        "cityId": 3247902,
         "name": "Kreisfreie Stadt Zweibr\u00fccken",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.25806,
         "longitude": 7.37944
     },
     {
-        "cityId": "3247903",
+        "cityId": 3247903,
         "name": "Kreisfreie Stadt Pirmasens",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.20972,
         "longitude": 7.60472
     },
     {
-        "cityId": "3247904",
+        "cityId": 3247904,
         "name": "S\u00fcdwestpfalz",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.22722,
         "longitude": 7.67944
     },
     {
-        "cityId": "3247905",
+        "cityId": 3247905,
         "name": "Kreisfreie Stadt Landau in der Pfalz",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.20222,
         "longitude": 8.1275
     },
     {
-        "cityId": "3247906",
+        "cityId": 3247906,
         "name": "Kreisfreie Stadt Neustadt an der Weinstra\u00dfe",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.34882,
         "longitude": 8.16517
     },
     {
-        "cityId": "3247907",
+        "cityId": 3247907,
         "name": "Landkreis Germersheim",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.14333,
         "longitude": 8.29889
     },
     {
-        "cityId": "3247908",
+        "cityId": 3247908,
         "name": "Kreisfreie Stadt Speyer",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.32361,
         "longitude": 8.42861
     },
     {
-        "cityId": "3247909",
+        "cityId": 3247909,
         "name": "Rhein-Pfalz-Kreis",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.4275,
         "longitude": 8.34361
     },
     {
-        "cityId": "3247910",
+        "cityId": 3247910,
         "name": "Kreisfreie Stadt Ludwigshafen am Rhein",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.47806,
         "longitude": 8.39083
     },
     {
-        "cityId": "3247911",
+        "cityId": 3247911,
         "name": "Kreisfreie Stadt Trier",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.76917,
         "longitude": 6.675
     },
     {
-        "cityId": "3247912",
+        "cityId": 3247912,
         "name": "Landkreis Bernkastel-Wittlich",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 49.94306,
         "longitude": 6.98083
     },
     {
-        "cityId": "3247913",
+        "cityId": 3247913,
         "name": "Eifelkreis Bitburg-Pr\u00fcm",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.07583,
         "longitude": 6.38
     },
     {
-        "cityId": "3247914",
+        "cityId": 3247914,
         "name": "Vulkaneifel",
-        "stateId": "2847618",
+        "stateId": 2847618,
         "latitude": 50.2525,
         "longitude": 6.74806
     }

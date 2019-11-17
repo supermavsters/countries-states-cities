@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "267006",
+        "cityId": 267006,
         "name": "Caza de Tyr",
-        "stateId": "279894",
+        "stateId": 279894,
         "latitude": 33.21358,
         "longitude": 35.26965
     },
     {
-        "cityId": "273359",
+        "cityId": 273359,
         "name": "Caza de Jezz\u00eene",
-        "stateId": "279894",
+        "stateId": 279894,
         "latitude": 33.50286,
         "longitude": 35.56009
     },
     {
-        "cityId": "7735345",
+        "cityId": 7735345,
         "name": "Caza de Saida",
-        "stateId": "279894",
+        "stateId": 279894,
         "latitude": 33.44716,
         "longitude": 35.32797
     }

@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "2273186",
+        "cityId": 2273186,
         "name": "Webbo District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.214,
         "longitude": -7.624
     },
     {
-        "cityId": "2273443",
+        "cityId": 2273443,
         "name": "Tuobo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.03885,
         "longitude": -7.67633
     },
     {
-        "cityId": "2273599",
+        "cityId": 2273599,
         "name": "Tienpo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.16667,
         "longitude": -8.16667
     },
     {
-        "cityId": "2274235",
+        "cityId": 2274235,
         "name": "Sarbo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.18565,
         "longitude": -7.64212
     },
     {
-        "cityId": "2274502",
+        "cityId": 2274502,
         "name": "Palipo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.28639,
         "longitude": -7.6375
     },
     {
-        "cityId": "2275896",
+        "cityId": 2275896,
         "name": "Kitabo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.25,
         "longitude": -7.63333
     },
     {
-        "cityId": "2276934",
+        "cityId": 2276934,
         "name": "Glaro",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.3947,
         "longitude": -7.56658
     },
     {
-        "cityId": "2277041",
+        "cityId": 2277041,
         "name": "Gbeapo District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.363,
         "longitude": -8.039
     },
     {
-        "cityId": "2278019",
+        "cityId": 2278019,
         "name": "Chedepo",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.47832,
         "longitude": -8.01365
     },
     {
-        "cityId": "9645171",
+        "cityId": 9645171,
         "name": "Karforh District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.28875,
         "longitude": -8.14335
     },
     {
-        "cityId": "9645172",
+        "cityId": 9645172,
         "name": "Nanee District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.17472,
         "longitude": -8.14383
     },
     {
-        "cityId": "9645173",
+        "cityId": 9645173,
         "name": "Nyenawliken District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.14622,
         "longitude": -7.98087
     },
     {
-        "cityId": "9645174",
+        "cityId": 9645174,
         "name": "Potupo District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 5.35051,
         "longitude": -7.81078
     },
     {
-        "cityId": "9645175",
+        "cityId": 9645175,
         "name": "Nyenebo District",
-        "stateId": "2593120",
+        "stateId": 2593120,
         "latitude": 4.92577,
         "longitude": -7.71006
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2465836",
+        "cityId": 2465836,
         "name": "Sidi Bouzid Ouest",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 35.00578,
         "longitude": 9.41072
     },
     {
-        "cityId": "11106662",
+        "cityId": 11106662,
         "name": "Menzel Bouzaiene",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 34.64188,
         "longitude": 9.41103
     },
     {
-        "cityId": "11106663",
+        "cityId": 11106663,
         "name": "Sidi Ali Ben Aoun",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 34.80528,
         "longitude": 9.13416
     },
     {
-        "cityId": "11106664",
+        "cityId": 11106664,
         "name": "Bir El Hafey",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 34.90536,
         "longitude": 9.28475
     },
     {
-        "cityId": "11106665",
+        "cityId": 11106665,
         "name": "Souk Jedid",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 34.8614,
         "longitude": 9.56721
     },
     {
-        "cityId": "11106666",
+        "cityId": 11106666,
         "name": "Ouled Haffouz",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 35.10271,
         "longitude": 9.85623
     },
     {
-        "cityId": "11106667",
+        "cityId": 11106667,
         "name": "Sidi Bouzid Est",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 35.09242,
         "longitude": 9.59901
     },
     {
-        "cityId": "11106668",
+        "cityId": 11106668,
         "name": "Jelma",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 35.33187,
         "longitude": 9.39605
     },
     {
-        "cityId": "11106669",
+        "cityId": 11106669,
         "name": "Cebalet Ouled Asker",
-        "stateId": "2465837",
+        "stateId": 2465837,
         "latitude": 35.23179,
         "longitude": 9.29784
     }

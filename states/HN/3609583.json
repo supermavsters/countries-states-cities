@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3600295",
+        "cityId": 3600295,
         "name": "Wampusirpi",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.18333,
         "longitude": -84.61667
     },
     {
-        "cityId": "3603158",
+        "cityId": 3603158,
         "name": "Puerto Lempira",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.16667,
         "longitude": -84.08333
     },
     {
-        "cityId": "3614664",
+        "cityId": 3614664,
         "name": "Brus Laguna",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.5,
         "longitude": -84.8
     },
     {
-        "cityId": "8062435",
+        "cityId": 8062435,
         "name": "Juan Francisco Bulnes",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.91676,
         "longitude": -84.9099
     },
     {
-        "cityId": "8062436",
+        "cityId": 8062436,
         "name": "Villeda Morales",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.08472,
         "longitude": -83.35361
     },
     {
-        "cityId": "8062437",
+        "cityId": 8062437,
         "name": "Ahuas",
-        "stateId": "3609583",
+        "stateId": 3609583,
         "latitude": 15.46923,
         "longitude": -84.34479
     }

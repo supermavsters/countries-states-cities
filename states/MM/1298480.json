@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1290189",
+        "cityId": 1290189,
         "name": "Mawlaik District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 23.92764,
         "longitude": 94.71738
     },
     {
-        "cityId": "1296732",
+        "cityId": 1296732,
         "name": "Shwebo District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 23.00712,
         "longitude": 95.44818
     },
     {
-        "cityId": "1298481",
+        "cityId": 1298481,
         "name": "Sagaing District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 21.99422,
         "longitude": 95.61831
     },
     {
-        "cityId": "1307521",
+        "cityId": 1307521,
         "name": "Hkamti District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 25.42555,
         "longitude": 95.52721
     },
     {
-        "cityId": "1320151",
+        "cityId": 1320151,
         "name": "Katha District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 24.11362,
         "longitude": 95.84976
     },
     {
-        "cityId": "8238743",
+        "cityId": 8238743,
         "name": "Kale District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 23.05571,
         "longitude": 94.41054
     },
     {
-        "cityId": "8238747",
+        "cityId": 8238747,
         "name": "Tamu District",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 24.21907,
         "longitude": 94.40602
     },
     {
-        "cityId": "11154020",
+        "cityId": 11154020,
         "name": "Monywa",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 22.2573,
         "longitude": 95.26376
     },
     {
-        "cityId": "11154024",
+        "cityId": 11154024,
         "name": "Yinmabin",
-        "stateId": "1298480",
+        "stateId": 1298480,
         "latitude": 22.24864,
         "longitude": 94.71565
     }

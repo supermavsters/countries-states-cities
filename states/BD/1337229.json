@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1185286",
+        "cityId": 1185286,
         "name": "Barisal",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.8,
         "longitude": 90.5
     },
     {
-        "cityId": "1337214",
+        "cityId": 1337214,
         "name": "Jhalokati",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.6,
         "longitude": 90.2
     },
     {
-        "cityId": "1337215",
+        "cityId": 1337215,
         "name": "Bhola",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.36667,
         "longitude": 90.81667
     },
     {
-        "cityId": "1337216",
+        "cityId": 1337216,
         "name": "Patuakhali",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.33333,
         "longitude": 90.33333
     },
     {
-        "cityId": "1337217",
+        "cityId": 1337217,
         "name": "Barguna",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.13333,
         "longitude": 90.13333
     },
     {
-        "cityId": "1477494",
+        "cityId": 1477494,
         "name": "Pirojpur",
-        "stateId": "1337229",
+        "stateId": 1337229,
         "latitude": 22.53671,
         "longitude": 90.00033
     }

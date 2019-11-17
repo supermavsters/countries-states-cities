@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3902684",
+        "cityId": 3902684,
         "name": "Provincia Tom\u00e1s Barron",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -17.83333,
         "longitude": -68.25
     },
     {
-        "cityId": "3904553",
+        "cityId": 3904553,
         "name": "Provincia Saucari",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.25,
         "longitude": -67.41667
     },
     {
-        "cityId": "3905117",
+        "cityId": 3905117,
         "name": "Provincia San Pedro de Totora",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -17.83333,
         "longitude": -68.2
     },
     {
-        "cityId": "3906107",
+        "cityId": 3906107,
         "name": "Provincia Sajama",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.2,
         "longitude": -68.55
     },
     {
-        "cityId": "3907682",
+        "cityId": 3907682,
         "name": "Provincia Poop\u00f3",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.5,
         "longitude": -66.91667
     },
     {
-        "cityId": "3908591",
+        "cityId": 3908591,
         "name": "Provincia Pantale\u00f3n Dalence",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.33333,
         "longitude": -66.91667
     },
     {
-        "cityId": "3911447",
+        "cityId": 3911447,
         "name": "Sud Carangas Province",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.5,
         "longitude": -68.25
     },
     {
-        "cityId": "3912280",
+        "cityId": 3912280,
         "name": "Provincia Ladislao Cabrera",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -19.5,
         "longitude": -67.66667
     },
     {
-        "cityId": "3921629",
+        "cityId": 3921629,
         "name": "Provincia Cercado",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -17.91667,
         "longitude": -67.08333
     },
     {
-        "cityId": "3922026",
+        "cityId": 3922026,
         "name": "Provincia Carangas",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.33333,
         "longitude": -67.75
     },
     {
-        "cityId": "3923523",
+        "cityId": 3923523,
         "name": "Provincia Avaroa",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -19,
         "longitude": -66.66667
     },
     {
-        "cityId": "3923586",
+        "cityId": 3923586,
         "name": "Provincia Sabaya",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -19,
         "longitude": -68.58333
     },
     {
-        "cityId": "10400355",
+        "cityId": 10400355,
         "name": "Nor Carangas Province",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -17.8375,
         "longitude": -67.9433
     },
     {
-        "cityId": "10400859",
+        "cityId": 10400859,
         "name": "Sebastian Pagador Province",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -19.21667,
         "longitude": -66.21667
     },
     {
-        "cityId": "11184249",
+        "cityId": 11184249,
         "name": "Puerto de Mejillones",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.99266,
         "longitude": -68.68446
     },
     {
-        "cityId": "11184250",
+        "cityId": 11184250,
         "name": "Litoral de Atacama",
-        "stateId": "3909233",
+        "stateId": 3909233,
         "latitude": -18.76071,
         "longitude": -68.24295
     }

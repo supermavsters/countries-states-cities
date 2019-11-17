@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1149974",
+        "cityId": 1149974,
         "name": "Amphoe Umphang",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 15.79496,
         "longitude": 98.87787
     },
     {
-        "cityId": "1150195",
+        "cityId": 1150195,
         "name": "Amphoe Tha Song Yang",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 17.47481,
         "longitude": 98.12079
     },
     {
-        "cityId": "1150785",
+        "cityId": 1150785,
         "name": "Amphoe Sam Ngao",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 17.31322,
         "longitude": 98.87561
     },
     {
-        "cityId": "1151976",
+        "cityId": 1151976,
         "name": "Amphoe Mueang Tak",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 16.8765,
         "longitude": 99.16617
     },
     {
-        "cityId": "1152187",
+        "cityId": 1152187,
         "name": "Amphoe Mae Sot",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 16.72154,
         "longitude": 98.71074
     },
     {
-        "cityId": "1152200",
+        "cityId": 1152200,
         "name": "Amphoe Mae Ramat",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 17.1118,
         "longitude": 98.58635
     },
     {
-        "cityId": "1154675",
+        "cityId": 1154675,
         "name": "Amphoe Ban Tak",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 17.09163,
         "longitude": 99.06648
     },
     {
-        "cityId": "7510614",
+        "cityId": 7510614,
         "name": "Amphoe Phop Phra",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 16.47215,
         "longitude": 98.83501
     },
     {
-        "cityId": "7510633",
+        "cityId": 7510633,
         "name": "Amphoe Wang Chao",
-        "stateId": "1150489",
+        "stateId": 1150489,
         "latitude": 16.63311,
         "longitude": 99.14826
     }

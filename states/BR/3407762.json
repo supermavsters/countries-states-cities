@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "6319493",
+        "cityId": 6319493,
         "name": "Amap\u00e1",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 1.85706,
         "longitude": -50.84374
     },
     {
-        "cityId": "6319494",
+        "cityId": 6319494,
         "name": "Cal\u00e7oene",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 2.36098,
         "longitude": -51.45285
     },
     {
-        "cityId": "6319495",
+        "cityId": 6319495,
         "name": "Cutias",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.99713,
         "longitude": -50.52041
     },
     {
-        "cityId": "6319496",
+        "cityId": 6319496,
         "name": "Itaubal",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.57732,
         "longitude": -50.67833
     },
     {
-        "cityId": "6319497",
+        "cityId": 6319497,
         "name": "Vit\u00f3ria do Jari",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": -0.95653,
         "longitude": -52.03443
     },
     {
-        "cityId": "6319498",
+        "cityId": 6319498,
         "name": "Macap\u00e1",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.58767,
         "longitude": -50.96274
     },
     {
-        "cityId": "6319499",
+        "cityId": 6319499,
         "name": "Mazag\u00e3o",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.03993,
         "longitude": -52.11627
     },
     {
-        "cityId": "6319500",
+        "cityId": 6319500,
         "name": "Oiapoque",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 2.70795,
         "longitude": -52.16963
     },
     {
-        "cityId": "6319501",
+        "cityId": 6319501,
         "name": "Pracu\u00faba",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 1.67076,
         "longitude": -51.2449
     },
     {
-        "cityId": "6319502",
+        "cityId": 6319502,
         "name": "Santana",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.18128,
         "longitude": -51.38835
     },
     {
-        "cityId": "6319503",
+        "cityId": 6319503,
         "name": "Tartarugalzinho",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 1.263,
         "longitude": -51.10973
     },
     {
-        "cityId": "6324184",
+        "cityId": 6324184,
         "name": "Serra do Navio",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 1.65803,
         "longitude": -52.28195
     },
     {
-        "cityId": "6324185",
+        "cityId": 6324185,
         "name": "Pedra Branca do Amapar\u00ed",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 1.14843,
         "longitude": -52.40118
     },
     {
-        "cityId": "6324186",
+        "cityId": 6324186,
         "name": "Ferreira Gomes",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.91012,
         "longitude": -51.35442
     },
     {
-        "cityId": "6324187",
+        "cityId": 6324187,
         "name": "Porto Grande",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.56553,
         "longitude": -51.71181
     },
     {
-        "cityId": "6324188",
+        "cityId": 6324188,
         "name": "Laranjal do Jari",
-        "stateId": "3407762",
+        "stateId": 3407762,
         "latitude": 0.93828,
         "longitude": -53.22949
     }

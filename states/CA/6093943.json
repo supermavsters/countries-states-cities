@@ -1,344 +1,344 @@
 [
     {
-        "cityId": "5883638",
+        "cityId": 5883638,
         "name": "Algoma",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 47.88364,
         "longitude": -84.42406
     },
     {
-        "cityId": "5907982",
+        "cityId": 5907982,
         "name": "Brant",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.1668,
         "longitude": -80.33297
     },
     {
-        "cityId": "5910071",
+        "cityId": 5910071,
         "name": "Bruce County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.50009,
         "longitude": -81.24974
     },
     {
-        "cityId": "5920450",
+        "cityId": 5920450,
         "name": "Chatham-Kent",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 42.40009,
         "longitude": -82.1831
     },
     {
-        "cityId": "5924616",
+        "cityId": 5924616,
         "name": "Cochrane District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 50.00022,
         "longitude": -82.99979
     },
     {
-        "cityId": "5943542",
+        "cityId": 5943542,
         "name": "Dufferin County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.0834,
         "longitude": -80.24968
     },
     {
-        "cityId": "5944369",
+        "cityId": 5944369,
         "name": "Durham",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.20012,
         "longitude": -78.99957
     },
     {
-        "cityId": "5947587",
+        "cityId": 5947587,
         "name": "Elgin County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 42.50009,
         "longitude": -81.66647
     },
     {
-        "cityId": "5949533",
+        "cityId": 5949533,
         "name": "Essex County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 42.16678,
         "longitude": -82.83313
     },
     {
-        "cityId": "5958506",
+        "cityId": 5958506,
         "name": "Frontenac County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.66682,
         "longitude": -76.74941
     },
     {
-        "cityId": "5966925",
+        "cityId": 5966925,
         "name": "Grey County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.33339,
         "longitude": -80.74972
     },
     {
-        "cityId": "5969093",
+        "cityId": 5969093,
         "name": "Haldimand County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 42.98341,
         "longitude": -79.86633
     },
     {
-        "cityId": "5969392",
+        "cityId": 5969392,
         "name": "Haliburton County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.16682,
         "longitude": -78.49955
     },
     {
-        "cityId": "5969719",
+        "cityId": 5969719,
         "name": "Halton",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.50011,
         "longitude": -79.88294
     },
     {
-        "cityId": "5969784",
+        "cityId": 5969784,
         "name": "Hamilton",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.25521,
         "longitude": -79.93103
     },
     {
-        "cityId": "5971841",
+        "cityId": 5971841,
         "name": "Hastings County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.75013,
         "longitude": -77.66619
     },
     {
-        "cityId": "5978829",
+        "cityId": 5978829,
         "name": "Huron County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.66679,
         "longitude": -81.49977
     },
     {
-        "cityId": "5989818",
+        "cityId": 5989818,
         "name": "Kawartha Lakes",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.58342,
         "longitude": -78.83288
     },
     {
-        "cityId": "5991054",
+        "cityId": 5991054,
         "name": "Kenora District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 54.00015,
         "longitude": -87.99992
     },
     {
-        "cityId": "6049019",
+        "cityId": 6049019,
         "name": "Lambton County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 42.75008,
         "longitude": -82.08311
     },
     {
-        "cityId": "6049130",
+        "cityId": 6049130,
         "name": "Lanark County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.08341,
         "longitude": -76.33269
     },
     {
-        "cityId": "6052311",
+        "cityId": 6052311,
         "name": "Lennox and Addington County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.50012,
         "longitude": -76.99944
     },
     {
-        "cityId": "6065217",
+        "cityId": 6065217,
         "name": "Manitoulin District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.75007,
         "longitude": -82.49985
     },
     {
-        "cityId": "6073256",
+        "cityId": 6073256,
         "name": "Middlesex County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.00009,
         "longitude": -81.41646
     },
     {
-        "cityId": "6084939",
+        "cityId": 6084939,
         "name": "District Municipality of Muskoka",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.16681,
         "longitude": -79.49964
     },
     {
-        "cityId": "6087883",
+        "cityId": 6087883,
         "name": "Regional Municipality of Niagara",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.00012,
         "longitude": -79.24958
     },
     {
-        "cityId": "6088501",
+        "cityId": 6088501,
         "name": "Nipissing District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 46.0001,
         "longitude": -78.99959
     },
     {
-        "cityId": "6090772",
+        "cityId": 6090772,
         "name": "Northumberland County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.16682,
         "longitude": -77.99951
     },
     {
-        "cityId": "6095780",
+        "cityId": 6095780,
         "name": "Oxford County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.13339,
         "longitude": -80.83301
     },
     {
-        "cityId": "6098746",
+        "cityId": 6098746,
         "name": "Parry Sound District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.75011,
         "longitude": -79.83297
     },
     {
-        "cityId": "6100475",
+        "cityId": 6100475,
         "name": "Peel",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.75011,
         "longitude": -79.78293
     },
     {
-        "cityId": "6101545",
+        "cityId": 6101545,
         "name": "Perth County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.50009,
         "longitude": -81.08303
     },
     {
-        "cityId": "6101646",
+        "cityId": 6101646,
         "name": "Peterborough County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.55012,
         "longitude": -78.24953
     },
     {
-        "cityId": "6113354",
+        "cityId": 6113354,
         "name": "Prince Edward County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.00012,
         "longitude": -77.24946
     },
     {
-        "cityId": "6116135",
+        "cityId": 6116135,
         "name": "Rainy River District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 48.49981,
         "longitude": -92.50031
     },
     {
-        "cityId": "6119449",
+        "cityId": 6119449,
         "name": "Renfrew County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.50011,
         "longitude": -77.08275
     },
     {
-        "cityId": "6147963",
+        "cityId": 6147963,
         "name": "Simcoe County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.41681,
         "longitude": -79.83295
     },
     {
-        "cityId": "6158840",
+        "cityId": 6158840,
         "name": "Sudbury",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 47.16679,
         "longitude": -81.9998
     },
     {
-        "cityId": "6158841",
+        "cityId": 6158841,
         "name": "Sudbury",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 46.50008,
         "longitude": -80.99974
     },
     {
-        "cityId": "6166139",
+        "cityId": 6166139,
         "name": "Thunder Bay District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 49.50011,
         "longitude": -88.50004
     },
     {
-        "cityId": "6166724",
+        "cityId": 6166724,
         "name": "Timiskaming District",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 47.75016,
         "longitude": -80.33303
     },
     {
-        "cityId": "6172001",
+        "cityId": 6172001,
         "name": "United Counties of Leeds and Grenville",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.83341,
         "longitude": -75.66604
     },
     {
-        "cityId": "6172002",
+        "cityId": 6172002,
         "name": "Comt\u00e9s unis de Prescott et Russell",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.4168,
         "longitude": -75.24931
     },
     {
-        "cityId": "6172003",
+        "cityId": 6172003,
         "name": "United Counties of Stormont, Dundas and Glengarry",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.25009,
         "longitude": -74.66597
     },
     {
-        "cityId": "6176824",
+        "cityId": 6176824,
         "name": "Regional Municipality of Waterloo",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.5001,
         "longitude": -80.49969
     },
     {
-        "cityId": "6177913",
+        "cityId": 6177913,
         "name": "Wellington County",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.8334,
         "longitude": -80.49969
     },
     {
-        "cityId": "6185560",
+        "cityId": 6185560,
         "name": "York",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 44.00011,
         "longitude": -79.46632
     },
     {
-        "cityId": "8133394",
+        "cityId": 8133394,
         "name": "Toronto county",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 43.69655,
         "longitude": -79.42909
     },
     {
-        "cityId": "8581623",
+        "cityId": 8581623,
         "name": "Ottawa",
-        "stateId": "6093943",
+        "stateId": 6093943,
         "latitude": 45.41858,
         "longitude": -75.69717
     }

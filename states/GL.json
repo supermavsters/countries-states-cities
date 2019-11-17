@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "7602005",
+        "stateId": 7602005,
         "name": "Kujalleq",
-        "countryId": "3425505",
+        "countryId": 3425505,
         "latitude": 60.71905,
         "longitude": -46.03683
     },
     {
-        "stateId": "7602003",
+        "stateId": 7602003,
         "name": "Qaasuitsup",
-        "countryId": "3425505",
+        "countryId": 3425505,
         "latitude": 69.21662,
         "longitude": -51.10351
     },
     {
-        "stateId": "7602006",
+        "stateId": 7602006,
         "name": "Qeqqata",
-        "countryId": "3425505",
+        "countryId": 3425505,
         "latitude": 66.93305,
         "longitude": -53.67517
     },
     {
-        "stateId": "7602007",
+        "stateId": 7602007,
         "name": "Sermersooq",
-        "countryId": "3425505",
+        "countryId": 3425505,
         "latitude": 64.18284,
         "longitude": -51.71831
     }

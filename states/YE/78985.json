@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "6940852",
+        "cityId": 6940852,
         "name": "Shahan",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 17.5923,
         "longitude": 52.594
     },
     {
-        "cityId": "6940853",
+        "cityId": 6940853,
         "name": "Sayhut",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 15.5345,
         "longitude": 51.2869
     },
     {
-        "cityId": "6940854",
+        "cityId": 6940854,
         "name": "Hat",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 17.8031,
         "longitude": 51.675
     },
     {
-        "cityId": "6940855",
+        "cityId": 6940855,
         "name": "Al Ghaydah",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 16.2618,
         "longitude": 52.0816
     },
     {
-        "cityId": "6940856",
+        "cityId": 6940856,
         "name": "Hawf",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 16.6953,
         "longitude": 52.8182
     },
     {
-        "cityId": "6940857",
+        "cityId": 6940857,
         "name": "Huswain",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 15.723,
         "longitude": 51.9124
     },
     {
-        "cityId": "6940858",
+        "cityId": 6940858,
         "name": "Qishn",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 15.6999,
         "longitude": 51.324
     },
     {
-        "cityId": "6940859",
+        "cityId": 6940859,
         "name": "Man'ar",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 16.5505,
         "longitude": 50.9879
     },
     {
-        "cityId": "6940860",
+        "cityId": 6940860,
         "name": "Al Masilah",
-        "stateId": "78985",
+        "stateId": 78985,
         "latitude": 15.6399,
         "longitude": 50.6445
     }

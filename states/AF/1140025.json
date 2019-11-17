@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7053036",
+        "cityId": 7053036,
         "name": "Adraskan",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 33.70541,
         "longitude": 61.99548
     },
     {
-        "cityId": "7053037",
+        "cityId": 7053037,
         "name": "Chisht-e Shar\u012bf",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.44515,
         "longitude": 63.95731
     },
     {
-        "cityId": "7053038",
+        "cityId": 7053038,
         "name": "Fars\u012b",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 33.84276,
         "longitude": 63.28352
     },
     {
-        "cityId": "7053039",
+        "cityId": 7053039,
         "name": "Gh\u014driy\u0101n",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.18233,
         "longitude": 61.16269
     },
     {
-        "cityId": "7053040",
+        "cityId": 7053040,
         "name": "Gulr\u0101n",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 35.13404,
         "longitude": 61.57135
     },
     {
-        "cityId": "7053041",
+        "cityId": 7053041,
         "name": "Inj\u012bl",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.3169,
         "longitude": 62.32845
     },
     {
-        "cityId": "7053042",
+        "cityId": 7053042,
         "name": "Karukh",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.50392,
         "longitude": 62.66343
     },
     {
-        "cityId": "7053043",
+        "cityId": 7053043,
         "name": "Kuhs\u0101n",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.61326,
         "longitude": 61.1662
     },
     {
-        "cityId": "7053044",
+        "cityId": 7053044,
         "name": "Kushk",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 35.00443,
         "longitude": 62.23985
     },
     {
-        "cityId": "7053045",
+        "cityId": 7053045,
         "name": "Kushk-e Kuhnah",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.88574,
         "longitude": 62.62873
     },
     {
-        "cityId": "7053046",
+        "cityId": 7053046,
         "name": "Guz\u0304arah",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.03553,
         "longitude": 62.03867
     },
     {
-        "cityId": "7053047",
+        "cityId": 7053047,
         "name": "\u014cb\u00eah",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.36058,
         "longitude": 63.25043
     },
     {
-        "cityId": "7053048",
+        "cityId": 7053048,
         "name": "Pas\u0332h\u0332t\u016bn Zargh\u016bn",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.1843,
         "longitude": 62.7546
     },
     {
-        "cityId": "7053049",
+        "cityId": 7053049,
         "name": "Sh\u012bn\u1e0fan\u1e0f",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 33.25438,
         "longitude": 62.3808
     },
     {
-        "cityId": "7053050",
+        "cityId": 7053050,
         "name": "Zindah J\u0101n",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.37113,
         "longitude": 61.82006
     },
     {
-        "cityId": "9166336",
+        "cityId": 9166336,
         "name": "Herat District",
-        "stateId": "1140025",
+        "stateId": 1140025,
         "latitude": 34.34194,
         "longitude": 62.20306
     }

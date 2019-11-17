@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "8740329",
+        "cityId": 8740329,
         "name": "Bishnupur",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.60769,
         "longitude": 93.77998
     },
     {
-        "cityId": "8740332",
+        "cityId": 8740332,
         "name": "Tamenglong",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.97548,
         "longitude": 93.51563
     },
     {
-        "cityId": "8740334",
+        "cityId": 8740334,
         "name": "Senapati",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 25.26705,
         "longitude": 94.02237
     },
     {
-        "cityId": "8740335",
+        "cityId": 8740335,
         "name": "Thoubal",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.62205,
         "longitude": 94.01001
     },
     {
-        "cityId": "8740338",
+        "cityId": 8740338,
         "name": "Ukhrul",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 25.04828,
         "longitude": 94.35883
     },
     {
-        "cityId": "9166020",
+        "cityId": 9166020,
         "name": "Churachandpur",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.33333,
         "longitude": 93.68333
     },
     {
-        "cityId": "9747955",
+        "cityId": 9747955,
         "name": "Chandel",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.23549,
         "longitude": 94.09318
     },
     {
-        "cityId": "9747976",
+        "cityId": 9747976,
         "name": "Imphal East",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.81655,
         "longitude": 93.94212
     },
     {
-        "cityId": "9747977",
+        "cityId": 9747977,
         "name": "Imphal West",
-        "stateId": "1263706",
+        "stateId": 1263706,
         "latitude": 24.6816,
         "longitude": 93.1544
     }

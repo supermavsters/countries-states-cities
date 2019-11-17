@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "449690",
+        "cityId": 449690,
         "name": "Shahrest\u0101n-e Ar\u0101k",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.13333,
         "longitude": 49.8
     },
     {
-        "cityId": "449691",
+        "cityId": 449691,
         "name": "Tafresh",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.83333,
         "longitude": 49.88333
     },
     {
-        "cityId": "449692",
+        "cityId": 449692,
         "name": "Khomeyn",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 33.66667,
         "longitude": 50
     },
     {
-        "cityId": "449693",
+        "cityId": 449693,
         "name": "Shahrest\u0101n-e Del\u012bj\u0101n",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.03333,
         "longitude": 50.76667
     },
     {
-        "cityId": "449694",
+        "cityId": 449694,
         "name": "Shahrest\u0101n-e Zarand\u012byeh",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 35.36667,
         "longitude": 50.33333
     },
     {
-        "cityId": "449695",
+        "cityId": 449695,
         "name": "Shahrest\u0101n-e S\u0101veh",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 35.1,
         "longitude": 49.98333
     },
     {
-        "cityId": "449696",
+        "cityId": 449696,
         "name": "Shahrest\u0101n-e Sh\u0101zand",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 33.9,
         "longitude": 49.3
     },
     {
-        "cityId": "449697",
+        "cityId": 449697,
         "name": "Shahrest\u0101n-e Kom\u012bj\u0101n",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.76667,
         "longitude": 49.33333
     },
     {
-        "cityId": "449698",
+        "cityId": 449698,
         "name": "Shahrest\u0101n-e Ma\u1e29all\u0101t",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 33.91667,
         "longitude": 50.41667
     },
     {
-        "cityId": "9533005",
+        "cityId": 9533005,
         "name": "Shahrest\u0101n-e Farah\u0101n",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.6,
         "longitude": 49.63333
     },
     {
-        "cityId": "9533006",
+        "cityId": 9533006,
         "name": "Shahrest\u0101n-e Khond\u0101b",
-        "stateId": "124763",
+        "stateId": 124763,
         "latitude": 34.36667,
         "longitude": 49.18333
     }

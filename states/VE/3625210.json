@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "3625695",
+        "cityId": 3625695,
         "name": "Municipio Urachiche",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.13333,
         "longitude": -69
     },
     {
-        "cityId": "3626658",
+        "cityId": 3626658,
         "name": "Municipio Sucre",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.3,
         "longitude": -68.83333
     },
     {
-        "cityId": "3628416",
+        "cityId": 3628416,
         "name": "Municipio San Felipe",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.5,
         "longitude": -68.63333
     },
     {
-        "cityId": "3631506",
+        "cityId": 3631506,
         "name": "Municipio Nirgua",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.08333,
         "longitude": -68.66667
     },
     {
-        "cityId": "3647929",
+        "cityId": 3647929,
         "name": "Municipio Bruzual",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.16667,
         "longitude": -68.88333
     },
     {
-        "cityId": "3648108",
+        "cityId": 3648108,
         "name": "Municipio Bol\u00edvar",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.5,
         "longitude": -68.91667
     },
     {
-        "cityId": "8129203",
+        "cityId": 8129203,
         "name": "Municipio Pe\u00f1a",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.08,
         "longitude": -69.12611
     },
     {
-        "cityId": "8129219",
+        "cityId": 8129219,
         "name": "Municipio Manuel Monge",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.59732,
         "longitude": -68.67245
     },
     {
-        "cityId": "8129227",
+        "cityId": 8129227,
         "name": "Municipio Ar\u00edstides Bastidas",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.24828,
         "longitude": -68.84451
     },
     {
-        "cityId": "8129230",
+        "cityId": 8129230,
         "name": "Municipio Jos\u00e9 Antonio P\u00e1ez",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.12111,
         "longitude": -69.03639
     },
     {
-        "cityId": "8129244",
+        "cityId": 8129244,
         "name": "Municipio Veroes",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.46967,
         "longitude": -68.55857
     },
     {
-        "cityId": "8129247",
+        "cityId": 8129247,
         "name": "Municipio Cocorote",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.31978,
         "longitude": -68.78386
     },
     {
-        "cityId": "8129251",
+        "cityId": 8129251,
         "name": "Municipio La Trinidad",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.24933,
         "longitude": -68.7695
     },
     {
-        "cityId": "8131510",
+        "cityId": 8131510,
         "name": "Municipio Independencia",
-        "stateId": "3625210",
+        "stateId": 3625210,
         "latitude": 10.33472,
         "longitude": -68.75555
     }

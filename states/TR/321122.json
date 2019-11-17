@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "8632583",
+        "cityId": 8632583,
         "name": "Yenipazar \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.18944,
         "longitude": 30.50821
     },
     {
-        "cityId": "8632584",
+        "cityId": 8632584,
         "name": "S\u00f6\u011f\u00fct \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.02479,
         "longitude": 30.173
     },
     {
-        "cityId": "8632586",
+        "cityId": 8632586,
         "name": "G\u00f6lpazar\u0131 \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.29553,
         "longitude": 30.33386
     },
     {
-        "cityId": "8632587",
+        "cityId": 8632587,
         "name": "Osmaneli \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.36742,
         "longitude": 30.02683
     },
     {
-        "cityId": "8632588",
+        "cityId": 8632588,
         "name": "Boz\u00fcy\u00fck \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 39.91806,
         "longitude": 30.05113
     },
     {
-        "cityId": "8632589",
+        "cityId": 8632589,
         "name": "Pazaryeri \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.00444,
         "longitude": 29.92051
     },
     {
-        "cityId": "9538526",
+        "cityId": 9538526,
         "name": "\u0130nhisar \u0130l\u00e7esi",
-        "stateId": "321122",
+        "stateId": 321122,
         "latitude": 40.05091,
         "longitude": 30.38368
     }

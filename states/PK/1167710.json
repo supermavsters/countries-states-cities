@@ -1,316 +1,316 @@
 [
     {
-        "cityId": "1162811",
+        "cityId": 1162811,
         "name": "Vih\u0101ri District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.00843,
         "longitude": 72.39117
     },
     {
-        "cityId": "1164908",
+        "cityId": 1164908,
         "name": "Si\u0101lkot District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.44333,
         "longitude": 74.56817
     },
     {
-        "cityId": "1165218",
+        "cityId": 1165218,
         "name": "Shekh\u016bpura District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.70969,
         "longitude": 74.1382
     },
     {
-        "cityId": "1165998",
+        "cityId": 1165998,
         "name": "Sargodha Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.78,
         "longitude": 72.29139
     },
     {
-        "cityId": "1165999",
+        "cityId": 1165999,
         "name": "Sargodha District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.08958,
         "longitude": 72.71974
     },
     {
-        "cityId": "1166545",
+        "cityId": 1166545,
         "name": "S\u0101h\u012bw\u0101l District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.54824,
         "longitude": 72.91365
     },
     {
-        "cityId": "1166990",
+        "cityId": 1166990,
         "name": "Rawalpindi Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 33.20359,
         "longitude": 72.73997
     },
     {
-        "cityId": "1166991",
+        "cityId": 1166991,
         "name": "R\u0101walpindi District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 33.42987,
         "longitude": 73.23092
     },
     {
-        "cityId": "1167458",
+        "cityId": 1167458,
         "name": "Rah\u012bmy\u0101r Kh\u0101n District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 28.4602,
         "longitude": 70.52837
     },
     {
-        "cityId": "1169603",
+        "cityId": 1169603,
         "name": "Muzaffargarh District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.03739,
         "longitude": 71.05876
     },
     {
-        "cityId": "1169820",
+        "cityId": 1169820,
         "name": "Multan Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.02388,
         "longitude": 71.91988
     },
     {
-        "cityId": "1169821",
+        "cityId": 1169821,
         "name": "Mult\u0101n District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 29.93312,
         "longitude": 71.38607
     },
     {
-        "cityId": "1170424",
+        "cityId": 1170424,
         "name": "Mi\u0101nw\u0101li District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.70126,
         "longitude": 71.51325
     },
     {
-        "cityId": "1172448",
+        "cityId": 1172448,
         "name": "Lahore Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.16667,
         "longitude": 74.5
     },
     {
-        "cityId": "1172449",
+        "cityId": 1172449,
         "name": "Lahore District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.48627,
         "longitude": 74.3979
     },
     {
-        "cityId": "1174623",
+        "cityId": 1174623,
         "name": "Kas\u016br District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.00695,
         "longitude": 74.13534
     },
     {
-        "cityId": "1175862",
+        "cityId": 1175862,
         "name": "Jhelum District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.8205,
         "longitude": 73.356
     },
     {
-        "cityId": "1175906",
+        "cityId": 1175906,
         "name": "Jhang District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.32804,
         "longitude": 72.35501
     },
     {
-        "cityId": "1177651",
+        "cityId": 1177651,
         "name": "Gujr\u0101t District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.70049,
         "longitude": 74.05447
     },
     {
-        "cityId": "1177657",
+        "cityId": 1177657,
         "name": "Gujranwala Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.33393,
         "longitude": 74.09095
     },
     {
-        "cityId": "1177658",
+        "cityId": 1177658,
         "name": "Gujr\u0101nw\u0101la District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.1885,
         "longitude": 74.05362
     },
     {
-        "cityId": "1179398",
+        "cityId": 1179398,
         "name": "Faisal\u0101b\u0101d Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.25,
         "longitude": 72.8
     },
     {
-        "cityId": "1179399",
+        "cityId": 1179399,
         "name": "Faisal\u0101b\u0101d District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.23089,
         "longitude": 73.19753
     },
     {
-        "cityId": "1180287",
+        "cityId": 1180287,
         "name": "Dera Gh\u0101zi Kh\u0101n District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.475,
         "longitude": 70.40447
     },
     {
-        "cityId": "1183875",
+        "cityId": 1183875,
         "name": "Bahawalpur Division",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 28.86904,
         "longitude": 71.6582
     },
     {
-        "cityId": "1183876",
+        "cityId": 1183876,
         "name": "Bah\u0101walpur District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 28.83993,
         "longitude": 71.71272
     },
     {
-        "cityId": "1183882",
+        "cityId": 1183882,
         "name": "Bah\u0101walnagar District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 29.64106,
         "longitude": 73.02531
     },
     {
-        "cityId": "1184248",
+        "cityId": 1184248,
         "name": "Attock District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 33.50812,
         "longitude": 72.33416
     },
     {
-        "cityId": "7331706",
+        "cityId": 7331706,
         "name": "Toba Tek Singh District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.92857,
         "longitude": 72.53692
     },
     {
-        "cityId": "7418846",
+        "cityId": 7418846,
         "name": "Lodhr\u0101n District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 29.68691,
         "longitude": 71.6902
     },
     {
-        "cityId": "7418850",
+        "cityId": 7418850,
         "name": "P\u0101kpattan District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.30098,
         "longitude": 73.26013
     },
     {
-        "cityId": "7418888",
+        "cityId": 7418888,
         "name": "Ok\u0101ra District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.70939,
         "longitude": 73.68882
     },
     {
-        "cityId": "7418890",
+        "cityId": 7418890,
         "name": "Kh\u0101new\u0101l District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.37339,
         "longitude": 72.06096
     },
     {
-        "cityId": "7418962",
+        "cityId": 7418962,
         "name": "H\u0101fiz\u0101b\u0101d District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.02191,
         "longitude": 73.51315
     },
     {
-        "cityId": "7418963",
+        "cityId": 7418963,
         "name": "Mandi Bah\u0101udd\u012bn District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.44206,
         "longitude": 73.46183
     },
     {
-        "cityId": "7418964",
+        "cityId": 7418964,
         "name": "Chakw\u0101l District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.89779,
         "longitude": 72.53114
     },
     {
-        "cityId": "7418965",
+        "cityId": 7418965,
         "name": "Khush\u0101b District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.18259,
         "longitude": 72.111
     },
     {
-        "cityId": "7418966",
+        "cityId": 7418966,
         "name": "Bhakkar District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.64699,
         "longitude": 71.43428
     },
     {
-        "cityId": "7418967",
+        "cityId": 7418967,
         "name": "Layyah District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.968,
         "longitude": 70.943
     },
     {
-        "cityId": "7418968",
+        "cityId": 7418968,
         "name": "N\u0101row\u0101l District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 32.21114,
         "longitude": 74.95318
     },
     {
-        "cityId": "7419159",
+        "cityId": 7419159,
         "name": "Nank\u0101na S\u0101hib District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 31.48198,
         "longitude": 73.69882
     },
     {
-        "cityId": "7648373",
+        "cityId": 7648373,
         "name": "Sudhnati District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 33.71,
         "longitude": 73.68
     },
     {
-        "cityId": "8309731",
+        "cityId": 8309731,
         "name": "R\u0101janpur",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 29.15928,
         "longitude": 70.15183
     },
     {
-        "cityId": "10344547",
+        "cityId": 10344547,
         "name": "Vehari District",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.04194,
         "longitude": 72.35278
     },
     {
-        "cityId": "11744818",
+        "cityId": 11744818,
         "name": "Dera Ghazi Khan Dvision",
-        "stateId": "1167710",
+        "stateId": 1167710,
         "latitude": 30.03533,
         "longitude": 70.5762
     }

@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1252654",
+        "cityId": 1252654,
         "name": "Zunheboto",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26,
         "longitude": 94.5
     },
     {
-        "cityId": "1252841",
+        "cityId": 1252841,
         "name": "Wokha",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26.16667,
         "longitude": 94.25
     },
     {
-        "cityId": "1254132",
+        "cityId": 1254132,
         "name": "Tuensang District",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26.25,
         "longitude": 94.75
     },
     {
-        "cityId": "1259785",
+        "cityId": 1259785,
         "name": "Phek",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 25.75,
         "longitude": 94.5
     },
     {
-        "cityId": "1262825",
+        "cityId": 1262825,
         "name": "Mon",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26.75,
         "longitude": 94.83333
     },
     {
-        "cityId": "1262844",
+        "cityId": 1262844,
         "name": "Mokokch\u016bng",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26.31393,
         "longitude": 94.51675
     },
     {
-        "cityId": "1266367",
+        "cityId": 1266367,
         "name": "Koh\u012bma",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 25.75,
         "longitude": 94.16667
     },
     {
-        "cityId": "8335032",
+        "cityId": 8335032,
         "name": "Peren",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 25.51276,
         "longitude": 93.73716
     },
     {
-        "cityId": "9747972",
+        "cityId": 9747972,
         "name": "Dimapur",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 25.77852,
         "longitude": 93.78508
     },
     {
-        "cityId": "9747979",
+        "cityId": 9747979,
         "name": "Longleng",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 26.5554,
         "longitude": 94.80031
     },
     {
-        "cityId": "9748005",
+        "cityId": 9748005,
         "name": "Kiphire",
-        "stateId": "1262271",
+        "stateId": 1262271,
         "latitude": 25.84486,
         "longitude": 94.82514
     }

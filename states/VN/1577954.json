@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1905014",
+        "cityId": 1905014,
         "name": "Huy\u1ec7n Than Uy\u00ean",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 21.91424,
         "longitude": 103.82857
     },
     {
-        "cityId": "1905104",
+        "cityId": 1905104,
         "name": "Huy\u1ec7n S\u00ecn H\u1ed3",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.29924,
         "longitude": 103.27468
     },
     {
-        "cityId": "1905106",
+        "cityId": 1905106,
         "name": "Huy\u1ec7n Phong Th\u1ed5",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.6065,
         "longitude": 103.39154
     },
     {
-        "cityId": "1905107",
+        "cityId": 1905107,
         "name": "Huy\u1ec7n M\u01b0\u00f2ng T\u00e8",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.37443,
         "longitude": 102.73835
     },
     {
-        "cityId": "8456760",
+        "cityId": 8456760,
         "name": "Huy\u1ec7n Tam \u0110\u01b0\u1eddng",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.35391,
         "longitude": 103.59342
     },
     {
-        "cityId": "10816510",
+        "cityId": 10816510,
         "name": "Huy\u1ec7n N\u1eadm Nh\u00f9n",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.2045,
         "longitude": 103.01127
     },
     {
-        "cityId": "10862502",
+        "cityId": 10862502,
         "name": "Huy\u1ec7n T\u00e2n Uy\u00ean",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.12837,
         "longitude": 103.73576
     },
     {
-        "cityId": "11497338",
+        "cityId": 11497338,
         "name": "Th\u00e0nh ph\u1ed1 Lai Ch\u00e2u",
-        "stateId": "1577954",
+        "stateId": 1577954,
         "latitude": 22.06923,
         "longitude": 103.15639
     }

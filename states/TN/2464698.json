@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2464700",
+        "cityId": 2464700,
         "name": "Tataouine Nord",
-        "stateId": "2464698",
+        "stateId": 2464698,
         "latitude": 32.6852,
         "longitude": 10.6335
     },
     {
-        "cityId": "11105087",
+        "cityId": 11105087,
         "name": "Smar",
-        "stateId": "2464698",
+        "stateId": 2464698,
         "latitude": 32.71485,
         "longitude": 11.01197
     },
     {
-        "cityId": "11105088",
+        "cityId": 11105088,
         "name": "Bir Lahmar",
-        "stateId": "2464698",
+        "stateId": 2464698,
         "latitude": 33.14781,
         "longitude": 10.46053
     },
     {
-        "cityId": "11105089",
+        "cityId": 11105089,
         "name": "Tataouine Sud",
-        "stateId": "2464698",
+        "stateId": 2464698,
         "latitude": 32.78766,
         "longitude": 10.18933
     },
     {
-        "cityId": "11105090",
+        "cityId": 11105090,
         "name": "Dhehiba",
-        "stateId": "2464698",
+        "stateId": 2464698,
         "latitude": 31.98364,
         "longitude": 10.59134
     }

@@ -1,323 +1,323 @@
 [
     {
-        "cityId": "4568959",
+        "cityId": 4568959,
         "name": "Abbeville County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.22257,
         "longitude": -82.45871
     },
     {
-        "cityId": "4569073",
+        "cityId": 4569073,
         "name": "Aiken County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.54437,
         "longitude": -81.63474
     },
     {
-        "cityId": "4569210",
+        "cityId": 4569210,
         "name": "Allendale County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.98811,
         "longitude": -81.3582
     },
     {
-        "cityId": "4569313",
+        "cityId": 4569313,
         "name": "Anderson County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.51909,
         "longitude": -82.63788
     },
     {
-        "cityId": "4569930",
+        "cityId": 4569930,
         "name": "Bamberg County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.21477,
         "longitude": -81.05423
     },
     {
-        "cityId": "4570020",
+        "cityId": 4570020,
         "name": "Barnwell County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.26606,
         "longitude": -81.43502
     },
     {
-        "cityId": "4570292",
+        "cityId": 4570292,
         "name": "Beaufort County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.35706,
         "longitude": -80.69217
     },
     {
-        "cityId": "4570707",
+        "cityId": 4570707,
         "name": "Berkeley County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.19768,
         "longitude": -79.95099
     },
     {
-        "cityId": "4573075",
+        "cityId": 4573075,
         "name": "Calhoun County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.67486,
         "longitude": -80.78028
     },
     {
-        "cityId": "4574328",
+        "cityId": 4574328,
         "name": "Charleston County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.74917,
         "longitude": -79.94202
     },
     {
-        "cityId": "4574428",
+        "cityId": 4574428,
         "name": "Cherokee County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 35.0482,
         "longitude": -81.62039
     },
     {
-        "cityId": "4574531",
+        "cityId": 4574531,
         "name": "Chester County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.69206,
         "longitude": -81.15953
     },
     {
-        "cityId": "4574554",
+        "cityId": 4574554,
         "name": "Chesterfield County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.63978,
         "longitude": -80.15872
     },
     {
-        "cityId": "4574857",
+        "cityId": 4574857,
         "name": "Clarendon County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.66581,
         "longitude": -80.2164
     },
     {
-        "cityId": "4575230",
+        "cityId": 4575230,
         "name": "Colleton County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.84343,
         "longitude": -80.64968
     },
     {
-        "cityId": "4576323",
+        "cityId": 4576323,
         "name": "Darlington County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.33235,
         "longitude": -79.95769
     },
     {
-        "cityId": "4576657",
+        "cityId": 4576657,
         "name": "Dillon County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.39152,
         "longitude": -79.37893
     },
     {
-        "cityId": "4576822",
+        "cityId": 4576822,
         "name": "Dorchester County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.07949,
         "longitude": -80.40556
     },
     {
-        "cityId": "4577533",
+        "cityId": 4577533,
         "name": "Edgefield County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.77229,
         "longitude": -81.96658
     },
     {
-        "cityId": "4578064",
+        "cityId": 4578064,
         "name": "Fairfield County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.39511,
         "longitude": -81.12123
     },
     {
-        "cityId": "4578745",
+        "cityId": 4578745,
         "name": "Florence County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.02439,
         "longitude": -79.70282
     },
     {
-        "cityId": "4579666",
+        "cityId": 4579666,
         "name": "Georgetown County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.41275,
         "longitude": -79.29934
     },
     {
-        "cityId": "4580549",
+        "cityId": 4580549,
         "name": "Greenville County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.89431,
         "longitude": -82.37072
     },
     {
-        "cityId": "4580575",
+        "cityId": 4580575,
         "name": "Greenwood County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.15383,
         "longitude": -82.12593
     },
     {
-        "cityId": "4580988",
+        "cityId": 4580988,
         "name": "Hampton County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.77628,
         "longitude": -81.1407
     },
     {
-        "cityId": "4582287",
+        "cityId": 4582287,
         "name": "Horry County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.90448,
         "longitude": -78.97615
     },
     {
-        "cityId": "4583318",
+        "cityId": 4583318,
         "name": "Jasper County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 32.42195,
         "longitude": -81.02327
     },
     {
-        "cityId": "4583989",
+        "cityId": 4583989,
         "name": "Kershaw County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.33876,
         "longitude": -80.59026
     },
     {
-        "cityId": "4584561",
+        "cityId": 4584561,
         "name": "Lancaster County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.6867,
         "longitude": -80.70543
     },
     {
-        "cityId": "4584742",
+        "cityId": 4584742,
         "name": "Laurens County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.48357,
         "longitude": -82.00593
     },
     {
-        "cityId": "4584845",
+        "cityId": 4584845,
         "name": "Lee County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.16329,
         "longitude": -80.25452
     },
     {
-        "cityId": "4585002",
+        "cityId": 4585002,
         "name": "Lexington County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.90233,
         "longitude": -81.27219
     },
     {
-        "cityId": "4586272",
+        "cityId": 4586272,
         "name": "Marion County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.08006,
         "longitude": -79.36251
     },
     {
-        "cityId": "4586301",
+        "cityId": 4586301,
         "name": "Marlboro County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.60199,
         "longitude": -79.67863
     },
     {
-        "cityId": "4586645",
+        "cityId": 4586645,
         "name": "McCormick County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.89955,
         "longitude": -82.30988
     },
     {
-        "cityId": "4589213",
+        "cityId": 4589213,
         "name": "Newberry County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.28981,
         "longitude": -81.60012
     },
     {
-        "cityId": "4589892",
+        "cityId": 4589892,
         "name": "Oconee County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.75351,
         "longitude": -83.06588
     },
     {
-        "cityId": "4590186",
+        "cityId": 4590186,
         "name": "Orangeburg County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.43899,
         "longitude": -80.8003
     },
     {
-        "cityId": "4590954",
+        "cityId": 4590954,
         "name": "Pickens County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.88752,
         "longitude": -82.72532
     },
     {
-        "cityId": "4592843",
+        "cityId": 4592843,
         "name": "Richland County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.0218,
         "longitude": -80.90304
     },
     {
-        "cityId": "4594698",
+        "cityId": 4594698,
         "name": "Saluda County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.00614,
         "longitude": -81.72692
     },
     {
-        "cityId": "4597204",
+        "cityId": 4597204,
         "name": "Spartanburg County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.93126,
         "longitude": -81.99068
     },
     {
-        "cityId": "4597954",
+        "cityId": 4597954,
         "name": "Sumter County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.91617,
         "longitude": -80.38232
     },
     {
-        "cityId": "4599283",
+        "cityId": 4599283,
         "name": "Union County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.68928,
         "longitude": -81.61942
     },
     {
-        "cityId": "4601150",
+        "cityId": 4601150,
         "name": "Williamsburg County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 33.61993,
         "longitude": -79.72771
     },
     {
-        "cityId": "4601709",
+        "cityId": 4601709,
         "name": "York County",
-        "stateId": "4597040",
+        "stateId": 4597040,
         "latitude": 34.97475,
         "longitude": -81.18442
     }

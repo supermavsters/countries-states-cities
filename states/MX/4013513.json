@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "8581705",
+        "cityId": 8581705,
         "name": "Ixtlahuac\u00e1n",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 18.97406,
         "longitude": -103.69292
     },
     {
-        "cityId": "8581706",
+        "cityId": 8581706,
         "name": "Manzanillo",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.10856,
         "longitude": -104.31351
     },
     {
-        "cityId": "8581725",
+        "cityId": 8581725,
         "name": "Cuauht\u00e9moc",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.32744,
         "longitude": -103.60892
     },
     {
-        "cityId": "8583634",
+        "cityId": 8583634,
         "name": "Armer\u00eda",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 18.95554,
         "longitude": -103.98357
     },
     {
-        "cityId": "8583635",
+        "cityId": 8583635,
         "name": "Colima",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.17953,
         "longitude": -103.68011
     },
     {
-        "cityId": "8583636",
+        "cityId": 8583636,
         "name": "Comala",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.38053,
         "longitude": -103.74424
     },
     {
-        "cityId": "8583637",
+        "cityId": 8583637,
         "name": "Coquimatl\u00e1n",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.19898,
         "longitude": -103.84863
     },
     {
-        "cityId": "8583638",
+        "cityId": 8583638,
         "name": "Minatitl\u00e1n",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.37167,
         "longitude": -104.05832
     },
     {
-        "cityId": "8583639",
+        "cityId": 8583639,
         "name": "Tecom\u00e1n",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 18.89473,
         "longitude": -103.87345
     },
     {
-        "cityId": "8583640",
+        "cityId": 8583640,
         "name": "Villa de \u00c1lvarez",
-        "stateId": "4013513",
+        "stateId": 4013513,
         "latitude": 19.3097,
         "longitude": -103.84436
     }

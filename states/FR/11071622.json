@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "2967681",
+        "cityId": 2967681,
         "name": "Vosges",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.19161,
         "longitude": 6.40533
     },
     {
-        "cityId": "2991627",
+        "cityId": 2991627,
         "name": "Moselle",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 49.04177,
         "longitude": 6.58355
     },
     {
-        "cityId": "2994106",
+        "cityId": 2994106,
         "name": "Meuse",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.97176,
         "longitude": 5.36371
     },
     {
-        "cityId": "2994111",
+        "cityId": 2994111,
         "name": "Meurthe-et-Moselle",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.65082,
         "longitude": 6.1566
     },
     {
-        "cityId": "2995603",
+        "cityId": 2995603,
         "name": "Marne",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.99116,
         "longitude": 4.25966
     },
     {
-        "cityId": "3013663",
+        "cityId": 3013663,
         "name": "Haut-Rhin",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 47.87603,
         "longitude": 7.2719
     },
     {
-        "cityId": "3013757",
+        "cityId": 3013757,
         "name": "Haute-Marne",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.12019,
         "longitude": 5.24038
     },
     {
-        "cityId": "3034720",
+        "cityId": 3034720,
         "name": "Bas-Rhin",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.65693,
         "longitude": 7.56346
     },
     {
-        "cityId": "3036420",
+        "cityId": 3036420,
         "name": "D\u00e9partement de l'Aube",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 48.25,
         "longitude": 4.08333
     },
     {
-        "cityId": "3037136",
+        "cityId": 3037136,
         "name": "Ardennes",
-        "stateId": "11071622",
+        "stateId": 11071622,
         "latitude": 49.63202,
         "longitude": 4.65369
     }

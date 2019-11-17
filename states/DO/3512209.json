@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3495021",
+        "cityId": 3495021,
         "name": "Peralta",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.61667,
         "longitude": -70.8
     },
     {
-        "cityId": "3495665",
+        "cityId": 3495665,
         "name": "Padre Las Casas",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.75,
         "longitude": -70.88333
     },
     {
-        "cityId": "3512211",
+        "cityId": 3512211,
         "name": "Azua",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.5,
         "longitude": -70.75
     },
     {
-        "cityId": "11154532",
+        "cityId": 11154532,
         "name": "T\u00e1bara Arriba",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.49603,
         "longitude": -70.91511
     },
     {
-        "cityId": "11154533",
+        "cityId": 11154533,
         "name": "Guayabal",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.71744,
         "longitude": -70.76501
     },
     {
-        "cityId": "11154534",
+        "cityId": 11154534,
         "name": "Esteban\u00eda",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.53466,
         "longitude": -70.64853
     },
     {
-        "cityId": "11154548",
+        "cityId": 11154548,
         "name": "Las Charcas",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.39181,
         "longitude": -70.54609
     },
     {
-        "cityId": "11154549",
+        "cityId": 11154549,
         "name": "Las Yayas De Viajama",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.604,
         "longitude": -70.99966
     },
     {
-        "cityId": "11154550",
+        "cityId": 11154550,
         "name": "Sabana Yegua",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.41379,
         "longitude": -70.8881
     },
     {
-        "cityId": "11154551",
+        "cityId": 11154551,
         "name": "Pueblo Viejo",
-        "stateId": "3512209",
+        "stateId": 3512209,
         "latitude": 18.39314,
         "longitude": -70.78028
     }

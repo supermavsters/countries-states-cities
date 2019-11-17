@@ -1,379 +1,379 @@
 [
     {
-        "cityId": "462622",
+        "cityId": 462622,
         "name": "Zilairskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52.5,
         "longitude": 57.25
     },
     {
-        "cityId": "462646",
+        "cityId": 462646,
         "name": "Zianchurinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52,
         "longitude": 57
     },
     {
-        "cityId": "467259",
+        "cityId": 467259,
         "name": "Yermekeyevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54,
         "longitude": 53.66667
     },
     {
-        "cityId": "469176",
+        "cityId": 469176,
         "name": "Yanaul\u2019skiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 56.25,
         "longitude": 54.91667
     },
     {
-        "cityId": "479551",
+        "cityId": 479551,
         "name": "Ufimskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.75,
         "longitude": 55.66667
     },
     {
-        "cityId": "479706",
+        "cityId": 479706,
         "name": "Uchalinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.25,
         "longitude": 59.25
     },
     {
-        "cityId": "480090",
+        "cityId": 480090,
         "name": "Tuymazinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.5,
         "longitude": 54
     },
     {
-        "cityId": "484004",
+        "cityId": 484004,
         "name": "Tatyshlinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 56.25,
         "longitude": 55.75
     },
     {
-        "cityId": "487493",
+        "cityId": 487493,
         "name": "Sterlitamakskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.66667,
         "longitude": 55.75
     },
     {
-        "cityId": "487497",
+        "cityId": 487497,
         "name": "Sterlibashevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.41667,
         "longitude": 55.25
     },
     {
-        "cityId": "495761",
+        "cityId": 495761,
         "name": "Sharanskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.91667,
         "longitude": 54
     },
     {
-        "cityId": "499290",
+        "cityId": 499290,
         "name": "Salavatskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.25,
         "longitude": 58.16667
     },
     {
-        "cityId": "516722",
+        "cityId": 516722,
         "name": "Nurimanovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.75,
         "longitude": 56.66667
     },
     {
-        "cityId": "526009",
+        "cityId": 526009,
         "name": "Miyakinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.58333,
         "longitude": 54.83333
     },
     {
-        "cityId": "526238",
+        "cityId": 526238,
         "name": "Mishkinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.58333,
         "longitude": 56
     },
     {
-        "cityId": "527714",
+        "cityId": 527714,
         "name": "Meleuzovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.08333,
         "longitude": 56
     },
     {
-        "cityId": "528130",
+        "cityId": 528130,
         "name": "Mechetlinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.91667,
         "longitude": 58.25
     },
     {
-        "cityId": "538367",
+        "cityId": 538367,
         "name": "Kushnarenkovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55,
         "longitude": 55.25
     },
     {
-        "cityId": "539282",
+        "cityId": 539282,
         "name": "Kumertau Urban Okrug",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52.75,
         "longitude": 55.75
     },
     {
-        "cityId": "539796",
+        "cityId": 539796,
         "name": "Kugarchinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52.58333,
         "longitude": 56.66667
     },
     {
-        "cityId": "542325",
+        "cityId": 542325,
         "name": "Krasnokamskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 56.08333,
         "longitude": 54.26667
     },
     {
-        "cityId": "548766",
+        "cityId": 548766,
         "name": "Kiginskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.41667,
         "longitude": 58.75
     },
     {
-        "cityId": "550406",
+        "cityId": 550406,
         "name": "Khaybullinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52,
         "longitude": 58.25
     },
     {
-        "cityId": "552314",
+        "cityId": 552314,
         "name": "Karmaskalinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.33333,
         "longitude": 56
     },
     {
-        "cityId": "552859",
+        "cityId": 552859,
         "name": "Karaidel\u2019skiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.75,
         "longitude": 57
     },
     {
-        "cityId": "553930",
+        "cityId": 553930,
         "name": "Kaltasinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.91667,
         "longitude": 54.75
     },
     {
-        "cityId": "555977",
+        "cityId": 555977,
         "name": "Ishimbayskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.5,
         "longitude": 56
     },
     {
-        "cityId": "557055",
+        "cityId": 557055,
         "name": "Ilishevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.5,
         "longitude": 54.25
     },
     {
-        "cityId": "557562",
+        "cityId": 557562,
         "name": "Iglinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.25,
         "longitude": 57
     },
     {
-        "cityId": "562241",
+        "cityId": 562241,
         "name": "Gafuriyskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54,
         "longitude": 56.75
     },
     {
-        "cityId": "563084",
+        "cityId": 563084,
         "name": "F\u00ebdorovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.08333,
         "longitude": 55.25
     },
     {
-        "cityId": "563718",
+        "cityId": 563718,
         "name": "Dyurtyulinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.5,
         "longitude": 55
     },
     {
-        "cityId": "564013",
+        "cityId": 564013,
         "name": "Duvanskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.66667,
         "longitude": 57.83333
     },
     {
-        "cityId": "567004",
+        "cityId": 567004,
         "name": "Davlekanovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.25,
         "longitude": 55
     },
     {
-        "cityId": "568013",
+        "cityId": 568013,
         "name": "Chishminskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.5,
         "longitude": 55.41667
     },
     {
-        "cityId": "569578",
+        "cityId": 569578,
         "name": "Chekmagushevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.08333,
         "longitude": 54.75
     },
     {
-        "cityId": "570454",
+        "cityId": 570454,
         "name": "Buzdyakskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.58333,
         "longitude": 54.5
     },
     {
-        "cityId": "570659",
+        "cityId": 570659,
         "name": "Burzyanskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.16667,
         "longitude": 57.5
     },
     {
-        "cityId": "570867",
+        "cityId": 570867,
         "name": "Burayevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.83333,
         "longitude": 55.33333
     },
     {
-        "cityId": "576106",
+        "cityId": 576106,
         "name": "Blagoveshchenskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.08333,
         "longitude": 56.08333
     },
     {
-        "cityId": "576124",
+        "cityId": 576124,
         "name": "Blagovarskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.66667,
         "longitude": 55
     },
     {
-        "cityId": "576194",
+        "cityId": 576194,
         "name": "Bizhbulyakskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.75,
         "longitude": 54.25
     },
     {
-        "cityId": "576316",
+        "cityId": 576316,
         "name": "Birskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.33333,
         "longitude": 55.5
     },
     {
-        "cityId": "577878",
+        "cityId": 577878,
         "name": "Beloretskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54,
         "longitude": 58
     },
     {
-        "cityId": "577943",
+        "cityId": 577943,
         "name": "Belokatayskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.75,
         "longitude": 59
     },
     {
-        "cityId": "578118",
+        "cityId": 578118,
         "name": "Belebeyevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.16667,
         "longitude": 54.25
     },
     {
-        "cityId": "578531",
+        "cityId": 578531,
         "name": "Baymakskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 52.66667,
         "longitude": 58.25
     },
     {
-        "cityId": "579731",
+        "cityId": 579731,
         "name": "Bakalinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.16667,
         "longitude": 53.75
     },
     {
-        "cityId": "580354",
+        "cityId": 580354,
         "name": "Aurgazinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54,
         "longitude": 55.91667
     },
     {
-        "cityId": "580576",
+        "cityId": 580576,
         "name": "Askinskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 56.08333,
         "longitude": 56.58333
     },
     {
-        "cityId": "581029",
+        "cityId": 581029,
         "name": "Arkhangel\u2019skiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54.5,
         "longitude": 56.83333
     },
     {
-        "cityId": "582383",
+        "cityId": 582383,
         "name": "Al\u2019sheyevskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 54,
         "longitude": 55
     },
     {
-        "cityId": "584324",
+        "cityId": 584324,
         "name": "Abzelilovskiy Rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 53.41667,
         "longitude": 58.5
     },
     {
-        "cityId": "11205174",
+        "cityId": 11205174,
         "name": "Baltachevskiy rayon",
-        "stateId": "578853",
+        "stateId": 578853,
         "latitude": 55.98916,
         "longitude": 55.94582
     }

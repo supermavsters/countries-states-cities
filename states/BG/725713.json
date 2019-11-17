@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "725711",
+        "cityId": 725711,
         "name": "Obshtina Vratsa",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.28333,
         "longitude": 23.6
     },
     {
-        "cityId": "727597",
+        "cityId": 727597,
         "name": "Obshtina Roman",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.15,
         "longitude": 23.91667
     },
     {
-        "cityId": "728564",
+        "cityId": 728564,
         "name": "Obshtina Oryahovo",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.69038,
         "longitude": 23.98643
     },
     {
-        "cityId": "729039",
+        "cityId": 729039,
         "name": "Obshtina Mizia",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.63333,
         "longitude": 23.85
     },
     {
-        "cityId": "729133",
+        "cityId": 729133,
         "name": "Obshtina Mezdra",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.13333,
         "longitude": 23.73333
     },
     {
-        "cityId": "729907",
+        "cityId": 729907,
         "name": "Obshtina Krivodol",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.38333,
         "longitude": 23.48333
     },
     {
-        "cityId": "730012",
+        "cityId": 730012,
         "name": "Obshtina Kozloduy",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.71667,
         "longitude": 23.73333
     },
     {
-        "cityId": "732703",
+        "cityId": 732703,
         "name": "Obshtina Byala Slatina",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.46667,
         "longitude": 23.93333
     },
     {
-        "cityId": "733057",
+        "cityId": 733057,
         "name": "Obshtina Borovan",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.43333,
         "longitude": 23.75
     },
     {
-        "cityId": "864566",
+        "cityId": 864566,
         "name": "Obshtina Hayredin",
-        "stateId": "725713",
+        "stateId": 725713,
         "latitude": 43.58333,
         "longitude": 23.66667
     }

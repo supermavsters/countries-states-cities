@@ -1,57 +1,57 @@
 [
     {
-        "stateId": "8335085",
+        "stateId": 8335085,
         "name": "Boke Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 11.2625,
         "longitude": -14.32992
     },
     {
-        "stateId": "2422464",
+        "stateId": 2422464,
         "name": "Conakry Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 9.60703,
         "longitude": -13.597
     },
     {
-        "stateId": "8335086",
+        "stateId": 8335086,
         "name": "Faranah Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 10.3375,
         "longitude": -10.69583
     },
     {
-        "stateId": "8335087",
+        "stateId": 8335087,
         "name": "Kankan Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 10.4,
         "longitude": -9.25
     },
     {
-        "stateId": "8335088",
+        "stateId": 8335088,
         "name": "Kindia Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 10.08667,
         "longitude": -13.21333
     },
     {
-        "stateId": "8335089",
+        "stateId": 8335089,
         "name": "Lab\u00e9 Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 11.61,
         "longitude": -12.08667
     },
     {
-        "stateId": "8335090",
+        "stateId": 8335090,
         "name": "Mamou Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 10.69444,
         "longitude": -12.29444
     },
     {
-        "stateId": "8335091",
+        "stateId": 8335091,
         "name": "Nzerekore Region",
-        "countryId": "2420477",
+        "countryId": 2420477,
         "latitude": 8.20833,
         "longitude": -9.06944
     }

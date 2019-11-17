@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "9172271",
+        "cityId": 9172271,
         "name": "Puerto Colombia",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 2.43903,
         "longitude": -68.16419
     },
     {
-        "cityId": "9172378",
+        "cityId": 9172378,
         "name": "Barranco Minas",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 3.09899,
         "longitude": -69.58297
     },
     {
-        "cityId": "9172380",
+        "cityId": 9172380,
         "name": "Cacahual",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 3.32533,
         "longitude": -67.62397
     },
     {
-        "cityId": "9172381",
+        "cityId": 9172381,
         "name": "In\u00edrida",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 2.92409,
         "longitude": -68.93526
     },
     {
-        "cityId": "9172382",
+        "cityId": 9172382,
         "name": "Pana Pana",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 1.96249,
         "longitude": -69.126
     },
     {
-        "cityId": "9178698",
+        "cityId": 9178698,
         "name": "La Guadalupe",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 1.39579,
         "longitude": -67.0015
     },
     {
-        "cityId": "9609521",
+        "cityId": 9609521,
         "name": "Mapiripana",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 2.81003,
         "longitude": -70.28568
     },
     {
-        "cityId": "9609522",
+        "cityId": 9609522,
         "name": "San Felipe",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 2.14321,
         "longitude": -67.34122
     },
     {
-        "cityId": "9609523",
+        "cityId": 9609523,
         "name": "Morichal",
-        "stateId": "3681652",
+        "stateId": 3681652,
         "latitude": 2.4298,
         "longitude": -69.83284
     }

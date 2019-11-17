@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "8631540",
+        "cityId": 8631540,
         "name": "Ti-n-Essako",
-        "stateId": "2597449",
+        "stateId": 2597449,
         "latitude": 18.45834,
         "longitude": 3.10519
     },
     {
-        "cityId": "8631541",
+        "cityId": 8631541,
         "name": "Cercle d\u2019Abe\u00efbara",
-        "stateId": "2597449",
+        "stateId": 2597449,
         "latitude": 19.48878,
         "longitude": 2.20025
     },
     {
-        "cityId": "8631542",
+        "cityId": 8631542,
         "name": "Cercle de Tessalit",
-        "stateId": "2597449",
+        "stateId": 2597449,
         "latitude": 20.09648,
         "longitude": 0.0667
     }

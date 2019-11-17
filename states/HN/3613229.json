@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "3600387",
+        "cityId": 3600387,
         "name": "Veracruz",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.9,
         "longitude": -88.78333
     },
     {
-        "cityId": "3600606",
+        "cityId": 3600606,
         "name": "Trinidad de Cop\u00e1n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.95,
         "longitude": -88.75
     },
     {
-        "cityId": "3601495",
+        "cityId": 3601495,
         "name": "Santa Rosa de Cop\u00e1n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.76667,
         "longitude": -88.78333
     },
     {
-        "cityId": "3601531",
+        "cityId": 3601531,
         "name": "Santa Rita",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.88,
         "longitude": -89.01
     },
     {
-        "cityId": "3601815",
+        "cityId": 3601815,
         "name": "San Pedro de Cop\u00e1n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.61667,
         "longitude": -88.8
     },
     {
-        "cityId": "3601846",
+        "cityId": 3601846,
         "name": "San Nicol\u00e1s",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.98,
         "longitude": -88.73
     },
     {
-        "cityId": "3601994",
+        "cityId": 3601994,
         "name": "San Juan de Opoa",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.78333,
         "longitude": -88.68333
     },
     {
-        "cityId": "3602093",
+        "cityId": 3602093,
         "name": "San Jos\u00e9 de Cop\u00e1n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.9,
         "longitude": -88.71667
     },
     {
-        "cityId": "3602207",
+        "cityId": 3602207,
         "name": "San Jer\u00f3nimo",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.96667,
         "longitude": -88.86667
     },
     {
-        "cityId": "3602522",
+        "cityId": 3602522,
         "name": "San Antonio",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 15.04,
         "longitude": -88.88
     },
     {
-        "cityId": "3602550",
+        "cityId": 3602550,
         "name": "San Agust\u00edn",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.81667,
         "longitude": -88.93333
     },
     {
-        "cityId": "3604400",
+        "cityId": 3604400,
         "name": "Nueva Arcadia",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 15.08,
         "longitude": -88.69
     },
     {
-        "cityId": "3606179",
+        "cityId": 3606179,
         "name": "La Uni\u00f3n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.66667,
         "longitude": -88.91667
     },
     {
-        "cityId": "3607680",
+        "cityId": 3607680,
         "name": "La Jigua",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 15.1,
         "longitude": -88.76
     },
     {
-        "cityId": "3609683",
+        "cityId": 3609683,
         "name": "Florida",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 15.17,
         "longitude": -88.81
     },
     {
-        "cityId": "3610966",
+        "cityId": 3610966,
         "name": "El Para\u00edso",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 15,
         "longitude": -89
     },
     {
-        "cityId": "3612816",
+        "cityId": 3612816,
         "name": "Dulce Nombre",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.85,
         "longitude": -88.81667
     },
     {
-        "cityId": "3612844",
+        "cityId": 3612844,
         "name": "Dolores",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.88333,
         "longitude": -88.81667
     },
     {
-        "cityId": "3613016",
+        "cityId": 3613016,
         "name": "Cucuyagua",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.65,
         "longitude": -88.83333
     },
     {
-        "cityId": "3613172",
+        "cityId": 3613172,
         "name": "Corqu\u00edn",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.55,
         "longitude": -88.84
     },
     {
-        "cityId": "3613227",
+        "cityId": 3613227,
         "name": "Cop\u00e1n Ruinas",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.92,
         "longitude": -89.15
     },
     {
-        "cityId": "3613299",
+        "cityId": 3613299,
         "name": "Concepci\u00f3n",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.83333,
         "longitude": -88.83333
     },
     {
-        "cityId": "3614539",
+        "cityId": 3614539,
         "name": "Caba\u00f1as",
-        "stateId": "3613229",
+        "stateId": 3613229,
         "latitude": 14.76,
         "longitude": -89.06
     }

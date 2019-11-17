@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3345516",
+        "cityId": 3345516,
         "name": "Virei",
-        "stateId": "3347016",
+        "stateId": 3347016,
         "latitude": -15.76522,
         "longitude": 12.94394
     },
     {
-        "cityId": "3345788",
+        "cityId": 3345788,
         "name": "T\u00f4mbwa",
-        "stateId": "3347016",
+        "stateId": 3347016,
         "latitude": -16.5184,
         "longitude": 12.16496
     },
     {
-        "cityId": "3347017",
+        "cityId": 3347017,
         "name": "Namibe",
-        "stateId": "3347016",
+        "stateId": 3347016,
         "latitude": -14.61265,
         "longitude": 12.46301
     },
     {
-        "cityId": "3351015",
+        "cityId": 3351015,
         "name": "Camucuio",
-        "stateId": "3347016",
+        "stateId": 3347016,
         "latitude": -13.95619,
         "longitude": 13.02187
     },
     {
-        "cityId": "3351646",
+        "cityId": 3351646,
         "name": "Bibala",
-        "stateId": "3347016",
+        "stateId": 3347016,
         "latitude": -14.7025,
         "longitude": 13.13998
     }

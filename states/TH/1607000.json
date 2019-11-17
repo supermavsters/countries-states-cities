@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "1605472",
+        "cityId": 1605472,
         "name": "Amphoe Thawatchaburi",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.02783,
         "longitude": 103.77833
     },
     {
-        "cityId": "1606016",
+        "cityId": 1606016,
         "name": "Amphoe Suwannaphum",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.60529,
         "longitude": 103.8063
     },
     {
-        "cityId": "1606339",
+        "cityId": 1606339,
         "name": "Amphoe Selaphum",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.047,
         "longitude": 104.00031
     },
     {
-        "cityId": "1607291",
+        "cityId": 1607291,
         "name": "Amphoe Pathum Rat",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.62371,
         "longitude": 103.38733
     },
     {
-        "cityId": "1607599",
+        "cityId": 1607599,
         "name": "Amphoe Phon Thong",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.29007,
         "longitude": 103.96388
     },
     {
-        "cityId": "1607803",
+        "cityId": 1607803,
         "name": "Amphoe Phanom Phrai",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.693,
         "longitude": 104.0755
     },
     {
-        "cityId": "1608187",
+        "cityId": 1608187,
         "name": "Amphoe Nong Phok",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.30357,
         "longitude": 104.22144
     },
     {
-        "cityId": "1608627",
+        "cityId": 1608627,
         "name": "Amphoe Mueang Roi Et",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.01497,
         "longitude": 103.61584
     },
     {
-        "cityId": "1610184",
+        "cityId": 1610184,
         "name": "Amphoe Kaset Wisai",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.60285,
         "longitude": 103.56652
     },
     {
-        "cityId": "1611232",
+        "cityId": 1611232,
         "name": "Amphoe Chaturaphak Phiman",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.8267,
         "longitude": 103.54934
     },
     {
-        "cityId": "1621007",
+        "cityId": 1621007,
         "name": "Amphoe At Samat",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.84014,
         "longitude": 103.86619
     },
     {
-        "cityId": "7510785",
+        "cityId": 7510785,
         "name": "Amphoe Si Somdet",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.01947,
         "longitude": 103.51427
     },
     {
-        "cityId": "7510806",
+        "cityId": 7510806,
         "name": "Amphoe Phon Sai",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.49244,
         "longitude": 103.94139
     },
     {
-        "cityId": "7510809",
+        "cityId": 7510809,
         "name": "Amphoe Thung Khao Luang",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.98966,
         "longitude": 103.87086
     },
     {
-        "cityId": "7510810",
+        "cityId": 7510810,
         "name": "Amphoe Nong Hi",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.57983,
         "longitude": 104.01134
     },
     {
-        "cityId": "7510811",
+        "cityId": 7510811,
         "name": "Amphoe Pho Chai",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.30969,
         "longitude": 103.79004
     },
     {
-        "cityId": "7510812",
+        "cityId": 7510812,
         "name": "Amphoe Chiang Khwan",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.14887,
         "longitude": 103.74924
     },
     {
-        "cityId": "7510813",
+        "cityId": 7510813,
         "name": "Amphoe Changhan",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.16213,
         "longitude": 103.61605
     },
     {
-        "cityId": "7510837",
+        "cityId": 7510837,
         "name": "Amphoe Moeiwadi",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 16.37155,
         "longitude": 104.11137
     },
     {
-        "cityId": "8534569",
+        "cityId": 8534569,
         "name": "Amphoe Mueang Suang",
-        "stateId": "1607000",
+        "stateId": 1607000,
         "latitude": 15.78619,
         "longitude": 103.75071
     }

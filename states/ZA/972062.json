@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "8299474",
+        "cityId": 8299474,
         "name": "eThekwini Metropolitan Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -29.8667,
         "longitude": 31.0167
     },
     {
-        "cityId": "8347345",
+        "cityId": 8347345,
         "name": "Amajuba District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -27.73558,
         "longitude": 30.13537
     },
     {
-        "cityId": "8347363",
+        "cityId": 8347363,
         "name": "Ugu District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -30.54365,
         "longitude": 30.2748
     },
     {
-        "cityId": "8347364",
+        "cityId": 8347364,
         "name": "uMgungundlovu District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -29.50927,
         "longitude": 30.19838
     },
     {
-        "cityId": "8347365",
+        "cityId": 8347365,
         "name": "uThukela District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -28.7192,
         "longitude": 29.65799
     },
     {
-        "cityId": "8347366",
+        "cityId": 8347366,
         "name": "uMzinyathi District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -28.5857,
         "longitude": 30.55883
     },
     {
-        "cityId": "8347367",
+        "cityId": 8347367,
         "name": "Zululand District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -27.81139,
         "longitude": 31.29426
     },
     {
-        "cityId": "8347368",
+        "cityId": 8347368,
         "name": "uThungulu District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -28.70046,
         "longitude": 31.51527
     },
     {
-        "cityId": "8347369",
+        "cityId": 8347369,
         "name": "iLembe District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -29.27326,
         "longitude": 31.14253
     },
     {
-        "cityId": "8347378",
+        "cityId": 8347378,
         "name": "Sisonke District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -30.11082,
         "longitude": 29.66009
     },
     {
-        "cityId": "8347388",
+        "cityId": 8347388,
         "name": "uMkhanyakude District Municipality",
-        "stateId": "972062",
+        "stateId": 972062,
         "latitude": -27.62236,
         "longitude": 32.32945
     }

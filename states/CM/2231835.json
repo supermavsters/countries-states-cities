@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2229250",
+        "cityId": 2229250,
         "name": "D\u00e9partement du Lom-et-Kade\u00ef",
-        "stateId": "2231835",
+        "stateId": 2231835,
         "latitude": 5,
         "longitude": 14
     },
     {
-        "cityId": "2229251",
+        "cityId": 2229251,
         "name": "D\u00e9partement du Lom-et-Dj\u00e9rem",
-        "stateId": "2231835",
+        "stateId": 2231835,
         "latitude": 5.16667,
         "longitude": 13.83333
     },
     {
-        "cityId": "2230606",
+        "cityId": 2230606,
         "name": "D\u00e9partement de la Kade\u00ef",
-        "stateId": "2231835",
+        "stateId": 2231835,
         "latitude": 4.24,
         "longitude": 14.42
     },
     {
-        "cityId": "2230815",
+        "cityId": 2230815,
         "name": "Departement du Haut-Nyong",
-        "stateId": "2231835",
+        "stateId": 2231835,
         "latitude": 3.5,
         "longitude": 13.75
     },
     {
-        "cityId": "2233500",
+        "cityId": 2233500,
         "name": "D\u00e9partement de la Boumba-Ngoko",
-        "stateId": "2231835",
+        "stateId": 2231835,
         "latitude": 3,
         "longitude": 15
     }

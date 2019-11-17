@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1488271",
+        "cityId": 1488271,
         "name": "Ust\u2019-Abakanskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.83333,
         "longitude": 90.25
     },
     {
-        "cityId": "1490033",
+        "cityId": 1490033,
         "name": "Tashtypskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 52.25,
         "longitude": 89.5
     },
     {
-        "cityId": "1492146",
+        "cityId": 1492146,
         "name": "Shirinskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 54.5,
         "longitude": 89.75
     },
     {
-        "cityId": "1496096",
+        "cityId": 1496096,
         "name": "Ordzhonikidzevskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 55,
         "longitude": 89.16667
     },
     {
-        "cityId": "1509846",
+        "cityId": 1509846,
         "name": "Bogradskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 54.33333,
         "longitude": 91
     },
     {
-        "cityId": "1510122",
+        "cityId": 1510122,
         "name": "Beyskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53,
         "longitude": 91
     },
     {
-        "cityId": "1511300",
+        "cityId": 1511300,
         "name": "Askizskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.25,
         "longitude": 89.75
     },
     {
-        "cityId": "1511730",
+        "cityId": 1511730,
         "name": "Altayskiy Rayon",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.5,
         "longitude": 91.5
     },
     {
-        "cityId": "1536883",
+        "cityId": 1536883,
         "name": "Chernogorsk Gorod",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.82167,
         "longitude": 91.27028
     },
     {
-        "cityId": "1536884",
+        "cityId": 1536884,
         "name": "Abakan Gorod",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.71667,
         "longitude": 91.43333
     },
     {
-        "cityId": "1536885",
+        "cityId": 1536885,
         "name": "Sayanogorsk Gorod",
-        "stateId": "1503834",
+        "stateId": 1503834,
         "latitude": 53.08389,
         "longitude": 91.41333
     }

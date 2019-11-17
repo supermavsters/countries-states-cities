@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1252864",
+        "cityId": 1252864,
         "name": "West Tripura",
-        "stateId": "1254169",
+        "stateId": 1254169,
         "latitude": 23.91667,
         "longitude": 91.5
     },
     {
-        "cityId": "1255671",
+        "cityId": 1255671,
         "name": "South Tripura",
-        "stateId": "1254169",
+        "stateId": 1254169,
         "latitude": 23.5,
         "longitude": 91.66667
     },
     {
-        "cityId": "1261174",
+        "cityId": 1261174,
         "name": "North Tripura",
-        "stateId": "1254169",
+        "stateId": 1254169,
         "latitude": 24.1305,
         "longitude": 92.15552
     },
     {
-        "cityId": "9747971",
+        "cityId": 9747971,
         "name": "Dhalai",
-        "stateId": "1254169",
+        "stateId": 1254169,
         "latitude": 23.84307,
         "longitude": 91.92591
     }

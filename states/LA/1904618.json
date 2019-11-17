@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1653304",
+        "cityId": 1653304,
         "name": "Muang Hatxayfong",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 17.91965,
         "longitude": 102.74388
     },
     {
-        "cityId": "1904831",
+        "cityId": 1904831,
         "name": "Muang Chanthabouli",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.00659,
         "longitude": 102.61098
     },
     {
-        "cityId": "1904832",
+        "cityId": 1904832,
         "name": "Muang Sisattanak",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 17.94057,
         "longitude": 102.63817
     },
     {
-        "cityId": "1904833",
+        "cityId": 1904833,
         "name": "Muang Xais\u00e9ttha",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 17.97575,
         "longitude": 102.70793
     },
     {
-        "cityId": "1904834",
+        "cityId": 1904834,
         "name": "Muang Sikh\u00f4ttabong",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.00699,
         "longitude": 102.48453
     },
     {
-        "cityId": "1904836",
+        "cityId": 1904836,
         "name": "Muang Xaithani",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.14132,
         "longitude": 102.72375
     },
     {
-        "cityId": "1904837",
+        "cityId": 1904837,
         "name": "Muang Naxaythong",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.17465,
         "longitude": 102.44396
     },
     {
-        "cityId": "1904838",
+        "cityId": 1904838,
         "name": "Muang Sangthong",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.26282,
         "longitude": 102.18523
     },
     {
-        "cityId": "1904839",
+        "cityId": 1904839,
         "name": "Muang Maypakngum",
-        "stateId": "1904618",
+        "stateId": 1904618,
         "latitude": 18.13972,
         "longitude": 102.93773
     }

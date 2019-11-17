@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "7530749",
+        "cityId": 7530749,
         "name": "\u015awinouj\u015bcie",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.8502,
         "longitude": 14.31313
     },
     {
-        "cityId": "7530754",
+        "cityId": 7530754,
         "name": "Powiat koszali\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 54.1097,
         "longitude": 16.30231
     },
     {
-        "cityId": "7530755",
+        "cityId": 7530755,
         "name": "Powiat s\u0142awie\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 54.3791,
         "longitude": 16.53986
     },
     {
-        "cityId": "7530756",
+        "cityId": 7530756,
         "name": "Powiat szczecinecki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.73766,
         "longitude": 16.58957
     },
     {
-        "cityId": "7530793",
+        "cityId": 7530793,
         "name": "Powiat stargardzki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.3152,
         "longitude": 15.22684
     },
     {
-        "cityId": "7530794",
+        "cityId": 7530794,
         "name": "Powiat goleniowski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.61035,
         "longitude": 14.85421
     },
     {
-        "cityId": "7530795",
+        "cityId": 7530795,
         "name": "Powiat gryficki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.94293,
         "longitude": 15.19082
     },
     {
-        "cityId": "7530840",
+        "cityId": 7530840,
         "name": "Szczecin",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.4297,
         "longitude": 14.62422
     },
     {
-        "cityId": "7530842",
+        "cityId": 7530842,
         "name": "Powiat kamie\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.91096,
         "longitude": 14.7442
     },
     {
-        "cityId": "7530843",
+        "cityId": 7530843,
         "name": "Powiat ko\u0142obrzeski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 54.05013,
         "longitude": 15.61394
     },
     {
-        "cityId": "7530844",
+        "cityId": 7530844,
         "name": "Powiat policki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.53114,
         "longitude": 14.45104
     },
     {
-        "cityId": "7530845",
+        "cityId": 7530845,
         "name": "Powiat pyrzycki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.12558,
         "longitude": 14.94045
     },
     {
-        "cityId": "7530861",
+        "cityId": 7530861,
         "name": "Powiat drawski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.44743,
         "longitude": 16.02132
     },
     {
-        "cityId": "7530959",
+        "cityId": 7530959,
         "name": "Powiat choszcze\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.14277,
         "longitude": 15.62112
     },
     {
-        "cityId": "7530960",
+        "cityId": 7530960,
         "name": "Powiat wa\u0142ecki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.23633,
         "longitude": 16.33851
     },
     {
-        "cityId": "7530972",
+        "cityId": 7530972,
         "name": "Powiat bia\u0142ogardzki",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.97686,
         "longitude": 16.08855
     },
     {
-        "cityId": "7530983",
+        "cityId": 7530983,
         "name": "Koszalin",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 54.20719,
         "longitude": 16.21661
     },
     {
-        "cityId": "7530989",
+        "cityId": 7530989,
         "name": "Powiat gryfi\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.02298,
         "longitude": 14.49912
     },
     {
-        "cityId": "7531005",
+        "cityId": 7531005,
         "name": "Powiat my\u015bliborski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 52.85474,
         "longitude": 14.88454
     },
     {
-        "cityId": "7531011",
+        "cityId": 7531011,
         "name": "Powiat \u015bwidwi\u0144ski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.80758,
         "longitude": 15.89859
     },
     {
-        "cityId": "7531059",
+        "cityId": 7531059,
         "name": "Powiat \u0142obeski",
-        "stateId": "3337499",
+        "stateId": 3337499,
         "latitude": 53.67294,
         "longitude": 15.47237
     }

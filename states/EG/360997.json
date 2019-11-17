@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "355547",
+        "cityId": 355547,
         "name": "Markaz Imb\u0101bah",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 30.18014,
         "longitude": 31.02557
     },
     {
-        "cityId": "360479",
+        "cityId": 360479,
         "name": "Markaz al W\u0101\u1e29\u0101t al Ba\u1e29r\u012byah",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 28.40618,
         "longitude": 28.80703
     },
     {
-        "cityId": "360996",
+        "cityId": 360996,
         "name": "Markaz al J\u012bzah",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 29.93912,
         "longitude": 31.21141
     },
     {
-        "cityId": "361474",
+        "cityId": 361474,
         "name": "Markaz al Badrashayn",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 29.8214,
         "longitude": 31.25789
     },
     {
-        "cityId": "361497",
+        "cityId": 361497,
         "name": "Markaz al \u2018Ayy\u0101\u0163",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 29.55731,
         "longitude": 31.24369
     },
     {
-        "cityId": "8146219",
+        "cityId": 8146219,
         "name": "Markaz Aws\u012bm",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": 30.12723,
         "longitude": 31.14303
     },
     {
-        "cityId": "9179486",
+        "cityId": 9179486,
         "name": "Walikale",
-        "stateId": "360997",
+        "stateId": 360997,
         "latitude": -1.41667,
         "longitude": 28.03333
     }

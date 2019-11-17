@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3587585",
+        "cityId": 3587585,
         "name": "Municipio de Zacapa",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.96667,
         "longitude": -89.53333
     },
     {
-        "cityId": "3588039",
+        "cityId": 3588039,
         "name": "Municipio de Usumatl\u00e1n",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.95,
         "longitude": -89.78333
     },
     {
-        "cityId": "3588468",
+        "cityId": 3588468,
         "name": "Municipio de Teculut\u00e1n",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.98333,
         "longitude": -89.71667
     },
     {
-        "cityId": "3590305",
+        "cityId": 3590305,
         "name": "Municipio de San Diego",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.78333,
         "longitude": -89.78333
     },
     {
-        "cityId": "3590786",
+        "cityId": 3590786,
         "name": "Municipio de R\u00edo Hondo",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 15.06667,
         "longitude": -89.58333
     },
     {
-        "cityId": "3593488",
+        "cityId": 3593488,
         "name": "Municipio de La Uni\u00f3n",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.96667,
         "longitude": -89.28333
     },
     {
-        "cityId": "3595402",
+        "cityId": 3595402,
         "name": "Municipio de Huit\u00e9",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.93333,
         "longitude": -89.71667
     },
     {
-        "cityId": "3595559",
+        "cityId": 3595559,
         "name": "Municipio de Gual\u00e1n",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 15.13,
         "longitude": -89.37
     },
     {
-        "cityId": "3595755",
+        "cityId": 3595755,
         "name": "Municipio de Estanzuela",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 15,
         "longitude": -89.56667
     },
     {
-        "cityId": "3599294",
+        "cityId": 3599294,
         "name": "Municipio de Caba\u00f1as",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.93333,
         "longitude": -89.8
     },
     {
-        "cityId": "9975228",
+        "cityId": 9975228,
         "name": "Municipio de San Jorge",
-        "stateId": "3587586",
+        "stateId": 3587586,
         "latitude": 14.9253,
         "longitude": -89.5899
     }

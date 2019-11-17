@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "3667580",
+        "cityId": 3667580,
         "name": "Tad\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.33333,
         "longitude": -76.41667
     },
     {
-        "cityId": "3667869",
+        "cityId": 3667869,
         "name": "Bah\u00eda Solano",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 6.2252,
         "longitude": -77.39147
     },
     {
-        "cityId": "3667960",
+        "cityId": 3667960,
         "name": "Sip\u00ed",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.58333,
         "longitude": -76.5
     },
     {
-        "cityId": "3669550",
+        "cityId": 3669550,
         "name": "San Jos\u00e9 del Palmar",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.91667,
         "longitude": -76.25
     },
     {
-        "cityId": "3670720",
+        "cityId": 3670720,
         "name": "Riosucio",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 7.41667,
         "longitude": -77.16667
     },
     {
-        "cityId": "3671117",
+        "cityId": 3671117,
         "name": "Quibd\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.83333,
         "longitude": -76.66667
     },
     {
-        "cityId": "3673691",
+        "cityId": 3673691,
         "name": "Nuqu\u00ed",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.67014,
         "longitude": -77.28753
     },
     {
-        "cityId": "3673784",
+        "cityId": 3673784,
         "name": "N\u00f3vita",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.91667,
         "longitude": -76.58333
     },
     {
-        "cityId": "3676478",
+        "cityId": 3676478,
         "name": "Llor\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.58333,
         "longitude": -76.41667
     },
     {
-        "cityId": "3680091",
+        "cityId": 3680091,
         "name": "Jurad\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 7.00425,
         "longitude": -77.65141
     },
     {
-        "cityId": "3680454",
+        "cityId": 3680454,
         "name": "Istmina",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.98772,
         "longitude": -76.80528
     },
     {
-        "cityId": "3684712",
+        "cityId": 3684712,
         "name": "El Carmen de Atrato",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.83333,
         "longitude": -76.25
     },
     {
-        "cityId": "3686003",
+        "cityId": 3686003,
         "name": "Condoto",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.10603,
         "longitude": -76.45161
     },
     {
-        "cityId": "3688672",
+        "cityId": 3688672,
         "name": "Bojaya",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 6.5,
         "longitude": -77.1
     },
     {
-        "cityId": "3689318",
+        "cityId": 3689318,
         "name": "Bajo Baud\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.90181,
         "longitude": -77.22771
     },
     {
-        "cityId": "3689337",
+        "cityId": 3689337,
         "name": "Bagad\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.5,
         "longitude": -76.25
     },
     {
-        "cityId": "3690070",
+        "cityId": 3690070,
         "name": "Alto Baudo",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.60464,
         "longitude": -77.06975
     },
     {
-        "cityId": "3690573",
+        "cityId": 3690573,
         "name": "Acand\u00ed",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 8.42468,
         "longitude": -77.2928
     },
     {
-        "cityId": "9172032",
+        "cityId": 9172032,
         "name": "Ungu\u00eda",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 8.11118,
         "longitude": -77.10916
     },
     {
-        "cityId": "9179528",
+        "cityId": 9179528,
         "name": "Medio San Juan",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.09278,
         "longitude": -76.69528
     },
     {
-        "cityId": "9179529",
+        "cityId": 9179529,
         "name": "Carmen del Darien",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 7.03639,
         "longitude": -76.95222
     },
     {
-        "cityId": "9179541",
+        "cityId": 9179541,
         "name": "Atrato",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.57362,
         "longitude": -76.64063
     },
     {
-        "cityId": "9179543",
+        "cityId": 9179543,
         "name": "Uni\u00f3n Panamericana",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.28139,
         "longitude": -76.63
     },
     {
-        "cityId": "9179547",
+        "cityId": 9179547,
         "name": "Medio Atrato",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.995,
         "longitude": -76.7825
     },
     {
-        "cityId": "9179548",
+        "cityId": 9179548,
         "name": "R\u00edo Quito",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.51667,
         "longitude": -76.75
     },
     {
-        "cityId": "9179552",
+        "cityId": 9179552,
         "name": "C\u00e9rtegui",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.4,
         "longitude": -76.6
     },
     {
-        "cityId": "9179553",
+        "cityId": 9179553,
         "name": "Medio Baud\u00f3",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.05,
         "longitude": -77.05
     },
     {
-        "cityId": "9179554",
+        "cityId": 9179554,
         "name": "R\u00edo Iro",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.18333,
         "longitude": -76.4833
     },
     {
-        "cityId": "9609519",
+        "cityId": 9609519,
         "name": "El Cant\u00f3n del San Pablo",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 5.35989,
         "longitude": -76.7728
     },
     {
-        "cityId": "9609520",
+        "cityId": 9609520,
         "name": "El Litoral del San Juan",
-        "stateId": "3686431",
+        "stateId": 3686431,
         "latitude": 4.2507,
         "longitude": -76.96926
     }

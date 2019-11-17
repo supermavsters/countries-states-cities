@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "1676511",
+        "cityId": 1676511,
         "name": "Kinmen County",
-        "stateId": "7280288",
+        "stateId": 7280288,
         "latitude": 24.45333,
         "longitude": 118.38861
     },
     {
-        "cityId": "6724655",
+        "cityId": 6724655,
         "name": "Lienchiang",
-        "stateId": "7280288",
+        "stateId": 7280288,
         "latitude": 26.37004,
         "longitude": 120.49545
     }

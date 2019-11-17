@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1699492",
+        "cityId": 1699492,
         "name": "Province of Misamis Oriental",
-        "stateId": "7521295",
+        "stateId": 7521295,
         "latitude": 8.75,
         "longitude": 125
     },
     {
-        "cityId": "1699493",
+        "cityId": 1699493,
         "name": "Province of Misamis Occidental",
-        "stateId": "7521295",
+        "stateId": 7521295,
         "latitude": 8.33333,
         "longitude": 123.7
     },
     {
-        "cityId": "1707668",
+        "cityId": 1707668,
         "name": "Province of Lanao del Norte",
-        "stateId": "7521295",
+        "stateId": 7521295,
         "latitude": 8,
         "longitude": 124
     },
     {
-        "cityId": "1719694",
+        "cityId": 1719694,
         "name": "Province of Camiguin",
-        "stateId": "7521295",
+        "stateId": 7521295,
         "latitude": 9.16667,
         "longitude": 124.75
     },
     {
-        "cityId": "1723105",
+        "cityId": 1723105,
         "name": "Province of Bukidnon",
-        "stateId": "7521295",
+        "stateId": 7521295,
         "latitude": 8,
         "longitude": 125
     }

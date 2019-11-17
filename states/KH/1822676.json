@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1822431",
+        "cityId": 1822431,
         "name": "Sr\u014fk R\u00f4vi\u0115ng",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.35105,
         "longitude": 105.09956
     },
     {
-        "cityId": "1831603",
+        "cityId": 1831603,
         "name": "Sr\u014fk Chh\u00eab",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.91077,
         "longitude": 105.4618
     },
     {
-        "cityId": "7873990",
+        "cityId": 7873990,
         "name": "Sangkom Thmei",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.47395,
         "longitude": 104.77051
     },
     {
-        "cityId": "8403983",
+        "cityId": 8403983,
         "name": "Sr\u014fk Ch\u2019\u00eah S\u00ean",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.58215,
         "longitude": 105.34533
     },
     {
-        "cityId": "8403984",
+        "cityId": 8403984,
         "name": "Sr\u014fk Kul\u00e9n",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.78597,
         "longitude": 104.61052
     },
     {
-        "cityId": "8403986",
+        "cityId": 8403986,
         "name": "Sr\u014fk Tb\u00eang M\u00e9anchey",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.78622,
         "longitude": 105.01586
     },
     {
-        "cityId": "8403987",
+        "cityId": 8403987,
         "name": "Kr\u014fng Pre\u0103h V\u012dh\u00e9ar",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 13.74259,
         "longitude": 104.98472
     },
     {
-        "cityId": "9253788",
+        "cityId": 9253788,
         "name": "Choam Khsant",
-        "stateId": "1822676",
+        "stateId": 1822676,
         "latitude": 14.15889,
         "longitude": 104.86166
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1605042",
+        "cityId": 1605042,
         "name": "Amphoe Watthana Nakhon",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.88582,
         "longitude": 102.35652
     },
     {
-        "cityId": "1605741",
+        "cityId": 1605741,
         "name": "Amphoe Ta Phraya",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 14.06272,
         "longitude": 102.72601
     },
     {
-        "cityId": "1606806",
+        "cityId": 1606806,
         "name": "Amphoe Mueang Sa Kaeo",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.92969,
         "longitude": 102.10626
     },
     {
-        "cityId": "1621019",
+        "cityId": 1621019,
         "name": "Amphoe Aranyaprathet",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.69086,
         "longitude": 102.47693
     },
     {
-        "cityId": "7510736",
+        "cityId": 7510736,
         "name": "Amphoe Wang Nam Yen",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.519,
         "longitude": 102.08718
     },
     {
-        "cityId": "7510737",
+        "cityId": 7510737,
         "name": "Amphoe Wang Sombun",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.36112,
         "longitude": 102.1249
     },
     {
-        "cityId": "7510738",
+        "cityId": 7510738,
         "name": "Amphoe Khao Chakan",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.62293,
         "longitude": 102.02665
     },
     {
-        "cityId": "7510755",
+        "cityId": 7510755,
         "name": "Amphoe Khok Sung",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.87388,
         "longitude": 102.66075
     },
     {
-        "cityId": "7603498",
+        "cityId": 7603498,
         "name": "Amphoe Khlong Hat",
-        "stateId": "1906691",
+        "stateId": 1906691,
         "latitude": 13.47396,
         "longitude": 102.27604
     }

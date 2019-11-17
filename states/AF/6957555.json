@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7054336",
+        "cityId": 7054336,
         "name": "\u2018Un\u0101bah",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.22401,
         "longitude": 69.40529
     },
     {
-        "cityId": "7054337",
+        "cityId": 7054337,
         "name": "B\u0101z\u0101rak",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.37499,
         "longitude": 69.51063
     },
     {
-        "cityId": "7054338",
+        "cityId": 7054338,
         "name": "Darah",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.23559,
         "longitude": 69.77
     },
     {
-        "cityId": "7054339",
+        "cityId": 7054339,
         "name": "Khinj",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.42963,
         "longitude": 69.78431
     },
     {
-        "cityId": "7054340",
+        "cityId": 7054340,
         "name": "Par\u012b\u0101n",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.6475,
         "longitude": 70.04327
     },
     {
-        "cityId": "7054341",
+        "cityId": 7054341,
         "name": "Rukhah",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.25603,
         "longitude": 69.47729
     },
     {
-        "cityId": "7054342",
+        "cityId": 7054342,
         "name": "Shutul",
-        "stateId": "6957555",
+        "stateId": 6957555,
         "latitude": 35.29402,
         "longitude": 69.30271
     }

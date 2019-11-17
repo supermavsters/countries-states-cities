@@ -1,36 +1,36 @@
 [
     {
-        "stateId": "2205272",
+        "stateId": 2205272,
         "name": "Central Division",
-        "countryId": "2205218",
+        "countryId": 2205218,
         "latitude": -18,
         "longitude": 178.33333
     },
     {
-        "stateId": "4036647",
+        "stateId": 4036647,
         "name": "Eastern Division",
-        "countryId": "2205218",
+        "countryId": 2205218,
         "latitude": -18.5,
         "longitude": 180
     },
     {
-        "stateId": "2199295",
+        "stateId": 2199295,
         "name": "Northern Division",
-        "countryId": "2205218",
+        "countryId": 2205218,
         "latitude": -16.5,
         "longitude": 179.5
     },
     {
-        "stateId": "6324593",
+        "stateId": 6324593,
         "name": "Rotuma",
-        "countryId": "2205218",
+        "countryId": 2205218,
         "latitude": -12.50798,
         "longitude": 177.06596
     },
     {
-        "stateId": "2194371",
+        "stateId": 2194371,
         "name": "Western Division",
-        "countryId": "2205218",
+        "countryId": 2205218,
         "latitude": -18,
         "longitude": 177.5
     }

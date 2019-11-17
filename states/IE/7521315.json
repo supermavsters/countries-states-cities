@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2961191",
+        "cityId": 2961191,
         "name": "County Tipperary",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 52.66667,
         "longitude": -7.83333
     },
     {
-        "cityId": "2963517",
+        "cityId": 2963517,
         "name": "Ciarra\u00ed",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 52.16667,
         "longitude": -9.75
     },
     {
-        "cityId": "2965139",
+        "cityId": 2965139,
         "name": "County Cork",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 51.96667,
         "longitude": -8.58333
     },
     {
-        "cityId": "2965479",
+        "cityId": 2965479,
         "name": "An Cl\u00e1r",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 52.83333,
         "longitude": -9
     },
     {
-        "cityId": "7778678",
+        "cityId": 7778678,
         "name": "Cork City",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 51.89755,
         "longitude": -8.46773
     },
     {
-        "cityId": "11611445",
+        "cityId": 11611445,
         "name": "Limerick City and County Council",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 52.6464,
         "longitude": -8.63663
     },
     {
-        "cityId": "11611446",
+        "cityId": 11611446,
         "name": "Waterford City and County Council",
-        "stateId": "7521315",
+        "stateId": 7521315,
         "latitude": 52.23999,
         "longitude": -7.14386
     }

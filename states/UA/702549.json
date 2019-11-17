@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "9290334",
+        "cityId": 9290334,
         "name": "Stryys\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.2608,
         "longitude": 23.84067
     },
     {
-        "cityId": "9290342",
+        "cityId": 9290342,
         "name": "Morshyns\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.15443,
         "longitude": 23.86941
     },
     {
-        "cityId": "9290363",
+        "cityId": 9290363,
         "name": "Sambirs\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.51738,
         "longitude": 23.20646
     },
     {
-        "cityId": "9290369",
+        "cityId": 9290369,
         "name": "Drohobyts\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.35034,
         "longitude": 23.51116
     },
     {
-        "cityId": "9290402",
+        "cityId": 9290402,
         "name": "Boryslavs\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.2868,
         "longitude": 23.42018
     },
     {
-        "cityId": "9290406",
+        "cityId": 9290406,
         "name": "Truskavets\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.27441,
         "longitude": 23.50526
     },
     {
-        "cityId": "9290763",
+        "cityId": 9290763,
         "name": "Chervonohrads\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 50.38419,
         "longitude": 24.22649
     },
     {
-        "cityId": "9290764",
+        "cityId": 9290764,
         "name": "Novorozdil\u2019s\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.47138,
         "longitude": 24.11716
     },
     {
-        "cityId": "9290819",
+        "cityId": 9290819,
         "name": "L\u2019vivs\u2019ka Mis\u2019krada",
-        "stateId": "702549",
+        "stateId": 702549,
         "latitude": 49.84481,
         "longitude": 24.01474
     }

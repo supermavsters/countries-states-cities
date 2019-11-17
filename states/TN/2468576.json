@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2468577",
+        "cityId": 2468577,
         "name": "Nabeul",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.48017,
         "longitude": 10.6785
     },
     {
-        "cityId": "2473745",
+        "cityId": 2473745,
         "name": "Hammamet",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.43685,
         "longitude": 10.51223
     },
     {
-        "cityId": "11104806",
+        "cityId": 11104806,
         "name": "El Haouaria",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.96296,
         "longitude": 10.91129
     },
     {
-        "cityId": "11104807",
+        "cityId": 11104807,
         "name": "Hammam El Guezaz",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.92272,
         "longitude": 11.07616
     },
     {
-        "cityId": "11104808",
+        "cityId": 11104808,
         "name": "Takelsa",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.81313,
         "longitude": 10.67757
     },
     {
-        "cityId": "11104809",
+        "cityId": 11104809,
         "name": "El Mida",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.72246,
         "longitude": 10.8468
     },
     {
-        "cityId": "11104810",
+        "cityId": 11104810,
         "name": "Menzel Bouzelfa",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.66815,
         "longitude": 10.6766
     },
     {
-        "cityId": "11104811",
+        "cityId": 11104811,
         "name": "Bou Argoub",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.53868,
         "longitude": 10.57381
     },
     {
-        "cityId": "11104812",
+        "cityId": 11104812,
         "name": "Dar Chaabane El Fehri",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.52462,
         "longitude": 10.70473
     },
     {
-        "cityId": "11104930",
+        "cityId": 11104930,
         "name": "Beni Khalled",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.62693,
         "longitude": 10.63636
     },
     {
-        "cityId": "11104931",
+        "cityId": 11104931,
         "name": "Beni Khiar",
-        "stateId": "2468576",
+        "stateId": 2468576,
         "latitude": 36.53209,
         "longitude": 10.76996
     }

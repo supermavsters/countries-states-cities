@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7910099",
+        "cityId": 7910099,
         "name": "Andapa District",
-        "stateId": "7670846",
+        "stateId": 7670846,
         "latitude": -14.65,
         "longitude": 49.65
     },
     {
-        "cityId": "11072839",
+        "cityId": 11072839,
         "name": "Sambava",
-        "stateId": "7670846",
+        "stateId": 7670846,
         "latitude": -14.21719,
         "longitude": 49.84669
     },
     {
-        "cityId": "11523465",
+        "cityId": 11523465,
         "name": "Antalaha",
-        "stateId": "7670846",
+        "stateId": 7670846,
         "latitude": -14.90386,
         "longitude": 50.24428
     }

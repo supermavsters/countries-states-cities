@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7733024",
+        "cityId": 7733024,
         "name": "Moyale District",
-        "stateId": "187583",
+        "stateId": 187583,
         "latitude": 3.093,
         "longitude": 38.844
     },
     {
-        "cityId": "8298605",
+        "cityId": 8298605,
         "name": "Oloitokitok District",
-        "stateId": "187583",
+        "stateId": 187583,
         "latitude": 2.925,
         "longitude": 37.51
     }

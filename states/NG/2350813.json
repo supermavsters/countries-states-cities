@@ -1,218 +1,218 @@
 [
     {
-        "cityId": "7701381",
+        "cityId": 7701381,
         "name": "Esit Eket",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.63086,
         "longitude": 8.07058
     },
     {
-        "cityId": "7701382",
+        "cityId": 7701382,
         "name": "Mkpat Enin",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.73361,
         "longitude": 7.74861
     },
     {
-        "cityId": "7701383",
+        "cityId": 7701383,
         "name": "Oruk Anam",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.9,
         "longitude": 7.71667
     },
     {
-        "cityId": "7730390",
+        "cityId": 7730390,
         "name": "Eastern Obolo",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.53389,
         "longitude": 7.76694
     },
     {
-        "cityId": "7730394",
+        "cityId": 7730394,
         "name": "Nsit Atai",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.8177,
         "longitude": 8.02593
     },
     {
-        "cityId": "7730396",
+        "cityId": 7730396,
         "name": "Nsit Ubium",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.74274,
         "longitude": 7.94876
     },
     {
-        "cityId": "7730397",
+        "cityId": 7730397,
         "name": "Onna",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.61597,
         "longitude": 7.84869
     },
     {
-        "cityId": "8638394",
+        "cityId": 8638394,
         "name": "Ini",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.40415,
         "longitude": 7.74884
     },
     {
-        "cityId": "8638447",
+        "cityId": 8638447,
         "name": "Obot Akara",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.24669,
         "longitude": 7.60458
     },
     {
-        "cityId": "8638448",
+        "cityId": 8638448,
         "name": "Ikono",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.21035,
         "longitude": 7.79398
     },
     {
-        "cityId": "8638449",
+        "cityId": 8638449,
         "name": "Ikot Ekpene",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.19383,
         "longitude": 7.70369
     },
     {
-        "cityId": "8638450",
+        "cityId": 8638450,
         "name": "Ibiono Ibom",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.20704,
         "longitude": 7.89309
     },
     {
-        "cityId": "8638451",
+        "cityId": 8638451,
         "name": "Itu",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.14318,
         "longitude": 7.97788
     },
     {
-        "cityId": "8638452",
+        "cityId": 8638452,
         "name": "Essien Udim",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.10684,
         "longitude": 7.64533
     },
     {
-        "cityId": "8638453",
+        "cityId": 8638453,
         "name": "Ika",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.00553,
         "longitude": 7.53411
     },
     {
-        "cityId": "8638454",
+        "cityId": 8638454,
         "name": "Etim Ekpo",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.978,
         "longitude": 7.59247
     },
     {
-        "cityId": "8638455",
+        "cityId": 8638455,
         "name": "Uyo",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.01874,
         "longitude": 7.903
     },
     {
-        "cityId": "8638456",
+        "cityId": 8638456,
         "name": "Uruan",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.01104,
         "longitude": 8.06597
     },
     {
-        "cityId": "8638457",
+        "cityId": 8638457,
         "name": "Ibesikpo Asutan",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.92735,
         "longitude": 7.95806
     },
     {
-        "cityId": "8638458",
+        "cityId": 8638458,
         "name": "Abak",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 5.02095,
         "longitude": 7.78738
     },
     {
-        "cityId": "8638459",
+        "cityId": 8638459,
         "name": "Ukanafun",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.89651,
         "longitude": 7.59687
     },
     {
-        "cityId": "8638460",
+        "cityId": 8638460,
         "name": "Nsit Ibom",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.90092,
         "longitude": 7.89309
     },
     {
-        "cityId": "8638463",
+        "cityId": 8638463,
         "name": "Etinan",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.81943,
         "longitude": 7.84464
     },
     {
-        "cityId": "8638465",
+        "cityId": 8638465,
         "name": "Ikot Abasi",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.60581,
         "longitude": 7.6244
     },
     {
-        "cityId": "8638468",
+        "cityId": 8638468,
         "name": "Ibeno",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.56506,
         "longitude": 8.07258
     },
     {
-        "cityId": "8638469",
+        "cityId": 8638469,
         "name": "Mbo",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.64325,
         "longitude": 8.25537
     },
     {
-        "cityId": "8638472",
+        "cityId": 8638472,
         "name": "Eket",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.63664,
         "longitude": 7.95365
     },
     {
-        "cityId": "8638474",
+        "cityId": 8638474,
         "name": "Udung Uko",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.75226,
         "longitude": 8.26529
     },
     {
-        "cityId": "8638475",
+        "cityId": 8638475,
         "name": "Urue Offong\/Oruko",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.71702,
         "longitude": 8.16948
     },
     {
-        "cityId": "8638478",
+        "cityId": 8638478,
         "name": "Okobo",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.82714,
         "longitude": 8.13204
     },
     {
-        "cityId": "8638479",
+        "cityId": 8638479,
         "name": "Oron",
-        "stateId": "2350813",
+        "stateId": 2350813,
         "latitude": 4.80291,
         "longitude": 8.23005
     }

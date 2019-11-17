@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "785234",
+        "cityId": 785234,
         "name": "Komuna e Th\u00ebrand\u00ebs",
-        "stateId": "10097361",
+        "stateId": 10097361,
         "latitude": 42.35,
         "longitude": 20.85
     },
     {
-        "cityId": "786711",
+        "cityId": 786711,
         "name": "Prizren",
-        "stateId": "10097361",
+        "stateId": 10097361,
         "latitude": 42.23333,
         "longitude": 20.73333
     },
     {
-        "cityId": "791121",
+        "cityId": 791121,
         "name": "Komuna e Dragashit",
-        "stateId": "10097361",
+        "stateId": 10097361,
         "latitude": 42,
         "longitude": 20.65
     },
     {
-        "cityId": "831104",
+        "cityId": 831104,
         "name": "Komuna e Malisheves",
-        "stateId": "10097361",
+        "stateId": 10097361,
         "latitude": 42.48861,
         "longitude": 20.74667
     },
     {
-        "cityId": "8299772",
+        "cityId": 8299772,
         "name": "Komuna e Mamush\u00ebs",
-        "stateId": "10097361",
+        "stateId": 10097361,
         "latitude": 42.32611,
         "longitude": 20.72742
     }

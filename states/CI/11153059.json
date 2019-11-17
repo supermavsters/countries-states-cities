@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11153166",
+        "cityId": 11153166,
         "name": "Haut-Sassandra",
-        "stateId": "11153059",
+        "stateId": 11153059,
         "latitude": 6.66961,
         "longitude": -6.50116
     },
     {
-        "cityId": "11153167",
+        "cityId": 11153167,
         "name": "Marahou\u00e9",
-        "stateId": "11153059",
+        "stateId": 11153059,
         "latitude": 7.03252,
         "longitude": -5.80215
     }

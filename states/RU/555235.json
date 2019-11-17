@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "464107",
+        "cityId": 464107,
         "name": "Zavolzhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.5,
         "longitude": 42.08333
     },
     {
-        "cityId": "466002",
+        "cityId": 466002,
         "name": "Yuzhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.58333,
         "longitude": 42
     },
     {
-        "cityId": "466254",
+        "cityId": 466254,
         "name": "Yur\u2019yevetskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.25,
         "longitude": 42.83333
     },
     {
-        "cityId": "473787",
+        "cityId": 473787,
         "name": "Vichugskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.25,
         "longitude": 42
     },
     {
-        "cityId": "475550",
+        "cityId": 475550,
         "name": "Verkhnelandekhovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.83333,
         "longitude": 42.58333
     },
     {
-        "cityId": "483136",
+        "cityId": 483136,
         "name": "Teykovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.75,
         "longitude": 40.5
     },
     {
-        "cityId": "493203",
+        "cityId": 493203,
         "name": "Shuyskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.83333,
         "longitude": 41.5
     },
     {
-        "cityId": "498203",
+        "cityId": 498203,
         "name": "Savinskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.58333,
         "longitude": 41.33333
     },
     {
-        "cityId": "501709",
+        "cityId": 501709,
         "name": "Rodnikovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.08333,
         "longitude": 41.75
     },
     {
-        "cityId": "504293",
+        "cityId": 504293,
         "name": "Puchezhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57,
         "longitude": 43
     },
     {
-        "cityId": "505049",
+        "cityId": 505049,
         "name": "Privolzhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.33333,
         "longitude": 41.33333
     },
     {
-        "cityId": "510322",
+        "cityId": 510322,
         "name": "Pestyakovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.58333,
         "longitude": 42.66667
     },
     {
-        "cityId": "513094",
+        "cityId": 513094,
         "name": "Palekhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.83333,
         "longitude": 42
     },
     {
-        "cityId": "533539",
+        "cityId": 533539,
         "name": "Lukhskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57,
         "longitude": 42.41667
     },
     {
-        "cityId": "545702",
+        "cityId": 545702,
         "name": "Komsomol\u2019skiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.08333,
         "longitude": 40.41667
     },
     {
-        "cityId": "548606",
+        "cityId": 548606,
         "name": "Kineshemskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.33333,
         "longitude": 42.33333
     },
     {
-        "cityId": "555207",
+        "cityId": 555207,
         "name": "Ivanovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57,
         "longitude": 41
     },
     {
-        "cityId": "557129",
+        "cityId": 557129,
         "name": "Il\u2019inskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.91667,
         "longitude": 39.83333
     },
     {
-        "cityId": "561784",
+        "cityId": 561784,
         "name": "Gavrilovo-Posadskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.66667,
         "longitude": 40.08333
     },
     {
-        "cityId": "562305",
+        "cityId": 562305,
         "name": "Furmanovskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.25,
         "longitude": 41
     },
     {
-        "cityId": "825091",
+        "cityId": 825091,
         "name": "Gorod Vichuga",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.03333,
         "longitude": 41.91667
     },
     {
-        "cityId": "825092",
+        "cityId": 825092,
         "name": "Gorod Kineshma",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.43333,
         "longitude": 42.13333
     },
     {
-        "cityId": "825093",
+        "cityId": 825093,
         "name": "Gorod Shuya",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.85,
         "longitude": 41.36667
     },
     {
-        "cityId": "825094",
+        "cityId": 825094,
         "name": "Gorod Ivanovo",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57,
         "longitude": 41
     },
     {
-        "cityId": "825095",
+        "cityId": 825095,
         "name": "Gorod Teykovo",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.86667,
         "longitude": 40.05
     },
     {
-        "cityId": "825096",
+        "cityId": 825096,
         "name": "Lezhnevskiy Rayon",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 56.75,
         "longitude": 40.91667
     },
     {
-        "cityId": "826310",
+        "cityId": 826310,
         "name": "Gorod Furmanovo",
-        "stateId": "555235",
+        "stateId": 555235,
         "latitude": 57.25,
         "longitude": 41.11667
     }

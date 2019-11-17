@@ -1,218 +1,218 @@
 [
     {
-        "cityId": "69639",
+        "cityId": 69639,
         "name": "Wash\u1e29ah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.32158,
         "longitude": 43.37555
     },
     {
-        "cityId": "75142",
+        "cityId": 75142,
         "name": "Harad District",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.40447,
         "longitude": 43.07739
     },
     {
-        "cityId": "75334",
+        "cityId": 75334,
         "name": "\u1e28ajjah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.68783,
         "longitude": 43.60474
     },
     {
-        "cityId": "6940589",
+        "cityId": 6940589,
         "name": "Abs",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.0215,
         "longitude": 43.0485
     },
     {
-        "cityId": "6940590",
+        "cityId": 6940590,
         "name": "Qafl Shamer",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.9087,
         "longitude": 43.364
     },
     {
-        "cityId": "6940591",
+        "cityId": 6940591,
         "name": "Bani Qa'is",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.6346,
         "longitude": 43.3372
     },
     {
-        "cityId": "6940594",
+        "cityId": 6940594,
         "name": "Al Maghrabah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.8937,
         "longitude": 43.6091
     },
     {
-        "cityId": "6940604",
+        "cityId": 6940604,
         "name": "Al Mahabishah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.9287,
         "longitude": 43.448
     },
     {
-        "cityId": "6940605",
+        "cityId": 6940605,
         "name": "Midi",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.19202,
         "longitude": 42.88913
     },
     {
-        "cityId": "6940606",
+        "cityId": 6940606,
         "name": "Hayran",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.2508,
         "longitude": 43.0599
     },
     {
-        "cityId": "6940607",
+        "cityId": 6940607,
         "name": "Bani Al Awam",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.581,
         "longitude": 43.6079
     },
     {
-        "cityId": "6940608",
+        "cityId": 6940608,
         "name": "Hajjah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.6816,
         "longitude": 43.44996
     },
     {
-        "cityId": "6940706",
+        "cityId": 6940706,
         "name": "Ku'aydinah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.8183,
         "longitude": 43.3599
     },
     {
-        "cityId": "6940707",
+        "cityId": 6940707,
         "name": "Mustaba",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.2736,
         "longitude": 43.2685
     },
     {
-        "cityId": "6940708",
+        "cityId": 6940708,
         "name": "Qarah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.4019,
         "longitude": 43.474
     },
     {
-        "cityId": "6940709",
+        "cityId": 6940709,
         "name": "Wadhrah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.7142,
         "longitude": 43.4667
     },
     {
-        "cityId": "6940710",
+        "cityId": 6940710,
         "name": "Kuhlan Affar",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.7554,
         "longitude": 43.697
     },
     {
-        "cityId": "6940711",
+        "cityId": 6940711,
         "name": "Kuhlan Ash Sharaf",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.0231,
         "longitude": 43.4863
     },
     {
-        "cityId": "6940712",
+        "cityId": 6940712,
         "name": "Sharas",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.7286,
         "longitude": 43.6546
     },
     {
-        "cityId": "6940713",
+        "cityId": 6940713,
         "name": "Khayran Al Muharraq",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.08964,
         "longitude": 43.35755
     },
     {
-        "cityId": "6940714",
+        "cityId": 6940714,
         "name": "Ash Shahil",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.8553,
         "longitude": 43.4516
     },
     {
-        "cityId": "6940715",
+        "cityId": 6940715,
         "name": "Najrah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.6527,
         "longitude": 43.5452
     },
     {
-        "cityId": "6940716",
+        "cityId": 6940716,
         "name": "Ash Shaghadirah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.6061,
         "longitude": 43.4992
     },
     {
-        "cityId": "6940717",
+        "cityId": 6940717,
         "name": "Aflah Ash Shawm",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.0528,
         "longitude": 43.412
     },
     {
-        "cityId": "6940718",
+        "cityId": 6940718,
         "name": "Mabyan",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.7717,
         "longitude": 43.551
     },
     {
-        "cityId": "6940719",
+        "cityId": 6940719,
         "name": "Al Miftah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.961,
         "longitude": 43.5147
     },
     {
-        "cityId": "6940720",
+        "cityId": 6940720,
         "name": "Aflah Al Yaman",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 15.9789,
         "longitude": 43.4111
     },
     {
-        "cityId": "6940721",
+        "cityId": 6940721,
         "name": "Al Jamimah",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.0284,
         "longitude": 43.5297
     },
     {
-        "cityId": "6940722",
+        "cityId": 6940722,
         "name": "Aslem",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.06,
         "longitude": 43.2939
     },
     {
-        "cityId": "6940723",
+        "cityId": 6940723,
         "name": "Bakil Al Mir",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.5069,
         "longitude": 43.3615
     },
     {
-        "cityId": "6940724",
+        "cityId": 6940724,
         "name": "Kushar",
-        "stateId": "6201195",
+        "stateId": 6201195,
         "latitude": 16.1709,
         "longitude": 43.472
     }

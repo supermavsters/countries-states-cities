@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7731894",
+        "cityId": 7731894,
         "name": "Ndjoukou",
-        "stateId": "2385836",
+        "stateId": 2385836,
         "latitude": 5.30643,
         "longitude": 19.42412
     },
     {
-        "cityId": "7732483",
+        "cityId": 7732483,
         "name": "Sibut",
-        "stateId": "2385836",
+        "stateId": 2385836,
         "latitude": 5.73333,
         "longitude": 19.08333
     },
     {
-        "cityId": "9143484",
+        "cityId": 9143484,
         "name": "D\u00e9koa",
-        "stateId": "2385836",
+        "stateId": 2385836,
         "latitude": 6.27532,
         "longitude": 19.14971
     },
     {
-        "cityId": "9143485",
+        "cityId": 9143485,
         "name": "Mala",
-        "stateId": "2385836",
+        "stateId": 2385836,
         "latitude": 6.2104,
         "longitude": 19.63128
     }

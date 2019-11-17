@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "1596293",
+        "cityId": 1596293,
         "name": "Amphoe Mae Charim",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.71336,
         "longitude": 101.11011
     },
     {
-        "cityId": "1605358",
+        "cityId": 1605358,
         "name": "Amphoe Thung Chang",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.46342,
         "longitude": 100.91937
     },
     {
-        "cityId": "1605474",
+        "cityId": 1605474,
         "name": "Amphoe Tha Wang Pha",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.13148,
         "longitude": 100.76117
     },
     {
-        "cityId": "1606958",
+        "cityId": 1606958,
         "name": "Amphoe Wiang Sa",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.55088,
         "longitude": 100.72754
     },
     {
-        "cityId": "1607163",
+        "cityId": 1607163,
         "name": "Amphoe Pua",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.16306,
         "longitude": 101.02796
     },
     {
-        "cityId": "1608417",
+        "cityId": 1608417,
         "name": "Amphoe Na Noi",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.30269,
         "longitude": 100.72393
     },
     {
-        "cityId": "1608643",
+        "cityId": 1608643,
         "name": "Amphoe Mueang Nan",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.89008,
         "longitude": 100.67472
     },
     {
-        "cityId": "7382968",
+        "cityId": 7382968,
         "name": "Amphoe Chaloem Phra Kiat",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.50618,
         "longitude": 101.14249
     },
     {
-        "cityId": "7510684",
+        "cityId": 7510684,
         "name": "Amphoe Ban Luang",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.88375,
         "longitude": 100.46014
     },
     {
-        "cityId": "7510695",
+        "cityId": 7510695,
         "name": "Amphoe Na Muen",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.12524,
         "longitude": 100.6027
     },
     {
-        "cityId": "7510696",
+        "cityId": 7510696,
         "name": "Amphoe Santi Suk",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.9119,
         "longitude": 101.00016
     },
     {
-        "cityId": "7510697",
+        "cityId": 7510697,
         "name": "Amphoe Phu Phiang",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 18.7803,
         "longitude": 100.87497
     },
     {
-        "cityId": "7510698",
+        "cityId": 7510698,
         "name": "Amphoe Chiang Klang",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.30637,
         "longitude": 100.87878
     },
     {
-        "cityId": "7510699",
+        "cityId": 7510699,
         "name": "Amphoe Song Khwae",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.40911,
         "longitude": 100.66174
     },
     {
-        "cityId": "7524366",
+        "cityId": 7524366,
         "name": "Amphoe Bo Kluea",
-        "stateId": "1608451",
+        "stateId": 1608451,
         "latitude": 19.08994,
         "longitude": 101.18952
     }

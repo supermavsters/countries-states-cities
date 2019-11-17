@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11352780",
+        "cityId": 11352780,
         "name": "Mazzalves pagasts",
-        "stateId": "7628334",
+        "stateId": 7628334,
         "latitude": 56.39337,
         "longitude": 25.01351
     },
     {
-        "cityId": "11352781",
+        "cityId": 11352781,
         "name": "Neretas pagasts",
-        "stateId": "7628334",
+        "stateId": 7628334,
         "latitude": 56.22014,
         "longitude": 25.31497
     },
     {
-        "cityId": "11352783",
+        "cityId": 11352783,
         "name": "Pilskalnes pagasts",
-        "stateId": "7628334",
+        "stateId": 7628334,
         "latitude": 56.22136,
         "longitude": 25.15866
     },
     {
-        "cityId": "11352784",
+        "cityId": 11352784,
         "name": "Zalves pagasts",
-        "stateId": "7628334",
+        "stateId": 7628334,
         "latitude": 56.33847,
         "longitude": 25.19671
     }

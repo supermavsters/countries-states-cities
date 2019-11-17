@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "3621119",
+        "cityId": 3621119,
         "name": "V\u00e1zquez de Coronado",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 10.06,
         "longitude": -84
     },
     {
-        "cityId": "3621177",
+        "cityId": 3621177,
         "name": "Turrubares",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.75,
         "longitude": -84.5
     },
     {
-        "cityId": "3621308",
+        "cityId": 3621308,
         "name": "Tib\u00e1s",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.96667,
         "longitude": -84.08333
     },
     {
-        "cityId": "3621342",
+        "cityId": 3621342,
         "name": "Tarraz\u00fa",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.65965,
         "longitude": -84.02138
     },
     {
-        "cityId": "3621626",
+        "cityId": 3621626,
         "name": "Santa Ana",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.93333,
         "longitude": -84.18333
     },
     {
-        "cityId": "3621840",
+        "cityId": 3621840,
         "name": "San Jos\u00e9",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.93333,
         "longitude": -84.08333
     },
     {
-        "cityId": "3622220",
+        "cityId": 3622220,
         "name": "Puriscal",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.75,
         "longitude": -84.41667
     },
     {
-        "cityId": "3622439",
+        "cityId": 3622439,
         "name": "P\u00e9rez Zeled\u00f3n",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.35473,
         "longitude": -83.63484
     },
     {
-        "cityId": "3622800",
+        "cityId": 3622800,
         "name": "Moravia",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 10.04,
         "longitude": -84
     },
     {
-        "cityId": "3622808",
+        "cityId": 3622808,
         "name": "Mora",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.91667,
         "longitude": -84.25
     },
     {
-        "cityId": "3622814",
+        "cityId": 3622814,
         "name": "Montes de Oca",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.9396,
         "longitude": -84.03013
     },
     {
-        "cityId": "3623082",
+        "cityId": 3623082,
         "name": "Le\u00f3n Cort\u00e9s",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.683,
         "longitude": -84.04781
     },
     {
-        "cityId": "3623659",
+        "cityId": 3623659,
         "name": "Goicoechea",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.94848,
         "longitude": -84.06365
     },
     {
-        "cityId": "3623786",
+        "cityId": 3623786,
         "name": "Escaz\u00fa",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.93333,
         "longitude": -84.13333
     },
     {
-        "cityId": "3623892",
+        "cityId": 3623892,
         "name": "Dota",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.65,
         "longitude": -83.95
     },
     {
-        "cityId": "3623933",
+        "cityId": 3623933,
         "name": "Desamparados",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.9,
         "longitude": -84.06667
     },
     {
-        "cityId": "3623976",
+        "cityId": 3623976,
         "name": "Curridabat",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.91667,
         "longitude": -84.03333
     },
     {
-        "cityId": "3624847",
+        "cityId": 3624847,
         "name": "Aserr\u00ed",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.86667,
         "longitude": -84.1
     },
     {
-        "cityId": "3624950",
+        "cityId": 3624950,
         "name": "Alajuelita",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.9,
         "longitude": -84.1
     },
     {
-        "cityId": "3625011",
+        "cityId": 3625011,
         "name": "Acosta",
-        "stateId": "3621837",
+        "stateId": 3621837,
         "latitude": 9.8,
         "longitude": -84.2
     }

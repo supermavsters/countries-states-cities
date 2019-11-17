@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7732198",
+        "cityId": 7732198,
         "name": "Hopa \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.40128,
         "longitude": 41.44798
     },
     {
-        "cityId": "8631400",
+        "cityId": 8631400,
         "name": "\u015eav\u015fat \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.24941,
         "longitude": 42.36936
     },
     {
-        "cityId": "8631401",
+        "cityId": 8631401,
         "name": "Ardanu\u00e7 \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.13782,
         "longitude": 42.06668
     },
     {
-        "cityId": "8631402",
+        "cityId": 8631402,
         "name": "Yusufeli \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 40.82024,
         "longitude": 41.54234
     },
     {
-        "cityId": "8631447",
+        "cityId": 8631447,
         "name": "Murgul \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.27934,
         "longitude": 41.56288
     },
     {
-        "cityId": "8631448",
+        "cityId": 8631448,
         "name": "Bor\u00e7ka \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.3594,
         "longitude": 41.67631
     },
     {
-        "cityId": "8631449",
+        "cityId": 8631449,
         "name": "Arhavi \u0130l\u00e7esi",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.34829,
         "longitude": 41.3195
     },
     {
-        "cityId": "11789075",
+        "cityId": 11789075,
         "name": "Kemalpa\u015fa",
-        "stateId": "751816",
+        "stateId": 751816,
         "latitude": 41.4828,
         "longitude": 41.52909
     }

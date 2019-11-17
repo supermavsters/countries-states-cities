@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2316119",
+        "cityId": 2316119,
         "name": "Sous-R\u00e9gion des Catarates",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.25,
         "longitude": 14.86667
     },
     {
-        "cityId": "2316701",
+        "cityId": 2316701,
         "name": "Ville de Boma",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.85,
         "longitude": 13.05
     },
     {
-        "cityId": "2317281",
+        "cityId": 2317281,
         "name": "Sous-R\u00e9gion du Bas-Fleuve",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.85,
         "longitude": 13.05
     },
     {
-        "cityId": "7731969",
+        "cityId": 7731969,
         "name": "Lukaya",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.17212,
         "longitude": 15.56972
     },
     {
-        "cityId": "7731971",
+        "cityId": 7731971,
         "name": "Cataractes District",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.19705,
         "longitude": 14.35037
     },
     {
-        "cityId": "7731975",
+        "cityId": 7731975,
         "name": "Bas Fleuve District",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.44296,
         "longitude": 12.98423
     },
     {
-        "cityId": "7731981",
+        "cityId": 7731981,
         "name": "Matadi (city)",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.83246,
         "longitude": 13.48797
     },
     {
-        "cityId": "7731984",
+        "cityId": 7731984,
         "name": "Boma (city)",
-        "stateId": "2317277",
+        "stateId": 2317277,
         "latitude": -5.8016,
         "longitude": 13.06896
     }

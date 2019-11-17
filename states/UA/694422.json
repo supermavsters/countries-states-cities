@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "700468",
+        "cityId": 700468,
         "name": "Nakhimovskiy rayon",
-        "stateId": "694422",
+        "stateId": 694422,
         "latitude": 44.69502,
         "longitude": 33.58092
     },
     {
-        "cityId": "703234",
+        "cityId": 703234,
         "name": "Leninskiy rayon",
-        "stateId": "694422",
+        "stateId": 694422,
         "latitude": 44.6,
         "longitude": 33.53333
     },
     {
-        "cityId": "709051",
+        "cityId": 709051,
         "name": "Gagarinskiy rayon",
-        "stateId": "694422",
+        "stateId": 694422,
         "latitude": 44.59217,
         "longitude": 33.43925
     },
     {
-        "cityId": "712927",
+        "cityId": 712927,
         "name": "Balaklavskiy rayon",
-        "stateId": "694422",
+        "stateId": 694422,
         "latitude": 44.50581,
         "longitude": 33.67035
     }

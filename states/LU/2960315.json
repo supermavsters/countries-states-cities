@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2960317",
+        "cityId": 2960317,
         "name": "Ville de Luxembourg",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.6093,
         "longitude": 6.13204
     },
     {
-        "cityId": "6693275",
+        "cityId": 6693275,
         "name": "Bertrange",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.61111,
         "longitude": 6.05
     },
     {
-        "cityId": "6693276",
+        "cityId": 6693276,
         "name": "Contern",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.58194,
         "longitude": 6.22667
     },
     {
-        "cityId": "6693277",
+        "cityId": 6693277,
         "name": "Hesperange",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.56806,
         "longitude": 6.15139
     },
     {
-        "cityId": "6693278",
+        "cityId": 6693278,
         "name": "Niederanven",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.6475,
         "longitude": 6.26
     },
     {
-        "cityId": "6693279",
+        "cityId": 6693279,
         "name": "Sandweiler",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.61333,
         "longitude": 6.21889
     },
     {
-        "cityId": "6693280",
+        "cityId": 6693280,
         "name": "Schuttrange",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.62056,
         "longitude": 6.26861
     },
     {
-        "cityId": "6693281",
+        "cityId": 6693281,
         "name": "Steinsel",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.67694,
         "longitude": 6.12389
     },
     {
-        "cityId": "6693282",
+        "cityId": 6693282,
         "name": "Strassen",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.62056,
         "longitude": 6.07333
     },
     {
-        "cityId": "6693283",
+        "cityId": 6693283,
         "name": "Walferdange",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.65833,
         "longitude": 6.13722
     },
     {
-        "cityId": "6693284",
+        "cityId": 6693284,
         "name": "Weiler-la-Tour",
-        "stateId": "2960315",
+        "stateId": 2960315,
         "latitude": 49.54083,
         "longitude": 6.20083
     }

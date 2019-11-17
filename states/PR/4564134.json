@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7268154",
+        "cityId": 7268154,
         "name": "Dorado Barrio-Pueblo",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.45924,
         "longitude": -66.26163
     },
     {
-        "cityId": "7268382",
+        "cityId": 7268382,
         "name": "Espinosa Barrio",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.39554,
         "longitude": -66.28807
     },
     {
-        "cityId": "7268474",
+        "cityId": 7268474,
         "name": "Higuillar Barrio",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.45508,
         "longitude": -66.28562
     },
     {
-        "cityId": "7268590",
+        "cityId": 7268590,
         "name": "Maguayo Barrio",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.41724,
         "longitude": -66.28108
     },
     {
-        "cityId": "7268605",
+        "cityId": 7268605,
         "name": "Mameyal Barrio",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.4637,
         "longitude": -66.23656
     },
     {
-        "cityId": "7268913",
+        "cityId": 7268913,
         "name": "R\u00edo Lajas Barrio",
-        "stateId": "4564134",
+        "stateId": 4564134,
         "latitude": 18.39719,
         "longitude": -66.26454
     }

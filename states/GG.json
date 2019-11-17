@@ -1,78 +1,78 @@
 [
     {
-        "stateId": "8989934",
+        "stateId": 8989934,
         "name": "Alderney",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.71677,
         "longitude": -2.19851
     },
     {
-        "stateId": "6417229",
+        "stateId": 6417229,
         "name": "Castel",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.465,
         "longitude": -2.59361
     },
     {
-        "stateId": "6417223",
+        "stateId": 6417223,
         "name": "Forest",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.42583,
         "longitude": -2.59194
     },
     {
-        "stateId": "6417226",
+        "stateId": 6417226,
         "name": "Saint Andrew",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.44778,
         "longitude": -2.57361
     },
     {
-        "stateId": "6417224",
+        "stateId": 6417224,
         "name": "Saint Martin",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.43333,
         "longitude": -2.55722
     },
     {
-        "stateId": "6417228",
+        "stateId": 6417228,
         "name": "Saint Peter Port",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.46,
         "longitude": -2.55194
     },
     {
-        "stateId": "6417213",
+        "stateId": 6417213,
         "name": "Saint Pierre du Bois",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.44556,
         "longitude": -2.64361
     },
     {
-        "stateId": "6417233",
+        "stateId": 6417233,
         "name": "Saint Sampson",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.48194,
         "longitude": -2.53722
     },
     {
-        "stateId": "6417215",
+        "stateId": 6417215,
         "name": "Saint Saviour",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.44972,
         "longitude": -2.62389
     },
     {
-        "stateId": "6417214",
+        "stateId": 6417214,
         "name": "Torteval",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.43,
         "longitude": -2.64889
     },
     {
-        "stateId": "6417230",
+        "stateId": 6417230,
         "name": "Vale",
-        "countryId": "3042362",
+        "countryId": 3042362,
         "latitude": 49.49361,
         "longitude": -2.52833
     }

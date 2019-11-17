@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "8010432",
+        "cityId": 8010432,
         "name": "Aljustrel",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.90559,
         "longitude": -8.19304
     },
     {
-        "cityId": "8010433",
+        "cityId": 8010433,
         "name": "Almod\u00f4var",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.4959,
         "longitude": -8.09372
     },
     {
-        "cityId": "8010434",
+        "cityId": 8010434,
         "name": "Alvito",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.24653,
         "longitude": -8.05038
     },
     {
-        "cityId": "8010435",
+        "cityId": 8010435,
         "name": "Barrancos",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.15459,
         "longitude": -7.07115
     },
     {
-        "cityId": "8010436",
+        "cityId": 8010436,
         "name": "Beja",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.988,
         "longitude": -7.87773
     },
     {
-        "cityId": "8010437",
+        "cityId": 8010437,
         "name": "Castro Verde",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.71193,
         "longitude": -8.02416
     },
     {
-        "cityId": "8010438",
+        "cityId": 8010438,
         "name": "Cuba",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.21972,
         "longitude": -7.92114
     },
     {
-        "cityId": "8010439",
+        "cityId": 8010439,
         "name": "Ferreira do Alentejo",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.09918,
         "longitude": -8.17137
     },
     {
-        "cityId": "8010440",
+        "cityId": 8010440,
         "name": "M\u00e9rtola",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.65918,
         "longitude": -7.66434
     },
     {
-        "cityId": "8010441",
+        "cityId": 8010441,
         "name": "Moura",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.13148,
         "longitude": -7.29677
     },
     {
-        "cityId": "8010442",
+        "cityId": 8010442,
         "name": "Odemira",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.62724,
         "longitude": -8.573
     },
     {
-        "cityId": "8010443",
+        "cityId": 8010443,
         "name": "Ourique",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.69156,
         "longitude": -8.31031
     },
     {
-        "cityId": "8010444",
+        "cityId": 8010444,
         "name": "Serpa",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 37.95201,
         "longitude": -7.47534
     },
     {
-        "cityId": "8010445",
+        "cityId": 8010445,
         "name": "Vidigueira",
-        "stateId": "2270984",
+        "stateId": 2270984,
         "latitude": 38.18448,
         "longitude": -7.74469
     }

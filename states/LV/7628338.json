@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11352439",
+        "cityId": 11352439,
         "name": "Akn\u012bstes pagasts",
-        "stateId": "7628338",
+        "stateId": 7628338,
         "latitude": 56.18111,
         "longitude": 25.75847
     },
     {
-        "cityId": "11352440",
+        "cityId": 11352440,
         "name": "Asares pagasts",
-        "stateId": "7628338",
+        "stateId": 7628338,
         "latitude": 56.13169,
         "longitude": 25.91166
     },
     {
-        "cityId": "11352441",
+        "cityId": 11352441,
         "name": "G\u0101rsenes pagasts",
-        "stateId": "7628338",
+        "stateId": 7628338,
         "latitude": 56.09821,
         "longitude": 25.77952
     },
     {
-        "cityId": "11352982",
+        "cityId": 11352982,
         "name": "Akn\u012bste",
-        "stateId": "7628338",
+        "stateId": 7628338,
         "latitude": 56.16044,
         "longitude": 25.74498
     }

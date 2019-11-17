@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1280418",
+        "cityId": 1280418,
         "name": "Nujiang Lisuzu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 26.61738,
         "longitude": 99.14062
     },
     {
-        "cityId": "1281365",
+        "cityId": 1281365,
         "name": "D\u00eaq\u00ean Tibetan Autonomous Prefecture",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 27.91694,
         "longitude": 99.54841
     },
     {
-        "cityId": "1281381",
+        "cityId": 1281381,
         "name": "Dehong Daizu Jingpozu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 24.66347,
         "longitude": 98.03964
     },
     {
-        "cityId": "1281672",
+        "cityId": 1281672,
         "name": "Baoshan Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 25.0807,
         "longitude": 98.89645
     },
     {
-        "cityId": "1784839",
+        "cityId": 1784839,
         "name": "Zhaotong Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 27.70447,
         "longitude": 104.03865
     },
     {
-        "cityId": "1784840",
+        "cityId": 1784840,
         "name": "Zhaotong Diqu",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 27.31667,
         "longitude": 103.71667
     },
     {
-        "cityId": "1785551",
+        "cityId": 1785551,
         "name": "Yuxi Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 24.13073,
         "longitude": 102.03299
     },
     {
-        "cityId": "1788323",
+        "cityId": 1788323,
         "name": "Xishuangbanna Daizu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 22.08829,
         "longitude": 101.0248
     },
     {
-        "cityId": "1791424",
+        "cityId": 1791424,
         "name": "Wenshan Zhuangzu Miaozu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 23.6513,
         "longitude": 104.7083
     },
     {
-        "cityId": "1794208",
+        "cityId": 1794208,
         "name": "Pu'er City",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 22.82682,
         "longitude": 100.98083
     },
     {
-        "cityId": "1797315",
+        "cityId": 1797315,
         "name": "Qujing Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 25.71993,
         "longitude": 103.98613
     },
     {
-        "cityId": "1803589",
+        "cityId": 1803589,
         "name": "Lincang Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 23.94803,
         "longitude": 99.55124
     },
     {
-        "cityId": "1803666",
+        "cityId": 1803666,
         "name": "Lijiang Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 26.85337,
         "longitude": 100.5086
     },
     {
-        "cityId": "1804649",
+        "cityId": 1804649,
         "name": "Kunming Shi",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 25.29437,
         "longitude": 102.81853
     },
     {
-        "cityId": "1808130",
+        "cityId": 1808130,
         "name": "Honghe Hanizu Yizu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 23.51675,
         "longitude": 102.97389
     },
     {
-        "cityId": "1814065",
+        "cityId": 1814065,
         "name": "Dali Baizu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 25.68548,
         "longitude": 100.13104
     },
     {
-        "cityId": "1814758",
+        "cityId": 1814758,
         "name": "Chuxiong Yizu Zizhizhou",
-        "stateId": "1785694",
+        "stateId": 1785694,
         "latitude": 25.43204,
         "longitude": 101.70479
     }

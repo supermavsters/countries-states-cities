@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "610865",
+        "cityId": 610865,
         "name": "Zest\u2019aponis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.1,
         "longitude": 43.05
     },
     {
-        "cityId": "611214",
+        "cityId": 611214,
         "name": "Vanis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.01667,
         "longitude": 42.61667
     },
     {
-        "cityId": "611681",
+        "cityId": 611681,
         "name": "Terjolis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.21667,
         "longitude": 42.9
     },
     {
-        "cityId": "612124",
+        "cityId": 612124,
         "name": "Samtredia",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.16667,
         "longitude": 42.35
     },
     {
-        "cityId": "613054",
+        "cityId": 613054,
         "name": "Baghdatis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42,
         "longitude": 42.9
     },
     {
-        "cityId": "613900",
+        "cityId": 613900,
         "name": "Khonis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.4,
         "longitude": 42.5
     },
     {
-        "cityId": "614003",
+        "cityId": 614003,
         "name": "Kharagaulis Raioni",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42,
         "longitude": 43.25
     },
     {
-        "cityId": "615631",
+        "cityId": 615631,
         "name": "Tsqaltubo",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.26667,
         "longitude": 42.6
     },
     {
-        "cityId": "828308",
+        "cityId": 828308,
         "name": "K\u2019alak\u2019i Chiat\u2019ura",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.28333,
         "longitude": 43.25
     },
     {
-        "cityId": "828310",
+        "cityId": 828310,
         "name": "Kalaki Kutaisi",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.26667,
         "longitude": 42.6
     },
     {
-        "cityId": "828313",
+        "cityId": 828313,
         "name": "K\u2019alak\u2019i Tqibuli",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.33824,
         "longitude": 42.98538
     },
     {
-        "cityId": "7667511",
+        "cityId": 7667511,
         "name": "Khoni",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.31667,
         "longitude": 42.43333
     },
     {
-        "cityId": "7667553",
+        "cityId": 7667553,
         "name": "Baghdati",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.08333,
         "longitude": 42.83333
     },
     {
-        "cityId": "7667754",
+        "cityId": 7667754,
         "name": "Sachkhere",
-        "stateId": "865539",
+        "stateId": 865539,
         "latitude": 42.34528,
         "longitude": 43.41944
     }

@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7670722",
+        "cityId": 7670722,
         "name": "West Gojjam Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11.12001,
         "longitude": 37.17504
     },
     {
-        "cityId": "7670724",
+        "cityId": 7670724,
         "name": "East Gojjam Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 10.52907,
         "longitude": 37.85282
     },
     {
-        "cityId": "7670725",
+        "cityId": 7670725,
         "name": "Awi",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 10.96059,
         "longitude": 36.69687
     },
     {
-        "cityId": "7670726",
+        "cityId": 7670726,
         "name": "North Gondar Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 12.65807,
         "longitude": 37.08837
     },
     {
-        "cityId": "7732961",
+        "cityId": 7732961,
         "name": "South Wollo Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11,
         "longitude": 39.25
     },
     {
-        "cityId": "7869861",
+        "cityId": 7869861,
         "name": "South Gondar Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11.8385,
         "longitude": 38.09954
     },
     {
-        "cityId": "7869862",
+        "cityId": 7869862,
         "name": "North Wollo Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11.92,
         "longitude": 39.1
     },
     {
-        "cityId": "8051207",
+        "cityId": 8051207,
         "name": "North Shewa Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 9.769,
         "longitude": 39.668
     },
     {
-        "cityId": "8051209",
+        "cityId": 8051209,
         "name": "Wag Hemra Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 12.765,
         "longitude": 38.843
     },
     {
-        "cityId": "9165721",
+        "cityId": 9165721,
         "name": "Oromia Zone",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 10.66667,
         "longitude": 40
     },
     {
-        "cityId": "11750807",
+        "cityId": 11750807,
         "name": "North Gonder",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 12.71973,
         "longitude": 37.06297
     },
     {
-        "cityId": "11750808",
+        "cityId": 11750808,
         "name": "Wag Himra",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 12.70053,
         "longitude": 38.84805
     },
     {
-        "cityId": "11750809",
+        "cityId": 11750809,
         "name": "West Gojam",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11.03802,
         "longitude": 37.36944
     },
     {
-        "cityId": "11750810",
+        "cityId": 11750810,
         "name": "East Gojam",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 10.47398,
         "longitude": 38.02269
     },
     {
-        "cityId": "11750811",
+        "cityId": 11750811,
         "name": "South Gonder",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 11.75041,
         "longitude": 38.11866
     },
     {
-        "cityId": "11750812",
+        "cityId": 11750812,
         "name": "Oromiya",
-        "stateId": "444180",
+        "stateId": 444180,
         "latitude": 10.70057,
         "longitude": 40.02405
     }

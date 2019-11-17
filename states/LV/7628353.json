@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352523",
+        "cityId": 11352523,
         "name": "Cesvaine",
-        "stateId": "7628353",
+        "stateId": 7628353,
         "latitude": 56.96513,
         "longitude": 26.31127
     },
     {
-        "cityId": "11352524",
+        "cityId": 11352524,
         "name": "Cesvaines pagasts",
-        "stateId": "7628353",
+        "stateId": 7628353,
         "latitude": 57.00904,
         "longitude": 26.27641
     }

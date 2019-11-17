@@ -1,2402 +1,2402 @@
 [
     {
-        "cityId": "5896654",
+        "cityId": 5896654,
         "name": "Beaver County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.22074,
         "longitude": -112.19764
     },
     {
-        "cityId": "5901449",
+        "cityId": 5901449,
         "name": "Birch Hills County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.72315,
         "longitude": -118.0799
     },
     {
-        "cityId": "5908165",
+        "cityId": 5908165,
         "name": "Brazeau County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.1779,
         "longitude": -115.22159
     },
     {
-        "cityId": "5916822",
+        "cityId": 5916822,
         "name": "Cardston County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.27608,
         "longitude": -113.16608
     },
     {
-        "cityId": "5923679",
+        "cityId": 5923679,
         "name": "Clearwater County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.27567,
         "longitude": -115.71607
     },
     {
-        "cityId": "5928928",
+        "cityId": 5928928,
         "name": "County of Athabasca No. 12",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.73298,
         "longitude": -113.05645
     },
     {
-        "cityId": "5928929",
+        "cityId": 5928929,
         "name": "County of Barrhead No. 11",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.15235,
         "longitude": -114.52772
     },
     {
-        "cityId": "5928930",
+        "cityId": 5928930,
         "name": "County of Camrose No. 22",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.90154,
         "longitude": -112.73864
     },
     {
-        "cityId": "5928931",
+        "cityId": 5928931,
         "name": "County of Forty Mile No. 8",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.52364,
         "longitude": -111.17308
     },
     {
-        "cityId": "5928932",
+        "cityId": 5928932,
         "name": "County of Grande Prairie No. 1",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.27245,
         "longitude": -119.15553
     },
     {
-        "cityId": "5928933",
+        "cityId": 5928933,
         "name": "County of Lethbridge No. 26",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.8297,
         "longitude": -112.80406
     },
     {
-        "cityId": "5928934",
+        "cityId": 5928934,
         "name": "County of Minburn No. 27",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.41075,
         "longitude": -111.65037
     },
     {
-        "cityId": "5928935",
+        "cityId": 5928935,
         "name": "County of Newell No. 4",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.61591,
         "longitude": -111.9449
     },
     {
-        "cityId": "5928936",
+        "cityId": 5928936,
         "name": "County of Paintearth No. 18",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.21624,
         "longitude": -111.69615
     },
     {
-        "cityId": "5928937",
+        "cityId": 5928937,
         "name": "County of Stettler No. 6",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.23073,
         "longitude": -112.60079
     },
     {
-        "cityId": "5928938",
+        "cityId": 5928938,
         "name": "County of St. Paul No. 19",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.93327,
         "longitude": -111.31787
     },
     {
-        "cityId": "5928939",
+        "cityId": 5928939,
         "name": "County of Thorhild No. 7",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.22436,
         "longitude": -113.05201
     },
     {
-        "cityId": "5928940",
+        "cityId": 5928940,
         "name": "County of Two Hills No. 21",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.71596,
         "longitude": -111.52708
     },
     {
-        "cityId": "5928941",
+        "cityId": 5928941,
         "name": "County of Vermilion River No. 24",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.38156,
         "longitude": -110.49832
     },
     {
-        "cityId": "5928942",
+        "cityId": 5928942,
         "name": "County of Warner No. 5",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.2761,
         "longitude": -112.11368
     },
     {
-        "cityId": "5928943",
+        "cityId": 5928943,
         "name": "County of Wetaskiwin No. 10",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.97432,
         "longitude": -114.06784
     },
     {
-        "cityId": "5934408",
+        "cityId": 5934408,
         "name": "Cypress County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.87316,
         "longitude": -110.68244
     },
     {
-        "cityId": "5954111",
+        "cityId": 5954111,
         "name": "Flagstaff County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.66794,
         "longitude": -111.79484
     },
     {
-        "cityId": "5982630",
+        "cityId": 5982630,
         "name": "Improvement District No. 12",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.73297,
         "longitude": -117.58667
     },
     {
-        "cityId": "5982631",
+        "cityId": 5982631,
         "name": "Improvement District No. 13",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.59954,
         "longitude": -112.87756
     },
     {
-        "cityId": "5982632",
+        "cityId": 5982632,
         "name": "Improvement District No. 24",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 59.03353,
         "longitude": -113.3189
     },
     {
-        "cityId": "5982633",
+        "cityId": 5982633,
         "name": "Improvement District No. 25",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.67503,
         "longitude": -119.13862
     },
     {
-        "cityId": "5982634",
+        "cityId": 5982634,
         "name": "Improvement District No. 4",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.08685,
         "longitude": -113.89773
     },
     {
-        "cityId": "5982635",
+        "cityId": 5982635,
         "name": "Improvement District No. 9",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.5681,
         "longitude": -116.07159
     },
     {
-        "cityId": "5985919",
+        "cityId": 5985919,
         "name": "Jasper",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.89312,
         "longitude": -118.17458
     },
     {
-        "cityId": "5989103",
+        "cityId": 5989103,
         "name": "Kananaskis Improvement District",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.70287,
         "longitude": -114.8792
     },
     {
-        "cityId": "5993556",
+        "cityId": 5993556,
         "name": "Kneehill County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.66342,
         "longitude": -113.26582
     },
     {
-        "cityId": "6035617",
+        "cityId": 6035617,
         "name": "Lacombe County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.44871,
         "longitude": -113.7245
     },
     {
-        "cityId": "6043472",
+        "cityId": 6043472,
         "name": "Lac Ste. Anne County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.84654,
         "longitude": -114.69713
     },
     {
-        "cityId": "6049063",
+        "cityId": 6049063,
         "name": "Lamont County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.74871,
         "longitude": -112.47803
     },
     {
-        "cityId": "6051564",
+        "cityId": 6051564,
         "name": "Leduc County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.23573,
         "longitude": -113.80643
     },
     {
-        "cityId": "6058024",
+        "cityId": 6058024,
         "name": "Lloydminster",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.28346,
         "longitude": -110.00157
     },
     {
-        "cityId": "6079662",
+        "cityId": 6079662,
         "name": "Mountain View County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.67871,
         "longitude": -114.2387
     },
     {
-        "cityId": "6084201",
+        "cityId": 6084201,
         "name": "Municipal District of Acadia No. 34",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.09573,
         "longitude": -110.21553
     },
     {
-        "cityId": "6084202",
+        "cityId": 6084202,
         "name": "Municipal District of Bighorn No. 8",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.35819,
         "longitude": -115.08094
     },
     {
-        "cityId": "6084203",
+        "cityId": 6084203,
         "name": "Municipal District of Big Lakes No. 125",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.287,
         "longitude": -116.00353
     },
     {
-        "cityId": "6084204",
+        "cityId": 6084204,
         "name": "Municipal District of Bonnyville No. 87",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.25154,
         "longitude": -110.75315
     },
     {
-        "cityId": "6084205",
+        "cityId": 6084205,
         "name": "Municipal District of Clear Hills No. 21",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.76943,
         "longitude": -119.04008
     },
     {
-        "cityId": "6084206",
+        "cityId": 6084206,
         "name": "Municipal District of Fairview No. 136",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.02925,
         "longitude": -118.45496
     },
     {
-        "cityId": "6084207",
+        "cityId": 6084207,
         "name": "Municipal District of Foothills No. 31",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.61571,
         "longitude": -114.02618
     },
     {
-        "cityId": "6084208",
+        "cityId": 6084208,
         "name": "Municipal District of Greenview No. 16",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.62502,
         "longitude": -118.00255
     },
     {
-        "cityId": "6084209",
+        "cityId": 6084209,
         "name": "Municipal District of Lesser Slave River No. 124",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.22875,
         "longitude": -114.33691
     },
     {
-        "cityId": "6084210",
+        "cityId": 6084210,
         "name": "Municipal District of Northern Lights No. 22",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 57.46822,
         "longitude": -118.00252
     },
     {
-        "cityId": "6084211",
+        "cityId": 6084211,
         "name": "Municipal District of Opportunity No. 17",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.24691,
         "longitude": -113.79469
     },
     {
-        "cityId": "6084212",
+        "cityId": 6084212,
         "name": "Municipal District of Peace No. 135",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.13068,
         "longitude": -117.75491
     },
     {
-        "cityId": "6084213",
+        "cityId": 6084213,
         "name": "Municipal District of Pincher Creek No. 9",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.47999,
         "longitude": -114.04695
     },
     {
-        "cityId": "6084214",
+        "cityId": 6084214,
         "name": "Municipal District of Provost No. 52",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.40483,
         "longitude": -110.62992
     },
     {
-        "cityId": "6084215",
+        "cityId": 6084215,
         "name": "Municipal District of Ranchland No. 66",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.93226,
         "longitude": -114.41198
     },
     {
-        "cityId": "6084216",
+        "cityId": 6084216,
         "name": "Municipal District of Rocky View No. 44",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.23269,
         "longitude": -114.25232
     },
     {
-        "cityId": "6084217",
+        "cityId": 6084217,
         "name": "Municipal District of Smoky River No. 130",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.65068,
         "longitude": -117.18511
     },
     {
-        "cityId": "6084218",
+        "cityId": 6084218,
         "name": "Municipal District of Spirit River No. 133",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.76669,
         "longitude": -118.51665
     },
     {
-        "cityId": "6084219",
+        "cityId": 6084219,
         "name": "Municipal District of Taber",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.93146,
         "longitude": -112.05291
     },
     {
-        "cityId": "6084220",
+        "cityId": 6084220,
         "name": "Municipal District of Wainwright No. 61",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.84325,
         "longitude": -110.70582
     },
     {
-        "cityId": "6084221",
+        "cityId": 6084221,
         "name": "Municipal District of Westlock No. 92",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.25346,
         "longitude": -113.85146
     },
     {
-        "cityId": "6084222",
+        "cityId": 6084222,
         "name": "Municipal District of Willow Creek No. 26",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.96082,
         "longitude": -113.64225
     },
     {
-        "cityId": "6089985",
+        "cityId": 6089985,
         "name": "Northern Sunrise County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.63911,
         "longitude": -116.077
     },
     {
-        "cityId": "6098589",
+        "cityId": 6098589,
         "name": "Parkland County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.48293,
         "longitude": -114.37148
     },
     {
-        "cityId": "6109274",
+        "cityId": 6109274,
         "name": "Ponoka County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.71232,
         "longitude": -113.87452
     },
     {
-        "cityId": "6118160",
+        "cityId": 6118160,
         "name": "Red Deer County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.09952,
         "longitude": -113.79089
     },
     {
-        "cityId": "6137110",
+        "cityId": 6137110,
         "name": "Saddle Hills County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.85434,
         "longitude": -119.33341
     },
     {
-        "cityId": "6150297",
+        "cityId": 6150297,
         "name": "Smoky Lake County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.23908,
         "longitude": -112.25192
     },
     {
-        "cityId": "6153329",
+        "cityId": 6153329,
         "name": "Special Area No. 2",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.0673,
         "longitude": -111.65708
     },
     {
-        "cityId": "6153330",
+        "cityId": 6153330,
         "name": "Special Area No. 3",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.31402,
         "longitude": -110.66195
     },
     {
-        "cityId": "6153331",
+        "cityId": 6153331,
         "name": "Special Area No. 4",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.95432,
         "longitude": -110.64385
     },
     {
-        "cityId": "6153332",
+        "cityId": 6153332,
         "name": "Mackenzie County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 58.68989,
         "longitude": -117.04606
     },
     {
-        "cityId": "6155475",
+        "cityId": 6155475,
         "name": "Starland County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.66343,
         "longitude": -112.55746
     },
     {
-        "cityId": "6157997",
+        "cityId": 6157997,
         "name": "Strathcona County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.58574,
         "longitude": -113.10009
     },
     {
-        "cityId": "6158563",
+        "cityId": 6158563,
         "name": "Sturgeon County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.81824,
         "longitude": -113.52202
     },
     {
-        "cityId": "6174688",
+        "cityId": 6174688,
         "name": "Vulcan County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.44119,
         "longitude": -112.96108
     },
     {
-        "cityId": "6179870",
+        "cityId": 6179870,
         "name": "Wheatland County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.06702,
         "longitude": -112.93659
     },
     {
-        "cityId": "6184011",
+        "cityId": 6184011,
         "name": "Wood Buffalo",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 57.66443,
         "longitude": -112.00693
     },
     {
-        "cityId": "6184203",
+        "cityId": 6184203,
         "name": "Woodlands County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.26873,
         "longitude": -115.40193
     },
     {
-        "cityId": "6185360",
+        "cityId": 6185360,
         "name": "Yellowhead County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.41041,
         "longitude": -116.71338
     },
     {
-        "cityId": "11791378",
+        "cityId": 11791378,
         "name": "Lac la Biche County",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.04691,
         "longitude": -111.86279
     },
     {
-        "cityId": "11791395",
+        "cityId": 11791395,
         "name": "Crowsnest Pass",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.62339,
         "longitude": -114.47977
     },
     {
-        "cityId": "11807181",
+        "cityId": 11807181,
         "name": "Calgary",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.03503,
         "longitude": -114.05201
     },
     {
-        "cityId": "11807182",
+        "cityId": 11807182,
         "name": "Edmonton",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.53713,
         "longitude": -113.49488
     },
     {
-        "cityId": "11807183",
+        "cityId": 11807183,
         "name": "Medicine Hat",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.04581,
         "longitude": -110.70148
     },
     {
-        "cityId": "11807184",
+        "cityId": 11807184,
         "name": "Lethbridge",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.68761,
         "longitude": -112.84405
     },
     {
-        "cityId": "11807185",
+        "cityId": 11807185,
         "name": "Norris Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.96811,
         "longitude": -114.02007
     },
     {
-        "cityId": "11807186",
+        "cityId": 11807186,
         "name": "St. Albert",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.64038,
         "longitude": -113.6386
     },
     {
-        "cityId": "11807187",
+        "cityId": 11807187,
         "name": "Granum",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.8701,
         "longitude": -113.51061
     },
     {
-        "cityId": "11807188",
+        "cityId": 11807188,
         "name": "Westlock",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.15566,
         "longitude": -113.84424
     },
     {
-        "cityId": "11807189",
+        "cityId": 11807189,
         "name": "Edson",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.5857,
         "longitude": -116.44587
     },
     {
-        "cityId": "11807190",
+        "cityId": 11807190,
         "name": "Boyle",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.58846,
         "longitude": -112.8071
     },
     {
-        "cityId": "11807191",
+        "cityId": 11807191,
         "name": "Airdrie",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.28674,
         "longitude": -114.00728
     },
     {
-        "cityId": "11807192",
+        "cityId": 11807192,
         "name": "Coaldale",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.72487,
         "longitude": -112.61799
     },
     {
-        "cityId": "11807193",
+        "cityId": 11807193,
         "name": "Onoway",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.70636,
         "longitude": -114.18914
     },
     {
-        "cityId": "11807194",
+        "cityId": 11807194,
         "name": "Irricana",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.32358,
         "longitude": -113.60192
     },
     {
-        "cityId": "11807195",
+        "cityId": 11807195,
         "name": "Crossfield",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.42622,
         "longitude": -114.03366
     },
     {
-        "cityId": "11807196",
+        "cityId": 11807196,
         "name": "Elk Point",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.90043,
         "longitude": -110.90144
     },
     {
-        "cityId": "11807197",
+        "cityId": 11807197,
         "name": "Lloydminster (Part)",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.28074,
         "longitude": -110.03496
     },
     {
-        "cityId": "11807198",
+        "cityId": 11807198,
         "name": "Czar",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.45356,
         "longitude": -110.8253
     },
     {
-        "cityId": "11807199",
+        "cityId": 11807199,
         "name": "Camrose",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.00822,
         "longitude": -112.83168
     },
     {
-        "cityId": "11807200",
+        "cityId": 11807200,
         "name": "Lacombe",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.47206,
         "longitude": -113.72745
     },
     {
-        "cityId": "11807201",
+        "cityId": 11807201,
         "name": "Leduc",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.26568,
         "longitude": -113.54555
     },
     {
-        "cityId": "11807202",
+        "cityId": 11807202,
         "name": "Spruce Grove",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.54932,
         "longitude": -113.90557
     },
     {
-        "cityId": "11807203",
+        "cityId": 11807203,
         "name": "Brooks",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.56484,
         "longitude": -111.89195
     },
     {
-        "cityId": "11807204",
+        "cityId": 11807204,
         "name": "Olds",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.79081,
         "longitude": -114.11693
     },
     {
-        "cityId": "11807205",
+        "cityId": 11807205,
         "name": "St. Paul",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.98994,
         "longitude": -111.28923
     },
     {
-        "cityId": "11807206",
+        "cityId": 11807206,
         "name": "Viking",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.09737,
         "longitude": -111.76449
     },
     {
-        "cityId": "11807207",
+        "cityId": 11807207,
         "name": "Fort Saskatchewan",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.71767,
         "longitude": -113.1886
     },
     {
-        "cityId": "11807208",
+        "cityId": 11807208,
         "name": "Grande Prairie",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.18319,
         "longitude": -118.83305
     },
     {
-        "cityId": "11807209",
+        "cityId": 11807209,
         "name": "Vauxhall",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.06963,
         "longitude": -112.10855
     },
     {
-        "cityId": "11807210",
+        "cityId": 11807210,
         "name": "Red Deer",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.28159,
         "longitude": -113.79735
     },
     {
-        "cityId": "11807211",
+        "cityId": 11807211,
         "name": "Millet",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.08871,
         "longitude": -113.48064
     },
     {
-        "cityId": "11807212",
+        "cityId": 11807212,
         "name": "Chestermere",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.0337,
         "longitude": -113.82443
     },
     {
-        "cityId": "11807213",
+        "cityId": 11807213,
         "name": "Wetaskiwin",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.97208,
         "longitude": -113.37838
     },
     {
-        "cityId": "11807214",
+        "cityId": 11807214,
         "name": "Beaumont",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.35237,
         "longitude": -113.41535
     },
     {
-        "cityId": "11807215",
+        "cityId": 11807215,
         "name": "Trochu",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.8272,
         "longitude": -113.22949
     },
     {
-        "cityId": "11807216",
+        "cityId": 11807216,
         "name": "Cowley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.56761,
         "longitude": -114.07032
     },
     {
-        "cityId": "11807217",
+        "cityId": 11807217,
         "name": "Cold Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.42165,
         "longitude": -110.24661
     },
     {
-        "cityId": "11807218",
+        "cityId": 11807218,
         "name": "Mayerthorpe",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.94831,
         "longitude": -115.13456
     },
     {
-        "cityId": "11807219",
+        "cityId": 11807219,
         "name": "Swan Hills",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.71486,
         "longitude": -115.39864
     },
     {
-        "cityId": "11807220",
+        "cityId": 11807220,
         "name": "Three Hills",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.70129,
         "longitude": -113.2646
     },
     {
-        "cityId": "11807221",
+        "cityId": 11807221,
         "name": "Vegreville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.49907,
         "longitude": -112.06621
     },
     {
-        "cityId": "11807222",
+        "cityId": 11807222,
         "name": "Coronation",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.09256,
         "longitude": -111.4444
     },
     {
-        "cityId": "11807223",
+        "cityId": 11807223,
         "name": "Redwater",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.95291,
         "longitude": -113.11881
     },
     {
-        "cityId": "11807224",
+        "cityId": 11807224,
         "name": "Bon Accord",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.83921,
         "longitude": -113.40704
     },
     {
-        "cityId": "11807225",
+        "cityId": 11807225,
         "name": "Two Hills",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.71184,
         "longitude": -111.74364
     },
     {
-        "cityId": "11807226",
+        "cityId": 11807226,
         "name": "Falher",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.73355,
         "longitude": -117.1983
     },
     {
-        "cityId": "11807227",
+        "cityId": 11807227,
         "name": "Picture Butte",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.87387,
         "longitude": -112.78232
     },
     {
-        "cityId": "11807228",
+        "cityId": 11807228,
         "name": "Canmore",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.06359,
         "longitude": -115.32545
     },
     {
-        "cityId": "11807229",
+        "cityId": 11807229,
         "name": "Stony Plain",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.52916,
         "longitude": -113.99729
     },
     {
-        "cityId": "11807231",
+        "cityId": 11807231,
         "name": "Sylvan Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.30494,
         "longitude": -114.08848
     },
     {
-        "cityId": "11807232",
+        "cityId": 11807232,
         "name": "Eckville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.36191,
         "longitude": -114.36996
     },
     {
-        "cityId": "11807233",
+        "cityId": 11807233,
         "name": "Bentley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.46702,
         "longitude": -114.04806
     },
     {
-        "cityId": "11807234",
+        "cityId": 11807234,
         "name": "Blackfalds",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.38646,
         "longitude": -113.784
     },
     {
-        "cityId": "11807235",
+        "cityId": 11807235,
         "name": "Hinton",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.3958,
         "longitude": -117.58064
     },
     {
-        "cityId": "11807236",
+        "cityId": 11807236,
         "name": "Stavely",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.16149,
         "longitude": -113.63913
     },
     {
-        "cityId": "11807237",
+        "cityId": 11807237,
         "name": "Didsbury",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.65881,
         "longitude": -114.13674
     },
     {
-        "cityId": "11807238",
+        "cityId": 11807238,
         "name": "South View",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.65223,
         "longitude": -114.66024
     },
     {
-        "cityId": "11807239",
+        "cityId": 11807239,
         "name": "Fort Macleod",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.72044,
         "longitude": -113.40027
     },
     {
-        "cityId": "11807240",
+        "cityId": 11807240,
         "name": "Claresholm",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.02074,
         "longitude": -113.5866
     },
     {
-        "cityId": "11807241",
+        "cityId": 11807241,
         "name": "Carstairs",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.56057,
         "longitude": -114.09464
     },
     {
-        "cityId": "11807242",
+        "cityId": 11807242,
         "name": "Gibbons",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.82338,
         "longitude": -113.33015
     },
     {
-        "cityId": "11807244",
+        "cityId": 11807244,
         "name": "Oyen",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.34615,
         "longitude": -110.48592
     },
     {
-        "cityId": "11807245",
+        "cityId": 11807245,
         "name": "Bow Island",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.87334,
         "longitude": -111.37088
     },
     {
-        "cityId": "11807246",
+        "cityId": 11807246,
         "name": "Strathmore",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.0479,
         "longitude": -113.39602
     },
     {
-        "cityId": "11807247",
+        "cityId": 11807247,
         "name": "Barrhead",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.12579,
         "longitude": -114.40452
     },
     {
-        "cityId": "11807248",
+        "cityId": 11807248,
         "name": "Larkspur",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.43872,
         "longitude": -113.76848
     },
     {
-        "cityId": "11807249",
+        "cityId": 11807249,
         "name": "Redcliff",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.07337,
         "longitude": -110.78124
     },
     {
-        "cityId": "11807250",
+        "cityId": 11807250,
         "name": "Coalhurst",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.74294,
         "longitude": -112.92619
     },
     {
-        "cityId": "11807251",
+        "cityId": 11807251,
         "name": "Ryley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.29583,
         "longitude": -112.42528
     },
     {
-        "cityId": "11807252",
+        "cityId": 11807252,
         "name": "Tofield",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.37285,
         "longitude": -112.67367
     },
     {
-        "cityId": "11807253",
+        "cityId": 11807253,
         "name": "Beaverlodge",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.20915,
         "longitude": -119.42273
     },
     {
-        "cityId": "11807254",
+        "cityId": 11807254,
         "name": "Cochrane",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.18478,
         "longitude": -114.46898
     },
     {
-        "cityId": "11807255",
+        "cityId": 11807255,
         "name": "Delia",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.63205,
         "longitude": -112.37001
     },
     {
-        "cityId": "11807256",
+        "cityId": 11807256,
         "name": "Vulcan",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.40153,
         "longitude": -113.2682
     },
     {
-        "cityId": "11807257",
+        "cityId": 11807257,
         "name": "Provost",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.3544,
         "longitude": -110.25803
     },
     {
-        "cityId": "11807258",
+        "cityId": 11807258,
         "name": "Munson",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.56125,
         "longitude": -112.73563
     },
     {
-        "cityId": "11807259",
+        "cityId": 11807259,
         "name": "Bruderheim",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.80416,
         "longitude": -112.9313
     },
     {
-        "cityId": "11807260",
+        "cityId": 11807260,
         "name": "Duchess",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.73207,
         "longitude": -111.90733
     },
     {
-        "cityId": "11807261",
+        "cityId": 11807261,
         "name": "Willingdon",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.8283,
         "longitude": -112.11807
     },
     {
-        "cityId": "11807262",
+        "cityId": 11807262,
         "name": "Castor",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.21792,
         "longitude": -111.90776
     },
     {
-        "cityId": "11807263",
+        "cityId": 11807263,
         "name": "Wembley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.15662,
         "longitude": -119.14064
     },
     {
-        "cityId": "11807264",
+        "cityId": 11807264,
         "name": "Drumheller",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.41472,
         "longitude": -112.63384
     },
     {
-        "cityId": "11807265",
+        "cityId": 11807265,
         "name": "Smoky Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.11187,
         "longitude": -112.46996
     },
     {
-        "cityId": "11807266",
+        "cityId": 11807266,
         "name": "Bashaw",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.58637,
         "longitude": -112.96878
     },
     {
-        "cityId": "11807267",
+        "cityId": 11807267,
         "name": "Morrin",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.65857,
         "longitude": -112.76402
     },
     {
-        "cityId": "11807268",
+        "cityId": 11807268,
         "name": "Devon",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.35265,
         "longitude": -113.72593
     },
     {
-        "cityId": "11807269",
+        "cityId": 11807269,
         "name": "Calmar",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.26365,
         "longitude": -113.80717
     },
     {
-        "cityId": "11807270",
+        "cityId": 11807270,
         "name": "Milk River",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.15416,
         "longitude": -112.08453
     },
     {
-        "cityId": "11807271",
+        "cityId": 11807271,
         "name": "Drayton Valley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.21688,
         "longitude": -114.97697
     },
     {
-        "cityId": "11807272",
+        "cityId": 11807272,
         "name": "Vermilion",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.35469,
         "longitude": -110.85019
     },
     {
-        "cityId": "11807273",
+        "cityId": 11807273,
         "name": "Halkirk",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.28451,
         "longitude": -112.15329
     },
     {
-        "cityId": "11807274",
+        "cityId": 11807274,
         "name": "Rimbey",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.63883,
         "longitude": -114.23476
     },
     {
-        "cityId": "11807275",
+        "cityId": 11807275,
         "name": "Whitecourt",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.13643,
         "longitude": -115.65711
     },
     {
-        "cityId": "11807276",
+        "cityId": 11807276,
         "name": "Raymond",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.46242,
         "longitude": -112.65632
     },
     {
-        "cityId": "11807277",
+        "cityId": 11807277,
         "name": "Valleyview",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.06355,
         "longitude": -117.27587
     },
     {
-        "cityId": "11807278",
+        "cityId": 11807278,
         "name": "Mundare",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.58899,
         "longitude": -112.34643
     },
     {
-        "cityId": "11807279",
+        "cityId": 11807279,
         "name": "Lamont",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.75859,
         "longitude": -112.77193
     },
     {
-        "cityId": "11807280",
+        "cityId": 11807280,
         "name": "Parkland Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.60695,
         "longitude": -114.06515
     },
     {
-        "cityId": "11807281",
+        "cityId": 11807281,
         "name": "Taber",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.7962,
         "longitude": -112.14496
     },
     {
-        "cityId": "11807282",
+        "cityId": 11807282,
         "name": "Ponoka",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.67436,
         "longitude": -113.59364
     },
     {
-        "cityId": "11807283",
+        "cityId": 11807283,
         "name": "Big Valley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.03364,
         "longitude": -112.75438
     },
     {
-        "cityId": "11807284",
+        "cityId": 11807284,
         "name": "Morinville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.79821,
         "longitude": -113.63844
     },
     {
-        "cityId": "11807285",
+        "cityId": 11807285,
         "name": "Legal",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.94985,
         "longitude": -113.5913
     },
     {
-        "cityId": "11807286",
+        "cityId": 11807286,
         "name": "High Prairie",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.43593,
         "longitude": -116.49043
     },
     {
-        "cityId": "11807287",
+        "cityId": 11807287,
         "name": "Cremona",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.54267,
         "longitude": -114.47944
     },
     {
-        "cityId": "11807288",
+        "cityId": 11807288,
         "name": "Banff",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.17645,
         "longitude": -115.56633
     },
     {
-        "cityId": "11807289",
+        "cityId": 11807289,
         "name": "Fox Creek",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.40385,
         "longitude": -116.79903
     },
     {
-        "cityId": "11807290",
+        "cityId": 11807290,
         "name": "Grande Cache",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.87726,
         "longitude": -119.11991
     },
     {
-        "cityId": "11807291",
+        "cityId": 11807291,
         "name": "Athabasca",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.71773,
         "longitude": -113.27981
     },
     {
-        "cityId": "11807292",
+        "cityId": 11807292,
         "name": "Slave Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.27533,
         "longitude": -114.77232
     },
     {
-        "cityId": "11807293",
+        "cityId": 11807293,
         "name": "Manning",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.92566,
         "longitude": -117.62554
     },
     {
-        "cityId": "11807294",
+        "cityId": 11807294,
         "name": "High Level",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 58.51236,
         "longitude": -117.14143
     },
     {
-        "cityId": "11807295",
+        "cityId": 11807295,
         "name": "Rainbow Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 58.50092,
         "longitude": -119.40094
     },
     {
-        "cityId": "11807296",
+        "cityId": 11807296,
         "name": "Sexsmith",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.3487,
         "longitude": -118.78168
     },
     {
-        "cityId": "11807297",
+        "cityId": 11807297,
         "name": "Fairview",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.07117,
         "longitude": -118.38071
     },
     {
-        "cityId": "11807298",
+        "cityId": 11807298,
         "name": "Grimshaw",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.19052,
         "longitude": -117.60961
     },
     {
-        "cityId": "11807299",
+        "cityId": 11807299,
         "name": "Bowden",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.93149,
         "longitude": -114.02816
     },
     {
-        "cityId": "11807300",
+        "cityId": 11807300,
         "name": "Hanna",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.64284,
         "longitude": -111.92681
     },
     {
-        "cityId": "11807301",
+        "cityId": 11807301,
         "name": "Warburg",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.18518,
         "longitude": -114.31874
     },
     {
-        "cityId": "11807302",
+        "cityId": 11807302,
         "name": "Sundre",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.79945,
         "longitude": -114.6403
     },
     {
-        "cityId": "11807303",
+        "cityId": 11807303,
         "name": "Peace River",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.23081,
         "longitude": -117.31493
     },
     {
-        "cityId": "11807304",
+        "cityId": 11807304,
         "name": "McLennan",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.70809,
         "longitude": -116.9023
     },
     {
-        "cityId": "11807305",
+        "cityId": 11807305,
         "name": "Spirit River",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.78019,
         "longitude": -118.83663
     },
     {
-        "cityId": "11807306",
+        "cityId": 11807306,
         "name": "Arrowwood",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.73743,
         "longitude": -113.15249
     },
     {
-        "cityId": "11807307",
+        "cityId": 11807307,
         "name": "Innisfail",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.02905,
         "longitude": -113.95617
     },
     {
-        "cityId": "11807308",
+        "cityId": 11807308,
         "name": "Penhold",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.13609,
         "longitude": -113.87252
     },
     {
-        "cityId": "11807309",
+        "cityId": 11807309,
         "name": "High River",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.5831,
         "longitude": -113.8704
     },
     {
-        "cityId": "11807310",
+        "cityId": 11807310,
         "name": "Bonnyville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.26645,
         "longitude": -110.74635
     },
     {
-        "cityId": "11807311",
+        "cityId": 11807311,
         "name": "Cardston",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.19238,
         "longitude": -113.31009
     },
     {
-        "cityId": "11807312",
+        "cityId": 11807312,
         "name": "Pincher Creek",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.49121,
         "longitude": -113.94244
     },
     {
-        "cityId": "11807313",
+        "cityId": 11807313,
         "name": "Bassano",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.78854,
         "longitude": -112.46871
     },
     {
-        "cityId": "11807314",
+        "cityId": 11807314,
         "name": "Magrath",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.41587,
         "longitude": -112.86735
     },
     {
-        "cityId": "11807315",
+        "cityId": 11807315,
         "name": "Turner Valley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.66998,
         "longitude": -114.27419
     },
     {
-        "cityId": "11807316",
+        "cityId": 11807316,
         "name": "Black Diamond",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.68816,
         "longitude": -114.22999
     },
     {
-        "cityId": "11807317",
+        "cityId": 11807317,
         "name": "Gull Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.46464,
         "longitude": -113.93157
     },
     {
-        "cityId": "11807318",
+        "cityId": 11807318,
         "name": "Sunset Point",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.69153,
         "longitude": -114.34424
     },
     {
-        "cityId": "11807319",
+        "cityId": 11807319,
         "name": "Okotoks",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.72399,
         "longitude": -113.9654
     },
     {
-        "cityId": "11807320",
+        "cityId": 11807320,
         "name": "Sedgewick",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.77756,
         "longitude": -111.69312
     },
     {
-        "cityId": "11807321",
+        "cityId": 11807321,
         "name": "Nakamun Park",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.88061,
         "longitude": -114.21334
     },
     {
-        "cityId": "11807322",
+        "cityId": 11807322,
         "name": "Silver Sands",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.63443,
         "longitude": -114.6605
     },
     {
-        "cityId": "11807323",
+        "cityId": 11807323,
         "name": "Bonnyville Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.22625,
         "longitude": -110.86915
     },
     {
-        "cityId": "11807324",
+        "cityId": 11807324,
         "name": "West Baptiste",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.75464,
         "longitude": -113.56542
     },
     {
-        "cityId": "11807325",
+        "cityId": 11807325,
         "name": "Rocky Mountain House",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.37616,
         "longitude": -114.91747
     },
     {
-        "cityId": "11807326",
+        "cityId": 11807326,
         "name": "Daysland",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.86789,
         "longitude": -112.2634
     },
     {
-        "cityId": "11807327",
+        "cityId": 11807327,
         "name": "Killam",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.79458,
         "longitude": -111.85201
     },
     {
-        "cityId": "11807328",
+        "cityId": 11807328,
         "name": "Argentia Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.05269,
         "longitude": -114.02642
     },
     {
-        "cityId": "11807329",
+        "cityId": 11807329,
         "name": "Hardisty",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.67115,
         "longitude": -111.31462
     },
     {
-        "cityId": "11807330",
+        "cityId": 11807330,
         "name": "Wainwright",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.83904,
         "longitude": -110.85091
     },
     {
-        "cityId": "11807331",
+        "cityId": 11807331,
         "name": "Ross Haven",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.7343,
         "longitude": -114.40778
     },
     {
-        "cityId": "11807332",
+        "cityId": 11807332,
         "name": "Whispering Hills",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.75966,
         "longitude": -113.54828
     },
     {
-        "cityId": "11807333",
+        "cityId": 11807333,
         "name": "Castle Island",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.70911,
         "longitude": -114.34114
     },
     {
-        "cityId": "11807334",
+        "cityId": 11807334,
         "name": "Sunbreaker Cove",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.38946,
         "longitude": -114.19524
     },
     {
-        "cityId": "11807335",
+        "cityId": 11807335,
         "name": "Rochon Sands",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.45953,
         "longitude": -112.88695
     },
     {
-        "cityId": "11807336",
+        "cityId": 11807336,
         "name": "Ma-Me-O Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.97554,
         "longitude": -113.96047
     },
     {
-        "cityId": "11807337",
+        "cityId": 11807337,
         "name": "Silver Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.03995,
         "longitude": -113.99005
     },
     {
-        "cityId": "11807338",
+        "cityId": 11807338,
         "name": "Birch Cove",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.95576,
         "longitude": -114.36874
     },
     {
-        "cityId": "11807339",
+        "cityId": 11807339,
         "name": "Horseshoe Bay",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.12065,
         "longitude": -111.36898
     },
     {
-        "cityId": "11807340",
+        "cityId": 11807340,
         "name": "Seba Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.55877,
         "longitude": -114.73486
     },
     {
-        "cityId": "11807341",
+        "cityId": 11807341,
         "name": "Betula Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.54248,
         "longitude": -114.68334
     },
     {
-        "cityId": "11807342",
+        "cityId": 11807342,
         "name": "Rosemary",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.75579,
         "longitude": -112.08797
     },
     {
-        "cityId": "11807343",
+        "cityId": 11807343,
         "name": "Point Alison",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.55035,
         "longitude": -114.4887
     },
     {
-        "cityId": "11807344",
+        "cityId": 11807344,
         "name": "White Sands",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.46908,
         "longitude": -112.81156
     },
     {
-        "cityId": "11807345",
+        "cityId": 11807345,
         "name": "Ghost Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.20538,
         "longitude": -114.7652
     },
     {
-        "cityId": "11807346",
+        "cityId": 11807346,
         "name": "Norglenwold",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.32118,
         "longitude": -114.11894
     },
     {
-        "cityId": "11807347",
+        "cityId": 11807347,
         "name": "Birchcliff",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.3601,
         "longitude": -114.11584
     },
     {
-        "cityId": "11807348",
+        "cityId": 11807348,
         "name": "Half Moon Bay",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.3464,
         "longitude": -114.17419
     },
     {
-        "cityId": "11807349",
+        "cityId": 11807349,
         "name": "South Baptiste",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.72368,
         "longitude": -113.56851
     },
     {
-        "cityId": "11807350",
+        "cityId": 11807350,
         "name": "Yellowstone",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.73376,
         "longitude": -114.37956
     },
     {
-        "cityId": "11807351",
+        "cityId": 11807351,
         "name": "Val Quentin",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.6698,
         "longitude": -114.37936
     },
     {
-        "cityId": "11807352",
+        "cityId": 11807352,
         "name": "West Cove",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.69963,
         "longitude": -114.49434
     },
     {
-        "cityId": "11807353",
+        "cityId": 11807353,
         "name": "Lakeview",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.55979,
         "longitude": -114.45854
     },
     {
-        "cityId": "11807354",
+        "cityId": 11807354,
         "name": "Nobleford",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.88465,
         "longitude": -113.05405
     },
     {
-        "cityId": "11807355",
+        "cityId": 11807355,
         "name": "Kapasiwin",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.54582,
         "longitude": -114.44541
     },
     {
-        "cityId": "11807356",
+        "cityId": 11807356,
         "name": "Sandy Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.8073,
         "longitude": -114.04035
     },
     {
-        "cityId": "11807357",
+        "cityId": 11807357,
         "name": "Golden Days",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.05405,
         "longitude": -114.05408
     },
     {
-        "cityId": "11807358",
+        "cityId": 11807358,
         "name": "Carmangay",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.12812,
         "longitude": -113.11206
     },
     {
-        "cityId": "11807359",
+        "cityId": 11807359,
         "name": "Sunrise Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.78739,
         "longitude": -114.04982
     },
     {
-        "cityId": "11807360",
+        "cityId": 11807360,
         "name": "Sundance Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.08222,
         "longitude": -114.11173
     },
     {
-        "cityId": "11807361",
+        "cityId": 11807361,
         "name": "Mewatha Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.61252,
         "longitude": -112.74302
     },
     {
-        "cityId": "11807362",
+        "cityId": 11807362,
         "name": "Poplar Bay",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.00463,
         "longitude": -114.10385
     },
     {
-        "cityId": "11807363",
+        "cityId": 11807363,
         "name": "Crystal Springs",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.97785,
         "longitude": -114.04001
     },
     {
-        "cityId": "11807364",
+        "cityId": 11807364,
         "name": "Itaska Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.07086,
         "longitude": -114.07824
     },
     {
-        "cityId": "11807365",
+        "cityId": 11807365,
         "name": "Waiparous",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.28376,
         "longitude": -114.84066
     },
     {
-        "cityId": "11807366",
+        "cityId": 11807366,
         "name": "Coutts",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.00252,
         "longitude": -111.96258
     },
     {
-        "cityId": "11807367",
+        "cityId": 11807367,
         "name": "Sunset Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.74583,
         "longitude": -113.54055
     },
     {
-        "cityId": "11807368",
+        "cityId": 11807368,
         "name": "Island Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.84532,
         "longitude": -113.5561
     },
     {
-        "cityId": "11807369",
+        "cityId": 11807369,
         "name": "Island Lake South",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.82591,
         "longitude": -113.53404
     },
     {
-        "cityId": "11807370",
+        "cityId": 11807370,
         "name": "Bondiss",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.59954,
         "longitude": -112.69526
     },
     {
-        "cityId": "11807371",
+        "cityId": 11807371,
         "name": "Donalda",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.58419,
         "longitude": -112.57572
     },
     {
-        "cityId": "11807372",
+        "cityId": 11807372,
         "name": "Jarvis Bay",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.33929,
         "longitude": -114.07795
     },
     {
-        "cityId": "11807373",
+        "cityId": 11807373,
         "name": "Pelican Narrows",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.26126,
         "longitude": -110.89247
     },
     {
-        "cityId": "11807374",
+        "cityId": 11807374,
         "name": "Grandview",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.99211,
         "longitude": -114.05873
     },
     {
-        "cityId": "11807375",
+        "cityId": 11807375,
         "name": "Burnstick Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.98924,
         "longitude": -114.89251
     },
     {
-        "cityId": "11807376",
+        "cityId": 11807376,
         "name": "Rockyford",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.23265,
         "longitude": -113.13993
     },
     {
-        "cityId": "11807377",
+        "cityId": 11807377,
         "name": "Carbon",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.48504,
         "longitude": -113.152
     },
     {
-        "cityId": "11807378",
+        "cityId": 11807378,
         "name": "Acme",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.49618,
         "longitude": -113.50927
     },
     {
-        "cityId": "11807379",
+        "cityId": 11807379,
         "name": "Linden",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.59068,
         "longitude": -113.48556
     },
     {
-        "cityId": "11807380",
+        "cityId": 11807380,
         "name": "Hughenden",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.51017,
         "longitude": -110.96898
     },
     {
-        "cityId": "11807381",
+        "cityId": 11807381,
         "name": "Vilna",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.11637,
         "longitude": -111.92015
     },
     {
-        "cityId": "11807382",
+        "cityId": 11807382,
         "name": "Waskatenau",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.09508,
         "longitude": -112.78286
     },
     {
-        "cityId": "11807383",
+        "cityId": 11807383,
         "name": "Myrnam",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.66117,
         "longitude": -111.22498
     },
     {
-        "cityId": "11807384",
+        "cityId": 11807384,
         "name": "Bawlf",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.91903,
         "longitude": -112.46601
     },
     {
-        "cityId": "11807385",
+        "cityId": 11807385,
         "name": "Barons",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.99817,
         "longitude": -113.08261
     },
     {
-        "cityId": "11807386",
+        "cityId": 11807386,
         "name": "Lougheed",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.74782,
         "longitude": -111.5382
     },
     {
-        "cityId": "11807387",
+        "cityId": 11807387,
         "name": "Hussar",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.04172,
         "longitude": -112.67972
     },
     {
-        "cityId": "11807388",
+        "cityId": 11807388,
         "name": "Alberta Beach",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.6757,
         "longitude": -114.34776
     },
     {
-        "cityId": "11807389",
+        "cityId": 11807389,
         "name": "Beiseker",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.38086,
         "longitude": -113.54045
     },
     {
-        "cityId": "11807390",
+        "cityId": 11807390,
         "name": "Innisfree",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.37795,
         "longitude": -111.52789
     },
     {
-        "cityId": "11807391",
+        "cityId": 11807391,
         "name": "Glendon",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.2521,
         "longitude": -111.15531
     },
     {
-        "cityId": "11807392",
+        "cityId": 11807392,
         "name": "Wabamun",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.56155,
         "longitude": -114.47774
     },
     {
-        "cityId": "11807393",
+        "cityId": 11807393,
         "name": "Amisk",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.56456,
         "longitude": -111.05764
     },
     {
-        "cityId": "11807394",
+        "cityId": 11807394,
         "name": "Alliance",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.43613,
         "longitude": -111.78511
     },
     {
-        "cityId": "11807395",
+        "cityId": 11807395,
         "name": "Foremost",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.47571,
         "longitude": -111.44818
     },
     {
-        "cityId": "11807396",
+        "cityId": 11807396,
         "name": "Mannville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.33764,
         "longitude": -111.1775
     },
     {
-        "cityId": "11807397",
+        "cityId": 11807397,
         "name": "Paradise Valley",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.03143,
         "longitude": -110.29704
     },
     {
-        "cityId": "11807398",
+        "cityId": 11807398,
         "name": "Stirling",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.50175,
         "longitude": -112.52795
     },
     {
-        "cityId": "11807399",
+        "cityId": 11807399,
         "name": "Cereal",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.41879,
         "longitude": -110.80189
     },
     {
-        "cityId": "11807400",
+        "cityId": 11807400,
         "name": "Youngstown",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.52849,
         "longitude": -111.2023
     },
     {
-        "cityId": "11807401",
+        "cityId": 11807401,
         "name": "Veteran",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.00112,
         "longitude": -111.11743
     },
     {
-        "cityId": "11807402",
+        "cityId": 11807402,
         "name": "Consort",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.01133,
         "longitude": -110.77751
     },
     {
-        "cityId": "11807403",
+        "cityId": 11807403,
         "name": "Champion",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.24003,
         "longitude": -113.14797
     },
     {
-        "cityId": "11807405",
+        "cityId": 11807405,
         "name": "Lomond",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.3477,
         "longitude": -112.64191
     },
     {
-        "cityId": "11807406",
+        "cityId": 11807406,
         "name": "Milo",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.5678,
         "longitude": -112.88306
     },
     {
-        "cityId": "11807407",
+        "cityId": 11807407,
         "name": "Gadsby",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.29692,
         "longitude": -112.35148
     },
     {
-        "cityId": "11807408",
+        "cityId": 11807408,
         "name": "Botha",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.30789,
         "longitude": -112.51891
     },
     {
-        "cityId": "11807410",
+        "cityId": 11807410,
         "name": "Ferintosh",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.76411,
         "longitude": -112.97108
     },
     {
-        "cityId": "11807411",
+        "cityId": 11807411,
         "name": "Edberg",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.78565,
         "longitude": -112.78618
     },
     {
-        "cityId": "11807412",
+        "cityId": 11807412,
         "name": "Bittern Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.00486,
         "longitude": -113.04519
     },
     {
-        "cityId": "11807413",
+        "cityId": 11807413,
         "name": "Hay Lakes",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.1966,
         "longitude": -113.05524
     },
     {
-        "cityId": "11807414",
+        "cityId": 11807414,
         "name": "Breton",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.11263,
         "longitude": -114.47305
     },
     {
-        "cityId": "11807415",
+        "cityId": 11807415,
         "name": "Warner",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.28226,
         "longitude": -112.20797
     },
     {
-        "cityId": "11807416",
+        "cityId": 11807416,
         "name": "Thorsby",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.22718,
         "longitude": -114.0459
     },
     {
-        "cityId": "11807417",
+        "cityId": 11807417,
         "name": "Clive",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.4786,
         "longitude": -113.44545
     },
     {
-        "cityId": "11807418",
+        "cityId": 11807418,
         "name": "Barnwell",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.75942,
         "longitude": -112.26361
     },
     {
-        "cityId": "11807419",
+        "cityId": 11807419,
         "name": "Alix",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.39679,
         "longitude": -113.18801
     },
     {
-        "cityId": "11807420",
+        "cityId": 11807420,
         "name": "Dewberry",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.58618,
         "longitude": -110.52605
     },
     {
-        "cityId": "11807421",
+        "cityId": 11807421,
         "name": "Holden",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.23107,
         "longitude": -112.23222
     },
     {
-        "cityId": "11807422",
+        "cityId": 11807422,
         "name": "Kitscoty",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.34068,
         "longitude": -110.33281
     },
     {
-        "cityId": "11807423",
+        "cityId": 11807423,
         "name": "Marwayne",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.51417,
         "longitude": -110.33117
     },
     {
-        "cityId": "11807424",
+        "cityId": 11807424,
         "name": "Spring Lake",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.51895,
         "longitude": -114.13733
     },
     {
-        "cityId": "11807425",
+        "cityId": 11807425,
         "name": "Andrew",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.87938,
         "longitude": -112.33581
     },
     {
-        "cityId": "11807426",
+        "cityId": 11807426,
         "name": "Chipman",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 53.68799,
         "longitude": -112.63539
     },
     {
-        "cityId": "11807427",
+        "cityId": 11807427,
         "name": "Clyde",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 54.14875,
         "longitude": -113.63384
     },
     {
-        "cityId": "11807428",
+        "cityId": 11807428,
         "name": "Girouxville",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.75408,
         "longitude": -117.3386
     },
     {
-        "cityId": "11807429",
+        "cityId": 11807429,
         "name": "Berwyn",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.14677,
         "longitude": -117.73403
     },
     {
-        "cityId": "11807430",
+        "cityId": 11807430,
         "name": "Hythe",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.32823,
         "longitude": -119.55817
     },
     {
-        "cityId": "11807431",
+        "cityId": 11807431,
         "name": "Donnelly",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.72926,
         "longitude": -117.11093
     },
     {
-        "cityId": "11807432",
+        "cityId": 11807432,
         "name": "Rycroft",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.75739,
         "longitude": -118.70647
     },
     {
-        "cityId": "11807433",
+        "cityId": 11807433,
         "name": "Elnora",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 51.99771,
         "longitude": -113.20154
     },
     {
-        "cityId": "11807434",
+        "cityId": 11807434,
         "name": "Delburne",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.19332,
         "longitude": -113.22624
     },
     {
-        "cityId": "11807435",
+        "cityId": 11807435,
         "name": "Empress",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.95479,
         "longitude": -110.01639
     },
     {
-        "cityId": "11807436",
+        "cityId": 11807436,
         "name": "Nampa",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.03835,
         "longitude": -117.13455
     },
     {
-        "cityId": "11807437",
+        "cityId": 11807437,
         "name": "Hines Creek",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 56.24738,
         "longitude": -118.61195
     },
     {
-        "cityId": "11807438",
+        "cityId": 11807438,
         "name": "Longview",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 50.53077,
         "longitude": -114.23348
     },
     {
-        "cityId": "11807439",
+        "cityId": 11807439,
         "name": "Glenwood",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.36572,
         "longitude": -113.51623
     },
     {
-        "cityId": "11807440",
+        "cityId": 11807440,
         "name": "Hill Spring",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 49.29473,
         "longitude": -113.62229
     },
     {
-        "cityId": "11807441",
+        "cityId": 11807441,
         "name": "Caroline",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.09579,
         "longitude": -114.73804
     },
     {
-        "cityId": "11807442",
+        "cityId": 11807442,
         "name": "Forestburg",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.58341,
         "longitude": -112.06808
     },
     {
-        "cityId": "11807443",
+        "cityId": 11807443,
         "name": "Heisler",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.67085,
         "longitude": -112.22408
     },
     {
-        "cityId": "11807444",
+        "cityId": 11807444,
         "name": "Chauvin",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.69351,
         "longitude": -110.14241
     },
     {
-        "cityId": "11807445",
+        "cityId": 11807445,
         "name": "Edgerton",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.75887,
         "longitude": -110.45308
     },
     {
-        "cityId": "11807446",
+        "cityId": 11807446,
         "name": "Irma",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 52.91318,
         "longitude": -111.22942
     },
     {
-        "cityId": "11807447",
+        "cityId": 11807447,
         "name": "Improvement District No. 349",
-        "stateId": "5883102",
+        "stateId": 5883102,
         "latitude": 55.08199,
         "longitude": -110.60875
     }

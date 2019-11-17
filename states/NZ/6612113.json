@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2179466",
+        "cityId": 2179466,
         "name": "Westland District",
-        "stateId": "6612113",
+        "stateId": 6612113,
         "latitude": -43.5,
         "longitude": 170
     },
     {
-        "cityId": "7910033",
+        "cityId": 7910033,
         "name": "Buller District",
-        "stateId": "6612113",
+        "stateId": 6612113,
         "latitude": -41.64929,
         "longitude": 172.00895
     },
     {
-        "cityId": "7910040",
+        "cityId": 7910040,
         "name": "Grey District",
-        "stateId": "6612113",
+        "stateId": 6612113,
         "latitude": -42.4094,
         "longitude": 171.66245
     }

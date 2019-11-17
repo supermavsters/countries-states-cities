@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7268091",
+        "cityId": 7268091,
         "name": "Coamo Arriba Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.1417,
         "longitude": -66.36748
     },
     {
-        "cityId": "7268092",
+        "cityId": 7268092,
         "name": "Coamo Barrio-Pueblo",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.0787,
         "longitude": -66.36028
     },
     {
-        "cityId": "7268140",
+        "cityId": 7268140,
         "name": "Cuy\u00f3n Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.0847,
         "longitude": -66.2962
     },
     {
-        "cityId": "7268469",
+        "cityId": 7268469,
         "name": "Hayales Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.16205,
         "longitude": -66.37129
     },
     {
-        "cityId": "7268577",
+        "cityId": 7268577,
         "name": "Los Llanos Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.05733,
         "longitude": -66.40782
     },
     {
-        "cityId": "7268717",
+        "cityId": 7268717,
         "name": "Palmarejo Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.06591,
         "longitude": -66.32604
     },
     {
-        "cityId": "7268736",
+        "cityId": 7268736,
         "name": "Pasto Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.10918,
         "longitude": -66.35021
     },
     {
-        "cityId": "7268743",
+        "cityId": 7268743,
         "name": "Pedro Garc\u00eda Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.14518,
         "longitude": -66.40464
     },
     {
-        "cityId": "7268835",
+        "cityId": 7268835,
         "name": "Pulguillas Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.14905,
         "longitude": -66.33114
     },
     {
-        "cityId": "7268971",
+        "cityId": 7268971,
         "name": "San Ildefonso Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.05093,
         "longitude": -66.3558
     },
     {
-        "cityId": "7268986",
+        "cityId": 7268986,
         "name": "Santa Catalina Barrio",
-        "stateId": "4563812",
+        "stateId": 4563812,
         "latitude": 18.10098,
         "longitude": -66.40548
     }

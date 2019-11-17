@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1150295",
+        "cityId": 1150295,
         "name": "Amphoe Thalang",
-        "stateId": "1151253",
+        "stateId": 1151253,
         "latitude": 8.03407,
         "longitude": 98.33399
     },
     {
-        "cityId": "1151984",
+        "cityId": 1151984,
         "name": "Amphoe Mueang Phuket",
-        "stateId": "1151253",
+        "stateId": 1151253,
         "latitude": 7.85609,
         "longitude": 98.37183
     },
     {
-        "cityId": "1153034",
+        "cityId": 1153034,
         "name": "Amphoe Kathu",
-        "stateId": "1151253",
+        "stateId": 1151253,
         "latitude": 7.91456,
         "longitude": 98.3333
     }

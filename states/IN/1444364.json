@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1255347",
+        "cityId": 1255347,
         "name": "Surguja",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 23.25,
         "longitude": 83
     },
     {
-        "cityId": "1258832",
+        "cityId": 1258832,
         "name": "R\u0101j N\u0101ndgaon",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 21.16667,
         "longitude": 81
     },
     {
-        "cityId": "1258984",
+        "cityId": 1258984,
         "name": "Raipur",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 20.91667,
         "longitude": 82
     },
     {
-        "cityId": "1259006",
+        "cityId": 1259006,
         "name": "Raigarh",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 22.08582,
         "longitude": 83.30603
     },
     {
-        "cityId": "1272182",
+        "cityId": 1272182,
         "name": "Durg",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 21.15,
         "longitude": 81.4
     },
     {
-        "cityId": "1275639",
+        "cityId": 1275639,
         "name": "Bil\u0101spur",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 22.38333,
         "longitude": 82.13333
     },
     {
-        "cityId": "1276739",
+        "cityId": 1276739,
         "name": "Bastar",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 19.26794,
         "longitude": 81.73828
     },
     {
-        "cityId": "7627169",
+        "cityId": 7627169,
         "name": "Korba",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 22.5,
         "longitude": 82.6
     },
     {
-        "cityId": "7627170",
+        "cityId": 7627170,
         "name": "Dhamtari",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 20.5,
         "longitude": 81.8
     },
     {
-        "cityId": "7627172",
+        "cityId": 7627172,
         "name": "Uttar Bastar Kanker",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 20.2,
         "longitude": 81.1
     },
     {
-        "cityId": "7627225",
+        "cityId": 7627225,
         "name": "Janjgir-Champa",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 21.9,
         "longitude": 82.7
     },
     {
-        "cityId": "7627230",
+        "cityId": 7627230,
         "name": "Kabeerdham",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 22.1,
         "longitude": 81.2
     },
     {
-        "cityId": "7627236",
+        "cityId": 7627236,
         "name": "Mahasamund",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 21.2,
         "longitude": 82.5
     },
     {
-        "cityId": "7701598",
+        "cityId": 7701598,
         "name": "Koriya",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 23.48326,
         "longitude": 82.15037
     },
     {
-        "cityId": "7701599",
+        "cityId": 7701599,
         "name": "Jashpur",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 22.78495,
         "longitude": 83.84573
     },
     {
-        "cityId": "9747942",
+        "cityId": 9747942,
         "name": "Bijapur",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 18.84322,
         "longitude": 80.7761
     },
     {
-        "cityId": "9747953",
+        "cityId": 9747953,
         "name": "Dakshin Bastar Dantewada",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 18.49996,
         "longitude": 81.37964
     },
     {
-        "cityId": "9748023",
+        "cityId": 9748023,
         "name": "Narayanpur",
-        "stateId": "1444364",
+        "stateId": 1444364,
         "latitude": 19.60426,
         "longitude": 81.08119
     }

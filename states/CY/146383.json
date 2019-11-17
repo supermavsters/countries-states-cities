@@ -1,701 +1,701 @@
 [
     {
-        "cityId": "10346941",
+        "cityId": 10346941,
         "name": "Lemes\u00f3s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.69218,
         "longitude": 33.02854
     },
     {
-        "cityId": "10346942",
+        "cityId": 10346942,
         "name": "M\u00e9sa Geitoni\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70057,
         "longitude": 33.04374
     },
     {
-        "cityId": "10346943",
+        "cityId": 10346943,
         "name": "\u00c1gios Athan\u00e1sios",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.72207,
         "longitude": 33.05528
     },
     {
-        "cityId": "10346944",
+        "cityId": 10346944,
         "name": "Germas\u00f3geia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.72207,
         "longitude": 33.08254
     },
     {
-        "cityId": "10346945",
+        "cityId": 10346945,
         "name": "P\u00e1no Polem\u00eddia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.71106,
         "longitude": 32.99184
     },
     {
-        "cityId": "10346946",
+        "cityId": 10346946,
         "name": "\u00ddpsonas",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70424,
         "longitude": 32.9499
     },
     {
-        "cityId": "10346947",
+        "cityId": 10346947,
         "name": "K\u00e1to Polem\u00eddia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70319,
         "longitude": 32.97769
     },
     {
-        "cityId": "10346948",
+        "cityId": 10346948,
         "name": "Pal\u00f3deia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.74408,
         "longitude": 32.98922
     },
     {
-        "cityId": "10346949",
+        "cityId": 10346949,
         "name": "Param\u00fdtha",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.75614,
         "longitude": 32.97245
     },
     {
-        "cityId": "10346950",
+        "cityId": 10346950,
         "name": "Spit\u00e1li",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.76505,
         "longitude": 33.00809
     },
     {
-        "cityId": "10346951",
+        "cityId": 10346951,
         "name": "Faso\u00fala",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.75719,
         "longitude": 33.02959
     },
     {
-        "cityId": "10346952",
+        "cityId": 10346952,
         "name": "Mathikol\u00f3ni",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.78235,
         "longitude": 33.06052
     },
     {
-        "cityId": "10346953",
+        "cityId": 10346953,
         "name": "Ger\u00e1sa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.81014,
         "longitude": 32.99551
     },
     {
-        "cityId": "10346954",
+        "cityId": 10346954,
         "name": "Apsio\u00fa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.8007,
         "longitude": 33.03011
     },
     {
-        "cityId": "10346955",
+        "cityId": 10346955,
         "name": "Apesi\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.78288,
         "longitude": 32.97612
     },
     {
-        "cityId": "10346956",
+        "cityId": 10346956,
         "name": "Korf\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.79232,
         "longitude": 32.95934
     },
     {
-        "cityId": "10346957",
+        "cityId": 10346957,
         "name": "Limn\u00e1tis",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.79756,
         "longitude": 32.94519
     },
     {
-        "cityId": "10346958",
+        "cityId": 10346958,
         "name": "Kapilei\u00f3",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.83111,
         "longitude": 32.96563
     },
     {
-        "cityId": "10346959",
+        "cityId": 10346959,
         "name": "Mouttagi\u00e1ka",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.72207,
         "longitude": 33.10508
     },
     {
-        "cityId": "10346960",
+        "cityId": 10346960,
         "name": "Armenoch\u00f3ri",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.75195,
         "longitude": 33.12448
     },
     {
-        "cityId": "10346961",
+        "cityId": 10346961,
         "name": "Foinik\u00e1ria",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.76034,
         "longitude": 33.10613
     },
     {
-        "cityId": "10346962",
+        "cityId": 10346962,
         "name": "Akro\u00fanta",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.76977,
         "longitude": 33.08411
     },
     {
-        "cityId": "10346963",
+        "cityId": 10346963,
         "name": "\u00c1gios T\u00fdchon",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.72154,
         "longitude": 33.13391
     },
     {
-        "cityId": "10346964",
+        "cityId": 10346964,
         "name": "Parekklisi\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.75771,
         "longitude": 33.15436
     },
     {
-        "cityId": "10346965",
+        "cityId": 10346965,
         "name": "Pent\u00e1komo",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.7315,
         "longitude": 33.2503
     },
     {
-        "cityId": "10346966",
+        "cityId": 10346966,
         "name": "Monagro\u00falli",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.74723,
         "longitude": 33.2157
     },
     {
-        "cityId": "10346967",
+        "cityId": 10346967,
         "name": "Asg\u00e1ta",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.77711,
         "longitude": 33.2503
     },
     {
-        "cityId": "10346968",
+        "cityId": 10346968,
         "name": "V\u00e1sa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.80332,
         "longitude": 33.22251
     },
     {
-        "cityId": "10346969",
+        "cityId": 10346969,
         "name": "San\u00edda",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.8028,
         "longitude": 33.19053
     },
     {
-        "cityId": "10346970",
+        "cityId": 10346970,
         "name": "Klon\u00e1ri",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.82901,
         "longitude": 33.17847
     },
     {
-        "cityId": "10346971",
+        "cityId": 10346971,
         "name": "V\u00edkla",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.82796,
         "longitude": 33.20102
     },
     {
-        "cityId": "10346972",
+        "cityId": 10346972,
         "name": "Kell\u00e1ki",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.81329,
         "longitude": 33.16065
     },
     {
-        "cityId": "10346973",
+        "cityId": 10346973,
         "name": "Akapno\u00fa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.84317,
         "longitude": 33.19892
     },
     {
-        "cityId": "10346974",
+        "cityId": 10346974,
         "name": "Eptag\u00f3neia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.84474,
         "longitude": 33.14912
     },
     {
-        "cityId": "10346975",
+        "cityId": 10346975,
         "name": "Dier\u00f3na",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.81905,
         "longitude": 33.09774
     },
     {
-        "cityId": "10346976",
+        "cityId": 10346976,
         "name": "Arakap\u00e1s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.85208,
         "longitude": 33.1056
     },
     {
-        "cityId": "10346977",
+        "cityId": 10346977,
         "name": "\u00c1gios P\u00e1vlos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.87148,
         "longitude": 33.04899
     },
     {
-        "cityId": "10346978",
+        "cityId": 10346978,
         "name": "\u00c1gios Konstant\u00ednos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.87357,
         "longitude": 33.07467
     },
     {
-        "cityId": "10346979",
+        "cityId": 10346979,
         "name": "Syk\u00f3petra",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.88196,
         "longitude": 33.1056
     },
     {
-        "cityId": "10346980",
+        "cityId": 10346980,
         "name": "Louvar\u00e1s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.83111,
         "longitude": 33.04165
     },
     {
-        "cityId": "10346981",
+        "cityId": 10346981,
         "name": "Zoopig\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.86623,
         "longitude": 33.00285
     },
     {
-        "cityId": "10346982",
+        "cityId": 10346982,
         "name": "Akrot\u00edri",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.60044,
         "longitude": 32.96563
     },
     {
-        "cityId": "10346983",
+        "cityId": 10346983,
         "name": "Tserk\u00e9zoi",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.64867,
         "longitude": 32.99027
     },
     {
-        "cityId": "10346984",
+        "cityId": 10346984,
         "name": "Kol\u00f3ssi",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.66807,
         "longitude": 32.93313
     },
     {
-        "cityId": "10346985",
+        "cityId": 10346985,
         "name": "Er\u00edmi",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.69009,
         "longitude": 32.92002
     },
     {
-        "cityId": "10346986",
+        "cityId": 10346986,
         "name": "Episkop\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.67383,
         "longitude": 32.8828
     },
     {
-        "cityId": "10346987",
+        "cityId": 10346987,
         "name": "Kanto\u00fa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70057,
         "longitude": 32.90325
     },
     {
-        "cityId": "10346988",
+        "cityId": 10346988,
         "name": "Sot\u00edra",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70319,
         "longitude": 32.84086
     },
     {
-        "cityId": "10346989",
+        "cityId": 10346989,
         "name": "Param\u00e1li",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.68694,
         "longitude": 32.79787
     },
     {
-        "cityId": "10346990",
+        "cityId": 10346990,
         "name": "Avd\u00edmou",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.68484,
         "longitude": 32.76065
     },
     {
-        "cityId": "10346991",
+        "cityId": 10346991,
         "name": "Platan\u00edsteia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.71001,
         "longitude": 32.71085
     },
     {
-        "cityId": "10346992",
+        "cityId": 10346992,
         "name": "\u00c1gios Tom\u00e1s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.71158,
         "longitude": 32.73129
     },
     {
-        "cityId": "10346993",
+        "cityId": 10346993,
         "name": "Al\u00e9ktora",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.70319,
         "longitude": 32.66891
     },
     {
-        "cityId": "10346994",
+        "cityId": 10346994,
         "name": "An\u00f3gyra",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.74041,
         "longitude": 32.73391
     },
     {
-        "cityId": "10346995",
+        "cityId": 10346995,
         "name": "Pisso\u00fari",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.67016,
         "longitude": 32.70141
     },
     {
-        "cityId": "10346996",
+        "cityId": 10346996,
         "name": "So\u00fani-Zanaki\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.7357,
         "longitude": 32.88437
     },
     {
-        "cityId": "10346997",
+        "cityId": 10346997,
         "name": "\u00c1lassa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.75876,
         "longitude": 32.92369
     },
     {
-        "cityId": "10346998",
+        "cityId": 10346998,
         "name": "K\u00e1to Kiv\u00eddes",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.76558,
         "longitude": 32.87022
     },
     {
-        "cityId": "10346999",
+        "cityId": 10346999,
         "name": "P\u00e1no Kiv\u00eddes",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.7509,
         "longitude": 32.84191
     },
     {
-        "cityId": "10347000",
+        "cityId": 10347000,
         "name": "\u00c1gios Ther\u00e1pon",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.78235,
         "longitude": 32.87441
     },
     {
-        "cityId": "10347001",
+        "cityId": 10347001,
         "name": "L\u00f3fou",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.80332,
         "longitude": 32.87913
     },
     {
-        "cityId": "10347002",
+        "cityId": 10347002,
         "name": "P\u00e1chna",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.76925,
         "longitude": 32.78529
     },
     {
-        "cityId": "10347003",
+        "cityId": 10347003,
         "name": "Dor\u00f3s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.79756,
         "longitude": 32.92421
     },
     {
-        "cityId": "10347004",
+        "cityId": 10347004,
         "name": "L\u00e1neia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.83006,
         "longitude": 32.91845
     },
     {
-        "cityId": "10347005",
+        "cityId": 10347005,
         "name": "Sil\u00edkou",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.83373,
         "longitude": 32.88594
     },
     {
-        "cityId": "10347006",
+        "cityId": 10347006,
         "name": "Mon\u00e1gri",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.79336,
         "longitude": 32.91321
     },
     {
-        "cityId": "10347007",
+        "cityId": 10347007,
         "name": "Trim\u00edklini",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.85103,
         "longitude": 32.91268
     },
     {
-        "cityId": "10347008",
+        "cityId": 10347008,
         "name": "\u00c1gios M\u00e1mas",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.8526,
         "longitude": 32.94571
     },
     {
-        "cityId": "10347009",
+        "cityId": 10347009,
         "name": "Kouk\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.85522,
         "longitude": 32.89276
     },
     {
-        "cityId": "10347010",
+        "cityId": 10347010,
         "name": "Moni\u00e1tis",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.88301,
         "longitude": 32.90639
     },
     {
-        "cityId": "10347011",
+        "cityId": 10347011,
         "name": "Dor\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.78131,
         "longitude": 32.73129
     },
     {
-        "cityId": "10347012",
+        "cityId": 10347012,
         "name": "Gerov\u00e1sa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.81538,
         "longitude": 32.73549
     },
     {
-        "cityId": "10347013",
+        "cityId": 10347013,
         "name": "\u00c1rsos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.84055,
         "longitude": 32.7638
     },
     {
-        "cityId": "10347014",
+        "cityId": 10347014,
         "name": "Kisso\u00fasa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.80804,
         "longitude": 32.79682
     },
     {
-        "cityId": "10347015",
+        "cityId": 10347015,
         "name": "Mali\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.80647,
         "longitude": 32.76537
     },
     {
-        "cityId": "10347016",
+        "cityId": 10347016,
         "name": "V\u00e1sa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.8374,
         "longitude": 32.78686
     },
     {
-        "cityId": "10347017",
+        "cityId": 10347017,
         "name": "Voun\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.81591,
         "longitude": 32.82723
     },
     {
-        "cityId": "10347018",
+        "cityId": 10347018,
         "name": "P\u00e9ra Ped\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.86466,
         "longitude": 32.87074
     },
     {
-        "cityId": "10347019",
+        "cityId": 10347019,
         "name": "Mandri\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.86781,
         "longitude": 32.83667
     },
     {
-        "cityId": "10347020",
+        "cityId": 10347020,
         "name": "Potamio\u00fa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.82429,
         "longitude": 32.80574
     },
     {
-        "cityId": "10347021",
+        "cityId": 10347021,
         "name": "\u00d3modos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.8526,
         "longitude": 32.80678
     },
     {
-        "cityId": "10347022",
+        "cityId": 10347022,
         "name": "Koil\u00e1ni",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.84212,
         "longitude": 32.85449
     },
     {
-        "cityId": "10347023",
+        "cityId": 10347023,
         "name": "\u00c1gios Dim\u00edtrios",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.92023,
         "longitude": 32.8115
     },
     {
-        "cityId": "10347024",
+        "cityId": 10347024,
         "name": "Palai\u00f3mylos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.92914,
         "longitude": 32.82566
     },
     {
-        "cityId": "10347025",
+        "cityId": 10347025,
         "name": "Pr\u00f3dromos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.9412,
         "longitude": 32.83929
     },
     {
-        "cityId": "10347026",
+        "cityId": 10347026,
         "name": "Kamin\u00e1ria",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.92285,
         "longitude": 32.78057
     },
     {
-        "cityId": "10347027",
+        "cityId": 10347027,
         "name": "Treis Eli\u00e9s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.93334,
         "longitude": 32.79525
     },
     {
-        "cityId": "10347028",
+        "cityId": 10347028,
         "name": "Lem\u00edthou",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.95011,
         "longitude": 32.80678
     },
     {
-        "cityId": "10347029",
+        "cityId": 10347029,
         "name": "K\u00e1to Pl\u00e1tres",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.88039,
         "longitude": 32.82828
     },
     {
-        "cityId": "10347030",
+        "cityId": 10347030,
         "name": "P\u00e1no Pl\u00e1tres",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.91132,
         "longitude": 32.87913
     },
     {
-        "cityId": "10347031",
+        "cityId": 10347031,
         "name": "Foin\u00ed",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.90398,
         "longitude": 32.82041
     },
     {
-        "cityId": "10347032",
+        "cityId": 10347032,
         "name": "Am\u00edantos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.92809,
         "longitude": 32.92421
     },
     {
-        "cityId": "10347033",
+        "cityId": 10347033,
         "name": "K\u00e1to M\u00fdlos",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.89769,
         "longitude": 33.00233
     },
     {
-        "cityId": "10347034",
+        "cityId": 10347034,
         "name": "Potam\u00edtissa",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.90398,
         "longitude": 32.98765
     },
     {
-        "cityId": "10347035",
+        "cityId": 10347035,
         "name": "D\u00fdmes",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.92757,
         "longitude": 32.96878
     },
     {
-        "cityId": "10347036",
+        "cityId": 10347036,
         "name": "Pel\u00e9ndri",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.89402,
         "longitude": 32.952
     },
     {
-        "cityId": "10347037",
+        "cityId": 10347037,
         "name": "Agr\u00f3s",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.91866,
         "longitude": 33.01858
     },
     {
-        "cityId": "10347038",
+        "cityId": 10347038,
         "name": "Agr\u00eddia",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.93124,
         "longitude": 32.99446
     },
     {
-        "cityId": "10347039",
+        "cityId": 10347039,
         "name": "Chandri\u00e1",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.94697,
         "longitude": 32.99132
     },
     {
-        "cityId": "10347040",
+        "cityId": 10347040,
         "name": "Kypero\u00fanta",
-        "stateId": "146383",
+        "stateId": 146383,
         "latitude": 34.94539,
         "longitude": 32.96406
     }

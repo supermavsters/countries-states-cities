@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1604760",
+        "cityId": 1604760,
         "name": "Amphoe Yi-ngo",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.41655,
         "longitude": 101.70035
     },
     {
-        "cityId": "1605185",
+        "cityId": 1605185,
         "name": "Amphoe Waeng",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 5.90042,
         "longitude": 101.86195
     },
     {
-        "cityId": "1605956",
+        "cityId": 1605956,
         "name": "Amphoe Tak Bai",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.23748,
         "longitude": 102.00238
     },
     {
-        "cityId": "1606046",
+        "cityId": 1606046,
         "name": "Amphoe Su-ngai Padi",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.10425,
         "longitude": 101.89333
     },
     {
-        "cityId": "1606049",
+        "cityId": 1606049,
         "name": "Amphoe Su-ngai Kolok",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.07674,
         "longitude": 101.99818
     },
     {
-        "cityId": "1606960",
+        "cityId": 1606960,
         "name": "Amphoe Rueso",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.3745,
         "longitude": 101.51491
     },
     {
-        "cityId": "1607082",
+        "cityId": 1607082,
         "name": "Amphoe Ra-ngae",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.25504,
         "longitude": 101.70496
     },
     {
-        "cityId": "1608642",
+        "cityId": 1608642,
         "name": "Amphoe Mueang Narathiwat",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.39391,
         "longitude": 101.81316
     },
     {
-        "cityId": "1621004",
+        "cityId": 1621004,
         "name": "Amphoe Ba Cho",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.54591,
         "longitude": 101.64923
     },
     {
-        "cityId": "6987551",
+        "cityId": 6987551,
         "name": "Amphoe Sukhirin",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 5.91513,
         "longitude": 101.73811
     },
     {
-        "cityId": "7000625",
+        "cityId": 7000625,
         "name": "Amphoe Chanae",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.04591,
         "longitude": 101.61765
     },
     {
-        "cityId": "7001132",
+        "cityId": 7001132,
         "name": "Amphoe Cho-airong",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.23011,
         "longitude": 101.84721
     },
     {
-        "cityId": "7001159",
+        "cityId": 7001159,
         "name": "Amphoe Si Sakhon",
-        "stateId": "1608408",
+        "stateId": 1608408,
         "latitude": 6.1936,
         "longitude": 101.51257
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7647112",
+        "cityId": 7647112,
         "name": "Nangkor",
-        "stateId": "1337291",
+        "stateId": 1337291,
         "latitude": 27.20107,
         "longitude": 90.80763
     },
     {
-        "cityId": "7647118",
+        "cityId": 7647118,
         "name": "Goshing",
-        "stateId": "1337291",
+        "stateId": 1337291,
         "latitude": 26.96509,
         "longitude": 90.91624
     },
     {
-        "cityId": "7647122",
+        "cityId": 7647122,
         "name": "Bardo",
-        "stateId": "1337291",
+        "stateId": 1337291,
         "latitude": 27.07292,
         "longitude": 90.99064
     },
     {
-        "cityId": "7647813",
+        "cityId": 7647813,
         "name": "Trong",
-        "stateId": "1337291",
+        "stateId": 1337291,
         "latitude": 27.10936,
         "longitude": 90.67809
     }

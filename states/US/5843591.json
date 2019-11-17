@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "5816904",
+        "cityId": 5816904,
         "name": "Albany County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 41.65447,
         "longitude": -105.72391
     },
     {
-        "cityId": "5818658",
+        "cityId": 5818658,
         "name": "Big Horn County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.52682,
         "longitude": -107.99521
     },
     {
-        "cityId": "5820441",
+        "cityId": 5820441,
         "name": "Campbell County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.24839,
         "longitude": -105.54831
     },
     {
-        "cityId": "5820552",
+        "cityId": 5820552,
         "name": "Carbon County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 41.69459,
         "longitude": -106.93061
     },
     {
-        "cityId": "5821791",
+        "cityId": 5821791,
         "name": "Converse County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.97233,
         "longitude": -105.50706
     },
     {
-        "cityId": "5822351",
+        "cityId": 5822351,
         "name": "Crook County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.5886,
         "longitude": -104.56994
     },
     {
-        "cityId": "5825643",
+        "cityId": 5825643,
         "name": "Fremont County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.04053,
         "longitude": -108.63042
     },
     {
-        "cityId": "5826220",
+        "cityId": 5826220,
         "name": "Goshen County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.08794,
         "longitude": -104.35326
     },
     {
-        "cityId": "5828054",
+        "cityId": 5828054,
         "name": "Hot Springs County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.71893,
         "longitude": -108.4421
     },
     {
-        "cityId": "5828957",
+        "cityId": 5828957,
         "name": "Johnson County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.03877,
         "longitude": -106.58463
     },
     {
-        "cityId": "5830051",
+        "cityId": 5830051,
         "name": "Laramie County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 41.30707,
         "longitude": -104.68962
     },
     {
-        "cityId": "5830383",
+        "cityId": 5830383,
         "name": "Lincoln County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.26404,
         "longitude": -110.65597
     },
     {
-        "cityId": "5833224",
+        "cityId": 5833224,
         "name": "Natrona County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.96224,
         "longitude": -106.79849
     },
     {
-        "cityId": "5833446",
+        "cityId": 5833446,
         "name": "Niobrara County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.0565,
         "longitude": -104.47538
     },
     {
-        "cityId": "5834587",
+        "cityId": 5834587,
         "name": "Park County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.52057,
         "longitude": -109.58853
     },
     {
-        "cityId": "5835308",
+        "cityId": 5835308,
         "name": "Platte County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.13305,
         "longitude": -104.96582
     },
     {
-        "cityId": "5838199",
+        "cityId": 5838199,
         "name": "Sheridan County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 44.79004,
         "longitude": -106.87948
     },
     {
-        "cityId": "5840177",
+        "cityId": 5840177,
         "name": "Sublette County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 42.76691,
         "longitude": -109.91471
     },
     {
-        "cityId": "5840426",
+        "cityId": 5840426,
         "name": "Sweetwater County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 41.6595,
         "longitude": -108.87942
     },
     {
-        "cityId": "5840786",
+        "cityId": 5840786,
         "name": "Teton County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.93476,
         "longitude": -110.58974
     },
     {
-        "cityId": "5841693",
+        "cityId": 5841693,
         "name": "Uinta County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 41.28756,
         "longitude": -110.54759
     },
     {
-        "cityId": "5842257",
+        "cityId": 5842257,
         "name": "Washakie County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.905,
         "longitude": -107.68286
     },
     {
-        "cityId": "5842707",
+        "cityId": 5842707,
         "name": "Weston County",
-        "stateId": "5843591",
+        "stateId": 5843591,
         "latitude": 43.84049,
         "longitude": -104.56783
     }

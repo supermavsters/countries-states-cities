@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7053969",
+        "cityId": 7053969,
         "name": "\u2018Al\u012bng\u0101r",
-        "stateId": "1135022",
+        "stateId": 1135022,
         "latitude": 34.8175,
         "longitude": 70.41077
     },
     {
-        "cityId": "7053970",
+        "cityId": 7053970,
         "name": "\u2018Al\u012bsheng",
-        "stateId": "1135022",
+        "stateId": 1135022,
         "latitude": 34.82548,
         "longitude": 70.08421
     },
     {
-        "cityId": "7053971",
+        "cityId": 7053971,
         "name": "Dowlat Sh\u0101h",
-        "stateId": "1135022",
+        "stateId": 1135022,
         "latitude": 35.03586,
         "longitude": 69.99947
     },
     {
-        "cityId": "7053972",
+        "cityId": 7053972,
         "name": "Mehtar L\u0101m",
-        "stateId": "1135022",
+        "stateId": 1135022,
         "latitude": 34.6518,
         "longitude": 70.09508
     },
     {
-        "cityId": "7053973",
+        "cityId": 7053973,
         "name": "Qarghah\u2019\u012b",
-        "stateId": "1135022",
+        "stateId": 1135022,
         "latitude": 34.51253,
         "longitude": 70.19568
     }

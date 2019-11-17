@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352519",
+        "cityId": 11352519,
         "name": "C\u0113sis",
-        "stateId": "460569",
+        "stateId": 460569,
         "latitude": 57.31236,
         "longitude": 25.26407
     },
     {
-        "cityId": "11352522",
+        "cityId": 11352522,
         "name": "Vaives pagasts",
-        "stateId": "460569",
+        "stateId": 460569,
         "latitude": 57.23351,
         "longitude": 25.43029
     }

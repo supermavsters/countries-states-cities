@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1679428",
+        "cityId": 1679428,
         "name": "Province of  Zamboanga del Sur",
-        "stateId": "7521308",
+        "stateId": 7521308,
         "latitude": 7.9043,
         "longitude": 123.3194
     },
     {
-        "cityId": "1679429",
+        "cityId": 1679429,
         "name": "Province of Zamboanga del Norte",
-        "stateId": "7521308",
+        "stateId": 7521308,
         "latitude": 8,
         "longitude": 122.66667
     },
     {
-        "cityId": "7115981",
+        "cityId": 7115981,
         "name": "Province of Zamboanga Sibugay",
-        "stateId": "7521308",
+        "stateId": 7521308,
         "latitude": 7.7627,
         "longitude": 122.54356
     }

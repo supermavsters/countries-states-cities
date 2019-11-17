@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2625781",
+        "cityId": 2625781,
         "name": "Tj\u00f6rneshreppur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 66.11667,
         "longitude": -17.2
     },
     {
-        "cityId": "2626312",
+        "cityId": 2626312,
         "name": "Svalbar\u00f0sstrandarhreppur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.74138,
         "longitude": -18.03513
     },
     {
-        "cityId": "2626315",
+        "cityId": 2626315,
         "name": "Svalbar\u00f0shreppur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 66.08333,
         "longitude": -15.8
     },
     {
-        "cityId": "2626806",
+        "cityId": 2626806,
         "name": "Sk\u00fatusta\u00f0ahreppur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.17177,
         "longitude": -16.7789
     },
     {
-        "cityId": "2631018",
+        "cityId": 2631018,
         "name": "Gr\u00fdtubakkahreppur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.98333,
         "longitude": -18.11667
     },
     {
-        "cityId": "2632286",
+        "cityId": 2632286,
         "name": "Dalv\u00edkurbygg\u00f0",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.87318,
         "longitude": -18.60844
     },
     {
-        "cityId": "2633275",
+        "cityId": 2633275,
         "name": "Akureyrarkaupsta\u00f0ur",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.6457,
         "longitude": -18.20646
     },
     {
-        "cityId": "3345264",
+        "cityId": 3345264,
         "name": "Eyjafjar\u00f0arsveit",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.33333,
         "longitude": -18.16667
     },
     {
-        "cityId": "3345266",
+        "cityId": 3345266,
         "name": "\u00deingeyjarsveit",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.37229,
         "longitude": -17.59927
     },
     {
-        "cityId": "9192036",
+        "cityId": 9192036,
         "name": "Langanesbygg\u00f0",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 66.05186,
         "longitude": -15.18969
     },
     {
-        "cityId": "9192054",
+        "cityId": 9192054,
         "name": "Nor\u00f0ur\u00feing",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 66.02432,
         "longitude": -16.43541
     },
     {
-        "cityId": "9192070",
+        "cityId": 9192070,
         "name": "H\u00f6rg\u00e1rsveit",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 65.64828,
         "longitude": -18.49599
     },
     {
-        "cityId": "9192468",
+        "cityId": 9192468,
         "name": "Fjallabygg\u00f0",
-        "stateId": "3337404",
+        "stateId": 3337404,
         "latitude": 66.05962,
         "longitude": -18.7822
     }

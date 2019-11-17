@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3185084",
+        "cityId": 3185084,
         "name": "Rrethi i Kruj\u00ebs",
-        "stateId": "3344947",
+        "stateId": 3344947,
         "latitude": 41.55,
         "longitude": 19.75
     },
     {
-        "cityId": "3185730",
+        "cityId": 3185730,
         "name": "Durres",
-        "stateId": "3344947",
+        "stateId": 3344947,
         "latitude": 41.3166,
         "longitude": 19.45
     },
     {
-        "cityId": "10944377",
+        "cityId": 10944377,
         "name": "Bashkia Durr\u00ebs",
-        "stateId": "3344947",
+        "stateId": 3344947,
         "latitude": 41.42743,
         "longitude": 19.4869
     },
     {
-        "cityId": "10944378",
+        "cityId": 10944378,
         "name": "Bashkia Kruj\u00eb",
-        "stateId": "3344947",
+        "stateId": 3344947,
         "latitude": 41.50091,
         "longitude": 19.72571
     },
     {
-        "cityId": "10944379",
+        "cityId": 10944379,
         "name": "Bashkia Shijak",
-        "stateId": "3344947",
+        "stateId": 3344947,
         "latitude": 41.33558,
         "longitude": 19.58977
     }

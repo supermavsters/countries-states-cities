@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11352465",
+        "cityId": 11352465,
         "name": "Amatas pagasts",
-        "stateId": "7628375",
+        "stateId": 7628375,
         "latitude": 57.16658,
         "longitude": 25.31968
     },
     {
-        "cityId": "11352466",
+        "cityId": 11352466,
         "name": "Drabe\u0161u pagasts",
-        "stateId": "7628375",
+        "stateId": 7628375,
         "latitude": 57.24321,
         "longitude": 25.2263
     },
     {
-        "cityId": "11352467",
+        "cityId": 11352467,
         "name": "N\u012btaures pagasts",
-        "stateId": "7628375",
+        "stateId": 7628375,
         "latitude": 57.08187,
         "longitude": 25.22294
     },
     {
-        "cityId": "11352468",
+        "cityId": 11352468,
         "name": "Skujenes pagasts",
-        "stateId": "7628375",
+        "stateId": 7628375,
         "latitude": 57.08699,
         "longitude": 25.47468
     },
     {
-        "cityId": "11352469",
+        "cityId": 11352469,
         "name": "Zaubes pagasts",
-        "stateId": "7628375",
+        "stateId": 7628375,
         "latitude": 56.99192,
         "longitude": 25.30425
     }

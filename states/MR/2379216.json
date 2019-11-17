@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9212601",
+        "cityId": 9212601,
         "name": "Selibaby",
-        "stateId": "2379216",
+        "stateId": 2379216,
         "latitude": 15.20744,
         "longitude": -12.23916
     },
     {
-        "cityId": "9212620",
+        "cityId": 9212620,
         "name": "Ould Yenge",
-        "stateId": "2379216",
+        "stateId": 2379216,
         "latitude": 15.67602,
         "longitude": -11.88969
     }

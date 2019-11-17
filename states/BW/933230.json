@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11819284",
+        "cityId": 11819284,
         "name": "Ngamiland East",
-        "stateId": "933230",
+        "stateId": 933230,
         "latitude": -19.73734,
         "longitude": 23.68934
     },
     {
-        "cityId": "11819296",
+        "cityId": 11819296,
         "name": "Ngamiland West",
-        "stateId": "933230",
+        "stateId": 933230,
         "latitude": -19.49883,
         "longitude": 21.94861
     }

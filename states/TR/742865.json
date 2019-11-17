@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7732636",
+        "cityId": 7732636,
         "name": "Gebze",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.89757,
         "longitude": 29.55055
     },
     {
-        "cityId": "7732931",
+        "cityId": 7732931,
         "name": "Dilovas\u0131",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.77972,
         "longitude": 29.535
     },
     {
-        "cityId": "7733240",
+        "cityId": 7733240,
         "name": "Merkez",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.78333,
         "longitude": 30.00607
     },
     {
-        "cityId": "8632547",
+        "cityId": 8632547,
         "name": "Kand\u0131ra \u0130l\u00e7esi",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 41.08034,
         "longitude": 30.15798
     },
     {
-        "cityId": "8632548",
+        "cityId": 8632548,
         "name": "G\u00f6lc\u00fck \u0130l\u00e7esi",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.7201,
         "longitude": 29.82031
     },
     {
-        "cityId": "8632549",
+        "cityId": 8632549,
         "name": "Derince \u0130l\u00e7esi",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.75392,
         "longitude": 29.82307
     },
     {
-        "cityId": "8632550",
+        "cityId": 8632550,
         "name": "K\u00f6rfez \u0130l\u00e7esi",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.77594,
         "longitude": 29.79435
     },
     {
-        "cityId": "8632551",
+        "cityId": 8632551,
         "name": "Karam\u00fcrsel \u0130l\u00e7esi",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.68378,
         "longitude": 29.60691
     },
     {
-        "cityId": "9544571",
+        "cityId": 9544571,
         "name": "\u0130zmit",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.77521,
         "longitude": 29.94624
     },
     {
-        "cityId": "9547999",
+        "cityId": 9547999,
         "name": "Kartepe",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.75246,
         "longitude": 30.02787
     },
     {
-        "cityId": "9548074",
+        "cityId": 9548074,
         "name": "Ba\u015fiskele",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.64574,
         "longitude": 29.90015
     },
     {
-        "cityId": "9548124",
+        "cityId": 9548124,
         "name": "Dar\u0131ca",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.7678,
         "longitude": 29.37126
     },
     {
-        "cityId": "9548231",
+        "cityId": 9548231,
         "name": "\u00c7ay\u0131rova",
-        "stateId": "742865",
+        "stateId": 742865,
         "latitude": 40.82784,
         "longitude": 29.39014
     }

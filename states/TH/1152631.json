@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1151992",
+        "cityId": 1151992,
         "name": "Amphoe Mueang Krabi",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.15947,
         "longitude": 98.86661
     },
     {
-        "cityId": "1152669",
+        "cityId": 1152669,
         "name": "Amphoe Ko Lanta",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 7.71267,
         "longitude": 99.07813
     },
     {
-        "cityId": "1152842",
+        "cityId": 1152842,
         "name": "Amphoe Khlong Thom",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 7.9147,
         "longitude": 99.19935
     },
     {
-        "cityId": "6957696",
+        "cityId": 6957696,
         "name": "Amphoe Ao Luek",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.38526,
         "longitude": 98.75378
     },
     {
-        "cityId": "7510612",
+        "cityId": 7510612,
         "name": "Amphoe Plai Phraya",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.54087,
         "longitude": 98.83671
     },
     {
-        "cityId": "7510620",
+        "cityId": 7510620,
         "name": "Amphoe Lam Thap",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.04799,
         "longitude": 99.33543
     },
     {
-        "cityId": "7511032",
+        "cityId": 7511032,
         "name": "Amphoe Khao Phanom",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.26953,
         "longitude": 99.11813
     },
     {
-        "cityId": "7511034",
+        "cityId": 7511034,
         "name": "Amphoe Nuea Khlong",
-        "stateId": "1152631",
+        "stateId": 1152631,
         "latitude": 8.06058,
         "longitude": 99.04039
     }

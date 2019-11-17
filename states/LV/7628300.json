@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11352779",
+        "cityId": 11352779,
         "name": "P\u0101vilosta",
-        "stateId": "7628300",
+        "stateId": 7628300,
         "latitude": 56.88534,
         "longitude": 21.19861
     },
     {
-        "cityId": "11352810",
+        "cityId": 11352810,
         "name": "Sakas pagasts",
-        "stateId": "7628300",
+        "stateId": 7628300,
         "latitude": 56.85791,
         "longitude": 21.28077
     },
     {
-        "cityId": "11352811",
+        "cityId": 11352811,
         "name": "V\u0113rgales pagasts",
-        "stateId": "7628300",
+        "stateId": 7628300,
         "latitude": 56.71574,
         "longitude": 21.14182
     }

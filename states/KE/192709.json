@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "179328",
+        "cityId": 179328,
         "name": "Thika District",
-        "stateId": "192709",
+        "stateId": 192709,
         "latitude": -1.08333,
         "longitude": 37.08333
     },
     {
-        "cityId": "8693007",
+        "cityId": 8693007,
         "name": "Kiambu County",
-        "stateId": "192709",
+        "stateId": 192709,
         "latitude": -1.16667,
         "longitude": 36.83333
     }

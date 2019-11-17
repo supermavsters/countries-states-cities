@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1679435",
+        "cityId": 1679435,
         "name": "Province of Zambales",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15.33333,
         "longitude": 120.16667
     },
     {
-        "cityId": "1682811",
+        "cityId": 1682811,
         "name": "Province of Tarlac",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15.5,
         "longitude": 120.5
     },
     {
-        "cityId": "1695848",
+        "cityId": 1695848,
         "name": "Province of Pampanga",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15.06667,
         "longitude": 120.66667
     },
     {
-        "cityId": "1697473",
+        "cityId": 1697473,
         "name": "Province of Nueva Ecija",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15.58333,
         "longitude": 121
     },
     {
-        "cityId": "1723064",
+        "cityId": 1723064,
         "name": "Province of Bulacan",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15,
         "longitude": 121.08333
     },
     {
-        "cityId": "1726347",
+        "cityId": 1726347,
         "name": "Province of Bataan",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 14.66667,
         "longitude": 120.41667
     },
     {
-        "cityId": "1729926",
+        "cityId": 1729926,
         "name": "Province of Aurora",
-        "stateId": "7521305",
+        "stateId": 7521305,
         "latitude": 15.98773,
         "longitude": 121.5802
     }

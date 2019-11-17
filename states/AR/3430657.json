@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "3427535",
+        "cityId": 3427535,
         "name": "Departamento de Veinticinco de Mayo",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.41667,
         "longitude": -54.66667
     },
     {
-        "cityId": "3428569",
+        "cityId": 3428569,
         "name": "Departamento de San Pedro",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -26.66667,
         "longitude": -54
     },
     {
-        "cityId": "3428974",
+        "cityId": 3428974,
         "name": "Departamento de San Javier",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.77806,
         "longitude": -55.13004
     },
     {
-        "cityId": "3429014",
+        "cityId": 3429014,
         "name": "Departamento de San Ignacio",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.25,
         "longitude": -55.33333
     },
     {
-        "cityId": "3430339",
+        "cityId": 3430339,
         "name": "Departamento de Ober\u00e1",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.55,
         "longitude": -55.08333
     },
     {
-        "cityId": "3430599",
+        "cityId": 3430599,
         "name": "Departamento de Montecarlo",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -26.71667,
         "longitude": -54.58333
     },
     {
-        "cityId": "3431357",
+        "cityId": 3431357,
         "name": "Departamento de Libertador General San Mart\u00edn",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -26.91667,
         "longitude": -54.91667
     },
     {
-        "cityId": "3431390",
+        "cityId": 3431390,
         "name": "Departamento de Leandro N. Alem",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.56667,
         "longitude": -55.33333
     },
     {
-        "cityId": "3433487",
+        "cityId": 3433487,
         "name": "Departamento de Iguaz\u00fa",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -25.86667,
         "longitude": -54.36667
     },
     {
-        "cityId": "3433646",
+        "cityId": 3433646,
         "name": "Departamento de Guaran\u00ed",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.16667,
         "longitude": -54.16667
     },
     {
-        "cityId": "3433790",
+        "cityId": 3433790,
         "name": "Departamento de General Manuel Belgrano",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -26.16667,
         "longitude": -53.91667
     },
     {
-        "cityId": "3434672",
+        "cityId": 3434672,
         "name": "Departamento de Eldorado",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -26.25,
         "longitude": -54.41667
     },
     {
-        "cityId": "3435270",
+        "cityId": 3435270,
         "name": "Departamento de Concepci\u00f3n de la Sierra",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.83333,
         "longitude": -55.41667
     },
     {
-        "cityId": "3435699",
+        "cityId": 3435699,
         "name": "Departamento de Capital",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.5,
         "longitude": -55.83333
     },
     {
-        "cityId": "3435732",
+        "cityId": 3435732,
         "name": "Departamento de Candelaria",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.5,
         "longitude": -55.5
     },
     {
-        "cityId": "3435844",
+        "cityId": 3435844,
         "name": "Departamento de Caingu\u00e1s",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.16667,
         "longitude": -54.83333
     },
     {
-        "cityId": "3436309",
+        "cityId": 3436309,
         "name": "Departamento de Ap\u00f3stoles",
-        "stateId": "3430657",
+        "stateId": 3430657,
         "latitude": -27.91667,
         "longitude": -55.75
     }

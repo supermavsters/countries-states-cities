@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "94786",
+        "cityId": 94786,
         "name": "Kirkuk District",
-        "stateId": "98410",
+        "stateId": 98410,
         "latitude": 35.5,
         "longitude": 44.3
     },
     {
-        "cityId": "6770659",
+        "cityId": 6770659,
         "name": "Al-Hawija District",
-        "stateId": "98410",
+        "stateId": 98410,
         "latitude": 35.32698,
         "longitude": 43.75421
     },
     {
-        "cityId": "9166581",
+        "cityId": 9166581,
         "name": "Daquq District",
-        "stateId": "98410",
+        "stateId": 98410,
         "latitude": 35.0845,
         "longitude": 44.32366
     },
     {
-        "cityId": "9171727",
+        "cityId": 9171727,
         "name": "Dabes",
-        "stateId": "98410",
+        "stateId": 98410,
         "latitude": 35.80371,
         "longitude": 44.23645
     },
     {
-        "cityId": "9873409",
+        "cityId": 9873409,
         "name": "Qa\u1e11\u0101\u2019 Dibis",
-        "stateId": "98410",
+        "stateId": 98410,
         "latitude": 35.68083,
         "longitude": 43.90386
     }

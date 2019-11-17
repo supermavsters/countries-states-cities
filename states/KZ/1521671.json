@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "1517715",
+        "cityId": 1517715,
         "name": "\u016ar\u012btsk\u012by A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.41667,
         "longitude": 65.5
     },
     {
-        "cityId": "1518463",
+        "cityId": 1518463,
         "name": "Taranovskiy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.5,
         "longitude": 62.75
     },
     {
-        "cityId": "1519416",
+        "cityId": 1519416,
         "name": "Semioz\u00ebrnyy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.33333,
         "longitude": 64
     },
     {
-        "cityId": "1520735",
+        "cityId": 1520735,
         "name": "Na\u016bryzym A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 51.41667,
         "longitude": 64
     },
     {
-        "cityId": "1521358",
+        "cityId": 1521358,
         "name": "Len\u012bn A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 54.16667,
         "longitude": 65.5
     },
     {
-        "cityId": "1521667",
+        "cityId": 1521667,
         "name": "Kustanayskiy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.33333,
         "longitude": 63.41667
     },
     {
-        "cityId": "1522333",
+        "cityId": 1522333,
         "name": "Komsomol A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.58333,
         "longitude": 61.75
     },
     {
-        "cityId": "1523115",
+        "cityId": 1523115,
         "name": "Qaras\u016b A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.66667,
         "longitude": 65.5
     },
     {
-        "cityId": "1523544",
+        "cityId": 1523544,
         "name": "Qamysty A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 51.66667,
         "longitude": 62.5
     },
     {
-        "cityId": "1524278",
+        "cityId": 1524278,
         "name": "F\u00ebdorovskiy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.58333,
         "longitude": 62.83333
     },
     {
-        "cityId": "1524388",
+        "cityId": 1524388,
         "name": "Zhetiqara A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52,
         "longitude": 61
     },
     {
-        "cityId": "1524425",
+        "cityId": 1524425,
         "name": "Zhangeld\u012bn A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 49.66667,
         "longitude": 63.5
     },
     {
-        "cityId": "1525120",
+        "cityId": 1525120,
         "name": "Mendykarinskiy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 54,
         "longitude": 64.16667
     },
     {
-        "cityId": "1526209",
+        "cityId": 1526209,
         "name": "Arqalyq A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 50.16667,
         "longitude": 66.66667
     },
     {
-        "cityId": "1526321",
+        "cityId": 1526321,
         "name": "Amantoghay A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 50.5,
         "longitude": 65.5
     },
     {
-        "cityId": "1526340",
+        "cityId": 1526340,
         "name": "Amangeldi A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 50.16194,
         "longitude": 65.21622
     },
     {
-        "cityId": "1537245",
+        "cityId": 1537245,
         "name": "Altynsarinskiy Rayon",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.16667,
         "longitude": 64.5
     },
     {
-        "cityId": "1537246",
+        "cityId": 1537246,
         "name": "Qostanay Qalasy",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 53.16667,
         "longitude": 63.58333
     },
     {
-        "cityId": "1537247",
+        "cityId": 1537247,
         "name": "Zhetiqara Qalasy",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.18333,
         "longitude": 61.2
     },
     {
-        "cityId": "1537248",
+        "cityId": 1537248,
         "name": "L\u012bsakovsk Qalasy",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.65,
         "longitude": 62.75
     },
     {
-        "cityId": "1537249",
+        "cityId": 1537249,
         "name": "R\u016bdnyy Qalasy",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52.95,
         "longitude": 63.11667
     },
     {
-        "cityId": "1537251",
+        "cityId": 1537251,
         "name": "Oktyabr\u2019 A\u016bdany",
-        "stateId": "1521671",
+        "stateId": 1521671,
         "latitude": 52,
         "longitude": 65.33333
     }

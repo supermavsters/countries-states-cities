@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7732078",
+        "cityId": 7732078,
         "name": "Merkez",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.61939,
         "longitude": 35.87016
     },
     {
-        "cityId": "8631703",
+        "cityId": 8631703,
         "name": "Ta\u015fova \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.76998,
         "longitude": 36.33092
     },
     {
-        "cityId": "8631704",
+        "cityId": 8631704,
         "name": "G\u00f6yn\u00fccek \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.41008,
         "longitude": 35.53104
     },
     {
-        "cityId": "8631705",
+        "cityId": 8631705,
         "name": "G\u00fcm\u00fc\u015fhac\u0131k\u00f6y \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.88365,
         "longitude": 35.22111
     },
     {
-        "cityId": "8631706",
+        "cityId": 8631706,
         "name": "Suluova \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.84202,
         "longitude": 35.65922
     },
     {
-        "cityId": "8631707",
+        "cityId": 8631707,
         "name": "Merzifon \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.88348,
         "longitude": 35.47116
     },
     {
-        "cityId": "8631708",
+        "cityId": 8631708,
         "name": "Hamam\u00f6z\u00fc \u0130l\u00e7esi",
-        "stateId": "752014",
+        "stateId": 752014,
         "latitude": 40.79539,
         "longitude": 35.03367
     }

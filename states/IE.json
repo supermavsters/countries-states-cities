@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "7521313",
+        "stateId": 7521313,
         "name": "Connaught",
-        "countryId": "2963597",
+        "countryId": 2963597,
         "latitude": 53.87,
         "longitude": -8.63333
     },
     {
-        "stateId": "7521314",
+        "stateId": 7521314,
         "name": "Leinster",
-        "countryId": "2963597",
+        "countryId": 2963597,
         "latitude": 53.16667,
         "longitude": -7.02121
     },
     {
-        "stateId": "7521315",
+        "stateId": 7521315,
         "name": "Munster",
-        "countryId": "2963597",
+        "countryId": 2963597,
         "latitude": 52.34333,
         "longitude": -8.71667
     },
     {
-        "stateId": "7521316",
+        "stateId": 7521316,
         "name": "Ulster",
-        "countryId": "2963597",
+        "countryId": 2963597,
         "latitude": 54.92732,
         "longitude": -7.9395
     }

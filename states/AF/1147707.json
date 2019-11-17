@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7052785",
+        "cityId": 7052785,
         "name": "\u0100b-e Kamar\u012b",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 34.92509,
         "longitude": 62.90171
     },
     {
-        "cityId": "7052787",
+        "cityId": 7052787,
         "name": "Gh\u014drm\u0101ch",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 35.73105,
         "longitude": 63.77898
     },
     {
-        "cityId": "7052790",
+        "cityId": 7052790,
         "name": "Jowand",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 35.00228,
         "longitude": 64.33632
     },
     {
-        "cityId": "7052792",
+        "cityId": 7052792,
         "name": "Muqur",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 35.17006,
         "longitude": 63.10509
     },
     {
-        "cityId": "7052794",
+        "cityId": 7052794,
         "name": "Murgh\u0101b",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 35.46737,
         "longitude": 63.47216
     },
     {
-        "cityId": "7052795",
+        "cityId": 7052795,
         "name": "Q\u0101dis",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 34.81559,
         "longitude": 63.5842
     },
     {
-        "cityId": "7052796",
+        "cityId": 7052796,
         "name": "Qal\u2018ah-ye Now",
-        "stateId": "1147707",
+        "stateId": 1147707,
         "latitude": 34.8107,
         "longitude": 63.12353
     }

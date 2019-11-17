@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11237871",
+        "cityId": 11237871,
         "name": "Riaba",
-        "stateId": "2566979",
+        "stateId": 2566979,
         "latitude": 3.38464,
         "longitude": 8.75911
     },
     {
-        "cityId": "11237872",
+        "cityId": 11237872,
         "name": "Luba",
-        "stateId": "2566979",
+        "stateId": 2566979,
         "latitude": 3.45816,
         "longitude": 8.5538
     }

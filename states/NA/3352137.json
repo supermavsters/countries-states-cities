@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11125897",
+        "cityId": 11125897,
         "name": "Moses Garoeb",
-        "stateId": "3352137",
+        "stateId": 3352137,
         "latitude": -22.5074,
         "longitude": 17.039
     },
     {
-        "cityId": "11257205",
+        "cityId": 11257205,
         "name": "Samora Machel",
-        "stateId": "3352137",
+        "stateId": 3352137,
         "latitude": -22.51861,
         "longitude": 17.03694
     },
     {
-        "cityId": "11287032",
+        "cityId": 11287032,
         "name": "Windhoek Rural",
-        "stateId": "3352137",
+        "stateId": 3352137,
         "latitude": -22.56583,
         "longitude": 17.10297
     },
     {
-        "cityId": "11609877",
+        "cityId": 11609877,
         "name": "Windhoek East",
-        "stateId": "3352137",
+        "stateId": 3352137,
         "latitude": -22.56667,
         "longitude": 17.1
     }

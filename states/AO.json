@@ -1,127 +1,127 @@
 [
     {
-        "stateId": "2243598",
+        "stateId": 2243598,
         "name": "Bengo Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -8.97504,
         "longitude": 13.82743
     },
     {
-        "stateId": "3351660",
+        "stateId": 3351660,
         "name": "Benguela",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -12.85399,
         "longitude": 13.92825
     },
     {
-        "stateId": "2243266",
+        "stateId": 2243266,
         "name": "Cabinda",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -4.93423,
         "longitude": 12.40532
     },
     {
-        "stateId": "2241660",
+        "stateId": 2241660,
         "name": "Cuanza Norte Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -8.91136,
         "longitude": 14.8887
     },
     {
-        "stateId": "3349096",
+        "stateId": 3349096,
         "name": "Cunene Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -16.51009,
         "longitude": 15.43526
     },
     {
-        "stateId": "3348310",
+        "stateId": 3348310,
         "name": "Huambo",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -12.5,
         "longitude": 15.66667
     },
     {
-        "stateId": "3348303",
+        "stateId": 3348303,
         "name": "Huila Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -14.69531,
         "longitude": 15.00014
     },
     {
-        "stateId": "876337",
+        "stateId": 876337,
         "name": "Kuando Kubango",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -15.94761,
         "longitude": 19.3832
     },
     {
-        "stateId": "3349234",
+        "stateId": 3349234,
         "name": "Kwanza Sul",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -10.82696,
         "longitude": 15.03197
     },
     {
-        "stateId": "2240444",
+        "stateId": 2240444,
         "name": "Luanda Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -8.91667,
         "longitude": 13.33924
     },
     {
-        "stateId": "145702",
+        "stateId": 145702,
         "name": "Lunda Norte Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -8.63543,
         "longitude": 19.64852
     },
     {
-        "stateId": "145701",
+        "stateId": 145701,
         "name": "Lunda Sul",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -10.25918,
         "longitude": 20.62489
     },
     {
-        "stateId": "2239858",
+        "stateId": 2239858,
         "name": "Malanje Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -9.67548,
         "longitude": 16.82553
     },
     {
-        "stateId": "875996",
+        "stateId": 875996,
         "name": "Moxico",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -12.84869,
         "longitude": 20.93266
     },
     {
-        "stateId": "3347016",
+        "stateId": 3347016,
         "name": "Namibe Province",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -15.33207,
         "longitude": 12.66002
     },
     {
-        "stateId": "3351640",
+        "stateId": 3351640,
         "name": "Prov\u00edncia do Bi\u00e9",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -12.34989,
         "longitude": 17.3031
     },
     {
-        "stateId": "2236566",
+        "stateId": 2236566,
         "name": "Prov\u00edncia do U\u00edge",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -7.10719,
         "longitude": 15.44056
     },
     {
-        "stateId": "2236355",
+        "stateId": 2236355,
         "name": "Zaire",
-        "countryId": "3351879",
+        "countryId": 3351879,
         "latitude": -6.58717,
         "longitude": 13.51966
     }

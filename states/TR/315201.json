@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "7732371",
+        "cityId": 7732371,
         "name": "Merkez",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.77475,
         "longitude": 30.51921
     },
     {
-        "cityId": "8632480",
+        "cityId": 8632480,
         "name": "G\u00fcny\u00fcz\u00fc \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.3941,
         "longitude": 31.814
     },
     {
-        "cityId": "8632481",
+        "cityId": 8632481,
         "name": "Sivrihisar \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.45941,
         "longitude": 31.52476
     },
     {
-        "cityId": "8632482",
+        "cityId": 8632482,
         "name": "Mihal\u0131\u00e7c\u0131k \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.87564,
         "longitude": 31.50091
     },
     {
-        "cityId": "8632483",
+        "cityId": 8632483,
         "name": "Beylikova \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.69736,
         "longitude": 31.21207
     },
     {
-        "cityId": "8632484",
+        "cityId": 8632484,
         "name": "Alpu \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.77889,
         "longitude": 30.97022
     },
     {
-        "cityId": "8632485",
+        "cityId": 8632485,
         "name": "Sar\u0131cakaya \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 40.04671,
         "longitude": 30.61994
     },
     {
-        "cityId": "8632486",
+        "cityId": 8632486,
         "name": "Mihalgazi \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 40.03715,
         "longitude": 30.58375
     },
     {
-        "cityId": "8632487",
+        "cityId": 8632487,
         "name": "\u0130n\u00f6n\u00fci \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.82531,
         "longitude": 30.16043
     },
     {
-        "cityId": "8632488",
+        "cityId": 8632488,
         "name": "Han \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.16895,
         "longitude": 30.86661
     },
     {
-        "cityId": "8632489",
+        "cityId": 8632489,
         "name": "Seyitgazi \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.45397,
         "longitude": 30.70082
     },
     {
-        "cityId": "8632490",
+        "cityId": 8632490,
         "name": "Mahmudiye \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.50724,
         "longitude": 30.99247
     },
     {
-        "cityId": "8632491",
+        "cityId": 8632491,
         "name": "\u00c7ifteler \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.3927,
         "longitude": 31.04354
     },
     {
-        "cityId": "9538820",
+        "cityId": 9538820,
         "name": "Tepeba\u015f\u0131 \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.7843,
         "longitude": 30.50206
     },
     {
-        "cityId": "9540749",
+        "cityId": 9540749,
         "name": "Odunpazar\u0131 \u0130l\u00e7esi",
-        "stateId": "315201",
+        "stateId": 315201,
         "latitude": 39.76699,
         "longitude": 30.54113
     }

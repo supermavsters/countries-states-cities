@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1848489",
+        "cityId": 1848489,
         "name": "Yasu-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.06801,
         "longitude": 136.02327
     },
     {
-        "cityId": "1853408",
+        "cityId": 1853408,
         "name": "Ritt\u014d-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 34.99603,
         "longitude": 136.01412
     },
     {
-        "cityId": "1853552",
+        "cityId": 1853552,
         "name": "\u014ctsu-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.10203,
         "longitude": 135.92452
     },
     {
-        "cityId": "1854152",
+        "cityId": 1854152,
         "name": "\u014cmihachiman-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.15251,
         "longitude": 136.06964
     },
     {
-        "cityId": "1856237",
+        "cityId": 1856237,
         "name": "Nagahama-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.42256,
         "longitude": 136.26272
     },
     {
-        "cityId": "1856568",
+        "cityId": 1856568,
         "name": "Moriyama-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.08815,
         "longitude": 135.96869
     },
     {
-        "cityId": "1858063",
+        "cityId": 1858063,
         "name": "Kusatsu-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.02758,
         "longitude": 135.9384
     },
     {
-        "cityId": "1858739",
+        "cityId": 1858739,
         "name": "Konan-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.01667,
         "longitude": 136.08333
     },
     {
-        "cityId": "1858984",
+        "cityId": 1858984,
         "name": "K\u014dka-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 34.91667,
         "longitude": 136.16667
     },
     {
-        "cityId": "1862635",
+        "cityId": 1862635,
         "name": "Hikone-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.23036,
         "longitude": 136.2076
     },
     {
-        "cityId": "1863686",
+        "cityId": 1863686,
         "name": "Gam\u014d-gun",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.02524,
         "longitude": 136.2225
     },
     {
-        "cityId": "1864254",
+        "cityId": 1864254,
         "name": "Echi-gun",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.16667,
         "longitude": 136.25
     },
     {
-        "cityId": "6822197",
+        "cityId": 6822197,
         "name": "Higashi\u014dmi-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.1089,
         "longitude": 136.1792
     },
     {
-        "cityId": "7394802",
+        "cityId": 7394802,
         "name": "Maibara-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.38457,
         "longitude": 136.37741
     },
     {
-        "cityId": "7394806",
+        "cityId": 7394806,
         "name": "Inukami-gun",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.21055,
         "longitude": 136.33338
     },
     {
-        "cityId": "8740424",
+        "cityId": 8740424,
         "name": "Takashima-shi",
-        "stateId": "1852553",
+        "stateId": 1852553,
         "latitude": 35.35448,
         "longitude": 136.02859
     }

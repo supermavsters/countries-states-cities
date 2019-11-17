@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "441186",
+        "cityId": 441186,
         "name": "Savur \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.53684,
         "longitude": 40.88886
     },
     {
-        "cityId": "441187",
+        "cityId": 441187,
         "name": "Ye\u015filli \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.33944,
         "longitude": 40.82605
     },
     {
-        "cityId": "441188",
+        "cityId": 441188,
         "name": "\u00d6merli \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.37944,
         "longitude": 40.99472
     },
     {
-        "cityId": "441469",
+        "cityId": 441469,
         "name": "Midyat \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.40056,
         "longitude": 41.375
     },
     {
-        "cityId": "441646",
+        "cityId": 441646,
         "name": "Darge\u00e7it \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.54644,
         "longitude": 41.72415
     },
     {
-        "cityId": "441866",
+        "cityId": 441866,
         "name": "Mardin Merkez",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.31256,
         "longitude": 40.73439
     },
     {
-        "cityId": "441966",
+        "cityId": 441966,
         "name": "Nusaybin \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.15694,
         "longitude": 41.34139
     },
     {
-        "cityId": "8630814",
+        "cityId": 8630814,
         "name": "K\u0131z\u0131ltepe \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.19268,
         "longitude": 40.58327
     },
     {
-        "cityId": "8630815",
+        "cityId": 8630815,
         "name": "Maz\u0131da\u011f\u0131 \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.48542,
         "longitude": 40.4985
     },
     {
-        "cityId": "8630817",
+        "cityId": 8630817,
         "name": "Derik \u0130l\u00e7esi",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.36431,
         "longitude": 40.26883
     },
     {
-        "cityId": "9552222",
+        "cityId": 9552222,
         "name": "Artuklu",
-        "stateId": "304794",
+        "stateId": 304794,
         "latitude": 37.31714,
         "longitude": 40.72473
     }

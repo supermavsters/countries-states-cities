@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "10096138",
+        "stateId": 10096138,
         "name": "Ferizaj District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.36931,
         "longitude": 21.14735
     },
     {
-        "stateId": "10096859",
+        "stateId": 10096859,
         "name": "Gjakova District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.38775,
         "longitude": 20.4235
     },
     {
-        "stateId": "10097357",
+        "stateId": 10097357,
         "name": "Gjilan District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.46078,
         "longitude": 21.46716
     },
     {
-        "stateId": "10097358",
+        "stateId": 10097358,
         "name": "Mitrovica District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.89574,
         "longitude": 20.876
     },
     {
-        "stateId": "10097359",
+        "stateId": 10097359,
         "name": "Pec District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.6632,
         "longitude": 20.30072
     },
     {
-        "stateId": "10097360",
+        "stateId": 10097360,
         "name": "Pristina District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.66308,
         "longitude": 21.16486
     },
     {
-        "stateId": "10097361",
+        "stateId": 10097361,
         "name": "Prizren District",
-        "countryId": "831053",
+        "countryId": 831053,
         "latitude": 42.21566,
         "longitude": 20.74232
     }

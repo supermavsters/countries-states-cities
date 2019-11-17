@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "149252",
+        "cityId": 149252,
         "name": "Ulanga",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -8.98886,
         "longitude": 36.61331
     },
     {
-        "cityId": "153216",
+        "cityId": 153216,
         "name": "Morogoro Urban",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -6.81667,
         "longitude": 37.66667
     },
     {
-        "cityId": "157402",
+        "cityId": 157402,
         "name": "Kilosa",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -6.89673,
         "longitude": 36.97792
     },
     {
-        "cityId": "157408",
+        "cityId": 157408,
         "name": "Kilombero",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -8.24137,
         "longitude": 36.33492
     },
     {
-        "cityId": "7647668",
+        "cityId": 7647668,
         "name": "Morogoro Rural",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -6.75,
         "longitude": 38.11667
     },
     {
-        "cityId": "8659171",
+        "cityId": 8659171,
         "name": "Mvomero District",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -6.3,
         "longitude": 37.45
     },
     {
-        "cityId": "9998153",
+        "cityId": 9998153,
         "name": "Gairo",
-        "stateId": "153214",
+        "stateId": 153214,
         "latitude": -6.13841,
         "longitude": 36.88079
     }

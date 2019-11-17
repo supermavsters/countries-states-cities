@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "932932",
+        "stateId": 932932,
         "name": "Berea",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.16667,
         "longitude": 27.91667
     },
     {
-        "stateId": "932888",
+        "stateId": 932888,
         "name": "Butha-Buthe",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -28.8,
         "longitude": 28.56667
     },
     {
-        "stateId": "932700",
+        "stateId": 932700,
         "name": "Leribe District",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.03651,
         "longitude": 28.25266
     },
     {
-        "stateId": "932615",
+        "stateId": 932615,
         "name": "Mafeteng District",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.8041,
         "longitude": 27.50262
     },
     {
-        "stateId": "932506",
+        "stateId": 932506,
         "name": "Maseru",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.58333,
         "longitude": 27.83333
     },
     {
-        "stateId": "932439",
+        "stateId": 932439,
         "name": "Mohale\u2019s Hoek District",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -30.06667,
         "longitude": 27.8
     },
     {
-        "stateId": "932418",
+        "stateId": 932418,
         "name": "Mokhotlong",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.21667,
         "longitude": 29.03333
     },
     {
-        "stateId": "932219",
+        "stateId": 932219,
         "name": "Qacha\u2019s Nek",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -30,
         "longitude": 28.75
     },
     {
-        "stateId": "932184",
+        "stateId": 932184,
         "name": "Quthing",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -30.36667,
         "longitude": 28
     },
     {
-        "stateId": "932011",
+        "stateId": 932011,
         "name": "Thaba-Tseka",
-        "countryId": "932692",
+        "countryId": 932692,
         "latitude": -29.56667,
         "longitude": 28.6
     }

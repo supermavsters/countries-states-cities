@@ -1,36 +1,36 @@
 [
     {
-        "stateId": "7535954",
+        "stateId": 7535954,
         "name": "Central Singapore Community Development Council",
-        "countryId": "1880251",
+        "countryId": 1880251,
         "latitude": 1.29868,
         "longitude": 103.85367
     },
     {
-        "stateId": "7535955",
+        "stateId": 7535955,
         "name": "North East Community Development Region",
-        "countryId": "1880251",
+        "countryId": 1880251,
         "latitude": 1.31421,
         "longitude": 103.85822
     },
     {
-        "stateId": "7535958",
+        "stateId": 7535958,
         "name": "North West Community Development Council",
-        "countryId": "1880251",
+        "countryId": 1880251,
         "latitude": 1.29868,
         "longitude": 103.81986
     },
     {
-        "stateId": "7535956",
+        "stateId": 7535956,
         "name": "South East Community Development Council",
-        "countryId": "1880251",
+        "countryId": 1880251,
         "latitude": 1.30683,
         "longitude": 103.88698
     },
     {
-        "stateId": "7535957",
+        "stateId": 7535957,
         "name": "South West Community Development Council",
-        "countryId": "1880251",
+        "countryId": 1880251,
         "latitude": 1.31464,
         "longitude": 103.83007
     }

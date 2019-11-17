@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3909412",
+        "cityId": 3909412,
         "name": "Provincia O\u2019Connor",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -21.58333,
         "longitude": -64.16667
     },
     {
-        "cityId": "3910499",
+        "cityId": 3910499,
         "name": "Provincia M\u00e9ndez",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -21.16667,
         "longitude": -64.91667
     },
     {
-        "cityId": "3915555",
+        "cityId": 3915555,
         "name": "Provincia Gran Chaco",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -21.66667,
         "longitude": -63
     },
     {
-        "cityId": "3921628",
+        "cityId": 3921628,
         "name": "Provincia Cercado",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -21.58333,
         "longitude": -64.58333
     },
     {
-        "cityId": "3923512",
+        "cityId": 3923512,
         "name": "Provincia Avilez",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -21.66667,
         "longitude": -65
     },
     {
-        "cityId": "3923749",
+        "cityId": 3923749,
         "name": "Provincia Arce",
-        "stateId": "3903319",
+        "stateId": 3903319,
         "latitude": -22.16667,
         "longitude": -64.33333
     }

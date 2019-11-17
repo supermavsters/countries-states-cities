@@ -1,778 +1,778 @@
 [
     {
-        "cityId": "662716",
+        "cityId": 662716,
         "name": "Comuna V\u00e2rvoru de Jos",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.24458,
         "longitude": 23.60636
     },
     {
-        "cityId": "662725",
+        "cityId": 662725,
         "name": "Comuna V\u00e2rtop",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.20873,
         "longitude": 23.34831
     },
     {
-        "cityId": "663057",
+        "cityId": 663057,
         "name": "Comuna Verbi\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.29305,
         "longitude": 23.17886
     },
     {
-        "cityId": "663077",
+        "cityId": 663077,
         "name": "Comuna Vela",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.28526,
         "longitude": 23.37887
     },
     {
-        "cityId": "664068",
+        "cityId": 664068,
         "name": "Comuna Urzicu\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.01485,
         "longitude": 23.56956
     },
     {
-        "cityId": "664533",
+        "cityId": 664533,
         "name": "Comuna \u0162uglui",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.20034,
         "longitude": 23.82296
     },
     {
-        "cityId": "665224",
+        "cityId": 665224,
         "name": "Comuna Terpezi\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.30631,
         "longitude": 23.49202
     },
     {
-        "cityId": "665366",
+        "cityId": 665366,
         "name": "Comuna Teasc",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.1782,
         "longitude": 23.8639
     },
     {
-        "cityId": "665589",
+        "cityId": 665589,
         "name": "Comuna T\u00e3lpa\u015f",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.68256,
         "longitude": 23.74391
     },
     {
-        "cityId": "666434",
+        "cityId": 666434,
         "name": "Comuna Sopot",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.39061,
         "longitude": 23.51252
     },
     {
-        "cityId": "667097",
+        "cityId": 667097,
         "name": "Comuna \u015eimnicu de Sus",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.41283,
         "longitude": 23.78863
     },
     {
-        "cityId": "667171",
+        "cityId": 667171,
         "name": "Comuna Sili\u015ftea Crucii",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.04488,
         "longitude": 23.48194
     },
     {
-        "cityId": "667451",
+        "cityId": 667451,
         "name": "Ora\u015f Segarcea",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.09434,
         "longitude": 23.74197
     },
     {
-        "cityId": "667475",
+        "cityId": 667475,
         "name": "Comuna Secu",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.47854,
         "longitude": 23.29525
     },
     {
-        "cityId": "667529",
+        "cityId": 667529,
         "name": "Comuna Seaca de P\u0103dure",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.37108,
         "longitude": 23.32359
     },
     {
-        "cityId": "667531",
+        "cityId": 667531,
         "name": "Comuna Seaca de C\u00e2mp",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.92824,
         "longitude": 23.19955
     },
     {
-        "cityId": "667737",
+        "cityId": 667737,
         "name": "Comuna Sc\u0103e\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.46591,
         "longitude": 23.54822
     },
     {
-        "cityId": "668163",
+        "cityId": 668163,
         "name": "Comuna S\u0103lcu\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.22948,
         "longitude": 23.45454
     },
     {
-        "cityId": "668285",
+        "cityId": 668285,
         "name": "Comuna Sadova",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.88749,
         "longitude": 23.94622
     },
     {
-        "cityId": "668532",
+        "cityId": 668532,
         "name": "Comuna Izvoare",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.15,
         "longitude": 23.28333
     },
     {
-        "cityId": "668738",
+        "cityId": 668738,
         "name": "Comuna Roji\u015fte",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.02515,
         "longitude": 23.91865
     },
     {
-        "cityId": "668792",
+        "cityId": 668792,
         "name": "Comuna Rob\u0103ne\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.30356,
         "longitude": 24.00582
     },
     {
-        "cityId": "669127",
+        "cityId": 669127,
         "name": "Comuna Rast",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.88713,
         "longitude": 23.28409
     },
     {
-        "cityId": "669243",
+        "cityId": 669243,
         "name": "Comuna Radovan",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.17687,
         "longitude": 23.58518
     },
     {
-        "cityId": "669694",
+        "cityId": 669694,
         "name": "Comuna Prede\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.3464,
         "longitude": 23.58506
     },
     {
-        "cityId": "670061",
+        "cityId": 670061,
         "name": "Comuna Poiana Mare",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.9204,
         "longitude": 23.06271
     },
     {
-        "cityId": "670351",
+        "cityId": 670351,
         "name": "Comuna Podari",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.24394,
         "longitude": 23.79217
     },
     {
-        "cityId": "670490",
+        "cityId": 670490,
         "name": "Comuna Ple\u015foi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.3538,
         "longitude": 23.54284
     },
     {
-        "cityId": "670527",
+        "cityId": 670527,
         "name": "Comuna Pleni\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.22532,
         "longitude": 23.16364
     },
     {
-        "cityId": "670622",
+        "cityId": 670622,
         "name": "Comuna Piscu Vechi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.89938,
         "longitude": 23.16364
     },
     {
-        "cityId": "670867",
+        "cityId": 670867,
         "name": "Comuna Piele\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.35632,
         "longitude": 23.9757
     },
     {
-        "cityId": "671108",
+        "cityId": 671108,
         "name": "Comuna Peri\u015for",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.15843,
         "longitude": 23.49214
     },
     {
-        "cityId": "671623",
+        "cityId": 671623,
         "name": "Comuna Ostroveni",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.82121,
         "longitude": 23.90789
     },
     {
-        "cityId": "671690",
+        "cityId": 671690,
         "name": "Comuna Orodel",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.26414,
         "longitude": 23.2739
     },
     {
-        "cityId": "672415",
+        "cityId": 672415,
         "name": "Comuna Negoi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.91396,
         "longitude": 23.37288
     },
     {
-        "cityId": "672618",
+        "cityId": 672618,
         "name": "Comuna Murga\u015fi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.54342,
         "longitude": 23.82994
     },
     {
-        "cityId": "672783",
+        "cityId": 672783,
         "name": "Comuna Mo\u0163\u0103\u0163ei",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.08454,
         "longitude": 23.18856
     },
     {
-        "cityId": "673070",
+        "cityId": 673070,
         "name": "Comuna Mischii",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.42093,
         "longitude": 23.86238
     },
     {
-        "cityId": "673089",
+        "cityId": 673089,
         "name": "Comuna M\u00e2r\u015fani",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.01157,
         "longitude": 24.01919
     },
     {
-        "cityId": "673599",
+        "cityId": 673599,
         "name": "Comuna Meline\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.5631,
         "longitude": 23.6953
     },
     {
-        "cityId": "673990",
+        "cityId": 673990,
         "name": "Comuna Malu Mare",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.23844,
         "longitude": 23.8557
     },
     {
-        "cityId": "674169",
+        "cityId": 674169,
         "name": "Comuna Maglavit",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.04339,
         "longitude": 23.09854
     },
     {
-        "cityId": "674234",
+        "cityId": 674234,
         "name": "Comuna M\u0103ce\u015fu de Sus",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.91667,
         "longitude": 23.71126
     },
     {
-        "cityId": "674236",
+        "cityId": 674236,
         "name": "Comuna M\u0103ce\u015fu de Jos",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.87966,
         "longitude": 23.68954
     },
     {
-        "cityId": "674725",
+        "cityId": 674725,
         "name": "Comuna Lipovu",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.11342,
         "longitude": 23.62736
     },
     {
-        "cityId": "674822",
+        "cityId": 674822,
         "name": "Comuna Leu",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.17207,
         "longitude": 24.04971
     },
     {
-        "cityId": "675488",
+        "cityId": 675488,
         "name": "Comuna I\u015falni\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.3939,
         "longitude": 23.73711
     },
     {
-        "cityId": "675586",
+        "cityId": 675586,
         "name": "Comuna \u00centorsura",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.11226,
         "longitude": 23.57574
     },
     {
-        "cityId": "676761",
+        "cityId": 676761,
         "name": "Comuna Grece\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.45468,
         "longitude": 23.26394
     },
     {
-        "cityId": "676968",
+        "cityId": 676968,
         "name": "Comuna Goicea",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.92623,
         "longitude": 23.61845
     },
     {
-        "cityId": "676973",
+        "cityId": 676973,
         "name": "Comuna Gogo\u015fu",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.41717,
         "longitude": 23.37842
     },
     {
-        "cityId": "676992",
+        "cityId": 676992,
         "name": "Comuna Goie\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.48627,
         "longitude": 23.75375
     },
     {
-        "cityId": "677107",
+        "cityId": 677107,
         "name": "Comuna Giurgi\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.00721,
         "longitude": 23.6305
     },
     {
-        "cityId": "677149",
+        "cityId": 677149,
         "name": "Comuna Giubega",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.12821,
         "longitude": 23.41164
     },
     {
-        "cityId": "677255",
+        "cityId": 677255,
         "name": "Comuna G\u00e2ngiova",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.88621,
         "longitude": 23.86161
     },
     {
-        "cityId": "677285",
+        "cityId": 677285,
         "name": "Comuna Gighera",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.84806,
         "longitude": 23.8059
     },
     {
-        "cityId": "677354",
+        "cityId": 677354,
         "name": "Comuna Ghindeni",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.21223,
         "longitude": 23.92336
     },
     {
-        "cityId": "677449",
+        "cityId": 677449,
         "name": "Comuna Gherce\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.38567,
         "longitude": 23.92481
     },
     {
-        "cityId": "677647",
+        "cityId": 677647,
         "name": "Comuna Galicea Mare",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.09805,
         "longitude": 23.30967
     },
     {
-        "cityId": "678259",
+        "cityId": 678259,
         "name": "Ora\u015f Filia\u015fi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.56847,
         "longitude": 23.55164
     },
     {
-        "cityId": "678424",
+        "cityId": 678424,
         "name": "Comuna F\u00e3rca\u015f",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.61267,
         "longitude": 23.74081
     },
     {
-        "cityId": "678859",
+        "cityId": 678859,
         "name": "Comuna Dr\u00e3nic",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.05601,
         "longitude": 23.84033
     },
     {
-        "cityId": "678901",
+        "cityId": 678901,
         "name": "Comuna Dr\u0103gote\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.25774,
         "longitude": 24.08138
     },
     {
-        "cityId": "679201",
+        "cityId": 679201,
         "name": "Comuna Dobrote\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.96749,
         "longitude": 24.12835
     },
     {
-        "cityId": "679246",
+        "cityId": 679246,
         "name": "Comuna Dobre\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.96771,
         "longitude": 23.95341
     },
     {
-        "cityId": "679334",
+        "cityId": 679334,
         "name": "Comuna Dio\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.12923,
         "longitude": 24.17156
     },
     {
-        "cityId": "679463",
+        "cityId": 679463,
         "name": "Comuna Desa",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.87038,
         "longitude": 23.03236
     },
     {
-        "cityId": "679748",
+        "cityId": 679748,
         "name": "Comuna D\u0103ne\u0163i",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.9775,
         "longitude": 24.04015
     },
     {
-        "cityId": "679840",
+        "cityId": 679840,
         "name": "Ora\u015f D\u00e3buleni",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.78047,
         "longitude": 24.08653
     },
     {
-        "cityId": "680478",
+        "cityId": 680478,
         "name": "Comuna Co\u0163ofenii din Fa\u0163\u0103",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.45275,
         "longitude": 23.67053
     },
     {
-        "cityId": "680480",
+        "cityId": 680480,
         "name": "Comuna Co\u0163ofenii din Dos",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.41282,
         "longitude": 23.64369
     },
     {
-        "cityId": "680600",
+        "cityId": 680600,
         "name": "Comuna Co\u015foveni",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.24628,
         "longitude": 23.93612
     },
     {
-        "cityId": "681396",
+        "cityId": 681396,
         "name": "Comuna Ciupercenii Noi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.92186,
         "longitude": 22.95877
     },
     {
-        "cityId": "681540",
+        "cityId": 681540,
         "name": "Comuna C\u00e2rna",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.88613,
         "longitude": 23.60153
     },
     {
-        "cityId": "681643",
+        "cityId": 681643,
         "name": "Comuna Cioroia\u015fi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.08624,
         "longitude": 23.45207
     },
     {
-        "cityId": "682265",
+        "cityId": 682265,
         "name": "Comuna Cetate",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.09894,
         "longitude": 23.0637
     },
     {
-        "cityId": "682327",
+        "cityId": 682327,
         "name": "Comuna Cern\u0103te\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.44315,
         "longitude": 23.47578
     },
     {
-        "cityId": "682393",
+        "cityId": 682393,
         "name": "Comuna Cer\u00e3t",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.07358,
         "longitude": 23.67078
     },
     {
-        "cityId": "682435",
+        "cityId": 682435,
         "name": "Comuna Celaru",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.04192,
         "longitude": 24.11972
     },
     {
-        "cityId": "682564",
+        "cityId": 682564,
         "name": "Comuna Catane",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.92584,
         "longitude": 23.41332
     },
     {
-        "cityId": "682585",
+        "cityId": 682585,
         "name": "Comuna Castranova",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.12778,
         "longitude": 24.0124
     },
     {
-        "cityId": "682670",
+        "cityId": 682670,
         "name": "Comuna Carpen",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.34169,
         "longitude": 23.26059
     },
     {
-        "cityId": "682706",
+        "cityId": 682706,
         "name": "Comuna Caraula",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.19287,
         "longitude": 23.25298
     },
     {
-        "cityId": "682924",
+        "cityId": 682924,
         "name": "Comuna Calop\u0103ru",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.1556,
         "longitude": 23.75966
     },
     {
-        "cityId": "683019",
+        "cityId": 683019,
         "name": "Comuna C\u0103l\u0103ra\u015fi",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.78416,
         "longitude": 24.04076
     },
     {
-        "cityId": "683303",
+        "cityId": 683303,
         "name": "Comuna Bulze\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.59126,
         "longitude": 23.8718
     },
     {
-        "cityId": "683539",
+        "cityId": 683539,
         "name": "Comuna Bucov\u0103\u0163",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.29453,
         "longitude": 23.69512
     },
     {
-        "cityId": "683763",
+        "cityId": 683763,
         "name": "Comuna Breasta",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.34924,
         "longitude": 23.67073
     },
     {
-        "cityId": "683789",
+        "cityId": 683789,
         "name": "Comuna Bratovoe\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.13725,
         "longitude": 23.91445
     },
     {
-        "cityId": "683892",
+        "cityId": 683892,
         "name": "Comuna Bralo\u015fti\u0163a",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.50483,
         "longitude": 23.49123
     },
     {
-        "cityId": "683958",
+        "cityId": 683958,
         "name": "Comuna Br\u0103de\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.51766,
         "longitude": 23.61747
     },
     {
-        "cityId": "683978",
+        "cityId": 683978,
         "name": "Comuna Brabova",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.35864,
         "longitude": 23.39816
     },
     {
-        "cityId": "684030",
+        "cityId": 684030,
         "name": "Comuna Boto\u015fe\u015fti-Paia",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.4039,
         "longitude": 23.26381
     },
     {
-        "cityId": "684098",
+        "cityId": 684098,
         "name": "Comuna Teslui",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.20534,
         "longitude": 24.15241
     },
     {
-        "cityId": "684664",
+        "cityId": 684664,
         "name": "Comuna Bistre\u0163",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.90162,
         "longitude": 23.52291
     },
     {
-        "cityId": "684731",
+        "cityId": 684731,
         "name": "Comuna Valea Stanciului",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.98333,
         "longitude": 23.86667
     },
     {
-        "cityId": "684827",
+        "cityId": 684827,
         "name": "Comuna B\u00e2rca",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.96954,
         "longitude": 23.61782
     },
     {
-        "cityId": "685217",
+        "cityId": 685217,
         "name": "Ora\u015f Bechet",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.78301,
         "longitude": 23.9587
     },
     {
-        "cityId": "686185",
+        "cityId": 686185,
         "name": "Comuna Argetoaia",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.5092,
         "longitude": 23.37593
     },
     {
-        "cityId": "686273",
+        "cityId": 686273,
         "name": "Comuna Apele Vii",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.06658,
         "longitude": 24.06611
     },
     {
-        "cityId": "686383",
+        "cityId": 686383,
         "name": "Comuna Am\u0103r\u0103\u015ftii de Sus",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.98588,
         "longitude": 24.16715
     },
     {
-        "cityId": "686385",
+        "cityId": 686385,
         "name": "Comuna Am\u0103r\u0103\u015ftii de Jos",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.92611,
         "longitude": 24.16076
     },
     {
-        "cityId": "686462",
+        "cityId": 686462,
         "name": "Comuna Alm\u00e3j",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.44093,
         "longitude": 23.70915
     },
     {
-        "cityId": "686644",
+        "cityId": 686644,
         "name": "Comuna Afuma\u0163i",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.99793,
         "longitude": 23.44386
     },
     {
-        "cityId": "8334607",
+        "cityId": 8334607,
         "name": "Municipiul Craiova",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.31943,
         "longitude": 23.80875
     },
     {
-        "cityId": "8334608",
+        "cityId": 8334608,
         "name": "Municipiul B\u00e3ile\u015fti",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.02121,
         "longitude": 23.34475
     },
     {
-        "cityId": "8334609",
+        "cityId": 8334609,
         "name": "Municipiul Calafat",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.98979,
         "longitude": 22.9313
     },
     {
-        "cityId": "8334627",
+        "cityId": 8334627,
         "name": "Comuna Ghidici",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 43.88899,
         "longitude": 23.19454
     },
     {
-        "cityId": "8334628",
+        "cityId": 8334628,
         "name": "Comuna Galiciuica",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.10189,
         "longitude": 23.38921
     },
     {
-        "cityId": "8334629",
+        "cityId": 8334629,
         "name": "Comuna C\u00e2rcea",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.26856,
         "longitude": 23.89801
     },
     {
-        "cityId": "8334785",
+        "cityId": 8334785,
         "name": "Comuna Unirea",
-        "stateId": "679134",
+        "stateId": 679134,
         "latitude": 44.15811,
         "longitude": 23.17936
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "9610646",
+        "cityId": 9610646,
         "name": "Yl\u00e4-Savo",
-        "stateId": "830690",
+        "stateId": 830690,
         "latitude": 63.5329,
         "longitude": 27.03621
     },
     {
-        "cityId": "9610647",
+        "cityId": 9610647,
         "name": "Kuopio",
-        "stateId": "830690",
+        "stateId": 830690,
         "latitude": 62.9893,
         "longitude": 27.70115
     },
     {
-        "cityId": "9610648",
+        "cityId": 9610648,
         "name": "Koillis-Savo",
-        "stateId": "830690",
+        "stateId": 830690,
         "latitude": 63.07193,
         "longitude": 28.50126
     },
     {
-        "cityId": "9610649",
+        "cityId": 9610649,
         "name": "Varkaus",
-        "stateId": "830690",
+        "stateId": 830690,
         "latitude": 62.46014,
         "longitude": 28.00721
     },
     {
-        "cityId": "9610650",
+        "cityId": 9610650,
         "name": "Sis\u00e4-Savo",
-        "stateId": "830690",
+        "stateId": 830690,
         "latitude": 62.75341,
         "longitude": 26.79729
     }

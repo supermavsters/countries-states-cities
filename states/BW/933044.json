@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7670702",
+        "cityId": 7670702,
         "name": "Gaborone",
-        "stateId": "933044",
+        "stateId": 933044,
         "latitude": -24.76234,
         "longitude": 25.7995
     },
     {
-        "cityId": "11819287",
+        "cityId": 11819287,
         "name": "South East",
-        "stateId": "933044",
+        "stateId": 933044,
         "latitude": -25.22518,
         "longitude": 25.67222
     }

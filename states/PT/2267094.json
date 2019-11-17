@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "8010541",
+        "cityId": 8010541,
         "name": "Alcoba\u00e7a",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.55441,
         "longitude": -8.98833
     },
     {
-        "cityId": "8010542",
+        "cityId": 8010542,
         "name": "Alvai\u00e1zere",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.81951,
         "longitude": -8.38858
     },
     {
-        "cityId": "8010543",
+        "cityId": 8010543,
         "name": "Ansi\u00e3o",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.93424,
         "longitude": -8.42045
     },
     {
-        "cityId": "8010544",
+        "cityId": 8010544,
         "name": "Batalha",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.64784,
         "longitude": -8.78108
     },
     {
-        "cityId": "8010545",
+        "cityId": 8010545,
         "name": "Bombarral",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.28106,
         "longitude": -9.17002
     },
     {
-        "cityId": "8010546",
+        "cityId": 8010546,
         "name": "Caldas da Rainha",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.41586,
         "longitude": -9.13376
     },
     {
-        "cityId": "8010547",
+        "cityId": 8010547,
         "name": "Castanheira de P\u00eara",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 40.03228,
         "longitude": -8.18889
     },
     {
-        "cityId": "8010548",
+        "cityId": 8010548,
         "name": "Figueir\u00f3 Dos Vinhos",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.90617,
         "longitude": -8.27753
     },
     {
-        "cityId": "8010549",
+        "cityId": 8010549,
         "name": "Leiria",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.74644,
         "longitude": -8.80623
     },
     {
-        "cityId": "8010550",
+        "cityId": 8010550,
         "name": "Marinha Grande",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.77681,
         "longitude": -8.95005
     },
     {
-        "cityId": "8010551",
+        "cityId": 8010551,
         "name": "Nazar\u00e9",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.59965,
         "longitude": -9.07162
     },
     {
-        "cityId": "8010552",
+        "cityId": 8010552,
         "name": "\u00d3bidos",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.35854,
         "longitude": -9.17603
     },
     {
-        "cityId": "8010553",
+        "cityId": 8010553,
         "name": "Pedr\u00f3g\u00e3o Grande",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.92682,
         "longitude": -8.20093
     },
     {
-        "cityId": "8010554",
+        "cityId": 8010554,
         "name": "Peniche",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.36166,
         "longitude": -9.36869
     },
     {
-        "cityId": "8010555",
+        "cityId": 8010555,
         "name": "Pombal",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.90735,
         "longitude": -8.66949
     },
     {
-        "cityId": "8010556",
+        "cityId": 8010556,
         "name": "Porto de M\u00f3s",
-        "stateId": "2267094",
+        "stateId": 2267094,
         "latitude": 39.60547,
         "longitude": -8.81893
     }

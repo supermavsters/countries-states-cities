@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "401611",
+        "cityId": 401611,
         "name": "Delf\u0101n",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 34.09528,
         "longitude": 47.64778
     },
     {
-        "cityId": "449665",
+        "cityId": 449665,
         "name": "Shahrest\u0101n-e Azn\u0101",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.46667,
         "longitude": 49.41667
     },
     {
-        "cityId": "449666",
+        "cityId": 449666,
         "name": "Shahrest\u0101n-e Al\u012bg\u016bdarz",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.08333,
         "longitude": 49.48333
     },
     {
-        "cityId": "449667",
+        "cityId": 449667,
         "name": "Shahrest\u0101n-e Bor\u016bjerd",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.88333,
         "longitude": 48.71667
     },
     {
-        "cityId": "449668",
+        "cityId": 449668,
         "name": "Pol-e Dokhtar",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.16667,
         "longitude": 48
     },
     {
-        "cityId": "449669",
+        "cityId": 449669,
         "name": "Shahrest\u0101n-e Khorram\u0101b\u0101d",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.38333,
         "longitude": 48.58333
     },
     {
-        "cityId": "449670",
+        "cityId": 449670,
         "name": "Shahrest\u0101n-e Delf\u0101n",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 34.05,
         "longitude": 47.78333
     },
     {
-        "cityId": "449671",
+        "cityId": 449671,
         "name": "Dor\u016bd",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.5,
         "longitude": 49.08333
     },
     {
-        "cityId": "449672",
+        "cityId": 449672,
         "name": "Selseleh",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.83333,
         "longitude": 48.16667
     },
     {
-        "cityId": "449673",
+        "cityId": 449673,
         "name": "Shahrest\u0101n-e K\u016bhdasht",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.51667,
         "longitude": 47.4
     },
     {
-        "cityId": "9533002",
+        "cityId": 9533002,
         "name": "Shahrest\u0101n-e D\u016breh",
-        "stateId": "125605",
+        "stateId": 125605,
         "latitude": 33.61667,
         "longitude": 47.91667
     }

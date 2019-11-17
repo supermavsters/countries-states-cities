@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2439154",
+        "cityId": 2439154,
         "name": "D\u00e9partement de T\u00e2nout",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 14.75,
         "longitude": 8.33333
     },
     {
-        "cityId": "2440920",
+        "cityId": 2440920,
         "name": "D\u00e9partement de Mirria",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 13.7,
         "longitude": 9.2
     },
     {
-        "cityId": "2441216",
+        "cityId": 2441216,
         "name": "D\u00e9partement de Matameye",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 13.4,
         "longitude": 8.6
     },
     {
-        "cityId": "2441474",
+        "cityId": 2441474,
         "name": "D\u00e9partement de Magaria",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 13.25,
         "longitude": 9.25
     },
     {
-        "cityId": "2444218",
+        "cityId": 2444218,
         "name": "D\u00e9partement de Gour\u00e9",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 15,
         "longitude": 10.75
     },
     {
-        "cityId": "10943048",
+        "cityId": 10943048,
         "name": "Mirriah Department",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 13.70722,
         "longitude": 9.15
     },
     {
-        "cityId": "11204206",
+        "cityId": 11204206,
         "name": "Magaria Department",
-        "stateId": "2437797",
+        "stateId": 2437797,
         "latitude": 12.99806,
         "longitude": 8.90972
     }

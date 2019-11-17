@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "486197",
+        "cityId": 486197,
         "name": "Sunzhenskiy Rayon",
-        "stateId": "556349",
+        "stateId": 556349,
         "latitude": 43.33333,
         "longitude": 45.08333
     },
     {
-        "cityId": "523063",
+        "cityId": 523063,
         "name": "Nazranovskiy Rayon",
-        "stateId": "556349",
+        "stateId": 556349,
         "latitude": 43.25,
         "longitude": 44.83333
     },
     {
-        "cityId": "531127",
+        "cityId": 531127,
         "name": "Malgobekskiy Rayon",
-        "stateId": "556349",
+        "stateId": 556349,
         "latitude": 43.5,
         "longitude": 44.58333
     },
     {
-        "cityId": "7303363",
+        "cityId": 7303363,
         "name": "Dzhayrakhskiy Rayon",
-        "stateId": "556349",
+        "stateId": 556349,
         "latitude": 42.80749,
         "longitude": 44.9176
     }

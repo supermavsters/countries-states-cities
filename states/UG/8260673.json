@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "234069",
+        "cityId": 234069,
         "name": "Namutumba District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.86667,
         "longitude": 33.66667
     },
     {
-        "cityId": "234411",
+        "cityId": 234411,
         "name": "Bukedea District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.36667,
         "longitude": 34.13333
     },
     {
-        "cityId": "443334",
+        "cityId": 443334,
         "name": "Iganga District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.7,
         "longitude": 33.5333
     },
     {
-        "cityId": "443335",
+        "cityId": 443335,
         "name": "Jinja District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.511,
         "longitude": 33.315
     },
     {
-        "cityId": "443340",
+        "cityId": 443340,
         "name": "Kamuli District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.95,
         "longitude": 33.11667
     },
     {
-        "cityId": "443341",
+        "cityId": 443341,
         "name": "Kapchorwa District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.3333,
         "longitude": 34.42
     },
     {
-        "cityId": "443348",
+        "cityId": 443348,
         "name": "Kumi District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.5,
         "longitude": 33.95
     },
     {
-        "cityId": "443353",
+        "cityId": 443353,
         "name": "Mbale District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.016,
         "longitude": 34.191
     },
     {
-        "cityId": "443362",
+        "cityId": 443362,
         "name": "Pallisa District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.22593,
         "longitude": 33.77977
     },
     {
-        "cityId": "443365",
+        "cityId": 443365,
         "name": "Soroti District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.78481,
         "longitude": 33.59432
     },
     {
-        "cityId": "443366",
+        "cityId": 443366,
         "name": "Tororo District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.75,
         "longitude": 34.08333
     },
     {
-        "cityId": "443783",
+        "cityId": 443783,
         "name": "Bugiri District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.5333,
         "longitude": 33.79
     },
     {
-        "cityId": "443784",
+        "cityId": 443784,
         "name": "Busia District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.41762,
         "longitude": 34.00421
     },
     {
-        "cityId": "443785",
+        "cityId": 443785,
         "name": "Katakwi District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.92157,
         "longitude": 34.04753
     },
     {
-        "cityId": "448215",
+        "cityId": 448215,
         "name": "Kaberamaido District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.75732,
         "longitude": 33.22576
     },
     {
-        "cityId": "448220",
+        "cityId": 448220,
         "name": "Mayuge District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.269,
         "longitude": 33.561
     },
     {
-        "cityId": "448223",
+        "cityId": 448223,
         "name": "Sironko District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.157,
         "longitude": 34.314
     },
     {
-        "cityId": "7056276",
+        "cityId": 7056276,
         "name": "Amuria District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 2.08333,
         "longitude": 33.66667
     },
     {
-        "cityId": "7056279",
+        "cityId": 7056279,
         "name": "Budaka District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.05249,
         "longitude": 33.99221
     },
     {
-        "cityId": "7056280",
+        "cityId": 7056280,
         "name": "Bududa District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.05,
         "longitude": 34.4
     },
     {
-        "cityId": "7056282",
+        "cityId": 7056282,
         "name": "Butaleja District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.89076,
         "longitude": 33.94497
     },
     {
-        "cityId": "7056287",
+        "cityId": 7056287,
         "name": "Kaliro District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.07782,
         "longitude": 33.48763
     },
     {
-        "cityId": "7056291",
+        "cityId": 7056291,
         "name": "Manafwa District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.88333,
         "longitude": 34.33333
     },
     {
-        "cityId": "7056296",
+        "cityId": 7056296,
         "name": "Bukwa District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.27115,
         "longitude": 34.66778
     },
     {
-        "cityId": "8030569",
+        "cityId": 8030569,
         "name": "Serere District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.487,
         "longitude": 33.452
     },
     {
-        "cityId": "8030570",
+        "cityId": 8030570,
         "name": "Ngora District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.48203,
         "longitude": 33.75832
     },
     {
-        "cityId": "8030571",
+        "cityId": 8030571,
         "name": "Buyende District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.2663,
         "longitude": 33.14268
     },
     {
-        "cityId": "8030572",
+        "cityId": 8030572,
         "name": "Kibuku District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.05,
         "longitude": 33.80879
     },
     {
-        "cityId": "8030573",
+        "cityId": 8030573,
         "name": "Bulambuli District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.32055,
         "longitude": 34.28062
     },
     {
-        "cityId": "8030574",
+        "cityId": 8030574,
         "name": "Kween District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 1.37732,
         "longitude": 34.57456
     },
     {
-        "cityId": "8030575",
+        "cityId": 8030575,
         "name": "Namayingo District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.278,
         "longitude": 33.809
     },
     {
-        "cityId": "8030588",
+        "cityId": 8030588,
         "name": "Luuka District",
-        "stateId": "8260673",
+        "stateId": 8260673,
         "latitude": 0.82405,
         "longitude": 33.33251
     }

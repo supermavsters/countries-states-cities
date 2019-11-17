@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3220905",
+        "cityId": 3220905,
         "name": "Kreisfreie Stadt Bremen",
-        "stateId": "2944387",
+        "stateId": 2944387,
         "latitude": 53.11528,
         "longitude": 8.7975
     },
     {
-        "cityId": "3220906",
+        "cityId": 3220906,
         "name": "Kreisfreie Stadt Bremerhaven",
-        "stateId": "2944387",
+        "stateId": 2944387,
         "latitude": 53.56139,
         "longitude": 8.57806
     }

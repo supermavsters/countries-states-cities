@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "2032552",
+        "cityId": 2032552,
         "name": "Bayangol",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.91167,
         "longitude": 106.08667
     },
     {
-        "cityId": "6618857",
+        "cityId": 6618857,
         "name": "Mandal",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.84122,
         "longitude": 106.45752
     },
     {
-        "cityId": "6618859",
+        "cityId": 6618859,
         "name": "Orhon",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.13792,
         "longitude": 105.38807
     },
     {
-        "cityId": "6618861",
+        "cityId": 6618861,
         "name": "Sayhan",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.09304,
         "longitude": 105.55922
     },
     {
-        "cityId": "6618862",
+        "cityId": 6618862,
         "name": "Sant",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.23934,
         "longitude": 105.37434
     },
     {
-        "cityId": "6618863",
+        "cityId": 6618863,
         "name": "Baruunb\u00fcren",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.25951,
         "longitude": 104.74417
     },
     {
-        "cityId": "6618864",
+        "cityId": 6618864,
         "name": "Orhontuul",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.94302,
         "longitude": 104.9754
     },
     {
-        "cityId": "6618865",
+        "cityId": 6618865,
         "name": "Shaamar",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.07896,
         "longitude": 106.18612
     },
     {
-        "cityId": "6618866",
+        "cityId": 6618866,
         "name": "Dz\u00fc\u00fcnb\u00fcren",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.05934,
         "longitude": 105.88039
     },
     {
-        "cityId": "6618867",
+        "cityId": 6618867,
         "name": "Tsagaannuur",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.09283,
         "longitude": 105.41862
     },
     {
-        "cityId": "6618868",
+        "cityId": 6618868,
         "name": "T\u00fcshig",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.32508,
         "longitude": 105.04663
     },
     {
-        "cityId": "6618869",
+        "cityId": 6618869,
         "name": "S\u00fchbaatar",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.22667,
         "longitude": 106.2081
     },
     {
-        "cityId": "6618870",
+        "cityId": 6618870,
         "name": "Altanbulag",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.3071,
         "longitude": 106.49906
     },
     {
-        "cityId": "6618872",
+        "cityId": 6618872,
         "name": "H\u00fcder",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.77018,
         "longitude": 107.5177
     },
     {
-        "cityId": "6618873",
+        "cityId": 6618873,
         "name": "Javhlant",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.65696,
         "longitude": 106.33221
     },
     {
-        "cityId": "6618874",
+        "cityId": 6618874,
         "name": "Hushaat",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.88269,
         "longitude": 105.65758
     },
     {
-        "cityId": "6987957",
+        "cityId": 6987957,
         "name": "Orhontuul Sum",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.82816,
         "longitude": 104.99438
     },
     {
-        "cityId": "6987969",
+        "cityId": 6987969,
         "name": "Y\u00f6r\u00f6\u00f6 Sum",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.76175,
         "longitude": 106.64978
     },
     {
-        "cityId": "6987971",
+        "cityId": 6987971,
         "name": "Mandal Sum",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.84578,
         "longitude": 106.87879
     },
     {
-        "cityId": "6987972",
+        "cityId": 6987972,
         "name": "Bayangol Sum",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 48.98833,
         "longitude": 106.20416
     },
     {
-        "cityId": "10375955",
+        "cityId": 10375955,
         "name": "Kh\u00fcder",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 49.77639,
         "longitude": 107.51611
     },
     {
-        "cityId": "10375957",
+        "cityId": 10375957,
         "name": "Z\u00fc\u00fcnb\u00fcren",
-        "stateId": "2029432",
+        "stateId": 2029432,
         "latitude": 50.06972,
         "longitude": 105.88972
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2413107",
+        "cityId": 2413107,
         "name": "Kanifing",
-        "stateId": "2413875",
+        "stateId": 2413875,
         "latitude": 13.45,
         "longitude": -16.66667
     },
     {
-        "cityId": "2593772",
+        "cityId": 2593772,
         "name": "Kombo Saint Mary District",
-        "stateId": "2413875",
+        "stateId": 2413875,
         "latitude": 13.44389,
         "longitude": -16.64583
     }

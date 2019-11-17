@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "352180",
+        "cityId": 352180,
         "name": "Markaz M\u012bt Ghamr",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 30.71247,
         "longitude": 31.32334
     },
     {
-        "cityId": "358171",
+        "cityId": 358171,
         "name": "Markaz Dikirnis",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.08407,
         "longitude": 31.68743
     },
     {
-        "cityId": "358824",
+        "cityId": 358824,
         "name": "Markaz Bilq\u0101s",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.34069,
         "longitude": 31.38649
     },
     {
-        "cityId": "360756",
+        "cityId": 360756,
         "name": "Markaz al Manzilah",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.16877,
         "longitude": 31.94322
     },
     {
-        "cityId": "360763",
+        "cityId": 360763,
         "name": "Markaz al Man\u015f\u016brah",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.04167,
         "longitude": 31.47856
     },
     {
-        "cityId": "361701",
+        "cityId": 361701,
         "name": "Markaz Aj\u0101",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 30.89978,
         "longitude": 31.31929
     },
     {
-        "cityId": "7910872",
+        "cityId": 7910872,
         "name": "Bahr El Bakr",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.03997,
         "longitude": 31.39728
     },
     {
-        "cityId": "7910974",
+        "cityId": 7910974,
         "name": "Mit Yazid",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 30.9201,
         "longitude": 31.30974
     },
     {
-        "cityId": "8559274",
+        "cityId": 8559274,
         "name": "Markaz Minyat An Na\u015fr",
-        "stateId": "361849",
+        "stateId": 361849,
         "latitude": 31.17081,
         "longitude": 31.72553
     }

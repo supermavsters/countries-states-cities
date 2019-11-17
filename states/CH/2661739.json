@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "6458830",
+        "cityId": 6458830,
         "name": "Bezirk Mittelland",
-        "stateId": "2661739",
+        "stateId": 2661739,
         "latitude": 47.377,
         "longitude": 9.43469
     },
     {
-        "cityId": "6458837",
+        "cityId": 6458837,
         "name": "Bezirk Hinterland",
-        "stateId": "2661739",
+        "stateId": 2661739,
         "latitude": 47.3647,
         "longitude": 9.2735
     },
     {
-        "cityId": "6458863",
+        "cityId": 6458863,
         "name": "Bezirk Vorderland",
-        "stateId": "2661739",
+        "stateId": 2661739,
         "latitude": 47.44167,
         "longitude": 9.53869
     }

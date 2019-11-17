@@ -1,6 +1,6 @@
 [
     {
-        "countryId": "3041565",
+        "countryId": 3041565,
         "name": "Andorra",
         "alpha2Code": "AD",
         "alpha3Code": "AND",
@@ -12,7 +12,7 @@
         "longitude": 1.5
     },
     {
-        "countryId": "290557",
+        "countryId": 290557,
         "name": "United Arab Emirates",
         "alpha2Code": "AE",
         "alpha3Code": "ARE",
@@ -24,7 +24,7 @@
         "longitude": 54
     },
     {
-        "countryId": "1149361",
+        "countryId": 1149361,
         "name": "Afghanistan",
         "alpha2Code": "AF",
         "alpha3Code": "AFG",
@@ -36,7 +36,7 @@
         "longitude": 65
     },
     {
-        "countryId": "3573511",
+        "countryId": 3573511,
         "name": "Anguilla",
         "alpha2Code": "AI",
         "alpha3Code": "AIA",
@@ -48,7 +48,7 @@
         "longitude": -63.16666666
     },
     {
-        "countryId": "783754",
+        "countryId": 783754,
         "name": "Albania",
         "alpha2Code": "AL",
         "alpha3Code": "ALB",
@@ -60,7 +60,7 @@
         "longitude": 20
     },
     {
-        "countryId": "174982",
+        "countryId": 174982,
         "name": "Armenia",
         "alpha2Code": "AM",
         "alpha3Code": "ARM",
@@ -72,7 +72,7 @@
         "longitude": 45
     },
     {
-        "countryId": "3351879",
+        "countryId": 3351879,
         "name": "Angola",
         "alpha2Code": "AO",
         "alpha3Code": "AGO",
@@ -96,7 +96,7 @@
         "longitude": 4.48
     },
     {
-        "countryId": "3865483",
+        "countryId": 3865483,
         "name": "Argentina",
         "alpha2Code": "AR",
         "alpha3Code": "ARG",
@@ -120,7 +120,7 @@
         "longitude": -170
     },
     {
-        "countryId": "2782113",
+        "countryId": 2782113,
         "name": "Austria",
         "alpha2Code": "AT",
         "alpha3Code": "AUT",
@@ -132,7 +132,7 @@
         "longitude": 13.33333333
     },
     {
-        "countryId": "2077456",
+        "countryId": 2077456,
         "name": "Australia",
         "alpha2Code": "AU",
         "alpha3Code": "AUS",
@@ -156,7 +156,7 @@
         "longitude": -69.96666666
     },
     {
-        "countryId": "661882",
+        "countryId": 661882,
         "name": "\u00c5land Islands",
         "alpha2Code": "AX",
         "alpha3Code": "ALA",
@@ -168,7 +168,7 @@
         "longitude": 19.9
     },
     {
-        "countryId": "587116",
+        "countryId": 587116,
         "name": "Azerbaijan",
         "alpha2Code": "AZ",
         "alpha3Code": "AZE",
@@ -180,7 +180,7 @@
         "longitude": 47.5
     },
     {
-        "countryId": "3277605",
+        "countryId": 3277605,
         "name": "Bosnia and Herzegovina",
         "alpha2Code": "BA",
         "alpha3Code": "BIH",
@@ -192,7 +192,7 @@
         "longitude": 18
     },
     {
-        "countryId": "3374084",
+        "countryId": 3374084,
         "name": "Barbados",
         "alpha2Code": "BB",
         "alpha3Code": "BRB",
@@ -204,7 +204,7 @@
         "longitude": -59.53333333
     },
     {
-        "countryId": "1210997",
+        "countryId": 1210997,
         "name": "Bangladesh",
         "alpha2Code": "BD",
         "alpha3Code": "BGD",
@@ -216,7 +216,7 @@
         "longitude": 90
     },
     {
-        "countryId": "2802361",
+        "countryId": 2802361,
         "name": "Belgium",
         "alpha2Code": "BE",
         "alpha3Code": "BEL",
@@ -228,7 +228,7 @@
         "longitude": 4
     },
     {
-        "countryId": "2361809",
+        "countryId": 2361809,
         "name": "Burkina Faso",
         "alpha2Code": "BF",
         "alpha3Code": "BFA",
@@ -240,7 +240,7 @@
         "longitude": -2
     },
     {
-        "countryId": "732800",
+        "countryId": 732800,
         "name": "Bulgaria",
         "alpha2Code": "BG",
         "alpha3Code": "BGR",
@@ -252,7 +252,7 @@
         "longitude": 25
     },
     {
-        "countryId": "290291",
+        "countryId": 290291,
         "name": "Bahrain",
         "alpha2Code": "BH",
         "alpha3Code": "BHR",
@@ -264,7 +264,7 @@
         "longitude": 50.55
     },
     {
-        "countryId": "433561",
+        "countryId": 433561,
         "name": "Burundi",
         "alpha2Code": "BI",
         "alpha3Code": "BDI",
@@ -276,7 +276,7 @@
         "longitude": 30
     },
     {
-        "countryId": "2395170",
+        "countryId": 2395170,
         "name": "Benin",
         "alpha2Code": "BJ",
         "alpha3Code": "BEN",
@@ -300,7 +300,7 @@
         "longitude": -63.41666666
     },
     {
-        "countryId": "3573345",
+        "countryId": 3573345,
         "name": "Bermuda",
         "alpha2Code": "BM",
         "alpha3Code": "BMU",
@@ -312,7 +312,7 @@
         "longitude": -64.75
     },
     {
-        "countryId": "1820814",
+        "countryId": 1820814,
         "name": "Brunei Darussalam",
         "alpha2Code": "BN",
         "alpha3Code": "BRN",
@@ -324,7 +324,7 @@
         "longitude": 114.66666666
     },
     {
-        "countryId": "3923057",
+        "countryId": 3923057,
         "name": "Bolivia (Plurinational State of)",
         "alpha2Code": "BO",
         "alpha3Code": "BOL",
@@ -336,7 +336,7 @@
         "longitude": -65
     },
     {
-        "countryId": "7626844",
+        "countryId": 7626844,
         "name": "Bonaire, Sint Eustatius and Saba",
         "alpha2Code": "BQ",
         "alpha3Code": "BES",
@@ -348,7 +348,7 @@
         "longitude": -68.266667
     },
     {
-        "countryId": "3469034",
+        "countryId": 3469034,
         "name": "Brazil",
         "alpha2Code": "BR",
         "alpha3Code": "BRA",
@@ -360,7 +360,7 @@
         "longitude": -55
     },
     {
-        "countryId": "3572887",
+        "countryId": 3572887,
         "name": "Bahamas",
         "alpha2Code": "BS",
         "alpha3Code": "BHS",
@@ -372,7 +372,7 @@
         "longitude": -76
     },
     {
-        "countryId": "1252634",
+        "countryId": 1252634,
         "name": "Bhutan",
         "alpha2Code": "BT",
         "alpha3Code": "BTN",
@@ -396,7 +396,7 @@
         "longitude": 3.4
     },
     {
-        "countryId": "933860",
+        "countryId": 933860,
         "name": "Botswana",
         "alpha2Code": "BW",
         "alpha3Code": "BWA",
@@ -408,7 +408,7 @@
         "longitude": 24
     },
     {
-        "countryId": "630336",
+        "countryId": 630336,
         "name": "Belarus",
         "alpha2Code": "BY",
         "alpha3Code": "BLR",
@@ -420,7 +420,7 @@
         "longitude": 28
     },
     {
-        "countryId": "3582678",
+        "countryId": 3582678,
         "name": "Belize",
         "alpha2Code": "BZ",
         "alpha3Code": "BLZ",
@@ -432,7 +432,7 @@
         "longitude": -88.75
     },
     {
-        "countryId": "6251999",
+        "countryId": 6251999,
         "name": "Canada",
         "alpha2Code": "CA",
         "alpha3Code": "CAN",
@@ -456,7 +456,7 @@
         "longitude": 96.83333333
     },
     {
-        "countryId": "203312",
+        "countryId": 203312,
         "name": "Congo (Democratic Republic of the)",
         "alpha2Code": "CD",
         "alpha3Code": "COD",
@@ -468,7 +468,7 @@
         "longitude": 25
     },
     {
-        "countryId": "239880",
+        "countryId": 239880,
         "name": "Central African Republic",
         "alpha2Code": "CF",
         "alpha3Code": "CAF",
@@ -480,7 +480,7 @@
         "longitude": 21
     },
     {
-        "countryId": "2260494",
+        "countryId": 2260494,
         "name": "Congo",
         "alpha2Code": "CG",
         "alpha3Code": "COG",
@@ -492,7 +492,7 @@
         "longitude": 15
     },
     {
-        "countryId": "2658434",
+        "countryId": 2658434,
         "name": "Switzerland",
         "alpha2Code": "CH",
         "alpha3Code": "CHE",
@@ -504,7 +504,7 @@
         "longitude": 8
     },
     {
-        "countryId": "2287781",
+        "countryId": 2287781,
         "name": "C\u00f4te d'Ivoire",
         "alpha2Code": "CI",
         "alpha3Code": "CIV",
@@ -516,7 +516,7 @@
         "longitude": -5
     },
     {
-        "countryId": "1899402",
+        "countryId": 1899402,
         "name": "Cook Islands",
         "alpha2Code": "CK",
         "alpha3Code": "COK",
@@ -528,7 +528,7 @@
         "longitude": -159.76666666
     },
     {
-        "countryId": "3895114",
+        "countryId": 3895114,
         "name": "Chile",
         "alpha2Code": "CL",
         "alpha3Code": "CHL",
@@ -540,7 +540,7 @@
         "longitude": -71
     },
     {
-        "countryId": "2233387",
+        "countryId": 2233387,
         "name": "Cameroon",
         "alpha2Code": "CM",
         "alpha3Code": "CMR",
@@ -552,7 +552,7 @@
         "longitude": 12
     },
     {
-        "countryId": "1814991",
+        "countryId": 1814991,
         "name": "China",
         "alpha2Code": "CN",
         "alpha3Code": "CHN",
@@ -564,7 +564,7 @@
         "longitude": 105
     },
     {
-        "countryId": "3686110",
+        "countryId": 3686110,
         "name": "Colombia",
         "alpha2Code": "CO",
         "alpha3Code": "COL",
@@ -576,7 +576,7 @@
         "longitude": -72
     },
     {
-        "countryId": "3624060",
+        "countryId": 3624060,
         "name": "Costa Rica",
         "alpha2Code": "CR",
         "alpha3Code": "CRI",
@@ -588,7 +588,7 @@
         "longitude": -84
     },
     {
-        "countryId": "3562981",
+        "countryId": 3562981,
         "name": "Cuba",
         "alpha2Code": "CU",
         "alpha3Code": "CUB",
@@ -600,7 +600,7 @@
         "longitude": -80
     },
     {
-        "countryId": "3374766",
+        "countryId": 3374766,
         "name": "Cabo Verde",
         "alpha2Code": "CV",
         "alpha3Code": "CPV",
@@ -636,7 +636,7 @@
         "longitude": 105.66666666
     },
     {
-        "countryId": "146669",
+        "countryId": 146669,
         "name": "Cyprus",
         "alpha2Code": "CY",
         "alpha3Code": "CYP",
@@ -648,7 +648,7 @@
         "longitude": 33
     },
     {
-        "countryId": "3077311",
+        "countryId": 3077311,
         "name": "Czech Republic",
         "alpha2Code": "CZ",
         "alpha3Code": "CZE",
@@ -660,7 +660,7 @@
         "longitude": 15.5
     },
     {
-        "countryId": "2921044",
+        "countryId": 2921044,
         "name": "Germany",
         "alpha2Code": "DE",
         "alpha3Code": "DEU",
@@ -672,7 +672,7 @@
         "longitude": 9
     },
     {
-        "countryId": "223816",
+        "countryId": 223816,
         "name": "Djibouti",
         "alpha2Code": "DJ",
         "alpha3Code": "DJI",
@@ -684,7 +684,7 @@
         "longitude": 43
     },
     {
-        "countryId": "2623032",
+        "countryId": 2623032,
         "name": "Denmark",
         "alpha2Code": "DK",
         "alpha3Code": "DNK",
@@ -696,7 +696,7 @@
         "longitude": 10
     },
     {
-        "countryId": "3575830",
+        "countryId": 3575830,
         "name": "Dominica",
         "alpha2Code": "DM",
         "alpha3Code": "DMA",
@@ -708,7 +708,7 @@
         "longitude": -61.33333333
     },
     {
-        "countryId": "3508796",
+        "countryId": 3508796,
         "name": "Dominican Republic",
         "alpha2Code": "DO",
         "alpha3Code": "DOM",
@@ -720,7 +720,7 @@
         "longitude": -70.66666666
     },
     {
-        "countryId": "2589581",
+        "countryId": 2589581,
         "name": "Algeria",
         "alpha2Code": "DZ",
         "alpha3Code": "DZA",
@@ -732,7 +732,7 @@
         "longitude": 3
     },
     {
-        "countryId": "3658394",
+        "countryId": 3658394,
         "name": "Ecuador",
         "alpha2Code": "EC",
         "alpha3Code": "ECU",
@@ -744,7 +744,7 @@
         "longitude": -77.5
     },
     {
-        "countryId": "453733",
+        "countryId": 453733,
         "name": "Estonia",
         "alpha2Code": "EE",
         "alpha3Code": "EST",
@@ -756,7 +756,7 @@
         "longitude": 26
     },
     {
-        "countryId": "357994",
+        "countryId": 357994,
         "name": "Egypt",
         "alpha2Code": "EG",
         "alpha3Code": "EGY",
@@ -780,7 +780,7 @@
         "longitude": -13
     },
     {
-        "countryId": "338010",
+        "countryId": 338010,
         "name": "Eritrea",
         "alpha2Code": "ER",
         "alpha3Code": "ERI",
@@ -792,7 +792,7 @@
         "longitude": 39
     },
     {
-        "countryId": "2510769",
+        "countryId": 2510769,
         "name": "Spain",
         "alpha2Code": "ES",
         "alpha3Code": "ESP",
@@ -804,7 +804,7 @@
         "longitude": -4
     },
     {
-        "countryId": "337996",
+        "countryId": 337996,
         "name": "Ethiopia",
         "alpha2Code": "ET",
         "alpha3Code": "ETH",
@@ -816,7 +816,7 @@
         "longitude": 38
     },
     {
-        "countryId": "660013",
+        "countryId": 660013,
         "name": "Finland",
         "alpha2Code": "FI",
         "alpha3Code": "FIN",
@@ -828,7 +828,7 @@
         "longitude": 26
     },
     {
-        "countryId": "2205218",
+        "countryId": 2205218,
         "name": "Fiji",
         "alpha2Code": "FJ",
         "alpha3Code": "FJI",
@@ -852,7 +852,7 @@
         "longitude": -59
     },
     {
-        "countryId": "2081918",
+        "countryId": 2081918,
         "name": "Micronesia (Federated States of)",
         "alpha2Code": "FM",
         "alpha3Code": "FSM",
@@ -864,7 +864,7 @@
         "longitude": 158.25
     },
     {
-        "countryId": "2622320",
+        "countryId": 2622320,
         "name": "Faroe Islands",
         "alpha2Code": "FO",
         "alpha3Code": "FRO",
@@ -876,7 +876,7 @@
         "longitude": -7
     },
     {
-        "countryId": "3017382",
+        "countryId": 3017382,
         "name": "France",
         "alpha2Code": "FR",
         "alpha3Code": "FRA",
@@ -888,7 +888,7 @@
         "longitude": 2
     },
     {
-        "countryId": "2400553",
+        "countryId": 2400553,
         "name": "Gabon",
         "alpha2Code": "GA",
         "alpha3Code": "GAB",
@@ -900,7 +900,7 @@
         "longitude": 11.75
     },
     {
-        "countryId": "2635167",
+        "countryId": 2635167,
         "name": "United Kingdom of Great Britain and Northern Ireland",
         "alpha2Code": "GB",
         "alpha3Code": "GBR",
@@ -912,7 +912,7 @@
         "longitude": -2
     },
     {
-        "countryId": "614540",
+        "countryId": 614540,
         "name": "Georgia",
         "alpha2Code": "GE",
         "alpha3Code": "GEO",
@@ -924,7 +924,7 @@
         "longitude": 43.5
     },
     {
-        "countryId": "3381670",
+        "countryId": 3381670,
         "name": "French Guiana",
         "alpha2Code": "GF",
         "alpha3Code": "GUF",
@@ -936,7 +936,7 @@
         "longitude": -53
     },
     {
-        "countryId": "3042362",
+        "countryId": 3042362,
         "name": "Guernsey",
         "alpha2Code": "GG",
         "alpha3Code": "GGY",
@@ -948,7 +948,7 @@
         "longitude": -2.58333333
     },
     {
-        "countryId": "2300660",
+        "countryId": 2300660,
         "name": "Ghana",
         "alpha2Code": "GH",
         "alpha3Code": "GHA",
@@ -972,7 +972,7 @@
         "longitude": -5.35
     },
     {
-        "countryId": "3425505",
+        "countryId": 3425505,
         "name": "Greenland",
         "alpha2Code": "GL",
         "alpha3Code": "GRL",
@@ -984,7 +984,7 @@
         "longitude": -40
     },
     {
-        "countryId": "2413451",
+        "countryId": 2413451,
         "name": "Gambia",
         "alpha2Code": "GM",
         "alpha3Code": "GMB",
@@ -996,7 +996,7 @@
         "longitude": -16.56666666
     },
     {
-        "countryId": "2420477",
+        "countryId": 2420477,
         "name": "Guinea",
         "alpha2Code": "GN",
         "alpha3Code": "GIN",
@@ -1008,7 +1008,7 @@
         "longitude": -10
     },
     {
-        "countryId": "3579143",
+        "countryId": 3579143,
         "name": "Guadeloupe",
         "alpha2Code": "GP",
         "alpha3Code": "GLP",
@@ -1020,7 +1020,7 @@
         "longitude": -61.583333
     },
     {
-        "countryId": "2309096",
+        "countryId": 2309096,
         "name": "Equatorial Guinea",
         "alpha2Code": "GQ",
         "alpha3Code": "GNQ",
@@ -1032,7 +1032,7 @@
         "longitude": 10
     },
     {
-        "countryId": "390903",
+        "countryId": 390903,
         "name": "Greece",
         "alpha2Code": "GR",
         "alpha3Code": "GRC",
@@ -1056,7 +1056,7 @@
         "longitude": -37
     },
     {
-        "countryId": "3595528",
+        "countryId": 3595528,
         "name": "Guatemala",
         "alpha2Code": "GT",
         "alpha3Code": "GTM",
@@ -1068,7 +1068,7 @@
         "longitude": -90.25
     },
     {
-        "countryId": "4043988",
+        "countryId": 4043988,
         "name": "Guam",
         "alpha2Code": "GU",
         "alpha3Code": "GUM",
@@ -1080,7 +1080,7 @@
         "longitude": 144.78333333
     },
     {
-        "countryId": "2372248",
+        "countryId": 2372248,
         "name": "Guinea-Bissau",
         "alpha2Code": "GW",
         "alpha3Code": "GNB",
@@ -1092,7 +1092,7 @@
         "longitude": -15
     },
     {
-        "countryId": "3378535",
+        "countryId": 3378535,
         "name": "Guyana",
         "alpha2Code": "GY",
         "alpha3Code": "GUY",
@@ -1104,7 +1104,7 @@
         "longitude": -59
     },
     {
-        "countryId": "1819730",
+        "countryId": 1819730,
         "name": "Hong Kong",
         "alpha2Code": "HK",
         "alpha3Code": "HKG",
@@ -1128,7 +1128,7 @@
         "longitude": 72.51666666
     },
     {
-        "countryId": "3608932",
+        "countryId": 3608932,
         "name": "Honduras",
         "alpha2Code": "HN",
         "alpha3Code": "HND",
@@ -1140,7 +1140,7 @@
         "longitude": -86.5
     },
     {
-        "countryId": "3202326",
+        "countryId": 3202326,
         "name": "Croatia",
         "alpha2Code": "HR",
         "alpha3Code": "HRV",
@@ -1152,7 +1152,7 @@
         "longitude": 15.5
     },
     {
-        "countryId": "3723988",
+        "countryId": 3723988,
         "name": "Haiti",
         "alpha2Code": "HT",
         "alpha3Code": "HTI",
@@ -1164,7 +1164,7 @@
         "longitude": -72.41666666
     },
     {
-        "countryId": "719819",
+        "countryId": 719819,
         "name": "Hungary",
         "alpha2Code": "HU",
         "alpha3Code": "HUN",
@@ -1176,7 +1176,7 @@
         "longitude": 20
     },
     {
-        "countryId": "1643084",
+        "countryId": 1643084,
         "name": "Indonesia",
         "alpha2Code": "ID",
         "alpha3Code": "IDN",
@@ -1188,7 +1188,7 @@
         "longitude": 120
     },
     {
-        "countryId": "2963597",
+        "countryId": 2963597,
         "name": "Ireland",
         "alpha2Code": "IE",
         "alpha3Code": "IRL",
@@ -1200,7 +1200,7 @@
         "longitude": -8
     },
     {
-        "countryId": "294640",
+        "countryId": 294640,
         "name": "Israel",
         "alpha2Code": "IL",
         "alpha3Code": "ISR",
@@ -1212,7 +1212,7 @@
         "longitude": 34.75
     },
     {
-        "countryId": "3042225",
+        "countryId": 3042225,
         "name": "Isle of Man",
         "alpha2Code": "IM",
         "alpha3Code": "IMN",
@@ -1224,7 +1224,7 @@
         "longitude": -4.5
     },
     {
-        "countryId": "1269750",
+        "countryId": 1269750,
         "name": "India",
         "alpha2Code": "IN",
         "alpha3Code": "IND",
@@ -1248,7 +1248,7 @@
         "longitude": 71.5
     },
     {
-        "countryId": "99237",
+        "countryId": 99237,
         "name": "Iraq",
         "alpha2Code": "IQ",
         "alpha3Code": "IRQ",
@@ -1260,7 +1260,7 @@
         "longitude": 44
     },
     {
-        "countryId": "130758",
+        "countryId": 130758,
         "name": "Iran (Islamic Republic of)",
         "alpha2Code": "IR",
         "alpha3Code": "IRN",
@@ -1272,7 +1272,7 @@
         "longitude": 53
     },
     {
-        "countryId": "2629691",
+        "countryId": 2629691,
         "name": "Iceland",
         "alpha2Code": "IS",
         "alpha3Code": "ISL",
@@ -1284,7 +1284,7 @@
         "longitude": -18
     },
     {
-        "countryId": "3175395",
+        "countryId": 3175395,
         "name": "Italy",
         "alpha2Code": "IT",
         "alpha3Code": "ITA",
@@ -1296,7 +1296,7 @@
         "longitude": 12.83333333
     },
     {
-        "countryId": "3042142",
+        "countryId": 3042142,
         "name": "Jersey",
         "alpha2Code": "JE",
         "alpha3Code": "JEY",
@@ -1308,7 +1308,7 @@
         "longitude": -2.16666666
     },
     {
-        "countryId": "3489940",
+        "countryId": 3489940,
         "name": "Jamaica",
         "alpha2Code": "JM",
         "alpha3Code": "JAM",
@@ -1320,7 +1320,7 @@
         "longitude": -77.5
     },
     {
-        "countryId": "248816",
+        "countryId": 248816,
         "name": "Jordan",
         "alpha2Code": "JO",
         "alpha3Code": "JOR",
@@ -1332,7 +1332,7 @@
         "longitude": 36
     },
     {
-        "countryId": "1861060",
+        "countryId": 1861060,
         "name": "Japan",
         "alpha2Code": "JP",
         "alpha3Code": "JPN",
@@ -1344,7 +1344,7 @@
         "longitude": 138
     },
     {
-        "countryId": "192950",
+        "countryId": 192950,
         "name": "Kenya",
         "alpha2Code": "KE",
         "alpha3Code": "KEN",
@@ -1356,7 +1356,7 @@
         "longitude": 38
     },
     {
-        "countryId": "1527747",
+        "countryId": 1527747,
         "name": "Kyrgyzstan",
         "alpha2Code": "KG",
         "alpha3Code": "KGZ",
@@ -1368,7 +1368,7 @@
         "longitude": 75
     },
     {
-        "countryId": "1831722",
+        "countryId": 1831722,
         "name": "Cambodia",
         "alpha2Code": "KH",
         "alpha3Code": "KHM",
@@ -1380,7 +1380,7 @@
         "longitude": 105
     },
     {
-        "countryId": "4030945",
+        "countryId": 4030945,
         "name": "Kiribati",
         "alpha2Code": "KI",
         "alpha3Code": "KIR",
@@ -1392,7 +1392,7 @@
         "longitude": 173
     },
     {
-        "countryId": "921929",
+        "countryId": 921929,
         "name": "Comoros",
         "alpha2Code": "KM",
         "alpha3Code": "COM",
@@ -1404,7 +1404,7 @@
         "longitude": 44.25
     },
     {
-        "countryId": "3575174",
+        "countryId": 3575174,
         "name": "Saint Kitts and Nevis",
         "alpha2Code": "KN",
         "alpha3Code": "KNA",
@@ -1416,7 +1416,7 @@
         "longitude": -62.75
     },
     {
-        "countryId": "1873107",
+        "countryId": 1873107,
         "name": "Korea (Democratic People's Republic of)",
         "alpha2Code": "KP",
         "alpha3Code": "PRK",
@@ -1428,7 +1428,7 @@
         "longitude": 127
     },
     {
-        "countryId": "1835841",
+        "countryId": 1835841,
         "name": "Korea (Republic of)",
         "alpha2Code": "KR",
         "alpha3Code": "KOR",
@@ -1440,7 +1440,7 @@
         "longitude": 127.5
     },
     {
-        "countryId": "285570",
+        "countryId": 285570,
         "name": "Kuwait",
         "alpha2Code": "KW",
         "alpha3Code": "KWT",
@@ -1452,7 +1452,7 @@
         "longitude": 45.75
     },
     {
-        "countryId": "3580718",
+        "countryId": 3580718,
         "name": "Cayman Islands",
         "alpha2Code": "KY",
         "alpha3Code": "CYM",
@@ -1464,7 +1464,7 @@
         "longitude": -80.5
     },
     {
-        "countryId": "1522867",
+        "countryId": 1522867,
         "name": "Kazakhstan",
         "alpha2Code": "KZ",
         "alpha3Code": "KAZ",
@@ -1476,7 +1476,7 @@
         "longitude": 68
     },
     {
-        "countryId": "1655842",
+        "countryId": 1655842,
         "name": "Lao People's Democratic Republic",
         "alpha2Code": "LA",
         "alpha3Code": "LAO",
@@ -1488,7 +1488,7 @@
         "longitude": 105
     },
     {
-        "countryId": "272103",
+        "countryId": 272103,
         "name": "Lebanon",
         "alpha2Code": "LB",
         "alpha3Code": "LBN",
@@ -1500,7 +1500,7 @@
         "longitude": 35.83333333
     },
     {
-        "countryId": "3576468",
+        "countryId": 3576468,
         "name": "Saint Lucia",
         "alpha2Code": "LC",
         "alpha3Code": "LCA",
@@ -1512,7 +1512,7 @@
         "longitude": -60.96666666
     },
     {
-        "countryId": "3042058",
+        "countryId": 3042058,
         "name": "Liechtenstein",
         "alpha2Code": "LI",
         "alpha3Code": "LIE",
@@ -1524,7 +1524,7 @@
         "longitude": 9.53333333
     },
     {
-        "countryId": "1227603",
+        "countryId": 1227603,
         "name": "Sri Lanka",
         "alpha2Code": "LK",
         "alpha3Code": "LKA",
@@ -1536,7 +1536,7 @@
         "longitude": 81
     },
     {
-        "countryId": "2275384",
+        "countryId": 2275384,
         "name": "Liberia",
         "alpha2Code": "LR",
         "alpha3Code": "LBR",
@@ -1548,7 +1548,7 @@
         "longitude": -9.5
     },
     {
-        "countryId": "932692",
+        "countryId": 932692,
         "name": "Lesotho",
         "alpha2Code": "LS",
         "alpha3Code": "LSO",
@@ -1560,7 +1560,7 @@
         "longitude": 28.5
     },
     {
-        "countryId": "597427",
+        "countryId": 597427,
         "name": "Lithuania",
         "alpha2Code": "LT",
         "alpha3Code": "LTU",
@@ -1572,7 +1572,7 @@
         "longitude": 24
     },
     {
-        "countryId": "2960313",
+        "countryId": 2960313,
         "name": "Luxembourg",
         "alpha2Code": "LU",
         "alpha3Code": "LUX",
@@ -1584,7 +1584,7 @@
         "longitude": 6.16666666
     },
     {
-        "countryId": "458258",
+        "countryId": 458258,
         "name": "Latvia",
         "alpha2Code": "LV",
         "alpha3Code": "LVA",
@@ -1596,7 +1596,7 @@
         "longitude": 25
     },
     {
-        "countryId": "2215636",
+        "countryId": 2215636,
         "name": "Libya",
         "alpha2Code": "LY",
         "alpha3Code": "LBY",
@@ -1608,7 +1608,7 @@
         "longitude": 17
     },
     {
-        "countryId": "2542007",
+        "countryId": 2542007,
         "name": "Morocco",
         "alpha2Code": "MA",
         "alpha3Code": "MAR",
@@ -1620,7 +1620,7 @@
         "longitude": -5
     },
     {
-        "countryId": "2993457",
+        "countryId": 2993457,
         "name": "Monaco",
         "alpha2Code": "MC",
         "alpha3Code": "MCO",
@@ -1632,7 +1632,7 @@
         "longitude": 7.4
     },
     {
-        "countryId": "617790",
+        "countryId": 617790,
         "name": "Moldova (Republic of)",
         "alpha2Code": "MD",
         "alpha3Code": "MDA",
@@ -1644,7 +1644,7 @@
         "longitude": 29
     },
     {
-        "countryId": "3194884",
+        "countryId": 3194884,
         "name": "Montenegro",
         "alpha2Code": "ME",
         "alpha3Code": "MNE",
@@ -1668,7 +1668,7 @@
         "longitude": -63.95
     },
     {
-        "countryId": "1062947",
+        "countryId": 1062947,
         "name": "Madagascar",
         "alpha2Code": "MG",
         "alpha3Code": "MDG",
@@ -1680,7 +1680,7 @@
         "longitude": 47
     },
     {
-        "countryId": "2080185",
+        "countryId": 2080185,
         "name": "Marshall Islands",
         "alpha2Code": "MH",
         "alpha3Code": "MHL",
@@ -1692,7 +1692,7 @@
         "longitude": 168
     },
     {
-        "countryId": "718075",
+        "countryId": 718075,
         "name": "Macedonia (the former Yugoslav Republic of)",
         "alpha2Code": "MK",
         "alpha3Code": "MKD",
@@ -1704,7 +1704,7 @@
         "longitude": 22
     },
     {
-        "countryId": "2453866",
+        "countryId": 2453866,
         "name": "Mali",
         "alpha2Code": "ML",
         "alpha3Code": "MLI",
@@ -1716,7 +1716,7 @@
         "longitude": -4
     },
     {
-        "countryId": "1327865",
+        "countryId": 1327865,
         "name": "Myanmar",
         "alpha2Code": "MM",
         "alpha3Code": "MMR",
@@ -1728,7 +1728,7 @@
         "longitude": 98
     },
     {
-        "countryId": "2029969",
+        "countryId": 2029969,
         "name": "Mongolia",
         "alpha2Code": "MN",
         "alpha3Code": "MNG",
@@ -1752,7 +1752,7 @@
         "longitude": 113.55
     },
     {
-        "countryId": "4041468",
+        "countryId": 4041468,
         "name": "Northern Mariana Islands",
         "alpha2Code": "MP",
         "alpha3Code": "MNP",
@@ -1764,7 +1764,7 @@
         "longitude": 145.75
     },
     {
-        "countryId": "3570311",
+        "countryId": 3570311,
         "name": "Martinique",
         "alpha2Code": "MQ",
         "alpha3Code": "MTQ",
@@ -1776,7 +1776,7 @@
         "longitude": -61
     },
     {
-        "countryId": "2378080",
+        "countryId": 2378080,
         "name": "Mauritania",
         "alpha2Code": "MR",
         "alpha3Code": "MRT",
@@ -1788,7 +1788,7 @@
         "longitude": -12
     },
     {
-        "countryId": "3578097",
+        "countryId": 3578097,
         "name": "Montserrat",
         "alpha2Code": "MS",
         "alpha3Code": "MSR",
@@ -1800,7 +1800,7 @@
         "longitude": -62.2
     },
     {
-        "countryId": "2562770",
+        "countryId": 2562770,
         "name": "Malta",
         "alpha2Code": "MT",
         "alpha3Code": "MLT",
@@ -1812,7 +1812,7 @@
         "longitude": 14.58333333
     },
     {
-        "countryId": "934292",
+        "countryId": 934292,
         "name": "Mauritius",
         "alpha2Code": "MU",
         "alpha3Code": "MUS",
@@ -1824,7 +1824,7 @@
         "longitude": 57.55
     },
     {
-        "countryId": "1282028",
+        "countryId": 1282028,
         "name": "Maldives",
         "alpha2Code": "MV",
         "alpha3Code": "MDV",
@@ -1836,7 +1836,7 @@
         "longitude": 73
     },
     {
-        "countryId": "927384",
+        "countryId": 927384,
         "name": "Malawi",
         "alpha2Code": "MW",
         "alpha3Code": "MWI",
@@ -1848,7 +1848,7 @@
         "longitude": 34
     },
     {
-        "countryId": "3996063",
+        "countryId": 3996063,
         "name": "Mexico",
         "alpha2Code": "MX",
         "alpha3Code": "MEX",
@@ -1860,7 +1860,7 @@
         "longitude": -102
     },
     {
-        "countryId": "1733045",
+        "countryId": 1733045,
         "name": "Malaysia",
         "alpha2Code": "MY",
         "alpha3Code": "MYS",
@@ -1872,7 +1872,7 @@
         "longitude": 112.5
     },
     {
-        "countryId": "1036973",
+        "countryId": 1036973,
         "name": "Mozambique",
         "alpha2Code": "MZ",
         "alpha3Code": "MOZ",
@@ -1884,7 +1884,7 @@
         "longitude": 35
     },
     {
-        "countryId": "3355338",
+        "countryId": 3355338,
         "name": "Namibia",
         "alpha2Code": "NA",
         "alpha3Code": "NAM",
@@ -1896,7 +1896,7 @@
         "longitude": 17
     },
     {
-        "countryId": "2139685",
+        "countryId": 2139685,
         "name": "New Caledonia",
         "alpha2Code": "NC",
         "alpha3Code": "NCL",
@@ -1908,7 +1908,7 @@
         "longitude": 165.5
     },
     {
-        "countryId": "2440476",
+        "countryId": 2440476,
         "name": "Niger",
         "alpha2Code": "NE",
         "alpha3Code": "NER",
@@ -1932,7 +1932,7 @@
         "longitude": 167.95
     },
     {
-        "countryId": "2328926",
+        "countryId": 2328926,
         "name": "Nigeria",
         "alpha2Code": "NG",
         "alpha3Code": "NGA",
@@ -1944,7 +1944,7 @@
         "longitude": 8
     },
     {
-        "countryId": "3617476",
+        "countryId": 3617476,
         "name": "Nicaragua",
         "alpha2Code": "NI",
         "alpha3Code": "NIC",
@@ -1956,7 +1956,7 @@
         "longitude": -85
     },
     {
-        "countryId": "2750405",
+        "countryId": 2750405,
         "name": "Netherlands",
         "alpha2Code": "NL",
         "alpha3Code": "NLD",
@@ -1968,7 +1968,7 @@
         "longitude": 5.75
     },
     {
-        "countryId": "3144096",
+        "countryId": 3144096,
         "name": "Norway",
         "alpha2Code": "NO",
         "alpha3Code": "NOR",
@@ -1980,7 +1980,7 @@
         "longitude": 10
     },
     {
-        "countryId": "1282988",
+        "countryId": 1282988,
         "name": "Nepal",
         "alpha2Code": "NP",
         "alpha3Code": "NPL",
@@ -1992,7 +1992,7 @@
         "longitude": 84
     },
     {
-        "countryId": "2110425",
+        "countryId": 2110425,
         "name": "Nauru",
         "alpha2Code": "NR",
         "alpha3Code": "NRU",
@@ -2016,7 +2016,7 @@
         "longitude": -169.86666666
     },
     {
-        "countryId": "2186224",
+        "countryId": 2186224,
         "name": "New Zealand",
         "alpha2Code": "NZ",
         "alpha3Code": "NZL",
@@ -2028,7 +2028,7 @@
         "longitude": 174
     },
     {
-        "countryId": "286963",
+        "countryId": 286963,
         "name": "Oman",
         "alpha2Code": "OM",
         "alpha3Code": "OMN",
@@ -2040,7 +2040,7 @@
         "longitude": 57
     },
     {
-        "countryId": "3703430",
+        "countryId": 3703430,
         "name": "Panama",
         "alpha2Code": "PA",
         "alpha3Code": "PAN",
@@ -2052,7 +2052,7 @@
         "longitude": -80
     },
     {
-        "countryId": "3932488",
+        "countryId": 3932488,
         "name": "Peru",
         "alpha2Code": "PE",
         "alpha3Code": "PER",
@@ -2064,7 +2064,7 @@
         "longitude": -76
     },
     {
-        "countryId": "4030656",
+        "countryId": 4030656,
         "name": "French Polynesia",
         "alpha2Code": "PF",
         "alpha3Code": "PYF",
@@ -2076,7 +2076,7 @@
         "longitude": -140
     },
     {
-        "countryId": "2088628",
+        "countryId": 2088628,
         "name": "Papua New Guinea",
         "alpha2Code": "PG",
         "alpha3Code": "PNG",
@@ -2088,7 +2088,7 @@
         "longitude": 147
     },
     {
-        "countryId": "1694008",
+        "countryId": 1694008,
         "name": "Philippines",
         "alpha2Code": "PH",
         "alpha3Code": "PHL",
@@ -2100,7 +2100,7 @@
         "longitude": 122
     },
     {
-        "countryId": "1168579",
+        "countryId": 1168579,
         "name": "Pakistan",
         "alpha2Code": "PK",
         "alpha3Code": "PAK",
@@ -2112,7 +2112,7 @@
         "longitude": 70
     },
     {
-        "countryId": "798544",
+        "countryId": 798544,
         "name": "Poland",
         "alpha2Code": "PL",
         "alpha3Code": "POL",
@@ -2124,7 +2124,7 @@
         "longitude": 20
     },
     {
-        "countryId": "3424932",
+        "countryId": 3424932,
         "name": "Saint Pierre and Miquelon",
         "alpha2Code": "PM",
         "alpha3Code": "SPM",
@@ -2148,7 +2148,7 @@
         "longitude": -130.1
     },
     {
-        "countryId": "4566966",
+        "countryId": 4566966,
         "name": "Puerto Rico",
         "alpha2Code": "PR",
         "alpha3Code": "PRI",
@@ -2160,7 +2160,7 @@
         "longitude": -66.5
     },
     {
-        "countryId": "6254930",
+        "countryId": 6254930,
         "name": "Palestine, State of",
         "alpha2Code": "PS",
         "alpha3Code": "PSE",
@@ -2172,7 +2172,7 @@
         "longitude": 35.2
     },
     {
-        "countryId": "2264397",
+        "countryId": 2264397,
         "name": "Portugal",
         "alpha2Code": "PT",
         "alpha3Code": "PRT",
@@ -2184,7 +2184,7 @@
         "longitude": -8
     },
     {
-        "countryId": "1559582",
+        "countryId": 1559582,
         "name": "Palau",
         "alpha2Code": "PW",
         "alpha3Code": "PLW",
@@ -2196,7 +2196,7 @@
         "longitude": 134.5
     },
     {
-        "countryId": "3437598",
+        "countryId": 3437598,
         "name": "Paraguay",
         "alpha2Code": "PY",
         "alpha3Code": "PRY",
@@ -2208,7 +2208,7 @@
         "longitude": -58
     },
     {
-        "countryId": "289688",
+        "countryId": 289688,
         "name": "Qatar",
         "alpha2Code": "QA",
         "alpha3Code": "QAT",
@@ -2220,7 +2220,7 @@
         "longitude": 51.25
     },
     {
-        "countryId": "935317",
+        "countryId": 935317,
         "name": "R\u00e9union",
         "alpha2Code": "RE",
         "alpha3Code": "REU",
@@ -2232,7 +2232,7 @@
         "longitude": 55.5
     },
     {
-        "countryId": "798549",
+        "countryId": 798549,
         "name": "Romania",
         "alpha2Code": "RO",
         "alpha3Code": "ROU",
@@ -2244,7 +2244,7 @@
         "longitude": 25
     },
     {
-        "countryId": "6290252",
+        "countryId": 6290252,
         "name": "Serbia",
         "alpha2Code": "RS",
         "alpha3Code": "SRB",
@@ -2256,7 +2256,7 @@
         "longitude": 21
     },
     {
-        "countryId": "2017370",
+        "countryId": 2017370,
         "name": "Russian Federation",
         "alpha2Code": "RU",
         "alpha3Code": "RUS",
@@ -2268,7 +2268,7 @@
         "longitude": 100
     },
     {
-        "countryId": "49518",
+        "countryId": 49518,
         "name": "Rwanda",
         "alpha2Code": "RW",
         "alpha3Code": "RWA",
@@ -2280,7 +2280,7 @@
         "longitude": 30
     },
     {
-        "countryId": "102358",
+        "countryId": 102358,
         "name": "Saudi Arabia",
         "alpha2Code": "SA",
         "alpha3Code": "SAU",
@@ -2292,7 +2292,7 @@
         "longitude": 45
     },
     {
-        "countryId": "2103350",
+        "countryId": 2103350,
         "name": "Solomon Islands",
         "alpha2Code": "SB",
         "alpha3Code": "SLB",
@@ -2304,7 +2304,7 @@
         "longitude": 159
     },
     {
-        "countryId": "241170",
+        "countryId": 241170,
         "name": "Seychelles",
         "alpha2Code": "SC",
         "alpha3Code": "SYC",
@@ -2316,7 +2316,7 @@
         "longitude": 55.66666666
     },
     {
-        "countryId": "366755",
+        "countryId": 366755,
         "name": "Sudan",
         "alpha2Code": "SD",
         "alpha3Code": "SDN",
@@ -2328,7 +2328,7 @@
         "longitude": 30
     },
     {
-        "countryId": "2661886",
+        "countryId": 2661886,
         "name": "Sweden",
         "alpha2Code": "SE",
         "alpha3Code": "SWE",
@@ -2340,7 +2340,7 @@
         "longitude": 15
     },
     {
-        "countryId": "1880251",
+        "countryId": 1880251,
         "name": "Singapore",
         "alpha2Code": "SG",
         "alpha3Code": "SGP",
@@ -2352,7 +2352,7 @@
         "longitude": 103.8
     },
     {
-        "countryId": "3370751",
+        "countryId": 3370751,
         "name": "Saint Helena, Ascension and Tristan da Cunha",
         "alpha2Code": "SH",
         "alpha3Code": "SHN",
@@ -2364,7 +2364,7 @@
         "longitude": -5.7
     },
     {
-        "countryId": "3190538",
+        "countryId": 3190538,
         "name": "Slovenia",
         "alpha2Code": "SI",
         "alpha3Code": "SVN",
@@ -2388,7 +2388,7 @@
         "longitude": 20
     },
     {
-        "countryId": "3057568",
+        "countryId": 3057568,
         "name": "Slovakia",
         "alpha2Code": "SK",
         "alpha3Code": "SVK",
@@ -2400,7 +2400,7 @@
         "longitude": 19.5
     },
     {
-        "countryId": "2403846",
+        "countryId": 2403846,
         "name": "Sierra Leone",
         "alpha2Code": "SL",
         "alpha3Code": "SLE",
@@ -2412,7 +2412,7 @@
         "longitude": -11.5
     },
     {
-        "countryId": "3168068",
+        "countryId": 3168068,
         "name": "San Marino",
         "alpha2Code": "SM",
         "alpha3Code": "SMR",
@@ -2424,7 +2424,7 @@
         "longitude": 12.41666666
     },
     {
-        "countryId": "2245662",
+        "countryId": 2245662,
         "name": "Senegal",
         "alpha2Code": "SN",
         "alpha3Code": "SEN",
@@ -2436,7 +2436,7 @@
         "longitude": -14
     },
     {
-        "countryId": "51537",
+        "countryId": 51537,
         "name": "Somalia",
         "alpha2Code": "SO",
         "alpha3Code": "SOM",
@@ -2448,7 +2448,7 @@
         "longitude": 49
     },
     {
-        "countryId": "3382998",
+        "countryId": 3382998,
         "name": "Suriname",
         "alpha2Code": "SR",
         "alpha3Code": "SUR",
@@ -2460,7 +2460,7 @@
         "longitude": -56
     },
     {
-        "countryId": "7909807",
+        "countryId": 7909807,
         "name": "South Sudan",
         "alpha2Code": "SS",
         "alpha3Code": "SSD",
@@ -2472,7 +2472,7 @@
         "longitude": 30
     },
     {
-        "countryId": "2410758",
+        "countryId": 2410758,
         "name": "Sao Tome and Principe",
         "alpha2Code": "ST",
         "alpha3Code": "STP",
@@ -2484,7 +2484,7 @@
         "longitude": 7
     },
     {
-        "countryId": "3585968",
+        "countryId": 3585968,
         "name": "El Salvador",
         "alpha2Code": "SV",
         "alpha3Code": "SLV",
@@ -2508,7 +2508,7 @@
         "longitude": -63.05
     },
     {
-        "countryId": "163843",
+        "countryId": 163843,
         "name": "Syrian Arab Republic",
         "alpha2Code": "SY",
         "alpha3Code": "SYR",
@@ -2520,7 +2520,7 @@
         "longitude": 38
     },
     {
-        "countryId": "934841",
+        "countryId": 934841,
         "name": "Swaziland",
         "alpha2Code": "SZ",
         "alpha3Code": "SWZ",
@@ -2544,7 +2544,7 @@
         "longitude": -71.58333333
     },
     {
-        "countryId": "1546748",
+        "countryId": 1546748,
         "name": "French Southern Territories",
         "alpha2Code": "TF",
         "alpha3Code": "ATF",
@@ -2556,7 +2556,7 @@
         "longitude": 69.167
     },
     {
-        "countryId": "2363686",
+        "countryId": 2363686,
         "name": "Togo",
         "alpha2Code": "TG",
         "alpha3Code": "TGO",
@@ -2568,7 +2568,7 @@
         "longitude": 1.16666666
     },
     {
-        "countryId": "1605651",
+        "countryId": 1605651,
         "name": "Thailand",
         "alpha2Code": "TH",
         "alpha3Code": "THA",
@@ -2580,7 +2580,7 @@
         "longitude": 100
     },
     {
-        "countryId": "1220409",
+        "countryId": 1220409,
         "name": "Tajikistan",
         "alpha2Code": "TJ",
         "alpha3Code": "TJK",
@@ -2592,7 +2592,7 @@
         "longitude": 71
     },
     {
-        "countryId": "4031074",
+        "countryId": 4031074,
         "name": "Tokelau",
         "alpha2Code": "TK",
         "alpha3Code": "TKL",
@@ -2604,7 +2604,7 @@
         "longitude": -172
     },
     {
-        "countryId": "1966436",
+        "countryId": 1966436,
         "name": "Timor-Leste",
         "alpha2Code": "TL",
         "alpha3Code": "TLS",
@@ -2616,7 +2616,7 @@
         "longitude": 125.91666666
     },
     {
-        "countryId": "1218197",
+        "countryId": 1218197,
         "name": "Turkmenistan",
         "alpha2Code": "TM",
         "alpha3Code": "TKM",
@@ -2628,7 +2628,7 @@
         "longitude": 60
     },
     {
-        "countryId": "2464461",
+        "countryId": 2464461,
         "name": "Tunisia",
         "alpha2Code": "TN",
         "alpha3Code": "TUN",
@@ -2640,7 +2640,7 @@
         "longitude": 9
     },
     {
-        "countryId": "298795",
+        "countryId": 298795,
         "name": "Turkey",
         "alpha2Code": "TR",
         "alpha3Code": "TUR",
@@ -2652,7 +2652,7 @@
         "longitude": 35
     },
     {
-        "countryId": "3573591",
+        "countryId": 3573591,
         "name": "Trinidad and Tobago",
         "alpha2Code": "TT",
         "alpha3Code": "TTO",
@@ -2664,7 +2664,7 @@
         "longitude": -61
     },
     {
-        "countryId": "2110297",
+        "countryId": 2110297,
         "name": "Tuvalu",
         "alpha2Code": "TV",
         "alpha3Code": "TUV",
@@ -2676,7 +2676,7 @@
         "longitude": 178
     },
     {
-        "countryId": "1668284",
+        "countryId": 1668284,
         "name": "Taiwan",
         "alpha2Code": "TW",
         "alpha3Code": "TWN",
@@ -2688,7 +2688,7 @@
         "longitude": 121
     },
     {
-        "countryId": "149590",
+        "countryId": 149590,
         "name": "Tanzania, United Republic of",
         "alpha2Code": "TZ",
         "alpha3Code": "TZA",
@@ -2700,7 +2700,7 @@
         "longitude": 35
     },
     {
-        "countryId": "690791",
+        "countryId": 690791,
         "name": "Ukraine",
         "alpha2Code": "UA",
         "alpha3Code": "UKR",
@@ -2712,7 +2712,7 @@
         "longitude": 32
     },
     {
-        "countryId": "226074",
+        "countryId": 226074,
         "name": "Uganda",
         "alpha2Code": "UG",
         "alpha3Code": "UGA",
@@ -2724,7 +2724,7 @@
         "longitude": 32
     },
     {
-        "countryId": "5854968",
+        "countryId": 5854968,
         "name": "United States Minor Outlying Islands",
         "alpha2Code": "UM",
         "alpha3Code": "UMI",
@@ -2734,7 +2734,7 @@
         "flag": "https:\/\/restcountries.eu\/data\/umi.svg"
     },
     {
-        "countryId": "6252001",
+        "countryId": 6252001,
         "name": "United States of America",
         "alpha2Code": "US",
         "alpha3Code": "USA",
@@ -2746,7 +2746,7 @@
         "longitude": -97
     },
     {
-        "countryId": "3439705",
+        "countryId": 3439705,
         "name": "Uruguay",
         "alpha2Code": "UY",
         "alpha3Code": "URY",
@@ -2758,7 +2758,7 @@
         "longitude": -56
     },
     {
-        "countryId": "1512440",
+        "countryId": 1512440,
         "name": "Uzbekistan",
         "alpha2Code": "UZ",
         "alpha3Code": "UZB",
@@ -2770,7 +2770,7 @@
         "longitude": 64
     },
     {
-        "countryId": "3164670",
+        "countryId": 3164670,
         "name": "Holy See",
         "alpha2Code": "VA",
         "alpha3Code": "VAT",
@@ -2782,7 +2782,7 @@
         "longitude": 12.45
     },
     {
-        "countryId": "3577815",
+        "countryId": 3577815,
         "name": "Saint Vincent and the Grenadines",
         "alpha2Code": "VC",
         "alpha3Code": "VCT",
@@ -2794,7 +2794,7 @@
         "longitude": -61.2
     },
     {
-        "countryId": "3625428",
+        "countryId": 3625428,
         "name": "Venezuela (Bolivarian Republic of)",
         "alpha2Code": "VE",
         "alpha3Code": "VEN",
@@ -2818,7 +2818,7 @@
         "longitude": -64.62305
     },
     {
-        "countryId": "4796775",
+        "countryId": 4796775,
         "name": "Virgin Islands (U.S.)",
         "alpha2Code": "VI",
         "alpha3Code": "VIR",
@@ -2830,7 +2830,7 @@
         "longitude": -64.93
     },
     {
-        "countryId": "1562822",
+        "countryId": 1562822,
         "name": "Viet Nam",
         "alpha2Code": "VN",
         "alpha3Code": "VNM",
@@ -2842,7 +2842,7 @@
         "longitude": 107.83333333
     },
     {
-        "countryId": "2134431",
+        "countryId": 2134431,
         "name": "Vanuatu",
         "alpha2Code": "VU",
         "alpha3Code": "VUT",
@@ -2854,7 +2854,7 @@
         "longitude": 167
     },
     {
-        "countryId": "4034749",
+        "countryId": 4034749,
         "name": "Wallis and Futuna",
         "alpha2Code": "WF",
         "alpha3Code": "WLF",
@@ -2866,7 +2866,7 @@
         "longitude": -176.2
     },
     {
-        "countryId": "4034894",
+        "countryId": 4034894,
         "name": "Samoa",
         "alpha2Code": "WS",
         "alpha3Code": "WSM",
@@ -2878,7 +2878,7 @@
         "longitude": -172.33333333
     },
     {
-        "countryId": "831053",
+        "countryId": 831053,
         "name": "Republic of Kosovo",
         "alpha2Code": "XK",
         "alpha3Code": "KOS",
@@ -2890,7 +2890,7 @@
         "longitude": 21.166667
     },
     {
-        "countryId": "69543",
+        "countryId": 69543,
         "name": "Yemen",
         "alpha2Code": "YE",
         "alpha3Code": "YEM",
@@ -2902,7 +2902,7 @@
         "longitude": 48
     },
     {
-        "countryId": "1024031",
+        "countryId": 1024031,
         "name": "Mayotte",
         "alpha2Code": "YT",
         "alpha3Code": "MYT",
@@ -2914,7 +2914,7 @@
         "longitude": 45.16666666
     },
     {
-        "countryId": "953987",
+        "countryId": 953987,
         "name": "South Africa",
         "alpha2Code": "ZA",
         "alpha3Code": "ZAF",
@@ -2926,7 +2926,7 @@
         "longitude": 24
     },
     {
-        "countryId": "895949",
+        "countryId": 895949,
         "name": "Zambia",
         "alpha2Code": "ZM",
         "alpha3Code": "ZMB",
@@ -2938,7 +2938,7 @@
         "longitude": 30
     },
     {
-        "countryId": "878675",
+        "countryId": 878675,
         "name": "Zimbabwe",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",

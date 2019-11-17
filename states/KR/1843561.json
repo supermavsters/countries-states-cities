@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1843160",
+        "cityId": 1843160,
         "name": "Ganghwa-gun",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.74745,
         "longitude": 126.42634
     },
     {
-        "cityId": "8417630",
+        "cityId": 8417630,
         "name": "Seo-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.55233,
         "longitude": 126.65543
     },
     {
-        "cityId": "8417631",
+        "cityId": 8417631,
         "name": "Gyeyang-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.5543,
         "longitude": 126.73741
     },
     {
-        "cityId": "8417647",
+        "cityId": 8417647,
         "name": "Bupyeong-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.4972,
         "longitude": 126.71107
     },
     {
-        "cityId": "8417651",
+        "cityId": 8417651,
         "name": "Namdong-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.41831,
         "longitude": 126.7184
     },
     {
-        "cityId": "8417654",
+        "cityId": 8417654,
         "name": "Yeonsu-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.41911,
         "longitude": 126.66489
     },
     {
-        "cityId": "8417655",
+        "cityId": 8417655,
         "name": "Dong-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.48375,
         "longitude": 126.6369
     },
     {
-        "cityId": "8541499",
+        "cityId": 8541499,
         "name": "Ongjin-gun",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.23361,
         "longitude": 126.12305
     },
     {
-        "cityId": "8604981",
+        "cityId": 8604981,
         "name": "Jung-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.47353,
         "longitude": 126.62151
     },
     {
-        "cityId": "8604983",
+        "cityId": 8604983,
         "name": "Nam-gu",
-        "stateId": "1843561",
+        "stateId": 1843561,
         "latitude": 37.46362,
         "longitude": 126.65
     }

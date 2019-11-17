@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "11820791",
+        "cityId": 11820791,
         "name": "Isidoro Noblia",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.03132,
         "longitude": -54.1332
     },
     {
-        "cityId": "11820792",
+        "cityId": 11820792,
         "name": "Acegua",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -31.87054,
         "longitude": -54.36067
     },
     {
-        "cityId": "11820793",
+        "cityId": 11820793,
         "name": "Tupambae",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.66114,
         "longitude": -54.80492
     },
     {
-        "cityId": "11820794",
+        "cityId": 11820794,
         "name": "Placido Rosas",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.68664,
         "longitude": -53.71597
     },
     {
-        "cityId": "11820795",
+        "cityId": 11820795,
         "name": "Ramon Trigo",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.25232,
         "longitude": -54.59411
     },
     {
-        "cityId": "11820796",
+        "cityId": 11820796,
         "name": "Fraile Muerto",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.49252,
         "longitude": -54.52964
     },
     {
-        "cityId": "11820834",
+        "cityId": 11820834,
         "name": "Rio Branco",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.62083,
         "longitude": -53.46143
     },
     {
-        "cityId": "11820848",
+        "cityId": 11820848,
         "name": "Arevalo",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.73891,
         "longitude": -55.01603
     },
     {
-        "cityId": "11820874",
+        "cityId": 11820874,
         "name": "Arbolito",
-        "stateId": "3443173",
+        "stateId": 3443173,
         "latitude": -32.65691,
         "longitude": -54.13196
     }

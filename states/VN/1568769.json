@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1905613",
+        "cityId": 1905613,
         "name": "Th\u00e0nh Ph\u1ed1 Qu\u1ea3ng Ng\u00e3i",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.11577,
         "longitude": 108.80962
     },
     {
-        "cityId": "1905614",
+        "cityId": 1905614,
         "name": "Huy\u1ec7n T\u01b0 Ngh\u0129a",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.09499,
         "longitude": 108.77053
     },
     {
-        "cityId": "1905615",
+        "cityId": 1905615,
         "name": "Huy\u1ec7n S\u01a1n T\u1ecbnh",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.1909,
         "longitude": 108.74295
     },
     {
-        "cityId": "1905616",
+        "cityId": 1905616,
         "name": "Huy\u1ec7n B\u00ecnh S\u01a1n",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.31899,
         "longitude": 108.76383
     },
     {
-        "cityId": "1905617",
+        "cityId": 1905617,
         "name": "Huy\u1ec7n Tr\u00e0 B\u1ed3ng",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.23752,
         "longitude": 108.52633
     },
     {
-        "cityId": "1905618",
+        "cityId": 1905618,
         "name": "Huy\u1ec7n S\u01a1n T\u00e2y",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.96392,
         "longitude": 108.36419
     },
     {
-        "cityId": "1905619",
+        "cityId": 1905619,
         "name": "Huy\u1ec7n S\u01a1n H\u00e0",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.98427,
         "longitude": 108.53643
     },
     {
-        "cityId": "1905620",
+        "cityId": 1905620,
         "name": "Huy\u1ec7n Minh Long",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.95375,
         "longitude": 108.67724
     },
     {
-        "cityId": "1905621",
+        "cityId": 1905621,
         "name": "Huy\u1ec7n Ngh\u0129a H\u00e0nh",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.98712,
         "longitude": 108.80036
     },
     {
-        "cityId": "1905622",
+        "cityId": 1905622,
         "name": "Huy\u1ec7n M\u1ed9 \u0110\u1ee9c",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.95515,
         "longitude": 108.88841
     },
     {
-        "cityId": "1905623",
+        "cityId": 1905623,
         "name": "Huy\u1ec7n Ba T\u01a1",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.73973,
         "longitude": 108.69326
     },
     {
-        "cityId": "1905624",
+        "cityId": 1905624,
         "name": "Huy\u1ec7n \u0110\u1ee9c Ph\u1ed5",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 14.78,
         "longitude": 108.97857
     },
     {
-        "cityId": "1905625",
+        "cityId": 1905625,
         "name": "Huy\u1ec7n L\u00fd S\u01a1n",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.40608,
         "longitude": 109.09707
     },
     {
-        "cityId": "8673071",
+        "cityId": 8673071,
         "name": "Huy\u1ec7n T\u00e2y Tr\u00e0",
-        "stateId": "1568769",
+        "stateId": 1568769,
         "latitude": 15.16831,
         "longitude": 108.36841
     }

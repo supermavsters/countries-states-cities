@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3187693",
+        "cityId": 3187693,
         "name": "Grad Virovitica",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.83167,
         "longitude": 17.38483
     },
     {
-        "cityId": "3192931",
+        "cityId": 3192931,
         "name": "Grad Slatina",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.7,
         "longitude": 17.7
     },
     {
-        "cityId": "3194063",
+        "cityId": 3194063,
         "name": "Grad Orahovica",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.53333,
         "longitude": 17.9
     },
     {
-        "cityId": "11049455",
+        "cityId": 11049455,
         "name": "Crnac",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.69207,
         "longitude": 17.93879
     },
     {
-        "cityId": "11049456",
+        "cityId": 11049456,
         "name": "\u010ca\u010dinci",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.60004,
         "longitude": 17.87377
     },
     {
-        "cityId": "11049457",
+        "cityId": 11049457,
         "name": "\u010ca\u0111avica",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.74278,
         "longitude": 17.85562
     },
     {
-        "cityId": "11049459",
+        "cityId": 11049459,
         "name": "Gradina",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.85423,
         "longitude": 17.51109
     },
     {
-        "cityId": "11049462",
+        "cityId": 11049462,
         "name": "Luka\u010d",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.87407,
         "longitude": 17.41938
     },
     {
-        "cityId": "11049464",
+        "cityId": 11049464,
         "name": "Mikleu\u0161",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.61421,
         "longitude": 17.80837
     },
     {
-        "cityId": "11049465",
+        "cityId": 11049465,
         "name": "Nova Bukovica",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.66183,
         "longitude": 17.77086
     },
     {
-        "cityId": "11049466",
+        "cityId": 11049466,
         "name": "Pitoma\u010da",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.94779,
         "longitude": 17.23197
     },
     {
-        "cityId": "11049467",
+        "cityId": 11049467,
         "name": "Sopje",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.80304,
         "longitude": 17.74507
     },
     {
-        "cityId": "11049468",
+        "cityId": 11049468,
         "name": "Suhopolje",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.80238,
         "longitude": 17.49762
     },
     {
-        "cityId": "11049469",
+        "cityId": 11049469,
         "name": "\u0160pi\u0161i\u0107 Bukovica",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.8574,
         "longitude": 17.30089
     },
     {
-        "cityId": "11049470",
+        "cityId": 11049470,
         "name": "Vo\u0107in",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.62015,
         "longitude": 17.54594
     },
     {
-        "cityId": "11049471",
+        "cityId": 11049471,
         "name": "Zdenci",
-        "stateId": "3337533",
+        "stateId": 3337533,
         "latitude": 45.58247,
         "longitude": 17.95149
     }

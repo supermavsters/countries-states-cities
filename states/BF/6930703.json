@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2359209",
+        "cityId": 2359209,
         "name": "Province de la Como\u00e9",
-        "stateId": "6930703",
+        "stateId": 6930703,
         "latitude": 10.33333,
         "longitude": -4.41667
     },
     {
-        "cityId": "2597263",
+        "cityId": 2597263,
         "name": "Province de la L\u00e9raba",
-        "stateId": "6930703",
+        "stateId": 6930703,
         "latitude": 10.66667,
         "longitude": -5.2
     }

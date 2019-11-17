@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1905517",
+        "cityId": 1905517,
         "name": "Th\u00e0nh Ph\u1ed1 Tam K\u1ef3",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.592,
         "longitude": 108.50583
     },
     {
-        "cityId": "1905518",
+        "cityId": 1905518,
         "name": "Th\u00e0nh Ph\u1ed1 H\u1ed9i An",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.88339,
         "longitude": 108.34198
     },
     {
-        "cityId": "1905519",
+        "cityId": 1905519,
         "name": "Huy\u1ec7n Th\u0103ng B\u00ecnh",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.68724,
         "longitude": 108.39227
     },
     {
-        "cityId": "1905520",
+        "cityId": 1905520,
         "name": "Huy\u1ec7n Qu\u1ebf S\u01a1n",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.71229,
         "longitude": 108.26156
     },
     {
-        "cityId": "1905521",
+        "cityId": 1905521,
         "name": "Huy\u1ec7n Duy Xuy\u00ean",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.7897,
         "longitude": 108.20247
     },
     {
-        "cityId": "1905522",
+        "cityId": 1905522,
         "name": "Huy\u1ec7n \u0110i\u1ec7n B\u00e0n",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.89917,
         "longitude": 108.2247
     },
     {
-        "cityId": "1905523",
+        "cityId": 1905523,
         "name": "Huy\u1ec7n \u0110\u1ea1i L\u1ed9c",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.83721,
         "longitude": 107.97894
     },
     {
-        "cityId": "1905525",
+        "cityId": 1905525,
         "name": "Huy\u1ec7n Nam Giang",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.63201,
         "longitude": 107.60267
     },
     {
-        "cityId": "1905526",
+        "cityId": 1905526,
         "name": "Huy\u1ec7n Ph\u01b0\u1edbc S\u01a1n",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.38806,
         "longitude": 107.85766
     },
     {
-        "cityId": "1905527",
+        "cityId": 1905527,
         "name": "Huy\u1ec7n Hi\u1ec7p \u0110\u1ee9c",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.53857,
         "longitude": 108.09539
     },
     {
-        "cityId": "1905528",
+        "cityId": 1905528,
         "name": "Huy\u1ec7n Ti\u00ean Ph\u01b0\u1edbc",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.4709,
         "longitude": 108.28257
     },
     {
-        "cityId": "1905529",
+        "cityId": 1905529,
         "name": "Huy\u1ec7n N\u00fai Th\u00e0nh",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.43345,
         "longitude": 108.57438
     },
     {
-        "cityId": "1905530",
+        "cityId": 1905530,
         "name": "Huy\u1ec7n Tr\u00e0 My",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.25,
         "longitude": 108.08333
     },
     {
-        "cityId": "8665308",
+        "cityId": 8665308,
         "name": "Huy\u1ec7n N\u00f4ng S\u01a1n",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.6713,
         "longitude": 108.00501
     },
     {
-        "cityId": "8668381",
+        "cityId": 8668381,
         "name": "Huy\u1ec7n \u0110\u00f4ng Giang",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.93785,
         "longitude": 107.75566
     },
     {
-        "cityId": "8668382",
+        "cityId": 8668382,
         "name": "Huy\u1ec7n T\u00e2y Giang",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.84999,
         "longitude": 107.4869
     },
     {
-        "cityId": "8668383",
+        "cityId": 8668383,
         "name": "Huy\u1ec7n B\u1eafc Tr\u00e0 My",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.29835,
         "longitude": 108.21675
     },
     {
-        "cityId": "8668384",
+        "cityId": 8668384,
         "name": "Huy\u1ec7n Ph\u00fa Ninh",
-        "stateId": "1905516",
+        "stateId": 1905516,
         "latitude": 15.52061,
         "longitude": 108.42305
     }

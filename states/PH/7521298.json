@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1685377",
+        "cityId": 1685377,
         "name": "Province of Sultan Kudarat",
-        "stateId": "7521298",
+        "stateId": 7521298,
         "latitude": 6.55,
         "longitude": 124.28333
     },
     {
-        "cityId": "1685731",
+        "cityId": 1685731,
         "name": "Province of South Cotabato",
-        "stateId": "7521298",
+        "stateId": 7521298,
         "latitude": 6.25218,
         "longitude": 125.0006
     },
     {
-        "cityId": "1697559",
+        "cityId": 1697559,
         "name": "Province of Cotabato",
-        "stateId": "7521298",
+        "stateId": 7521298,
         "latitude": 7.01667,
         "longitude": 125.08333
     },
     {
-        "cityId": "1716770",
+        "cityId": 1716770,
         "name": "Cotabato City",
-        "stateId": "7521298",
+        "stateId": 7521298,
         "latitude": 7.21667,
         "longitude": 124.25
     },
     {
-        "cityId": "7671047",
+        "cityId": 7671047,
         "name": "Province of Sarangani",
-        "stateId": "7521298",
+        "stateId": 7521298,
         "latitude": 5.87472,
         "longitude": 125.27528
     }

@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "2299646",
+        "cityId": 2299646,
         "name": "Keta",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 5.905,
         "longitude": 0.877
     },
     {
-        "cityId": "7647497",
+        "cityId": 7647497,
         "name": "Nkwanta North",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 8.60922,
         "longitude": 0.30625
     },
     {
-        "cityId": "7647498",
+        "cityId": 7647498,
         "name": "Nkwanta South",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 8.25379,
         "longitude": 0.51633
     },
     {
-        "cityId": "7647501",
+        "cityId": 7647501,
         "name": "Krachi East",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.69817,
         "longitude": 0.22447
     },
     {
-        "cityId": "7647502",
+        "cityId": 7647502,
         "name": "Krachi West",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.8,
         "longitude": -0.01667
     },
     {
-        "cityId": "7648923",
+        "cityId": 7648923,
         "name": "Adaklu-Anyigbe",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.55,
         "longitude": 0.7
     },
     {
-        "cityId": "7648934",
+        "cityId": 7648934,
         "name": "Akatsi District",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.197,
         "longitude": 0.799
     },
     {
-        "cityId": "7648960",
+        "cityId": 7648960,
         "name": "Biakoye",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.11667,
         "longitude": 0.31667
     },
     {
-        "cityId": "7648984",
+        "cityId": 7648984,
         "name": "Ho",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.6,
         "longitude": 0.46667
     },
     {
-        "cityId": "7648985",
+        "cityId": 7648985,
         "name": "Hohoe",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.15,
         "longitude": 0.46667
     },
     {
-        "cityId": "7648988",
+        "cityId": 7648988,
         "name": "Jasikan",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.4,
         "longitude": 0.46667
     },
     {
-        "cityId": "7648991",
+        "cityId": 7648991,
         "name": "Kadjebi",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7.53333,
         "longitude": 0.46667
     },
     {
-        "cityId": "7648994",
+        "cityId": 7648994,
         "name": "Ketu North District",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.213,
         "longitude": 0.971
     },
     {
-        "cityId": "7648995",
+        "cityId": 7648995,
         "name": "Ketu South District",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.086,
         "longitude": 1.047
     },
     {
-        "cityId": "7648999",
+        "cityId": 7648999,
         "name": "Kpando",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 7,
         "longitude": 0.3
     },
     {
-        "cityId": "7649019",
+        "cityId": 7649019,
         "name": "North Tongu",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.06667,
         "longitude": 0.51667
     },
     {
-        "cityId": "7649041",
+        "cityId": 7649041,
         "name": "South Dayi",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 6.56463,
         "longitude": 0.21404
     },
     {
-        "cityId": "7649043",
+        "cityId": 7649043,
         "name": "South Tongu District",
-        "stateId": "2294234",
+        "stateId": 2294234,
         "latitude": 5.977,
         "longitude": 0.647
     }

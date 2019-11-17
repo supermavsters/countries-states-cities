@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1652275",
+        "cityId": 1652275,
         "name": "Muang Vapi",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 15.75005,
         "longitude": 105.95529
     },
     {
-        "cityId": "1652935",
+        "cityId": 1652935,
         "name": "Muang Ta-\u00d4y",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 16.07765,
         "longitude": 106.70304
     },
     {
-        "cityId": "1653332",
+        "cityId": 1653332,
         "name": "Muang Saravan",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 15.71587,
         "longitude": 106.36158
     },
     {
-        "cityId": "1655850",
+        "cityId": 1655850,
         "name": "Muang Laongam",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 15.47745,
         "longitude": 106.14111
     },
     {
-        "cityId": "1655961",
+        "cityId": 1655961,
         "name": "Muang Lakhonph\u00e9ng",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 15.83308,
         "longitude": 105.59745
     },
     {
-        "cityId": "1656324",
+        "cityId": 1656324,
         "name": "Muang Kh\u00f4ngx\u00e9d\u00f4n",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 15.54626,
         "longitude": 105.77051
     },
     {
-        "cityId": "1904719",
+        "cityId": 1904719,
         "name": "Muang Toumlan",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 16.02236,
         "longitude": 106.23837
     },
     {
-        "cityId": "1904781",
+        "cityId": 1904781,
         "name": "Muang Samouay",
-        "stateId": "1653333",
+        "stateId": 1653333,
         "latitude": 16.35868,
         "longitude": 106.8748
     }

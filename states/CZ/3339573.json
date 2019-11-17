@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3068798",
+        "cityId": 3068798,
         "name": "Okres Ostrava-M\u011bsto",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 49.83333,
         "longitude": 18.25
     },
     {
-        "cityId": "3068925",
+        "cityId": 3068925,
         "name": "Okres Opava",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 49.83333,
         "longitude": 17.91667
     },
     {
-        "cityId": "3069304",
+        "cityId": 3069304,
         "name": "Okres Nov\u00fd Ji\u010d\u00edn",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 49.66667,
         "longitude": 18
     },
     {
-        "cityId": "3073790",
+        "cityId": 3073790,
         "name": "Okres Karvin\u00e1",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 49.83333,
         "longitude": 18.5
     },
     {
-        "cityId": "3076125",
+        "cityId": 3076125,
         "name": "Okres Fr\u00fddek-M\u00edstek",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 49.58333,
         "longitude": 18.5
     },
     {
-        "cityId": "3078544",
+        "cityId": 3078544,
         "name": "Okres Brunt\u00e1l",
-        "stateId": "3339573",
+        "stateId": 3339573,
         "latitude": 50,
         "longitude": 17.41667
     }

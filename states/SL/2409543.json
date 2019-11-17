@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2407469",
+        "cityId": 2407469,
         "name": "Kono District",
-        "stateId": "2409543",
+        "stateId": 2409543,
         "latitude": 8.70687,
         "longitude": -10.93368
     },
     {
-        "cityId": "2407781",
+        "cityId": 2407781,
         "name": "Kenema District",
-        "stateId": "2409543",
+        "stateId": 2409543,
         "latitude": 7.95171,
         "longitude": -11.19004
     },
     {
-        "cityId": "2408249",
+        "cityId": 2408249,
         "name": "Kailahun District",
-        "stateId": "2409543",
+        "stateId": 2409543,
         "latitude": 8.10768,
         "longitude": -10.75146
     }

@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "233709",
+        "cityId": 233709,
         "name": "Mpigi District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.07285,
         "longitude": 32.19902
     },
     {
-        "cityId": "443338",
+        "cityId": 443338,
         "name": "Kalangala District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.57478,
         "longitude": 32.38108
     },
     {
-        "cityId": "443339",
+        "cityId": 443339,
         "name": "Kampala District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.33508,
         "longitude": 32.58313
     },
     {
-        "cityId": "443344",
+        "cityId": 443344,
         "name": "Kiboga District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.85,
         "longitude": 31.93283
     },
     {
-        "cityId": "443350",
+        "cityId": 443350,
         "name": "Luwero District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.82,
         "longitude": 32.614
     },
     {
-        "cityId": "443358",
+        "cityId": 443358,
         "name": "Mubende District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.5,
         "longitude": 31.5
     },
     {
-        "cityId": "443359",
+        "cityId": 443359,
         "name": "Mukono District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.3,
         "longitude": 32.775
     },
     {
-        "cityId": "443363",
+        "cityId": 443363,
         "name": "Rakai District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.75773,
         "longitude": 31.5099
     },
     {
-        "cityId": "443786",
+        "cityId": 443786,
         "name": "Nakasongola District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 1.38903,
         "longitude": 32.41608
     },
     {
-        "cityId": "443787",
+        "cityId": 443787,
         "name": "Sembabule District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.00825,
         "longitude": 31.35513
     },
     {
-        "cityId": "448218",
+        "cityId": 448218,
         "name": "Kayunga District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 1,
         "longitude": 32.86667
     },
     {
-        "cityId": "448224",
+        "cityId": 448224,
         "name": "Wakiso District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.23763,
         "longitude": 32.47836
     },
     {
-        "cityId": "7056290",
+        "cityId": 7056290,
         "name": "Lyantonde District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.24059,
         "longitude": 31.19294
     },
     {
-        "cityId": "7056293",
+        "cityId": 7056293,
         "name": "Mityana District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.43213,
         "longitude": 32.06697
     },
     {
-        "cityId": "7056294",
+        "cityId": 7056294,
         "name": "Nakaseke District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 1.04063,
         "longitude": 32.18968
     },
     {
-        "cityId": "7910134",
+        "cityId": 7910134,
         "name": "Kalungu District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.16342,
         "longitude": 31.79718
     },
     {
-        "cityId": "7910136",
+        "cityId": 7910136,
         "name": "Butambala District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.13805,
         "longitude": 32.21826
     },
     {
-        "cityId": "8030576",
+        "cityId": 8030576,
         "name": "Buvuma District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.36744,
         "longitude": 33.20071
     },
     {
-        "cityId": "8030577",
+        "cityId": 8030577,
         "name": "Buikwe District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.3012,
         "longitude": 33.05184
     },
     {
-        "cityId": "8030578",
+        "cityId": 8030578,
         "name": "Gomba District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 0.20017,
         "longitude": 31.75023
     },
     {
-        "cityId": "8030579",
+        "cityId": 8030579,
         "name": "Bukomansimbi District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.12855,
         "longitude": 31.62527
     },
     {
-        "cityId": "8030580",
+        "cityId": 8030580,
         "name": "Lwengo District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.42603,
         "longitude": 31.45137
     },
     {
-        "cityId": "8030582",
+        "cityId": 8030582,
         "name": "Kyankwanzi District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": 1.12372,
         "longitude": 31.64605
     },
     {
-        "cityId": "8643206",
+        "cityId": 8643206,
         "name": "Masaka District",
-        "stateId": "234594",
+        "stateId": 234594,
         "latitude": -0.36667,
         "longitude": 31.7
     }

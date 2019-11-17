@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "881344",
+        "cityId": 881344,
         "name": "Shamva District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -17.12366,
         "longitude": 31.64146
     },
     {
-        "cityId": "882083",
+        "cityId": 882083,
         "name": "Rushinga District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -16.60792,
         "longitude": 32.31434
     },
     {
-        "cityId": "886383",
+        "cityId": 886383,
         "name": "Mazowe District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -17.2808,
         "longitude": 30.93231
     },
     {
-        "cityId": "890599",
+        "cityId": 890599,
         "name": "Guruve District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -16.37206,
         "longitude": 30.60607
     },
     {
-        "cityId": "892597",
+        "cityId": 892597,
         "name": "Mount Darwin",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -16.60792,
         "longitude": 31.68578
     },
     {
-        "cityId": "894459",
+        "cityId": 894459,
         "name": "Centenary District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -16.41667,
         "longitude": 31.16667
     },
     {
-        "cityId": "895060",
+        "cityId": 895060,
         "name": "Bindura District",
-        "stateId": "886843",
+        "stateId": 886843,
         "latitude": -17.2123,
         "longitude": 31.303
     }

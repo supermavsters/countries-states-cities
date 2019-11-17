@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "1865781",
+        "cityId": 1865781,
         "name": "T\u014fkch\u2019\u014fn-si",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.75528,
         "longitude": 126.27306
     },
     {
-        "cityId": "1865786",
+        "cityId": 1865786,
         "name": "Kangs\u014f-guy\u014fk",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.95389,
         "longitude": 125.45889
     },
     {
-        "cityId": "1866047",
+        "cityId": 1866047,
         "name": "Ny\u014fngw\u014fn-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.96944,
         "longitude": 126.61611
     },
     {
-        "cityId": "1866367",
+        "cityId": 1866367,
         "name": "Yonggang-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.86083,
         "longitude": 125.38306
     },
     {
-        "cityId": "1866790",
+        "cityId": 1866790,
         "name": "Yangd\u014fk-kun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.19056,
         "longitude": 126.80528
     },
     {
-        "cityId": "1868812",
+        "cityId": 1868812,
         "name": "Taedong-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.08333,
         "longitude": 125.55
     },
     {
-        "cityId": "1869013",
+        "cityId": 1869013,
         "name": "Sunch\u2019\u014fn-si",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.44889,
         "longitude": 125.91694
     },
     {
-        "cityId": "1869039",
+        "cityId": 1869039,
         "name": "Sukch\u2019\u014fn-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.40083,
         "longitude": 125.58611
     },
     {
-        "cityId": "1869676",
+        "cityId": 1869676,
         "name": "S\u014fngch\u2019\u014fn-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.26333,
         "longitude": 126.21639
     },
     {
-        "cityId": "1870271",
+        "cityId": 1870271,
         "name": "Sinyang-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.37417,
         "longitude": 126.55389
     },
     {
-        "cityId": "1871865",
+        "cityId": 1871865,
         "name": "P\u2019y\u014fngw\u014fn-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.26667,
         "longitude": 125.55306
     },
     {
-        "cityId": "1871869",
+        "cityId": 1871869,
         "name": "P\u2019y\u014fngs\u014fng-si",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.28278,
         "longitude": 125.86333
     },
     {
-        "cityId": "1872201",
+        "cityId": 1872201,
         "name": "Pukch\u2019ang-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.57056,
         "longitude": 126.29694
     },
     {
-        "cityId": "1873193",
+        "cityId": 1873193,
         "name": "Onch\u2019\u014fn-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.88556,
         "longitude": 125.20972
     },
     {
-        "cityId": "1874222",
+        "cityId": 1874222,
         "name": "Mund\u014fk-kun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.5,
         "longitude": 125.50972
     },
     {
-        "cityId": "1874668",
+        "cityId": 1874668,
         "name": "Maengsan-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.66667,
         "longitude": 126.58333
     },
     {
-        "cityId": "1876403",
+        "cityId": 1876403,
         "name": "Kaech\u2019\u014fn-si",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.70098,
         "longitude": 125.90126
     },
     {
-        "cityId": "1877192",
+        "cityId": 1877192,
         "name": "Hoech\u2019ang-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.08333,
         "longitude": 126.41667
     },
     {
-        "cityId": "1877796",
+        "cityId": 1877796,
         "name": "Ch\u016dngsan-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.07944,
         "longitude": 125.35444
     },
     {
-        "cityId": "1878380",
+        "cityId": 1878380,
         "name": "Ch\u2019\u014fngnam-gu",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.50194,
         "longitude": 125.54667
     },
     {
-        "cityId": "1879614",
+        "cityId": 1879614,
         "name": "Anju-si",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.59083,
         "longitude": 125.72611
     },
     {
-        "cityId": "1883585",
+        "cityId": 1883585,
         "name": "Hanggu-guy\u014fk",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.76444,
         "longitude": 125.46361
     },
     {
-        "cityId": "1883586",
+        "cityId": 1883586,
         "name": "Waudo-guy\u014fk",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.74861,
         "longitude": 125.31
     },
     {
-        "cityId": "2040178",
+        "cityId": 2040178,
         "name": "Taeh\u016dng-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 40.08278,
         "longitude": 126.95111
     },
     {
-        "cityId": "6258672",
+        "cityId": 6258672,
         "name": "\u016cnsan-gun",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 39.41694,
         "longitude": 126.12667
     },
     {
-        "cityId": "6258673",
+        "cityId": 6258673,
         "name": "Ch\u2019\u014fllima-guy\u014fk",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.94972,
         "longitude": 125.58167
     },
     {
-        "cityId": "6258674",
+        "cityId": 6258674,
         "name": "Taean-guy\u014fk",
-        "stateId": "1871952",
+        "stateId": 1871952,
         "latitude": 38.79194,
         "longitude": 125.52194
     }

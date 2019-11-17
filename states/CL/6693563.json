@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3868703",
+        "cityId": 3868703,
         "name": "Provincia de Valdivia",
-        "stateId": "6693563",
+        "stateId": 6693563,
         "latitude": -39.80273,
         "longitude": -72.5469
     },
     {
-        "cityId": "6693564",
+        "cityId": 6693564,
         "name": "Provincia del Ranco",
-        "stateId": "6693563",
+        "stateId": 6693563,
         "latitude": -40.13689,
         "longitude": -72.37793
     }

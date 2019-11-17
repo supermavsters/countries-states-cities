@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "11352632",
+        "cityId": 11352632,
         "name": "\u0100be\u013cu pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.43294,
         "longitude": 25.94931
     },
     {
-        "cityId": "11352633",
+        "cityId": 11352633,
         "name": "Dign\u0101jas pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.3416,
         "longitude": 26.11131
     },
     {
-        "cityId": "11352634",
+        "cityId": 11352634,
         "name": "Dunavas pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.19714,
         "longitude": 26.17753
     },
     {
-        "cityId": "11352635",
+        "cityId": 11352635,
         "name": "Kalna pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.33033,
         "longitude": 25.82138
     },
     {
-        "cityId": "11352636",
+        "cityId": 11352636,
         "name": "Leima\u0146u pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.29767,
         "longitude": 25.90396
     },
     {
-        "cityId": "11352637",
+        "cityId": 11352637,
         "name": "Rubenes pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.16604,
         "longitude": 26.00982
     },
     {
-        "cityId": "11352638",
+        "cityId": 11352638,
         "name": "Zasas pagasts",
-        "stateId": "459282",
+        "stateId": 459282,
         "latitude": 56.27301,
         "longitude": 26.02412
     }

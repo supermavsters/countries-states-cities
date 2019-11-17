@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11256953",
+        "cityId": 11256953,
         "name": "Tsandi",
-        "stateId": "3371206",
+        "stateId": 3371206,
         "latitude": -17.75,
         "longitude": 14.88333
     },
     {
-        "cityId": "11257223",
+        "cityId": 11257223,
         "name": "Etayi",
-        "stateId": "3371206",
+        "stateId": 3371206,
         "latitude": -17.55,
         "longitude": 15.51667
     },
     {
-        "cityId": "11428097",
+        "cityId": 11428097,
         "name": "Oshikuku",
-        "stateId": "3371206",
+        "stateId": 3371206,
         "latitude": -17.65555,
         "longitude": 15.473
     },
     {
-        "cityId": "11495912",
+        "cityId": 11495912,
         "name": "Anamulenge Constituency",
-        "stateId": "3371206",
+        "stateId": 3371206,
         "latitude": -17.48333,
         "longitude": 15.01667
     }

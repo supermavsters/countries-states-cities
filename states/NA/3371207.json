@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11205500",
+        "cityId": 11205500,
         "name": "Oshakati East",
-        "stateId": "3371207",
+        "stateId": 3371207,
         "latitude": -17.78333,
         "longitude": 15.68333
     },
     {
-        "cityId": "11257218",
+        "cityId": 11257218,
         "name": "Oshakati West",
-        "stateId": "3371207",
+        "stateId": 3371207,
         "latitude": -17.78333,
         "longitude": 15.68333
     },
     {
-        "cityId": "11428032",
+        "cityId": 11428032,
         "name": "Okaku Constituency",
-        "stateId": "3371207",
+        "stateId": 3371207,
         "latitude": -17.85455,
         "longitude": 15.91564
     },
     {
-        "cityId": "11428703",
+        "cityId": 11428703,
         "name": "Ongwediva",
-        "stateId": "3371207",
+        "stateId": 3371207,
         "latitude": -17.78333,
         "longitude": 15.76667
     },
     {
-        "cityId": "11467743",
+        "cityId": 11467743,
         "name": "Uukwiyu",
-        "stateId": "3371207",
+        "stateId": 3371207,
         "latitude": -18.01667,
         "longitude": 15.91667
     }

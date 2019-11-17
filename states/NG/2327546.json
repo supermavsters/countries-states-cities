@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "7871278",
+        "cityId": 7871278,
         "name": "Shagamu",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.79905,
         "longitude": 3.56833
     },
     {
-        "cityId": "7871303",
+        "cityId": 7871303,
         "name": "Ikenne",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.919,
         "longitude": 3.676
     },
     {
-        "cityId": "7871304",
+        "cityId": 7871304,
         "name": "Odogbolu",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.78597,
         "longitude": 3.80511
     },
     {
-        "cityId": "7871321",
+        "cityId": 7871321,
         "name": "Ijebu Ode",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.82065,
         "longitude": 3.92899
     },
     {
-        "cityId": "7873873",
+        "cityId": 7873873,
         "name": "Ijebu East",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.805,
         "longitude": 4.258
     },
     {
-        "cityId": "7873905",
+        "cityId": 7873905,
         "name": "Obafemi Owode",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.96907,
         "longitude": 3.48404
     },
     {
-        "cityId": "8636322",
+        "cityId": 8636322,
         "name": "Imeko Afon",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.66221,
         "longitude": 2.86402
     },
     {
-        "cityId": "8636323",
+        "cityId": 8636323,
         "name": "Egbado North",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.14729,
         "longitude": 2.91795
     },
     {
-        "cityId": "8636324",
+        "cityId": 8636324,
         "name": "Egbado South",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.79763,
         "longitude": 2.96144
     },
     {
-        "cityId": "8636325",
+        "cityId": 8636325,
         "name": "Ipokia",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.61801,
         "longitude": 2.81053
     },
     {
-        "cityId": "8636326",
+        "cityId": 8636326,
         "name": "Ado Odo\/Ota",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.62366,
         "longitude": 3.08626
     },
     {
-        "cityId": "8636327",
+        "cityId": 8636327,
         "name": "Ifo",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.78197,
         "longitude": 3.25195
     },
     {
-        "cityId": "8636328",
+        "cityId": 8636328,
         "name": "Odeda",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.29646,
         "longitude": 3.52029
     },
     {
-        "cityId": "8636329",
+        "cityId": 8636329,
         "name": "Abeokuta North",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.23079,
         "longitude": 3.16845
     },
     {
-        "cityId": "8636330",
+        "cityId": 8636330,
         "name": "Abeokuta South",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.15425,
         "longitude": 3.35459
     },
     {
-        "cityId": "8636331",
+        "cityId": 8636331,
         "name": "Ewekoro",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.96115,
         "longitude": 3.19455
     },
     {
-        "cityId": "8636332",
+        "cityId": 8636332,
         "name": "Remo North",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 7.0029,
         "longitude": 3.72861
     },
     {
-        "cityId": "8636333",
+        "cityId": 8636333,
         "name": "Ijebu North",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.99551,
         "longitude": 3.97085
     },
     {
-        "cityId": "8636334",
+        "cityId": 8636334,
         "name": "Ijebu North East",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.88809,
         "longitude": 4.0226
     },
     {
-        "cityId": "8636335",
+        "cityId": 8636335,
         "name": "Ogun Waterside",
-        "stateId": "2327546",
+        "stateId": 2327546,
         "latitude": 6.48449,
         "longitude": 4.38618
     }

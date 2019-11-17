@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "8050945",
+        "cityId": 8050945,
         "name": "Shendi",
-        "stateId": "408664",
+        "stateId": 408664,
         "latitude": 16.622,
         "longitude": 34.184
     },
     {
-        "cityId": "8050946",
+        "cityId": 8050946,
         "name": "Ad Damer",
-        "stateId": "408664",
+        "stateId": 408664,
         "latitude": 17.558,
         "longitude": 33.325
     },
     {
-        "cityId": "8050947",
+        "cityId": 8050947,
         "name": "Atbara",
-        "stateId": "408664",
+        "stateId": 408664,
         "latitude": 17.285,
         "longitude": 35.025
     }

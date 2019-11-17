@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2355248",
+        "cityId": 2355248,
         "name": "Province du Soum",
-        "stateId": "6930713",
+        "stateId": 6930713,
         "latitude": 14.33333,
         "longitude": -1.25
     },
     {
-        "cityId": "2355737",
+        "cityId": 2355737,
         "name": "Province du S\u00e9no",
-        "stateId": "6930713",
+        "stateId": 6930713,
         "latitude": 13.964,
         "longitude": 0.012
     },
     {
-        "cityId": "2356982",
+        "cityId": 2356982,
         "name": "Province de l\u2019Oudalan",
-        "stateId": "6930713",
+        "stateId": 6930713,
         "latitude": 14.66667,
         "longitude": -0.33333
     },
     {
-        "cityId": "2597268",
+        "cityId": 2597268,
         "name": "Province du Yagha",
-        "stateId": "6930713",
+        "stateId": 6930713,
         "latitude": 13.41667,
         "longitude": 0.58333
     }

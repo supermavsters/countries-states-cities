@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "145530",
+        "cityId": 145530,
         "name": "Saurimo",
-        "stateId": "145701",
+        "stateId": 145701,
         "latitude": -9.31026,
         "longitude": 20.56159
     },
     {
-        "cityId": "875968",
+        "cityId": 875968,
         "name": "Muconda",
-        "stateId": "145701",
+        "stateId": 145701,
         "latitude": -10.04537,
         "longitude": 21.44179
     },
     {
-        "cityId": "876307",
+        "cityId": 876307,
         "name": "Dala",
-        "stateId": "145701",
+        "stateId": 145701,
         "latitude": -11.02612,
         "longitude": 20.19974
     },
     {
-        "cityId": "3351386",
+        "cityId": 3351386,
         "name": "Cacolo",
-        "stateId": "145701",
+        "stateId": 145701,
         "latitude": -10.13652,
         "longitude": 19.2865
     }

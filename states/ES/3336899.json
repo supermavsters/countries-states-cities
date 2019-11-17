@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3104323",
+        "cityId": 3104323,
         "name": "Provincia de Zaragoza",
-        "stateId": "3336899",
+        "stateId": 3336899,
         "latitude": 41.58333,
         "longitude": -1
     },
     {
-        "cityId": "3108125",
+        "cityId": 3108125,
         "name": "Provincia de Teruel",
-        "stateId": "3336899",
+        "stateId": 3336899,
         "latitude": 40.66667,
         "longitude": -0.66667
     },
     {
-        "cityId": "3120513",
+        "cityId": 3120513,
         "name": "Provincia de Huesca",
-        "stateId": "3336899",
+        "stateId": 3336899,
         "latitude": 42.16667,
         "longitude": -0.16667
     }

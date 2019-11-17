@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1786761",
+        "cityId": 1786761,
         "name": "Yichangshi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.74312,
         "longitude": 111.13375
     },
     {
-        "cityId": "1790253",
+        "cityId": 1790253,
         "name": "Xiaogan",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.92903,
         "longitude": 113.9344
     },
     {
-        "cityId": "1790395",
+        "cityId": 1790395,
         "name": "Xianning Prefecture",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 29.66609,
         "longitude": 114.26389
     },
     {
-        "cityId": "1790585",
+        "cityId": 1790585,
         "name": "Xiangyang",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 32.00429,
         "longitude": 112.12132
     },
     {
-        "cityId": "1791243",
+        "cityId": 1791243,
         "name": "Wuhan Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.72619,
         "longitude": 114.38946
     },
     {
-        "cityId": "1793878",
+        "cityId": 1793878,
         "name": "Suizhou Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 31.92092,
         "longitude": 113.46584
     },
     {
-        "cityId": "1794892",
+        "cityId": 1794892,
         "name": "Shiyan Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 32.45269,
         "longitude": 110.56081
     },
     {
-        "cityId": "1795614",
+        "cityId": 1795614,
         "name": "Shennongjia",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 31.58339,
         "longitude": 110.4972
     },
     {
-        "cityId": "1805539",
+        "cityId": 1805539,
         "name": "Jingzhou Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.00407,
         "longitude": 112.50683
     },
     {
-        "cityId": "1805610",
+        "cityId": 1805610,
         "name": "Jingmen Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 31.11244,
         "longitude": 112.6431
     },
     {
-        "cityId": "1807225",
+        "cityId": 1807225,
         "name": "Huangshi Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 29.97935,
         "longitude": 115.11417
     },
     {
-        "cityId": "1807500",
+        "cityId": 1807500,
         "name": "Huanggang Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.87504,
         "longitude": 115.38679
     },
     {
-        "cityId": "1811618",
+        "cityId": 1811618,
         "name": "Ezhou Shi",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.48832,
         "longitude": 114.77979
     },
     {
-        "cityId": "1811624",
+        "cityId": 1811624,
         "name": "Enshi Tujiazu Miaozu Zizhizhou",
-        "stateId": "1806949",
+        "stateId": 1806949,
         "latitude": 30.1981,
         "longitude": 109.67555
     }

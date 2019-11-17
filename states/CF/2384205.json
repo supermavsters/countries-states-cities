@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2390511",
+        "cityId": 2390511,
         "name": "Baboua Sub-Prefecture",
-        "stateId": "2384205",
+        "stateId": 2384205,
         "latitude": 5.72656,
         "longitude": 14.88903
     },
     {
-        "cityId": "7732085",
+        "cityId": 7732085,
         "name": "Bouar Sub-Prefecture",
-        "stateId": "2384205",
+        "stateId": 2384205,
         "latitude": 5.9978,
         "longitude": 15.4604
     },
     {
-        "cityId": "7732103",
+        "cityId": 7732103,
         "name": "Baoro Sub-Prefecture",
-        "stateId": "2384205",
+        "stateId": 2384205,
         "latitude": 5.45157,
         "longitude": 16.12721
     },
     {
-        "cityId": "9143482",
+        "cityId": 9143482,
         "name": "Abba",
-        "stateId": "2384205",
+        "stateId": 2384205,
         "latitude": 5.22531,
         "longitude": 15.21762
     }

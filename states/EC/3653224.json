@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3652228",
+        "cityId": 3652228,
         "name": "Cant\u00f3n Rumi\u00f1ahui",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": -0.4319,
         "longitude": -78.43558
     },
     {
-        "cityId": "3652461",
+        "cityId": 3652461,
         "name": "Cant\u00f3n Quito",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": -0.21667,
         "longitude": -78.5
     },
     {
-        "cityId": "3653294",
+        "cityId": 3653294,
         "name": "Cant\u00f3n Pedro Moncayo",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": 0.02244,
         "longitude": -78.27313
     },
     {
-        "cityId": "3654259",
+        "cityId": 3654259,
         "name": "Cant\u00f3n Mej\u00eda",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": -0.35077,
         "longitude": -78.74451
     },
     {
-        "cityId": "3659576",
+        "cityId": 3659576,
         "name": "Cant\u00f3n Cayambe",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": 0.04746,
         "longitude": -78.04409
     },
     {
-        "cityId": "9155917",
+        "cityId": 9155917,
         "name": "Canton Pedro Vicente Maldonado",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": 0.16667,
         "longitude": -79
     },
     {
-        "cityId": "10792485",
+        "cityId": 10792485,
         "name": "San Miguel De Los Bancos",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": -0.03583,
         "longitude": -78.98868
     },
     {
-        "cityId": "10792486",
+        "cityId": 10792486,
         "name": "Puerto Quito",
-        "stateId": "3653224",
+        "stateId": 3653224,
         "latitude": 0.17233,
         "longitude": -79.23624
     }

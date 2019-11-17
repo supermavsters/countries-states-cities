@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1904986",
+        "cityId": 1904986,
         "name": "Huy\u1ec7n \u0110\u1eafk R\u2019L\u1ea5p",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 11.8799,
         "longitude": 107.52244
     },
     {
-        "cityId": "1904988",
+        "cityId": 1904988,
         "name": "Huy\u1ec7n Kr\u00f4ng N\u00f4",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.36285,
         "longitude": 107.83445
     },
     {
-        "cityId": "2591718",
+        "cityId": 2591718,
         "name": "Huy\u1ec7n \u0110\u1eafk Mil",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.51633,
         "longitude": 107.67292
     },
     {
-        "cityId": "2591731",
+        "cityId": 2591731,
         "name": "Huy\u1ec7n C\u01b0 J\u00fat",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.69591,
         "longitude": 107.76316
     },
     {
-        "cityId": "8727411",
+        "cityId": 8727411,
         "name": "Huyen Dak Glong",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.10136,
         "longitude": 107.80235
     },
     {
-        "cityId": "8727413",
+        "cityId": 8727413,
         "name": "Huyen Tuy Duc",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.11512,
         "longitude": 107.3905
     },
     {
-        "cityId": "8727414",
+        "cityId": 8727414,
         "name": "Huyen Dak Song",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 12.23283,
         "longitude": 107.62168
     },
     {
-        "cityId": "8746512",
+        "cityId": 8746512,
         "name": "Th\u1ecb X\u00e3 Gia Ngh\u0129a",
-        "stateId": "1904987",
+        "stateId": 1904987,
         "latitude": 11.98979,
         "longitude": 107.69718
     }

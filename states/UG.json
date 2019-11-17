@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "234594",
+        "stateId": 234594,
         "name": "Central Region",
-        "countryId": "226074",
+        "countryId": 226074,
         "latitude": 0.5,
         "longitude": 32
     },
     {
-        "stateId": "8260673",
+        "stateId": 8260673,
         "name": "Eastern Region",
-        "countryId": "226074",
+        "countryId": 226074,
         "latitude": 0.96675,
         "longitude": 33.82622
     },
     {
-        "stateId": "8260674",
+        "stateId": 8260674,
         "name": "Northern Region",
-        "countryId": "226074",
+        "countryId": 226074,
         "latitude": 2.7373,
         "longitude": 31.88644
     },
     {
-        "stateId": "8260675",
+        "stateId": 8260675,
         "name": "Western Region",
-        "countryId": "226074",
+        "countryId": 226074,
         "latitude": -0.61179,
         "longitude": 30.55573
     }

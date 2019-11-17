@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3649958",
+        "cityId": 3649958,
         "name": "Cant\u00f3n Zamora",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -4.06667,
         "longitude": -78.95
     },
     {
-        "cityId": "3650052",
+        "cityId": 3650052,
         "name": "Cant\u00f3n Yantzaza",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -3.85,
         "longitude": -78.75
     },
     {
-        "cityId": "3650141",
+        "cityId": 3650141,
         "name": "Cant\u00f3n Yacuambi",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -3.66667,
         "longitude": -78.91667
     },
     {
-        "cityId": "3659209",
+        "cityId": 3659209,
         "name": "Cant\u00f3n Chinchipe",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -4.86667,
         "longitude": -79.13333
     },
     {
-        "cityId": "10792490",
+        "cityId": 10792490,
         "name": "Nangaritza",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -4.32616,
         "longitude": -78.75638
     },
     {
-        "cityId": "10792491",
+        "cityId": 10792491,
         "name": "El Pangui",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -3.69363,
         "longitude": -78.5443
     },
     {
-        "cityId": "10792492",
+        "cityId": 10792492,
         "name": "Centinela Del C\u00f3ndor",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -3.91563,
         "longitude": -78.74931
     },
     {
-        "cityId": "10792493",
+        "cityId": 10792493,
         "name": "Palanda",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -4.55736,
         "longitude": -79.09327
     },
     {
-        "cityId": "10792548",
+        "cityId": 10792548,
         "name": "Paquisha",
-        "stateId": "3649953",
+        "stateId": 3649953,
         "latitude": -3.93299,
         "longitude": -78.67722
     }

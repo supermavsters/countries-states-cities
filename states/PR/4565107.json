@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7268181",
+        "cityId": 7268181,
         "name": "Algarrobo Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 17.98159,
         "longitude": -66.08435
     },
     {
-        "cityId": "7268291",
+        "cityId": 7268291,
         "name": "Caimital Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 18.00018,
         "longitude": -66.10091
     },
     {
-        "cityId": "7268344",
+        "cityId": 7268344,
         "name": "Carite Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 18.08064,
         "longitude": -66.09583
     },
     {
-        "cityId": "7268345",
+        "cityId": 7268345,
         "name": "Carmen Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 18.03624,
         "longitude": -66.16249
     },
     {
-        "cityId": "7268417",
+        "cityId": 7268417,
         "name": "Guaman\u00ed Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 18.03585,
         "longitude": -66.10615
     },
     {
-        "cityId": "7268439",
+        "cityId": 7268439,
         "name": "Guayama Barrio-Pueblo",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 17.97665,
         "longitude": -66.11436
     },
     {
-        "cityId": "7268525",
+        "cityId": 7268525,
         "name": "Jobos Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 17.95265,
         "longitude": -66.18048
     },
     {
-        "cityId": "7268582",
+        "cityId": 7268582,
         "name": "Machete Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 17.95541,
         "longitude": -66.12152
     },
     {
-        "cityId": "7268724",
+        "cityId": 7268724,
         "name": "Palmas Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 18.0133,
         "longitude": -66.1316
     },
     {
-        "cityId": "7268784",
+        "cityId": 7268784,
         "name": "Pozo Hondo Barrio",
-        "stateId": "4565107",
+        "stateId": 4565107,
         "latitude": 17.9988,
         "longitude": -66.16832
     }

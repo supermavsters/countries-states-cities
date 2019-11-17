@@ -1,239 +1,239 @@
 [
     {
-        "cityId": "3204122",
+        "cityId": 3204122,
         "name": "Grad Biograd na Moru",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.93333,
         "longitude": 15.43333
     },
     {
-        "cityId": "9077071",
+        "cityId": 9077071,
         "name": "Novigrad Op\u0107ina",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.19417,
         "longitude": 15.55667
     },
     {
-        "cityId": "11049512",
+        "cityId": 11049512,
         "name": "Benkovac",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.03296,
         "longitude": 15.61101
     },
     {
-        "cityId": "11049513",
+        "cityId": 11049513,
         "name": "Bibinje",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.07324,
         "longitude": 15.28288
     },
     {
-        "cityId": "11049514",
+        "cityId": 11049514,
         "name": "Galovac",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.07324,
         "longitude": 15.39116
     },
     {
-        "cityId": "11054319",
+        "cityId": 11054319,
         "name": "Gra\u010dac",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.29952,
         "longitude": 15.84709
     },
     {
-        "cityId": "11054321",
+        "cityId": 11054321,
         "name": "Jasenice",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.22969,
         "longitude": 15.57514
     },
     {
-        "cityId": "11054322",
+        "cityId": 11054322,
         "name": "Kali",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.06235,
         "longitude": 15.20675
     },
     {
-        "cityId": "11054323",
+        "cityId": 11054323,
         "name": "Kolan",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.49625,
         "longitude": 14.95896
     },
     {
-        "cityId": "11054325",
+        "cityId": 11054325,
         "name": "Kukljica",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.03432,
         "longitude": 15.24606
     },
     {
-        "cityId": "11054326",
+        "cityId": 11054326,
         "name": "Li\u0161ane Ostrovi\u010dke",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.97254,
         "longitude": 15.75817
     },
     {
-        "cityId": "11054327",
+        "cityId": 11054327,
         "name": "Nin",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.24221,
         "longitude": 15.18396
     },
     {
-        "cityId": "11054328",
+        "cityId": 11054328,
         "name": "Obrovac",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.20013,
         "longitude": 15.68247
     },
     {
-        "cityId": "11054329",
+        "cityId": 11054329,
         "name": "Pag",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.44361,
         "longitude": 15.05754
     },
     {
-        "cityId": "11054332",
+        "cityId": 11054332,
         "name": "Pako\u0161tane",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.90985,
         "longitude": 15.50948
     },
     {
-        "cityId": "11054333",
+        "cityId": 11054333,
         "name": "Pa\u0161man",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.95562,
         "longitude": 15.38567
     },
     {
-        "cityId": "11054335",
+        "cityId": 11054335,
         "name": "Pola\u010da",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.01778,
         "longitude": 15.51857
     },
     {
-        "cityId": "11054336",
+        "cityId": 11054336,
         "name": "Poli\u010dnik",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.17659,
         "longitude": 15.37592
     },
     {
-        "cityId": "11054372",
+        "cityId": 11054372,
         "name": "Posedarje",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.21296,
         "longitude": 15.47862
     },
     {
-        "cityId": "11054373",
+        "cityId": 11054373,
         "name": "Povljana",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.34698,
         "longitude": 15.11174
     },
     {
-        "cityId": "11054374",
+        "cityId": 11054374,
         "name": "Preko",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.08002,
         "longitude": 15.18589
     },
     {
-        "cityId": "11054375",
+        "cityId": 11054375,
         "name": "Privlaka",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.2617,
         "longitude": 15.11843
     },
     {
-        "cityId": "11054376",
+        "cityId": 11054376,
         "name": "Ra\u017eanac",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.28133,
         "longitude": 15.344
     },
     {
-        "cityId": "11054377",
+        "cityId": 11054377,
         "name": "Sali",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.9368,
         "longitude": 15.16336
     },
     {
-        "cityId": "11054378",
+        "cityId": 11054378,
         "name": "Stankovci",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.90591,
         "longitude": 15.69079
     },
     {
-        "cityId": "11054379",
+        "cityId": 11054379,
         "name": "Starigrad",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.29672,
         "longitude": 15.43935
     },
     {
-        "cityId": "11054380",
+        "cityId": 11054380,
         "name": "Suko\u0161an",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.04696,
         "longitude": 15.31391
     },
     {
-        "cityId": "11054381",
+        "cityId": 11054381,
         "name": "Sveti Filip i Jakov",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.96158,
         "longitude": 15.42819
     },
     {
-        "cityId": "11054383",
+        "cityId": 11054383,
         "name": "\u0160kabrnja",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.08949,
         "longitude": 15.45146
     },
     {
-        "cityId": "11054384",
+        "cityId": 11054384,
         "name": "Tkon",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 43.91996,
         "longitude": 15.41639
     },
     {
-        "cityId": "11054386",
+        "cityId": 11054386,
         "name": "Vir",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.29995,
         "longitude": 15.08663
     },
     {
-        "cityId": "11054387",
+        "cityId": 11054387,
         "name": "Vrsi",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.26372,
         "longitude": 15.23173
     },
     {
-        "cityId": "11054389",
+        "cityId": 11054389,
         "name": "Zemunik Donji",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.10557,
         "longitude": 15.37974
     },
     {
-        "cityId": "11055010",
+        "cityId": 11055010,
         "name": "Zadar",
-        "stateId": "3337530",
+        "stateId": 3337530,
         "latitude": 44.12172,
         "longitude": 15.23018
     }

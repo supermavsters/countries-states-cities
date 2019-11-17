@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2355474",
+        "cityId": 2355474,
         "name": "Province de la Sissili",
-        "stateId": "6930707",
+        "stateId": 6930707,
         "latitude": 11.33333,
         "longitude": -2.25
     },
     {
-        "cityId": "2355930",
+        "cityId": 2355930,
         "name": "Province du Sangui\u00e9",
-        "stateId": "6930707",
+        "stateId": 6930707,
         "latitude": 12.16667,
         "longitude": -2.66667
     },
     {
-        "cityId": "2361988",
+        "cityId": 2361988,
         "name": "Province du Boulkiemd\u00e9",
-        "stateId": "6930707",
+        "stateId": 6930707,
         "latitude": 12.33333,
         "longitude": -2.16667
     },
     {
-        "cityId": "2597269",
+        "cityId": 2597269,
         "name": "Province du Ziro",
-        "stateId": "6930707",
+        "stateId": 6930707,
         "latitude": 11.58333,
         "longitude": -1.91667
     }

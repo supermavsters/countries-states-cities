@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "8238712",
+        "cityId": 8238712,
         "name": "Bawlakhe District",
-        "stateId": "1319539",
+        "stateId": 1319539,
         "latitude": 18.92128,
         "longitude": 97.42915
     },
     {
-        "cityId": "8238713",
+        "cityId": 8238713,
         "name": "Loikaw District",
-        "stateId": "1319539",
+        "stateId": 1319539,
         "latitude": 19.49125,
         "longitude": 97.34175
     }

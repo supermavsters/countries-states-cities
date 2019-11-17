@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "11352656",
+        "cityId": 11352656,
         "name": "C\u0113res pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 57.11337,
         "longitude": 22.85179
     },
     {
-        "cityId": "11352657",
+        "cityId": 11352657,
         "name": "Kandava",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 57.03895,
         "longitude": 22.78057
     },
     {
-        "cityId": "11352658",
+        "cityId": 11352658,
         "name": "Kandavas pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 57.03465,
         "longitude": 22.73961
     },
     {
-        "cityId": "11352659",
+        "cityId": 11352659,
         "name": "Matkules pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 56.98465,
         "longitude": 22.5529
     },
     {
-        "cityId": "11352660",
+        "cityId": 11352660,
         "name": "V\u0101nes pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 56.91008,
         "longitude": 22.60169
     },
     {
-        "cityId": "11352661",
+        "cityId": 11352661,
         "name": "Zantes pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 56.84694,
         "longitude": 22.72992
     },
     {
-        "cityId": "11352662",
+        "cityId": 11352662,
         "name": "Zem\u012btes pagasts",
-        "stateId": "7628311",
+        "stateId": 7628311,
         "latitude": 56.90369,
         "longitude": 22.81827
     }

@@ -1,421 +1,421 @@
 [
     {
-        "cityId": "8583490",
+        "cityId": 8583490,
         "name": "Amaxac de Guerrero",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.36207,
         "longitude": -98.18152
     },
     {
-        "cityId": "8583491",
+        "cityId": 8583491,
         "name": "Apetatitl\u00e1n de Antonio Carvajal",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.34403,
         "longitude": -98.19222
     },
     {
-        "cityId": "8583492",
+        "cityId": 8583492,
         "name": "Atlangatepec",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.54582,
         "longitude": -98.18136
     },
     {
-        "cityId": "8583493",
+        "cityId": 8583493,
         "name": "Atltzayanca",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.40727,
         "longitude": -97.80469
     },
     {
-        "cityId": "8583494",
+        "cityId": 8583494,
         "name": "Apizaco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.423,
         "longitude": -98.127
     },
     {
-        "cityId": "8583495",
+        "cityId": 8583495,
         "name": "Calpulalpan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.57068,
         "longitude": -98.56626
     },
     {
-        "cityId": "8583496",
+        "cityId": 8583496,
         "name": "El Carmen Tequexquitla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.32802,
         "longitude": -97.68295
     },
     {
-        "cityId": "8583497",
+        "cityId": 8583497,
         "name": "Cuapiaxtla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.33547,
         "longitude": -97.76296
     },
     {
-        "cityId": "8583498",
+        "cityId": 8583498,
         "name": "Cuaxomulco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.34992,
         "longitude": -98.09595
     },
     {
-        "cityId": "8583499",
+        "cityId": 8583499,
         "name": "Chiautempan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.28978,
         "longitude": -98.14946
     },
     {
-        "cityId": "8583500",
+        "cityId": 8583500,
         "name": "Mu\u00f1oz de Domingo Arenas",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.49572,
         "longitude": -98.21274
     },
     {
-        "cityId": "8583501",
+        "cityId": 8583501,
         "name": "Espa\u00f1ita",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.43922,
         "longitude": -98.43671
     },
     {
-        "cityId": "8583502",
+        "cityId": 8583502,
         "name": "Huamantla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.33833,
         "longitude": -97.90689
     },
     {
-        "cityId": "8583503",
+        "cityId": 8583503,
         "name": "Hueyotlipan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.49066,
         "longitude": -98.34645
     },
     {
-        "cityId": "8583504",
+        "cityId": 8583504,
         "name": "Ixtacuixtla de Mariano Matamoros",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.34892,
         "longitude": -98.39781
     },
     {
-        "cityId": "8583505",
+        "cityId": 8583505,
         "name": "Ixtenco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.25347,
         "longitude": -97.90461
     },
     {
-        "cityId": "8583506",
+        "cityId": 8583506,
         "name": "Mazatecochco de Jos\u00e9 Mar\u00eda Morelos",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.18663,
         "longitude": -98.17748
     },
     {
-        "cityId": "8583507",
+        "cityId": 8583507,
         "name": "Contla de Juan Cuamatzi",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.31894,
         "longitude": -98.12836
     },
     {
-        "cityId": "8583508",
+        "cityId": 8583508,
         "name": "Tepetitla de Lardiz\u00e1bal",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.27939,
         "longitude": -98.38067
     },
     {
-        "cityId": "8583509",
+        "cityId": 8583509,
         "name": "Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.50078,
         "longitude": -98.48797
     },
     {
-        "cityId": "8583510",
+        "cityId": 8583510,
         "name": "Nanacamilpa de Mariano Arista",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.50547,
         "longitude": -98.53328
     },
     {
-        "cityId": "8583511",
+        "cityId": 8583511,
         "name": "Acuamanala de Miguel Hidalgo",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.21986,
         "longitude": -98.1941
     },
     {
-        "cityId": "8583512",
+        "cityId": 8583512,
         "name": "Nat\u00edvitas",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.23076,
         "longitude": -98.33223
     },
     {
-        "cityId": "8583513",
+        "cityId": 8583513,
         "name": "Panotla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.34408,
         "longitude": -98.28502
     },
     {
-        "cityId": "8583514",
+        "cityId": 8583514,
         "name": "San Pablo del Monte",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.15287,
         "longitude": -98.13501
     },
     {
-        "cityId": "8583515",
+        "cityId": 8583515,
         "name": "Santa Cruz Tlaxcala",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.34414,
         "longitude": -98.127
     },
     {
-        "cityId": "8583516",
+        "cityId": 8583516,
         "name": "Tenancingo",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.14788,
         "longitude": -98.19005
     },
     {
-        "cityId": "8583517",
+        "cityId": 8583517,
         "name": "Teolocholco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.22417,
         "longitude": -98.12871
     },
     {
-        "cityId": "8583518",
+        "cityId": 8583518,
         "name": "Tepeyanco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.25125,
         "longitude": -98.23596
     },
     {
-        "cityId": "8583519",
+        "cityId": 8583519,
         "name": "Terrenate",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.48475,
         "longitude": -97.91464
     },
     {
-        "cityId": "8583520",
+        "cityId": 8583520,
         "name": "Tetla de la Solidaridad",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.49151,
         "longitude": -98.07066
     },
     {
-        "cityId": "8583521",
+        "cityId": 8583521,
         "name": "Tetlatlahuca",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.24693,
         "longitude": -98.28791
     },
     {
-        "cityId": "8583522",
+        "cityId": 8583522,
         "name": "Tlaxcala",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.32418,
         "longitude": -98.22958
     },
     {
-        "cityId": "8583523",
+        "cityId": 8583523,
         "name": "Tlaxco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.61678,
         "longitude": -98.1643
     },
     {
-        "cityId": "8583524",
+        "cityId": 8583524,
         "name": "Tocatl\u00e1n",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.38264,
         "longitude": -98.02053
     },
     {
-        "cityId": "8583525",
+        "cityId": 8583525,
         "name": "Totolac",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.33199,
         "longitude": -98.24352
     },
     {
-        "cityId": "8583526",
+        "cityId": 8583526,
         "name": "Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.20313,
         "longitude": -97.91052
     },
     {
-        "cityId": "8583527",
+        "cityId": 8583527,
         "name": "Tzompantepec",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.38062,
         "longitude": -98.08158
     },
     {
-        "cityId": "8583528",
+        "cityId": 8583528,
         "name": "Xaloztoc",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.42032,
         "longitude": -98.01505
     },
     {
-        "cityId": "8583529",
+        "cityId": 8583529,
         "name": "Xaltocan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.44789,
         "longitude": -98.21789
     },
     {
-        "cityId": "8583530",
+        "cityId": 8583530,
         "name": "Papalotla de Xicoht\u00e9ncatl",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.17226,
         "longitude": -98.19725
     },
     {
-        "cityId": "8583531",
+        "cityId": 8583531,
         "name": "Xicohtzinco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.17389,
         "longitude": -98.23333
     },
     {
-        "cityId": "8583532",
+        "cityId": 8583532,
         "name": "Yauhquemehcan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.40037,
         "longitude": -98.17602
     },
     {
-        "cityId": "8583533",
+        "cityId": 8583533,
         "name": "Zacatelco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.18802,
         "longitude": -98.26094
     },
     {
-        "cityId": "8583534",
+        "cityId": 8583534,
         "name": "Emiliano Zapata",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.56393,
         "longitude": -97.93062
     },
     {
-        "cityId": "8583535",
+        "cityId": 8583535,
         "name": "L\u00e1zaro C\u00e1rdenas",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.53541,
         "longitude": -97.99066
     },
     {
-        "cityId": "8583536",
+        "cityId": 8583536,
         "name": "La Magdalena Tlaltelulco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.27583,
         "longitude": -98.19389
     },
     {
-        "cityId": "8583537",
+        "cityId": 8583537,
         "name": "San Dami\u00e1n Tex\u00f3loc",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.2821,
         "longitude": -98.29667
     },
     {
-        "cityId": "8583538",
+        "cityId": 8583538,
         "name": "San Francisco Tetlanohcan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.26026,
         "longitude": -98.1582
     },
     {
-        "cityId": "8583539",
+        "cityId": 8583539,
         "name": "San Jer\u00f3nimo Zacualpan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.24531,
         "longitude": -98.26533
     },
     {
-        "cityId": "8583540",
+        "cityId": 8583540,
         "name": "San Jos\u00e9 Teacalco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.32996,
         "longitude": -98.06002
     },
     {
-        "cityId": "8583541",
+        "cityId": 8583541,
         "name": "San Juan Huactzinco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.23419,
         "longitude": -98.2576
     },
     {
-        "cityId": "8583542",
+        "cityId": 8583542,
         "name": "San Lorenzo Axocomanitla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.22138,
         "longitude": -98.25501
     },
     {
-        "cityId": "8583543",
+        "cityId": 8583543,
         "name": "San Lucas Tecopilco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.48806,
         "longitude": -98.25573
     },
     {
-        "cityId": "8583544",
+        "cityId": 8583544,
         "name": "Santa Ana Nopalucan",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.29757,
         "longitude": -98.33313
     },
     {
-        "cityId": "8583545",
+        "cityId": 8583545,
         "name": "Santa Apolonia Teacalco",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.24615,
         "longitude": -98.31268
     },
     {
-        "cityId": "8583546",
+        "cityId": 8583546,
         "name": "Santa Catarina Ayometla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.19833,
         "longitude": -98.21361
     },
     {
-        "cityId": "8583547",
+        "cityId": 8583547,
         "name": "Santa Cruz Quilehtla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.21091,
         "longitude": -98.20376
     },
     {
-        "cityId": "8583548",
+        "cityId": 8583548,
         "name": "Santa Isabel Xiloxoxtla",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.26667,
         "longitude": -98.21222
     },
     {
-        "cityId": "8583569",
+        "cityId": 8583569,
         "name": "Benito Ju\u00e1rez",
-        "stateId": "3515359",
+        "stateId": 3515359,
         "latitude": 19.58676,
         "longitude": -98.42536
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "89569",
+        "cityId": 89569,
         "name": "Zakho District",
-        "stateId": "97270",
+        "stateId": 97270,
         "latitude": 37.15,
         "longitude": 42.83333
     },
     {
-        "cityId": "97269",
+        "cityId": 97269,
         "name": "Dohuk District",
-        "stateId": "97270",
+        "stateId": 97270,
         "latitude": 36.95,
         "longitude": 43
     },
     {
-        "cityId": "99612",
+        "cityId": 99612,
         "name": "Adhamiyah",
-        "stateId": "97270",
+        "stateId": 97270,
         "latitude": 37.09335,
         "longitude": 43.48829
     },
     {
-        "cityId": "9166607",
+        "cityId": 9166607,
         "name": "Semel District",
-        "stateId": "97270",
+        "stateId": 97270,
         "latitude": 36.89815,
         "longitude": 42.71168
     },
     {
-        "cityId": "9873355",
+        "cityId": 9873355,
         "name": "Qeza-\u00ee S\u00eam\u00eal",
-        "stateId": "97270",
+        "stateId": 97270,
         "latitude": 36.89937,
         "longitude": 42.7215
     }

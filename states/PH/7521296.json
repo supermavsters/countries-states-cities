@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1691537",
+        "cityId": 1691537,
         "name": "Province of Romblon",
-        "stateId": "7521296",
+        "stateId": 7521296,
         "latitude": 12.55499,
         "longitude": 122.28206
     },
     {
-        "cityId": "1696177",
+        "cityId": 1696177,
         "name": "Province of Palawan",
-        "stateId": "7521296",
+        "stateId": 7521296,
         "latitude": 10,
         "longitude": 118.75
     },
     {
-        "cityId": "1699585",
+        "cityId": 1699585,
         "name": "Province of Mindoro Oriental",
-        "stateId": "7521296",
+        "stateId": 7521296,
         "latitude": 13.15555,
         "longitude": 121.26803
     },
     {
-        "cityId": "1699586",
+        "cityId": 1699586,
         "name": "Province of Mindoro Occidental",
-        "stateId": "7521296",
+        "stateId": 7521296,
         "latitude": 13,
         "longitude": 120.91667
     },
     {
-        "cityId": "1700902",
+        "cityId": 1700902,
         "name": "Province of Marinduque",
-        "stateId": "7521296",
+        "stateId": 7521296,
         "latitude": 13.41667,
         "longitude": 121.95
     }

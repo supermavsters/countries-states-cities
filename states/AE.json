@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "292969",
+        "stateId": 292969,
         "name": "Ab\u016b Z\u0327aby",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 23.66667,
         "longitude": 54
     },
     {
-        "stateId": "292879",
+        "stateId": 292879,
         "name": "Al Fujayrah",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25.13333,
         "longitude": 56.25
     },
     {
-        "stateId": "292673",
+        "stateId": 292673,
         "name": "Ash Sh\u0101riqah",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25,
         "longitude": 55.75
     },
     {
-        "stateId": "292224",
+        "stateId": 292224,
         "name": "Dubai",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25,
         "longitude": 55.33333
     },
     {
-        "stateId": "291075",
+        "stateId": 291075,
         "name": "Ra\u2019s al Khaymah",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25.66667,
         "longitude": 56
     },
     {
-        "stateId": "290595",
+        "stateId": 290595,
         "name": "Umm al Qaywayn",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25.5,
         "longitude": 55.75
     },
     {
-        "stateId": "292933",
+        "stateId": 292933,
         "name": "\u2018Ajm\u0101n",
-        "countryId": "290557",
+        "countryId": 290557,
         "latitude": 25.38333,
         "longitude": 55.51667
     }

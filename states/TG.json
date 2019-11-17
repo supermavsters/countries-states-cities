@@ -1,36 +1,36 @@
 [
     {
-        "stateId": "2367237",
+        "stateId": 2367237,
         "name": "Centrale",
-        "countryId": "2363686",
+        "countryId": 2363686,
         "latitude": 8.66667,
         "longitude": 1
     },
     {
-        "stateId": "2597439",
+        "stateId": 2597439,
         "name": "Kara",
-        "countryId": "2363686",
+        "countryId": 2363686,
         "latitude": 9.66667,
         "longitude": 0.91667
     },
     {
-        "stateId": "2365173",
+        "stateId": 2365173,
         "name": "Maritime",
-        "countryId": "2363686",
+        "countryId": 2363686,
         "latitude": 6.5,
         "longitude": 1.33333
     },
     {
-        "stateId": "2364370",
+        "stateId": 2364370,
         "name": "Plateaux",
-        "countryId": "2363686",
+        "countryId": 2363686,
         "latitude": 7.5,
         "longitude": 1.16667
     },
     {
-        "stateId": "2364205",
+        "stateId": 2364205,
         "name": "Savanes",
-        "countryId": "2363686",
+        "countryId": 2363686,
         "latitude": 10.5,
         "longitude": 0.5
     }

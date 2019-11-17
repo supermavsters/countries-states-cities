@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2387494",
+        "cityId": 2387494,
         "name": "Sous-Pr\u00e9fecture de Carnot",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 4.78333,
         "longitude": 15.73333
     },
     {
-        "cityId": "7732685",
+        "cityId": 7732685,
         "name": "Berberati",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 4.31211,
         "longitude": 15.88948
     },
     {
-        "cityId": "7732916",
+        "cityId": 7732916,
         "name": "Gamboula",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 4.37859,
         "longitude": 15.10519
     },
     {
-        "cityId": "7732917",
+        "cityId": 7732917,
         "name": "Gadzi",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 4.89014,
         "longitude": 16.70737
     },
     {
-        "cityId": "9143476",
+        "cityId": 9143476,
         "name": "Amada-Gaza",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 4.82175,
         "longitude": 15.10406
     },
     {
-        "cityId": "9143488",
+        "cityId": 9143488,
         "name": "D\u00e9d\u00e9-Mokouba",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 3.88173,
         "longitude": 15.28814
     },
     {
-        "cityId": "9143489",
+        "cityId": 9143489,
         "name": "Sosso-Nakombo",
-        "stateId": "2386161",
+        "stateId": 2386161,
         "latitude": 3.89541,
         "longitude": 15.56761
     }

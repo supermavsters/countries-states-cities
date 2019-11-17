@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "153173",
+        "cityId": 153173,
         "name": "Mpanda",
-        "stateId": "8469240",
+        "stateId": 8469240,
         "latitude": -6.02603,
         "longitude": 30.58347
     },
     {
-        "cityId": "9998077",
+        "cityId": 9998077,
         "name": "Mlele",
-        "stateId": "8469240",
+        "stateId": 8469240,
         "latitude": -6.59031,
         "longitude": 31.76462
     },
     {
-        "cityId": "9998078",
+        "cityId": 9998078,
         "name": "Mpanda Town",
-        "stateId": "8469240",
+        "stateId": 8469240,
         "latitude": -6.40293,
         "longitude": 30.98537
     }

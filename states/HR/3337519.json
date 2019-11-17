@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "3186405",
+        "cityId": 3186405,
         "name": "Grad Zlatar",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.09198,
         "longitude": 16.07695
     },
     {
-        "cityId": "3186983",
+        "cityId": 3186983,
         "name": "Grad Zabok",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.02808,
         "longitude": 15.90855
     },
     {
-        "cityId": "3197366",
+        "cityId": 3197366,
         "name": "Grad Krapina",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.15968,
         "longitude": 15.87258
     },
     {
-        "cityId": "3198102",
+        "cityId": 3198102,
         "name": "Grad Klanjec",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.04977,
         "longitude": 15.74615
     },
     {
-        "cityId": "3201620",
+        "cityId": 3201620,
         "name": "Grad Donja Stubica",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 45.97955,
         "longitude": 15.97069
     },
     {
-        "cityId": "11049007",
+        "cityId": 11049007,
         "name": "Bedekov\u010dina",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.04424,
         "longitude": 15.99481
     },
     {
-        "cityId": "11049008",
+        "cityId": 11049008,
         "name": "Budin\u0161\u010dina",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.12785,
         "longitude": 16.20415
     },
     {
-        "cityId": "11049009",
+        "cityId": 11049009,
         "name": "Desini\u0107",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.14599,
         "longitude": 15.66771
     },
     {
-        "cityId": "11049010",
+        "cityId": 11049010,
         "name": "Gornja Stubica",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 45.97554,
         "longitude": 16.01832
     },
     {
-        "cityId": "11049011",
+        "cityId": 11049011,
         "name": "Hra\u0161\u0107ina",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.11114,
         "longitude": 16.22578
     },
     {
-        "cityId": "11049012",
+        "cityId": 11049012,
         "name": "Hum na Sutli",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.21177,
         "longitude": 15.68865
     },
     {
-        "cityId": "11049013",
+        "cityId": 11049013,
         "name": "Jesenje",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.20724,
         "longitude": 15.88194
     },
     {
-        "cityId": "11049014",
+        "cityId": 11049014,
         "name": "Konj\u0161\u010dina",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.05435,
         "longitude": 16.17763
     },
     {
-        "cityId": "11049188",
+        "cityId": 11049188,
         "name": "Kraljevec na Sutli",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 45.99211,
         "longitude": 15.72315
     },
     {
-        "cityId": "11049189",
+        "cityId": 11049189,
         "name": "Krapinske Toplice",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.09346,
         "longitude": 15.83817
     },
     {
-        "cityId": "11049190",
+        "cityId": 11049190,
         "name": "Kumrovec",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.07629,
         "longitude": 15.67998
     },
     {
-        "cityId": "11049191",
+        "cityId": 11049191,
         "name": "Lobor",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.15028,
         "longitude": 16.06544
     },
     {
-        "cityId": "11049192",
+        "cityId": 11049192,
         "name": "Ma\u010de",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.09337,
         "longitude": 16.04201
     },
     {
-        "cityId": "11049193",
+        "cityId": 11049193,
         "name": "Mihovljan",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.13351,
         "longitude": 15.97034
     },
     {
-        "cityId": "11049194",
+        "cityId": 11049194,
         "name": "Novi Golubovec",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.17167,
         "longitude": 15.98313
     },
     {
-        "cityId": "11049195",
+        "cityId": 11049195,
         "name": "Petrovsko",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.16778,
         "longitude": 15.84207
     },
     {
-        "cityId": "11049212",
+        "cityId": 11049212,
         "name": "Radoboj",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.16544,
         "longitude": 15.92142
     },
     {
-        "cityId": "11049213",
+        "cityId": 11049213,
         "name": "Sveti Kri\u017e Za\u010dretje",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.08224,
         "longitude": 15.90704
     },
     {
-        "cityId": "11049214",
+        "cityId": 11049214,
         "name": "Stubi\u010dke Toplice",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 45.97536,
         "longitude": 15.93262
     },
     {
-        "cityId": "11049218",
+        "cityId": 11049218,
         "name": "Tuhelj",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.07629,
         "longitude": 15.74809
     },
     {
-        "cityId": "11049219",
+        "cityId": 11049219,
         "name": "Veliko Trgovi\u0161\u0107e",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.00378,
         "longitude": 15.84387
     },
     {
-        "cityId": "11049220",
+        "cityId": 11049220,
         "name": "Zagorska Sela",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.09438,
         "longitude": 15.6353
     },
     {
-        "cityId": "11049222",
+        "cityId": 11049222,
         "name": "Zlatar Bistrica",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.04788,
         "longitude": 16.08527
     },
     {
-        "cityId": "11054890",
+        "cityId": 11054890,
         "name": "Marija Bistrica",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.00572,
         "longitude": 16.11784
     },
     {
-        "cityId": "11054895",
+        "cityId": 11054895,
         "name": "Oroslavje",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 45.99633,
         "longitude": 15.9155
     },
     {
-        "cityId": "11054900",
+        "cityId": 11054900,
         "name": "Pregrada",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.16478,
         "longitude": 15.74834
     },
     {
-        "cityId": "11055011",
+        "cityId": 11055011,
         "name": "\u0110urmanec",
-        "stateId": "3337519",
+        "stateId": 3337519,
         "latitude": 46.19708,
         "longitude": 15.83786
     }

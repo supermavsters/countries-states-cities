@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3413544",
+        "cityId": 3413544,
         "name": "Seltjarnarneskaupsta\u00f0ur",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.15541,
         "longitude": -22.00294
     },
     {
-        "cityId": "3413831",
+        "cityId": 3413831,
         "name": "Reykjav\u00edkurborg",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.12109,
         "longitude": -21.8264
     },
     {
-        "cityId": "3414383",
+        "cityId": 3414383,
         "name": "Mosfellsbaer",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.15,
         "longitude": -21.65
     },
     {
-        "cityId": "3415215",
+        "cityId": 3415215,
         "name": "K\u00f3pavogsb\u00e6r",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.09844,
         "longitude": -21.86795
     },
     {
-        "cityId": "3415359",
+        "cityId": 3415359,
         "name": "Kj\u00f3sarhreppur",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.30644,
         "longitude": -21.49919
     },
     {
-        "cityId": "3416708",
+        "cityId": 3416708,
         "name": "Hafnarfjar\u00f0arkaupsta\u00f0ur",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.02235,
         "longitude": -21.9606
     },
     {
-        "cityId": "3417190",
+        "cityId": 3417190,
         "name": "Gar\u00f0ab\u00e6r",
-        "stateId": "3426182",
+        "stateId": 3426182,
         "latitude": 64.05365,
         "longitude": -21.8569
     }

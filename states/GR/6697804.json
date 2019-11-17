@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "252941",
+        "cityId": 252941,
         "name": "Nom\u00f3s Thesprot\u00edas",
-        "stateId": "6697804",
+        "stateId": 6697804,
         "latitude": 39.5,
         "longitude": 20.33333
     },
     {
-        "cityId": "254695",
+        "cityId": 254695,
         "name": "Nom\u00f3s Prev\u00e9zis",
-        "stateId": "6697804",
+        "stateId": 6697804,
         "latitude": 39.16667,
         "longitude": 20.66667
     },
     {
-        "cityId": "261777",
+        "cityId": 261777,
         "name": "Nom\u00f3s Ioann\u00ednon",
-        "stateId": "6697804",
+        "stateId": 6697804,
         "latitude": 39.75,
         "longitude": 20.66667
     },
     {
-        "cityId": "264545",
+        "cityId": 264545,
         "name": "Nom\u00f3s \u00c1rtas",
-        "stateId": "6697804",
+        "stateId": 6697804,
         "latitude": 39.16667,
         "longitude": 21
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1732562",
+        "cityId": 1732562,
         "name": "Bahagian Pantai Barat",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 6,
         "longitude": 116.25
     },
     {
-        "cityId": "1733564",
+        "cityId": 1733564,
         "name": "Bahagian Sandakan",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 5.58333,
         "longitude": 117.58333
     },
     {
-        "cityId": "1733595",
+        "cityId": 1733595,
         "name": "Bahagian Tawau",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 4.5,
         "longitude": 118
     },
     {
-        "cityId": "1734148",
+        "cityId": 1734148,
         "name": "Bahagian Pedalaman",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 4.83333,
         "longitude": 116.16667
     },
     {
-        "cityId": "1736645",
+        "cityId": 1736645,
         "name": "Bahagian Pantai Barat",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 6.08333,
         "longitude": 116.5
     },
     {
-        "cityId": "1966738",
+        "cityId": 1966738,
         "name": "Bahagian Kudat",
-        "stateId": "1733039",
+        "stateId": 1733039,
         "latitude": 6.5,
         "longitude": 116.66667
     }

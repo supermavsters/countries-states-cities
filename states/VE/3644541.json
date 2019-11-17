@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3625927",
+        "cityId": 3625927,
         "name": "Municipio Tucupita",
-        "stateId": "3644541",
+        "stateId": 3644541,
         "latitude": 9.25,
         "longitude": -61.75
     },
     {
-        "cityId": "3649210",
+        "cityId": 3649210,
         "name": "Municipio Antonio D\u00edaz",
-        "stateId": "3644541",
+        "stateId": 3644541,
         "latitude": 8.5,
         "longitude": -60.83333
     },
     {
-        "cityId": "8129232",
+        "cityId": 8129232,
         "name": "Municipio Pedernales",
-        "stateId": "3644541",
+        "stateId": 3644541,
         "latitude": 9.97152,
         "longitude": -62.25151
     },
     {
-        "cityId": "8131431",
+        "cityId": 8131431,
         "name": "Municipio Casacoima",
-        "stateId": "3644541",
+        "stateId": 3644541,
         "latitude": 8.44011,
         "longitude": -62.45968
     }

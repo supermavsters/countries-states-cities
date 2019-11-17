@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "782268",
+        "cityId": 782268,
         "name": "Rrethi i Mirdit\u00ebs",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.83333,
         "longitude": 20
     },
     {
-        "cityId": "3184937",
+        "cityId": 3184937,
         "name": "Lezh\u00eb",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.8,
         "longitude": 19.66667
     },
     {
-        "cityId": "3315070",
+        "cityId": 3315070,
         "name": "Rrethi i Kurbinit",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.63333,
         "longitude": 19.71667
     },
     {
-        "cityId": "10944409",
+        "cityId": 10944409,
         "name": "Bashkia Kurbin",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.62215,
         "longitude": 19.70734
     },
     {
-        "cityId": "10944410",
+        "cityId": 10944410,
         "name": "Bashkia Lezh\u00eb",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.8132,
         "longitude": 19.64121
     },
     {
-        "cityId": "10944411",
+        "cityId": 10944411,
         "name": "Bashkia Mirdit\u00eb",
-        "stateId": "3344949",
+        "stateId": 3344949,
         "latitude": 41.80953,
         "longitude": 19.99024
     }

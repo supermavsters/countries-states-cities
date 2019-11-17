@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "611668",
+        "cityId": 611668,
         "name": "Tianetis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.1,
         "longitude": 45
     },
     {
-        "cityId": "612889",
+        "cityId": 612889,
         "name": "Mtskhetis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 41.86667,
         "longitude": 44.66667
     },
     {
-        "cityId": "613233",
+        "cityId": 613233,
         "name": "Akhalgoris Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.21667,
         "longitude": 44.48333
     },
     {
-        "cityId": "614086",
+        "cityId": 614086,
         "name": "Q\u2019azbegis Munitsip\u2019alit\u2019et\u2018i",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.6,
         "longitude": 44.55
     },
     {
-        "cityId": "614841",
+        "cityId": 614841,
         "name": "Dushetis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.35,
         "longitude": 44.33333
     },
     {
-        "cityId": "7667575",
+        "cityId": 7667575,
         "name": "Dusheti",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.08333,
         "longitude": 44.7
     },
     {
-        "cityId": "7667694",
+        "cityId": 7667694,
         "name": "Akhalgori",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.12541,
         "longitude": 44.48373
     },
     {
-        "cityId": "7667696",
+        "cityId": 7667696,
         "name": "Kazbegi",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 42.6575,
         "longitude": 44.64528
     },
     {
-        "cityId": "7668882",
+        "cityId": 7668882,
         "name": "Mtskheta",
-        "stateId": "865541",
+        "stateId": 865541,
         "latitude": 41.84066,
         "longitude": 44.70612
     }

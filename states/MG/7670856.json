@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7670898",
+        "cityId": 7670898,
         "name": "Antananarivo-Atsimondrano",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.92745,
         "longitude": 47.61128
     },
     {
-        "cityId": "7670899",
+        "cityId": 7670899,
         "name": "Manjakandriana",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.83761,
         "longitude": 47.75962
     },
     {
-        "cityId": "7670936",
+        "cityId": 7670936,
         "name": "Antananarivo-Avaradrano District",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.9999,
         "longitude": 47.50054
     },
     {
-        "cityId": "7670938",
+        "cityId": 7670938,
         "name": "Antananarivo-Renivohitra District",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.96049,
         "longitude": 47.56613
     },
     {
-        "cityId": "8354581",
+        "cityId": 8354581,
         "name": "Ankazobe District",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.31737,
         "longitude": 47.11616
     },
     {
-        "cityId": "8354582",
+        "cityId": 8354582,
         "name": "Ambohidratrimo District",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.81792,
         "longitude": 47.43613
     },
     {
-        "cityId": "8354583",
+        "cityId": 8354583,
         "name": "Andramasina District",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -19.1872,
         "longitude": 47.58895
     },
     {
-        "cityId": "10229484",
+        "cityId": 10229484,
         "name": "Antananarivo Province",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.75,
         "longitude": 46.75
     },
     {
-        "cityId": "11072805",
+        "cityId": 11072805,
         "name": "Anjozorobe",
-        "stateId": "7670856",
+        "stateId": 7670856,
         "latitude": -18.1366,
         "longitude": 47.71191
     }

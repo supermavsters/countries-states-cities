@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "272300",
+        "cityId": 272300,
         "name": "Caza du Kesrouane",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 34.03243,
         "longitude": 35.79718
     },
     {
-        "cityId": "273201",
+        "cityId": 273201,
         "name": "Caza de Jbayl",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 34.12521,
         "longitude": 35.79907
     },
     {
-        "cityId": "277225",
+        "cityId": 277225,
         "name": "Caza de Baabda",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.84592,
         "longitude": 35.66791
     },
     {
-        "cityId": "278156",
+        "cityId": 278156,
         "name": "Caza du Chouf",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.65041,
         "longitude": 35.53239
     },
     {
-        "cityId": "279440",
+        "cityId": 279440,
         "name": "Caza du Matn",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.91852,
         "longitude": 35.69368
     },
     {
-        "cityId": "280424",
+        "cityId": 280424,
         "name": "Caza de Aaley",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.77565,
         "longitude": 35.59297
     },
     {
-        "cityId": "7838967",
+        "cityId": 7838967,
         "name": "Metn District",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.89417,
         "longitude": 35.73639
     },
     {
-        "cityId": "10119971",
+        "cityId": 10119971,
         "name": "Keserwan District",
-        "stateId": "273607",
+        "stateId": 273607,
         "latitude": 33.96972,
         "longitude": 35.61556
     }

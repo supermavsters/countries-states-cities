@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3492518",
+        "cityId": 3492518,
         "name": "Tamboril",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.5,
         "longitude": -70.6
     },
     {
-        "cityId": "3492915",
+        "cityId": 3492915,
         "name": "Santiago de los Caballeros",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.41667,
         "longitude": -70.7
     },
     {
-        "cityId": "3493104",
+        "cityId": 3493104,
         "name": "San Jos\u00e9 de Las Matas",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.33333,
         "longitude": -71.08333
     },
     {
-        "cityId": "3499750",
+        "cityId": 3499750,
         "name": "Licey al Medio",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.45,
         "longitude": -70.6
     },
     {
-        "cityId": "3504164",
+        "cityId": 3504164,
         "name": "Santo Tom\u00e1s de J\u00e1nico",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.23528,
         "longitude": -70.79515
     },
     {
-        "cityId": "3511462",
+        "cityId": 3511462,
         "name": "Bison\u00f3",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.58333,
         "longitude": -70.86667
     },
     {
-        "cityId": "11154564",
+        "cityId": 11154564,
         "name": "Villa Gonz\u00e1lez",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.56422,
         "longitude": -70.78712
     },
     {
-        "cityId": "11154565",
+        "cityId": 11154565,
         "name": "Pu\u00f1al",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.39186,
         "longitude": -70.65643
     },
     {
-        "cityId": "11154566",
+        "cityId": 11154566,
         "name": "Sabana Iglesia",
-        "stateId": "3492918",
+        "stateId": 3492918,
         "latitude": 19.34238,
         "longitude": -70.74019
     }

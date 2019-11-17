@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "1785736",
+        "cityId": 1785736,
         "name": "Yuncheng Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 35.21804,
         "longitude": 111.05372
     },
     {
-        "cityId": "1787346",
+        "cityId": 1787346,
         "name": "Yangquan Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 38.11105,
         "longitude": 113.49628
     },
     {
-        "cityId": "1793510",
+        "cityId": 1793510,
         "name": "Taiyuan Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 37.93314,
         "longitude": 112.3193
     },
     {
-        "cityId": "1802029",
+        "cityId": 1802029,
         "name": "L\u00fcliang",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 37.73563,
         "longitude": 111.30538
     },
     {
-        "cityId": "1803566",
+        "cityId": 1803566,
         "name": "Linfen Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 36.22996,
         "longitude": 111.38177
     },
     {
-        "cityId": "1805302",
+        "cityId": 1805302,
         "name": "Jinzhong Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 37.43597,
         "longitude": 113.08783
     },
     {
-        "cityId": "1805739",
+        "cityId": 1805739,
         "name": "Jincheng Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 35.60362,
         "longitude": 112.69257
     },
     {
-        "cityId": "1815461",
+        "cityId": 1815461,
         "name": "Changzhi Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 36.45564,
         "longitude": 112.88436
     },
     {
-        "cityId": "2033526",
+        "cityId": 2033526,
         "name": "Yanbei Diqu",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 40.00122,
         "longitude": 113.72621
     },
     {
-        "cityId": "2037794",
+        "cityId": 2037794,
         "name": "Datong Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 40.10484,
         "longitude": 113.63334
     },
     {
-        "cityId": "6642609",
+        "cityId": 6642609,
         "name": "Shuozhou Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 39.59274,
         "longitude": 112.54134
     },
     {
-        "cityId": "6642630",
+        "cityId": 6642630,
         "name": "Xinzhou Shi",
-        "stateId": "1795912",
+        "stateId": 1795912,
         "latitude": 38.76502,
         "longitude": 112.38581
     }

@@ -1,92 +1,92 @@
 [
     {
-        "stateId": "11071625",
+        "stateId": 11071625,
         "name": "Auvergne-Rh\u00f4ne-Alpes",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 45.482,
         "longitude": 5.37437
     },
     {
-        "stateId": "11071619",
+        "stateId": 11071619,
         "name": "Bourgogne-Franche-Comt\u00e9",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 47.06981,
         "longitude": 5.04822
     },
     {
-        "stateId": "3030293",
+        "stateId": 3030293,
         "name": "Bretagne",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 48.16667,
         "longitude": -2.83333
     },
     {
-        "stateId": "3027939",
+        "stateId": 3027939,
         "name": "Centre-Val de Loire",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 47.5,
         "longitude": 1.75
     },
     {
-        "stateId": "3023519",
+        "stateId": 3023519,
         "name": "Corse",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 42.06153,
         "longitude": 8.9542
     },
     {
-        "stateId": "11071622",
+        "stateId": 11071622,
         "name": "Grand-Est",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 48.69821,
         "longitude": 5.8667
     },
     {
-        "stateId": "11071624",
+        "stateId": 11071624,
         "name": "Hauts-de-France",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 49.61232,
         "longitude": 2.65594
     },
     {
-        "stateId": "11071621",
+        "stateId": 11071621,
         "name": "Normandy",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 49.19906,
         "longitude": 0.49988
     },
     {
-        "stateId": "11071620",
+        "stateId": 11071620,
         "name": "Nouvelle-Aquitaine",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 46.09165,
         "longitude": 1.26892
     },
     {
-        "stateId": "11071623",
+        "stateId": 11071623,
         "name": "Occitanie",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 44.02722,
         "longitude": 1.63559
     },
     {
-        "stateId": "2988289",
+        "stateId": 2988289,
         "name": "Pays de la Loire",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 47.5,
         "longitude": -0.83333
     },
     {
-        "stateId": "2985244",
+        "stateId": 2985244,
         "name": "Provence-Alpes-C\u00f4te d'Azur",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 44,
         "longitude": 6
     },
     {
-        "stateId": "3012874",
+        "stateId": 3012874,
         "name": "\u00cele-de-France",
-        "countryId": "3017382",
+        "countryId": 3017382,
         "latitude": 48.7,
         "longitude": 2.5
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2465029",
+        "cityId": 2465029,
         "name": "Siliana Sud",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 35.98264,
         "longitude": 9.39902
     },
     {
-        "cityId": "7870618",
+        "cityId": 7870618,
         "name": "Elkrib",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.34292,
         "longitude": 9.10318
     },
     {
-        "cityId": "7870619",
+        "cityId": 7870619,
         "name": "Bourouis",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.18299,
         "longitude": 9.15529
     },
     {
-        "cityId": "7870620",
+        "cityId": 7870620,
         "name": "Siliana Nord",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.05857,
         "longitude": 9.29794
     },
     {
-        "cityId": "11107575",
+        "cityId": 11107575,
         "name": "El Aroussa",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.36535,
         "longitude": 9.46114
     },
     {
-        "cityId": "11107576",
+        "cityId": 11107576,
         "name": "Bargou",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.10627,
         "longitude": 9.61547
     },
     {
-        "cityId": "11107577",
+        "cityId": 11107577,
         "name": "Kesra",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 35.79671,
         "longitude": 9.38447
     },
     {
-        "cityId": "11107578",
+        "cityId": 11107578,
         "name": "Rouhia",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 35.648,
         "longitude": 9.21237
     },
     {
-        "cityId": "11154520",
+        "cityId": 11154520,
         "name": "Gaafour",
-        "stateId": "2465027",
+        "stateId": 2465027,
         "latitude": 36.34,
         "longitude": 9.32
     }

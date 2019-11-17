@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1848816",
+        "cityId": 1848816,
         "name": "Yaeyama-gun",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 24.33504,
         "longitude": 123.76062
     },
     {
-        "cityId": "1849184",
+        "cityId": 1849184,
         "name": "Urasoe Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.25106,
         "longitude": 127.71512
     },
     {
-        "cityId": "1850107",
+        "cityId": 1850107,
         "name": "Tomigusuku-shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.16667,
         "longitude": 127.66667
     },
     {
-        "cityId": "1852456",
+        "cityId": 1852456,
         "name": "Shimajiri-gun",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 25.83818,
         "longitude": 131.24208
     },
     {
-        "cityId": "1854344",
+        "cityId": 1854344,
         "name": "Okinawa Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.35313,
         "longitude": 127.80754
     },
     {
-        "cityId": "1855990",
+        "cityId": 1855990,
         "name": "Nakagami-gun",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.30917,
         "longitude": 127.77722
     },
     {
-        "cityId": "1856030",
+        "cityId": 1856030,
         "name": "Naha Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.21077,
         "longitude": 127.68645
     },
     {
-        "cityId": "1856061",
+        "cityId": 1856061,
         "name": "Nago Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.58507,
         "longitude": 128.02466
     },
     {
-        "cityId": "1858371",
+        "cityId": 1858371,
         "name": "Kunigami-gun",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.7325,
         "longitude": 128.23298
     },
     {
-        "cityId": "1861279",
+        "cityId": 1861279,
         "name": "Itoman Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.11795,
         "longitude": 127.6871
     },
     {
-        "cityId": "1861412",
+        "cityId": 1861412,
         "name": "Ishigaki-shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 24.39401,
         "longitude": 124.20113
     },
     {
-        "cityId": "1863626",
+        "cityId": 1863626,
         "name": "Ginowan Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.2762,
         "longitude": 127.75742
     },
     {
-        "cityId": "7415817",
+        "cityId": 7415817,
         "name": "Miyako-gun",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 24.66661,
         "longitude": 124.69875
     },
     {
-        "cityId": "7415819",
+        "cityId": 7415819,
         "name": "Miyakojima Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 24.78574,
         "longitude": 125.30132
     },
     {
-        "cityId": "7415820",
+        "cityId": 7415820,
         "name": "Nanj\u014d Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.16371,
         "longitude": 127.77874
     },
     {
-        "cityId": "7415821",
+        "cityId": 7415821,
         "name": "Uruma Shi",
-        "stateId": "1854345",
+        "stateId": 1854345,
         "latitude": 26.36777,
         "longitude": 127.87373
     }

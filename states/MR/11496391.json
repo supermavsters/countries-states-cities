@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "9212586",
+        "cityId": 9212586,
         "name": "Ksar",
-        "stateId": "11496391",
+        "stateId": 11496391,
         "latitude": 18.10222,
         "longitude": -15.955
     },
     {
-        "cityId": "9212593",
+        "cityId": 9212593,
         "name": "Sebkha",
-        "stateId": "11496391",
+        "stateId": 11496391,
         "latitude": 18.07552,
         "longitude": -16.00205
     },
     {
-        "cityId": "9222773",
+        "cityId": 9222773,
         "name": "Tevragh Zeina",
-        "stateId": "11496391",
+        "stateId": 11496391,
         "latitude": 18.11011,
         "longitude": -15.99931
     }

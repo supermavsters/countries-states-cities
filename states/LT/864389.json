@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "599759",
+        "cityId": 599759,
         "name": "Druskininkai",
-        "stateId": "864389",
+        "stateId": 864389,
         "latitude": 54.01667,
         "longitude": 23.96667
     },
     {
-        "cityId": "601086",
+        "cityId": 601086,
         "name": "Alytus",
-        "stateId": "864389",
+        "stateId": 864389,
         "latitude": 54.4,
         "longitude": 24.05
     },
     {
-        "cityId": "601087",
+        "cityId": 601087,
         "name": "Alytaus rajonas",
-        "stateId": "864389",
+        "stateId": 864389,
         "latitude": 54.4,
         "longitude": 24.05
     },
     {
-        "cityId": "864486",
+        "cityId": 864486,
         "name": "Lazdijai",
-        "stateId": "864389",
+        "stateId": 864389,
         "latitude": 54.23333,
         "longitude": 23.51667
     },
     {
-        "cityId": "864487",
+        "cityId": 864487,
         "name": "Var\u0117na",
-        "stateId": "864389",
+        "stateId": 864389,
         "latitude": 54.21667,
         "longitude": 24.56667
     }

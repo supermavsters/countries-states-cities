@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "1783950",
+        "cityId": 1783950,
         "name": "Zhuhai Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.17606,
         "longitude": 113.31387
     },
     {
-        "cityId": "1784313",
+        "cityId": 1784313,
         "name": "Zhongshan Prefecture",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.55358,
         "longitude": 113.3755
     },
     {
-        "cityId": "1784852",
+        "cityId": 1784852,
         "name": "Zhaoqing Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.6363,
         "longitude": 112.21776
     },
     {
-        "cityId": "1784987",
+        "cityId": 1784987,
         "name": "Zhanjiang Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 21.08139,
         "longitude": 109.97139
     },
     {
-        "cityId": "1785723",
+        "cityId": 1785723,
         "name": "Yunfu Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.87832,
         "longitude": 111.80472
     },
     {
-        "cityId": "1787530",
+        "cityId": 1787530,
         "name": "Yangjiang Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.079,
         "longitude": 111.69219
     },
     {
-        "cityId": "1795563",
+        "cityId": 1795563,
         "name": "Shenzhen",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.55653,
         "longitude": 113.9859
     },
     {
-        "cityId": "1795873",
+        "cityId": 1795873,
         "name": "Shaoguan Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 24.83917,
         "longitude": 113.82848
     },
     {
-        "cityId": "1795932",
+        "cityId": 1795932,
         "name": "Shantou Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.32024,
         "longitude": 116.53972
     },
     {
-        "cityId": "1797626",
+        "cityId": 1797626,
         "name": "Qingyuan Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 24.27596,
         "longitude": 112.87226
     },
     {
-        "cityId": "1800794",
+        "cityId": 1800794,
         "name": "Meizhou Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 24.15929,
         "longitude": 116.04037
     },
     {
-        "cityId": "1801179",
+        "cityId": 1801179,
         "name": "Maoming Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.07113,
         "longitude": 110.90714
     },
     {
-        "cityId": "1805830",
+        "cityId": 1805830,
         "name": "Jieyang Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.31281,
         "longitude": 116.12187
     },
     {
-        "cityId": "1806297",
+        "cityId": 1806297,
         "name": "Jiangmen Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.31515,
         "longitude": 112.65997
     },
     {
-        "cityId": "1806783",
+        "cityId": 1806783,
         "name": "Huizhou Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.19888,
         "longitude": 114.46163
     },
     {
-        "cityId": "1808200",
+        "cityId": 1808200,
         "name": "Heyuan Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.97362,
         "longitude": 114.98585
     },
     {
-        "cityId": "1809857",
+        "cityId": 1809857,
         "name": "Guangzhou Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.37327,
         "longitude": 113.51219
     },
     {
-        "cityId": "1811102",
+        "cityId": 1811102,
         "name": "Foshan Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.02264,
         "longitude": 112.96302
     },
     {
-        "cityId": "1812532",
+        "cityId": 1812532,
         "name": "Dongguan Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.94417,
         "longitude": 113.91268
     },
     {
-        "cityId": "1815394",
+        "cityId": 1815394,
         "name": "Chaozhou Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 23.838,
         "longitude": 116.76935
     },
     {
-        "cityId": "6571356",
+        "cityId": 6571356,
         "name": "Shanwei Shi",
-        "stateId": "1809935",
+        "stateId": 1809935,
         "latitude": 22.74423,
         "longitude": 115.49539
     }

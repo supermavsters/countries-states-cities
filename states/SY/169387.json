@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "167610",
+        "cityId": 167610,
         "name": "Maarrat al-Nu'man District",
-        "stateId": "169387",
+        "stateId": 169387,
         "latitude": 35.53858,
         "longitude": 36.79193
     },
     {
-        "cityId": "169022",
+        "cityId": 169022,
         "name": "Jisr al-Shughur District",
-        "stateId": "169387",
+        "stateId": 169387,
         "latitude": 35.87756,
         "longitude": 36.32901
     },
     {
-        "cityId": "169388",
+        "cityId": 169388,
         "name": "Idlib District",
-        "stateId": "169387",
+        "stateId": 169387,
         "latitude": 35.90691,
         "longitude": 36.75677
     },
     {
-        "cityId": "169865",
+        "cityId": 169865,
         "name": "Harem District",
-        "stateId": "169387",
+        "stateId": 169387,
         "latitude": 36.14014,
         "longitude": 36.56535
     },
     {
-        "cityId": "8537261",
+        "cityId": 8537261,
         "name": "Ariha District",
-        "stateId": "169387",
+        "stateId": 169387,
         "latitude": 35.76284,
         "longitude": 36.55204
     }

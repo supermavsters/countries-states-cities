@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7909708",
+        "cityId": 7909708,
         "name": "Fulcunda",
-        "stateId": "2370360",
+        "stateId": 2370360,
         "latitude": 11.8,
         "longitude": -15.16667
     },
     {
-        "cityId": "7909709",
+        "cityId": 7909709,
         "name": "Buba",
-        "stateId": "2370360",
+        "stateId": 2370360,
         "latitude": 11.57555,
         "longitude": -15
     },
     {
-        "cityId": "10376583",
+        "cityId": 10376583,
         "name": "Empada",
-        "stateId": "2370360",
+        "stateId": 2370360,
         "latitude": 11.55,
         "longitude": -15.23333
     },
     {
-        "cityId": "10376960",
+        "cityId": 10376960,
         "name": "Tite",
-        "stateId": "2370360",
+        "stateId": 2370360,
         "latitude": 11.78333,
         "longitude": -15.4
     }

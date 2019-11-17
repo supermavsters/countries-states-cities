@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1790964",
+        "cityId": 1790964,
         "name": "Wusong Qu",
-        "stateId": "1796231",
+        "stateId": 1796231,
         "latitude": 31.38333,
         "longitude": 121.48333
     },
     {
-        "cityId": "1796229",
+        "cityId": 1796229,
         "name": "Shanghai Xian",
-        "stateId": "1796231",
+        "stateId": 1796231,
         "latitude": 31.10027,
         "longitude": 121.38565
     },
     {
-        "cityId": "1799750",
+        "cityId": 1799750,
         "name": "Nanshi Qu",
-        "stateId": "1796231",
+        "stateId": 1796231,
         "latitude": 31.21779,
         "longitude": 121.4542
     }

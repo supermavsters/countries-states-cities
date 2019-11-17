@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1605066",
+        "cityId": 1605066,
         "name": "Amphoe Waritchaphum",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.25692,
         "longitude": 103.62283
     },
     {
-        "cityId": "1605075",
+        "cityId": 1605075,
         "name": "Amphoe Wanon Niwat",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.61516,
         "longitude": 103.76536
     },
     {
-        "cityId": "1606349",
+        "cityId": 1606349,
         "name": "Amphoe Sawang Daen Din",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.4559,
         "longitude": 103.4495
     },
     {
-        "cityId": "1607811",
+        "cityId": 1607811,
         "name": "Amphoe Phanna Nikhom",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.31369,
         "longitude": 103.89791
     },
     {
-        "cityId": "1608626",
+        "cityId": 1608626,
         "name": "Amphoe Mueang Sakon Nakhon",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.16163,
         "longitude": 104.10519
     },
     {
-        "cityId": "1609326",
+        "cityId": 1609326,
         "name": "Amphoe Kut Bak",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.08205,
         "longitude": 103.81469
     },
     {
-        "cityId": "1609331",
+        "cityId": 1609331,
         "name": "Amphoe Kusuman",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.35402,
         "longitude": 104.26677
     },
     {
-        "cityId": "1621065",
+        "cityId": 1621065,
         "name": "Amphoe Akat Amnuai",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.63589,
         "longitude": 103.9759
     },
     {
-        "cityId": "7510816",
+        "cityId": 7510816,
         "name": "Amphoe Phu Phan",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 16.92862,
         "longitude": 103.924
     },
     {
-        "cityId": "7510818",
+        "cityId": 7510818,
         "name": "Amphoe Nikhom Nam Un",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.17349,
         "longitude": 103.73511
     },
     {
-        "cityId": "7510819",
+        "cityId": 7510819,
         "name": "Amphoe Kham Ta Kla",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.82547,
         "longitude": 103.78598
     },
     {
-        "cityId": "7510820",
+        "cityId": 7510820,
         "name": "Amphoe Charoen Sin",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.63327,
         "longitude": 103.52218
     },
     {
-        "cityId": "7510839",
+        "cityId": 7510839,
         "name": "Amphoe Tao Ngoi",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 16.94022,
         "longitude": 104.15863
     },
     {
-        "cityId": "7510842",
+        "cityId": 7510842,
         "name": "Amphoe Phon Na Kaeo",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.21248,
         "longitude": 104.307
     },
     {
-        "cityId": "7510843",
+        "cityId": 7510843,
         "name": "Amphoe Khok Si Suphan",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.02297,
         "longitude": 104.30346
     },
     {
-        "cityId": "8304640",
+        "cityId": 8304640,
         "name": "Amphoe Song Dao",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.30883,
         "longitude": 103.44987
     },
     {
-        "cityId": "8304642",
+        "cityId": 8304642,
         "name": "Amphoe Phang Khon",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.38267,
         "longitude": 103.75146
     },
     {
-        "cityId": "8534570",
+        "cityId": 8534570,
         "name": "Amphoe Ban Muang",
-        "stateId": "1606789",
+        "stateId": 1606789,
         "latitude": 17.89569,
         "longitude": 103.52793
     }

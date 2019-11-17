@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "8405988",
+        "cityId": 8405988,
         "name": "Sr\u014fk Ch\u016dm Kiri",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 11.0054,
         "longitude": 104.44207
     },
     {
-        "cityId": "8405989",
+        "cityId": 8405989,
         "name": "Sr\u014fk D\u00e2ngt\u00f3ng",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.70733,
         "longitude": 104.42229
     },
     {
-        "cityId": "8405990",
+        "cityId": 8405990,
         "name": "Srok Tuek Chhou",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.74557,
         "longitude": 104.11013
     },
     {
-        "cityId": "8740325",
+        "cityId": 8740325,
         "name": "Mittakpheap District",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.62483,
         "longitude": 103.53108
     },
     {
-        "cityId": "9034950",
+        "cityId": 9034950,
         "name": "Kampong Bay",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.59554,
         "longitude": 104.17136
     },
     {
-        "cityId": "9034991",
+        "cityId": 9034991,
         "name": "Kampong Tranch",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.55,
         "longitude": 104.46667
     },
     {
-        "cityId": "9034994",
+        "cityId": 9034994,
         "name": "Banteay Meas",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.61667,
         "longitude": 104.53333
     },
     {
-        "cityId": "9072881",
+        "cityId": 9072881,
         "name": "Angkor Chey",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.76667,
         "longitude": 104.65
     },
     {
-        "cityId": "9072882",
+        "cityId": 9072882,
         "name": "Chhouk District",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.81667,
         "longitude": 104.45
     },
     {
-        "cityId": "9253787",
+        "cityId": 9253787,
         "name": "Prey Nob",
-        "stateId": "1831111",
+        "stateId": 1831111,
         "latitude": 10.68704,
         "longitude": 103.78853
     }

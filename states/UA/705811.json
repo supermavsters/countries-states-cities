@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "702051",
+        "cityId": 702051,
         "name": "Malovyskivs\u2019kyy Rayon",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.5768,
         "longitude": 31.57594
     },
     {
-        "cityId": "709780",
+        "cityId": 709780,
         "name": "Dolyns\u2019kyy Rayon",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.16327,
         "longitude": 32.88318
     },
     {
-        "cityId": "709887",
+        "cityId": 709887,
         "name": "Dobrovelychkivs\u2019kyy Rayon",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.36935,
         "longitude": 31.16354
     },
     {
-        "cityId": "9813766",
+        "cityId": 9813766,
         "name": "Znam\u201dyans\u2019ka Mis\u2019krada",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.70823,
         "longitude": 32.60404
     },
     {
-        "cityId": "9815163",
+        "cityId": 9815163,
         "name": "Oleksandriys\u2019ka Mis\u2019krada",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.65049,
         "longitude": 33.1096
     },
     {
-        "cityId": "9815215",
+        "cityId": 9815215,
         "name": "Svitlovods\u2019ka Mis\u2019krada",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 49.04034,
         "longitude": 33.19553
     },
     {
-        "cityId": "9815237",
+        "cityId": 9815237,
         "name": "Kirovohrads\u2019ka Mis\u2019krada",
-        "stateId": "705811",
+        "stateId": 705811,
         "latitude": 48.52185,
         "longitude": 32.24367
     }

@@ -1,211 +1,211 @@
 [
     {
-        "stateId": "161322",
+        "stateId": 161322,
         "name": "Arusha Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -3,
         "longitude": 36
     },
     {
-        "stateId": "150602",
+        "stateId": 150602,
         "name": "Coast Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -7.25,
         "longitude": 38.83333
     },
     {
-        "stateId": "160260",
+        "stateId": 160260,
         "name": "Dar es Salaam Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -6.83523,
         "longitude": 39.19597
     },
     {
-        "stateId": "160192",
+        "stateId": 160192,
         "name": "Dodoma Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.91667,
         "longitude": 35.91667
     },
     {
-        "stateId": "8469239",
+        "stateId": 8469239,
         "name": "Geita Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -3.2,
         "longitude": 31.9
     },
     {
-        "stateId": "159067",
+        "stateId": 159067,
         "name": "Iringa Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -7.85,
         "longitude": 35.55
     },
     {
-        "stateId": "148679",
+        "stateId": 148679,
         "name": "Kagera Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -1.91667,
         "longitude": 31.25
     },
     {
-        "stateId": "8469240",
+        "stateId": 8469240,
         "name": "Katavi Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -6.4,
         "longitude": 31.33333
     },
     {
-        "stateId": "157732",
+        "stateId": 157732,
         "name": "Kigoma Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -4.75,
         "longitude": 30.5
     },
     {
-        "stateId": "157449",
+        "stateId": 157449,
         "name": "Kilimanjaro Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -3.75,
         "longitude": 37.63333
     },
     {
-        "stateId": "155946",
+        "stateId": 155946,
         "name": "Lindi Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -9.5,
         "longitude": 38.5
     },
     {
-        "stateId": "435764",
+        "stateId": 435764,
         "name": "Manyara Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -4.5,
         "longitude": 36.83333
     },
     {
-        "stateId": "154775",
+        "stateId": 154775,
         "name": "Mara Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -1.83333,
         "longitude": 34.41667
     },
     {
-        "stateId": "154375",
+        "stateId": 154375,
         "name": "Mbeya Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -8.2,
         "longitude": 33.33333
     },
     {
-        "stateId": "153214",
+        "stateId": 153214,
         "name": "Morogoro Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -7.91667,
         "longitude": 37.25
     },
     {
-        "stateId": "877744",
+        "stateId": 877744,
         "name": "Mtwara Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -10.8,
         "longitude": 39.13333
     },
     {
-        "stateId": "152219",
+        "stateId": 152219,
         "name": "Mwanza Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -2.75,
         "longitude": 33.08333
     },
     {
-        "stateId": "8469241",
+        "stateId": 8469241,
         "name": "Njombe Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -9.41667,
         "longitude": 34.75
     },
     {
-        "stateId": "150733",
+        "stateId": 150733,
         "name": "Pemba North Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.05,
         "longitude": 39.76667
     },
     {
-        "stateId": "150732",
+        "stateId": 150732,
         "name": "Pemba South Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.33333,
         "longitude": 39.75
     },
     {
-        "stateId": "150442",
+        "stateId": 150442,
         "name": "Rukwa Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -8,
         "longitude": 31.41667
     },
     {
-        "stateId": "877416",
+        "stateId": 877416,
         "name": "Ruvuma Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -10.7,
         "longitude": 36.23333
     },
     {
-        "stateId": "150004",
+        "stateId": 150004,
         "name": "Shinyanga Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -3.66667,
         "longitude": 32.91667
     },
     {
-        "stateId": "8469238",
+        "stateId": 8469238,
         "name": "Simiyu Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -3,
         "longitude": 34.25
     },
     {
-        "stateId": "149876",
+        "stateId": 149876,
         "name": "Singida Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.75,
         "longitude": 34.66667
     },
     {
-        "stateId": "149653",
+        "stateId": 149653,
         "name": "Tabora Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.25,
         "longitude": 32.83333
     },
     {
-        "stateId": "149595",
+        "stateId": 149595,
         "name": "Tanga Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.2,
         "longitude": 38.28333
     },
     {
-        "stateId": "148728",
+        "stateId": 148728,
         "name": "Zanzibar Central\/South Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -6.25,
         "longitude": 39.41667
     },
     {
-        "stateId": "148725",
+        "stateId": 148725,
         "name": "Zanzibar North Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -5.91667,
         "longitude": 39.28333
     },
     {
-        "stateId": "148724",
+        "stateId": 148724,
         "name": "Zanzibar Urban\/West Region",
-        "countryId": "149590",
+        "countryId": 149590,
         "latitude": -6.16667,
         "longitude": 39.25
     }

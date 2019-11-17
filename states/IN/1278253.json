@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "1256389",
+        "cityId": 1256389,
         "name": "Sibs\u0101gar",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.91636,
         "longitude": 94.65546
     },
     {
-        "cityId": "1261192",
+        "cityId": 1261192,
         "name": "Dima Hasao District",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 25.5,
         "longitude": 93
     },
     {
-        "cityId": "1265243",
+        "cityId": 1265243,
         "name": "Lakhimpur",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 27.35,
         "longitude": 94.25
     },
     {
-        "cityId": "1267812",
+        "cityId": 1267812,
         "name": "K\u0101rbi \u0100nglong",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26,
         "longitude": 93.5
     },
     {
-        "cityId": "1268209",
+        "cityId": 1268209,
         "name": "K\u0101mr\u016bp",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.22322,
         "longitude": 91.65344
     },
     {
-        "cityId": "1271152",
+        "cityId": 1271152,
         "name": "Go\u0101lp\u0101ra",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.12791,
         "longitude": 90.60974
     },
     {
-        "cityId": "1272649",
+        "cityId": 1272649,
         "name": "Dibrugarh",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 27.5,
         "longitude": 95
     },
     {
-        "cityId": "1273451",
+        "cityId": 1273451,
         "name": "Darrang",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.51195,
         "longitude": 92.16843
     },
     {
-        "cityId": "1275009",
+        "cityId": 1275009,
         "name": "C\u0101ch\u0101r",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 24.78213,
         "longitude": 92.85771
     },
     {
-        "cityId": "7627074",
+        "cityId": 7627074,
         "name": "Barpeta",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.47104,
         "longitude": 91.0308
     },
     {
-        "cityId": "7627076",
+        "cityId": 7627076,
         "name": "Bongaigaon",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.4603,
         "longitude": 90.6464
     },
     {
-        "cityId": "7627077",
+        "cityId": 7627077,
         "name": "Dhemaji",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 27.6091,
         "longitude": 94.7942
     },
     {
-        "cityId": "7627078",
+        "cityId": 7627078,
         "name": "Dhubri",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.06749,
         "longitude": 90.02238
     },
     {
-        "cityId": "7627079",
+        "cityId": 7627079,
         "name": "Golaghat",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.4092,
         "longitude": 93.91193
     },
     {
-        "cityId": "7627080",
+        "cityId": 7627080,
         "name": "Hailakandi",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 24.5017,
         "longitude": 92.60069
     },
     {
-        "cityId": "7627081",
+        "cityId": 7627081,
         "name": "Jorhat",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.8,
         "longitude": 94.26
     },
     {
-        "cityId": "7627082",
+        "cityId": 7627082,
         "name": "Karimganj",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 24.6,
         "longitude": 92.4
     },
     {
-        "cityId": "7627083",
+        "cityId": 7627083,
         "name": "Kokrajhar",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.6,
         "longitude": 90.2
     },
     {
-        "cityId": "7627084",
+        "cityId": 7627084,
         "name": "Nalbari",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.5,
         "longitude": 91.4
     },
     {
-        "cityId": "7627085",
+        "cityId": 7627085,
         "name": "Tinsukia",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 27.6,
         "longitude": 95.6
     },
     {
-        "cityId": "8739997",
+        "cityId": 8739997,
         "name": "Sonitpur",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.76748,
         "longitude": 92.96425
     },
     {
-        "cityId": "8805932",
+        "cityId": 8805932,
         "name": "Morigaon",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.25213,
         "longitude": 92.34238
     },
     {
-        "cityId": "8805933",
+        "cityId": 8805933,
         "name": "Chirang",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.52527,
         "longitude": 90.49066
     },
     {
-        "cityId": "8805934",
+        "cityId": 8805934,
         "name": "Udalguri",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.73359,
         "longitude": 92.0921
     },
     {
-        "cityId": "8849144",
+        "cityId": 8849144,
         "name": "Nagaon",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.35037,
         "longitude": 92.69225
     },
     {
-        "cityId": "8985782",
+        "cityId": 8985782,
         "name": "Baksa",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.69804,
         "longitude": 91.15142
     },
     {
-        "cityId": "9747984",
+        "cityId": 9747984,
         "name": "Kamrup Metropolitan",
-        "stateId": "1278253",
+        "stateId": 1278253,
         "latitude": 26.05375,
         "longitude": 92.00763
     }

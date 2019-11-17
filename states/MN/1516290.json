@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "6619062",
+        "cityId": 6619062,
         "name": "Dzag",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.93725,
         "longitude": 99.16655
     },
     {
-        "cityId": "6619063",
+        "cityId": 6619063,
         "name": "Gurvanbulag",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 47.22505,
         "longitude": 98.57002
     },
     {
-        "cityId": "6619064",
+        "cityId": 6619064,
         "name": "Jargalant",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 47.14245,
         "longitude": 99.66419
     },
     {
-        "cityId": "6619065",
+        "cityId": 6619065,
         "name": "Bayanbulag",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.80488,
         "longitude": 98.09092
     },
     {
-        "cityId": "6619066",
+        "cityId": 6619066,
         "name": "Bayantsagaan",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 45.01142,
         "longitude": 98.92828
     },
     {
-        "cityId": "6619067",
+        "cityId": 6619067,
         "name": "H\u00fcreemaral",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.40212,
         "longitude": 98.28781
     },
     {
-        "cityId": "6619068",
+        "cityId": 6619068,
         "name": "Buutsagaan",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.16152,
         "longitude": 98.69173
     },
     {
-        "cityId": "6619069",
+        "cityId": 6619069,
         "name": "B\u00f6mb\u00f6g\u00f6r",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.20502,
         "longitude": 99.59879
     },
     {
-        "cityId": "6619070",
+        "cityId": 6619070,
         "name": "Bayan-Ovoo",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.28077,
         "longitude": 100.44868
     },
     {
-        "cityId": "6619071",
+        "cityId": 6619071,
         "name": "Galuut",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.69172,
         "longitude": 100.14399
     },
     {
-        "cityId": "6619072",
+        "cityId": 6619072,
         "name": "Erdenetsogt",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.41254,
         "longitude": 100.82256
     },
     {
-        "cityId": "6619073",
+        "cityId": 6619073,
         "name": "Bayanhongor",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.18958,
         "longitude": 100.71819
     },
     {
-        "cityId": "6619074",
+        "cityId": 6619074,
         "name": "\u00d6ldziyt",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.06227,
         "longitude": 100.8169
     },
     {
-        "cityId": "6619075",
+        "cityId": 6619075,
         "name": "Jinst",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 45.40158,
         "longitude": 100.574
     },
     {
-        "cityId": "6619076",
+        "cityId": 6619076,
         "name": "Bogd",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 45.19607,
         "longitude": 100.77038
     },
     {
-        "cityId": "6619077",
+        "cityId": 6619077,
         "name": "Bayangov\u012d",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 44.73186,
         "longitude": 100.39118
     },
     {
-        "cityId": "6619078",
+        "cityId": 6619078,
         "name": "Bayanlig",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 44.54191,
         "longitude": 100.82788
     },
     {
-        "cityId": "6619079",
+        "cityId": 6619079,
         "name": "Baatsagaan",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 45.55036,
         "longitude": 99.43331
     },
     {
-        "cityId": "6619080",
+        "cityId": 6619080,
         "name": "Bayan-\u00d6nd\u00f6r",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 44.77233,
         "longitude": 98.65499
     },
     {
-        "cityId": "6619081",
+        "cityId": 6619081,
         "name": "Shinejinst",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 44.52833,
         "longitude": 99.26662
     },
     {
-        "cityId": "6987839",
+        "cityId": 6987839,
         "name": "Bayanbulag Sum",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.87185,
         "longitude": 98.09476
     },
     {
-        "cityId": "6987911",
+        "cityId": 6987911,
         "name": "Erdenetsogt Sum",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.56258,
         "longitude": 101.02851
     },
     {
-        "cityId": "6998274",
+        "cityId": 6998274,
         "name": "Bayanhongor Sum",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.2027,
         "longitude": 100.67966
     },
     {
-        "cityId": "7667614",
+        "cityId": 7667614,
         "name": "Olziit",
-        "stateId": "1516290",
+        "stateId": 1516290,
         "latitude": 46.0667,
         "longitude": 100.8158
     }

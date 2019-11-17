@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "1605478",
+        "cityId": 1605478,
         "name": "Amphoe Tha Uthen",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.59263,
         "longitude": 104.49884
     },
     {
-        "cityId": "1605482",
+        "cityId": 1605482,
         "name": "Amphoe That Phanom",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 16.96457,
         "longitude": 104.70277
     },
     {
-        "cityId": "1606231",
+        "cityId": 1606231,
         "name": "Amphoe Si Songkhram",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.62989,
         "longitude": 104.24495
     },
     {
-        "cityId": "1607362",
+        "cityId": 1607362,
         "name": "Amphoe Pla Pak",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.20133,
         "longitude": 104.54674
     },
     {
-        "cityId": "1608550",
+        "cityId": 1608550,
         "name": "Amphoe Na Kae",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 16.95737,
         "longitude": 104.49349
     },
     {
-        "cityId": "1608647",
+        "cityId": 1608647,
         "name": "Amphoe Mueang Nakhon Phanom",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.31965,
         "longitude": 104.68232
     },
     {
-        "cityId": "1614468",
+        "cityId": 1614468,
         "name": "Amphoe Ban Phaeng",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.86955,
         "longitude": 104.22744
     },
     {
-        "cityId": "7510841",
+        "cityId": 7510841,
         "name": "Amphoe Phon Sawan",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.46868,
         "longitude": 104.42234
     },
     {
-        "cityId": "7510844",
+        "cityId": 7510844,
         "name": "Amphoe Wangyang",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.07189,
         "longitude": 104.45373
     },
     {
-        "cityId": "7510846",
+        "cityId": 7510846,
         "name": "Amphoe Na Thom",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.82134,
         "longitude": 104.10871
     },
     {
-        "cityId": "7510860",
+        "cityId": 7510860,
         "name": "Amphoe Renu Nakhon",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.0508,
         "longitude": 104.65664
     },
     {
-        "cityId": "8534571",
+        "cityId": 8534571,
         "name": "Amphoe Na Wa",
-        "stateId": "1608530",
+        "stateId": 1608530,
         "latitude": 17.49922,
         "longitude": 104.11833
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7268268",
+        "cityId": 7268268,
         "name": "Bucarabones Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.18599,
         "longitude": -66.93776
     },
     {
-        "cityId": "7268490",
+        "cityId": 7268490,
         "name": "Indiera Alta Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.16466,
         "longitude": -66.87223
     },
     {
-        "cityId": "7268491",
+        "cityId": 7268491,
         "name": "Indiera Baja Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.1671,
         "longitude": -66.90557
     },
     {
-        "cityId": "7268492",
+        "cityId": 7268492,
         "name": "Indiera Fr\u00eda Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.16103,
         "longitude": -66.94742
     },
     {
-        "cityId": "7268623",
+        "cityId": 7268623,
         "name": "Maricao Afuera Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.178,
         "longitude": -66.98274
     },
     {
-        "cityId": "7268625",
+        "cityId": 7268625,
         "name": "Maricao Barrio-Pueblo",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.18209,
         "longitude": -66.97974
     },
     {
-        "cityId": "7268678",
+        "cityId": 7268678,
         "name": "Montoso Barrio",
-        "stateId": "4566180",
+        "stateId": 4566180,
         "latitude": 18.17568,
         "longitude": -67.01869
     }

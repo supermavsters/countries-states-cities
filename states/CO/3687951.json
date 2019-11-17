@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "3665852",
+        "cityId": 3665852,
         "name": "Viterbo",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.0451,
         "longitude": -75.91924
     },
     {
-        "cityId": "3665975",
+        "cityId": 3665975,
         "name": "Villamar\u00eda",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5,
         "longitude": -75.5
     },
     {
-        "cityId": "3666079",
+        "cityId": 3666079,
         "name": "Victoria",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.41667,
         "longitude": -74.83333
     },
     {
-        "cityId": "3667698",
+        "cityId": 3667698,
         "name": "Sup\u00eda",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.43497,
         "longitude": -75.67281
     },
     {
-        "cityId": "3670301",
+        "cityId": 3670301,
         "name": "Saman\u00e1",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.54061,
         "longitude": -74.99346
     },
     {
-        "cityId": "3670372",
+        "cityId": 3670372,
         "name": "Salamina",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.41667,
         "longitude": -75.41667
     },
     {
-        "cityId": "3670701",
+        "cityId": 3670701,
         "name": "Risaralda",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.11237,
         "longitude": -75.75861
     },
     {
-        "cityId": "3670721",
+        "cityId": 3670721,
         "name": "Riosucio",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.45,
         "longitude": -75.75
     },
     {
-        "cityId": "3672524",
+        "cityId": 3672524,
         "name": "Pensilvania",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.3884,
         "longitude": -75.2042
     },
     {
-        "cityId": "3673276",
+        "cityId": 3673276,
         "name": "Palestina",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.04571,
         "longitude": -75.69552
     },
     {
-        "cityId": "3673414",
+        "cityId": 3673414,
         "name": "P\u00e1cora",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.5,
         "longitude": -75.5
     },
     {
-        "cityId": "3673904",
+        "cityId": 3673904,
         "name": "Neira",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.16667,
         "longitude": -75.5
     },
     {
-        "cityId": "3675192",
+        "cityId": 3675192,
         "name": "Marulanda",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.21852,
         "longitude": -75.31337
     },
     {
-        "cityId": "3675235",
+        "cityId": 3675235,
         "name": "Marquetalia",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.29069,
         "longitude": -75.08028
     },
     {
-        "cityId": "3675245",
+        "cityId": 3675245,
         "name": "Marmato",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.47554,
         "longitude": -75.5971
     },
     {
-        "cityId": "3675412",
+        "cityId": 3675412,
         "name": "Manzanares",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.25,
         "longitude": -75.16667
     },
     {
-        "cityId": "3675444",
+        "cityId": 3675444,
         "name": "Manizales",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.08333,
         "longitude": -75.5
     },
     {
-        "cityId": "3679279",
+        "cityId": 3679279,
         "name": "La Dorada",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.53333,
         "longitude": -74.7
     },
     {
-        "cityId": "3682482",
+        "cityId": 3682482,
         "name": "Filadelfia",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.3,
         "longitude": -75.6
     },
     {
-        "cityId": "3686562",
+        "cityId": 3686562,
         "name": "Chinchin\u00e1",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 4.97522,
         "longitude": -75.70416
     },
     {
-        "cityId": "3689013",
+        "cityId": 3689013,
         "name": "Belalc\u00e1zar",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5,
         "longitude": -75.83333
     },
     {
-        "cityId": "3689741",
+        "cityId": 3689741,
         "name": "Aranzazu",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.25519,
         "longitude": -75.50984
     },
     {
-        "cityId": "3689834",
+        "cityId": 3689834,
         "name": "Anserma",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.20427,
         "longitude": -75.79167
     },
     {
-        "cityId": "3690432",
+        "cityId": 3690432,
         "name": "Aguadas",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.63333,
         "longitude": -75.41667
     },
     {
-        "cityId": "9172285",
+        "cityId": 9172285,
         "name": "La Merced",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.3806,
         "longitude": -75.58842
     },
     {
-        "cityId": "9609548",
+        "cityId": 9609548,
         "name": "Norcasia",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.63732,
         "longitude": -74.8551
     },
     {
-        "cityId": "9609549",
+        "cityId": 9609549,
         "name": "San Jos\u00e9",
-        "stateId": "3687951",
+        "stateId": 3687951,
         "latitude": 5.07089,
         "longitude": -75.81292
     }

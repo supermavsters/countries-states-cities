@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "326423",
+        "cityId": 326423,
         "name": "Wolayita Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.84312,
         "longitude": 37.70051
     },
     {
-        "cityId": "331677",
+        "cityId": 331677,
         "name": "Bench Maji Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.45994,
         "longitude": 35.30549
     },
     {
-        "cityId": "333384",
+        "cityId": 333384,
         "name": "Hadiya Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.5,
         "longitude": 37.75
     },
     {
-        "cityId": "333465",
+        "cityId": 333465,
         "name": "Kaffa Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.17966,
         "longitude": 36.0479
     },
     {
-        "cityId": "341021",
+        "cityId": 341021,
         "name": "Guraghe Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 8.25,
         "longitude": 38
     },
     {
-        "cityId": "7667869",
+        "cityId": 7667869,
         "name": "Alaba Special Wereda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.45347,
         "longitude": 38.21189
     },
     {
-        "cityId": "7667870",
+        "cityId": 7667870,
         "name": "Kembata Alaba Tembaro Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.27039,
         "longitude": 37.77887
     },
     {
-        "cityId": "7670680",
+        "cityId": 7670680,
         "name": "Yem",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.83333,
         "longitude": 37.5
     },
     {
-        "cityId": "7670728",
+        "cityId": 7670728,
         "name": "Siltie Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.83219,
         "longitude": 38.26872
     },
     {
-        "cityId": "7670729",
+        "cityId": 7670729,
         "name": "Dawuro",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.96985,
         "longitude": 37.10862
     },
     {
-        "cityId": "7670732",
+        "cityId": 7670732,
         "name": "Gedeo Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.12727,
         "longitude": 38.27716
     },
     {
-        "cityId": "7729829",
+        "cityId": 7729829,
         "name": "South Omo",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.46208,
         "longitude": 36.40148
     },
     {
-        "cityId": "8260659",
+        "cityId": 8260659,
         "name": "Keficho Shekicho Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.25,
         "longitude": 36
     },
     {
-        "cityId": "8299784",
+        "cityId": 8299784,
         "name": "Sidama Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.718,
         "longitude": 38.448
     },
     {
-        "cityId": "9159975",
+        "cityId": 9159975,
         "name": "Gamo Gofa Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.25,
         "longitude": 37
     },
     {
-        "cityId": "9410112",
+        "cityId": 9410112,
         "name": "Basketo Special Woreda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.25,
         "longitude": 36.58333
     },
     {
-        "cityId": "9410266",
+        "cityId": 9410266,
         "name": "Amaro Special Woreda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.83333,
         "longitude": 37.83333
     },
     {
-        "cityId": "9410393",
+        "cityId": 9410393,
         "name": "Dirashe Special Woreda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.66667,
         "longitude": 37.33333
     },
     {
-        "cityId": "9410442",
+        "cityId": 9410442,
         "name": "Konso Special Woreda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.33333,
         "longitude": 37.33333
     },
     {
-        "cityId": "9410501",
+        "cityId": 9410501,
         "name": "Burji Special Woreda",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.5,
         "longitude": 37.83333
     },
     {
-        "cityId": "10377041",
+        "cityId": 10377041,
         "name": "South Omo Zone",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.5,
         "longitude": 36.5
     },
     {
-        "cityId": "11750820",
+        "cityId": 11750820,
         "name": "Sheka",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.56166,
         "longitude": 35.40174
     },
     {
-        "cityId": "11750821",
+        "cityId": 11750821,
         "name": "Konta",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.87066,
         "longitude": 36.5726
     },
     {
-        "cityId": "11750822",
+        "cityId": 11750822,
         "name": "Dawro",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.95704,
         "longitude": 37.10044
     },
     {
-        "cityId": "11750824",
+        "cityId": 11750824,
         "name": "Segen Peoples",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 5.54625,
         "longitude": 37.55151
     },
     {
-        "cityId": "11750825",
+        "cityId": 11750825,
         "name": "Gedio",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 6.14128,
         "longitude": 38.25211
     },
     {
-        "cityId": "11750826",
+        "cityId": 11750826,
         "name": "Selti",
-        "stateId": "444188",
+        "stateId": 444188,
         "latitude": 7.79199,
         "longitude": 38.23291
     }

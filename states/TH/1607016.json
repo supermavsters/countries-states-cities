@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1608628",
+        "cityId": 1608628,
         "name": "Amphoe Mueang Rayong",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.71864,
         "longitude": 101.34491
     },
     {
-        "cityId": "1609609",
+        "cityId": 1609609,
         "name": "Amphoe Klaeng",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.77179,
         "longitude": 101.65666
     },
     {
-        "cityId": "1618570",
+        "cityId": 1618570,
         "name": "Amphoe Ban Khai",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.83827,
         "longitude": 101.3421
     },
     {
-        "cityId": "7510700",
+        "cityId": 7510700,
         "name": "Amphoe Ban Chang",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.7323,
         "longitude": 101.04878
     },
     {
-        "cityId": "7510701",
+        "cityId": 7510701,
         "name": "Amphoe Pluak Daeng",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.98333,
         "longitude": 101.25
     },
     {
-        "cityId": "7510702",
+        "cityId": 7510702,
         "name": "Amphoe Nikhom Phattana",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.84489,
         "longitude": 101.15341
     },
     {
-        "cityId": "7510721",
+        "cityId": 7510721,
         "name": "Amphoe Wang Chan",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.96245,
         "longitude": 101.51533
     },
     {
-        "cityId": "7510722",
+        "cityId": 7510722,
         "name": "Amphoe Khao Chamao",
-        "stateId": "1607016",
+        "stateId": 1607016,
         "latitude": 12.99042,
         "longitude": 101.67847
     }

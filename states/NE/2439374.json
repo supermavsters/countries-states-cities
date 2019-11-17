@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2438973",
+        "cityId": 2438973,
         "name": "D\u00e9partement de Tchin-Tabaraden",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 16.5,
         "longitude": 5.5
     },
     {
-        "cityId": "2439375",
+        "cityId": 2439375,
         "name": "D\u00e9partement de Tahoua",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 14.8,
         "longitude": 4.8
     },
     {
-        "cityId": "2441528",
+        "cityId": 2441528,
         "name": "D\u00e9partement de Madaoua",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 13.99988,
         "longitude": 6.10012
     },
     {
-        "cityId": "2442477",
+        "cityId": 2442477,
         "name": "D\u00e9partement de Ke\u00efta",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 14.8,
         "longitude": 6
     },
     {
-        "cityId": "2443303",
+        "cityId": 2443303,
         "name": "D\u00e9partement d' Ill\u00e9la",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 14.25,
         "longitude": 5
     },
     {
-        "cityId": "2446465",
+        "cityId": 2446465,
         "name": "D\u00e9partement de Bouza",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 14.43333,
         "longitude": 6
     },
     {
-        "cityId": "2446752",
+        "cityId": 2446752,
         "name": "D\u00e9partement de Birni Nkonni",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 13.9,
         "longitude": 5.25
     },
     {
-        "cityId": "8624181",
+        "cityId": 8624181,
         "name": "Abalak",
-        "stateId": "2439374",
+        "stateId": 2439374,
         "latitude": 15.41618,
         "longitude": 6.16975
     }

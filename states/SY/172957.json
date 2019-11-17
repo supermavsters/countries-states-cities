@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "172956",
+        "cityId": 172956,
         "name": "Ar-Raqqah District",
-        "stateId": "172957",
+        "stateId": 172957,
         "latitude": 35.87204,
         "longitude": 39.04706
     },
     {
-        "cityId": "7905857",
+        "cityId": 7905857,
         "name": "Tell Abyad District",
-        "stateId": "172957",
+        "stateId": 172957,
         "latitude": 36.4828,
         "longitude": 39.2136
     },
     {
-        "cityId": "8276864",
+        "cityId": 8276864,
         "name": "Al-Thawrah District",
-        "stateId": "172957",
+        "stateId": 172957,
         "latitude": 35.79843,
         "longitude": 38.3455
     }

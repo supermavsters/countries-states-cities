@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "11352499",
+        "cityId": 11352499,
         "name": "Gulbene",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.17409,
         "longitude": 26.75544
     },
     {
-        "cityId": "11352600",
+        "cityId": 11352600,
         "name": "Be\u013cavas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.24379,
         "longitude": 26.75156
     },
     {
-        "cityId": "11352601",
+        "cityId": 11352601,
         "name": "Daukstu pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.06604,
         "longitude": 26.73081
     },
     {
-        "cityId": "11352602",
+        "cityId": 11352602,
         "name": "Druvienas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.11071,
         "longitude": 26.22954
     },
     {
-        "cityId": "11352603",
+        "cityId": 11352603,
         "name": "Galgauskas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.1709,
         "longitude": 26.57153
     },
     {
-        "cityId": "11352604",
+        "cityId": 11352604,
         "name": "Jaungulbenes pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.08433,
         "longitude": 26.57209
     },
     {
-        "cityId": "11352605",
+        "cityId": 11352605,
         "name": "Lejasciema pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.29916,
         "longitude": 26.50452
     },
     {
-        "cityId": "11352607",
+        "cityId": 11352607,
         "name": "L\u012bgo pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.00536,
         "longitude": 26.60762
     },
     {
-        "cityId": "11352608",
+        "cityId": 11352608,
         "name": "Litenes pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.18056,
         "longitude": 27.0249
     },
     {
-        "cityId": "11352609",
+        "cityId": 11352609,
         "name": "Lizuma pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.21282,
         "longitude": 26.35247
     },
     {
-        "cityId": "11352610",
+        "cityId": 11352610,
         "name": "Rankas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.21494,
         "longitude": 26.17315
     },
     {
-        "cityId": "11352611",
+        "cityId": 11352611,
         "name": "St\u0101merienas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.24609,
         "longitude": 26.93636
     },
     {
-        "cityId": "11352612",
+        "cityId": 11352612,
         "name": "Stradu pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.10768,
         "longitude": 26.85754
     },
     {
-        "cityId": "11352614",
+        "cityId": 11352614,
         "name": "Tirzas pagasts",
-        "stateId": "459664",
+        "stateId": 459664,
         "latitude": 57.11907,
         "longitude": 26.40839
     }

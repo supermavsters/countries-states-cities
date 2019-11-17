@@ -1,134 +1,134 @@
 [
     {
-        "stateId": "3443756",
+        "stateId": 3443756,
         "name": "Departamento de Artigas",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -30.58333,
         "longitude": -57
     },
     {
-        "stateId": "3443411",
+        "stateId": 3443411,
         "name": "Departamento de Canelones",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34.53333,
         "longitude": -55.91667
     },
     {
-        "stateId": "3443173",
+        "stateId": 3443173,
         "name": "Departamento de Cerro Largo",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -32.33333,
         "longitude": -54.33333
     },
     {
-        "stateId": "3443025",
+        "stateId": 3443025,
         "name": "Departamento de Colonia",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34.16667,
         "longitude": -57.66667
     },
     {
-        "stateId": "3442720",
+        "stateId": 3442720,
         "name": "Departamento de Durazno",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -33.08333,
         "longitude": -56.08333
     },
     {
-        "stateId": "3442587",
+        "stateId": 3442587,
         "name": "Departamento de Flores",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -33.58333,
         "longitude": -56.83333
     },
     {
-        "stateId": "3442584",
+        "stateId": 3442584,
         "name": "Departamento de Florida",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -33.83333,
         "longitude": -55.91667
     },
     {
-        "stateId": "3442007",
+        "stateId": 3442007,
         "name": "Departamento de Lavalleja",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34,
         "longitude": -55
     },
     {
-        "stateId": "3441890",
+        "stateId": 3441890,
         "name": "Departamento de Maldonado",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34.58333,
         "longitude": -54.83333
     },
     {
-        "stateId": "3441572",
+        "stateId": 3441572,
         "name": "Departamento de Montevideo",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34.825,
         "longitude": -56.2
     },
     {
-        "stateId": "3441242",
+        "stateId": 3441242,
         "name": "Departamento de Paysand\u00fa",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -32.08333,
         "longitude": -57.25
     },
     {
-        "stateId": "3440780",
+        "stateId": 3440780,
         "name": "Departamento de Rivera",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -31.5,
         "longitude": -55.25
     },
     {
-        "stateId": "3440771",
+        "stateId": 3440771,
         "name": "Departamento de Rocha",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34,
         "longitude": -54
     },
     {
-        "stateId": "3440789",
+        "stateId": 3440789,
         "name": "Departamento de R\u00edo Negro",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -32.75,
         "longitude": -57.33333
     },
     {
-        "stateId": "3440711",
+        "stateId": 3440711,
         "name": "Departamento de Salto",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -31.41667,
         "longitude": -57
     },
     {
-        "stateId": "3440645",
+        "stateId": 3440645,
         "name": "Departamento de San Jos\u00e9",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -34.25,
         "longitude": -56.75
     },
     {
-        "stateId": "3440054",
+        "stateId": 3440054,
         "name": "Departamento de Soriano",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -33.5,
         "longitude": -57.75
     },
     {
-        "stateId": "3440033",
+        "stateId": 3440033,
         "name": "Departamento de Tacuaremb\u00f3",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -32.08333,
         "longitude": -55.75
     },
     {
-        "stateId": "3439780",
+        "stateId": 3439780,
         "name": "Departamento de Treinta y Tres",
-        "countryId": "3439705",
+        "countryId": 3439705,
         "latitude": -33,
         "longitude": -54.25
     }

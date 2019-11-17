@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "2110604",
+        "cityId": 2110604,
         "name": "Waga-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.39081,
         "longitude": 140.79082
     },
     {
-        "cityId": "2110732",
+        "cityId": 2110732,
         "name": "T\u014dno-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.36479,
         "longitude": 141.50922
     },
     {
-        "cityId": "2110852",
+        "cityId": 2110852,
         "name": "Takizawa-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.8,
         "longitude": 141.06667
     },
     {
-        "cityId": "2111005",
+        "cityId": 2111005,
         "name": "Shiwa-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.56368,
         "longitude": 141.15222
     },
     {
-        "cityId": "2111528",
+        "cityId": 2111528,
         "name": "\u014cfunato-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.06667,
         "longitude": 141.71667
     },
     {
-        "cityId": "2111833",
+        "cityId": 2111833,
         "name": "Morioka-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.74546,
         "longitude": 141.26915
     },
     {
-        "cityId": "2111883",
+        "cityId": 2111883,
         "name": "Miyako-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.65724,
         "longitude": 141.85144
     },
     {
-        "cityId": "2112223",
+        "cityId": 2112223,
         "name": "Kitakami-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.30765,
         "longitude": 141.00795
     },
     {
-        "cityId": "2112264",
+        "cityId": 2112264,
         "name": "Kesen-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.18011,
         "longitude": 141.55045
     },
     {
-        "cityId": "2112424",
+        "cityId": 2112424,
         "name": "Kamihei-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.423,
         "longitude": 141.8141
     },
     {
-        "cityId": "2112441",
+        "cityId": 2112441,
         "name": "Kamaishi-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.28748,
         "longitude": 141.79854
     },
     {
-        "cityId": "2112655",
+        "cityId": 2112655,
         "name": "Ichinoseki-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 38.91667,
         "longitude": 141.13333
     },
     {
-        "cityId": "2112822",
+        "cityId": 2112822,
         "name": "Hanamaki Shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.44187,
         "longitude": 141.16751
     },
     {
-        "cityId": "2128940",
+        "cityId": 2128940,
         "name": "Ninohe Shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 40.23798,
         "longitude": 141.19576
     },
     {
-        "cityId": "2128941",
+        "cityId": 2128941,
         "name": "Ninohe-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 40.14281,
         "longitude": 141.27917
     },
     {
-        "cityId": "2129400",
+        "cityId": 2129400,
         "name": "Kunohe-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 40.2672,
         "longitude": 141.58281
     },
     {
-        "cityId": "2129423",
+        "cityId": 2129423,
         "name": "Kuji-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 40.14364,
         "longitude": 141.65918
     },
     {
-        "cityId": "7441804",
+        "cityId": 7441804,
         "name": "Iwate-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.97238,
         "longitude": 141.22719
     },
     {
-        "cityId": "7441805",
+        "cityId": 7441805,
         "name": "Nishiiwai Gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 38.986,
         "longitude": 141.10401
     },
     {
-        "cityId": "7441806",
+        "cityId": 7441806,
         "name": "Shimohei-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.84229,
         "longitude": 141.76208
     },
     {
-        "cityId": "7441808",
+        "cityId": 7441808,
         "name": "Hachimantai Shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 40.0239,
         "longitude": 140.99113
     },
     {
-        "cityId": "7441816",
+        "cityId": 7441816,
         "name": "\u014csh\u016b-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.12962,
         "longitude": 141.09479
     },
     {
-        "cityId": "7441817",
+        "cityId": 7441817,
         "name": "Rikuzentakata-shi",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.04082,
         "longitude": 141.57703
     },
     {
-        "cityId": "11497023",
+        "cityId": 11497023,
         "name": "Isawa-gun",
-        "stateId": "2112518",
+        "stateId": 2112518,
         "latitude": 39.20605,
         "longitude": 141.01553
     }

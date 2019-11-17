@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "7268063",
+        "cityId": 7268063,
         "name": "Cerro Gordo Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.33319,
         "longitude": -67.14405
     },
     {
-        "cityId": "7268119",
+        "cityId": 7268119,
         "name": "Cruces Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.3507,
         "longitude": -67.21336
     },
     {
-        "cityId": "7268170",
+        "cityId": 7268170,
         "name": "Aguada Barrio-Pueblo",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.38021,
         "longitude": -67.18864
     },
     {
-        "cityId": "7268215",
+        "cityId": 7268215,
         "name": "Asomante Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.38395,
         "longitude": -67.17232
     },
     {
-        "cityId": "7268217",
+        "cityId": 7268217,
         "name": "Atalaya Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.33029,
         "longitude": -67.18633
     },
     {
-        "cityId": "7268350",
+        "cityId": 7268350,
         "name": "Carrizal Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.39887,
         "longitude": -67.17877
     },
     {
-        "cityId": "7268377",
+        "cityId": 7268377,
         "name": "Espinar Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.40694,
         "longitude": -67.16607
     },
     {
-        "cityId": "7268418",
+        "cityId": 7268418,
         "name": "Guan\u00e1bano Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.38193,
         "longitude": -67.15444
     },
     {
-        "cityId": "7268423",
+        "cityId": 7268423,
         "name": "Guaniquilla Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.3888,
         "longitude": -67.19741
     },
     {
-        "cityId": "7268434",
+        "cityId": 7268434,
         "name": "Guayabo Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.37508,
         "longitude": -67.2101
     },
     {
-        "cityId": "7268512",
+        "cityId": 7268512,
         "name": "Jag\u00fcey Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.35033,
         "longitude": -67.20118
     },
     {
-        "cityId": "7268541",
+        "cityId": 7268541,
         "name": "Lagunas Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.33892,
         "longitude": -67.17314
     },
     {
-        "cityId": "7268595",
+        "cityId": 7268595,
         "name": "Mal Paso Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.36599,
         "longitude": -67.16935
     },
     {
-        "cityId": "7268600",
+        "cityId": 7268600,
         "name": "Mamey Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.37647,
         "longitude": -67.1386
     },
     {
-        "cityId": "7268620",
+        "cityId": 7268620,
         "name": "Mar\u00edas Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.35937,
         "longitude": -67.13822
     },
     {
-        "cityId": "7268695",
+        "cityId": 7268695,
         "name": "Naranjo Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.34539,
         "longitude": -67.15771
     },
     {
-        "cityId": "7268756",
+        "cityId": 7268756,
         "name": "Piedras Blancas Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.36332,
         "longitude": -67.1863
     },
     {
-        "cityId": "7268905",
+        "cityId": 7268905,
         "name": "R\u00edo Grande Barrio",
-        "stateId": "4562503",
+        "stateId": 4562503,
         "latitude": 18.37111,
         "longitude": -67.2287
     }

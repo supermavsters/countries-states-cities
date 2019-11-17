@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7910183",
+        "cityId": 7910183,
         "name": "Vera Cruz",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.59239,
         "longitude": 125.56299
     },
     {
-        "cityId": "8617681",
+        "cityId": 8617681,
         "name": "Cristo Rei",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.52047,
         "longitude": 125.60837
     },
     {
-        "cityId": "8617769",
+        "cityId": 8617769,
         "name": "Dom Aleixo",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.54667,
         "longitude": 125.52472
     },
     {
-        "cityId": "8629261",
+        "cityId": 8629261,
         "name": "Atauro",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.26785,
         "longitude": 125.59699
     },
     {
-        "cityId": "8629263",
+        "cityId": 8629263,
         "name": "Metinaro",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.53315,
         "longitude": 125.75089
     },
     {
-        "cityId": "8629966",
+        "cityId": 8629966,
         "name": "Nain Feto",
-        "stateId": "1645456",
+        "stateId": 1645456,
         "latitude": -8.56,
         "longitude": 125.58778
     }

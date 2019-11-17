@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7268090",
+        "cityId": 7268090,
         "name": "Coabey Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.21411,
         "longitude": -66.56208
     },
     {
-        "cityId": "7268095",
+        "cityId": 7268095,
         "name": "Collores Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.19141,
         "longitude": -66.62638
     },
     {
-        "cityId": "7268521",
+        "cityId": 7268521,
         "name": "Jauca Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.16971,
         "longitude": -66.62741
     },
     {
-        "cityId": "7268522",
+        "cityId": 7268522,
         "name": "Jayuya Abajo Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.22739,
         "longitude": -66.61156
     },
     {
-        "cityId": "7268523",
+        "cityId": 7268523,
         "name": "Jayuya Barrio-Pueblo",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.21983,
         "longitude": -66.59257
     },
     {
-        "cityId": "7268607",
+        "cityId": 7268607,
         "name": "Mameyes Arriba Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.26253,
         "longitude": -66.57781
     },
     {
-        "cityId": "7268753",
+        "cityId": 7268753,
         "name": "Pica Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.16502,
         "longitude": -66.64515
     },
     {
-        "cityId": "7268906",
+        "cityId": 7268906,
         "name": "R\u00edo Grande Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.23004,
         "longitude": -66.57203
     },
     {
-        "cityId": "7268952",
+        "cityId": 7268952,
         "name": "Saliente Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.18013,
         "longitude": -66.5526
     },
     {
-        "cityId": "7269074",
+        "cityId": 7269074,
         "name": "Veguitas Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.19609,
         "longitude": -66.5872
     },
     {
-        "cityId": "7269092",
+        "cityId": 7269092,
         "name": "Zamas Barrio",
-        "stateId": "4565684",
+        "stateId": 4565684,
         "latitude": 18.18729,
         "longitude": -66.60507
     }

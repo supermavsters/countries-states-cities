@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3493033",
+        "cityId": 3493033,
         "name": "San Pedro de Macor\u00eds",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.46919,
         "longitude": -69.2894
     },
     {
-        "cityId": "3494065",
+        "cityId": 3494065,
         "name": "Ram\u00f3n Santana",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.5,
         "longitude": -69.16667
     },
     {
-        "cityId": "3498193",
+        "cityId": 3498193,
         "name": "Los Llanos",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.63333,
         "longitude": -69.5
     },
     {
-        "cityId": "11154560",
+        "cityId": 11154560,
         "name": "Consuelo",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.58446,
         "longitude": -69.2571
     },
     {
-        "cityId": "11154561",
+        "cityId": 11154561,
         "name": "Quisqueya",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.53884,
         "longitude": -69.4204
     },
     {
-        "cityId": "11154562",
+        "cityId": 11154562,
         "name": "Guayacanes",
-        "stateId": "3493031",
+        "stateId": 3493031,
         "latitude": 18.45063,
         "longitude": -69.43347
     }

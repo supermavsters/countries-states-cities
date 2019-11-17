@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7870325",
+        "cityId": 7870325,
         "name": "Basse-Banio Department",
-        "stateId": "2397141",
+        "stateId": 2397141,
         "latitude": -3.17,
         "longitude": 10.679
     },
     {
-        "cityId": "7870326",
+        "cityId": 7870326,
         "name": "Mougoutsi Department",
-        "stateId": "2397141",
+        "stateId": 2397141,
         "latitude": -2.974,
         "longitude": 11.237
     },
     {
-        "cityId": "7870411",
+        "cityId": 7870411,
         "name": "Haute-Banio Department",
-        "stateId": "2397141",
+        "stateId": 2397141,
         "latitude": -3.805,
         "longitude": 11.104
     }

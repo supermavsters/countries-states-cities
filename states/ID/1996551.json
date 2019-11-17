@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "8739779",
+        "cityId": 8739779,
         "name": "Kabupaten Lingga",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 0.2,
         "longitude": 104.61667
     },
     {
-        "cityId": "8740093",
+        "cityId": 8740093,
         "name": "Kabupaten Natuna",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 4.71417,
         "longitude": 107.97639
     },
     {
-        "cityId": "8740095",
+        "cityId": 8740095,
         "name": "Kabupaten Kepulauan Anambas",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 3,
         "longitude": 106
     },
     {
-        "cityId": "9034776",
+        "cityId": 9034776,
         "name": "Kabupaten Bintan",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 0.95,
         "longitude": 104.61944
     },
     {
-        "cityId": "9821909",
+        "cityId": 9821909,
         "name": "Kabupaten Karimun",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 0.80764,
         "longitude": 103.41911
     },
     {
-        "cityId": "9849917",
+        "cityId": 9849917,
         "name": "Kota Batam",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 1.05211,
         "longitude": 104.02851
     },
     {
-        "cityId": "9849940",
+        "cityId": 9849940,
         "name": "Kota Tanjung Pinang",
-        "stateId": "1996551",
+        "stateId": 1996551,
         "latitude": 0.91683,
         "longitude": 104.44329
     }

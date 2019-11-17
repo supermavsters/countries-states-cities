@@ -1,99 +1,99 @@
 [
     {
-        "stateId": "11205389",
+        "stateId": 11205389,
         "name": "Blowing Point",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.177,
         "longitude": -63.09161
     },
     {
-        "stateId": "11205433",
+        "stateId": 11205433,
         "name": "East End",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.234,
         "longitude": -62.99728
     },
     {
-        "stateId": "11205442",
+        "stateId": 11205442,
         "name": "George Hill",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.19943,
         "longitude": -63.06517
     },
     {
-        "stateId": "11205441",
+        "stateId": 11205441,
         "name": "Island Harbour",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.25617,
         "longitude": -63.00724
     },
     {
-        "stateId": "11205436",
+        "stateId": 11205436,
         "name": "North Hill",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.20603,
         "longitude": -63.07607
     },
     {
-        "stateId": "11205440",
+        "stateId": 11205440,
         "name": "North Side",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.22931,
         "longitude": -63.0468
     },
     {
-        "stateId": "11205392",
+        "stateId": 11205392,
         "name": "Sandy Ground",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.20399,
         "longitude": -63.08993
     },
     {
-        "stateId": "11205393",
+        "stateId": 11205393,
         "name": "Sandy Hill",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.22066,
         "longitude": -63.01178
     },
     {
-        "stateId": "11205438",
+        "stateId": 11205438,
         "name": "South Hill",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.19177,
         "longitude": -63.0898
     },
     {
-        "stateId": "11205443",
+        "stateId": 11205443,
         "name": "Stoney Ground",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.22112,
         "longitude": -63.04466
     },
     {
-        "stateId": "11205444",
+        "stateId": 11205444,
         "name": "The Farrington",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.21533,
         "longitude": -63.02123
     },
     {
-        "stateId": "11205439",
+        "stateId": 11205439,
         "name": "The Quarter",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.21158,
         "longitude": -63.04504
     },
     {
-        "stateId": "11205396",
+        "stateId": 11205396,
         "name": "The Valley",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.21475,
         "longitude": -63.05706
     },
     {
-        "stateId": "11205437",
+        "stateId": 11205437,
         "name": "West End",
-        "countryId": "3573511",
+        "countryId": 3573511,
         "latitude": 18.17138,
         "longitude": -63.15113
     }

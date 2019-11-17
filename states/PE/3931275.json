@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3929310",
+        "cityId": 3929310,
         "name": "San Roman",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -15.83333,
         "longitude": -70.5
     },
     {
-        "cityId": "3929739",
+        "cityId": 3929739,
         "name": "Provincia de Sandia",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -13.83333,
         "longitude": -69.33333
     },
     {
-        "cityId": "3931274",
+        "cityId": 3931274,
         "name": "Provincia de Puno",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -16,
         "longitude": -70
     },
     {
-        "cityId": "3935054",
+        "cityId": 3935054,
         "name": "Provincia de Melgar",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -14.75,
         "longitude": -70.75
     },
     {
-        "cityId": "3936995",
+        "cityId": 3936995,
         "name": "Provincia de Lampa",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -15.41667,
         "longitude": -70.58333
     },
     {
-        "cityId": "3939536",
+        "cityId": 3939536,
         "name": "Provincia de Huancan\u00e9",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -15.16667,
         "longitude": -69.58333
     },
     {
-        "cityId": "3943362",
+        "cityId": 3943362,
         "name": "Provincia de Chucuito",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -16.60545,
         "longitude": -69.35761
     },
     {
-        "cityId": "3945614",
+        "cityId": 3945614,
         "name": "Provincia de Carabaya",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -13.83333,
         "longitude": -70.25
     },
     {
-        "cityId": "3946936",
+        "cityId": 3946936,
         "name": "Provincia de Az\u00e1ngaro",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -14.83333,
         "longitude": -70.16667
     },
     {
-        "cityId": "8349570",
+        "cityId": 8349570,
         "name": "El Collao",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -16.72641,
         "longitude": -69.75515
     },
     {
-        "cityId": "8349571",
+        "cityId": 8349571,
         "name": "Moho",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -15.33508,
         "longitude": -69.3803
     },
     {
-        "cityId": "8349572",
+        "cityId": 8349572,
         "name": "San Antonio De Putina",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -14.71175,
         "longitude": -69.61559
     },
     {
-        "cityId": "8349573",
+        "cityId": 8349573,
         "name": "Yunguyo",
-        "stateId": "3931275",
+        "stateId": 3931275,
         "latitude": -16.30571,
         "longitude": -69.11787
     }

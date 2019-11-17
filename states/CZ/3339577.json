@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3063547",
+        "cityId": 3063547,
         "name": "Okres \u00dast\u00ed nad Labem",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.66667,
         "longitude": 14.05
     },
     {
-        "cityId": "3064287",
+        "cityId": 3064287,
         "name": "Okres Teplice",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.63333,
         "longitude": 13.83333
     },
     {
-        "cityId": "3070290",
+        "cityId": 3070290,
         "name": "Okres Most",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.55,
         "longitude": 13.63333
     },
     {
-        "cityId": "3071506",
+        "cityId": 3071506,
         "name": "Okres Louny",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.33333,
         "longitude": 13.66667
     },
     {
-        "cityId": "3071676",
+        "cityId": 3071676,
         "name": "Okres Litom\u011b\u0159ice",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.5,
         "longitude": 14.16667
     },
     {
-        "cityId": "3077243",
+        "cityId": 3077243,
         "name": "Okres D\u011b\u010d\u00edn",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.82905,
         "longitude": 14.34325
     },
     {
-        "cityId": "3077684",
+        "cityId": 3077684,
         "name": "Okres Chomutov",
-        "stateId": "3339577",
+        "stateId": 3339577,
         "latitude": 50.41667,
         "longitude": 13.33333
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3901175",
+        "cityId": 3901175,
         "name": "Provincia Yacuma",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -13.5,
         "longitude": -66
     },
     {
-        "cityId": "3901896",
+        "cityId": 3901896,
         "name": "Provincia Vaca Diez",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -11.66667,
         "longitude": -66
     },
     {
-        "cityId": "3909868",
+        "cityId": 3909868,
         "name": "Provincia Moxos",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -15.16667,
         "longitude": -65.5
     },
     {
-        "cityId": "3910725",
+        "cityId": 3910725,
         "name": "Provincia Marb\u00e1n",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -15.66667,
         "longitude": -64.33333
     },
     {
-        "cityId": "3910823",
+        "cityId": 3910823,
         "name": "Provincia Mamor\u00e9",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -13,
         "longitude": -64.91667
     },
     {
-        "cityId": "3913898",
+        "cityId": 3913898,
         "name": "Provincia It\u00e9nez",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -13.41667,
         "longitude": -63.5
     },
     {
-        "cityId": "3915596",
+        "cityId": 3915596,
         "name": "Provincia General Jos\u00e9 Ballivi\u00e1n",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -14,
         "longitude": -67.08333
     },
     {
-        "cityId": "3921631",
+        "cityId": 3921631,
         "name": "Provincia Cercado",
-        "stateId": "3923172",
+        "stateId": 3923172,
         "latitude": -14.5,
         "longitude": -64.33333
     }

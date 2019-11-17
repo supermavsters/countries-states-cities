@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2355914",
+        "cityId": 2355914,
         "name": "Province du Sanmatenga",
-        "stateId": "6930706",
+        "stateId": 6930706,
         "latitude": 13.25,
         "longitude": -1.08333
     },
     {
-        "cityId": "2357611",
+        "cityId": 2357611,
         "name": "Province du Namentenga",
-        "stateId": "6930706",
+        "stateId": 6930706,
         "latitude": 13.25,
         "longitude": -0.5
     },
     {
-        "cityId": "2362973",
+        "cityId": 2362973,
         "name": "Province du Bam",
-        "stateId": "6930706",
+        "stateId": 6930706,
         "latitude": 13.46667,
         "longitude": -1.58333
     }

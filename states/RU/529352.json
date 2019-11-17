@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "461915",
+        "cityId": 461915,
         "name": "Zvenigovskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.25,
         "longitude": 47.75
     },
     {
-        "cityId": "466404",
+        "cityId": 466404,
         "name": "Yurinskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.3,
         "longitude": 46.3
     },
     {
-        "cityId": "472225",
+        "cityId": 472225,
         "name": "Volzhskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.08333,
         "longitude": 48.58333
     },
     {
-        "cityId": "490024",
+        "cityId": 490024,
         "name": "Sovetskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.66667,
         "longitude": 48.5
     },
     {
-        "cityId": "496560",
+        "cityId": 496560,
         "name": "Sernurskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 57,
         "longitude": 49.25
     },
     {
-        "cityId": "512616",
+        "cityId": 512616,
         "name": "Paran\u2019ginskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.66667,
         "longitude": 49.41667
     },
     {
-        "cityId": "514738",
+        "cityId": 514738,
         "name": "Orshanskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.91667,
         "longitude": 47.91667
     },
     {
-        "cityId": "517838",
+        "cityId": 517838,
         "name": "Novotor\u201dyal\u2019skiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 57.08333,
         "longitude": 48.66667
     },
     {
-        "cityId": "525261",
+        "cityId": 525261,
         "name": "Morkinskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.5,
         "longitude": 49
     },
     {
-        "cityId": "528033",
+        "cityId": 528033,
         "name": "Medvedevskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.66667,
         "longitude": 47.75
     },
     {
-        "cityId": "529194",
+        "cityId": 529194,
         "name": "Mari-Turekskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.75,
         "longitude": 49.83333
     },
     {
-        "cityId": "537938",
+        "cityId": 537938,
         "name": "Kuzhenerskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.75,
         "longitude": 49
     },
     {
-        "cityId": "548716",
+        "cityId": 548716,
         "name": "Kilemarskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.75,
         "longitude": 46.91667
     },
     {
-        "cityId": "559774",
+        "cityId": 559774,
         "name": "Gornomariyskiy Rayon",
-        "stateId": "529352",
+        "stateId": 529352,
         "latitude": 56.41667,
         "longitude": 46.75
     }

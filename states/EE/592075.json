@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "862989",
+        "cityId": 862989,
         "name": "Kohtla-J\u00e4rve linn",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.39535,
         "longitude": 27.28111
     },
     {
-        "cityId": "862990",
+        "cityId": 862990,
         "name": "Narva linn",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.36955,
         "longitude": 28.11022
     },
     {
-        "cityId": "862994",
+        "cityId": 862994,
         "name": "Sillam\u00e4e linn",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.39562,
         "longitude": 27.76417
     },
     {
-        "cityId": "7522286",
+        "cityId": 7522286,
         "name": "J\u00f5hvi vald",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.35653,
         "longitude": 27.39304
     },
     {
-        "cityId": "7522335",
+        "cityId": 7522335,
         "name": "L\u00fcganuse vald",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.39262,
         "longitude": 27.07641
     },
     {
-        "cityId": "7522358",
+        "cityId": 7522358,
         "name": "Narva-J\u00f5esuu linn",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.44127,
         "longitude": 28.02142
     },
     {
-        "cityId": "7522469",
+        "cityId": 7522469,
         "name": "Toila vald",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.34821,
         "longitude": 27.56263
     },
     {
-        "cityId": "11776879",
+        "cityId": 11776879,
         "name": "Alutaguse vald",
-        "stateId": "592075",
+        "stateId": 592075,
         "latitude": 59.13787,
         "longitude": 27.3839
     }

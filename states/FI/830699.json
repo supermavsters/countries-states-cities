@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9610692",
+        "cityId": 9610692,
         "name": "Lappeenranta",
-        "stateId": "830699",
+        "stateId": 830699,
         "latitude": 61.03804,
         "longitude": 27.91635
     },
     {
-        "cityId": "9610693",
+        "cityId": 9610693,
         "name": "Imatra",
-        "stateId": "830699",
+        "stateId": 830699,
         "latitude": 61.44702,
         "longitude": 29.14693
     }

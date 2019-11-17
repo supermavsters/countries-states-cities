@@ -1,449 +1,449 @@
 [
     {
-        "cityId": "4314344",
+        "cityId": 4314344,
         "name": "Acadia Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.29053,
         "longitude": -92.41198
     },
     {
-        "cityId": "4314607",
+        "cityId": 4314607,
         "name": "Allen Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.65287,
         "longitude": -92.82788
     },
     {
-        "cityId": "4315067",
+        "cityId": 4315067,
         "name": "Ascension Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.20354,
         "longitude": -90.91129
     },
     {
-        "cityId": "4315120",
+        "cityId": 4315120,
         "name": "Assumption Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.90077,
         "longitude": -91.06259
     },
     {
-        "cityId": "4315243",
+        "cityId": 4315243,
         "name": "Avoyelles Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.07624,
         "longitude": -92.00138
     },
     {
-        "cityId": "4316112",
+        "cityId": 4316112,
         "name": "Beauregard Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.64847,
         "longitude": -93.34334
     },
     {
-        "cityId": "4316721",
+        "cityId": 4316721,
         "name": "Bienville Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.34722,
         "longitude": -93.05595
     },
     {
-        "cityId": "4317649",
+        "cityId": 4317649,
         "name": "Bossier Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.67899,
         "longitude": -93.605
     },
     {
-        "cityId": "4318532",
+        "cityId": 4318532,
         "name": "Caddo Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.58017,
         "longitude": -93.88235
     },
     {
-        "cityId": "4318583",
+        "cityId": 4318583,
         "name": "Calcasieu Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.22922,
         "longitude": -93.35795
     },
     {
-        "cityId": "4318597",
+        "cityId": 4318597,
         "name": "Caldwell Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.09227,
         "longitude": -92.11661
     },
     {
-        "cityId": "4318690",
+        "cityId": 4318690,
         "name": "Cameron Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.84687,
         "longitude": -93.1989
     },
     {
-        "cityId": "4319276",
+        "cityId": 4319276,
         "name": "Catahoula Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.66617,
         "longitude": -91.84707
     },
     {
-        "cityId": "4320117",
+        "cityId": 4320117,
         "name": "Claiborne Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.82269,
         "longitude": -92.99573
     },
     {
-        "cityId": "4320594",
+        "cityId": 4320594,
         "name": "Concordia Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.44584,
         "longitude": -91.64006
     },
     {
-        "cityId": "4321759",
+        "cityId": 4321759,
         "name": "De Soto Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.05545,
         "longitude": -93.73728
     },
     {
-        "cityId": "4323288",
+        "cityId": 4323288,
         "name": "East Baton Rouge Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.53824,
         "longitude": -91.09562
     },
     {
-        "cityId": "4323316",
+        "cityId": 4323316,
         "name": "East Carroll Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.73255,
         "longitude": -91.23507
     },
     {
-        "cityId": "4323332",
+        "cityId": 4323332,
         "name": "East Feliciana Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.84507,
         "longitude": -91.04554
     },
     {
-        "cityId": "4323933",
+        "cityId": 4323933,
         "name": "Evangeline Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.72894,
         "longitude": -92.4059
     },
     {
-        "cityId": "4325158",
+        "cityId": 4325158,
         "name": "Franklin Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.13322,
         "longitude": -91.67377
     },
     {
-        "cityId": "4326254",
+        "cityId": 4326254,
         "name": "Grant Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.5997,
         "longitude": -92.55952
     },
     {
-        "cityId": "4328254",
+        "cityId": 4328254,
         "name": "Iberia Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.51353,
         "longitude": -91.83964
     },
     {
-        "cityId": "4328261",
+        "cityId": 4328261,
         "name": "Iberville Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.2585,
         "longitude": -91.34936
     },
     {
-        "cityId": "4328854",
+        "cityId": 4328854,
         "name": "Jackson Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.30203,
         "longitude": -92.55774
     },
     {
-        "cityId": "4328965",
+        "cityId": 4328965,
         "name": "Jefferson Davis Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.26772,
         "longitude": -92.81412
     },
     {
-        "cityId": "4328978",
+        "cityId": 4328978,
         "name": "Jefferson Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.68097,
         "longitude": -90.09798
     },
     {
-        "cityId": "4330078",
+        "cityId": 4330078,
         "name": "La Salle Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.67673,
         "longitude": -92.16044
     },
     {
-        "cityId": "4330160",
+        "cityId": 4330160,
         "name": "Lafayette Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.20677,
         "longitude": -92.06388
     },
     {
-        "cityId": "4330185",
+        "cityId": 4330185,
         "name": "Lafourche Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.50033,
         "longitude": -90.40259
     },
     {
-        "cityId": "4330983",
+        "cityId": 4330983,
         "name": "Lincoln Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.60164,
         "longitude": -92.66482
     },
     {
-        "cityId": "4331488",
+        "cityId": 4331488,
         "name": "Livingston Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.44014,
         "longitude": -90.72791
     },
     {
-        "cityId": "4332258",
+        "cityId": 4332258,
         "name": "Madison Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.3644,
         "longitude": -91.24258
     },
     {
-        "cityId": "4333789",
+        "cityId": 4333789,
         "name": "Morehouse Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.82022,
         "longitude": -91.8018
     },
     {
-        "cityId": "4334734",
+        "cityId": 4334734,
         "name": "Natchitoches Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.72354,
         "longitude": -93.09624
     },
     {
-        "cityId": "4336191",
+        "cityId": 4336191,
         "name": "Orleans Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.06864,
         "longitude": -89.92813
     },
     {
-        "cityId": "4336232",
+        "cityId": 4336232,
         "name": "Ouachita Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.47831,
         "longitude": -92.15487
     },
     {
-        "cityId": "4337452",
+        "cityId": 4337452,
         "name": "Plaquemines Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.38066,
         "longitude": -89.48191
     },
     {
-        "cityId": "4337708",
+        "cityId": 4337708,
         "name": "Pointe Coupee Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.7094,
         "longitude": -91.60079
     },
     {
-        "cityId": "4338356",
+        "cityId": 4338356,
         "name": "Rapides Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.19862,
         "longitude": -92.5332
     },
     {
-        "cityId": "4338489",
+        "cityId": 4338489,
         "name": "Red River Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.09315,
         "longitude": -93.33988
     },
     {
-        "cityId": "4338711",
+        "cityId": 4338711,
         "name": "Richland Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.41779,
         "longitude": -91.76349
     },
     {
-        "cityId": "4339354",
+        "cityId": 4339354,
         "name": "Sabine Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.56401,
         "longitude": -93.5547
     },
     {
-        "cityId": "4339526",
+        "cityId": 4339526,
         "name": "Saint Bernard Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.87399,
         "longitude": -89.82422
     },
     {
-        "cityId": "4339583",
+        "cityId": 4339583,
         "name": "Saint Charles Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.90553,
         "longitude": -90.35822
     },
     {
-        "cityId": "4339724",
+        "cityId": 4339724,
         "name": "Saint Helena Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.82198,
         "longitude": -90.71032
     },
     {
-        "cityId": "4339793",
+        "cityId": 4339793,
         "name": "Saint James Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.0263,
         "longitude": -90.79632
     },
     {
-        "cityId": "4339881",
+        "cityId": 4339881,
         "name": "Saint John the Baptist Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.12646,
         "longitude": -90.47088
     },
     {
-        "cityId": "4340045",
+        "cityId": 4340045,
         "name": "Saint Landry Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.59885,
         "longitude": -92.00586
     },
     {
-        "cityId": "4340186",
+        "cityId": 4340186,
         "name": "Saint Martin Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.12907,
         "longitude": -91.6083
     },
     {
-        "cityId": "4340232",
+        "cityId": 4340232,
         "name": "Saint Mary Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.63462,
         "longitude": -91.47293
     },
     {
-        "cityId": "4340579",
+        "cityId": 4340579,
         "name": "Saint Tammany Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.40875,
         "longitude": -89.95393
     },
     {
-        "cityId": "4343122",
+        "cityId": 4343122,
         "name": "Tangipahoa Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.62665,
         "longitude": -90.40568
     },
     {
-        "cityId": "4343280",
+        "cityId": 4343280,
         "name": "Tensas Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.00166,
         "longitude": -91.34007
     },
     {
-        "cityId": "4343313",
+        "cityId": 4343313,
         "name": "Terrebonne Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.33744,
         "longitude": -90.83764
     },
     {
-        "cityId": "4344274",
+        "cityId": 4344274,
         "name": "Union Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.8319,
         "longitude": -92.37482
     },
     {
-        "cityId": "4344530",
+        "cityId": 4344530,
         "name": "Vermilion Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 29.80939,
         "longitude": -92.30428
     },
     {
-        "cityId": "4344544",
+        "cityId": 4344544,
         "name": "Vernon Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.10829,
         "longitude": -93.18415
     },
     {
-        "cityId": "4345509",
+        "cityId": 4345509,
         "name": "Washington Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.85334,
         "longitude": -90.04052
     },
     {
-        "cityId": "4345618",
+        "cityId": 4345618,
         "name": "Webster Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.71345,
         "longitude": -93.33498
     },
     {
-        "cityId": "4345713",
+        "cityId": 4345713,
         "name": "West Baton Rouge Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.46341,
         "longitude": -91.31275
     },
     {
-        "cityId": "4345740",
+        "cityId": 4345740,
         "name": "West Carroll Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 32.78856,
         "longitude": -91.45674
     },
     {
-        "cityId": "4345778",
+        "cityId": 4345778,
         "name": "West Feliciana Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 30.87977,
         "longitude": -91.42003
     },
     {
-        "cityId": "4346451",
+        "cityId": 4346451,
         "name": "Winn Parish",
-        "stateId": "4331987",
+        "stateId": 4331987,
         "latitude": 31.94425,
         "longitude": -92.63677
     }

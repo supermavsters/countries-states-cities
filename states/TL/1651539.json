@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "8628963",
+        "cityId": 8628963,
         "name": "Nitibe",
-        "stateId": "1651539",
+        "stateId": 1651539,
         "latitude": -9.34796,
         "longitude": 124.23333
     },
     {
-        "cityId": "8628964",
+        "cityId": 8628964,
         "name": "Passabe",
-        "stateId": "1651539",
+        "stateId": 1651539,
         "latitude": -9.46701,
         "longitude": 124.34978
     },
     {
-        "cityId": "8628965",
+        "cityId": 8628965,
         "name": "Oesilo",
-        "stateId": "1651539",
+        "stateId": 1651539,
         "latitude": -9.36667,
         "longitude": 124.35
     },
     {
-        "cityId": "8629270",
+        "cityId": 8629270,
         "name": "Pante Makasar",
-        "stateId": "1651539",
+        "stateId": 1651539,
         "latitude": -9.20022,
         "longitude": 124.38081
     }

@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1624750",
+        "cityId": 1624750,
         "name": "Kabupaten Tapin",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -2.91667,
         "longitude": 115.03333
     },
     {
-        "cityId": "1625166",
+        "cityId": 1625166,
         "name": "Kabupaten Tanah Laut",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.88333,
         "longitude": 114.86667
     },
     {
-        "cityId": "1625714",
+        "cityId": 1625714,
         "name": "Kabupaten Tabalong",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -1.88333,
         "longitude": 115.5
     },
     {
-        "cityId": "1639532",
+        "cityId": 1639532,
         "name": "Kabupaten Kota Baru",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3,
         "longitude": 116
     },
     {
-        "cityId": "1643244",
+        "cityId": 1643244,
         "name": "Kabupaten Hulu Sungai Utara",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -2.45,
         "longitude": 115.13333
     },
     {
-        "cityId": "1643245",
+        "cityId": 1643245,
         "name": "Kabupaten Hulu Sungai Tengah",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -2.61667,
         "longitude": 115.41667
     },
     {
-        "cityId": "1643246",
+        "cityId": 1643246,
         "name": "Kabupaten Hulu Sungai Selatan",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -2.75,
         "longitude": 115.2
     },
     {
-        "cityId": "1649992",
+        "cityId": 1649992,
         "name": "Kabupaten Barito Kuala",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.08333,
         "longitude": 114.61667
     },
     {
-        "cityId": "1650211",
+        "cityId": 1650211,
         "name": "Kota Banjarmasin",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.32444,
         "longitude": 114.59102
     },
     {
-        "cityId": "1650216",
+        "cityId": 1650216,
         "name": "Kota Banjar Baru",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.41667,
         "longitude": 114.83333
     },
     {
-        "cityId": "1650231",
+        "cityId": 1650231,
         "name": "Kabupaten Banjar",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.31667,
         "longitude": 115.08333
     },
     {
-        "cityId": "9165684",
+        "cityId": 9165684,
         "name": "Kabupaten Balangan",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -2.32314,
         "longitude": 115.62922
     },
     {
-        "cityId": "9780988",
+        "cityId": 9780988,
         "name": "Kabupaten Tanah Bumbu",
-        "stateId": "1641899",
+        "stateId": 1641899,
         "latitude": -3.45413,
         "longitude": 115.70372
     }

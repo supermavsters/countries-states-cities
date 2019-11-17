@@ -1,246 +1,246 @@
 [
     {
-        "cityId": "1621430",
+        "cityId": 1621430,
         "name": "Kabupaten Wonogiri",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.91667,
         "longitude": 111
     },
     {
-        "cityId": "1624237",
+        "cityId": 1624237,
         "name": "Kabupaten Temanggung",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.25,
         "longitude": 110.11667
     },
     {
-        "cityId": "1624493",
+        "cityId": 1624493,
         "name": "Kabupaten Tegal",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.03333,
         "longitude": 109.16667
     },
     {
-        "cityId": "1625811",
+        "cityId": 1625811,
         "name": "Kota Surakarta",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.55,
         "longitude": 110.81667
     },
     {
-        "cityId": "1626271",
+        "cityId": 1626271,
         "name": "Kabupaten Sukoharjo",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.68333,
         "longitude": 110.83333
     },
     {
-        "cityId": "1627893",
+        "cityId": 1627893,
         "name": "Kota Semarang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.03333,
         "longitude": 110.38333
     },
     {
-        "cityId": "1629746",
+        "cityId": 1629746,
         "name": "Kabupaten Rembang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.78333,
         "longitude": 111.46667
     },
     {
-        "cityId": "1630324",
+        "cityId": 1630324,
         "name": "Kabupaten Purworejo",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.7,
         "longitude": 109.96667
     },
     {
-        "cityId": "1631647",
+        "cityId": 1631647,
         "name": "Kabupaten Pemalang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.03333,
         "longitude": 109.4
     },
     {
-        "cityId": "1631763",
+        "cityId": 1631763,
         "name": "Kota Pekalongan",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.9,
         "longitude": 109.68333
     },
     {
-        "cityId": "1631990",
+        "cityId": 1631990,
         "name": "Kabupaten Pati",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.76667,
         "longitude": 111.1
     },
     {
-        "cityId": "1636882",
+        "cityId": 1636882,
         "name": "Kota Magelang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.5,
         "longitude": 110.225
     },
     {
-        "cityId": "1639214",
+        "cityId": 1639214,
         "name": "Kabupaten Kudus",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.8,
         "longitude": 110.86667
     },
     {
-        "cityId": "1639899",
+        "cityId": 1639899,
         "name": "Kabupaten Klaten",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.68333,
         "longitude": 110.61667
     },
     {
-        "cityId": "1642545",
+        "cityId": 1642545,
         "name": "Kabupaten Jepara",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.58333,
         "longitude": 110.76667
     },
     {
-        "cityId": "1643768",
+        "cityId": 1643768,
         "name": "Kabupaten Grobogan",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.11667,
         "longitude": 110.91667
     },
     {
-        "cityId": "1648064",
+        "cityId": 1648064,
         "name": "Kabupaten Brebes",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.05,
         "longitude": 108.9
     },
     {
-        "cityId": "1648083",
+        "cityId": 1648083,
         "name": "Kabupaten Boyolali",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.5,
         "longitude": 110.7
     },
     {
-        "cityId": "1648567",
+        "cityId": 1648567,
         "name": "Kabupaten Blora",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.06667,
         "longitude": 111.38333
     },
     {
-        "cityId": "1649879",
+        "cityId": 1649879,
         "name": "Kabupaten Batang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.03333,
         "longitude": 109.88333
     },
     {
-        "cityId": "1650094",
+        "cityId": 1650094,
         "name": "Kabupaten Banyumas",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.45,
         "longitude": 109.16667
     },
     {
-        "cityId": "6199035",
+        "cityId": 6199035,
         "name": "Kabupaten Magelang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.4275,
         "longitude": 110.16194
     },
     {
-        "cityId": "6257933",
+        "cityId": 6257933,
         "name": "Kota Salatiga",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.33278,
         "longitude": 110.48333
     },
     {
-        "cityId": "6266177",
+        "cityId": 6266177,
         "name": "Kabupaten Sragen",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.41278,
         "longitude": 110.935
     },
     {
-        "cityId": "6376498",
+        "cityId": 6376498,
         "name": "Kabupaten Kebumen",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.63917,
         "longitude": 109.66056
     },
     {
-        "cityId": "6380795",
+        "cityId": 6380795,
         "name": "Kabupaten Banjarnegara",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.35111,
         "longitude": 109.5875
     },
     {
-        "cityId": "6384572",
+        "cityId": 6384572,
         "name": "Kabupaten Cilacap",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.57417,
         "longitude": 108.98861
     },
     {
-        "cityId": "6390578",
+        "cityId": 6390578,
         "name": "Kabupaten Purbalingga",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.28417,
         "longitude": 109.35028
     },
     {
-        "cityId": "6405140",
+        "cityId": 6405140,
         "name": "Kabupaten Wonosobo",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.36139,
         "longitude": 109.92667
     },
     {
-        "cityId": "6410701",
+        "cityId": 6410701,
         "name": "Kabupaten Semarang",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.20667,
         "longitude": 110.44139
     },
     {
-        "cityId": "6560140",
+        "cityId": 6560140,
         "name": "Kabupaten Karanganyar",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.62806,
         "longitude": 111.0625
     },
     {
-        "cityId": "6739766",
+        "cityId": 6739766,
         "name": "Kabupaten Demak",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.8993,
         "longitude": 110.6122
     },
     {
-        "cityId": "6745680",
+        "cityId": 6745680,
         "name": "Kabupaten Kendal",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.0256,
         "longitude": 110.1685
     },
     {
-        "cityId": "6769512",
+        "cityId": 6769512,
         "name": "Kota Tegal",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -6.8686,
         "longitude": 109.1129
     },
     {
-        "cityId": "6792336",
+        "cityId": 6792336,
         "name": "Kabupaten Pekalongan",
-        "stateId": "1642669",
+        "stateId": 1642669,
         "latitude": -7.0319,
         "longitude": 109.624
     }

@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "3691174",
+        "cityId": 3691174,
         "name": "Provincia de Trujillo",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -8.08333,
         "longitude": -78.91667
     },
     {
-        "cityId": "3692071",
+        "cityId": 3692071,
         "name": "Provincia de Santiago de Chuco",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -8.33333,
         "longitude": -78.25
     },
     {
-        "cityId": "3693821",
+        "cityId": 3693821,
         "name": "Provincia de Pataz",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -8.25,
         "longitude": -77.33333
     },
     {
-        "cityId": "3694175",
+        "cityId": 3694175,
         "name": "Provincia de Pacasmayo",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.25,
         "longitude": -79.5
     },
     {
-        "cityId": "3694211",
+        "cityId": 3694211,
         "name": "Provincia de Otuzco",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.90457,
         "longitude": -78.56362
     },
     {
-        "cityId": "3699282",
+        "cityId": 3699282,
         "name": "Provincia de Bol\u00edvar",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.33333,
         "longitude": -77.75
     },
     {
-        "cityId": "7807970",
+        "cityId": 7807970,
         "name": "Sanchez Carrion",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.78538,
         "longitude": -77.92586
     },
     {
-        "cityId": "8349559",
+        "cityId": 8349559,
         "name": "Ascope",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.72414,
         "longitude": -79.15151
     },
     {
-        "cityId": "8349560",
+        "cityId": 8349560,
         "name": "Chepen",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.14367,
         "longitude": -79.45674
     },
     {
-        "cityId": "8349561",
+        "cityId": 8349561,
         "name": "Julcan",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -8.17238,
         "longitude": -78.46356
     },
     {
-        "cityId": "8349562",
+        "cityId": 8349562,
         "name": "Gran Chimu",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -7.57976,
         "longitude": -78.64718
     },
     {
-        "cityId": "8349563",
+        "cityId": 8349563,
         "name": "Viru",
-        "stateId": "3695781",
+        "stateId": 3695781,
         "latitude": -8.52199,
         "longitude": -78.60355
     }

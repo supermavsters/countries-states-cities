@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "449425",
+        "cityId": 449425,
         "name": "Shahrest\u0101n-e \u0100z\u0304arshahr",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.75001,
         "longitude": 45.83334
     },
     {
-        "cityId": "449426",
+        "cityId": 449426,
         "name": "Shahrest\u0101n-e Osk\u016b",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.95005,
         "longitude": 45.8834
     },
     {
-        "cityId": "449427",
+        "cityId": 449427,
         "name": "Ahar",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.53343,
         "longitude": 47.28337
     },
     {
-        "cityId": "449428",
+        "cityId": 449428,
         "name": "Shahrest\u0101n-e Bost\u0101n\u0101b\u0101d",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.83333,
         "longitude": 46.83333
     },
     {
-        "cityId": "449429",
+        "cityId": 449429,
         "name": "Shahrest\u0101n-e Bon\u0101b",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.33338,
         "longitude": 46.00009
     },
     {
-        "cityId": "449430",
+        "cityId": 449430,
         "name": "Shahrest\u0101n-e Tabr\u012bz",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.08333,
         "longitude": 46.28333
     },
     {
-        "cityId": "449431",
+        "cityId": 449431,
         "name": "Shahrest\u0101n-e Jolf\u0101",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.83343,
         "longitude": 45.9168
     },
     {
-        "cityId": "449432",
+        "cityId": 449432,
         "name": "Shahrest\u0101n-e Ch\u0101r\u0101v\u012bm\u0101q",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.10012,
         "longitude": 47.0668
     },
     {
-        "cityId": "449434",
+        "cityId": 449434,
         "name": "Shabestar",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.2,
         "longitude": 45.73333
     },
     {
-        "cityId": "449435",
+        "cityId": 449435,
         "name": "Shahrest\u0101n-e \u2018Ajab Sh\u012br",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.50002,
         "longitude": 45.83342
     },
     {
-        "cityId": "449436",
+        "cityId": 449436,
         "name": "Kaleybar",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.9,
         "longitude": 47.05
     },
     {
-        "cityId": "449437",
+        "cityId": 449437,
         "name": "Shahrest\u0101n-e Mar\u0101gheh",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.38061,
         "longitude": 46.39372
     },
     {
-        "cityId": "449438",
+        "cityId": 449438,
         "name": "Marand",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.58334,
         "longitude": 45.63336
     },
     {
-        "cityId": "449439",
+        "cityId": 449439,
         "name": "Shahrest\u0101n-e Malek\u0101n",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.13338,
         "longitude": 46.21667
     },
     {
-        "cityId": "449440",
+        "cityId": 449440,
         "name": "Shahrest\u0101n-e M\u012b\u0101neh",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.41667,
         "longitude": 47.7
     },
     {
-        "cityId": "449441",
+        "cityId": 449441,
         "name": "Shahrest\u0101n-e Her\u012bs",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.23058,
         "longitude": 46.84011
     },
     {
-        "cityId": "449442",
+        "cityId": 449442,
         "name": "Shahrest\u0101n-e Varzaq\u0101n",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 38.59492,
         "longitude": 46.46397
     },
     {
-        "cityId": "449443",
+        "cityId": 449443,
         "name": "Shahrest\u0101n-e Hashtr\u016bd",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.4667,
         "longitude": 46.9168
     },
     {
-        "cityId": "8620951",
+        "cityId": 8620951,
         "name": "Shahrest\u0101n-e Sar\u0101b",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 37.9834,
         "longitude": 47.46679
     },
     {
-        "cityId": "9517647",
+        "cityId": 9517647,
         "name": "Shahrest\u0101n-e Khod\u0101 \u0100far\u012bn",
-        "stateId": "142549",
+        "stateId": 142549,
         "latitude": 39.06667,
         "longitude": 46.95
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "8632505",
+        "cityId": 8632505,
         "name": "Amasra \u0130l\u00e7esi",
-        "stateId": "862467",
+        "stateId": 862467,
         "latitude": 41.73791,
         "longitude": 32.39455
     },
     {
-        "cityId": "8632506",
+        "cityId": 8632506,
         "name": "Ulus \u0130l\u00e7esi",
-        "stateId": "862467",
+        "stateId": 862467,
         "latitude": 41.59373,
         "longitude": 32.65066
     },
     {
-        "cityId": "8632507",
+        "cityId": 8632507,
         "name": "Kuruca\u015file \u0130l\u00e7esi",
-        "stateId": "862467",
+        "stateId": 862467,
         "latitude": 41.8288,
         "longitude": 32.71937
     }

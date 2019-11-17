@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "2039045",
+        "cityId": 2039045,
         "name": "Yongnim-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.53083,
         "longitude": 126.78194
     },
     {
-        "cityId": "2039456",
+        "cityId": 2039456,
         "name": "Wiw\u014fn-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.7975,
         "longitude": 126.17028
     },
     {
-        "cityId": "2039499",
+        "cityId": 2039499,
         "name": "Usi-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.6025,
         "longitude": 125.64611
     },
     {
-        "cityId": "2039727",
+        "cityId": 2039727,
         "name": "Tongsin-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.28194,
         "longitude": 126.5325
     },
     {
-        "cityId": "2040482",
+        "cityId": 2040482,
         "name": "Songw\u014fn-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.35472,
         "longitude": 125.93806
     },
     {
-        "cityId": "2040630",
+        "cityId": 2040630,
         "name": "S\u014fnggan-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.76479,
         "longitude": 126.67777
     },
     {
-        "cityId": "2041138",
+        "cityId": 2041138,
         "name": "Sijung-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.02306,
         "longitude": 126.36556
     },
     {
-        "cityId": "2042491",
+        "cityId": 2042491,
         "name": "Nangnim-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.83333,
         "longitude": 127.16667
     },
     {
-        "cityId": "2042891",
+        "cityId": 2042891,
         "name": "Manp\u2019o-si",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.16667,
         "longitude": 126.33333
     },
     {
-        "cityId": "2043336",
+        "cityId": 2043336,
         "name": "Kop\u2019ung-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.56444,
         "longitude": 125.91778
     },
     {
-        "cityId": "2043568",
+        "cityId": 2043568,
         "name": "Kanggye-si",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.96194,
         "longitude": 126.54778
     },
     {
-        "cityId": "2043879",
+        "cityId": 2043879,
         "name": "Hwap\u2019y\u014fng-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.25,
         "longitude": 126.91667
     },
     {
-        "cityId": "2044013",
+        "cityId": 2044013,
         "name": "H\u016dich\u2019\u014fn-si",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.15972,
         "longitude": 126.24167
     },
     {
-        "cityId": "2044491",
+        "cityId": 2044491,
         "name": "Chunggang-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.65472,
         "longitude": 126.895
     },
     {
-        "cityId": "2044602",
+        "cityId": 2044602,
         "name": "Ch\u2019osan-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.75,
         "longitude": 125.83333
     },
     {
-        "cityId": "2044803",
+        "cityId": 2044803,
         "name": "Ch\u014fnch\u2019\u014fn-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 40.55833,
         "longitude": 126.38111
     },
     {
-        "cityId": "2045006",
+        "cityId": 2045006,
         "name": "Chas\u014fng-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.41667,
         "longitude": 126.66667
     },
     {
-        "cityId": "2045178",
+        "cityId": 2045178,
         "name": "Changgang-gun",
-        "stateId": "2045265",
+        "stateId": 2045265,
         "latitude": 41.06333,
         "longitude": 126.72556
     }

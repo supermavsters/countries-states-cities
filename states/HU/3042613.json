@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "9644167",
+        "cityId": 9644167,
         "name": "Zalaegerszegi J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.8,
         "longitude": 16.83
     },
     {
-        "cityId": "9644168",
+        "cityId": 9644168,
         "name": "Lenti J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.65649,
         "longitude": 16.57443
     },
     {
-        "cityId": "9644169",
+        "cityId": 9644169,
         "name": "Letenyei J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.50552,
         "longitude": 16.76503
     },
     {
-        "cityId": "9644170",
+        "cityId": 9644170,
         "name": "Zalaszentgr\u00f3ti J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.9207,
         "longitude": 17.10095
     },
     {
-        "cityId": "9644171",
+        "cityId": 9644171,
         "name": "Keszthelyi J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.78356,
         "longitude": 17.22381
     },
     {
-        "cityId": "9644172",
+        "cityId": 9644172,
         "name": "Nagykanizsai J\u00e1r\u00e1s",
-        "stateId": "3042613",
+        "stateId": 3042613,
         "latitude": 46.51873,
         "longitude": 17.04433
     }

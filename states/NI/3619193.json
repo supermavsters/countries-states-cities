@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3616647",
+        "cityId": 3616647,
         "name": "Municipio de San Nicol\u00e1s",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 12.93447,
         "longitude": -86.34717
     },
     {
-        "cityId": "3616731",
+        "cityId": 3616731,
         "name": "Municipio de San Juan de Limay",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 13.21667,
         "longitude": -86.5
     },
     {
-        "cityId": "3617161",
+        "cityId": 3617161,
         "name": "Municipio de Pueblo Nuevo",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 13.38333,
         "longitude": -86.46667
     },
     {
-        "cityId": "3618085",
+        "cityId": 3618085,
         "name": "Municipio de La Trinidad",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 13,
         "longitude": -86.16667
     },
     {
-        "cityId": "3619191",
+        "cityId": 3619191,
         "name": "Municipio de Estel\u00ed",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 13.16667,
         "longitude": -86.33333
     },
     {
-        "cityId": "3620297",
+        "cityId": 3620297,
         "name": "Municipio de Condega",
-        "stateId": "3619193",
+        "stateId": 3619193,
         "latitude": 13.33333,
         "longitude": -86.33333
     }

@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "7647499",
+        "cityId": 7647499,
         "name": "Pru",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 8.04451,
         "longitude": -1.2891
     },
     {
-        "cityId": "7647500",
+        "cityId": 7647500,
         "name": "Sene",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.61119,
         "longitude": -0.45024
     },
     {
-        "cityId": "7647503",
+        "cityId": 7647503,
         "name": "Nkoranza North District",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.685,
         "longitude": -1.6618
     },
     {
-        "cityId": "7648947",
+        "cityId": 7648947,
         "name": "Asunafo North",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 6.81568,
         "longitude": -2.69478
     },
     {
-        "cityId": "7648948",
+        "cityId": 7648948,
         "name": "Asunafo South",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 6.68333,
         "longitude": -2.45
     },
     {
-        "cityId": "7648950",
+        "cityId": 7648950,
         "name": "Asutifi",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 6.96667,
         "longitude": -2.38333
     },
     {
-        "cityId": "7648958",
+        "cityId": 7648958,
         "name": "Berekum",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.45,
         "longitude": -2.58333
     },
     {
-        "cityId": "7648972",
+        "cityId": 7648972,
         "name": "Dormaa",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.28333,
         "longitude": -2.88333
     },
     {
-        "cityId": "7648973",
+        "cityId": 7648973,
         "name": "Dormaa East new",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.3,
         "longitude": -2.7
     },
     {
-        "cityId": "7648986",
+        "cityId": 7648986,
         "name": "Jaman North",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.95,
         "longitude": -2.7
     },
     {
-        "cityId": "7648987",
+        "cityId": 7648987,
         "name": "Jaman South",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.58365,
         "longitude": -2.78684
     },
     {
-        "cityId": "7648996",
+        "cityId": 7648996,
         "name": "Kintampo North Municipal District",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 8.303,
         "longitude": -1.567
     },
     {
-        "cityId": "7648997",
+        "cityId": 7648997,
         "name": "Kintampo South District",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.9,
         "longitude": -1.76667
     },
     {
-        "cityId": "7649018",
+        "cityId": 7649018,
         "name": "Nkoranza South",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.56667,
         "longitude": -1.7
     },
     {
-        "cityId": "7649046",
+        "cityId": 7649046,
         "name": "Sunyani",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.33333,
         "longitude": -2.33333
     },
     {
-        "cityId": "7649047",
+        "cityId": 7649047,
         "name": "Sunyani West",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.36667,
         "longitude": -2.31667
     },
     {
-        "cityId": "7649049",
+        "cityId": 7649049,
         "name": "Tain",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.86667,
         "longitude": -2.31667
     },
     {
-        "cityId": "7649052",
+        "cityId": 7649052,
         "name": "Tano North",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.201,
         "longitude": -2.18265
     },
     {
-        "cityId": "7649053",
+        "cityId": 7649053,
         "name": "Tano South",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.08333,
         "longitude": -2.03333
     },
     {
-        "cityId": "7649056",
+        "cityId": 7649056,
         "name": "Techiman Municipal District",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.612,
         "longitude": -1.955
     },
     {
-        "cityId": "7649067",
+        "cityId": 7649067,
         "name": "Wenchi",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.73333,
         "longitude": -2.1
     },
     {
-        "cityId": "9781875",
+        "cityId": 9781875,
         "name": "Atebubu-Amantin District",
-        "stateId": "2302547",
+        "stateId": 2302547,
         "latitude": 7.633,
         "longitude": -1.067
     }

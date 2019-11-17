@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11204947",
+        "cityId": 11204947,
         "name": "Olukonda Constituency",
-        "stateId": "3371208",
+        "stateId": 3371208,
         "latitude": -17.98333,
         "longitude": 16.01667
     },
     {
-        "cityId": "11205505",
+        "cityId": 11205505,
         "name": "Omuntele Constituency",
-        "stateId": "3371208",
+        "stateId": 3371208,
         "latitude": -18.2333,
         "longitude": 16.2333
     },
     {
-        "cityId": "11257350",
+        "cityId": 11257350,
         "name": "Eengodi",
-        "stateId": "3371208",
+        "stateId": 3371208,
         "latitude": -18.22,
         "longitude": 17.25861
     },
     {
-        "cityId": "11467812",
+        "cityId": 11467812,
         "name": "Onayena",
-        "stateId": "3371208",
+        "stateId": 3371208,
         "latitude": -17.9496,
         "longitude": 16.1916
     }

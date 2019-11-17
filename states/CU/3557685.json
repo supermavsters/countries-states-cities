@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3533721",
+        "cityId": 3533721,
         "name": "Municipio de Yateras",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.2,
         "longitude": -75.15
     },
     {
-        "cityId": "3557686",
+        "cityId": 3557686,
         "name": "Municipio de Guant\u00e1namo",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.15,
         "longitude": -75.2
     },
     {
-        "cityId": "3567831",
+        "cityId": 3567831,
         "name": "Municipio de Baracoa",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.35,
         "longitude": -74.5
     },
     {
-        "cityId": "11288222",
+        "cityId": 11288222,
         "name": "Caimanera",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 19.98967,
         "longitude": -75.15181
     },
     {
-        "cityId": "11288223",
+        "cityId": 11288223,
         "name": "El Salvador",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.21894,
         "longitude": -75.22987
     },
     {
-        "cityId": "11288224",
+        "cityId": 11288224,
         "name": "Imias",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.06854,
         "longitude": -74.62747
     },
     {
-        "cityId": "11288225",
+        "cityId": 11288225,
         "name": "Maisi",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.24733,
         "longitude": -74.1487
     },
     {
-        "cityId": "11288226",
+        "cityId": 11288226,
         "name": "Manuel Tames",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.1787,
         "longitude": -75.0552
     },
     {
-        "cityId": "11288227",
+        "cityId": 11288227,
         "name": "Niceto Perez",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.08635,
         "longitude": -75.30643
     },
     {
-        "cityId": "11288229",
+        "cityId": 11288229,
         "name": "San Antonio Del Sur",
-        "stateId": "3557685",
+        "stateId": 3557685,
         "latitude": 20.05564,
         "longitude": -74.8075
     }

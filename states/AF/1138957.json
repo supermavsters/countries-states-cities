@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "7053051",
+        "cityId": 7053051,
         "name": "Bagr\u0101m\u012b",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.48355,
         "longitude": 69.33617
     },
     {
-        "cityId": "7053052",
+        "cityId": 7053052,
         "name": "Chah\u0101r \u0100sy\u0101b",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.3871,
         "longitude": 69.07274
     },
     {
-        "cityId": "7053053",
+        "cityId": 7053053,
         "name": "Deh-e Sabz",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.66555,
         "longitude": 69.308
     },
     {
-        "cityId": "7053054",
+        "cityId": 7053054,
         "name": "Farzah",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.79402,
         "longitude": 69.0177
     },
     {
-        "cityId": "7053055",
+        "cityId": 7053055,
         "name": "Gul Darah",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.74801,
         "longitude": 68.99531
     },
     {
-        "cityId": "7053056",
+        "cityId": 7053056,
         "name": "Ist\u0101lif",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.84847,
         "longitude": 69.02353
     },
     {
-        "cityId": "7053057",
+        "cityId": 7053057,
         "name": "Kalak\u0101n",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.76251,
         "longitude": 69.17559
     },
     {
-        "cityId": "7053058",
+        "cityId": 7053058,
         "name": "Kh\u0101k-e Jab\u0101r",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.36494,
         "longitude": 69.43365
     },
     {
-        "cityId": "7053059",
+        "cityId": 7053059,
         "name": "M\u012br Bachah K\u014d\u1e6f",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.72727,
         "longitude": 69.11823
     },
     {
-        "cityId": "7053060",
+        "cityId": 7053060,
         "name": "M\u016bsah\u012b",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.36908,
         "longitude": 69.21839
     },
     {
-        "cityId": "7053080",
+        "cityId": 7053080,
         "name": "Paghm\u0101n",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.54808,
         "longitude": 68.93716
     },
     {
-        "cityId": "7053081",
+        "cityId": 7053081,
         "name": "Qarah B\u0101gh",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.84939,
         "longitude": 69.1763
     },
     {
-        "cityId": "7053083",
+        "cityId": 7053083,
         "name": "Shakar Darah",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.66383,
         "longitude": 69.03642
     },
     {
-        "cityId": "7729752",
+        "cityId": 7729752,
         "name": "Kabul",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.49614,
         "longitude": 69.10549
     },
     {
-        "cityId": "7732182",
+        "cityId": 7732182,
         "name": "Surobi",
-        "stateId": "1138957",
+        "stateId": 1138957,
         "latitude": 34.60542,
         "longitude": 69.72777
     }

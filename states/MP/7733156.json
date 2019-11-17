@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7733402",
+        "cityId": 7733402,
         "name": "Farallon de Pajaros",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 20.54,
         "longitude": 144.89
     },
     {
-        "cityId": "7733403",
+        "cityId": 7733403,
         "name": "Asuncion Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 19.682,
         "longitude": 145.399
     },
     {
-        "cityId": "7733404",
+        "cityId": 7733404,
         "name": "Agrihan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 18.745,
         "longitude": 145.668
     },
     {
-        "cityId": "7733405",
+        "cityId": 7733405,
         "name": "Pagan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 18.11,
         "longitude": 145.772
     },
     {
-        "cityId": "7733406",
+        "cityId": 7733406,
         "name": "Alamagan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 17.595,
         "longitude": 145.821
     },
     {
-        "cityId": "7733407",
+        "cityId": 7733407,
         "name": "Guguan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 17.32,
         "longitude": 145.8375
     },
     {
-        "cityId": "7733408",
+        "cityId": 7733408,
         "name": "Zealandia Bank",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 16.8953,
         "longitude": 145.8535
     },
     {
-        "cityId": "7733409",
+        "cityId": 7733409,
         "name": "Sarigan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 16.694,
         "longitude": 145.782
     },
     {
-        "cityId": "7733410",
+        "cityId": 7733410,
         "name": "Anatahan Island",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 16.362,
         "longitude": 145.641
     },
     {
-        "cityId": "7733411",
+        "cityId": 7733411,
         "name": "Farallon de Medinilla",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 16.024,
         "longitude": 146.061
     },
     {
-        "cityId": "7733412",
+        "cityId": 7733412,
         "name": "Maug Islands",
-        "stateId": "7733156",
+        "stateId": 7733156,
         "latitude": 20.015,
         "longitude": 145.22
     }

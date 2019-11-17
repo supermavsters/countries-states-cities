@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3494510",
+        "cityId": 3494510,
         "name": "Postrer R\u00edo",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.56667,
         "longitude": -71.61667
     },
     {
-        "cityId": "3502787",
+        "cityId": 3502787,
         "name": "La Descubierta",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.60796,
         "longitude": -71.75162
     },
     {
-        "cityId": "3504078",
+        "cityId": 3504078,
         "name": "Jiman\u00ed",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.46667,
         "longitude": -71.83333
     },
     {
-        "cityId": "3508696",
+        "cityId": 3508696,
         "name": "Duverg\u00e9",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.31634,
         "longitude": -71.59451
     },
     {
-        "cityId": "11154544",
+        "cityId": 11154544,
         "name": "Mella",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.30999,
         "longitude": -71.44476
     },
     {
-        "cityId": "11154552",
+        "cityId": 11154552,
         "name": "Crist\u00f3bal",
-        "stateId": "3504326",
+        "stateId": 3504326,
         "latitude": 18.33972,
         "longitude": -71.29867
     }

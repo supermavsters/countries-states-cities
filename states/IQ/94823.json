@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "94822",
+        "cityId": 94822,
         "name": "Kerbala District",
-        "stateId": "94823",
+        "stateId": 94823,
         "latitude": 32.42631,
         "longitude": 43.89025
     },
     {
-        "cityId": "99345",
+        "cityId": 99345,
         "name": "Al-Hindiya District",
-        "stateId": "94823",
+        "stateId": 94823,
         "latitude": 32.54409,
         "longitude": 44.22019
     },
     {
-        "cityId": "9166603",
+        "cityId": 9166603,
         "name": "Ain Al-Tamur District",
-        "stateId": "94823",
+        "stateId": 94823,
         "latitude": 32.44144,
         "longitude": 43.51528
     },
     {
-        "cityId": "9873410",
+        "cityId": 9873410,
         "name": "Qa\u1e11\u0101\u2019 \u2018Ayn Tamr",
-        "stateId": "94823",
+        "stateId": 94823,
         "latitude": 32.5169,
         "longitude": 43.5348
     }

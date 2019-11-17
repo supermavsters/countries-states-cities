@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "11352496",
+        "cityId": 11352496,
         "name": "Bauska",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.40533,
         "longitude": 24.19599
     },
     {
-        "cityId": "11352497",
+        "cityId": 11352497,
         "name": "Brunavas pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.30797,
         "longitude": 24.43228
     },
     {
-        "cityId": "11352498",
+        "cityId": 11352498,
         "name": "Ceraukstes pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.37088,
         "longitude": 24.29388
     },
     {
-        "cityId": "11352500",
+        "cityId": 11352500,
         "name": "Codes pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.46951,
         "longitude": 24.20774
     },
     {
-        "cityId": "11352501",
+        "cityId": 11352501,
         "name": "D\u0101vi\u0146u pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.50121,
         "longitude": 24.35511
     },
     {
-        "cityId": "11352502",
+        "cityId": 11352502,
         "name": "Gail\u012b\u0161u pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.31651,
         "longitude": 24.21213
     },
     {
-        "cityId": "11352503",
+        "cityId": 11352503,
         "name": "\u012asl\u012bces pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.3305,
         "longitude": 24.11364
     },
     {
-        "cityId": "11352504",
+        "cityId": 11352504,
         "name": "Me\u017eotnes pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.47106,
         "longitude": 24.10215
     },
     {
-        "cityId": "11352505",
+        "cityId": 11352505,
         "name": "Vecsaules pagasts",
-        "stateId": "461112",
+        "stateId": 461112,
         "latitude": 56.41836,
         "longitude": 24.41966
     }

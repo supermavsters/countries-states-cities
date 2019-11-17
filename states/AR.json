@@ -1,169 +1,169 @@
 [
     {
-        "stateId": "3862286",
+        "stateId": 3862286,
         "name": "Catamarca Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -27,
         "longitude": -67
     },
     {
-        "stateId": "3861887",
+        "stateId": 3861887,
         "name": "Chaco Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -26.33333,
         "longitude": -60.5
     },
     {
-        "stateId": "3861244",
+        "stateId": 3861244,
         "name": "Chubut Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -44,
         "longitude": -69
     },
     {
-        "stateId": "3433955",
+        "stateId": 3433955,
         "name": "Ciudad Aut\u00f3noma de Buenos Aires",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -34.6,
         "longitude": -58.45
     },
     {
-        "stateId": "3435214",
+        "stateId": 3435214,
         "name": "Corrientes Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -29,
         "longitude": -58
     },
     {
-        "stateId": "3860255",
+        "stateId": 3860255,
         "name": "C\u00f3rdoba Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -32,
         "longitude": -64
     },
     {
-        "stateId": "3434137",
+        "stateId": 3434137,
         "name": "Entre R\u00edos Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -32,
         "longitude": -59
     },
     {
-        "stateId": "3433896",
+        "stateId": 3433896,
         "name": "Formosa Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -25,
         "longitude": -60
     },
     {
-        "stateId": "3853404",
+        "stateId": 3853404,
         "name": "Jujuy Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -23,
         "longitude": -66
     },
     {
-        "stateId": "3849574",
+        "stateId": 3849574,
         "name": "La Pampa Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -37,
         "longitude": -66
     },
     {
-        "stateId": "3848949",
+        "stateId": 3848949,
         "name": "La Rioja Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -29.58333,
         "longitude": -67
     },
     {
-        "stateId": "3844419",
+        "stateId": 3844419,
         "name": "Mendoza Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -34.5,
         "longitude": -68.5
     },
     {
-        "stateId": "3430657",
+        "stateId": 3430657,
         "name": "Misiones Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -26.81427,
         "longitude": -54.34387
     },
     {
-        "stateId": "3843122",
+        "stateId": 3843122,
         "name": "Neuqu\u00e9n Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -39,
         "longitude": -70
     },
     {
-        "stateId": "3435907",
+        "stateId": 3435907,
         "name": "Provincia de Buenos Aires",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -36,
         "longitude": -60
     },
     {
-        "stateId": "3838830",
+        "stateId": 3838830,
         "name": "R\u00edo Negro Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -40,
         "longitude": -67
     },
     {
-        "stateId": "3838231",
+        "stateId": 3838231,
         "name": "Salta Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -24.75806,
         "longitude": -65.43457
     },
     {
-        "stateId": "3837152",
+        "stateId": 3837152,
         "name": "San Juan Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -31,
         "longitude": -69
     },
     {
-        "stateId": "3837029",
+        "stateId": 3837029,
         "name": "San Luis Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -34,
         "longitude": -66
     },
     {
-        "stateId": "3836350",
+        "stateId": 3836350,
         "name": "Santa Cruz Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -49,
         "longitude": -70
     },
     {
-        "stateId": "3836276",
+        "stateId": 3836276,
         "name": "Santa Fe Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -31,
         "longitude": -61
     },
     {
-        "stateId": "3835868",
+        "stateId": 3835868,
         "name": "Santiago del Estero Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -28,
         "longitude": -63.5
     },
     {
-        "stateId": "3834450",
+        "stateId": 3834450,
         "name": "Tierra del Fuego Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -54.5,
         "longitude": -67
     },
     {
-        "stateId": "3833578",
+        "stateId": 3833578,
         "name": "Tucum\u00e1n Province",
-        "countryId": "3865483",
+        "countryId": 3865483,
         "latitude": -27,
         "longitude": -65.5
     }

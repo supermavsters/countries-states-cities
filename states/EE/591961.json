@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7522368",
+        "cityId": 7522368,
         "name": "Paide linn",
-        "stateId": "591961",
+        "stateId": 591961,
         "latitude": 58.88504,
         "longitude": 25.56021
     },
     {
-        "cityId": "7522474",
+        "cityId": 7522474,
         "name": "T\u00fcri vald",
-        "stateId": "591961",
+        "stateId": 591961,
         "latitude": 58.74143,
         "longitude": 25.46443
     },
     {
-        "cityId": "11776875",
+        "cityId": 11776875,
         "name": "J\u00e4rva vald",
-        "stateId": "591961",
+        "stateId": 591961,
         "latitude": 58.98405,
         "longitude": 25.82298
     }

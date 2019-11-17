@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1605676",
+        "cityId": 1605676,
         "name": "Amphoe Tha Bo",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.79499,
         "longitude": 102.56608
     },
     {
-        "cityId": "1606315",
+        "cityId": 1606315,
         "name": "Amphoe Si Chiang Mai",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.93574,
         "longitude": 102.50306
     },
     {
-        "cityId": "1606535",
+        "cityId": 1606535,
         "name": "Amphoe Sangkhom",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 18.05392,
         "longitude": 102.22677
     },
     {
-        "cityId": "1607605",
+        "cityId": 1607605,
         "name": "Amphoe Phonphisai",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.95443,
         "longitude": 103.12279
     },
     {
-        "cityId": "1608641",
+        "cityId": 1608641,
         "name": "Amphoe Mueang Nong Khai",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.84661,
         "longitude": 102.78911
     },
     {
-        "cityId": "7510752",
+        "cityId": 7510752,
         "name": "Amphoe Pho Tak",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.88819,
         "longitude": 102.43023
     },
     {
-        "cityId": "7510780",
+        "cityId": 7510780,
         "name": "Amphoe Sa Khrai",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 17.65985,
         "longitude": 102.70847
     },
     {
-        "cityId": "7510802",
+        "cityId": 7510802,
         "name": "Amphoe Fao Rai",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 18.00275,
         "longitude": 103.2964
     },
     {
-        "cityId": "7510803",
+        "cityId": 7510803,
         "name": "Amphoe Rattanawapi",
-        "stateId": "1608231",
+        "stateId": 1608231,
         "latitude": 18.19255,
         "longitude": 103.2376
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "8405261",
+        "cityId": 8405261,
         "name": "Sr\u014fk \u00c2ngk\u00f4r Borei",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 10.99291,
         "longitude": 104.95177
     },
     {
-        "cityId": "8405262",
+        "cityId": 8405262,
         "name": "Sr\u014fk Borei Cholsar",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 10.81414,
         "longitude": 104.98994
     },
     {
-        "cityId": "8405707",
+        "cityId": 8405707,
         "name": "Kr\u014fng Doun Kaev",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 10.99459,
         "longitude": 104.7955
     },
     {
-        "cityId": "9253814",
+        "cityId": 9253814,
         "name": "Bati",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 11.2729,
         "longitude": 104.82224
     },
     {
-        "cityId": "9253815",
+        "cityId": 9253815,
         "name": "Kiri Vong",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 10.63881,
         "longitude": 104.79836
     },
     {
-        "cityId": "9253816",
+        "cityId": 9253816,
         "name": "Prey Kabbas",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 11.14364,
         "longitude": 104.93264
     },
     {
-        "cityId": "9253818",
+        "cityId": 9253818,
         "name": "Tram Kak",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 11.00998,
         "longitude": 104.60821
     },
     {
-        "cityId": "9253819",
+        "cityId": 9253819,
         "name": "Treang",
-        "stateId": "1821939",
+        "stateId": 1821939,
         "latitude": 10.88134,
         "longitude": 104.80508
     }

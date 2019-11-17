@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "6940754",
+        "cityId": 6940754,
         "name": "Qulensya Wa Abd Al Kuri",
-        "stateId": "9645387",
+        "stateId": 9645387,
         "latitude": 12.55479,
         "longitude": 53.58671
     },
     {
-        "cityId": "6940758",
+        "cityId": 6940758,
         "name": "Hidaybu",
-        "stateId": "9645387",
+        "stateId": 9645387,
         "latitude": 12.5025,
         "longitude": 54.0082
     }

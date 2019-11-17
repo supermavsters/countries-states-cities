@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7054006",
+        "cityId": 7054006,
         "name": "B\u0101k",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.5301,
         "longitude": 70.07662
     },
     {
-        "cityId": "7054007",
+        "cityId": 7054007,
         "name": "Gurbuz",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.20233,
         "longitude": 69.94245
     },
     {
-        "cityId": "7054008",
+        "cityId": 7054008,
         "name": "J\u0101j\u012b Ma\u012bd\u0101n",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.64077,
         "longitude": 70.07888
     },
     {
-        "cityId": "7054009",
+        "cityId": 7054009,
         "name": "Kh\u014dst",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.34045,
         "longitude": 70.0038
     },
     {
-        "cityId": "7054013",
+        "cityId": 7054013,
         "name": "Mand\u016bza\u012b",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.31663,
         "longitude": 69.78007
     },
     {
-        "cityId": "7054014",
+        "cityId": 7054014,
         "name": "M\u016bs\u00e1 Kh\u0113l",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.58386,
         "longitude": 69.68186
     },
     {
-        "cityId": "7054015",
+        "cityId": 7054015,
         "name": "N\u0101dir Sh\u0101h K\u014d\u1e6f",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.38119,
         "longitude": 69.68265
     },
     {
-        "cityId": "7054016",
+        "cityId": 7054016,
         "name": "Qalandar",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.49187,
         "longitude": 69.65872
     },
     {
-        "cityId": "7054017",
+        "cityId": 7054017,
         "name": "\u015eabar\u012b",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.54352,
         "longitude": 69.9118
     },
     {
-        "cityId": "7054018",
+        "cityId": 7054018,
         "name": "Shamul",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.31533,
         "longitude": 69.53212
     },
     {
-        "cityId": "7054019",
+        "cityId": 7054019,
         "name": "Sp\u0113rah",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.15664,
         "longitude": 69.4912
     },
     {
-        "cityId": "7054021",
+        "cityId": 7054021,
         "name": "T\u00earayza\u012b",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.38367,
         "longitude": 70.19084
     },
     {
-        "cityId": "7732601",
+        "cityId": 7732601,
         "name": "Tani",
-        "stateId": "1444362",
+        "stateId": 1444362,
         "latitude": 33.17246,
         "longitude": 69.74995
     }

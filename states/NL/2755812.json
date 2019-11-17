@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "2744609",
+        "cityId": 2744609,
         "name": "Gemeente Weststellingwerf",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 52.87647,
         "longitude": 6.01998
     },
     {
-        "cityId": "2745417",
+        "cityId": 2745417,
         "name": "Gemeente Vlieland",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.2532,
         "longitude": 4.95071
     },
     {
-        "cityId": "2746412",
+        "cityId": 2746412,
         "name": "Gemeente Terschelling",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.4,
         "longitude": 5.35
     },
     {
-        "cityId": "2747091",
+        "cityId": 2747091,
         "name": "Gemeente Smallingerland",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.11667,
         "longitude": 6.03333
     },
     {
-        "cityId": "2747589",
+        "cityId": 2747589,
         "name": "Gemeente Schiermonnikoog",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.48707,
         "longitude": 6.22917
     },
     {
-        "cityId": "2749277",
+        "cityId": 2749277,
         "name": "Gemeente Opsterland",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.04849,
         "longitude": 6.12128
     },
     {
-        "cityId": "2749339",
+        "cityId": 2749339,
         "name": "Gemeente Ooststellingwerf",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 52.98264,
         "longitude": 6.27515
     },
     {
-        "cityId": "2749535",
+        "cityId": 2749535,
         "name": "Gemeente Dongeradeel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.32595,
         "longitude": 5.99854
     },
     {
-        "cityId": "2751790",
+        "cityId": 2751790,
         "name": "Gemeente Leeuwarderadeel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.26067,
         "longitude": 5.75877
     },
     {
-        "cityId": "2751791",
+        "cityId": 2751791,
         "name": "Gemeente Leeuwarden",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.18602,
         "longitude": 5.81111
     },
     {
-        "cityId": "2752523",
+        "cityId": 2752523,
         "name": "Gemeente Kollumerland en Nieuwkruisland",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.29066,
         "longitude": 6.16915
     },
     {
-        "cityId": "2754301",
+        "cityId": 2754301,
         "name": "Gemeente Het Bildt",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.28397,
         "longitude": 5.6487
     },
     {
-        "cityId": "2754668",
+        "cityId": 2754668,
         "name": "Gemeente Heerenveen",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 52.9422,
         "longitude": 6.0441
     },
     {
-        "cityId": "2754816",
+        "cityId": 2754816,
         "name": "Gemeente Harlingen",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.17525,
         "longitude": 5.41806
     },
     {
-        "cityId": "2755843",
+        "cityId": 2755843,
         "name": "Gemeente Franekeradeel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.18459,
         "longitude": 5.53187
     },
     {
-        "cityId": "2755918",
+        "cityId": 2755918,
         "name": "Gemeente Ferwerderadiel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.33759,
         "longitude": 5.82413
     },
     {
-        "cityId": "2757834",
+        "cityId": 2757834,
         "name": "Gemeente Dantumadiel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.29113,
         "longitude": 5.99545
     },
     {
-        "cityId": "2759844",
+        "cityId": 2759844,
         "name": "Gemeente Ameland",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.45024,
         "longitude": 5.78277
     },
     {
-        "cityId": "2759982",
+        "cityId": 2759982,
         "name": "Gemeente Achtkarspelen",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.21167,
         "longitude": 6.13776
     },
     {
-        "cityId": "6544300",
+        "cityId": 6544300,
         "name": "Gemeente Littenseradiel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.10861,
         "longitude": 5.58839
     },
     {
-        "cityId": "6544304",
+        "cityId": 6544304,
         "name": "Gemeente Tytsjerksteradiel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.19966,
         "longitude": 5.95802
     },
     {
-        "cityId": "8260048",
+        "cityId": 8260048,
         "name": "Menameradiel",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.20954,
         "longitude": 5.67374
     },
     {
-        "cityId": "8260049",
+        "cityId": 8260049,
         "name": "S\u00fbdwest Frysl\u00e2n",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 53.01056,
         "longitude": 5.5258
     },
     {
-        "cityId": "10287303",
+        "cityId": 10287303,
         "name": "De Fryske Marren",
-        "stateId": "2755812",
+        "stateId": 2755812,
         "latitude": 52.96906,
         "longitude": 5.77246
     }

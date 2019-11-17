@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7268318",
+        "cityId": 7268318,
         "name": "Candelaria Barrio",
-        "stateId": "4568408",
+        "stateId": 4568408,
         "latitude": 18.40821,
         "longitude": -66.21705
     },
     {
-        "cityId": "7268646",
+        "cityId": 7268646,
         "name": "Media Luna Barrio",
-        "stateId": "4568408",
+        "stateId": 4568408,
         "latitude": 18.42375,
         "longitude": -66.24455
     },
     {
-        "cityId": "7268728",
+        "cityId": 7268728,
         "name": "Palo Seco Barrio",
-        "stateId": "4568408",
+        "stateId": 4568408,
         "latitude": 18.47414,
         "longitude": -66.13902
     },
     {
-        "cityId": "7268946",
+        "cityId": 7268946,
         "name": "Sabana Seca Barrio",
-        "stateId": "4568408",
+        "stateId": 4568408,
         "latitude": 18.44509,
         "longitude": -66.19978
     },
     {
-        "cityId": "7269040",
+        "cityId": 7269040,
         "name": "Toa Baja Barrio-Pueblo",
-        "stateId": "4568408",
+        "stateId": 4568408,
         "latitude": 18.44235,
         "longitude": -66.25396
     }

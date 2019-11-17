@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "11352437",
+        "cityId": 11352437,
         "name": "M\u0101rkalnes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.50616,
         "longitude": 27.20995
     },
     {
-        "cityId": "11352449",
+        "cityId": 11352449,
         "name": "Al\u016bksne",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.42631,
         "longitude": 27.06663
     },
     {
-        "cityId": "11352450",
+        "cityId": 11352450,
         "name": "Alsvi\u0137u pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.42861,
         "longitude": 26.88247
     },
     {
-        "cityId": "11352451",
+        "cityId": 11352451,
         "name": "Annas pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.33753,
         "longitude": 27.006
     },
     {
-        "cityId": "11352452",
+        "cityId": 11352452,
         "name": "Ilzenes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.38494,
         "longitude": 26.68009
     },
     {
-        "cityId": "11352453",
+        "cityId": 11352453,
         "name": "Pededzes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.48159,
         "longitude": 27.44363
     },
     {
-        "cityId": "11352454",
+        "cityId": 11352454,
         "name": "Jaunal\u016bksnes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.4206,
         "longitude": 27.21688
     },
     {
-        "cityId": "11352455",
+        "cityId": 11352455,
         "name": "Jaunannas pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.28009,
         "longitude": 27.11592
     },
     {
-        "cityId": "11352456",
+        "cityId": 11352456,
         "name": "Jaunlaicenes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.53378,
         "longitude": 26.88561
     },
     {
-        "cityId": "11352457",
+        "cityId": 11352457,
         "name": "Kalncempju pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.33488,
         "longitude": 26.88193
     },
     {
-        "cityId": "11352458",
+        "cityId": 11352458,
         "name": "Liepnas pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.34883,
         "longitude": 27.51373
     },
     {
-        "cityId": "11352459",
+        "cityId": 11352459,
         "name": "Malienas pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.34524,
         "longitude": 27.15432
     },
     {
-        "cityId": "11352460",
+        "cityId": 11352460,
         "name": "M\u0101lupes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.31745,
         "longitude": 27.28887
     },
     {
-        "cityId": "11352461",
+        "cityId": 11352461,
         "name": "Veclaicenes pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.58609,
         "longitude": 26.95068
     },
     {
-        "cityId": "11352462",
+        "cityId": 11352462,
         "name": "Zelti\u0146u pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.34953,
         "longitude": 26.76747
     },
     {
-        "cityId": "11352463",
+        "cityId": 11352463,
         "name": "Ziemera pagasts",
-        "stateId": "461525",
+        "stateId": 461525,
         "latitude": 57.511,
         "longitude": 27.02873
     }

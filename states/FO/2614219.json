@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2613479",
+        "cityId": 2613479,
         "name": "Sk\u00favoy",
-        "stateId": "2614219",
+        "stateId": 2614219,
         "latitude": 61.76825,
         "longitude": -6.82457
     },
     {
-        "cityId": "2613661",
+        "cityId": 2613661,
         "name": "Skopun",
-        "stateId": "2614219",
+        "stateId": 2614219,
         "latitude": 61.90372,
         "longitude": -6.88671
     },
     {
-        "cityId": "2613922",
+        "cityId": 2613922,
         "name": "Sk\u00e1lav\u00edk",
-        "stateId": "2614219",
+        "stateId": 2614219,
         "latitude": 61.83055,
         "longitude": -6.67557
     },
     {
-        "cityId": "2614213",
+        "cityId": 2614213,
         "name": "Sandur",
-        "stateId": "2614219",
+        "stateId": 2614219,
         "latitude": 61.84449,
         "longitude": -6.80603
     },
     {
-        "cityId": "2619613",
+        "cityId": 2619613,
         "name": "H\u00fasav\u00edk",
-        "stateId": "2614219",
+        "stateId": 2614219,
         "latitude": 61.81207,
         "longitude": -6.68037
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "694800",
+        "cityId": 694800,
         "name": "Sarnens\u2019kyy Rayon",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 51.27924,
         "longitude": 26.64329
     },
     {
-        "cityId": "700963",
+        "cityId": 700963,
         "name": "Mlinovskiy Rayon",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.5,
         "longitude": 25.66667
     },
     {
-        "cityId": "9288591",
+        "cityId": 9288591,
         "name": "Kuznetsovs\u2019ka Mis\u2019krada",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 51.33459,
         "longitude": 25.85134
     },
     {
-        "cityId": "9289933",
+        "cityId": 9289933,
         "name": "Demydivs\u2019kyy Rayon",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.44302,
         "longitude": 25.29061
     },
     {
-        "cityId": "9289934",
+        "cityId": 9289934,
         "name": "Dubens\u2019ka Mis\u2019krada",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.40155,
         "longitude": 25.74404
     },
     {
-        "cityId": "9289935",
+        "cityId": 9289935,
         "name": "Mlynivs\u2019kyy Rayon",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.55726,
         "longitude": 25.57715
     },
     {
-        "cityId": "9289947",
+        "cityId": 9289947,
         "name": "Ostroz\u2019ka Mis\u2019krada",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.32726,
         "longitude": 26.51765
     },
     {
-        "cityId": "9289988",
+        "cityId": 9289988,
         "name": "Rivnens\u2019ka Mis\u2019krada",
-        "stateId": "695592",
+        "stateId": 695592,
         "latitude": 50.613,
         "longitude": 26.24588
     }

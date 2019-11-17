@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "4143221",
+        "cityId": 4143221,
         "name": "Kent County",
-        "stateId": "4142224",
+        "stateId": 4142224,
         "latitude": 39.09595,
         "longitude": -75.50461
     },
     {
-        "cityId": "4143835",
+        "cityId": 4143835,
         "name": "New Castle County",
-        "stateId": "4142224",
+        "stateId": 4142224,
         "latitude": 39.57833,
         "longitude": -75.63898
     },
     {
-        "cityId": "4144895",
+        "cityId": 4144895,
         "name": "Sussex County",
-        "stateId": "4142224",
+        "stateId": 4142224,
         "latitude": 38.6833,
         "longitude": -75.33954
     }

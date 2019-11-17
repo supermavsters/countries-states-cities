@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1905606",
+        "cityId": 1905606,
         "name": "Th\u00e0nh Ph\u1ed1 Kon Tum",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.34356,
         "longitude": 107.97894
     },
     {
-        "cityId": "1905607",
+        "cityId": 1905607,
         "name": "Huy\u1ec7n \u0110\u1eafk H\u00e0",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.60326,
         "longitude": 107.98547
     },
     {
-        "cityId": "1905608",
+        "cityId": 1905608,
         "name": "Huy\u1ec7n Kon Pl\u00f4ng",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.7562,
         "longitude": 108.32057
     },
     {
-        "cityId": "1905609",
+        "cityId": 1905609,
         "name": "Huy\u1ec7n \u0110\u1eafk T\u00f4",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.70087,
         "longitude": 107.80816
     },
     {
-        "cityId": "1905610",
+        "cityId": 1905610,
         "name": "Huy\u1ec7n Sa Th\u1ea7y",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.3205,
         "longitude": 107.59862
     },
     {
-        "cityId": "1905611",
+        "cityId": 1905611,
         "name": "Huy\u1ec7n Ng\u1ecdc H\u1ed3i",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.7194,
         "longitude": 107.62636
     },
     {
-        "cityId": "1905612",
+        "cityId": 1905612,
         "name": "Huy\u1ec7n \u0110\u1eafk Glei",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 15.11358,
         "longitude": 107.75093
     },
     {
-        "cityId": "8675877",
+        "cityId": 8675877,
         "name": "Huy\u1ec7n Tu M\u01a1 R\u00f4n",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.90187,
         "longitude": 107.94004
     },
     {
-        "cityId": "8675878",
+        "cityId": 8675878,
         "name": "Huy\u1ec7n Kon R\u1eaby",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.53257,
         "longitude": 108.1713
     },
     {
-        "cityId": "11497493",
+        "cityId": 11497493,
         "name": "Huy\u1ec7n Ia H' Drai",
-        "stateId": "1565088",
+        "stateId": 1565088,
         "latitude": 14.06032,
         "longitude": 107.46243
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1604768",
+        "cityId": 1604768,
         "name": "Amphoe Mueang Yasothon",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.8555,
         "longitude": 104.17804
     },
     {
-        "cityId": "1608908",
+        "cityId": 1608908,
         "name": "Amphoe Maha Chana Chai",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.51267,
         "longitude": 104.26104
     },
     {
-        "cityId": "1609067",
+        "cityId": 1609067,
         "name": "Amphoe Loeng Nok Tha",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 16.20433,
         "longitude": 104.51442
     },
     {
-        "cityId": "1609320",
+        "cityId": 1609320,
         "name": "Amphoe Kut Chum",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 16.0462,
         "longitude": 104.30545
     },
     {
-        "cityId": "1610085",
+        "cityId": 1610085,
         "name": "Amphoe Kham Khuan Kaeo",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.67197,
         "longitude": 104.33372
     },
     {
-        "cityId": "7510833",
+        "cityId": 7510833,
         "name": "Amphoe Pa Tio",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.84415,
         "longitude": 104.39994
     },
     {
-        "cityId": "7510836",
+        "cityId": 7510836,
         "name": "Amphoe Thai Charoen",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 16.07936,
         "longitude": 104.42778
     },
     {
-        "cityId": "8304643",
+        "cityId": 8304643,
         "name": "Amphoe Kho Wang",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.38164,
         "longitude": 104.34109
     },
     {
-        "cityId": "8304645",
+        "cityId": 8304645,
         "name": "Amphoe Sai Mun",
-        "stateId": "1604767",
+        "stateId": 1604767,
         "latitude": 15.97917,
         "longitude": 104.1907
     }

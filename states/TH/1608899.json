@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1605071",
+        "cityId": 1605071,
         "name": "Amphoe Wapi Pathum",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.85953,
         "longitude": 103.34091
     },
     {
-        "cityId": "1607762",
+        "cityId": 1607762,
         "name": "Amphoe Phayakkhaphum Phisai",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.51963,
         "longitude": 103.23268
     },
     {
-        "cityId": "1608567",
+        "cityId": 1608567,
         "name": "Amphoe Na Chueak",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.8018,
         "longitude": 103.05725
     },
     {
-        "cityId": "1608651",
+        "cityId": 1608651,
         "name": "Amphoe Mueang Maha Sarakham",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.11882,
         "longitude": 103.3116
     },
     {
-        "cityId": "1609475",
+        "cityId": 1609475,
         "name": "Amphoe Kosum Phisai",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.23882,
         "longitude": 102.99081
     },
     {
-        "cityId": "1610222",
+        "cityId": 1610222,
         "name": "Amphoe Kantharawichai",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.27992,
         "longitude": 103.25892
     },
     {
-        "cityId": "1611184",
+        "cityId": 1611184,
         "name": "Amphoe Chiang Yuen",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.40942,
         "longitude": 103.07005
     },
     {
-        "cityId": "1611579",
+        "cityId": 1611579,
         "name": "Amphoe Borabue",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.98881,
         "longitude": 103.12521
     },
     {
-        "cityId": "7510771",
+        "cityId": 7510771,
         "name": "Amphoe Kut Rang",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.0297,
         "longitude": 102.95059
     },
     {
-        "cityId": "7510786",
+        "cityId": 7510786,
         "name": "Amphoe Yang Si Surat",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.64953,
         "longitude": 103.08916
     },
     {
-        "cityId": "7510787",
+        "cityId": 7510787,
         "name": "Amphoe Na Dun",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 15.71952,
         "longitude": 103.23004
     },
     {
-        "cityId": "7510789",
+        "cityId": 7510789,
         "name": "Amphoe Kae Dam",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.04961,
         "longitude": 103.38953
     },
     {
-        "cityId": "7510793",
+        "cityId": 7510793,
         "name": "Amphoe Chuen Chom",
-        "stateId": "1608899",
+        "stateId": 1608899,
         "latitude": 16.54801,
         "longitude": 103.14796
     }

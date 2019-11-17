@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2204318",
+        "cityId": 2204318,
         "name": "Lomaiviti Province",
-        "stateId": "4036647",
+        "stateId": 4036647,
         "latitude": -17.66667,
         "longitude": 178.8
     },
     {
-        "cityId": "4036132",
+        "cityId": 4036132,
         "name": "Lau Province",
-        "stateId": "4036647",
+        "stateId": 4036647,
         "latitude": -18.33333,
         "longitude": -178.5
     },
     {
-        "cityId": "8617786",
+        "cityId": 8617786,
         "name": "Kadavu Province",
-        "stateId": "4036647",
+        "stateId": 4036647,
         "latitude": -18.99331,
         "longitude": 178.22021
     }

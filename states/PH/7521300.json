@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1699175",
+        "cityId": 1699175,
         "name": "Mountain Province",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 17.08333,
         "longitude": 121.16667
     },
     {
-        "cityId": "1711331",
+        "cityId": 1711331,
         "name": "Province of Ifugao",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 16.83333,
         "longitude": 121.16667
     },
     {
-        "cityId": "1725582",
+        "cityId": 1725582,
         "name": "Province of Benguet",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 16.5,
         "longitude": 120.66667
     },
     {
-        "cityId": "1732380",
+        "cityId": 1732380,
         "name": "Province of Abra",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 17.58333,
         "longitude": 120.75
     },
     {
-        "cityId": "7115730",
+        "cityId": 7115730,
         "name": "Kalinga",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 17.42599,
         "longitude": 121.41609
     },
     {
-        "cityId": "7115731",
+        "cityId": 7115731,
         "name": "Apayao",
-        "stateId": "7521300",
+        "stateId": 7521300,
         "latitude": 18.03359,
         "longitude": 121.1792
     }

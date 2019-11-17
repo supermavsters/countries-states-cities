@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7828733",
+        "cityId": 7828733,
         "name": "Jenin",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.46,
         "longitude": 35.3
     },
     {
-        "cityId": "7870463",
+        "cityId": 7870463,
         "name": "Bethlehem",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 31.65,
         "longitude": 35.3
     },
     {
-        "cityId": "7870555",
+        "cityId": 7870555,
         "name": "Nablus",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.24056,
         "longitude": 35.28708
     },
     {
-        "cityId": "7870644",
+        "cityId": 7870644,
         "name": "Tulkarm",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.31986,
         "longitude": 35.09403
     },
     {
-        "cityId": "7870648",
+        "cityId": 7870648,
         "name": "Tubas",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.32389,
         "longitude": 35.48653
     },
     {
-        "cityId": "7870649",
+        "cityId": 7870649,
         "name": "Qalqilya",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.18583,
         "longitude": 35.06583
     },
     {
-        "cityId": "7870652",
+        "cityId": 7870652,
         "name": "Salfit",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.11819,
         "longitude": 35.09028
     },
     {
-        "cityId": "7870653",
+        "cityId": 7870653,
         "name": "Jericho",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 32.02492,
         "longitude": 35.44548
     },
     {
-        "cityId": "7870654",
+        "cityId": 7870654,
         "name": "Al Quds",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 31.8,
         "longitude": 35.3
     },
     {
-        "cityId": "7870657",
+        "cityId": 7870657,
         "name": "Ramallah",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 31.933,
         "longitude": 35.205
     },
     {
-        "cityId": "7870658",
+        "cityId": 7870658,
         "name": "Al Khalil",
-        "stateId": "285153",
+        "stateId": 285153,
         "latitude": 31.5,
         "longitude": 35.1
     }

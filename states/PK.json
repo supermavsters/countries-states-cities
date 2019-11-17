@@ -1,57 +1,57 @@
 [
     {
-        "stateId": "1184196",
+        "stateId": 1184196,
         "name": "Azad Kashmir",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 33.94718,
         "longitude": 73.9104
     },
     {
-        "stateId": "1183606",
+        "stateId": 1183606,
         "name": "Balochistan",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 28.47849,
         "longitude": 65.64355
     },
     {
-        "stateId": "1179245",
+        "stateId": 1179245,
         "name": "Federally Administered Tribal Areas",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 33.01455,
         "longitude": 69.99925
     },
     {
-        "stateId": "1168878",
+        "stateId": 1168878,
         "name": "Gilgit-Baltistan",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 36,
         "longitude": 75
     },
     {
-        "stateId": "1162015",
+        "stateId": 1162015,
         "name": "Islamabad",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 33.71039,
         "longitude": 73.13382
     },
     {
-        "stateId": "1168873",
+        "stateId": 1168873,
         "name": "Khyber Pakhtunkhwa Province",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 34.45993,
         "longitude": 72.50237
     },
     {
-        "stateId": "1167710",
+        "stateId": 1167710,
         "name": "Punjab Province",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 30.85,
         "longitude": 72.31667
     },
     {
-        "stateId": "1164807",
+        "stateId": 1164807,
         "name": "Sindh",
-        "countryId": "1168579",
+        "countryId": 1168579,
         "latitude": 26.13333,
         "longitude": 68.76667
     }

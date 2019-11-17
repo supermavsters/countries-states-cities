@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2511173",
+        "cityId": 2511173,
         "name": "Provincia de Santa Cruz de Tenerife",
-        "stateId": "2593110",
+        "stateId": 2593110,
         "latitude": 28.16667,
         "longitude": -17.33333
     },
     {
-        "cityId": "2515271",
+        "cityId": 2515271,
         "name": "Provincia de Las Palmas",
-        "stateId": "2593110",
+        "stateId": 2593110,
         "latitude": 28.42039,
         "longitude": -14.01306
     }

@@ -1,50 +1,50 @@
 [
     {
-        "stateId": "3624953",
+        "stateId": 3624953,
         "name": "Provincia de Alajuela",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 10.5,
         "longitude": -84.5
     },
     {
-        "stateId": "3624368",
+        "stateId": 3624368,
         "name": "Provincia de Cartago",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 9.83333,
         "longitude": -83.75
     },
     {
-        "stateId": "3623582",
+        "stateId": 3623582,
         "name": "Provincia de Guanacaste",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 10.5,
         "longitude": -85.25
     },
     {
-        "stateId": "3623484",
+        "stateId": 3623484,
         "name": "Provincia de Heredia",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 10.33333,
         "longitude": -84
     },
     {
-        "stateId": "3623064",
+        "stateId": 3623064,
         "name": "Provincia de Lim\u00f3n",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 10,
         "longitude": -83.21667
     },
     {
-        "stateId": "3622226",
+        "stateId": 3622226,
         "name": "Provincia de Puntarenas",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 9.97794,
         "longitude": -84.83068
     },
     {
-        "stateId": "3621837",
+        "stateId": 3621837,
         "name": "Provincia de San Jos\u00e9",
-        "countryId": "3624060",
+        "countryId": 3624060,
         "latitude": 9.66667,
         "longitude": -84
     }

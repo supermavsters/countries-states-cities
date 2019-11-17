@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3700535",
+        "cityId": 3700535,
         "name": "Distrito de Tonos\u00ed",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.43597,
         "longitude": -80.45828
     },
     {
-        "cityId": "3702627",
+        "cityId": 3702627,
         "name": "Distrito de Pocr\u00ed",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.63721,
         "longitude": -80.1647
     },
     {
-        "cityId": "3703237",
+        "cityId": 3703237,
         "name": "Distrito de Pedas\u00ed",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.48528,
         "longitude": -80.12747
     },
     {
-        "cityId": "3704872",
+        "cityId": 3704872,
         "name": "Distrito de Macaracas",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.65817,
         "longitude": -80.53526
     },
     {
-        "cityId": "3704962",
+        "cityId": 3704962,
         "name": "Distrito de Los Santos",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.88333,
         "longitude": -80.45
     },
     {
-        "cityId": "3706205",
+        "cityId": 3706205,
         "name": "Distrito de Las Tablas",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.64843,
         "longitude": -80.29933
     },
     {
-        "cityId": "3708907",
+        "cityId": 3708907,
         "name": "Distrito de Guarar\u00e9",
-        "stateId": "3704961",
+        "stateId": 3704961,
         "latitude": 7.77021,
         "longitude": -80.37515
     }

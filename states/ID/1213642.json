@@ -1,232 +1,232 @@
 [
     {
-        "cityId": "1213498",
+        "cityId": 1213498,
         "name": "Kota Tebing Tinggi",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.325,
         "longitude": 99.14167
     },
     {
-        "cityId": "1213518",
+        "cityId": 1213518,
         "name": "Kabupaten Tapanuli Tengah",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.9,
         "longitude": 98.66667
     },
     {
-        "cityId": "1213519",
+        "cityId": 1213519,
         "name": "Kabupaten Tapanuli Selatan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.51667,
         "longitude": 99.25
     },
     {
-        "cityId": "1213546",
+        "cityId": 1213546,
         "name": "Kota Tanjung Balai",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.95833,
         "longitude": 99.79167
     },
     {
-        "cityId": "1213765",
+        "cityId": 1213765,
         "name": "Kabupaten Simalungun",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.9,
         "longitude": 99
     },
     {
-        "cityId": "1213854",
+        "cityId": 1213854,
         "name": "Kota Sibolga",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.73333,
         "longitude": 98.8
     },
     {
-        "cityId": "1214203",
+        "cityId": 1214203,
         "name": "Kota Pematang Siantar",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.96667,
         "longitude": 99.05
     },
     {
-        "cityId": "1214405",
+        "cityId": 1214405,
         "name": "Kabupaten Nias",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.03333,
         "longitude": 97.76667
     },
     {
-        "cityId": "1214519",
+        "cityId": 1214519,
         "name": "Kota Medan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.65,
         "longitude": 98.66667
     },
     {
-        "cityId": "1214728",
+        "cityId": 1214728,
         "name": "Kabupaten Langkat",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.71667,
         "longitude": 98.21667
     },
     {
-        "cityId": "1214801",
+        "cityId": 1214801,
         "name": "Kabupaten Labuhan Batu",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.26667,
         "longitude": 100.1
     },
     {
-        "cityId": "1214929",
+        "cityId": 1214929,
         "name": "Kabupaten Karo",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.11667,
         "longitude": 98.3
     },
     {
-        "cityId": "1215200",
+        "cityId": 1215200,
         "name": "Kabupaten Deli Serdang",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.41667,
         "longitude": 98.66667
     },
     {
-        "cityId": "1215221",
+        "cityId": 1215221,
         "name": "Kabupaten Dairi",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.86667,
         "longitude": 98.23333
     },
     {
-        "cityId": "1215554",
+        "cityId": 1215554,
         "name": "Kabupaten Asahan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.78333,
         "longitude": 99.55
     },
     {
-        "cityId": "1648725",
+        "cityId": 1648725,
         "name": "Kota Binjai",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.8,
         "longitude": 108.23333
     },
     {
-        "cityId": "6715130",
+        "cityId": 6715130,
         "name": "Kabupaten Serdang Bedagai",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.36667,
         "longitude": 99.03333
     },
     {
-        "cityId": "6725176",
+        "cityId": 6725176,
         "name": "Kabupaten Pakpak Bharat",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.56667,
         "longitude": 98.28333
     },
     {
-        "cityId": "6726149",
+        "cityId": 6726149,
         "name": "Kabupaten Tapanuli Utara",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.0028,
         "longitude": 99.0707
     },
     {
-        "cityId": "8224057",
+        "cityId": 8224057,
         "name": "Kabupaten Nias Selatan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 0.77,
         "longitude": 97.75
     },
     {
-        "cityId": "8611929",
+        "cityId": 8611929,
         "name": "Kabupaten Labuhan Batu Selatan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.983,
         "longitude": 100.0976
     },
     {
-        "cityId": "9161518",
+        "cityId": 9161518,
         "name": "Kabupaten Mandailing Natal",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 0.78378,
         "longitude": 99.25495
     },
     {
-        "cityId": "9162086",
+        "cityId": 9162086,
         "name": "Kabupaten Humbang Hasundutan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.26551,
         "longitude": 98.50376
     },
     {
-        "cityId": "9162842",
+        "cityId": 9162842,
         "name": "Kabupaten Samosir",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.64025,
         "longitude": 98.71525
     },
     {
-        "cityId": "9165769",
+        "cityId": 9165769,
         "name": "Kabupaten Toba Samosir",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.39793,
         "longitude": 99.21678
     },
     {
-        "cityId": "9821910",
+        "cityId": 9821910,
         "name": "Kabupaten Padang Lawas Utara",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.46011,
         "longitude": 99.67346
     },
     {
-        "cityId": "9821911",
+        "cityId": 9821911,
         "name": "Kabupaten Batu Bara",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 3.16166,
         "longitude": 99.52652
     },
     {
-        "cityId": "9821912",
+        "cityId": 9821912,
         "name": "Kabupaten Padang Lawas",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.44684,
         "longitude": 99.99207
     },
     {
-        "cityId": "9821913",
+        "cityId": 9821913,
         "name": "Kabupaten Labuhan Batu Utara",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 2.33349,
         "longitude": 99.63776
     },
     {
-        "cityId": "9828978",
+        "cityId": 9828978,
         "name": "Kabupaten Nias Barat",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.05966,
         "longitude": 97.58606
     },
     {
-        "cityId": "9843567",
+        "cityId": 9843567,
         "name": "Kabupaten Nias Utara",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.33037,
         "longitude": 97.31964
     },
     {
-        "cityId": "9843575",
+        "cityId": 9843575,
         "name": "Kota Padangsidimpuan",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.37375,
         "longitude": 99.26843
     },
     {
-        "cityId": "9846663",
+        "cityId": 9846663,
         "name": "Kota Gunungsitoli",
-        "stateId": "1213642",
+        "stateId": 1213642,
         "latitude": 1.32731,
         "longitude": 97.55018
     }

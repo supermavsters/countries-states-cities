@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11352897",
+        "cityId": 11352897,
         "name": "Seda",
-        "stateId": "7628378",
+        "stateId": 7628378,
         "latitude": 57.65275,
         "longitude": 25.75
     },
     {
-        "cityId": "11352898",
+        "cityId": 11352898,
         "name": "Stren\u010di",
-        "stateId": "7628378",
+        "stateId": 7628378,
         "latitude": 57.62796,
         "longitude": 25.69627
     },
     {
-        "cityId": "11352924",
+        "cityId": 11352924,
         "name": "J\u0113rc\u0113nu pagasts",
-        "stateId": "7628378",
+        "stateId": 7628378,
         "latitude": 57.67539,
         "longitude": 25.69368
     },
     {
-        "cityId": "11352925",
+        "cityId": 11352925,
         "name": "Pl\u0101\u0146u pagasts",
-        "stateId": "7628378",
+        "stateId": 7628378,
         "latitude": 57.59363,
         "longitude": 25.84795
     }

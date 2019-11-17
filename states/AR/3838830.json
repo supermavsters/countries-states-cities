@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3833106",
+        "cityId": 3833106,
         "name": "Departamento de Veinticinco de Mayo",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41.25,
         "longitude": -69
     },
     {
-        "cityId": "3833280",
+        "cityId": 3833280,
         "name": "Departamento de Valcheta",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41,
         "longitude": -66.25
     },
     {
-        "cityId": "3838028",
+        "cityId": 3838028,
         "name": "Departamento de San Antonio",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41,
         "longitude": -65.5
     },
     {
-        "cityId": "3841139",
+        "cityId": 3841139,
         "name": "Departamento de Pilcaniyeu",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -40.75,
         "longitude": -70.5
     },
     {
-        "cityId": "3841356",
+        "cityId": 3841356,
         "name": "Departamento de Pichi Mahuida",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -39.5,
         "longitude": -64.5
     },
     {
-        "cityId": "3842875",
+        "cityId": 3842875,
         "name": "Departamento de Nueve de Julio",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41,
         "longitude": -67.25
     },
     {
-        "cityId": "3842988",
+        "cityId": 3842988,
         "name": "Departamento de \u00d1orquinc\u00f3",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41.66667,
         "longitude": -70.41667
     },
     {
-        "cityId": "3855061",
+        "cityId": 3855061,
         "name": "Departamento de General Roca",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -38.5,
         "longitude": -67.5
     },
     {
-        "cityId": "3858240",
+        "cityId": 3858240,
         "name": "Departamento de El Cuy",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -39.58333,
         "longitude": -68.5
     },
     {
-        "cityId": "3860364",
+        "cityId": 3860364,
         "name": "Departamento de Conesa",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -40.25,
         "longitude": -64.25
     },
     {
-        "cityId": "3864759",
+        "cityId": 3864759,
         "name": "Departamento de Bariloche",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -41.5,
         "longitude": -71.5
     },
     {
-        "cityId": "3865210",
+        "cityId": 3865210,
         "name": "Departamento de Avellaneda",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -39.5,
         "longitude": -66.5
     },
     {
-        "cityId": "3866927",
+        "cityId": 3866927,
         "name": "Departamento de Adolfo Alsina",
-        "stateId": "3838830",
+        "stateId": 3838830,
         "latitude": -40.75,
         "longitude": -63.75
     }

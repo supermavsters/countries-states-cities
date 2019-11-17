@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3880842",
+        "cityId": 3880842,
         "name": "Provincia de Malleco",
-        "stateId": "3899463",
+        "stateId": 3899463,
         "latitude": -38.23591,
         "longitude": -72.13034
     },
     {
-        "cityId": "3896095",
+        "cityId": 3896095,
         "name": "Provincia de Caut\u00edn",
-        "stateId": "3899463",
+        "stateId": 3899463,
         "latitude": -38.94719,
         "longitude": -72.36198
     }

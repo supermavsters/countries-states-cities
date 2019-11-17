@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7732069",
+        "cityId": 7732069,
         "name": "Merkez",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.74454,
         "longitude": 38.26801
     },
     {
-        "cityId": "8630872",
+        "cityId": 8630872,
         "name": "Aral\u0131k \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 39.88314,
         "longitude": 44.5233
     },
     {
-        "cityId": "8631677",
+        "cityId": 8631677,
         "name": "Gerger \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 38.02856,
         "longitude": 39.03281
     },
     {
-        "cityId": "8631678",
+        "cityId": 8631678,
         "name": "Samsat \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.58565,
         "longitude": 38.48946
     },
     {
-        "cityId": "8631679",
+        "cityId": 8631679,
         "name": "K\u00e2hta \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.79477,
         "longitude": 38.63119
     },
     {
-        "cityId": "8631680",
+        "cityId": 8631680,
         "name": "\u00c7elikhan \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 38.03275,
         "longitude": 38.23705
     },
     {
-        "cityId": "8631681",
+        "cityId": 8631681,
         "name": "Besni \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.70142,
         "longitude": 37.87086
     },
     {
-        "cityId": "8631682",
+        "cityId": 8631682,
         "name": "Tut \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.80528,
         "longitude": 37.92296
     },
     {
-        "cityId": "8631683",
+        "cityId": 8631683,
         "name": "Sincik \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 38.03373,
         "longitude": 38.61319
     },
     {
-        "cityId": "8631684",
+        "cityId": 8631684,
         "name": "G\u00f6lba\u015f\u0131 \u0130l\u00e7esi",
-        "stateId": "325329",
+        "stateId": 325329,
         "latitude": 37.79,
         "longitude": 37.64989
     }

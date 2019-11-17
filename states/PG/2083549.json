@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "8657194",
+        "cityId": 8657194,
         "name": "Middle Fly",
-        "stateId": "2083549",
+        "stateId": 2083549,
         "latitude": -7.16667,
         "longitude": 142.03333
     },
     {
-        "cityId": "8657196",
+        "cityId": 8657196,
         "name": "South Fly",
-        "stateId": "2083549",
+        "stateId": 2083549,
         "latitude": -8.61667,
         "longitude": 142.11667
     },
     {
-        "cityId": "9855465",
+        "cityId": 9855465,
         "name": "North Fly",
-        "stateId": "2083549",
+        "stateId": 2083549,
         "latitude": -5.72896,
         "longitude": 141.37482
     }

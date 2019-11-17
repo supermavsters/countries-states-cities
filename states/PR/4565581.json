@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7268113",
+        "cityId": 7268113,
         "name": "Coto Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.482,
         "longitude": -66.97869
     },
     {
-        "cityId": "7268208",
+        "cityId": 7268208,
         "name": "Arenales Altos Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.42674,
         "longitude": -67.02321
     },
     {
-        "cityId": "7268209",
+        "cityId": 7268209,
         "name": "Arenales Bajos Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.45921,
         "longitude": -67.02469
     },
     {
-        "cityId": "7268227",
+        "cityId": 7268227,
         "name": "Bajura Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.51628,
         "longitude": -67.06682
     },
     {
-        "cityId": "7268253",
+        "cityId": 7268253,
         "name": "Bejucos Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.49454,
         "longitude": -67.04265
     },
     {
-        "cityId": "7268403",
+        "cityId": 7268403,
         "name": "Galateo Alto Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.41497,
         "longitude": -66.99437
     },
     {
-        "cityId": "7268404",
+        "cityId": 7268404,
         "name": "Galateo Bajo Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.46377,
         "longitude": -66.99687
     },
     {
-        "cityId": "7268436",
+        "cityId": 7268436,
         "name": "Guayabos Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.50055,
         "longitude": -67.00114
     },
     {
-        "cityId": "7268444",
+        "cityId": 7268444,
         "name": "Guerrero Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.46906,
         "longitude": -67.04368
     },
     {
-        "cityId": "7268496",
+        "cityId": 7268496,
         "name": "Isabela Barrio-Pueblo",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.50072,
         "longitude": -67.02293
     },
     {
-        "cityId": "7268526",
+        "cityId": 7268526,
         "name": "Jobos Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.49778,
         "longitude": -67.06965
     },
     {
-        "cityId": "7268564",
+        "cityId": 7268564,
         "name": "Llanadas Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.44231,
         "longitude": -66.97203
     },
     {
-        "cityId": "7268680",
+        "cityId": 7268680,
         "name": "Mora Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.48234,
         "longitude": -67.01866
     },
     {
-        "cityId": "7268764",
+        "cityId": 7268764,
         "name": "Planas Barrio",
-        "stateId": "4565581",
+        "stateId": 4565581,
         "latitude": 18.40151,
         "longitude": -66.95671
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "784758",
+        "cityId": 784758,
         "name": "Komuna e Ferizajt",
-        "stateId": "10096138",
+        "stateId": 10096138,
         "latitude": 42.36667,
         "longitude": 21.13333
     },
     {
-        "cityId": "789720",
+        "cityId": 789720,
         "name": "Komuna e Ka\u00e7anikut",
-        "stateId": "10096138",
+        "stateId": 10096138,
         "latitude": 42.2,
         "longitude": 21.25
     },
     {
-        "cityId": "831100",
+        "cityId": 831100,
         "name": "Op\u0161tina \u0160trpce",
-        "stateId": "10096138",
+        "stateId": 10096138,
         "latitude": 42.23333,
         "longitude": 21
     },
     {
-        "cityId": "831101",
+        "cityId": 831101,
         "name": "Komuna e Shtimes",
-        "stateId": "10096138",
+        "stateId": 10096138,
         "latitude": 42.41667,
         "longitude": 21.01667
     },
     {
-        "cityId": "8299769",
+        "cityId": 8299769,
         "name": "Hani i Elezit",
-        "stateId": "10096138",
+        "stateId": 10096138,
         "latitude": 42.13886,
         "longitude": 21.26571
     }

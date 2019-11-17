@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7839374",
+        "cityId": 7839374,
         "name": "Belyuen",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.53819,
         "longitude": 130.68317
     },
     {
-        "cityId": "7839375",
+        "cityId": 7839375,
         "name": "Coomalie",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -13.04322,
         "longitude": 131.08427
     },
     {
-        "cityId": "7839402",
+        "cityId": 7839402,
         "name": "Darwin",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.40189,
         "longitude": 130.87684
     },
     {
-        "cityId": "7839403",
+        "cityId": 7839403,
         "name": "East Arnhem",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.66175,
         "longitude": 135.82281
     },
     {
-        "cityId": "7839404",
+        "cityId": 7839404,
         "name": "Katherine",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -14.65012,
         "longitude": 132.17414
     },
     {
-        "cityId": "7839405",
+        "cityId": 7839405,
         "name": "Litchfield",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.50228,
         "longitude": 131.12785
     },
     {
-        "cityId": "7839406",
+        "cityId": 7839406,
         "name": "MacDonnell",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -24.42671,
         "longitude": 133.49982
     },
     {
-        "cityId": "7839407",
+        "cityId": 7839407,
         "name": "Palmerston",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.4962,
         "longitude": 130.97797
     },
     {
-        "cityId": "7839408",
+        "cityId": 7839408,
         "name": "Roper Gulf",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -15.30564,
         "longitude": 134.97356
     },
     {
-        "cityId": "7839409",
+        "cityId": 7839409,
         "name": "Tiwi Islands",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -11.55324,
         "longitude": 130.78178
     },
     {
-        "cityId": "7839410",
+        "cityId": 7839410,
         "name": "Victoria-Daly",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -15.9292,
         "longitude": 130.76166
     },
     {
-        "cityId": "7839411",
+        "cityId": 7839411,
         "name": "Wagait",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.44161,
         "longitude": 130.7537
     },
     {
-        "cityId": "7839412",
+        "cityId": 7839412,
         "name": "West Arnhem",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -12.38723,
         "longitude": 133.37935
     },
     {
-        "cityId": "7839681",
+        "cityId": 7839681,
         "name": "Alice Springs",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -23.731,
         "longitude": 133.83321
     },
     {
-        "cityId": "7839682",
+        "cityId": 7839682,
         "name": "Barkly",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -19.54154,
         "longitude": 134.82364
     },
     {
-        "cityId": "7839685",
+        "cityId": 7839685,
         "name": "Central Desert",
-        "stateId": "2064513",
+        "stateId": 2064513,
         "latitude": -21.07203,
         "longitude": 133.49949
     }

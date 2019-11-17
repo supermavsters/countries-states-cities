@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "3587505",
+        "cityId": 3587505,
         "name": "Municipio de Zunilito",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.63028,
         "longitude": -91.49863
     },
     {
-        "cityId": "3589061",
+        "cityId": 3589061,
         "name": "Municipio de Santo Tom\u00e1s La Uni\u00f3n",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.62273,
         "longitude": -91.41209
     },
     {
-        "cityId": "3589073",
+        "cityId": 3589073,
         "name": "Municipio de Santo Domingo Suchitep\u00e9quez",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.46667,
         "longitude": -91.48333
     },
     {
-        "cityId": "3589465",
+        "cityId": 3589465,
         "name": "Municipio de Santa B\u00e1rbara",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.43333,
         "longitude": -91.23333
     },
     {
-        "cityId": "3589670",
+        "cityId": 3589670,
         "name": "Municipio de San Pablo Jocopilas",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.58333,
         "longitude": -91.45
     },
     {
-        "cityId": "3589708",
+        "cityId": 3589708,
         "name": "Municipio de San Miguel Pan\u00e1n",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.50525,
         "longitude": -91.35956
     },
     {
-        "cityId": "3589861",
+        "cityId": 3589861,
         "name": "Municipio de San Lorenzo",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.48333,
         "longitude": -91.51667
     },
     {
-        "cityId": "3589920",
+        "cityId": 3589920,
         "name": "Municipio de San Juan Bautista",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.41667,
         "longitude": -91.18333
     },
     {
-        "cityId": "3590028",
+        "cityId": 3590028,
         "name": "Municipio de San Jos\u00e9 El \u00cddolo",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.45,
         "longitude": -91.41667
     },
     {
-        "cityId": "3590192",
+        "cityId": 3590192,
         "name": "Municipio de San Gabriel",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.51667,
         "longitude": -91.51667
     },
     {
-        "cityId": "3590196",
+        "cityId": 3590196,
         "name": "Municipio de San Francisco Zapotitl\u00e1n",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.58333,
         "longitude": -91.51667
     },
     {
-        "cityId": "3590382",
+        "cityId": 3590382,
         "name": "Municipio de San Bernardino",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.53333,
         "longitude": -91.45
     },
     {
-        "cityId": "3590411",
+        "cityId": 3590411,
         "name": "Municipio de San Antonio Suchitep\u00e9quez",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.53333,
         "longitude": -91.41667
     },
     {
-        "cityId": "3590566",
+        "cityId": 3590566,
         "name": "Municipio de Samayac",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.58333,
         "longitude": -91.46667
     },
     {
-        "cityId": "3590802",
+        "cityId": 3590802,
         "name": "Municipio de R\u00edo Bravo",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.4,
         "longitude": -91.32
     },
     {
-        "cityId": "3591096",
+        "cityId": 3591096,
         "name": "Municipio de Pueblo Nuevo",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.65,
         "longitude": -91.53333
     },
     {
-        "cityId": "3591540",
+        "cityId": 3591540,
         "name": "Municipio de Patulul",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.41667,
         "longitude": -91.16667
     },
     {
-        "cityId": "3592608",
+        "cityId": 3592608,
         "name": "Municipio de Mazatenango",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.53333,
         "longitude": -91.5
     },
     {
-        "cityId": "3597749",
+        "cityId": 3597749,
         "name": "Municipio de Cuyotenango",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.53333,
         "longitude": -91.56667
     },
     {
-        "cityId": "3598677",
+        "cityId": 3598677,
         "name": "Municipio de Chicacao",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.53333,
         "longitude": -91.31667
     },
     {
-        "cityId": "9975225",
+        "cityId": 9975225,
         "name": "Municipio de San Jos\u00e9 La M\u00e1quina",
-        "stateId": "3588668",
+        "stateId": 3588668,
         "latitude": 14.30155,
         "longitude": -91.56687
     }

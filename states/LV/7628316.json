@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11352802",
+        "cityId": 11352802,
         "name": "Cenu pagasts",
-        "stateId": "7628316",
+        "stateId": 7628316,
         "latitude": 56.6996,
         "longitude": 23.85347
     },
     {
-        "cityId": "11352803",
+        "cityId": 11352803,
         "name": "Salgales pagasts",
-        "stateId": "7628316",
+        "stateId": 7628316,
         "latitude": 56.6118,
         "longitude": 23.99362
     },
     {
-        "cityId": "11352987",
+        "cityId": 11352987,
         "name": "Ozolnieku pagasts",
-        "stateId": "7628316",
+        "stateId": 7628316,
         "latitude": 56.69156,
         "longitude": 23.77333
     }

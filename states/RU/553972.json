@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "466133",
+        "cityId": 466133,
         "name": "Yustinskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 47,
         "longitude": 46.5
     },
     {
-        "cityId": "468746",
+        "cityId": 468746,
         "name": "Yashkul\u2019skiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46.33333,
         "longitude": 45.5
     },
     {
-        "cityId": "468775",
+        "cityId": 468775,
         "name": "Yashaltinskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46.25,
         "longitude": 42.5
     },
     {
-        "cityId": "481029",
+        "cityId": 481029,
         "name": "Tselinnyy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46.5,
         "longitude": 44.5
     },
     {
-        "cityId": "498505",
+        "cityId": 498505,
         "name": "Sarpinskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 47.83333,
         "longitude": 44.83333
     },
     {
-        "cityId": "505020",
+        "cityId": 505020,
         "name": "Priyutnenskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46,
         "longitude": 44
     },
     {
-        "cityId": "505231",
+        "cityId": 505231,
         "name": "Ketchenerovskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 47.16667,
         "longitude": 45.16667
     },
     {
-        "cityId": "515840",
+        "cityId": 515840,
         "name": "Oktyabr\u2019skiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 47.8,
         "longitude": 45.51667
     },
     {
-        "cityId": "530957",
+        "cityId": 530957,
         "name": "Maloderbetovskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 47.93333,
         "longitude": 44.68333
     },
     {
-        "cityId": "551845",
+        "cityId": 551845,
         "name": "Laganskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 45.33333,
         "longitude": 47.16667
     },
     {
-        "cityId": "557412",
+        "cityId": 557412,
         "name": "Iki-Burul\u2019skiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 45.83333,
         "longitude": 44.66667
     },
     {
-        "cityId": "559474",
+        "cityId": 559474,
         "name": "Gorodovikovskiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46.08333,
         "longitude": 42
     },
     {
-        "cityId": "568626",
+        "cityId": 568626,
         "name": "Chernozemel\u2019skiy Rayon",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 45.5,
         "longitude": 46
     },
     {
-        "cityId": "11205599",
+        "cityId": 11205599,
         "name": "Elista Urban Okrug",
-        "stateId": "553972",
+        "stateId": 553972,
         "latitude": 46.30093,
         "longitude": 44.30443
     }

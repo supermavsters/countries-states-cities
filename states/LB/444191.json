@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "271225",
+        "cityId": 271225,
         "name": "Caza de Marjayo\u00fbn",
-        "stateId": "444191",
+        "stateId": 444191,
         "latitude": 33.27511,
         "longitude": 35.53822
     },
     {
-        "cityId": "274311",
+        "cityId": 274311,
         "name": "Caza de H\u00e2sba\u00efya",
-        "stateId": "444191",
+        "stateId": 444191,
         "latitude": 33.38612,
         "longitude": 35.7228
     },
     {
-        "cityId": "276591",
+        "cityId": 276591,
         "name": "Caza de Bent Jba\u00efl",
-        "stateId": "444191",
+        "stateId": 444191,
         "latitude": 33.15964,
         "longitude": 35.41137
     },
     {
-        "cityId": "278915",
+        "cityId": 278915,
         "name": "Caza de Nabat\u00eey\u00e9",
-        "stateId": "444191",
+        "stateId": 444191,
         "latitude": 33.39435,
         "longitude": 35.44483
     },
     {
-        "cityId": "7646521",
+        "cityId": 7646521,
         "name": "Marjayoun",
-        "stateId": "444191",
+        "stateId": 444191,
         "latitude": 33.34578,
         "longitude": 35.53181
     }

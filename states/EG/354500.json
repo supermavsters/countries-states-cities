@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "348095",
+        "cityId": 348095,
         "name": "Markaz S\u012bd\u012b S\u0101lim",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.30489,
         "longitude": 30.76898
     },
     {
-        "cityId": "350795",
+        "cityId": 350795,
         "name": "Markaz Qall\u012bn",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.0796,
         "longitude": 30.83491
     },
     {
-        "cityId": "354501",
+        "cityId": 354501,
         "name": "Markaz Kafr ash Shaykh",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.13696,
         "longitude": 30.96719
     },
     {
-        "cityId": "356805",
+        "cityId": 356805,
         "name": "Markaz Fuwwah",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.22529,
         "longitude": 30.58234
     },
     {
-        "cityId": "358107",
+        "cityId": 358107,
         "name": "Markaz Dis\u016bq",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.1459,
         "longitude": 30.71609
     },
     {
-        "cityId": "358725",
+        "cityId": 358725,
         "name": "Markaz Biyal\u0101",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.32452,
         "longitude": 31.24037
     },
     {
-        "cityId": "361358",
+        "cityId": 361358,
         "name": "Markaz al Burullus",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.59913,
         "longitude": 31.09169
     },
     {
-        "cityId": "7772238",
+        "cityId": 7772238,
         "name": "Markaz al \u1e28\u0101m\u016bl",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.37142,
         "longitude": 31.11126
     },
     {
-        "cityId": "7911002",
+        "cityId": 7911002,
         "name": "Kafr El Sheikh",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.11188,
         "longitude": 30.93612
     },
     {
-        "cityId": "10371122",
+        "cityId": 10371122,
         "name": "Markaz ar Riy\u0101\u1e11",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.31481,
         "longitude": 30.92809
     },
     {
-        "cityId": "10371123",
+        "cityId": 10371123,
         "name": "Markaz Mu\u0163\u016bbas",
-        "stateId": "354500",
+        "stateId": 354500,
         "latitude": 31.36516,
         "longitude": 30.50891
     }

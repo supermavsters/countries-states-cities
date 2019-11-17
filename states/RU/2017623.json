@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "2013174",
+        "cityId": 2013174,
         "name": "Yakovlevskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44.41667,
         "longitude": 133.5
     },
     {
-        "cityId": "2014004",
+        "cityId": 2014004,
         "name": "Ussuriyskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 43.75,
         "longitude": 132
     },
     {
-        "cityId": "2015351",
+        "cityId": 2015351,
         "name": "Terneyskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 46,
         "longitude": 137.5
     },
     {
-        "cityId": "2016184",
+        "cityId": 2016184,
         "name": "Spasskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44.5,
         "longitude": 133
     },
     {
-        "cityId": "2016650",
+        "cityId": 2016650,
         "name": "Shkotovskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 43.33333,
         "longitude": 132.58333
     },
     {
-        "cityId": "2019548",
+        "cityId": 2019548,
         "name": "Nadezhdinskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 43.41667,
         "longitude": 132
     },
     {
-        "cityId": "2019986",
+        "cityId": 2019986,
         "name": "Mikhaylovskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44,
         "longitude": 132
     },
     {
-        "cityId": "2020883",
+        "cityId": 2020883,
         "name": "Lazovskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 43.25,
         "longitude": 134
     },
     {
-        "cityId": "2022059",
+        "cityId": 2022059,
         "name": "Kirovskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 45,
         "longitude": 133.66667
     },
     {
-        "cityId": "2022288",
+        "cityId": 2022288,
         "name": "Khorol\u2019skiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44.41667,
         "longitude": 132.06667
     },
     {
-        "cityId": "2022584",
+        "cityId": 2022584,
         "name": "Khasanskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 42.75,
         "longitude": 131
     },
     {
-        "cityId": "2025486",
+        "cityId": 2025486,
         "name": "Chernigovskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44.33333,
         "longitude": 132.58333
     },
     {
-        "cityId": "2027594",
+        "cityId": 2027594,
         "name": "Anuchinskiy Rayon",
-        "stateId": "2017623",
+        "stateId": 2017623,
         "latitude": 44,
         "longitude": 133
     }

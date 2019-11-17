@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "11352576",
+        "cityId": 11352576,
         "name": "Daudzeses pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.48061,
         "longitude": 25.17296
     },
     {
-        "cityId": "11352588",
+        "cityId": 11352588,
         "name": "Jaunjelgava",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.61139,
         "longitude": 25.08186
     },
     {
-        "cityId": "11352593",
+        "cityId": 11352593,
         "name": "Jaunjelgavas pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.5946,
         "longitude": 25.07059
     },
     {
-        "cityId": "11352625",
+        "cityId": 11352625,
         "name": "Seces pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.53535,
         "longitude": 25.37643
     },
     {
-        "cityId": "11352626",
+        "cityId": 11352626,
         "name": "S\u0113renes pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.56822,
         "longitude": 25.1489
     },
     {
-        "cityId": "11352627",
+        "cityId": 11352627,
         "name": "Staburaga pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.54237,
         "longitude": 25.51537
     },
     {
-        "cityId": "11352628",
+        "cityId": 11352628,
         "name": "Sun\u0101kstes pagasts",
-        "stateId": "7628333",
+        "stateId": 7628333,
         "latitude": 56.46089,
         "longitude": 25.46724
     }

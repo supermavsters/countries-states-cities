@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "8010446",
+        "cityId": 8010446,
         "name": "Amares",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.64718,
         "longitude": -8.35558
     },
     {
-        "cityId": "8010447",
+        "cityId": 8010447,
         "name": "Barcelos",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.53183,
         "longitude": -8.61233
     },
     {
-        "cityId": "8010448",
+        "cityId": 8010448,
         "name": "Braga",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.55801,
         "longitude": -8.42308
     },
     {
-        "cityId": "8010449",
+        "cityId": 8010449,
         "name": "Cabeceiras de Basto",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.52079,
         "longitude": -7.97198
     },
     {
-        "cityId": "8010450",
+        "cityId": 8010450,
         "name": "Celorico de Basto",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.40278,
         "longitude": -8.03346
     },
     {
-        "cityId": "8010451",
+        "cityId": 8010451,
         "name": "Esposende",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.54516,
         "longitude": -8.75754
     },
     {
-        "cityId": "8010452",
+        "cityId": 8010452,
         "name": "Fafe",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.46837,
         "longitude": -8.15863
     },
     {
-        "cityId": "8010453",
+        "cityId": 8010453,
         "name": "Guimar\u00e3es",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.44384,
         "longitude": -8.28918
     },
     {
-        "cityId": "8010454",
+        "cityId": 8010454,
         "name": "P\u00f3voa de Lanhoso",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.58825,
         "longitude": -8.26447
     },
     {
-        "cityId": "8010455",
+        "cityId": 8010455,
         "name": "Terras de Bouro",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.73914,
         "longitude": -8.19109
     },
     {
-        "cityId": "8010456",
+        "cityId": 8010456,
         "name": "Vieira do Minho",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.63557,
         "longitude": -8.13244
     },
     {
-        "cityId": "8010457",
+        "cityId": 8010457,
         "name": "Vila Nova de Famalic\u00e3o",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.41223,
         "longitude": -8.48511
     },
     {
-        "cityId": "8010458",
+        "cityId": 8010458,
         "name": "Vila Verde",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.64869,
         "longitude": -8.43628
     },
     {
-        "cityId": "8010459",
+        "cityId": 8010459,
         "name": "Vizela",
-        "stateId": "2742031",
+        "stateId": 2742031,
         "latitude": 41.37529,
         "longitude": -8.2931
     }

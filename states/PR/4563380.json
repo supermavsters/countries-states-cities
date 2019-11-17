@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268054",
+        "cityId": 7268054,
         "name": "Ceiba Barrio-Pueblo",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.26365,
         "longitude": -65.64812
     },
     {
-        "cityId": "7268072",
+        "cityId": 7268072,
         "name": "Chupacallos Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.25648,
         "longitude": -65.66751
     },
     {
-        "cityId": "7268141",
+        "cityId": 7268141,
         "name": "Daguao Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.24115,
         "longitude": -65.68245
     },
     {
-        "cityId": "7268438",
+        "cityId": 7268438,
         "name": "Guayac\u00e1n Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.22056,
         "longitude": -65.63464
     },
     {
-        "cityId": "7268583",
+        "cityId": 7268583,
         "name": "Machos Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.25466,
         "longitude": -65.61874
     },
     {
-        "cityId": "7268862",
+        "cityId": 7268862,
         "name": "Quebrada Seca Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.23202,
         "longitude": -65.66455
     },
     {
-        "cityId": "7268884",
+        "cityId": 7268884,
         "name": "R\u00edo Abajo Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.27075,
         "longitude": -65.72344
     },
     {
-        "cityId": "7268950",
+        "cityId": 7268950,
         "name": "Saco Barrio",
-        "stateId": "4563380",
+        "stateId": 4563380,
         "latitude": 18.27341,
         "longitude": -65.66603
     }

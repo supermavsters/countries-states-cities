@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7670840",
+        "cityId": 7670840,
         "name": "Commune of Ketou",
-        "stateId": "2597277",
+        "stateId": 2597277,
         "latitude": 7.45,
         "longitude": 2.626
     },
     {
-        "cityId": "7670841",
+        "cityId": 7670841,
         "name": "Commune of Pobe",
-        "stateId": "2597277",
+        "stateId": 2597277,
         "latitude": 7.097,
         "longitude": 2.698
     },
     {
-        "cityId": "8334580",
+        "cityId": 8334580,
         "name": "Commune of Sakete",
-        "stateId": "2597277",
+        "stateId": 2597277,
         "latitude": 6.766,
         "longitude": 2.661
     },
     {
-        "cityId": "8335162",
+        "cityId": 8335162,
         "name": "Adjaouere",
-        "stateId": "2597277",
+        "stateId": 2597277,
         "latitude": 6.968,
         "longitude": 2.587
     },
     {
-        "cityId": "9063970",
+        "cityId": 9063970,
         "name": "Ifangni",
-        "stateId": "2597277",
+        "stateId": 2597277,
         "latitude": 6.66667,
         "longitude": 2.71667
     }

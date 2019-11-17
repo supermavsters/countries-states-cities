@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "164625",
+        "cityId": 164625,
         "name": "Shahba District",
-        "stateId": "172410",
+        "stateId": 172410,
         "latitude": 33.04282,
         "longitude": 36.72034
     },
     {
-        "cityId": "164916",
+        "cityId": 164916,
         "name": "Salkhad District",
-        "stateId": "172410",
+        "stateId": 172410,
         "latitude": 32.51779,
         "longitude": 36.91954
     },
     {
-        "cityId": "172409",
+        "cityId": 172409,
         "name": "As-Suwayda District",
-        "stateId": "172410",
+        "stateId": 172410,
         "latitude": 32.78127,
         "longitude": 36.86502
     }

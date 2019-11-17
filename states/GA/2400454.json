@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7870333",
+        "cityId": 7870333,
         "name": "Plateaux Department",
-        "stateId": "2400454",
+        "stateId": 2400454,
         "latitude": -1.608,
         "longitude": 14.243
     },
     {
-        "cityId": "7870395",
+        "cityId": 7870395,
         "name": "Mpassa Department",
-        "stateId": "2400454",
+        "stateId": 2400454,
         "latitude": -1.711,
         "longitude": 13.61
     },
     {
-        "cityId": "7870474",
+        "cityId": 7870474,
         "name": "Passa",
-        "stateId": "2400454",
+        "stateId": 2400454,
         "latitude": -2.00173,
         "longitude": 13.84506
     },
     {
-        "cityId": "8260627",
+        "cityId": 8260627,
         "name": "Leboumbi-Leyou Department",
-        "stateId": "2400454",
+        "stateId": 2400454,
         "latitude": -1.481,
         "longitude": 13.181
     },
     {
-        "cityId": "8260634",
+        "cityId": 8260634,
         "name": "Lekoko Department",
-        "stateId": "2400454",
+        "stateId": 2400454,
         "latitude": -1.974,
         "longitude": 13.097
     }

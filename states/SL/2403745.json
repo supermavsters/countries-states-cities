@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2404399",
+        "cityId": 2404399,
         "name": "Pujehun District",
-        "stateId": "2403745",
+        "stateId": 2403745,
         "latitude": 7.31855,
         "longitude": -11.5792
     },
     {
-        "cityId": "2405008",
+        "cityId": 2405008,
         "name": "Moyamba District",
-        "stateId": "2403745",
+        "stateId": 2403745,
         "latitude": 8.0629,
         "longitude": -12.44401
     },
     {
-        "cityId": "2409913",
+        "cityId": 2409913,
         "name": "Bonthe District",
-        "stateId": "2403745",
+        "stateId": 2403745,
         "latitude": 7.51622,
         "longitude": -12.33591
     },
     {
-        "cityId": "2410021",
+        "cityId": 2410021,
         "name": "Bo District",
-        "stateId": "2403745",
+        "stateId": 2403745,
         "latitude": 7.98877,
         "longitude": -11.6734
     }

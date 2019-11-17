@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2440494",
+        "cityId": 2440494,
         "name": "D\u00e9partement de Nguigmi",
-        "stateId": "2445702",
+        "stateId": 2445702,
         "latitude": 16,
         "longitude": 13.5
     },
     {
-        "cityId": "2441446",
+        "cityId": 2441446,
         "name": "D\u00e9partement de Ma\u00efn\u00e9-Soroa",
-        "stateId": "2445702",
+        "stateId": 2445702,
         "latitude": 13.75,
         "longitude": 11.5
     },
     {
-        "cityId": "2445703",
+        "cityId": 2445703,
         "name": "D\u00e9partement de Diffa",
-        "stateId": "2445702",
+        "stateId": 2445702,
         "latitude": 13.66667,
         "longitude": 12.5
     }

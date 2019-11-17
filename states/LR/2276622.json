@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2273657",
+        "cityId": 2273657,
         "name": "Tchien",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.05828,
         "longitude": -8.13435
     },
     {
-        "cityId": "2274312",
+        "cityId": 2274312,
         "name": "Putu",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 5.66854,
         "longitude": -8.20401
     },
     {
-        "cityId": "2274719",
+        "cityId": 2274719,
         "name": "Niabo",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.25694,
         "longitude": -8.08389
     },
     {
-        "cityId": "2275728",
+        "cityId": 2275728,
         "name": "Konobo",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 5.85176,
         "longitude": -7.88715
     },
     {
-        "cityId": "2276801",
+        "cityId": 2276801,
         "name": "Glio-Twarbo",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 5.69612,
         "longitude": -7.59527
     },
     {
-        "cityId": "2276983",
+        "cityId": 2276983,
         "name": "Gbobo",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.16667,
         "longitude": -8.16667
     },
     {
-        "cityId": "2277043",
+        "cityId": 2277043,
         "name": "Gbazohn",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.16667,
         "longitude": -8.41667
     },
     {
-        "cityId": "2278611",
+        "cityId": 2278611,
         "name": "B\u2019hai District",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.38751,
         "longitude": -8.48982
     },
     {
-        "cityId": "9645153",
+        "cityId": 9645153,
         "name": "Gboe-Ploe District",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.01709,
         "longitude": -8.79236
     },
     {
-        "cityId": "9645154",
+        "cityId": 9645154,
         "name": "Gbao District",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.07333,
         "longitude": -8.50436
     },
     {
-        "cityId": "9645155",
+        "cityId": 9645155,
         "name": "Cavala District",
-        "stateId": "2276622",
+        "stateId": 2276622,
         "latitude": 6.11018,
         "longitude": -8.23964
     }

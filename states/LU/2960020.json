@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "6693331",
+        "cityId": 6693331,
         "name": "Tandel",
-        "stateId": "2960020",
+        "stateId": 2960020,
         "latitude": 49.91556,
         "longitude": 6.19611
     },
     {
-        "cityId": "6693332",
+        "cityId": 6693332,
         "name": "Putscheid",
-        "stateId": "2960020",
+        "stateId": 2960020,
         "latitude": 49.96083,
         "longitude": 6.14306
     },
     {
-        "cityId": "6693333",
+        "cityId": 6693333,
         "name": "Vianden",
-        "stateId": "2960020",
+        "stateId": 2960020,
         "latitude": 49.935,
         "longitude": 6.20889
     }

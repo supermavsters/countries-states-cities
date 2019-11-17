@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "6458855",
+        "cityId": 6458855,
         "name": "Morges District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.53578,
         "longitude": 6.48662
     },
     {
-        "cityId": "6458866",
+        "cityId": 6458866,
         "name": "Lausanne District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.52131,
         "longitude": 6.63334
     },
     {
-        "cityId": "6458896",
+        "cityId": 6458896,
         "name": "Aigle District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.30577,
         "longitude": 7.02974
     },
     {
-        "cityId": "7285002",
+        "cityId": 7285002,
         "name": "Broye-Vully District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.78082,
         "longitude": 6.90161
     },
     {
-        "cityId": "7285003",
+        "cityId": 7285003,
         "name": "Gros-de-Vaud District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.6518,
         "longitude": 6.65728
     },
     {
-        "cityId": "7285004",
+        "cityId": 7285004,
         "name": "Jura-Nord vaudois District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.72981,
         "longitude": 6.45429
     },
     {
-        "cityId": "7285005",
+        "cityId": 7285005,
         "name": "Lavaux-Oron District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.53618,
         "longitude": 6.77086
     },
     {
-        "cityId": "7285006",
+        "cityId": 7285006,
         "name": "Nyon District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.42004,
         "longitude": 6.22177
     },
     {
-        "cityId": "7285007",
+        "cityId": 7285007,
         "name": "Ouest Lausannois District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.54589,
         "longitude": 6.56995
     },
     {
-        "cityId": "7285009",
+        "cityId": 7285009,
         "name": "Riviera-Pays-d'Enhaut District",
-        "stateId": "2658182",
+        "stateId": 2658182,
         "latitude": 46.46459,
         "longitude": 6.88499
     }

@@ -1,358 +1,358 @@
 [
     {
-        "cityId": "11351445",
+        "cityId": 11351445,
         "name": "La Pelle",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.94096,
         "longitude": -60.90569
     },
     {
-        "cityId": "11351454",
+        "cityId": 11351454,
         "name": "Thomazo\/Tournesse",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91902,
         "longitude": -60.94465
     },
     {
-        "cityId": "11351457",
+        "cityId": 11351457,
         "name": "Gadette",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95937,
         "longitude": -60.91029
     },
     {
-        "cityId": "11351472",
+        "cityId": 11351472,
         "name": "Bosquet D'Or",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92886,
         "longitude": -60.91127
     },
     {
-        "cityId": "11351473",
+        "cityId": 11351473,
         "name": "Belmont",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95044,
         "longitude": -60.93276
     },
     {
-        "cityId": "11351474",
+        "cityId": 11351474,
         "name": "Bois Joli",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9202,
         "longitude": -60.91409
     },
     {
-        "cityId": "11351481",
+        "cityId": 11351481,
         "name": "Louvet",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95925,
         "longitude": -60.88703
     },
     {
-        "cityId": "11351492",
+        "cityId": 11351492,
         "name": "Grande Ravine",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.94263,
         "longitude": -60.93404
     },
     {
-        "cityId": "11351504",
+        "cityId": 11351504,
         "name": "Central Forest Reserve",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.86748,
         "longitude": -60.98481
     },
     {
-        "cityId": "11351506",
+        "cityId": 11351506,
         "name": "Derniere Riviere\/Fond Petit",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.96559,
         "longitude": -60.93041
     },
     {
-        "cityId": "11351543",
+        "cityId": 11351543,
         "name": "Thamazo",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93245,
         "longitude": -60.94786
     },
     {
-        "cityId": "11351547",
+        "cityId": 11351547,
         "name": "Lumiere",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93928,
         "longitude": -60.88889
     },
     {
-        "cityId": "11351548",
+        "cityId": 11351548,
         "name": "Errard",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.89242,
         "longitude": -60.93585
     },
     {
-        "cityId": "11351551",
+        "cityId": 11351551,
         "name": "Grande Riviere\/Morne Caca Cochon",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9296,
         "longitude": -60.93794
     },
     {
-        "cityId": "11351565",
+        "cityId": 11351565,
         "name": "Dubonnaire",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92808,
         "longitude": -60.92336
     },
     {
-        "cityId": "11351572",
+        "cityId": 11351572,
         "name": "Bazile",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91082,
         "longitude": -60.9243
     },
     {
-        "cityId": "11351585",
+        "cityId": 11351585,
         "name": "La Sociere",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9735,
         "longitude": -60.8998
     },
     {
-        "cityId": "11351592",
+        "cityId": 11351592,
         "name": "Grande Riviere\/Des Branch",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93383,
         "longitude": -60.93499
     },
     {
-        "cityId": "11351593",
+        "cityId": 11351593,
         "name": "Riche Fond",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93644,
         "longitude": -60.92026
     },
     {
-        "cityId": "11351595",
+        "cityId": 11351595,
         "name": "Bordelais",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.89552,
         "longitude": -60.90092
     },
     {
-        "cityId": "11351727",
+        "cityId": 11351727,
         "name": "Dennery By Pass\/Green Mountain",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91094,
         "longitude": -60.8981
     },
     {
-        "cityId": "11351728",
+        "cityId": 11351728,
         "name": "Bara Bara",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95911,
         "longitude": -60.93414
     },
     {
-        "cityId": "11351729",
+        "cityId": 11351729,
         "name": "Au Leon",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95245,
         "longitude": -60.90456
     },
     {
-        "cityId": "11351730",
+        "cityId": 11351730,
         "name": "Delaide",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92993,
         "longitude": -60.90584
     },
     {
-        "cityId": "11351731",
+        "cityId": 11351731,
         "name": "Dennery By Pass",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91164,
         "longitude": -60.89454
     },
     {
-        "cityId": "11351732",
+        "cityId": 11351732,
         "name": "Anse Canot",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.90871,
         "longitude": -60.9044
     },
     {
-        "cityId": "11351734",
+        "cityId": 11351734,
         "name": "Athens",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.90574,
         "longitude": -60.89184
     },
     {
-        "cityId": "11351735",
+        "cityId": 11351735,
         "name": "Derniere Riviere\/Mardi Gras\/Morne Caca Cochon",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.96288,
         "longitude": -60.92029
     },
     {
-        "cityId": "11351736",
+        "cityId": 11351736,
         "name": "Riche Fond\/La Belle Vie",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93782,
         "longitude": -60.92908
     },
     {
-        "cityId": "11351737",
+        "cityId": 11351737,
         "name": "Riche Fond\/New Village",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93648,
         "longitude": -60.92394
     },
     {
-        "cityId": "11351738",
+        "cityId": 11351738,
         "name": "Dennery By Pass\/Rocky Lane",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91443,
         "longitude": -60.90017
     },
     {
-        "cityId": "11351739",
+        "cityId": 11351739,
         "name": "Barre De L'Isle",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92358,
         "longitude": -60.96019
     },
     {
-        "cityId": "11351740",
+        "cityId": 11351740,
         "name": "Mount Beaujolais",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.90646,
         "longitude": -60.93395
     },
     {
-        "cityId": "11351741",
+        "cityId": 11351741,
         "name": "Derniere Riviere\/Fond Maricient",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9513,
         "longitude": -60.92218
     },
     {
-        "cityId": "11351742",
+        "cityId": 11351742,
         "name": "Dennery By Pass\/White Rock Gardens",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91424,
         "longitude": -60.89333
     },
     {
-        "cityId": "11351743",
+        "cityId": 11351743,
         "name": "Grande Riviere",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93306,
         "longitude": -60.93239
     },
     {
-        "cityId": "11351745",
+        "cityId": 11351745,
         "name": "Grande Riviere\/En Leur Morne\/Discompere",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.93223,
         "longitude": -60.93461
     },
     {
-        "cityId": "11351746",
+        "cityId": 11351746,
         "name": "Grande Riviere\/Funier",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9324,
         "longitude": -60.93305
     },
     {
-        "cityId": "11351747",
+        "cityId": 11351747,
         "name": "Morne Panache",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92167,
         "longitude": -60.93654
     },
     {
-        "cityId": "11351749",
+        "cityId": 11351749,
         "name": "Derniere Riviere",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95679,
         "longitude": -60.92578
     },
     {
-        "cityId": "11351750",
+        "cityId": 11351750,
         "name": "Derniere Riviere\/Morne Panache",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.95252,
         "longitude": -60.92919
     },
     {
-        "cityId": "11351751",
+        "cityId": 11351751,
         "name": "Despinoze",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.94971,
         "longitude": -60.91182
     },
     {
-        "cityId": "11351753",
+        "cityId": 11351753,
         "name": "Fond D'Or",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92356,
         "longitude": -60.89396
     },
     {
-        "cityId": "11351754",
+        "cityId": 11351754,
         "name": "Glavier",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.92246,
         "longitude": -60.91126
     },
     {
-        "cityId": "11351756",
+        "cityId": 11351756,
         "name": "Pascal",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.90138,
         "longitude": -60.89153
     },
     {
-        "cityId": "11351757",
+        "cityId": 11351757,
         "name": "St. Joseph Estate",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.90066,
         "longitude": -60.91444
     },
     {
-        "cityId": "11351758",
+        "cityId": 11351758,
         "name": "La Caye",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.9329,
         "longitude": -60.90434
     },
     {
-        "cityId": "11351759",
+        "cityId": 11351759,
         "name": "La Ressource",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.94293,
         "longitude": -60.91585
     },
     {
-        "cityId": "11351762",
+        "cityId": 11351762,
         "name": "Dennery Village",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91099,
         "longitude": -60.89122
     },
     {
-        "cityId": "11351764",
+        "cityId": 11351764,
         "name": "La Pointe",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.91525,
         "longitude": -60.8883
     },
     {
-        "cityId": "11351766",
+        "cityId": 11351766,
         "name": "Mandele",
-        "stateId": "3576764",
+        "stateId": 3576764,
         "latitude": 13.89545,
         "longitude": -60.885
     }

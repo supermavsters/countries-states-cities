@@ -1,792 +1,792 @@
 [
     {
-        "cityId": "8581715",
+        "cityId": 8581715,
         "name": "Venustiano Carranza",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.12162,
         "longitude": -102.67397
     },
     {
-        "cityId": "8582258",
+        "cityId": 8582258,
         "name": "Acuitzio",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.47178,
         "longitude": -101.32921
     },
     {
-        "cityId": "8582259",
+        "cityId": 8582259,
         "name": "Aguililla",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.76833,
         "longitude": -102.76541
     },
     {
-        "cityId": "8582260",
+        "cityId": 8582260,
         "name": "Angamacutiro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.13444,
         "longitude": -101.72696
     },
     {
-        "cityId": "8582261",
+        "cityId": 8582261,
         "name": "Angangueo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.62239,
         "longitude": -100.30179
     },
     {
-        "cityId": "8582262",
+        "cityId": 8582262,
         "name": "Apatzing\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.98843,
         "longitude": -102.42183
     },
     {
-        "cityId": "8582263",
+        "cityId": 8582263,
         "name": "Aporo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.65192,
         "longitude": -100.39583
     },
     {
-        "cityId": "8582264",
+        "cityId": 8582264,
         "name": "Aquila",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.37585,
         "longitude": -103.2231
     },
     {
-        "cityId": "8582265",
+        "cityId": 8582265,
         "name": "Ario",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.16471,
         "longitude": -101.70663
     },
     {
-        "cityId": "8582266",
+        "cityId": 8582266,
         "name": "Arteaga",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.3222,
         "longitude": -102.37006
     },
     {
-        "cityId": "8582267",
+        "cityId": 8582267,
         "name": "Brise\u00f1as",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.25149,
         "longitude": -102.57124
     },
     {
-        "cityId": "8582268",
+        "cityId": 8582268,
         "name": "Buenavista",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.18802,
         "longitude": -102.58471
     },
     {
-        "cityId": "8582269",
+        "cityId": 8582269,
         "name": "Car\u00e1cuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.98513,
         "longitude": -101.04164
     },
     {
-        "cityId": "8582270",
+        "cityId": 8582270,
         "name": "Coahuayana",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.72911,
         "longitude": -103.63713
     },
     {
-        "cityId": "8582271",
+        "cityId": 8582271,
         "name": "Coalcom\u00e1n de V\u00e1zquez Pallares",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.66781,
         "longitude": -103.10387
     },
     {
-        "cityId": "8582272",
+        "cityId": 8582272,
         "name": "Coeneo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.81067,
         "longitude": -101.61956
     },
     {
-        "cityId": "8582273",
+        "cityId": 8582273,
         "name": "Contepec",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.95493,
         "longitude": -100.21235
     },
     {
-        "cityId": "8582274",
+        "cityId": 8582274,
         "name": "Cop\u00e1ndaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.88939,
         "longitude": -101.23889
     },
     {
-        "cityId": "8582275",
+        "cityId": 8582275,
         "name": "Cotija",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.74808,
         "longitude": -102.70878
     },
     {
-        "cityId": "8582276",
+        "cityId": 8582276,
         "name": "Cuitzeo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.99585,
         "longitude": -101.14315
     },
     {
-        "cityId": "8582277",
+        "cityId": 8582277,
         "name": "Charapan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.6578,
         "longitude": -102.24526
     },
     {
-        "cityId": "8582278",
+        "cityId": 8582278,
         "name": "Charo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.66465,
         "longitude": -101.01489
     },
     {
-        "cityId": "8582279",
+        "cityId": 8582279,
         "name": "Chavinda",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.04768,
         "longitude": -102.43914
     },
     {
-        "cityId": "8582280",
+        "cityId": 8582280,
         "name": "Cher\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.7041,
         "longitude": -101.997
     },
     {
-        "cityId": "8582281",
+        "cityId": 8582281,
         "name": "Chilchota",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.8419,
         "longitude": -102.08477
     },
     {
-        "cityId": "8582282",
+        "cityId": 8582282,
         "name": "Chinicuila",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.72234,
         "longitude": -103.3903
     },
     {
-        "cityId": "8582283",
+        "cityId": 8582283,
         "name": "Chuc\u00e1ndiro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.89149,
         "longitude": -101.34831
     },
     {
-        "cityId": "8582284",
+        "cityId": 8582284,
         "name": "Churintzio",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.12849,
         "longitude": -102.08104
     },
     {
-        "cityId": "8582285",
+        "cityId": 8582285,
         "name": "Churumuco",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.70629,
         "longitude": -101.60986
     },
     {
-        "cityId": "8582286",
+        "cityId": 8582286,
         "name": "Ecuandureo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.15203,
         "longitude": -102.2254
     },
     {
-        "cityId": "8582287",
+        "cityId": 8582287,
         "name": "Epitacio Huerta",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.14661,
         "longitude": -100.28577
     },
     {
-        "cityId": "8582288",
+        "cityId": 8582288,
         "name": "Erongar\u00edcuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.59342,
         "longitude": -101.72001
     },
     {
-        "cityId": "8582289",
+        "cityId": 8582289,
         "name": "Gabriel Zamora",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.17456,
         "longitude": -102.01722
     },
     {
-        "cityId": "8582291",
+        "cityId": 8582291,
         "name": "Hidalgo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.58866,
         "longitude": -100.6709
     },
     {
-        "cityId": "8582292",
+        "cityId": 8582292,
         "name": "La Huacana",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.88776,
         "longitude": -101.87491
     },
     {
-        "cityId": "8582293",
+        "cityId": 8582293,
         "name": "Huandacareo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.97831,
         "longitude": -101.28509
     },
     {
-        "cityId": "8582294",
+        "cityId": 8582294,
         "name": "Huaniqueo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.89465,
         "longitude": -101.51221
     },
     {
-        "cityId": "8582295",
+        "cityId": 8582295,
         "name": "Huetamo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.6577,
         "longitude": -101.05964
     },
     {
-        "cityId": "8582296",
+        "cityId": 8582296,
         "name": "Huiramba",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.52645,
         "longitude": -101.45959
     },
     {
-        "cityId": "8582297",
+        "cityId": 8582297,
         "name": "Indaparapeo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.75994,
         "longitude": -100.94535
     },
     {
-        "cityId": "8582298",
+        "cityId": 8582298,
         "name": "Irimbo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.7076,
         "longitude": -100.46354
     },
     {
-        "cityId": "8582299",
+        "cityId": 8582299,
         "name": "Ixtl\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.14426,
         "longitude": -102.4107
     },
     {
-        "cityId": "8582300",
+        "cityId": 8582300,
         "name": "Jacona",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.94951,
         "longitude": -102.31788
     },
     {
-        "cityId": "8582301",
+        "cityId": 8582301,
         "name": "Jim\u00e9nez",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.92392,
         "longitude": -101.72895
     },
     {
-        "cityId": "8582302",
+        "cityId": 8582302,
         "name": "Jiquilpan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.98474,
         "longitude": -102.75099
     },
     {
-        "cityId": "8582303",
+        "cityId": 8582303,
         "name": "Ju\u00e1rez",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.30398,
         "longitude": -100.43243
     },
     {
-        "cityId": "8582304",
+        "cityId": 8582304,
         "name": "Jungapeo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.44836,
         "longitude": -100.51448
     },
     {
-        "cityId": "8582305",
+        "cityId": 8582305,
         "name": "Lagunillas",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.5707,
         "longitude": -101.41941
     },
     {
-        "cityId": "8582306",
+        "cityId": 8582306,
         "name": "Madero",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.33549,
         "longitude": -101.15479
     },
     {
-        "cityId": "8582307",
+        "cityId": 8582307,
         "name": "Maravat\u00edo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.89016,
         "longitude": -100.4237
     },
     {
-        "cityId": "8582308",
+        "cityId": 8582308,
         "name": "Marcos Castellanos",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.03513,
         "longitude": -102.97274
     },
     {
-        "cityId": "8582309",
+        "cityId": 8582309,
         "name": "L\u00e1zaro C\u00e1rdenas",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.07126,
         "longitude": -102.3822
     },
     {
-        "cityId": "8582310",
+        "cityId": 8582310,
         "name": "Morelia",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.65344,
         "longitude": -101.25202
     },
     {
-        "cityId": "8582311",
+        "cityId": 8582311,
         "name": "Morelos",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.99269,
         "longitude": -101.43651
     },
     {
-        "cityId": "8582312",
+        "cityId": 8582312,
         "name": "M\u00fagica",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.98592,
         "longitude": -102.12132
     },
     {
-        "cityId": "8582313",
+        "cityId": 8582313,
         "name": "Nahuatzen",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.63029,
         "longitude": -101.89599
     },
     {
-        "cityId": "8582314",
+        "cityId": 8582314,
         "name": "Nocup\u00e9taro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.11303,
         "longitude": -101.2125
     },
     {
-        "cityId": "8582315",
+        "cityId": 8582315,
         "name": "Nuevo Parangaricutiro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.39221,
         "longitude": -102.18391
     },
     {
-        "cityId": "8582316",
+        "cityId": 8582316,
         "name": "Nuevo Urecho",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.15417,
         "longitude": -101.86134
     },
     {
-        "cityId": "8582317",
+        "cityId": 8582317,
         "name": "Numar\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.27263,
         "longitude": -101.96295
     },
     {
-        "cityId": "8582318",
+        "cityId": 8582318,
         "name": "Ocampo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.58442,
         "longitude": -100.3422
     },
     {
-        "cityId": "8582319",
+        "cityId": 8582319,
         "name": "Pajacuar\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.13484,
         "longitude": -102.52589
     },
     {
-        "cityId": "8582320",
+        "cityId": 8582320,
         "name": "Panind\u00edcuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.01155,
         "longitude": -101.76462
     },
     {
-        "cityId": "8582321",
+        "cityId": 8582321,
         "name": "Par\u00e1cuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.04798,
         "longitude": -102.22357
     },
     {
-        "cityId": "8582322",
+        "cityId": 8582322,
         "name": "Paracho",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.64825,
         "longitude": -102.06505
     },
     {
-        "cityId": "8582323",
+        "cityId": 8582323,
         "name": "P\u00e1tzcuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.508,
         "longitude": -101.58501
     },
     {
-        "cityId": "8582324",
+        "cityId": 8582324,
         "name": "Penjamillo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.13411,
         "longitude": -101.9126
     },
     {
-        "cityId": "8582325",
+        "cityId": 8582325,
         "name": "Perib\u00e1n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.50441,
         "longitude": -102.42772
     },
     {
-        "cityId": "8582326",
+        "cityId": 8582326,
         "name": "La Piedad",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.31674,
         "longitude": -102.03114
     },
     {
-        "cityId": "8582327",
+        "cityId": 8582327,
         "name": "Pur\u00e9pero",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.90546,
         "longitude": -101.99704
     },
     {
-        "cityId": "8582328",
+        "cityId": 8582328,
         "name": "Puru\u00e1ndiro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.11211,
         "longitude": -101.5235
     },
     {
-        "cityId": "8582329",
+        "cityId": 8582329,
         "name": "Quer\u00e9ndaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.69745,
         "longitude": -100.84379
     },
     {
-        "cityId": "8582330",
+        "cityId": 8582330,
         "name": "Quiroga",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.67203,
         "longitude": -101.54393
     },
     {
-        "cityId": "8582331",
+        "cityId": 8582331,
         "name": "Cojumatl\u00e1n de R\u00e9gules",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.11396,
         "longitude": -102.87005
     },
     {
-        "cityId": "8582332",
+        "cityId": 8582332,
         "name": "Los Reyes",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.64909,
         "longitude": -102.41364
     },
     {
-        "cityId": "8582333",
+        "cityId": 8582333,
         "name": "Sahuayo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.05792,
         "longitude": -102.75119
     },
     {
-        "cityId": "8582334",
+        "cityId": 8582334,
         "name": "San Lucas",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.58707,
         "longitude": -100.79865
     },
     {
-        "cityId": "8582335",
+        "cityId": 8582335,
         "name": "Santa Ana Maya",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.04146,
         "longitude": -101.04209
     },
     {
-        "cityId": "8582336",
+        "cityId": 8582336,
         "name": "Salvador Escalante",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.37335,
         "longitude": -101.69617
     },
     {
-        "cityId": "8582337",
+        "cityId": 8582337,
         "name": "Senguio",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.75386,
         "longitude": -100.33771
     },
     {
-        "cityId": "8582338",
+        "cityId": 8582338,
         "name": "Susupuato",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.19587,
         "longitude": -100.40633
     },
     {
-        "cityId": "8582339",
+        "cityId": 8582339,
         "name": "Tac\u00e1mbaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.24033,
         "longitude": -101.4473
     },
     {
-        "cityId": "8582340",
+        "cityId": 8582340,
         "name": "Tanc\u00edtaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.31067,
         "longitude": -102.3484
     },
     {
-        "cityId": "8582341",
+        "cityId": 8582341,
         "name": "Tangamandapio",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.91163,
         "longitude": -102.43409
     },
     {
-        "cityId": "8582342",
+        "cityId": 8582342,
         "name": "Tanganc\u00edcuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.88294,
         "longitude": -102.22859
     },
     {
-        "cityId": "8582343",
+        "cityId": 8582343,
         "name": "Tanhuato",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.28521,
         "longitude": -102.33911
     },
     {
-        "cityId": "8582344",
+        "cityId": 8582344,
         "name": "Taretan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.32798,
         "longitude": -101.91019
     },
     {
-        "cityId": "8582345",
+        "cityId": 8582345,
         "name": "Tar\u00edmbaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.79181,
         "longitude": -101.15034
     },
     {
-        "cityId": "8582346",
+        "cityId": 8582346,
         "name": "Tepalcatepec",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.0603,
         "longitude": -102.84513
     },
     {
-        "cityId": "8582347",
+        "cityId": 8582347,
         "name": "Tingambato",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.49044,
         "longitude": -101.86206
     },
     {
-        "cityId": "8582348",
+        "cityId": 8582348,
         "name": "\u00c1lvaro Obreg\u00f3n",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.85984,
         "longitude": -101.02153
     },
     {
-        "cityId": "8582349",
+        "cityId": 8582349,
         "name": "Ting\u00fcind\u00edn",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.77928,
         "longitude": -102.49773
     },
     {
-        "cityId": "8582350",
+        "cityId": 8582350,
         "name": "Tiquicheo de Nicol\u00e1s Romero",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.08089,
         "longitude": -100.82552
     },
     {
-        "cityId": "8582351",
+        "cityId": 8582351,
         "name": "Tlalpujahua",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.77977,
         "longitude": -100.19726
     },
     {
-        "cityId": "8582352",
+        "cityId": 8582352,
         "name": "Tlazazalca",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.99988,
         "longitude": -102.07276
     },
     {
-        "cityId": "8582353",
+        "cityId": 8582353,
         "name": "Tumbiscat\u00edo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.53958,
         "longitude": -102.53492
     },
     {
-        "cityId": "8582354",
+        "cityId": 8582354,
         "name": "Turicato",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 18.95323,
         "longitude": -101.42389
     },
     {
-        "cityId": "8582355",
+        "cityId": 8582355,
         "name": "Tuxpan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.56733,
         "longitude": -100.48516
     },
     {
-        "cityId": "8582356",
+        "cityId": 8582356,
         "name": "Tuzantla",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.24115,
         "longitude": -100.61726
     },
     {
-        "cityId": "8582357",
+        "cityId": 8582357,
         "name": "Tzintzuntzan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.60593,
         "longitude": -101.54798
     },
     {
-        "cityId": "8582358",
+        "cityId": 8582358,
         "name": "Tzitzio",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.44492,
         "longitude": -100.90849
     },
     {
-        "cityId": "8582359",
+        "cityId": 8582359,
         "name": "Uruapan",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.42738,
         "longitude": -102.10136
     },
     {
-        "cityId": "8582360",
+        "cityId": 8582360,
         "name": "Villamar",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.96062,
         "longitude": -102.59898
     },
     {
-        "cityId": "8582361",
+        "cityId": 8582361,
         "name": "Vista Hermosa",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.27749,
         "longitude": -102.45698
     },
     {
-        "cityId": "8582362",
+        "cityId": 8582362,
         "name": "Yur\u00e9cuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.31247,
         "longitude": -102.25017
     },
     {
-        "cityId": "8582363",
+        "cityId": 8582363,
         "name": "Zacapu",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.81538,
         "longitude": -101.80026
     },
     {
-        "cityId": "8582364",
+        "cityId": 8582364,
         "name": "Zamora",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.02141,
         "longitude": -102.28598
     },
     {
-        "cityId": "8582365",
+        "cityId": 8582365,
         "name": "Zin\u00e1paro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.16937,
         "longitude": -101.99923
     },
     {
-        "cityId": "8582366",
+        "cityId": 8582366,
         "name": "Zinap\u00e9cuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.86886,
         "longitude": -100.74184
     },
     {
-        "cityId": "8582367",
+        "cityId": 8582367,
         "name": "Ziracuaretiro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.41887,
         "longitude": -101.90884
     },
     {
-        "cityId": "8582368",
+        "cityId": 8582368,
         "name": "Zit\u00e1cuaro",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.43197,
         "longitude": -100.35741
     },
     {
-        "cityId": "8582369",
+        "cityId": 8582369,
         "name": "Jos\u00e9 Sixto Verduzco",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 20.27506,
         "longitude": -101.5643
     },
     {
-        "cityId": "8583692",
+        "cityId": 8583692,
         "name": "Tocumbo",
-        "stateId": "3995955",
+        "stateId": 3995955,
         "latitude": 19.62,
         "longitude": -102.60068
     }

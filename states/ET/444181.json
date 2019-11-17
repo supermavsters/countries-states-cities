@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "330790",
+        "cityId": 330790,
         "name": "Metekel \u0100wraja",
-        "stateId": "444181",
+        "stateId": 444181,
         "latitude": 11,
         "longitude": 36
     },
     {
-        "cityId": "343291",
+        "cityId": 343291,
         "name": "Asosa",
-        "stateId": "444181",
+        "stateId": 444181,
         "latitude": 10,
         "longitude": 34.5
     },
     {
-        "cityId": "7874607",
+        "cityId": 7874607,
         "name": "Metekel",
-        "stateId": "444181",
+        "stateId": 444181,
         "latitude": 10.42673,
         "longitude": 35.71975
     },
     {
-        "cityId": "10303651",
+        "cityId": 10303651,
         "name": "Kamashi Zone",
-        "stateId": "444181",
+        "stateId": 444181,
         "latitude": 9.75,
         "longitude": 35.83333
     },
     {
-        "cityId": "11750813",
+        "cityId": 11750813,
         "name": "Kemashi",
-        "stateId": "444181",
+        "stateId": 444181,
         "latitude": 9.84,
         "longitude": 35.78035
     }

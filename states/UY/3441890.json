@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "11820772",
+        "cityId": 11820772,
         "name": "Pan De Azucar",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.70241,
         "longitude": -55.20468
     },
     {
-        "cityId": "11820773",
+        "cityId": 11820773,
         "name": "Aigu\u00e1",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.25468,
         "longitude": -54.64348
     },
     {
-        "cityId": "11820774",
+        "cityId": 11820774,
         "name": "Garz\u00f3n",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.62831,
         "longitude": -54.61227
     },
     {
-        "cityId": "11820775",
+        "cityId": 11820775,
         "name": "Solis Grande",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.7097,
         "longitude": -55.38662
     },
     {
-        "cityId": "11820778",
+        "cityId": 11820778,
         "name": "San Carlos",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.65095,
         "longitude": -54.9041
     },
     {
-        "cityId": "11820843",
+        "cityId": 11820843,
         "name": "Punta Del Este",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.93195,
         "longitude": -54.92141
     },
     {
-        "cityId": "11820860",
+        "cityId": 11820860,
         "name": "Piriapolis",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.84794,
         "longitude": -55.22418
     },
     {
-        "cityId": "11820867",
+        "cityId": 11820867,
         "name": "Maldonado",
-        "stateId": "3441890",
+        "stateId": 3441890,
         "latitude": -34.8439,
         "longitude": -54.98297
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "1282797",
+        "cityId": 1282797,
         "name": "Set\u012b Zone",
-        "stateId": "7289705",
+        "stateId": 7289705,
         "latitude": 29.25,
         "longitude": 81.16667
     },
     {
-        "cityId": "1283098",
+        "cityId": 1283098,
         "name": "Mah\u0101k\u0101l\u012b Zone",
-        "stateId": "7289705",
+        "stateId": 7289705,
         "latitude": 29.41667,
         "longitude": 80.55
     }

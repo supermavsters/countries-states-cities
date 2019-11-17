@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7871272",
+        "cityId": 7871272,
         "name": "Nasarawa",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.26937,
         "longitude": 7.59744
     },
     {
-        "cityId": "7932036",
+        "cityId": 7932036,
         "name": "Akwanga",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.99386,
         "longitude": 8.32701
     },
     {
-        "cityId": "7932056",
+        "cityId": 7932056,
         "name": "Lafia",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.64007,
         "longitude": 8.69959
     },
     {
-        "cityId": "7932057",
+        "cityId": 7932057,
         "name": "Obi",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.34738,
         "longitude": 8.72769
     },
     {
-        "cityId": "7932058",
+        "cityId": 7932058,
         "name": "Keana",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.16746,
         "longitude": 8.76829
     },
     {
-        "cityId": "8635055",
+        "cityId": 8635055,
         "name": "Toto",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.2502,
         "longitude": 7.19827
     },
     {
-        "cityId": "8635056",
+        "cityId": 8635056,
         "name": "Keffi",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.83795,
         "longitude": 7.82725
     },
     {
-        "cityId": "8635057",
+        "cityId": 8635057,
         "name": "Karu",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 9.04694,
         "longitude": 7.76364
     },
     {
-        "cityId": "8635058",
+        "cityId": 8635058,
         "name": "Kokona",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.85559,
         "longitude": 8.06111
     },
     {
-        "cityId": "8635059",
+        "cityId": 8635059,
         "name": "Nasarawa Egon",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.74947,
         "longitude": 8.44035
     },
     {
-        "cityId": "8635060",
+        "cityId": 8635060,
         "name": "Wamba",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.98214,
         "longitude": 8.69459
     },
     {
-        "cityId": "8635061",
+        "cityId": 8635061,
         "name": "Doma",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.20323,
         "longitude": 8.30466
     },
     {
-        "cityId": "8635062",
+        "cityId": 8635062,
         "name": "Awe",
-        "stateId": "2595348",
+        "stateId": 2595348,
         "latitude": 8.27456,
         "longitude": 9.1849
     }

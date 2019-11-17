@@ -1,36 +1,36 @@
 [
     {
-        "stateId": "6413337",
+        "stateId": 6413337,
         "name": "Eastern Province",
-        "countryId": "49518",
+        "countryId": 49518,
         "latitude": -1.75,
         "longitude": 30.5
     },
     {
-        "stateId": "6413338",
+        "stateId": 6413338,
         "name": "Kigali Province",
-        "countryId": "49518",
+        "countryId": 49518,
         "latitude": -1.91667,
         "longitude": 30.08333
     },
     {
-        "stateId": "6413339",
+        "stateId": 6413339,
         "name": "Northern Province",
-        "countryId": "49518",
+        "countryId": 49518,
         "latitude": -1.58333,
         "longitude": 29.91667
     },
     {
-        "stateId": "6413341",
+        "stateId": 6413341,
         "name": "Southern Province",
-        "countryId": "49518",
+        "countryId": 49518,
         "latitude": -2.33333,
         "longitude": 29.66667
     },
     {
-        "stateId": "6413340",
+        "stateId": 6413340,
         "name": "Western Province",
-        "countryId": "49518",
+        "countryId": 49518,
         "latitude": -2.16667,
         "longitude": 29.33333
     }

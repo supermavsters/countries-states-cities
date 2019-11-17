@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "149702",
+        "cityId": 149702,
         "name": "Sumbawanga",
-        "stateId": "150442",
+        "stateId": 150442,
         "latitude": -8.18604,
         "longitude": 31.93899
     },
     {
-        "cityId": "151459",
+        "cityId": 151459,
         "name": "Nkasi",
-        "stateId": "150442",
+        "stateId": 150442,
         "latitude": -7.58333,
         "longitude": 31
     },
     {
-        "cityId": "9166007",
+        "cityId": 9166007,
         "name": "Sumbawanga Urban",
-        "stateId": "150442",
+        "stateId": 150442,
         "latitude": -7.96667,
         "longitude": 31.61667
     },
     {
-        "cityId": "9998179",
+        "cityId": 9998179,
         "name": "Kalambo",
-        "stateId": "150442",
+        "stateId": 150442,
         "latitude": -8.54028,
         "longitude": 31.57305
     }

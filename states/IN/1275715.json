@@ -1,267 +1,267 @@
 [
     {
-        "cityId": "1253533",
+        "cityId": 1253533,
         "name": "Vaish\u0101li",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.75,
         "longitude": 85.41667
     },
     {
-        "cityId": "1255930",
+        "cityId": 1255930,
         "name": "Siw\u0101n",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.16667,
         "longitude": 84.5
     },
     {
-        "cityId": "1255984",
+        "cityId": 1255984,
         "name": "S\u012bt\u0101marhi",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.66667,
         "longitude": 85.5
     },
     {
-        "cityId": "1257248",
+        "cityId": 1257248,
         "name": "S\u0101ran",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.91667,
         "longitude": 84.75
     },
     {
-        "cityId": "1257552",
+        "cityId": 1257552,
         "name": "Samast\u012bpur",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.75,
         "longitude": 85.91667
     },
     {
-        "cityId": "1257805",
+        "cityId": 1257805,
         "name": "Saharsa",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.81659,
         "longitude": 86.5898
     },
     {
-        "cityId": "1258074",
+        "cityId": 1258074,
         "name": "Roht\u0101s",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.97941,
         "longitude": 84.02774
     },
     {
-        "cityId": "1259168",
+        "cityId": 1259168,
         "name": "Purnia",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.81614,
         "longitude": 87.40708
     },
     {
-        "cityId": "1259186",
+        "cityId": 1259186,
         "name": "P\u016brba Champ\u0101ran",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.58333,
         "longitude": 84.83333
     },
     {
-        "cityId": "1260091",
+        "cityId": 1260091,
         "name": "Patna",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.41667,
         "longitude": 85.16667
     },
     {
-        "cityId": "1260208",
+        "cityId": 1260208,
         "name": "Pashchim Champ\u0101ran",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 27,
         "longitude": 84.5
     },
     {
-        "cityId": "1261632",
+        "cityId": 1261632,
         "name": "Naw\u0101da",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.75,
         "longitude": 85.5
     },
     {
-        "cityId": "1262081",
+        "cityId": 1262081,
         "name": "N\u0101landa",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.25,
         "longitude": 85.58333
     },
     {
-        "cityId": "1262331",
+        "cityId": 1262331,
         "name": "Muzaffarpur",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.16667,
         "longitude": 85.41667
     },
     {
-        "cityId": "1262483",
+        "cityId": 1262483,
         "name": "Munger",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.36099,
         "longitude": 86.46515
     },
     {
-        "cityId": "1264556",
+        "cityId": 1264556,
         "name": "Madhubani",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.33333,
         "longitude": 86.08333
     },
     {
-        "cityId": "1270967",
+        "cityId": 1270967,
         "name": "Gop\u0101lganj",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.5,
         "longitude": 84.33333
     },
     {
-        "cityId": "1271440",
+        "cityId": 1271440,
         "name": "Gay\u0101",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.75,
         "longitude": 85
     },
     {
-        "cityId": "1273492",
+        "cityId": 1273492,
         "name": "Darbhanga",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26,
         "longitude": 86
     },
     {
-        "cityId": "1275871",
+        "cityId": 1275871,
         "name": "Bhojpur",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.30886,
         "longitude": 84.44504
     },
     {
-        "cityId": "1276301",
+        "cityId": 1276301,
         "name": "Bh\u0101galpur",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.29023,
         "longitude": 87.06665
     },
     {
-        "cityId": "1276610",
+        "cityId": 1276610,
         "name": "Begusar\u0101i",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.5,
         "longitude": 86.25
     },
     {
-        "cityId": "1278150",
+        "cityId": 1278150,
         "name": "Aurang\u0101b\u0101d",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.75,
         "longitude": 84.5
     },
     {
-        "cityId": "7626567",
+        "cityId": 7626567,
         "name": "Supaul",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.25,
         "longitude": 86.8
     },
     {
-        "cityId": "7626568",
+        "cityId": 7626568,
         "name": "Madhepura",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.8,
         "longitude": 87
     },
     {
-        "cityId": "7626569",
+        "cityId": 7626569,
         "name": "Araria",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.2,
         "longitude": 87.4
     },
     {
-        "cityId": "7627222",
+        "cityId": 7627222,
         "name": "Jehanabad",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.20701,
         "longitude": 84.99573
     },
     {
-        "cityId": "7627223",
+        "cityId": 7627223,
         "name": "Buxar",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.5,
         "longitude": 84.1
     },
     {
-        "cityId": "7627229",
+        "cityId": 7627229,
         "name": "Katihar",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.5,
         "longitude": 87.6
     },
     {
-        "cityId": "7627231",
+        "cityId": 7627231,
         "name": "Khagaria",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.5,
         "longitude": 86.6
     },
     {
-        "cityId": "7627233",
+        "cityId": 7627233,
         "name": "Kishanganj",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.3,
         "longitude": 88
     },
     {
-        "cityId": "7627235",
+        "cityId": 7627235,
         "name": "Lakhisarai",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.2,
         "longitude": 86.2
     },
     {
-        "cityId": "7627239",
+        "cityId": 7627239,
         "name": "Sheohar",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 26.5,
         "longitude": 85.3
     },
     {
-        "cityId": "7701609",
+        "cityId": 7701609,
         "name": "Sheikhpura",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.13073,
         "longitude": 85.78176
     },
     {
-        "cityId": "8740934",
+        "cityId": 8740934,
         "name": "Kaimur District",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.05077,
         "longitude": 83.58261
     },
     {
-        "cityId": "8858071",
+        "cityId": 8858071,
         "name": "Jamui",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.92082,
         "longitude": 86.17538
     },
     {
-        "cityId": "8858072",
+        "cityId": 8858072,
         "name": "Banka",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 24.89214,
         "longitude": 86.98425
     },
     {
-        "cityId": "9748038",
+        "cityId": 9748038,
         "name": "Arwal",
-        "stateId": "1275715",
+        "stateId": 1275715,
         "latitude": 25.16158,
         "longitude": 84.6904
     }

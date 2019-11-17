@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1654248",
+        "cityId": 1654248,
         "name": "Muang P\u00e8k",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.51372,
         "longitude": 103.27385
     },
     {
-        "cityId": "1655320",
+        "cityId": 1655320,
         "name": "Muang Mok",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 18.91667,
         "longitude": 104.01667
     },
     {
-        "cityId": "1656563",
+        "cityId": 1656563,
         "name": "Muang Kham",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.75768,
         "longitude": 103.65689
     },
     {
-        "cityId": "1904812",
+        "cityId": 1904812,
         "name": "Muang Nongh\u00e8t",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.56048,
         "longitude": 103.92355
     },
     {
-        "cityId": "1904813",
+        "cityId": 1904813,
         "name": "Muang Phaxai",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.25808,
         "longitude": 103.09067
     },
     {
-        "cityId": "1904814",
+        "cityId": 1904814,
         "name": "Muang Khoun",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.27979,
         "longitude": 103.50898
     },
     {
-        "cityId": "1904816",
+        "cityId": 1904816,
         "name": "Muang Phou Kont",
-        "stateId": "1652077",
+        "stateId": 1652077,
         "latitude": 19.62585,
         "longitude": 103.01856
     }

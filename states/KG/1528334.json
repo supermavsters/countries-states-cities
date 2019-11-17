@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1527315",
+        "cityId": 1527315,
         "name": "Sverdlovskiy Rayon",
-        "stateId": "1528334",
+        "stateId": 1528334,
         "latitude": 42.90276,
         "longitude": 74.60013
     },
     {
-        "cityId": "1527506",
+        "cityId": 1527506,
         "name": "Pervomayskiy Rayon",
-        "stateId": "1528334",
+        "stateId": 1528334,
         "latitude": 42.88704,
         "longitude": 74.58213
     },
     {
-        "cityId": "1527686",
+        "cityId": 1527686,
         "name": "Leninskiy Rayon",
-        "stateId": "1528334",
+        "stateId": 1528334,
         "latitude": 42.85491,
         "longitude": 74.58405
     },
     {
-        "cityId": "8220960",
+        "cityId": 8220960,
         "name": "Oktyabr\u2019skiy Rayon",
-        "stateId": "1528334",
+        "stateId": 1528334,
         "latitude": 42.85961,
         "longitude": 74.62033
     }

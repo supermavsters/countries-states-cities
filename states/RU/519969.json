@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "505371",
+        "cityId": 505371,
         "name": "Prigorodnyy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.08333,
         "longitude": 44.83333
     },
     {
-        "cityId": "505586",
+        "cityId": 505586,
         "name": "Pravoberezhnyy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.16667,
         "longitude": 44.66667
     },
     {
-        "cityId": "524734",
+        "cityId": 524734,
         "name": "Mozdokskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.75,
         "longitude": 44.58333
     },
     {
-        "cityId": "548364",
+        "cityId": 548364,
         "name": "Kirovskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.33333,
         "longitude": 44.33333
     },
     {
-        "cityId": "556219",
+        "cityId": 556219,
         "name": "Irafskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43,
         "longitude": 43.75
     },
     {
-        "cityId": "566241",
+        "cityId": 566241,
         "name": "Digorskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.16667,
         "longitude": 44.08333
     },
     {
-        "cityId": "581175",
+        "cityId": 581175,
         "name": "Ardonskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 43.16667,
         "longitude": 44.33333
     },
     {
-        "cityId": "583478",
+        "cityId": 583478,
         "name": "Alagirskiy Rayon",
-        "stateId": "519969",
+        "stateId": 519969,
         "latitude": 42.83333,
         "longitude": 44.08333
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3057122",
+        "cityId": 3057122,
         "name": "Okres Trnava",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.36667,
         "longitude": 17.6
     },
     {
-        "cityId": "3057629",
+        "cityId": 3057629,
         "name": "Okres Skalica",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.75,
         "longitude": 17.16667
     },
     {
-        "cityId": "3057689",
+        "cityId": 3057689,
         "name": "Okres Senica",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.68333,
         "longitude": 17.36667
     },
     {
-        "cityId": "3060093",
+        "cityId": 3060093,
         "name": "Okres Hlohovec",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.41667,
         "longitude": 17.75
     },
     {
-        "cityId": "3060218",
+        "cityId": 3060218,
         "name": "Okres Galanta",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.2,
         "longitude": 17.71667
     },
     {
-        "cityId": "3060307",
+        "cityId": 3060307,
         "name": "Okres Dunajsk\u00e1 Streda",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 47.99635,
         "longitude": 17.60937
     },
     {
-        "cityId": "8986295",
+        "cityId": 8986295,
         "name": "Okres Pie\u0161\u0165any",
-        "stateId": "3343958",
+        "stateId": 3343958,
         "latitude": 48.59064,
         "longitude": 17.82679
     }

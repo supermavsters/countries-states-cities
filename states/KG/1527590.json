@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7649245",
+        "cityId": 7649245,
         "name": "Ak-Tala",
-        "stateId": "1527590",
+        "stateId": 1527590,
         "latitude": 41.06275,
         "longitude": 74.78052
     },
     {
-        "cityId": "7654212",
+        "cityId": 7654212,
         "name": "Jumgal",
-        "stateId": "1527590",
+        "stateId": 1527590,
         "latitude": 41.94924,
         "longitude": 74.40566
     },
     {
-        "cityId": "9165773",
+        "cityId": 9165773,
         "name": "Kochkor",
-        "stateId": "1527590",
+        "stateId": 1527590,
         "latitude": 42.21667,
         "longitude": 75.75
     },
     {
-        "cityId": "9165774",
+        "cityId": 9165774,
         "name": "At-Bashi",
-        "stateId": "1527590",
+        "stateId": 1527590,
         "latitude": 41.16667,
         "longitude": 75.8
     },
     {
-        "cityId": "10237161",
+        "cityId": 10237161,
         "name": "Naryn District",
-        "stateId": "1527590",
+        "stateId": 1527590,
         "latitude": 41.43333,
         "longitude": 76
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "149294",
+        "cityId": 149294,
         "name": "Ukerewe District",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.04,
         "longitude": 33
     },
     {
-        "cityId": "150102",
+        "cityId": 150102,
         "name": "Sengerema",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.47991,
         "longitude": 32.48657
     },
     {
-        "cityId": "155313",
+        "cityId": 155313,
         "name": "Magu",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.59381,
         "longitude": 33.40249
     },
     {
-        "cityId": "156136",
+        "cityId": 156136,
         "name": "Kwimba District",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -3.062,
         "longitude": 33.36
     },
     {
-        "cityId": "7647446",
+        "cityId": 7647446,
         "name": "Misungwi district",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.85,
         "longitude": 33.08333
     },
     {
-        "cityId": "7840051",
+        "cityId": 7840051,
         "name": "Ilemela District",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.44783,
         "longitude": 33.03177
     },
     {
-        "cityId": "9072694",
+        "cityId": 9072694,
         "name": "Nyamagana District",
-        "stateId": "152219",
+        "stateId": 152219,
         "latitude": -2.52533,
         "longitude": 32.88993
     }

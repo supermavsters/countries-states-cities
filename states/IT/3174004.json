@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3171172",
+        "cityId": 3171172,
         "name": "Provincia di Pesaro e Urbino",
-        "stateId": "3174004",
+        "stateId": 3174004,
         "latitude": 43.66667,
         "longitude": 12.63333
     },
     {
-        "cityId": "3174379",
+        "cityId": 3174379,
         "name": "Provincia di Macerata",
-        "stateId": "3174004",
+        "stateId": 3174004,
         "latitude": 43.2,
         "longitude": 13.16667
     },
     {
-        "cityId": "3182748",
+        "cityId": 3182748,
         "name": "Provincia di Ascoli Piceno",
-        "stateId": "3174004",
+        "stateId": 3174004,
         "latitude": 42.88443,
         "longitude": 13.55306
     },
     {
-        "cityId": "3183087",
+        "cityId": 3183087,
         "name": "Provincia di Ancona",
-        "stateId": "3174004",
+        "stateId": 3174004,
         "latitude": 43.55,
         "longitude": 13.16667
     },
     {
-        "cityId": "6955471",
+        "cityId": 6955471,
         "name": "Province of Fermo",
-        "stateId": "3174004",
+        "stateId": 3174004,
         "latitude": 43.16537,
         "longitude": 13.72424
     }

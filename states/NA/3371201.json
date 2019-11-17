@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7931911",
+        "cityId": 7931911,
         "name": "Luderitz Constituency",
-        "stateId": "3371201",
+        "stateId": 3371201,
         "latitude": -26.70436,
         "longitude": 15.76106
     },
     {
-        "cityId": "7931912",
+        "cityId": 7931912,
         "name": "Oranjemund Constituency",
-        "stateId": "3371201",
+        "stateId": 3371201,
         "latitude": -28.04077,
         "longitude": 16.83229
     },
     {
-        "cityId": "11257293",
+        "cityId": 11257293,
         "name": "Karasburg Constituency",
-        "stateId": "3371201",
+        "stateId": 3371201,
         "latitude": -28.01667,
         "longitude": 18.75
     }

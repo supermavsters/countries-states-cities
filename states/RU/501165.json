@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "526503",
+        "cityId": 526503,
         "name": "Milyutinskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 48.6655,
         "longitude": 41.74981
     },
     {
-        "cityId": "528946",
+        "cityId": 528946,
         "name": "Martynovskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 47.24867,
         "longitude": 41.49792
     },
     {
-        "cityId": "553409",
+        "cityId": 553409,
         "name": "Kamenskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 48.24822,
         "longitude": 40.2488
     },
     {
-        "cityId": "564600",
+        "cityId": 564600,
         "name": "Dubovskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 47.3345,
         "longitude": 42.99777
     },
     {
-        "cityId": "577953",
+        "cityId": 577953,
         "name": "Belokalitvenskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 48.08163,
         "longitude": 40.74846
     },
     {
-        "cityId": "11764998",
+        "cityId": 11764998,
         "name": "Krasnosulinskiy Rayon",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 47.89084,
         "longitude": 40.07586
     },
     {
-        "cityId": "11805539",
+        "cityId": 11805539,
         "name": "Rayon Aksayskiy",
-        "stateId": "501165",
+        "stateId": 501165,
         "latitude": 47.25194,
         "longitude": 39.87167
     }

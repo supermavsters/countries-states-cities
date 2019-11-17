@@ -1,225 +1,225 @@
 [
     {
-        "stateId": "3496024",
+        "stateId": 3496024,
         "name": "Distrito Nacional",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.48333,
         "longitude": -69.93333
     },
     {
-        "stateId": "3508718",
+        "stateId": 3508718,
         "name": "Provincia Duarte",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.25,
         "longitude": -70.08333
     },
     {
-        "stateId": "3505867",
+        "stateId": 3505867,
         "name": "Provincia Espaillat",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.58333,
         "longitude": -70.41667
     },
     {
-        "stateId": "3496772",
+        "stateId": 3496772,
         "name": "Provincia Mar\u00eda Trinidad S\u00e1nchez",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.41667,
         "longitude": -70
     },
     {
-        "stateId": "3493192",
+        "stateId": 3493192,
         "name": "Provincia S\u00e1nchez Ram\u00edrez",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19,
         "longitude": -70.16667
     },
     {
-        "stateId": "3512209",
+        "stateId": 3512209,
         "name": "Provincia de Azua",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.58333,
         "longitude": -70.8
     },
     {
-        "stateId": "3512050",
+        "stateId": 3512050,
         "name": "Provincia de Baoruco",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.5,
         "longitude": -71.35
     },
     {
-        "stateId": "3512042",
+        "stateId": 3512042,
         "name": "Provincia de Barahona",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.16667,
         "longitude": -71.25
     },
     {
-        "stateId": "3508951",
+        "stateId": 3508951,
         "name": "Provincia de Dajab\u00f3n",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.43333,
         "longitude": -71.58333
     },
     {
-        "stateId": "3506189",
+        "stateId": 3506189,
         "name": "Provincia de El Seibo",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.8,
         "longitude": -69.05
     },
     {
-        "stateId": "3507269",
+        "stateId": 3507269,
         "name": "Provincia de El\u00edas Pi\u00f1a",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19,
         "longitude": -71.63333
     },
     {
-        "stateId": "3504766",
+        "stateId": 3504766,
         "name": "Provincia de Hato Mayor",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.83333,
         "longitude": -69.33333
     },
     {
-        "stateId": "3493282",
+        "stateId": 3493282,
         "name": "Provincia de Hermanas Mirabal",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.41667,
         "longitude": -70.33333
     },
     {
-        "stateId": "3504326",
+        "stateId": 3504326,
         "name": "Provincia de Independencia",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.4,
         "longitude": -71.63333
     },
     {
-        "stateId": "3503706",
+        "stateId": 3503706,
         "name": "Provincia de La Altagracia",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.58333,
         "longitude": -68.63333
     },
     {
-        "stateId": "3500955",
+        "stateId": 3500955,
         "name": "Provincia de La Romana",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.5,
         "longitude": -68.96667
     },
     {
-        "stateId": "3499977",
+        "stateId": 3499977,
         "name": "Provincia de La Vega",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.05,
         "longitude": -70.65
     },
     {
-        "stateId": "3496274",
+        "stateId": 3496274,
         "name": "Provincia de Monse\u00f1or Nouel",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.91667,
         "longitude": -70.41667
     },
     {
-        "stateId": "3496200",
+        "stateId": 3496200,
         "name": "Provincia de Monte Cristi",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.71667,
         "longitude": -71.46667
     },
     {
-        "stateId": "3496132",
+        "stateId": 3496132,
         "name": "Provincia de Monte Plata",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.83333,
         "longitude": -69.83333
     },
     {
-        "stateId": "3495136",
+        "stateId": 3495136,
         "name": "Provincia de Pedernales",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18,
         "longitude": -71.56667
     },
     {
-        "stateId": "3495015",
+        "stateId": 3495015,
         "name": "Provincia de Peravia",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.33333,
         "longitude": -70.36667
     },
     {
-        "stateId": "3494267",
+        "stateId": 3494267,
         "name": "Provincia de Puerto Plata",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.75,
         "longitude": -70.75
     },
     {
-        "stateId": "3493186",
+        "stateId": 3493186,
         "name": "Provincia de San Crist\u00f3bal",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.55,
         "longitude": -70.2
     },
     {
-        "stateId": "6201372",
+        "stateId": 6201372,
         "name": "Provincia de San Jos\u00e9 de Ocoa",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.54882,
         "longitude": -70.50877
     },
     {
-        "stateId": "3493091",
+        "stateId": 3493091,
         "name": "Provincia de San Juan",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.83333,
         "longitude": -71.25
     },
     {
-        "stateId": "3493031",
+        "stateId": 3493031,
         "name": "Provincia de San Pedro de Macor\u00eds",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.5,
         "longitude": -69.33333
     },
     {
-        "stateId": "3492918",
+        "stateId": 3492918,
         "name": "Provincia de Santiago",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.31667,
         "longitude": -70.88333
     },
     {
-        "stateId": "3492912",
+        "stateId": 3492912,
         "name": "Provincia de Santiago Rodr\u00edguez",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.41667,
         "longitude": -71.33333
     },
     {
-        "stateId": "6201373",
+        "stateId": 6201373,
         "name": "Provincia de Santo Domingo",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 18.56678,
         "longitude": -69.84874
     },
     {
-        "stateId": "3492112",
+        "stateId": 3492112,
         "name": "Provincia de Valverde",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.58333,
         "longitude": -71.05
     },
     {
-        "stateId": "3493232",
+        "stateId": 3493232,
         "name": "Saman\u00e1 Province",
-        "countryId": "3508796",
+        "countryId": 3508796,
         "latitude": 19.25,
         "longitude": -69.45
     }

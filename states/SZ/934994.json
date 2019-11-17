@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7910681",
+        "cityId": 7910681,
         "name": "Manzini North",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.49982,
         "longitude": 31.39085
     },
     {
-        "cityId": "7910684",
+        "cityId": 7910684,
         "name": "Mkhiweni",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.24106,
         "longitude": 31.60464
     },
     {
-        "cityId": "11127821",
+        "cityId": 11127821,
         "name": "Nhlambeni",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.64528,
         "longitude": 31.39833
     },
     {
-        "cityId": "11127975",
+        "cityId": 11127975,
         "name": "Ekukhanyeni",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.3875,
         "longitude": 31.52806
     },
     {
-        "cityId": "11127982",
+        "cityId": 11127982,
         "name": "Ngwempisi",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.6999,
         "longitude": 31.28876
     },
     {
-        "cityId": "11127992",
+        "cityId": 11127992,
         "name": "Manzini South",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.48333,
         "longitude": 31.36667
     },
     {
-        "cityId": "11128094",
+        "cityId": 11128094,
         "name": "Ntondozi",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.635,
         "longitude": 31.22556
     },
     {
-        "cityId": "11128096",
+        "cityId": 11128096,
         "name": "Mahlangatsha",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.78333,
         "longitude": 31.2
     },
     {
-        "cityId": "11128346",
+        "cityId": 11128346,
         "name": "Mafutseni",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.44,
         "longitude": 31.52
     },
     {
-        "cityId": "11128352",
+        "cityId": 11128352,
         "name": "Ludzeludze Inkhundla",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.39708,
         "longitude": 31.31409
     },
     {
-        "cityId": "11204891",
+        "cityId": 11204891,
         "name": "Lamgabhi",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.56141,
         "longitude": 31.07501
     },
     {
-        "cityId": "11205016",
+        "cityId": 11205016,
         "name": "Kwaluseni",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.48095,
         "longitude": 31.29961
     },
     {
-        "cityId": "11523361",
+        "cityId": 11523361,
         "name": "Mangcongco",
-        "stateId": "934994",
+        "stateId": 934994,
         "latitude": -26.5835,
         "longitude": 30.99688
     }

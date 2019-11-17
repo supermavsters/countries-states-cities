@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9610661",
+        "cityId": 9610661,
         "name": "Suupohja",
-        "stateId": "830682",
+        "stateId": 830682,
         "latitude": 62.33274,
         "longitude": 22.02555
     },
     {
-        "cityId": "9610663",
+        "cityId": 9610663,
         "name": "Sein\u00e4joki",
-        "stateId": "830682",
+        "stateId": 830682,
         "latitude": 62.80915,
         "longitude": 22.78795
     },
     {
-        "cityId": "9610664",
+        "cityId": 9610664,
         "name": "Kuusiokunnat",
-        "stateId": "830682",
+        "stateId": 830682,
         "latitude": 62.61766,
         "longitude": 23.78505
     },
     {
-        "cityId": "9610665",
+        "cityId": 9610665,
         "name": "J\u00e4rviseutu",
-        "stateId": "830682",
+        "stateId": 830682,
         "latitude": 63.07346,
         "longitude": 23.83537
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7870328",
+        "cityId": 7870328,
         "name": "Douya-Onoye Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -1.69,
         "longitude": 11.105
     },
     {
-        "cityId": "7870330",
+        "cityId": 7870330,
         "name": "Ndolou Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -1.526,
         "longitude": 10.266
     },
     {
-        "cityId": "7870428",
+        "cityId": 7870428,
         "name": "Ogoulou Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -1.407,
         "longitude": 11.517
     },
     {
-        "cityId": "8260610",
+        "cityId": 8260610,
         "name": "Tsamba-Magotsi Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -1.16,
         "longitude": 10.71
     },
     {
-        "cityId": "8260628",
+        "cityId": 8260628,
         "name": "Dola Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -2.349,
         "longitude": 11.362
     },
     {
-        "cityId": "8260629",
+        "cityId": 8260629,
         "name": "Louetsi-Wano Department",
-        "stateId": "2397466",
+        "stateId": 2397466,
         "latitude": -2.18,
         "longitude": 11.516
     }

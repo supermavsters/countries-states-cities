@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7669209",
+        "cityId": 7669209,
         "name": "Aana Alofi I",
-        "stateId": "4035434",
+        "stateId": 4035434,
         "latitude": -13.84777,
         "longitude": -171.92411
     },
     {
-        "cityId": "7669210",
+        "cityId": 7669210,
         "name": "Aana Alofi II",
-        "stateId": "4035434",
+        "stateId": 4035434,
         "latitude": -13.8543,
         "longitude": -171.94997
     },
     {
-        "cityId": "7669212",
+        "cityId": 7669212,
         "name": "Aana Alofi III",
-        "stateId": "4035434",
+        "stateId": 4035434,
         "latitude": -13.85262,
         "longitude": -171.99071
     }

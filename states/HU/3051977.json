@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "9644140",
+        "cityId": 9644140,
         "name": "Soproni J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.60385,
         "longitude": 16.75654
     },
     {
-        "cityId": "9644148",
+        "cityId": 9644148,
         "name": "Kapuv\u00e1ri J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.56705,
         "longitude": 17.04056
     },
     {
-        "cityId": "9644149",
+        "cityId": 9644149,
         "name": "Csornai J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.58403,
         "longitude": 17.26041
     },
     {
-        "cityId": "9644150",
+        "cityId": 9644150,
         "name": "Mosonmagyar\u00f3v\u00e1ri J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.85767,
         "longitude": 17.28212
     },
     {
-        "cityId": "9644151",
+        "cityId": 9644151,
         "name": "Gy\u0151ri J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.67273,
         "longitude": 17.67936
     },
     {
-        "cityId": "9644152",
+        "cityId": 9644152,
         "name": "T\u00e9ti J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.51515,
         "longitude": 17.51612
     },
     {
-        "cityId": "9644153",
+        "cityId": 9644153,
         "name": "Pannonhalmi J\u00e1r\u00e1s",
-        "stateId": "3051977",
+        "stateId": 3051977,
         "latitude": 47.45571,
         "longitude": 17.81335
     }

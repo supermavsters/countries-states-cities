@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11072835",
+        "cityId": 11072835,
         "name": "Maintirano",
-        "stateId": "7670852",
+        "stateId": 7670852,
         "latitude": -17.88026,
         "longitude": 44.22864
     },
     {
-        "cityId": "11072836",
+        "cityId": 11072836,
         "name": "Ambatomainty",
-        "stateId": "7670852",
+        "stateId": 7670852,
         "latitude": -17.74527,
         "longitude": 45.57054
     }

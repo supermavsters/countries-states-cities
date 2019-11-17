@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "9610642",
+        "cityId": 9610642,
         "name": "\u00c5boland-Turunmaa",
-        "stateId": "830708",
+        "stateId": 830708,
         "latitude": 60.11861,
         "longitude": 22.0202
     },
     {
-        "cityId": "9610643",
+        "cityId": 9610643,
         "name": "Salo",
-        "stateId": "830708",
+        "stateId": 830708,
         "latitude": 60.41242,
         "longitude": 23.32223
     },
     {
-        "cityId": "9610674",
+        "cityId": 9610674,
         "name": "Turku",
-        "stateId": "830708",
+        "stateId": 830708,
         "latitude": 60.50913,
         "longitude": 22.21251
     },
     {
-        "cityId": "9610675",
+        "cityId": 9610675,
         "name": "Vakka-Suomi",
-        "stateId": "830708",
+        "stateId": 830708,
         "latitude": 60.76871,
         "longitude": 21.51775
     },
     {
-        "cityId": "9610676",
+        "cityId": 9610676,
         "name": "Loimaa",
-        "stateId": "830708",
+        "stateId": 830708,
         "latitude": 60.78687,
         "longitude": 22.80867
     }

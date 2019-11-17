@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "498707",
+        "cityId": 498707,
         "name": "Saraktashskiy Rayon",
-        "stateId": "515001",
+        "stateId": 515001,
         "latitude": 51.83333,
         "longitude": 56.41667
     },
     {
-        "cityId": "518417",
+        "cityId": 518417,
         "name": "Novoorskiy Rayon",
-        "stateId": "515001",
+        "stateId": 515001,
         "latitude": 51.5,
         "longitude": 59
     },
     {
-        "cityId": "537539",
+        "cityId": 537539,
         "name": "Kvarkenskiy Rayon",
-        "stateId": "515001",
+        "stateId": 515001,
         "latitude": 52.16667,
         "longitude": 59.5
     },
     {
-        "cityId": "561697",
+        "cityId": 561697,
         "name": "Gayskiy Rayon",
-        "stateId": "515001",
+        "stateId": 515001,
         "latitude": 51.41667,
         "longitude": 58.33333
     }

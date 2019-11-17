@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7268105",
+        "cityId": 7268105,
         "name": "Contorno Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.38119,
         "longitude": -66.25859
     },
     {
-        "cityId": "7268405",
+        "cityId": 7268405,
         "name": "Galateo Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.36098,
         "longitude": -66.25643
     },
     {
-        "cityId": "7268685",
+        "cityId": 7268685,
         "name": "Mucarabones Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.38355,
         "longitude": -66.22371
     },
     {
-        "cityId": "7268711",
+        "cityId": 7268711,
         "name": "Ort\u00edz Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.34851,
         "longitude": -66.21486
     },
     {
-        "cityId": "7268761",
+        "cityId": 7268761,
         "name": "Pi\u00f1as Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.3616,
         "longitude": -66.23681
     },
     {
-        "cityId": "7268844",
+        "cityId": 7268844,
         "name": "Quebrada Arenas Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.35761,
         "longitude": -66.27965
     },
     {
-        "cityId": "7268851",
+        "cityId": 7268851,
         "name": "Quebrada Cruz Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.33978,
         "longitude": -66.25636
     },
     {
-        "cityId": "7268914",
+        "cityId": 7268914,
         "name": "R\u00edo Lajas Barrio",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.37424,
         "longitude": -66.29448
     },
     {
-        "cityId": "7269039",
+        "cityId": 7269039,
         "name": "Toa Alta Barrio-Pueblo",
-        "stateId": "4568404",
+        "stateId": 4568404,
         "latitude": 18.38788,
         "longitude": -66.24765
     }

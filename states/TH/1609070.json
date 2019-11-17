@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1605101",
+        "cityId": 1605101,
         "name": "Amphoe Wang Saphung",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.28028,
         "longitude": 101.73342
     },
     {
-        "cityId": "1605612",
+        "cityId": 1605612,
         "name": "Amphoe Tha Li",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.61279,
         "longitude": 101.44141
     },
     {
-        "cityId": "1607434",
+        "cityId": 1607434,
         "name": "Amphoe Phu Kradueng",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 16.9019,
         "longitude": 101.84562
     },
     {
-        "cityId": "1608653",
+        "cityId": 1608653,
         "name": "Amphoe Mueang Loei",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.54211,
         "longitude": 101.71932
     },
     {
-        "cityId": "1610957",
+        "cityId": 1610957,
         "name": "Amphoe Dan Sai",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.22101,
         "longitude": 101.22373
     },
     {
-        "cityId": "1611199",
+        "cityId": 1611199,
         "name": "Amphoe Chiang Khan",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.82441,
         "longitude": 101.73424
     },
     {
-        "cityId": "7510717",
+        "cityId": 7510717,
         "name": "Amphoe Na Haeo",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.43942,
         "longitude": 100.99654
     },
     {
-        "cityId": "7510731",
+        "cityId": 7510731,
         "name": "Amphoe Na Duang",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.53833,
         "longitude": 101.99639
     },
     {
-        "cityId": "7510732",
+        "cityId": 7510732,
         "name": "Amphoe Nong Hin",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.08087,
         "longitude": 101.82643
     },
     {
-        "cityId": "7510733",
+        "cityId": 7510733,
         "name": "Amphoe Phu Luang",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.09782,
         "longitude": 101.64413
     },
     {
-        "cityId": "7510749",
+        "cityId": 7510749,
         "name": "Amphoe Pha Khao",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.05638,
         "longitude": 102.01575
     },
     {
-        "cityId": "7510750",
+        "cityId": 7510750,
         "name": "Amphoe Erawan",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.28823,
         "longitude": 101.97443
     },
     {
-        "cityId": "8304633",
+        "cityId": 8304633,
         "name": "Amphoe Phu Ruea",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.35076,
         "longitude": 101.41329
     },
     {
-        "cityId": "8304635",
+        "cityId": 8304635,
         "name": "Amphoe Pak Chom",
-        "stateId": "1609070",
+        "stateId": 1609070,
         "latitude": 17.911,
         "longitude": 101.95777
     }

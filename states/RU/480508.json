@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "464992",
+        "cityId": 464992,
         "name": "Zaokskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.66667,
         "longitude": 37.5
     },
     {
-        "cityId": "468669",
+        "cityId": 468669,
         "name": "Yasnogorskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.5,
         "longitude": 37.75
     },
     {
-        "cityId": "475878",
+        "cityId": 475878,
         "name": "Venevskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.25,
         "longitude": 38.25
     },
     {
-        "cityId": "483600",
+        "cityId": 483600,
         "name": "T\u00ebplo-Ogar\u00ebvskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 53.58333,
         "longitude": 37.66667
     },
     {
-        "cityId": "485863",
+        "cityId": 485863,
         "name": "Suvorovskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.16667,
         "longitude": 36.58333
     },
     {
-        "cityId": "536087",
+        "cityId": 536087,
         "name": "Leninskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.25,
         "longitude": 37.5
     },
     {
-        "cityId": "548503",
+        "cityId": 548503,
         "name": "Kireyevskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 53.91667,
         "longitude": 37.91667
     },
     {
-        "cityId": "553408",
+        "cityId": 553408,
         "name": "Kamenskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 53.25,
         "longitude": 37.75
     },
     {
-        "cityId": "580867",
+        "cityId": 580867,
         "name": "Arsen\u2019yevskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 53.66667,
         "longitude": 36.58333
     },
     {
-        "cityId": "582713",
+        "cityId": 582713,
         "name": "Aleksinskiy Rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.5,
         "longitude": 37.08333
     },
     {
-        "cityId": "817413",
+        "cityId": 817413,
         "name": "Arsen\u2019yevskiy rayon",
-        "stateId": "480508",
+        "stateId": 480508,
         "latitude": 54.16583,
         "longitude": 38.04611
     }

@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "1253957",
+        "cityId": 1253957,
         "name": "Udhampur",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33,
         "longitude": 75.16667
     },
     {
-        "cityId": "1255639",
+        "cityId": 1255639,
         "name": "Sr\u012bnagar",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.08333,
         "longitude": 74.83333
     },
     {
-        "cityId": "1258892",
+        "cityId": 1258892,
         "name": "R\u0101jauri",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.25,
         "longitude": 74.25
     },
     {
-        "cityId": "1265343",
+        "cityId": 1265343,
         "name": "Lad\u0101kh",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.33333,
         "longitude": 77.41667
     },
     {
-        "cityId": "1267487",
+        "cityId": 1267487,
         "name": "Kathua",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 32.58333,
         "longitude": 75.5
     },
     {
-        "cityId": "1269322",
+        "cityId": 1269322,
         "name": "Jammu",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 32.75,
         "longitude": 74.83333
     },
     {
-        "cityId": "1277086",
+        "cityId": 1277086,
         "name": "B\u0101ram\u016bla",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.19287,
         "longitude": 74.3692
     },
     {
-        "cityId": "1278668",
+        "cityId": 1278668,
         "name": "Anantn\u0101g",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.83333,
         "longitude": 75.16667
     },
     {
-        "cityId": "9747931",
+        "cityId": 9747931,
         "name": "Doda",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.10081,
         "longitude": 75.6497
     },
     {
-        "cityId": "9747936",
+        "cityId": 9747936,
         "name": "Bandipore",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.50404,
         "longitude": 74.82832
     },
     {
-        "cityId": "9747938",
+        "cityId": 9747938,
         "name": "Badgam",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.89001,
         "longitude": 74.66297
     },
     {
-        "cityId": "9747940",
+        "cityId": 9747940,
         "name": "Kishtwar",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.52958,
         "longitude": 76.01462
     },
     {
-        "cityId": "9747963",
+        "cityId": 9747963,
         "name": "Kulgam",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.58819,
         "longitude": 74.86057
     },
     {
-        "cityId": "9747965",
+        "cityId": 9747965,
         "name": "Samba",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 32.57523,
         "longitude": 75.10929
     },
     {
-        "cityId": "9747988",
+        "cityId": 9747988,
         "name": "Pulwama",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.93295,
         "longitude": 75.03728
     },
     {
-        "cityId": "9747990",
+        "cityId": 9747990,
         "name": "Punch",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.70178,
         "longitude": 74.19916
     },
     {
-        "cityId": "9747994",
+        "cityId": 9747994,
         "name": "Ramban",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.32301,
         "longitude": 75.1861
     },
     {
-        "cityId": "9747996",
+        "cityId": 9747996,
         "name": "Reasi",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.20741,
         "longitude": 74.8223
     },
     {
-        "cityId": "9748001",
+        "cityId": 9748001,
         "name": "Kargil",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.9666,
         "longitude": 76.48445
     },
     {
-        "cityId": "9748009",
+        "cityId": 9748009,
         "name": "Shupiyan",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 33.73067,
         "longitude": 74.81869
     },
     {
-        "cityId": "9748040",
+        "cityId": 9748040,
         "name": "Ganderbal",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.29467,
         "longitude": 75.19996
     },
     {
-        "cityId": "9748042",
+        "cityId": 9748042,
         "name": "Kupwara",
-        "stateId": "1269320",
+        "stateId": 1269320,
         "latitude": 34.53193,
         "longitude": 74.26605
     }

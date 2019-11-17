@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3926224",
+        "cityId": 3926224,
         "name": "Provincia de V\u00edctor Fajardo",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -13.75,
         "longitude": -74.33333
     },
     {
-        "cityId": "3932906",
+        "cityId": 3932906,
         "name": "Provincia de Parinacochas",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -15.02965,
         "longitude": -73.63487
     },
     {
-        "cityId": "3935835",
+        "cityId": 3935835,
         "name": "Provincia de Lucanas",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -14.5,
         "longitude": -74.33333
     },
     {
-        "cityId": "3937045",
+        "cityId": 3937045,
         "name": "Provincia de La Mar",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -12.91667,
         "longitude": -73.83333
     },
     {
-        "cityId": "3939385",
+        "cityId": 3939385,
         "name": "Provincia de Huanta",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -12.5,
         "longitude": -74.16667
     },
     {
-        "cityId": "3939740",
+        "cityId": 3939740,
         "name": "Provincia de Huamanga",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -13.2,
         "longitude": -74.25
     },
     {
-        "cityId": "3945791",
+        "cityId": 3945791,
         "name": "Provincia de Cangallo",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -13.573,
         "longitude": -74.389
     },
     {
-        "cityId": "7778814",
+        "cityId": 7778814,
         "name": "Provincia de Sucre",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -14.103,
         "longitude": -73.786
     },
     {
-        "cityId": "7778815",
+        "cityId": 7778815,
         "name": "Provincia de Huanca Sancos",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -14.076,
         "longitude": -74.428
     },
     {
-        "cityId": "7778816",
+        "cityId": 7778816,
         "name": "Provincia de Vilcas Huam\u00e1n",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -13.632,
         "longitude": -73.888
     },
     {
-        "cityId": "8349551",
+        "cityId": 8349551,
         "name": "Paucar Del Sara Sara",
-        "stateId": "3947018",
+        "stateId": 3947018,
         "latitude": -15.12275,
         "longitude": -73.26177
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "615400",
+        "cityId": 615400,
         "name": "Borjomis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.78333,
         "longitude": 43.5
     },
     {
-        "cityId": "615428",
+        "cityId": 615428,
         "name": "Ninots\u2019mindis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.25,
         "longitude": 43.7
     },
     {
-        "cityId": "615659",
+        "cityId": 615659,
         "name": "Asp\u2019indzis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.5,
         "longitude": 43.25
     },
     {
-        "cityId": "615856",
+        "cityId": 615856,
         "name": "Akhaltsikhis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.63333,
         "longitude": 43
     },
     {
-        "cityId": "615891",
+        "cityId": 615891,
         "name": "Akhalkalakis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.41665,
         "longitude": 43.44991
     },
     {
-        "cityId": "615972",
+        "cityId": 615972,
         "name": "Adigeni Municipality",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.71667,
         "longitude": 42.73333
     },
     {
-        "cityId": "7667662",
+        "cityId": 7667662,
         "name": "Ninotsminda",
-        "stateId": "865544",
+        "stateId": 865544,
         "latitude": 41.26361,
         "longitude": 43.58877
     }

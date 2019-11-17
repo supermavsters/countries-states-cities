@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "252661",
+        "cityId": 252661,
         "name": "Trikala",
-        "stateId": "6697809",
+        "stateId": 6697809,
         "latitude": 39.66667,
         "longitude": 21.5
     },
     {
-        "cityId": "258013",
+        "cityId": 258013,
         "name": "Nom\u00f3s Magnis\u00edas",
-        "stateId": "6697809",
+        "stateId": 6697809,
         "latitude": 39.25,
         "longitude": 22.75
     },
     {
-        "cityId": "258575",
+        "cityId": 258575,
         "name": "Nom\u00f3s Lar\u00edsis",
-        "stateId": "6697809",
+        "stateId": 6697809,
         "latitude": 39.5,
         "longitude": 22.5
     },
     {
-        "cityId": "260988",
+        "cityId": 260988,
         "name": "Nom\u00f3s Kardh\u00edtsas",
-        "stateId": "6697809",
+        "stateId": 6697809,
         "latitude": 39.33333,
         "longitude": 21.75
     }

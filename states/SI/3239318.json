@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3196355",
+        "cityId": 3196355,
         "name": "Op\u0161tina Ljubljana-Moste-Polje",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.06667,
         "longitude": 14.61667
     },
     {
-        "cityId": "3196356",
+        "cityId": 3196356,
         "name": "Op\u0161tina Ljubljana-Center",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.05,
         "longitude": 14.53333
     },
     {
-        "cityId": "3196357",
+        "cityId": 3196357,
         "name": "Op\u010dina Ljubljana-Be\u017eigrad",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.08333,
         "longitude": 14.53333
     },
     {
-        "cityId": "9794375",
+        "cityId": 9794375,
         "name": "Dravlje District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.0729,
         "longitude": 14.44741
     },
     {
-        "cityId": "9794376",
+        "cityId": 9794376,
         "name": "Golovec District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.03969,
         "longitude": 14.5507
     },
     {
-        "cityId": "9794377",
+        "cityId": 9794377,
         "name": "Jar\u0161e District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.07345,
         "longitude": 14.55431
     },
     {
-        "cityId": "9794378",
+        "cityId": 9794378,
         "name": "Posavje District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.09412,
         "longitude": 14.50539
     },
     {
-        "cityId": "9794379",
+        "cityId": 9794379,
         "name": "Ro\u017enik District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.05999,
         "longitude": 14.46779
     },
     {
-        "cityId": "9794380",
+        "cityId": 9794380,
         "name": "Sostro District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.04341,
         "longitude": 14.67293
     },
     {
-        "cityId": "9794381",
+        "cityId": 9794381,
         "name": "\u0160entvid District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.10559,
         "longitude": 14.43329
     },
     {
-        "cityId": "9794382",
+        "cityId": 9794382,
         "name": "\u0160marna Gora District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.12499,
         "longitude": 14.47037
     },
     {
-        "cityId": "9794384",
+        "cityId": 9794384,
         "name": "Trnovo District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.02412,
         "longitude": 14.48891
     },
     {
-        "cityId": "9794386",
+        "cityId": 9794386,
         "name": "Vi\u010d District",
-        "stateId": "3239318",
+        "stateId": 3239318,
         "latitude": 46.00779,
         "longitude": 14.46968
     }

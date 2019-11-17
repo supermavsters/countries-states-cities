@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2099273",
+        "cityId": 2099273,
         "name": "Bogia",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -4.5,
         "longitude": 145
     },
     {
-        "cityId": "7910339",
+        "cityId": 7910339,
         "name": "Madang",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -5.23367,
         "longitude": 145.78889
     },
     {
-        "cityId": "8657191",
+        "cityId": 8657191,
         "name": "Middle Ramu",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -4.91667,
         "longitude": 144.75
     },
     {
-        "cityId": "8657192",
+        "cityId": 8657192,
         "name": "Usino Bundi",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -5.53333,
         "longitude": 145.16667
     },
     {
-        "cityId": "8657210",
+        "cityId": 8657210,
         "name": "Sumkar",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -4.8,
         "longitude": 145.55
     },
     {
-        "cityId": "9855506",
+        "cityId": 9855506,
         "name": "Rai Coast",
-        "stateId": "2091993",
+        "stateId": 2091993,
         "latitude": -5.72303,
         "longitude": 146.46149
     }

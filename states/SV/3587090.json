@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3582991",
+        "cityId": 3582991,
         "name": "Distrito de Tejutla",
-        "stateId": "3587090",
+        "stateId": 3587090,
         "latitude": 14.21667,
         "longitude": -89.16667
     },
     {
-        "cityId": "3586797",
+        "cityId": 3586797,
         "name": "Distrito de Dulce Nombre de Mar\u00eda",
-        "stateId": "3587090",
+        "stateId": 3587090,
         "latitude": 14.2,
         "longitude": -89.03333
     },
     {
-        "cityId": "3587089",
+        "cityId": 3587089,
         "name": "Distrito de Chalatenango",
-        "stateId": "3587090",
+        "stateId": 3587090,
         "latitude": 14.05,
         "longitude": -88.83333
     },
     {
-        "cityId": "9210560",
+        "cityId": 9210560,
         "name": "Mercedes",
-        "stateId": "3587090",
+        "stateId": 3587090,
         "latitude": 14.30813,
         "longitude": -89.01484
     }

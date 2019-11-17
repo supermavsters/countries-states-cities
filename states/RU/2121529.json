@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2119443",
+        "cityId": 2119443,
         "name": "Yuzhno-Kurilsky District",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 44.59242,
         "longitude": 146.77048
     },
     {
-        "cityId": "2120259",
+        "cityId": 2120259,
         "name": "Uglegorskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 49.08333,
         "longitude": 142.08333
     },
     {
-        "cityId": "2120528",
+        "cityId": 2120528,
         "name": "Tomarinskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 47.83333,
         "longitude": 142.25
     },
     {
-        "cityId": "2121125",
+        "cityId": 2121125,
         "name": "Smirnykhovskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 49.75,
         "longitude": 142.83333
     },
     {
-        "cityId": "2121906",
+        "cityId": 2121906,
         "name": "Poronayskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 49.58333,
         "longitude": 143.41667
     },
     {
-        "cityId": "2122610",
+        "cityId": 2122610,
         "name": "Okhinskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 53.5,
         "longitude": 143
     },
     {
-        "cityId": "2122891",
+        "cityId": 2122891,
         "name": "Nevel\u2019skiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 46.5,
         "longitude": 142
     },
     {
-        "cityId": "2123978",
+        "cityId": 2123978,
         "name": "Kurilsky District",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 46,
         "longitude": 150
     },
     {
-        "cityId": "2124282",
+        "cityId": 2124282,
         "name": "Korsakovskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 46.83333,
         "longitude": 143
     },
     {
-        "cityId": "2127149",
+        "cityId": 2127149,
         "name": "Anivskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 46.5,
         "longitude": 142.25
     },
     {
-        "cityId": "2127281",
+        "cityId": 2127281,
         "name": "Aleksandrovsk-Sakhalinskiy Rayon",
-        "stateId": "2121529",
+        "stateId": 2121529,
         "latitude": 51.16667,
         "longitude": 142.33333
     }

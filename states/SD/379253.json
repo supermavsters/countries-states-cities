@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "368767",
+        "cityId": 368767,
         "name": "Omdurman",
-        "stateId": "379253",
+        "stateId": 379253,
         "latitude": 15.75525,
         "longitude": 32.29431
     },
     {
-        "cityId": "372533",
+        "cityId": 372533,
         "name": "Karary",
-        "stateId": "379253",
+        "stateId": 379253,
         "latitude": 16.14345,
         "longitude": 32.12128
     },
     {
-        "cityId": "372535",
+        "cityId": 372535,
         "name": "Khartoum",
-        "stateId": "379253",
+        "stateId": 379253,
         "latitude": 15.51026,
         "longitude": 32.54253
     },
     {
-        "cityId": "8050944",
+        "cityId": 8050944,
         "name": "Khartoum North",
-        "stateId": "379253",
+        "stateId": 379253,
         "latitude": 15.874,
         "longitude": 32.824
     },
     {
-        "cityId": "8051156",
+        "cityId": 8051156,
         "name": "Sharg En Nile",
-        "stateId": "379253",
+        "stateId": 379253,
         "latitude": 15.77,
         "longitude": 33.56
     }

@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1116329",
+        "cityId": 1116329,
         "name": "Amphoe Pa Daet",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.50643,
         "longitude": 99.97615
     },
     {
-        "cityId": "1149880",
+        "cityId": 1149880,
         "name": "Amphoe Wiang Pa Pao",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.3046,
         "longitude": 99.44925
     },
     {
-        "cityId": "1151476",
+        "cityId": 1151476,
         "name": "Amphoe Phan",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.5745,
         "longitude": 99.77299
     },
     {
-        "cityId": "1151999",
+        "cityId": 1151999,
         "name": "Amphoe Mueang Chiang Rai",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.90824,
         "longitude": 99.77299
     },
     {
-        "cityId": "1152185",
+        "cityId": 1152185,
         "name": "Amphoe Mae Suai",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.69037,
         "longitude": 99.48459
     },
     {
-        "cityId": "1152193",
+        "cityId": 1152193,
         "name": "Amphoe Mae Sai",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.365,
         "longitude": 99.92604
     },
     {
-        "cityId": "1152226",
+        "cityId": 1152226,
         "name": "Amphoe Mae Chan",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.1991,
         "longitude": 99.88468
     },
     {
-        "cityId": "1605408",
+        "cityId": 1605408,
         "name": "Amphoe Thoeng",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.6765,
         "longitude": 100.20095
     },
     {
-        "cityId": "1611186",
+        "cityId": 1611186,
         "name": "Amphoe Chiang Saen",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.23572,
         "longitude": 100.15537
     },
     {
-        "cityId": "1611196",
+        "cityId": 1611196,
         "name": "Amphoe Chiang Khong",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.13587,
         "longitude": 100.36527
     },
     {
-        "cityId": "7322940",
+        "cityId": 7322940,
         "name": "Amphoe Mae Fa Luang",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.22228,
         "longitude": 99.64147
     },
     {
-        "cityId": "7325689",
+        "cityId": 7325689,
         "name": "Amphoe Wiang Chiang Rung",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.02208,
         "longitude": 100.07472
     },
     {
-        "cityId": "7325690",
+        "cityId": 7325690,
         "name": "Amphoe Doi Luang",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.14496,
         "longitude": 100.15712
     },
     {
-        "cityId": "7325780",
+        "cityId": 7325780,
         "name": "Amphoe Wiang Kaen",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 20.00874,
         "longitude": 100.48641
     },
     {
-        "cityId": "7382204",
+        "cityId": 7382204,
         "name": "Amphoe Khun Tan",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.86481,
         "longitude": 100.28731
     },
     {
-        "cityId": "7382782",
+        "cityId": 7382782,
         "name": "Amphoe Phaya Mengrai",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.8732,
         "longitude": 100.16257
     },
     {
-        "cityId": "7420283",
+        "cityId": 7420283,
         "name": "Amphoe Wiang Chai",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.8636,
         "longitude": 100.00065
     },
     {
-        "cityId": "7421325",
+        "cityId": 7421325,
         "name": "Amphoe Mae Lao",
-        "stateId": "1153668",
+        "stateId": 1153668,
         "latitude": 19.77223,
         "longitude": 99.71128
     }

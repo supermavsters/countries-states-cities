@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3909533",
+        "cityId": 3909533,
         "name": "Provincia Nicol\u00e1s Su\u00e1rez",
-        "stateId": "3908600",
+        "stateId": 3908600,
         "latitude": -11.33333,
         "longitude": -68.5
     },
     {
-        "cityId": "3910770",
+        "cityId": 3910770,
         "name": "Provincia Manuripi",
-        "stateId": "3908600",
+        "stateId": 3908600,
         "latitude": -11.33333,
         "longitude": -67.5
     },
     {
-        "cityId": "3910923",
+        "cityId": 3910923,
         "name": "Provincia Madre de Dios",
-        "stateId": "3908600",
+        "stateId": 3908600,
         "latitude": -11.58333,
         "longitude": -67
     },
     {
-        "cityId": "3915598",
+        "cityId": 3915598,
         "name": "Provincia General Federico Rom\u00e1n",
-        "stateId": "3908600",
+        "stateId": 3908600,
         "latitude": -10.33333,
         "longitude": -65.88333
     },
     {
-        "cityId": "3924631",
+        "cityId": 3924631,
         "name": "Provincia Abun\u00e1",
-        "stateId": "3908600",
+        "stateId": 3908600,
         "latitude": -10.5,
         "longitude": -66.5
     }

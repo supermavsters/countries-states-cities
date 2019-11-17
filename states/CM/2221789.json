@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2223478",
+        "cityId": 2223478,
         "name": "D\u00e9partement du Ntem",
-        "stateId": "2221789",
+        "stateId": 2221789,
         "latitude": 2.42496,
         "longitude": 10.91761
     },
     {
-        "cityId": "2229760",
+        "cityId": 2229760,
         "name": "D\u00e9partement de Kribi",
-        "stateId": "2221789",
+        "stateId": 2221789,
         "latitude": 2.75,
         "longitude": 10.25
     },
     {
-        "cityId": "2232969",
+        "cityId": 2232969,
         "name": "D\u00e9partement du Dja-et-Lobo",
-        "stateId": "2221789",
+        "stateId": 2221789,
         "latitude": 2.75,
         "longitude": 12.91667
     },
     {
-        "cityId": "9230015",
+        "cityId": 9230015,
         "name": "Mvila",
-        "stateId": "2221789",
+        "stateId": 2221789,
         "latitude": 2.79796,
         "longitude": 11.39434
     },
     {
-        "cityId": "9239012",
+        "cityId": 9239012,
         "name": "Vall\u00e9e-du-Ntem",
-        "stateId": "2221789",
+        "stateId": 2221789,
         "latitude": 2.36667,
         "longitude": 11.26667
     }

@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "1517878",
+        "cityId": 1517878,
         "name": "T\u00fclkibas A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.5,
         "longitude": 70.25
     },
     {
-        "cityId": "1517946",
+        "cityId": 1517946,
         "name": "T\u00fcrkistan A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 43.33333,
         "longitude": 68.5
     },
     {
-        "cityId": "1518678",
+        "cityId": 1518678,
         "name": "Sozaq A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 44.83333,
         "longitude": 68.5
     },
     {
-        "cityId": "1519452",
+        "cityId": 1519452,
         "name": "Sayram A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.41667,
         "longitude": 69.75
     },
     {
-        "cityId": "1519675",
+        "cityId": 1519675,
         "name": "Saryaghash A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 41.66667,
         "longitude": 68.83333
     },
     {
-        "cityId": "1520258",
+        "cityId": 1520258,
         "name": "Maqtaaral A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 40.75,
         "longitude": 68.58333
     },
     {
-        "cityId": "1521354",
+        "cityId": 1521354,
         "name": "Qazyqurt A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 41.83333,
         "longitude": 69.75
     },
     {
-        "cityId": "1521378",
+        "cityId": 1521378,
         "name": "T\u00f6le B\u012b A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.25,
         "longitude": 70.25
     },
     {
-        "cityId": "1521407",
+        "cityId": 1521407,
         "name": "Otyrar A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.66667,
         "longitude": 67.5
     },
     {
-        "cityId": "1522640",
+        "cityId": 1522640,
         "name": "K\u012brov A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 40.91667,
         "longitude": 68.16667
     },
     {
-        "cityId": "1522812",
+        "cityId": 1522812,
         "name": "Keles A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 41.25,
         "longitude": 68.5
     },
     {
-        "cityId": "1524384",
+        "cityId": 1524384,
         "name": "Zhetisay A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 40.75,
         "longitude": 68.25
     },
     {
-        "cityId": "1524885",
+        "cityId": 1524885,
         "name": "Shardara A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 41.5,
         "longitude": 67.25
     },
     {
-        "cityId": "1525042",
+        "cityId": 1525042,
         "name": "Ordabasy A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.58333,
         "longitude": 69.25
     },
     {
-        "cityId": "1526412",
+        "cityId": 1526412,
         "name": "Alghabas A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 43,
         "longitude": 69.5
     },
     {
-        "cityId": "1537271",
+        "cityId": 1537271,
         "name": "Arys A\u016bdany",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.16667,
         "longitude": 68.25
     },
     {
-        "cityId": "1537272",
+        "cityId": 1537272,
         "name": "Shymkent Qalasy",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.31667,
         "longitude": 69.58333
     },
     {
-        "cityId": "1537273",
+        "cityId": 1537273,
         "name": "Arys Qalasy",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.43333,
         "longitude": 68.8
     },
     {
-        "cityId": "1537274",
+        "cityId": 1537274,
         "name": "Kenta\u016b Qalasy",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 43.53333,
         "longitude": 68.6
     },
     {
-        "cityId": "1537275",
+        "cityId": 1537275,
         "name": "Lenger Qalasy",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 42.18301,
         "longitude": 69.88393
     },
     {
-        "cityId": "1537276",
+        "cityId": 1537276,
         "name": "T\u00fcrkistan Qalasy",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 43.33333,
         "longitude": 68.25
     },
     {
-        "cityId": "8739752",
+        "cityId": 8739752,
         "name": "Kazygurt District",
-        "stateId": "1524787",
+        "stateId": 1524787,
         "latitude": 41.759,
         "longitude": 69.41
     }

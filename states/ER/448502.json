@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "329423",
+        "cityId": 329423,
         "name": "Sahil \u0100wraja",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 17,
         "longitude": 38.58333
     },
     {
-        "cityId": "413929",
+        "cityId": 413929,
         "name": "Semhar \u0100wraja",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.58333,
         "longitude": 39.33333
     },
     {
-        "cityId": "413930",
+        "cityId": 413930,
         "name": "Senhit \u0100wraja",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 16.83333,
         "longitude": 38.5
     },
     {
-        "cityId": "9165816",
+        "cityId": 9165816,
         "name": "Af'abet",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 16.18333,
         "longitude": 38.68333
     },
     {
-        "cityId": "9166034",
+        "cityId": 9166034,
         "name": "North Eastern Subregion",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.485,
         "longitude": 38.89806
     },
     {
-        "cityId": "9166047",
+        "cityId": 9166047,
         "name": "Dahlak Subregion",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.83333,
         "longitude": 40.2
     },
     {
-        "cityId": "9166048",
+        "cityId": 9166048,
         "name": "Ghinda Subregion",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.44454,
         "longitude": 39.09586
     },
     {
-        "cityId": "9166050",
+        "cityId": 9166050,
         "name": "Massawa Subregion",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.60917,
         "longitude": 39.44528
     },
     {
-        "cityId": "9166052",
+        "cityId": 9166052,
         "name": "Nakfa Subregion",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 16.66667,
         "longitude": 38.46667
     },
     {
-        "cityId": "10628668",
+        "cityId": 10628668,
         "name": "Ghelaelo",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 14.74626,
         "longitude": 40.16226
     },
     {
-        "cityId": "10628671",
+        "cityId": 10628671,
         "name": "Foro Sub-Region",
-        "stateId": "448502",
+        "stateId": 448502,
         "latitude": 15.20934,
         "longitude": 39.519
     }

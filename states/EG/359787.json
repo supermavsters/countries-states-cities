@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "346518",
+        "cityId": 346518,
         "name": "Markaz \u2018Unaybah",
-        "stateId": "359787",
+        "stateId": 359787,
         "latitude": 22.78333,
         "longitude": 32.58333
     },
     {
-        "cityId": "355633",
+        "cityId": 355633,
         "name": "Markaz Idf\u016b",
-        "stateId": "359787",
+        "stateId": 359787,
         "latitude": 25.00736,
         "longitude": 32.84827
     },
     {
-        "cityId": "359788",
+        "cityId": 359788,
         "name": "Markaz Asw\u0101n",
-        "stateId": "359787",
+        "stateId": 359787,
         "latitude": 24.05599,
         "longitude": 32.88491
     }

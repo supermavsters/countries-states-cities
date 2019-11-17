@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "2109495",
+        "stateId": 2109495,
         "name": "Central Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -9.09667,
         "longitude": 160.24109
     },
     {
-        "stateId": "7280292",
+        "stateId": 7280292,
         "name": "Choiseul",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -6.99186,
         "longitude": 156.86279
     },
     {
-        "stateId": "2108831",
+        "stateId": 2108831,
         "name": "Guadalcanal Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -9.63333,
         "longitude": 160.2
     },
     {
-        "stateId": "9259067",
+        "stateId": 9259067,
         "name": "Honiara",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -9.44167,
         "longitude": 159.96667
     },
     {
-        "stateId": "2108262",
+        "stateId": 2108262,
         "name": "Isabel Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -8.05379,
         "longitude": 159.13696
     },
     {
-        "stateId": "2178730",
+        "stateId": 2178730,
         "name": "Makira-Ulawa Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -10.55751,
         "longitude": 161.78517
     },
     {
-        "stateId": "2106552",
+        "stateId": 2106552,
         "name": "Malaita Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -9,
         "longitude": 161
     },
     {
-        "stateId": "7280293",
+        "stateId": 7280293,
         "name": "Rennell and Bellona",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -11.60516,
         "longitude": 160.15457
     },
     {
-        "stateId": "2178472",
+        "stateId": 2178472,
         "name": "Temotu Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -10.72754,
         "longitude": 165.93884
     },
     {
-        "stateId": "2101556",
+        "stateId": 2101556,
         "name": "Western Province",
-        "countryId": "2103350",
+        "countryId": 2103350,
         "latitude": -8,
         "longitude": 157
     }

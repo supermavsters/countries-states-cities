@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "469534",
+        "cityId": 469534,
         "name": "Yakovlevskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.83333,
         "longitude": 36.41667
     },
     {
-        "cityId": "472424",
+        "cityId": 472424,
         "name": "Volokonovskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.5,
         "longitude": 37.83333
     },
     {
-        "cityId": "473855",
+        "cityId": 473855,
         "name": "Veydelevskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.16667,
         "longitude": 38.58333
     },
     {
-        "cityId": "477189",
+        "cityId": 477189,
         "name": "Valuyskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.16667,
         "longitude": 38
     },
     {
-        "cityId": "488709",
+        "cityId": 488709,
         "name": "Starooskolsky Urban Okrug",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 51.25,
         "longitude": 38
     },
     {
-        "cityId": "495111",
+        "cityId": 495111,
         "name": "Shebekinskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.5,
         "longitude": 37
     },
     {
-        "cityId": "501124",
+        "cityId": 501124,
         "name": "Roven\u2019skiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50,
         "longitude": 39
     },
     {
-        "cityId": "503055",
+        "cityId": 503055,
         "name": "Rakityanskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.83333,
         "longitude": 35.91667
     },
     {
-        "cityId": "504908",
+        "cityId": 504908,
         "name": "Prokhorovskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 51.00447,
         "longitude": 36.74875
     },
     {
-        "cityId": "518413",
+        "cityId": 518413,
         "name": "Novooskol\u2019skiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.75,
         "longitude": 37.83333
     },
     {
-        "cityId": "542337",
+        "cityId": 542337,
         "name": "Krasnogvardeyskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.66667,
         "longitude": 38.33333
     },
     {
-        "cityId": "544704",
+        "cityId": 544704,
         "name": "Korochanskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.83333,
         "longitude": 37.25
     },
     {
-        "cityId": "554969",
+        "cityId": 554969,
         "name": "Ivnyanskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 51,
         "longitude": 36.25
     },
     {
-        "cityId": "558141",
+        "cityId": 558141,
         "name": "Gubkinsky Urban Okrug",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 51.16667,
         "longitude": 37.41667
     },
     {
-        "cityId": "568584",
+        "cityId": 568584,
         "name": "Chernyanskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 51,
         "longitude": 37.91667
     },
     {
-        "cityId": "572391",
+        "cityId": 572391,
         "name": "Borisovskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.58333,
         "longitude": 36
     },
     {
-        "cityId": "578070",
+        "cityId": 578070,
         "name": "Belgorodskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.5,
         "longitude": 36.5
     },
     {
-        "cityId": "582787",
+        "cityId": 582787,
         "name": "Alekseyevskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.58333,
         "longitude": 38.83333
     },
     {
-        "cityId": "824989",
+        "cityId": 824989,
         "name": "Gorod Alekseyevka",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.63333,
         "longitude": 38.66667
     },
     {
-        "cityId": "824990",
+        "cityId": 824990,
         "name": "Grayvoronskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.5,
         "longitude": 35.66667
     },
     {
-        "cityId": "824991",
+        "cityId": 824991,
         "name": "Krasnenskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.91667,
         "longitude": 38.58333
     },
     {
-        "cityId": "824992",
+        "cityId": 824992,
         "name": "Krasnoyaruzhskiy Rayon",
-        "stateId": "578071",
+        "stateId": 578071,
         "latitude": 50.83333,
         "longitude": 35.5
     }

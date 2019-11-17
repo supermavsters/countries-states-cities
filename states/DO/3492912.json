@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3493405",
+        "cityId": 3493405,
         "name": "San Ignacio de Sabaneta",
-        "stateId": "3492912",
+        "stateId": 3492912,
         "latitude": 19.38333,
         "longitude": -71.35
     },
     {
-        "cityId": "3496285",
+        "cityId": 3496285,
         "name": "Monci\u00f3n",
-        "stateId": "3492912",
+        "stateId": 3492912,
         "latitude": 19.46667,
         "longitude": -71.16667
     },
     {
-        "cityId": "11154567",
+        "cityId": 11154567,
         "name": "Villa Los Alm\u00e1cigos",
-        "stateId": "3492912",
+        "stateId": 3492912,
         "latitude": 19.32289,
         "longitude": -71.44224
     }

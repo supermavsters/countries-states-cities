@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "611547",
+        "cityId": 611547,
         "name": "Ts\u2019alk\u2019is Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.63333,
         "longitude": 43.96667
     },
     {
-        "cityId": "611676",
+        "cityId": 611676,
         "name": "Tetrits\u2019q\u2019alos Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.6,
         "longitude": 44.5
     },
     {
-        "cityId": "613073",
+        "cityId": 613073,
         "name": "Marneulis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.38333,
         "longitude": 44.85
     },
     {
-        "cityId": "614573",
+        "cityId": 614573,
         "name": "Gardabnis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.61667,
         "longitude": 45
     },
     {
-        "cityId": "614889",
+        "cityId": 614889,
         "name": "Dmanisis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.35,
         "longitude": 44.13333
     },
     {
-        "cityId": "615418",
+        "cityId": 615418,
         "name": "Bolnisis Munitsip\u2019alit\u2019et\u2019i",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.36667,
         "longitude": 44.51667
     },
     {
-        "cityId": "828312",
+        "cityId": 828312,
         "name": "Kalaki Rustavi",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.53333,
         "longitude": 45
     },
     {
-        "cityId": "7667577",
+        "cityId": 7667577,
         "name": "Gardabani",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.45,
         "longitude": 45.1
     },
     {
-        "cityId": "7667578",
+        "cityId": 7667578,
         "name": "Marneuli",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.46361,
         "longitude": 44.81083
     },
     {
-        "cityId": "7667683",
+        "cityId": 7667683,
         "name": "Tetri Tsqaro",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.55,
         "longitude": 44.46667
     },
     {
-        "cityId": "7667714",
+        "cityId": 7667714,
         "name": "Tsalka",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.58333,
         "longitude": 44.08333
     },
     {
-        "cityId": "7729903",
+        "cityId": 7729903,
         "name": "Dmanisi",
-        "stateId": "865536",
+        "stateId": 865536,
         "latitude": 41.32,
         "longitude": 44.2
     }

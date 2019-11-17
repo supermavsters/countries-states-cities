@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "725677",
+        "cityId": 725677,
         "name": "Obshtina Valchidol",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.45,
         "longitude": 27.5
     },
     {
-        "cityId": "725923",
+        "cityId": 725923,
         "name": "Obshtina Vetrino",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.31667,
         "longitude": 27.43333
     },
     {
-        "cityId": "726048",
+        "cityId": 726048,
         "name": "Obshtina Varna",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.21667,
         "longitude": 27.91667
     },
     {
-        "cityId": "726590",
+        "cityId": 726590,
         "name": "Obshtina Suvorovo",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.33333,
         "longitude": 27.65
     },
     {
-        "cityId": "727919",
+        "cityId": 727919,
         "name": "Obshtina Provadia",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.18333,
         "longitude": 27.4
     },
     {
-        "cityId": "731452",
+        "cityId": 731452,
         "name": "Obshtina Dolni Chiflik",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 42.96667,
         "longitude": 27.68333
     },
     {
-        "cityId": "731821",
+        "cityId": 731821,
         "name": "Obshtina Dalgopol",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.05,
         "longitude": 27.35
     },
     {
-        "cityId": "732277",
+        "cityId": 732277,
         "name": "Obshtina Devnya",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.22056,
         "longitude": 27.60052
     },
     {
-        "cityId": "732718",
+        "cityId": 732718,
         "name": "Obshtina Byala",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 42.88333,
         "longitude": 27.81667
     },
     {
-        "cityId": "733292",
+        "cityId": 733292,
         "name": "Obshtina Beloslav",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.2,
         "longitude": 27.73333
     },
     {
-        "cityId": "733585",
+        "cityId": 733585,
         "name": "Obshtina Avren",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.1,
         "longitude": 27.71667
     },
     {
-        "cityId": "733715",
+        "cityId": 733715,
         "name": "Obshtina Aksakovo",
-        "stateId": "726051",
+        "stateId": 726051,
         "latitude": 43.31667,
         "longitude": 27.85
     }

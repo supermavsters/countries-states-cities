@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1307740",
+        "cityId": 1307740,
         "name": "Myitkyin\u0101 District",
-        "stateId": "1321702",
+        "stateId": 1321702,
         "latitude": 25.78552,
         "longitude": 97.14527
     },
     {
-        "cityId": "1328217",
+        "cityId": 1328217,
         "name": "Bhamo District",
-        "stateId": "1321702",
+        "stateId": 1321702,
         "latitude": 24.26023,
         "longitude": 97.17882
     },
     {
-        "cityId": "8238707",
+        "cityId": 8238707,
         "name": "Putao District",
-        "stateId": "1321702",
+        "stateId": 1321702,
         "latitude": 27.26892,
         "longitude": 97.78238
     },
     {
-        "cityId": "8238708",
+        "cityId": 8238708,
         "name": "Mohnyin District",
-        "stateId": "1321702",
+        "stateId": 1321702,
         "latitude": 25.19508,
         "longitude": 96.59766
     }

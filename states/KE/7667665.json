@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7800141",
+        "cityId": 7800141,
         "name": "Suba District",
-        "stateId": "7667665",
+        "stateId": 7667665,
         "latitude": -0.58,
         "longitude": 34.223
     },
     {
-        "cityId": "7802748",
+        "cityId": 7802748,
         "name": "Rachuonyo District",
-        "stateId": "7667665",
+        "stateId": 7667665,
         "latitude": -0.44,
         "longitude": 34.739
     }

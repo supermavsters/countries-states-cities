@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "10375722",
+        "cityId": 10375722,
         "name": "Maban County",
-        "stateId": "11550588",
+        "stateId": 11550588,
         "latitude": 9.97917,
         "longitude": 33.75
     },
     {
-        "cityId": "10376722",
+        "cityId": 10376722,
         "name": "Melut County",
-        "stateId": "11550588",
+        "stateId": 11550588,
         "latitude": 10.64274,
         "longitude": 32.49155
     },
     {
-        "cityId": "10400839",
+        "cityId": 10400839,
         "name": "Renk County",
-        "stateId": "11550588",
+        "stateId": 11550588,
         "latitude": 11.31408,
         "longitude": 33.06162
     }

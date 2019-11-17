@@ -1,99 +1,99 @@
 [
     {
-        "stateId": "173813",
+        "stateId": 173813,
         "name": "Al-Hasakah Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 36.51667,
         "longitude": 40.9
     },
     {
-        "stateId": "170062",
+        "stateId": 170062,
         "name": "Aleppo Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 36.25,
         "longitude": 37.61667
     },
     {
-        "stateId": "172957",
+        "stateId": 172957,
         "name": "Ar-Raqqah Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 36,
         "longitude": 38.93333
     },
     {
-        "stateId": "172410",
+        "stateId": 172410,
         "name": "As-Suwayda Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 32.76667,
         "longitude": 36.85
     },
     {
-        "stateId": "167541",
+        "stateId": 167541,
         "name": "Damascus Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 33.51667,
         "longitude": 36.28333
     },
     {
-        "stateId": "170903",
+        "stateId": 170903,
         "name": "Daraa Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 32.85,
         "longitude": 36.21667
     },
     {
-        "stateId": "170792",
+        "stateId": 170792,
         "name": "Deir ez-Zor Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 35.16667,
         "longitude": 40.28333
     },
     {
-        "stateId": "170015",
+        "stateId": 170015,
         "name": "Hama Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 35.23333,
         "longitude": 37.2
     },
     {
-        "stateId": "169575",
+        "stateId": 169575,
         "name": "Homs Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 34.46667,
         "longitude": 38.3
     },
     {
-        "stateId": "169387",
+        "stateId": 169387,
         "name": "Idlib Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 35.76667,
         "longitude": 36.66667
     },
     {
-        "stateId": "173578",
+        "stateId": 173578,
         "name": "Latakia Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 35.56667,
         "longitude": 36.03333
     },
     {
-        "stateId": "170652",
+        "stateId": 170652,
         "name": "Mu\u1e29\u0101faz\u0327at R\u012bf Dimashq",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 33.5,
         "longitude": 37.38333
     },
     {
-        "stateId": "173336",
+        "stateId": 173336,
         "name": "Quneitra Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 33.03333,
         "longitude": 35.78333
     },
     {
-        "stateId": "163342",
+        "stateId": 163342,
         "name": "Tartus Governorate",
-        "countryId": "163843",
+        "countryId": 163843,
         "latitude": 35.00427,
         "longitude": 36.15867
     }

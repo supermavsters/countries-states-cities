@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "3346496",
+        "cityId": 3346496,
         "name": "Quipungo",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -15.12203,
         "longitude": 14.55953
     },
     {
-        "cityId": "3346556",
+        "cityId": 3346556,
         "name": "Quilengues",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -13.99213,
         "longitude": 13.76705
     },
     {
-        "cityId": "3347423",
+        "cityId": 3347423,
         "name": "Matala",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -15.23967,
         "longitude": 15.17246
     },
     {
-        "cityId": "3347760",
+        "cityId": 3347760,
         "name": "Lubango",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -14.7877,
         "longitude": 13.69894
     },
     {
-        "cityId": "3348075",
+        "cityId": 3348075,
         "name": "Cuvango",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -14.27693,
         "longitude": 16.31475
     },
     {
-        "cityId": "3348165",
+        "cityId": 3348165,
         "name": "Jamba",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -14.76294,
         "longitude": 15.83493
     },
     {
-        "cityId": "3348286",
+        "cityId": 3348286,
         "name": "Humpata",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -15.0725,
         "longitude": 13.36771
     },
     {
-        "cityId": "3349647",
+        "cityId": 3349647,
         "name": "Chipindo",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -13.8683,
         "longitude": 15.73277
     },
     {
-        "cityId": "3349949",
+        "cityId": 3349949,
         "name": "Chicomba",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -14.30788,
         "longitude": 14.98672
     },
     {
-        "cityId": "3349996",
+        "cityId": 3349996,
         "name": "Chibia",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -15.23657,
         "longitude": 13.88468
     },
     {
-        "cityId": "3350009",
+        "cityId": 3350009,
         "name": "Gambos",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -15.80926,
         "longitude": 14.07661
     },
     {
-        "cityId": "3351021",
+        "cityId": 3351021,
         "name": "Caluquembe",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -13.92093,
         "longitude": 14.53476
     },
     {
-        "cityId": "3351379",
+        "cityId": 3351379,
         "name": "Caconda",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -13.75376,
         "longitude": 15.15389
     },
     {
-        "cityId": "10449850",
+        "cityId": 10449850,
         "name": "Cacula",
-        "stateId": "3348303",
+        "stateId": 3348303,
         "latitude": -14.44099,
         "longitude": 14.24377
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "6458809",
+        "cityId": 6458809,
         "name": "Le Locle District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 47.01927,
         "longitude": 6.69635
     },
     {
-        "cityId": "6458812",
+        "cityId": 6458812,
         "name": "Val-de-Ruz District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 47.04008,
         "longitude": 6.90829
     },
     {
-        "cityId": "6458825",
+        "cityId": 6458825,
         "name": "Boudry District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 46.94594,
         "longitude": 6.82842
     },
     {
-        "cityId": "6458831",
+        "cityId": 6458831,
         "name": "La Chaux-de-Fonds District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 47.12159,
         "longitude": 6.84064
     },
     {
-        "cityId": "6458835",
+        "cityId": 6458835,
         "name": "Val-de-Travers District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 46.90357,
         "longitude": 6.5631
     },
     {
-        "cityId": "6458886",
+        "cityId": 6458886,
         "name": "Neuch\u00e2tel District",
-        "stateId": "2659495",
+        "stateId": 2659495,
         "latitude": 47.01799,
         "longitude": 6.99337
     }

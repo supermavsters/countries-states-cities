@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "8010627",
+        "cityId": 8010627,
         "name": "Arcos de Valdevez",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.87348,
         "longitude": -8.42624
     },
     {
-        "cityId": "8010628",
+        "cityId": 8010628,
         "name": "Caminha",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.84647,
         "longitude": -8.80133
     },
     {
-        "cityId": "8010629",
+        "cityId": 8010629,
         "name": "Melga\u00e7o",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 42.08067,
         "longitude": -8.24844
     },
     {
-        "cityId": "8010630",
+        "cityId": 8010630,
         "name": "Mon\u00e7\u00e3o",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 42.07257,
         "longitude": -8.48488
     },
     {
-        "cityId": "8010631",
+        "cityId": 8010631,
         "name": "Paredes de Coura",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.90995,
         "longitude": -8.57034
     },
     {
-        "cityId": "8010632",
+        "cityId": 8010632,
         "name": "Ponte da Barca",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.80669,
         "longitude": -8.31014
     },
     {
-        "cityId": "8010633",
+        "cityId": 8010633,
         "name": "Ponte de Lima",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.74682,
         "longitude": -8.57637
     },
     {
-        "cityId": "8010634",
+        "cityId": 8010634,
         "name": "Valen\u00e7a",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 42.02821,
         "longitude": -8.63388
     },
     {
-        "cityId": "8010635",
+        "cityId": 8010635,
         "name": "Viana do Castelo",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.70898,
         "longitude": -8.84674
     },
     {
-        "cityId": "8010636",
+        "cityId": 8010636,
         "name": "Vila Nova de Cerveira",
-        "stateId": "2732772",
+        "stateId": 2732772,
         "latitude": 41.9331,
         "longitude": -8.70533
     }

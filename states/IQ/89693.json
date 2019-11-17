@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "98197",
+        "cityId": 98197,
         "name": "Badra District",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 33.08333,
         "longitude": 45.9
     },
     {
-        "cityId": "98460",
+        "cityId": 98460,
         "name": "Al-Suwaira District",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.92451,
         "longitude": 44.77478
     },
     {
-        "cityId": "99132",
+        "cityId": 99132,
         "name": "Kut District",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.55,
         "longitude": 45.8
     },
     {
-        "cityId": "99351",
+        "cityId": 99351,
         "name": "Al-Hai District",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.2,
         "longitude": 46
     },
     {
-        "cityId": "9166606",
+        "cityId": 9166606,
         "name": "Al-Na'maniya District",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.36105,
         "longitude": 45.48408
     },
     {
-        "cityId": "9166961",
+        "cityId": 9166961,
         "name": "Qada Al-Azezia",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.9107,
         "longitude": 45.06299
     },
     {
-        "cityId": "9873403",
+        "cityId": 9873403,
         "name": "Qa\u1e11\u0101\u2019 al \u2018Az\u012bz\u012byah",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.93888,
         "longitude": 45.16251
     },
     {
-        "cityId": "9873404",
+        "cityId": 9873404,
         "name": "Qa\u1e11\u0101\u2019 an Nu\u2018m\u0101n\u012byah",
-        "stateId": "89693",
+        "stateId": 89693,
         "latitude": 32.35948,
         "longitude": 45.48658
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11204310",
+        "cityId": 11204310,
         "name": "Woleu",
-        "stateId": "2396076",
+        "stateId": 2396076,
         "latitude": 1.37273,
         "longitude": 11.79305
     },
     {
-        "cityId": "11204504",
+        "cityId": 11204504,
         "name": "Okano Department",
-        "stateId": "2396076",
+        "stateId": 2396076,
         "latitude": 0.78333,
         "longitude": 11.56667
     },
     {
-        "cityId": "11204591",
+        "cityId": 11204591,
         "name": "Ntem Department",
-        "stateId": "2396076",
+        "stateId": 2396076,
         "latitude": 2.07778,
         "longitude": 11.48889
     }

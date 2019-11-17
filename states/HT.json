@@ -1,71 +1,71 @@
 [
     {
-        "stateId": "3728069",
+        "stateId": 3728069,
         "name": "Centre",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 19,
         "longitude": -72
     },
     {
-        "stateId": "7115999",
+        "stateId": 7115999,
         "name": "D\u00e9partement de Nippes",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 18.44835,
         "longitude": -73.4285
     },
     {
-        "stateId": "3731053",
+        "stateId": 3731053,
         "name": "D\u00e9partement de l'Artibonite",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 19.33333,
         "longitude": -72.5
     },
     {
-        "stateId": "3719432",
+        "stateId": 3719432,
         "name": "D\u00e9partement de l'Ouest",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 18.66381,
         "longitude": -72.29141
     },
     {
-        "stateId": "3719540",
+        "stateId": 3719540,
         "name": "D\u00e9partement du Nord-Est",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 19.48897,
         "longitude": -71.85713
     },
     {
-        "stateId": "3724613",
+        "stateId": 3724613,
         "name": "Grandans",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 18.5,
         "longitude": -74.08333
     },
     {
-        "stateId": "3719543",
+        "stateId": 3719543,
         "name": "Nord",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 19.6,
         "longitude": -72.3
     },
     {
-        "stateId": "3719536",
+        "stateId": 3719536,
         "name": "Nord-Ouest",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 19.83333,
         "longitude": -73
     },
     {
-        "stateId": "3716952",
+        "stateId": 3716952,
         "name": "Sud",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 18.3,
         "longitude": -73.73333
     },
     {
-        "stateId": "3716950",
+        "stateId": 3716950,
         "name": "Sud-Est",
-        "countryId": "3723988",
+        "countryId": 3723988,
         "latitude": 18.3,
         "longitude": -72.4
     }

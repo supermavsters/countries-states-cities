@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8299560",
+        "cityId": 8299560,
         "name": "Lemba District",
-        "stateId": "2410764",
+        "stateId": 2410764,
         "latitude": 0.28118,
         "longitude": 6.49944
     },
     {
-        "cityId": "8299561",
+        "cityId": 8299561,
         "name": "Lobata District",
-        "stateId": "2410764",
+        "stateId": 2410764,
         "latitude": 0.36873,
         "longitude": 6.6384
     },
     {
-        "cityId": "11203894",
+        "cityId": 11203894,
         "name": "M\u00e9-Z\u00f3chi District",
-        "stateId": "2410764",
+        "stateId": 2410764,
         "latitude": 0.25,
         "longitude": 6.66667
     },
     {
-        "cityId": "11203920",
+        "cityId": 11203920,
         "name": "\u00c1gua Grande District",
-        "stateId": "2410764",
+        "stateId": 2410764,
         "latitude": 0.33333,
         "longitude": 6.73333
     },
     {
-        "cityId": "11204213",
+        "cityId": 11204213,
         "name": "Cantagalo District",
-        "stateId": "2410764",
+        "stateId": 2410764,
         "latitude": 0.21667,
         "longitude": 6.7
     }

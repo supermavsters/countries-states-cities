@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "9194082",
+        "cityId": 9194082,
         "name": "Okhtyrs\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 50.31238,
         "longitude": 34.9002
     },
     {
-        "cityId": "9197278",
+        "cityId": 9197278,
         "name": "Lebedyns\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 50.59418,
         "longitude": 34.48047
     },
     {
-        "cityId": "9199696",
+        "cityId": 9199696,
         "name": "Hlukhivs\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 51.67426,
         "longitude": 33.89755
     },
     {
-        "cityId": "9199697",
+        "cityId": 9199697,
         "name": "Sums\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 50.91827,
         "longitude": 34.80675
     },
     {
-        "cityId": "9807848",
+        "cityId": 9807848,
         "name": "Shostkyns\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 51.87066,
         "longitude": 33.48777
     },
     {
-        "cityId": "9808693",
+        "cityId": 9808693,
         "name": "Romens\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 50.74306,
         "longitude": 33.48284
     },
     {
-        "cityId": "9808694",
+        "cityId": 9808694,
         "name": "Konotops\u2019ka Mis\u2019krada",
-        "stateId": "692196",
+        "stateId": 692196,
         "latitude": 51.20835,
         "longitude": 33.22879
     }

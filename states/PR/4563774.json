@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7268073",
+        "cityId": 7268073,
         "name": "Ciales Barrio-Pueblo",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.33617,
         "longitude": -66.46887
     },
     {
-        "cityId": "7268074",
+        "cityId": 7268074,
         "name": "Cialitos Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.25835,
         "longitude": -66.53554
     },
     {
-        "cityId": "7268109",
+        "cityId": 7268109,
         "name": "Cordillera Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.32239,
         "longitude": -66.50081
     },
     {
-        "cityId": "7268401",
+        "cityId": 7268401,
         "name": "Front\u00f3n Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.30828,
         "longitude": -66.55849
     },
     {
-        "cityId": "7268468",
+        "cityId": 7268468,
         "name": "Hato Viejo Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.34164,
         "longitude": -66.5143
     },
     {
-        "cityId": "7268508",
+        "cityId": 7268508,
         "name": "Jaguas Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.32106,
         "longitude": -66.46676
     },
     {
-        "cityId": "7268751",
+        "cityId": 7268751,
         "name": "Pesas Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.30194,
         "longitude": -66.49334
     },
     {
-        "cityId": "7268781",
+        "cityId": 7268781,
         "name": "Pozas Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.27139,
         "longitude": -66.47776
     },
     {
-        "cityId": "7269044",
+        "cityId": 7269044,
         "name": "Toro Negro Barrio",
-        "stateId": "4563774",
+        "stateId": 4563774,
         "latitude": 18.22038,
         "longitude": -66.51985
     }

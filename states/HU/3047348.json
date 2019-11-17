@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "9644340",
+        "cityId": 9644340,
         "name": "Balassagyarmati J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 48.01657,
         "longitude": 19.30594
     },
     {
-        "cityId": "9644341",
+        "cityId": 9644341,
         "name": "B\u00e1tonyterenyei J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 47.97691,
         "longitude": 19.87345
     },
     {
-        "cityId": "9644343",
+        "cityId": 9644343,
         "name": "P\u00e1szt\u00f3i J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 47.87012,
         "longitude": 19.60648
     },
     {
-        "cityId": "9644344",
+        "cityId": 9644344,
         "name": "R\u00e9ts\u00e1gi J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 47.91741,
         "longitude": 19.16101
     },
     {
-        "cityId": "9644345",
+        "cityId": 9644345,
         "name": "Salg\u00f3tarj\u00e1ni J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 48.10048,
         "longitude": 19.81548
     },
     {
-        "cityId": "9644346",
+        "cityId": 9644346,
         "name": "Sz\u00e9cs\u00e9nyi J\u00e1r\u00e1s",
-        "stateId": "3047348",
+        "stateId": 3047348,
         "latitude": 48.07301,
         "longitude": 19.55156
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "735562",
+        "cityId": 735562,
         "name": "Nom\u00f3s Koz\u00e1nis",
-        "stateId": "6697811",
+        "stateId": 6697811,
         "latitude": 40.33333,
         "longitude": 21.71667
     },
     {
-        "cityId": "735925",
+        "cityId": 735925,
         "name": "Nom\u00f3s Kastori\u00e1s",
-        "stateId": "6697811",
+        "stateId": 6697811,
         "latitude": 40.5,
         "longitude": 21.16667
     },
     {
-        "cityId": "736149",
+        "cityId": 736149,
         "name": "Nom\u00f3s Greven\u00f3n",
-        "stateId": "6697811",
+        "stateId": 6697811,
         "latitude": 40.08333,
         "longitude": 21.41667
     },
     {
-        "cityId": "736228",
+        "cityId": 736228,
         "name": "Nom\u00f3s Flor\u00ednis",
-        "stateId": "6697811",
+        "stateId": 6697811,
         "latitude": 40.75,
         "longitude": 21.41667
     }

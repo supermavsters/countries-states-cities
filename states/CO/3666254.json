@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "9172379",
+        "cityId": 9172379,
         "name": "Caruru",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": 1.02081,
         "longitude": -71.33788
     },
     {
-        "cityId": "9172385",
+        "cityId": 9172385,
         "name": "Mit\u00fa",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": 0.97239,
         "longitude": -70.40635
     },
     {
-        "cityId": "9172389",
+        "cityId": 9172389,
         "name": "Pacoa",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": 0.15636,
         "longitude": -70.89274
     },
     {
-        "cityId": "9172392",
+        "cityId": 9172392,
         "name": "Papunaua",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": 1.68335,
         "longitude": -70.70968
     },
     {
-        "cityId": "9172394",
+        "cityId": 9172394,
         "name": "Taraira",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": -0.74835,
         "longitude": -69.89662
     },
     {
-        "cityId": "9172397",
+        "cityId": 9172397,
         "name": "Yavarat\u00e9",
-        "stateId": "3666254",
+        "stateId": 3666254,
         "latitude": 0.82828,
         "longitude": -69.62959
     }

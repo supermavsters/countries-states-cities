@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "933908",
+        "cityId": 933908,
         "name": "Tromelin Island",
-        "stateId": "6690916",
+        "stateId": 6690916,
         "latitude": -15.89332,
         "longitude": 54.52377
     },
     {
-        "cityId": "933910",
+        "cityId": 933910,
         "name": "Europa Island",
-        "stateId": "6690916",
+        "stateId": 6690916,
         "latitude": -22.33333,
         "longitude": 40.36667
     },
     {
-        "cityId": "936202",
+        "cityId": 936202,
         "name": "Bassas da India",
-        "stateId": "6690916",
+        "stateId": 6690916,
         "latitude": -21.47543,
         "longitude": 39.67438
     },
     {
-        "cityId": "1024029",
+        "cityId": 1024029,
         "name": "Juan de Nova Island",
-        "stateId": "6690916",
+        "stateId": 6690916,
         "latitude": -17.0558,
         "longitude": 42.72712
     },
     {
-        "cityId": "1024037",
+        "cityId": 1024037,
         "name": "Glorioso Islands",
-        "stateId": "6690916",
+        "stateId": 6690916,
         "latitude": -11.5,
         "longitude": 47.33333
     }

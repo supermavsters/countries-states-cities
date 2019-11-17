@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "3165241",
+        "cityId": 3165241,
         "name": "Provincia di Trento",
-        "stateId": "3165244",
+        "stateId": 3165244,
         "latitude": 46.06966,
         "longitude": 11.12177
     },
     {
-        "cityId": "3181912",
+        "cityId": 3181912,
         "name": "Bolzano",
-        "stateId": "3165244",
+        "stateId": 3165244,
         "latitude": 46.71667,
         "longitude": 11.5
     }

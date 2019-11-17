@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "884594",
+        "cityId": 884594,
         "name": "Zaka",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -20.3601,
         "longitude": 31.4267
     },
     {
-        "cityId": "884756",
+        "cityId": 884756,
         "name": "Mwenezi District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -21.35838,
         "longitude": 30.70668
     },
     {
-        "cityId": "886762",
+        "cityId": 886762,
         "name": "Masvingo District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -20.31481,
         "longitude": 30.90008
     },
     {
-        "cityId": "890589",
+        "cityId": 890589,
         "name": "Gutu District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -19.60884,
         "longitude": 31.25059
     },
     {
-        "cityId": "893171",
+        "cityId": 893171,
         "name": "Chivi District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -20.5,
         "longitude": 30.58333
     },
     {
-        "cityId": "893482",
+        "cityId": 893482,
         "name": "Chiredzi District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -21.28585,
         "longitude": 31.77039
     },
     {
-        "cityId": "895080",
+        "cityId": 895080,
         "name": "Bikita District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -20.13752,
         "longitude": 31.93156
     },
     {
-        "cityId": "10172877",
+        "cityId": 10172877,
         "name": "Zaka District",
-        "stateId": "886761",
+        "stateId": 886761,
         "latitude": -20.05,
         "longitude": 31.37
     }

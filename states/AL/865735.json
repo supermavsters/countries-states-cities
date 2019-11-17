@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "781360",
+        "cityId": 781360,
         "name": "Rrethi i Tropoj\u00ebs",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 42.3995,
         "longitude": 20.16283
     },
     {
-        "cityId": "782662",
+        "cityId": 782662,
         "name": "Rrethi i Kuk\u00ebsit",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 42,
         "longitude": 20.33333
     },
     {
-        "cityId": "831098",
+        "cityId": 831098,
         "name": "Rrethi i Hasit",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 42.16667,
         "longitude": 20.33333
     },
     {
-        "cityId": "10944406",
+        "cityId": 10944406,
         "name": "Bashkia Has",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 42.19897,
         "longitude": 20.37234
     },
     {
-        "cityId": "10944407",
+        "cityId": 10944407,
         "name": "Bashkia Kuk\u00ebs",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 41.98221,
         "longitude": 20.41643
     },
     {
-        "cityId": "10944408",
+        "cityId": 10944408,
         "name": "Bashkia Tropoj\u00eb",
-        "stateId": "865735",
+        "stateId": 865735,
         "latitude": 42.36063,
         "longitude": 20.0674
     }

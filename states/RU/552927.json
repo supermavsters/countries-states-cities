@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "463884",
+        "cityId": 463884,
         "name": "Zelenchukskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 43.5,
         "longitude": 41.5
     },
     {
-        "cityId": "478129",
+        "cityId": 478129,
         "name": "Ust\u2019-Dzhegutinskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 44.08333,
         "longitude": 41.96667
     },
     {
-        "cityId": "478586",
+        "cityId": 478586,
         "name": "Urupskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 43.91667,
         "longitude": 41.16667
     },
     {
-        "cityId": "505340",
+        "cityId": 505340,
         "name": "Prikubanskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 44.08333,
         "longitude": 42
     },
     {
-        "cityId": "530936",
+        "cityId": 530936,
         "name": "Malokarachayevskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 43.75,
         "longitude": 42.5
     },
     {
-        "cityId": "550866",
+        "cityId": 550866,
         "name": "Khabezskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 44.16667,
         "longitude": 41.83333
     },
     {
-        "cityId": "552922",
+        "cityId": 552922,
         "name": "Karachayevskiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 43.5,
         "longitude": 42
     },
     {
-        "cityId": "584220",
+        "cityId": 584220,
         "name": "Adyge-Khabl\u2019skiy Rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 44.33333,
         "longitude": 41.83333
     },
     {
-        "cityId": "11238183",
+        "cityId": 11238183,
         "name": "Nogayskiy rayon",
-        "stateId": "552927",
+        "stateId": 552927,
         "latitude": 44.36667,
         "longitude": 41.95
     }

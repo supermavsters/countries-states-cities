@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1283112",
+        "cityId": 1283112,
         "name": "Lumbin\u012b Zone",
-        "stateId": "7289709",
+        "stateId": 7289709,
         "latitude": 27.75,
         "longitude": 83.5
     },
     {
-        "cityId": "1283410",
+        "cityId": 1283410,
         "name": "Gandak\u012b Zone",
-        "stateId": "7289709",
+        "stateId": 7289709,
         "latitude": 28.33333,
         "longitude": 84.38333
     },
     {
-        "cityId": "1283454",
+        "cityId": 1283454,
         "name": "Dhawal\u0101giri Zone",
-        "stateId": "7289709",
+        "stateId": 7289709,
         "latitude": 28.66667,
         "longitude": 83.6
     }

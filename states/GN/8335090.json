@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2416440",
+        "cityId": 2416440,
         "name": "Pita",
-        "stateId": "8335090",
+        "stateId": 8335090,
         "latitude": 10.83333,
         "longitude": -12.58333
     },
     {
-        "cityId": "2417831",
+        "cityId": 2417831,
         "name": "Mamou Prefecture",
-        "stateId": "8335090",
+        "stateId": 8335090,
         "latitude": 10.459,
         "longitude": -11.815
     },
     {
-        "cityId": "2422377",
+        "cityId": 2422377,
         "name": "Dalaba",
-        "stateId": "8335090",
+        "stateId": 8335090,
         "latitude": 10.75,
         "longitude": -12.3
     }

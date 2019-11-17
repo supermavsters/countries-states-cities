@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "7701432",
+        "cityId": 7701432,
         "name": "Katcha",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.15,
         "longitude": 6.23333
     },
     {
-        "cityId": "7701433",
+        "cityId": 7701433,
         "name": "Magama",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.46667,
         "longitude": 5.05
     },
     {
-        "cityId": "7701434",
+        "cityId": 7701434,
         "name": "Mokwa",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.2,
         "longitude": 5.33333
     },
     {
-        "cityId": "7701464",
+        "cityId": 7701464,
         "name": "Rafi",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.18444,
         "longitude": 6.25333
     },
     {
-        "cityId": "7729982",
+        "cityId": 7729982,
         "name": "Agaie",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 8.93056,
         "longitude": 6.40817
     },
     {
-        "cityId": "7729983",
+        "cityId": 7729983,
         "name": "Agwara",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.77476,
         "longitude": 4.53977
     },
     {
-        "cityId": "7729985",
+        "cityId": 7729985,
         "name": "Bida",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.08269,
         "longitude": 5.98473
     },
     {
-        "cityId": "7729987",
+        "cityId": 7729987,
         "name": "Borgu",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.37844,
         "longitude": 4.1626
     },
     {
-        "cityId": "7729989",
+        "cityId": 7729989,
         "name": "Chanchaga",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.60547,
         "longitude": 6.51419
     },
     {
-        "cityId": "7729991",
+        "cityId": 7729991,
         "name": "Edati",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.0275,
         "longitude": 5.61823
     },
     {
-        "cityId": "7730015",
+        "cityId": 7730015,
         "name": "Gbako",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.28456,
         "longitude": 5.98614
     },
     {
-        "cityId": "7730017",
+        "cityId": 7730017,
         "name": "Gurara",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.32203,
         "longitude": 7.02318
     },
     {
-        "cityId": "7730021",
+        "cityId": 7730021,
         "name": "Lavun",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.27348,
         "longitude": 5.6833
     },
     {
-        "cityId": "7730026",
+        "cityId": 7730026,
         "name": "Muya",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.80982,
         "longitude": 7.01732
     },
     {
-        "cityId": "7730027",
+        "cityId": 7730027,
         "name": "Paikoro",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.4681,
         "longitude": 6.85565
     },
     {
-        "cityId": "7871248",
+        "cityId": 7871248,
         "name": "Tafa",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.232,
         "longitude": 7.23
     },
     {
-        "cityId": "8634809",
+        "cityId": 8634809,
         "name": "Rijau",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 11.0993,
         "longitude": 5.18826
     },
     {
-        "cityId": "8634912",
+        "cityId": 8634912,
         "name": "Mariga",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.69917,
         "longitude": 5.84038
     },
     {
-        "cityId": "8634913",
+        "cityId": 8634913,
         "name": "Kontagora",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.45225,
         "longitude": 5.4795
     },
     {
-        "cityId": "8634914",
+        "cityId": 8634914,
         "name": "Shiroro",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 10.11543,
         "longitude": 6.68307
     },
     {
-        "cityId": "8634915",
+        "cityId": 8634915,
         "name": "Suleja",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.21446,
         "longitude": 7.18864
     },
     {
-        "cityId": "8634916",
+        "cityId": 8634916,
         "name": "Mashegu",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.92993,
         "longitude": 5.23385
     },
     {
-        "cityId": "8634918",
+        "cityId": 8634918,
         "name": "Wushishi",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.702,
         "longitude": 5.93662
     },
     {
-        "cityId": "8634919",
+        "cityId": 8634919,
         "name": "Bosso",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 9.61463,
         "longitude": 6.36587
     },
     {
-        "cityId": "8634957",
+        "cityId": 8634957,
         "name": "Lapai",
-        "stateId": "2328925",
+        "stateId": 2328925,
         "latitude": 8.79818,
         "longitude": 6.67551
     }

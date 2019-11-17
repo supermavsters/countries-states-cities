@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "8261487",
+        "cityId": 8261487,
         "name": "El Wak District",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 2.656,
         "longitude": 41.411
     },
     {
-        "cityId": "9179660",
+        "cityId": 9179660,
         "name": "Belet Xaawo",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 3.43559,
         "longitude": 41.7337
     },
     {
-        "cityId": "9179664",
+        "cityId": 9179664,
         "name": "Doolow",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 4.00253,
         "longitude": 42.14079
     },
     {
-        "cityId": "9179668",
+        "cityId": 9179668,
         "name": "Garbahaarey",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 3.206,
         "longitude": 42.35912
     },
     {
-        "cityId": "9179673",
+        "cityId": 9179673,
         "name": "Luuq",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 3.79293,
         "longitude": 42.6976
     },
     {
-        "cityId": "9180014",
+        "cityId": 9180014,
         "name": "Bula Hawa",
-        "stateId": "58802",
+        "stateId": 58802,
         "latitude": 3.92395,
         "longitude": 41.87483
     }

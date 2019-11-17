@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "8051158",
+        "cityId": 8051158,
         "name": "Mouyondzi",
-        "stateId": "2260668",
+        "stateId": 2260668,
         "latitude": -3.919,
         "longitude": 13.955
     },
     {
-        "cityId": "8051166",
+        "cityId": 8051166,
         "name": "Madingou",
-        "stateId": "2260668",
+        "stateId": 2260668,
         "latitude": -4.198,
         "longitude": 13.603
     },
     {
-        "cityId": "8051167",
+        "cityId": 8051167,
         "name": "Nkayi",
-        "stateId": "2260668",
+        "stateId": 2260668,
         "latitude": -4.18122,
         "longitude": 13.28419
     },
     {
-        "cityId": "8051168",
+        "cityId": 8051168,
         "name": "Loudima",
-        "stateId": "2260668",
+        "stateId": 2260668,
         "latitude": -3.988,
         "longitude": 12.943
     }

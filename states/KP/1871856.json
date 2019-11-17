@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "1866090",
+        "cityId": 1866090,
         "name": "Ryongs\u014fng-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.15361,
         "longitude": 125.81083
     },
     {
-        "cityId": "1866614",
+        "cityId": 1866614,
         "name": "Ry\u014fkp\u2019o-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.93556,
         "longitude": 125.82417
     },
     {
-        "cityId": "1867918",
+        "cityId": 1867918,
         "name": "Tongdaew\u014fn-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.01139,
         "longitude": 125.78278
     },
     {
-        "cityId": "1868593",
+        "cityId": 1868593,
         "name": "Taes\u014fng-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.06306,
         "longitude": 125.83389
     },
     {
-        "cityId": "1868813",
+        "cityId": 1868813,
         "name": "Taedonggang",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.02639,
         "longitude": 125.79639
     },
     {
-        "cityId": "1868997",
+        "cityId": 1868997,
         "name": "S\u016dngho-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.03333,
         "longitude": 126
     },
     {
-        "cityId": "1869019",
+        "cityId": 1869019,
         "name": "Sunan",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.20472,
         "longitude": 125.70972
     },
     {
-        "cityId": "1869227",
+        "cityId": 1869227,
         "name": "S\u014fs\u014fng-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.06722,
         "longitude": 125.75389
     },
     {
-        "cityId": "1869345",
+        "cityId": 1869345,
         "name": "S\u014fn\u2019gyo-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.99333,
         "longitude": 125.77528
     },
     {
-        "cityId": "1870984",
+        "cityId": 1870984,
         "name": "Sangw\u014fn-gun",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.86028,
         "longitude": 126.07083
     },
     {
-        "cityId": "1871416",
+        "cityId": 1871416,
         "name": "Sams\u014fk-kuy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.09944,
         "longitude": 125.91139
     },
     {
-        "cityId": "1871810",
+        "cityId": 1871810,
         "name": "Sadong-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.98583,
         "longitude": 125.90194
     },
     {
-        "cityId": "1871937",
+        "cityId": 1871937,
         "name": "P\u2019y\u014fngch\u2019\u014fn-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.00528,
         "longitude": 125.72028
     },
     {
-        "cityId": "1872260",
+        "cityId": 1872260,
         "name": "Pot\u2019onggang-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.03111,
         "longitude": 125.72667
     },
     {
-        "cityId": "1873641",
+        "cityId": 1873641,
         "name": "Rangnang",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.95,
         "longitude": 125.7
     },
     {
-        "cityId": "1874339",
+        "cityId": 1874339,
         "name": "Moranbong",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.0516,
         "longitude": 125.75183
     },
     {
-        "cityId": "1874534",
+        "cityId": 1874534,
         "name": "Man\u2019gy\u014fngdae",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.03333,
         "longitude": 125.65
     },
     {
-        "cityId": "1876132",
+        "cityId": 1876132,
         "name": "Kangnam-gun",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.86611,
         "longitude": 125.63639
     },
     {
-        "cityId": "1876156",
+        "cityId": 1876156,
         "name": "Kangdong-gun",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.09609,
         "longitude": 126.1403
     },
     {
-        "cityId": "1876737",
+        "cityId": 1876737,
         "name": "Hy\u014fngjesan-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.1,
         "longitude": 125.71667
     },
     {
-        "cityId": "1877859",
+        "cityId": 1877859,
         "name": "Chung",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.02,
         "longitude": 125.74833
     },
     {
-        "cityId": "1877875",
+        "cityId": 1877875,
         "name": "Chunghwa-gun",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 38.85917,
         "longitude": 125.82889
     },
     {
-        "cityId": "11791938",
+        "cityId": 11791938,
         "name": "\u016cnj\u014fng-guy\u014fk",
-        "stateId": "1871856",
+        "stateId": 1871856,
         "latitude": 39.19959,
         "longitude": 125.86444
     }

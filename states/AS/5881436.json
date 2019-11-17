@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7267965",
+        "cityId": 7267965,
         "name": "Faleasao County",
-        "stateId": "5881436",
+        "stateId": 5881436,
         "latitude": -14.21946,
         "longitude": -169.50754
     },
     {
-        "cityId": "8181800",
+        "cityId": 8181800,
         "name": "Fitiuta County",
-        "stateId": "5881436",
+        "stateId": 5881436,
         "latitude": -14.23327,
         "longitude": -169.42789
     },
     {
-        "cityId": "8181801",
+        "cityId": 8181801,
         "name": "Ta'u County",
-        "stateId": "5881436",
+        "stateId": 5881436,
         "latitude": -14.24475,
         "longitude": -169.48162
     },
     {
-        "cityId": "8181803",
+        "cityId": 8181803,
         "name": "Olosega County",
-        "stateId": "5881436",
+        "stateId": 5881436,
         "latitude": -14.16803,
         "longitude": -169.61535
     },
     {
-        "cityId": "8198683",
+        "cityId": 8198683,
         "name": "Ofu County",
-        "stateId": "5881436",
+        "stateId": 5881436,
         "latitude": -14.17369,
         "longitude": -169.67148
     }

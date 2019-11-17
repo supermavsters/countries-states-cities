@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "1337170",
+        "cityId": 1337170,
         "name": "Sherpur",
-        "stateId": "11287936",
+        "stateId": 11287936,
         "latitude": 25.08333,
         "longitude": 90.08333
     },
     {
-        "cityId": "1337171",
+        "cityId": 1337171,
         "name": "Netrakona",
-        "stateId": "11287936",
+        "stateId": 11287936,
         "latitude": 24.86667,
         "longitude": 90.86667
     },
     {
-        "cityId": "1337172",
+        "cityId": 1337172,
         "name": "Jamalpur",
-        "stateId": "11287936",
+        "stateId": 11287936,
         "latitude": 25,
         "longitude": 89.83333
     },
     {
-        "cityId": "1337173",
+        "cityId": 1337173,
         "name": "Mymensingh",
-        "stateId": "11287936",
+        "stateId": 11287936,
         "latitude": 24.75,
         "longitude": 90.4
     }

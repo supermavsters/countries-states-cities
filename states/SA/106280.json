@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "10972341",
+        "cityId": 10972341,
         "name": "Al Ghaz\u0101lah",
-        "stateId": "106280",
+        "stateId": 106280,
         "latitude": 26.16667,
         "longitude": 40.91667
     },
     {
-        "cityId": "10972342",
+        "cityId": 10972342,
         "name": "Ash Shin\u0101n",
-        "stateId": "106280",
+        "stateId": 106280,
         "latitude": 27.08333,
         "longitude": 42.41667
     },
     {
-        "cityId": "10972343",
+        "cityId": 10972343,
         "name": "Baq\u2018\u0101\u2019",
-        "stateId": "106280",
+        "stateId": 106280,
         "latitude": 28,
         "longitude": 42.83333
     },
     {
-        "cityId": "10972344",
+        "cityId": 10972344,
         "name": "\u1e28\u0101\u2019il",
-        "stateId": "106280",
+        "stateId": 106280,
         "latitude": 27.83333,
         "longitude": 40.83333
     }

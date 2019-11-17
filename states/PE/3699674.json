@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "3690672",
+        "cityId": 3690672,
         "name": "Provincia de Yungay",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.16667,
         "longitude": -77.75
     },
     {
-        "cityId": "3691835",
+        "cityId": 3691835,
         "name": "Provincia de Sihuas",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.5,
         "longitude": -77.5
     },
     {
-        "cityId": "3692276",
+        "cityId": 3692276,
         "name": "Provincia de Santa",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9,
         "longitude": -78.25
     },
     {
-        "cityId": "3693467",
+        "cityId": 3693467,
         "name": "Provincia de Pomabamba",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.82311,
         "longitude": -77.47559
     },
     {
-        "cityId": "3694074",
+        "cityId": 3694074,
         "name": "Provincia de Pallasca",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.33333,
         "longitude": -77.91667
     },
     {
-        "cityId": "3694919",
+        "cityId": 3694919,
         "name": "Provincia de Mariscal Luzuriaga",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.83333,
         "longitude": -77.25
     },
     {
-        "cityId": "3696296",
+        "cityId": 3696296,
         "name": "Provincia de Huaylas",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.91667,
         "longitude": -77.83333
     },
     {
-        "cityId": "3696358",
+        "cityId": 3696358,
         "name": "Provincia de Huarmey",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.91667,
         "longitude": -78
     },
     {
-        "cityId": "3696371",
+        "cityId": 3696371,
         "name": "Provincia de Huari",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.33333,
         "longitude": -77.16667
     },
     {
-        "cityId": "3696377",
+        "cityId": 3696377,
         "name": "Provincia de Huaraz",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.56109,
         "longitude": -77.64605
     },
     {
-        "cityId": "3697793",
+        "cityId": 3697793,
         "name": "Provincia de Corongo",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -8.58333,
         "longitude": -77.91667
     },
     {
-        "cityId": "3698678",
+        "cityId": 3698678,
         "name": "Provincia de Casma",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.47638,
         "longitude": -78.24738
     },
     {
-        "cityId": "3698813",
+        "cityId": 3698813,
         "name": "Provincia de Carhuaz",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.317,
         "longitude": -77.551
     },
     {
-        "cityId": "3699607",
+        "cityId": 3699607,
         "name": "Provincia de Antonio Raymondi",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.08333,
         "longitude": -77.08333
     },
     {
-        "cityId": "3699820",
+        "cityId": 3699820,
         "name": "Provincia de Aija",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.83333,
         "longitude": -77.66667
     },
     {
-        "cityId": "3930459",
+        "cityId": 3930459,
         "name": "Provincia de Recuay",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -10,
         "longitude": -77.41667
     },
     {
-        "cityId": "3946643",
+        "cityId": 3946643,
         "name": "Provincia de Bolognesi",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -10.10723,
         "longitude": -77.14804
     },
     {
-        "cityId": "8349547",
+        "cityId": 8349547,
         "name": "Asuncion",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.18987,
         "longitude": -77.39878
     },
     {
-        "cityId": "8349548",
+        "cityId": 8349548,
         "name": "Carlos Fermin Fitzcarrald",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -9.04415,
         "longitude": -77.24168
     },
     {
-        "cityId": "8349549",
+        "cityId": 8349549,
         "name": "Ocros",
-        "stateId": "3699674",
+        "stateId": 3699674,
         "latitude": -10.48906,
         "longitude": -77.4295
     }

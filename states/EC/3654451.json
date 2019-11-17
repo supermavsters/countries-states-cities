@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "3650277",
+        "cityId": 3650277,
         "name": "Cant\u00f3n Veinticuatro de Mayo",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.26667,
         "longitude": -80.43333
     },
     {
-        "cityId": "3650958",
+        "cityId": 3650958,
         "name": "Cant\u00f3n Sucre",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.65367,
         "longitude": -80.4158
     },
     {
-        "cityId": "3651484",
+        "cityId": 3651484,
         "name": "Cant\u00f3n Santa Ana",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.21667,
         "longitude": -80.38333
     },
     {
-        "cityId": "3652312",
+        "cityId": 3652312,
         "name": "Cant\u00f3n Rocafuerte",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.91667,
         "longitude": -80.46667
     },
     {
-        "cityId": "3652940",
+        "cityId": 3652940,
         "name": "Cant\u00f3n Portoviejo",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.05,
         "longitude": -80.45
     },
     {
-        "cityId": "3653608",
+        "cityId": 3653608,
         "name": "Cant\u00f3n Paj\u00e1n",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.55,
         "longitude": -80.43333
     },
     {
-        "cityId": "3654054",
+        "cityId": 3654054,
         "name": "Cant\u00f3n Montecristi",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.05,
         "longitude": -80.68333
     },
     {
-        "cityId": "3654408",
+        "cityId": 3654408,
         "name": "Cant\u00f3n Manta",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.95,
         "longitude": -80.73333
     },
     {
-        "cityId": "3655383",
+        "cityId": 3655383,
         "name": "Cant\u00f3n Jun\u00edn",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.91667,
         "longitude": -80.21667
     },
     {
-        "cityId": "3655445",
+        "cityId": 3655445,
         "name": "Cant\u00f3n Jipijapa",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.35,
         "longitude": -80.58333
     },
     {
-        "cityId": "3658324",
+        "cityId": 3658324,
         "name": "Cant\u00f3n El Carmen",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.40848,
         "longitude": -79.57864
     },
     {
-        "cityId": "3659138",
+        "cityId": 3659138,
         "name": "Cant\u00f3n Chone",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.7,
         "longitude": -80.1
     },
     {
-        "cityId": "3660131",
+        "cityId": 3660131,
         "name": "Cant\u00f3n Bol\u00edvar",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.85,
         "longitude": -80.16667
     },
     {
-        "cityId": "9156089",
+        "cityId": 9156089,
         "name": "Canton Pedernales",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": 0.0701,
         "longitude": -80.0536
     },
     {
-        "cityId": "10792471",
+        "cityId": 10792471,
         "name": "Pichincha",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.88292,
         "longitude": -79.83959
     },
     {
-        "cityId": "10792475",
+        "cityId": 10792475,
         "name": "Tosagua",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.77931,
         "longitude": -80.27831
     },
     {
-        "cityId": "10792476",
+        "cityId": 10792476,
         "name": "Olmedo",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.35249,
         "longitude": -80.20926
     },
     {
-        "cityId": "10792477",
+        "cityId": 10792477,
         "name": "Puerto L\u00f3pez",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -1.55725,
         "longitude": -80.74763
     },
     {
-        "cityId": "10792478",
+        "cityId": 10792478,
         "name": "Jama",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.21987,
         "longitude": -80.22839
     },
     {
-        "cityId": "10792479",
+        "cityId": 10792479,
         "name": "Jaramij\u00f3",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.97892,
         "longitude": -80.60424
     },
     {
-        "cityId": "10792501",
+        "cityId": 10792501,
         "name": "Flavio Alfaro",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.32306,
         "longitude": -79.8157
     },
     {
-        "cityId": "10792545",
+        "cityId": 10792545,
         "name": "San Vicente",
-        "stateId": "3654451",
+        "stateId": 3654451,
         "latitude": -0.60435,
         "longitude": -80.40267
     }

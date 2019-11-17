@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "150487",
+        "cityId": 150487,
         "name": "Rufiji",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -7.95743,
         "longitude": 38.72662
     },
     {
-        "cityId": "155411",
+        "cityId": 155411,
         "name": "Mafia",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -7.85542,
         "longitude": 39.76776
     },
     {
-        "cityId": "156995",
+        "cityId": 156995,
         "name": "Kisarawe",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -7.14586,
         "longitude": 38.6952
     },
     {
-        "cityId": "161288",
+        "cityId": 161288,
         "name": "Bagamoyo",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -6.30757,
         "longitude": 38.46654
     },
     {
-        "cityId": "7647520",
+        "cityId": 7647520,
         "name": "Kibaha District",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -6.82281,
         "longitude": 38.61282
     },
     {
-        "cityId": "7840038",
+        "cityId": 7840038,
         "name": "Mkuranga",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -7.27,
         "longitude": 39.2
     },
     {
-        "cityId": "9998177",
+        "cityId": 9998177,
         "name": "Kibaha Town",
-        "stateId": "150602",
+        "stateId": 150602,
         "latitude": -6.69111,
         "longitude": 38.90605
     }

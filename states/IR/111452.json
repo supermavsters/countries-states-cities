@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "449562",
+        "cityId": 449562,
         "name": "Abhar",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36.3,
         "longitude": 49.05
     },
     {
-        "cityId": "449563",
+        "cityId": 449563,
         "name": "Shahrest\u0101n-e \u012ajr\u016bd",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36.33333,
         "longitude": 48.25
     },
     {
-        "cityId": "449564",
+        "cityId": 449564,
         "name": "Shahrest\u0101n-e Khod\u0101bandeh",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36,
         "longitude": 48.5
     },
     {
-        "cityId": "449565",
+        "cityId": 449565,
         "name": "Khorramdarreh",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36.23333,
         "longitude": 49.2
     },
     {
-        "cityId": "449567",
+        "cityId": 449567,
         "name": "Shahrest\u0101n-e \u0162\u0101rom",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36.95,
         "longitude": 48.9
     },
     {
-        "cityId": "449568",
+        "cityId": 449568,
         "name": "Shahrest\u0101n-e M\u0101hnesh\u0101n",
-        "stateId": "111452",
+        "stateId": 111452,
         "latitude": 36.66667,
         "longitude": 47.56667
     }

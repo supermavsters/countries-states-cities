@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7647209",
+        "cityId": 7647209,
         "name": "Kampong Chhnang",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.26,
         "longitude": 104.67
     },
     {
-        "cityId": "7647218",
+        "cityId": 7647218,
         "name": "Baribour",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.43,
         "longitude": 104.47
     },
     {
-        "cityId": "7647219",
+        "cityId": 7647219,
         "name": "Rolea B'ier",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.21,
         "longitude": 104.61
     },
     {
-        "cityId": "8405259",
+        "cityId": 8405259,
         "name": "Sr\u014fk Chol Kiri",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.15861,
         "longitude": 104.82287
     },
     {
-        "cityId": "8405260",
+        "cityId": 8405260,
         "name": "Sr\u014fk Sameakki Mean Chey",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 11.86788,
         "longitude": 104.55549
     },
     {
-        "cityId": "9253749",
+        "cityId": 9253749,
         "name": "Kampong Leaeng",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.42687,
         "longitude": 104.7167
     },
     {
-        "cityId": "9253752",
+        "cityId": 9253752,
         "name": "Kampong Tralach",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 11.97453,
         "longitude": 104.75689
     },
     {
-        "cityId": "9253753",
+        "cityId": 9253753,
         "name": "Tuek Phos",
-        "stateId": "1831166",
+        "stateId": 1831166,
         "latitude": 12.08165,
         "longitude": 104.38031
     }

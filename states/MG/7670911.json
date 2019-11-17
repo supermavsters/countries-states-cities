@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "8693313",
+        "cityId": 8693313,
         "name": "Ambovombe District",
-        "stateId": "7670911",
+        "stateId": 7670911,
         "latitude": -25.177,
         "longitude": 46.087
     },
     {
-        "cityId": "8693314",
+        "cityId": 8693314,
         "name": "Beloha District",
-        "stateId": "7670911",
+        "stateId": 7670911,
         "latitude": -25.174,
         "longitude": 45.06
     },
     {
-        "cityId": "8693316",
+        "cityId": 8693316,
         "name": "Bekily District",
-        "stateId": "7670911",
+        "stateId": 7670911,
         "latitude": -24.18333,
         "longitude": 45.38333
     },
     {
-        "cityId": "11072738",
+        "cityId": 11072738,
         "name": "Tsihombe",
-        "stateId": "7670911",
+        "stateId": 7670911,
         "latitude": -25.38489,
         "longitude": 45.47921
     }

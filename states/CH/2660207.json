@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "6458744",
+        "cityId": 6458744,
         "name": "Del\u00e9mont District",
-        "stateId": "2660207",
+        "stateId": 2660207,
         "latitude": 47.35434,
         "longitude": 7.33053
     },
     {
-        "cityId": "6458776",
+        "cityId": 6458776,
         "name": "Porrentruy District",
-        "stateId": "2660207",
+        "stateId": 2660207,
         "latitude": 47.41475,
         "longitude": 7.07638
     },
     {
-        "cityId": "6458790",
+        "cityId": 6458790,
         "name": "Franches-Montagnes District",
-        "stateId": "2660207",
+        "stateId": 2660207,
         "latitude": 47.24935,
         "longitude": 7.04562
     }

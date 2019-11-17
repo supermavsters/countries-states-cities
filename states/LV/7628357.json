@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11352667",
+        "cityId": 11352667,
         "name": "Ir\u0161u pagasts",
-        "stateId": "7628357",
+        "stateId": 7628357,
         "latitude": 56.77909,
         "longitude": 25.57063
     },
     {
-        "cityId": "11352676",
+        "cityId": 11352676,
         "name": "Bebru pagasts",
-        "stateId": "7628357",
+        "stateId": 7628357,
         "latitude": 56.73494,
         "longitude": 25.45577
     },
     {
-        "cityId": "11352686",
+        "cityId": 11352686,
         "name": "Kokneses pagasts",
-        "stateId": "7628357",
+        "stateId": 7628357,
         "latitude": 56.66526,
         "longitude": 25.42394
     }

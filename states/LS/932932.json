@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7670808",
+        "cityId": 7670808,
         "name": "Mokomahatsi",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.02361,
         "longitude": 27.95733
     },
     {
-        "cityId": "7670809",
+        "cityId": 7670809,
         "name": "Mokhachane",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.08149,
         "longitude": 28.00399
     },
     {
-        "cityId": "7670811",
+        "cityId": 7670811,
         "name": "Mapoteng",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.12247,
         "longitude": 27.96216
     },
     {
-        "cityId": "7670815",
+        "cityId": 7670815,
         "name": "Makhoroana",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.14516,
         "longitude": 28.03506
     },
     {
-        "cityId": "7670819",
+        "cityId": 7670819,
         "name": "Urban",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.13002,
         "longitude": 27.75103
     },
     {
-        "cityId": "7670820",
+        "cityId": 7670820,
         "name": "Mamathe",
-        "stateId": "932932",
+        "stateId": 932932,
         "latitude": -29.10645,
         "longitude": 27.84219
     }

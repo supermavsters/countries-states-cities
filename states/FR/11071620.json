@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "2969280",
+        "cityId": 2969280,
         "name": "Vienne",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 46.53528,
         "longitude": 0.45201
     },
     {
-        "cityId": "2984887",
+        "cityId": 2984887,
         "name": "D\u00e9partement des Pyr\u00e9n\u00e9es-Atlantiques",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 43.23587,
         "longitude": -0.81642
     },
     {
-        "cityId": "2997523",
+        "cityId": 2997523,
         "name": "D\u00e9partement du Lot-et-Garonne",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 44.33333,
         "longitude": 0.5
     },
     {
-        "cityId": "3007866",
+        "cityId": 3007866,
         "name": "Landes",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 43.97543,
         "longitude": -0.74241
     },
     {
-        "cityId": "3013719",
+        "cityId": 3013719,
         "name": "Haute-Vienne",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 45.88341,
         "longitude": 1.21781
     },
     {
-        "cityId": "3015948",
+        "cityId": 3015948,
         "name": "Gironde",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 44.69306,
         "longitude": -0.414
     },
     {
-        "cityId": "3021042",
+        "cityId": 3021042,
         "name": "Dordogne",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 45.12735,
         "longitude": 0.73504
     },
     {
-        "cityId": "3021501",
+        "cityId": 3021501,
         "name": "D\u00e9partement des Deux-S\u00e8vres",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 46.53918,
         "longitude": -0.30838
     },
     {
-        "cityId": "3022516",
+        "cityId": 3022516,
         "name": "Creuse",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 46.07523,
         "longitude": 2.05476
     },
     {
-        "cityId": "3023532",
+        "cityId": 3023532,
         "name": "D\u00e9partement de la Corr\u00e8ze",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 45.34754,
         "longitude": 1.87319
     },
     {
-        "cityId": "3026644",
+        "cityId": 3026644,
         "name": "Charente-Maritime",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 45.75556,
         "longitude": -0.71314
     },
     {
-        "cityId": "3026646",
+        "cityId": 3026646,
         "name": "Charente",
-        "stateId": "11071620",
+        "stateId": 11071620,
         "latitude": 45.70598,
         "longitude": 0.18162
     }

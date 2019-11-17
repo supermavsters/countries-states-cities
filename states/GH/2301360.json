@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "2295235",
+        "cityId": 2295235,
         "name": "Somanya District",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.08333,
         "longitude": 0.08333
     },
     {
-        "cityId": "7647529",
+        "cityId": 7647529,
         "name": "Dangme East District",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.78304,
         "longitude": 0.60734
     },
     {
-        "cityId": "7647530",
+        "cityId": 7647530,
         "name": "Atiwa",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.2797,
         "longitude": -0.63937
     },
     {
-        "cityId": "7648935",
+        "cityId": 7648935,
         "name": "Akuapim North",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.96667,
         "longitude": -0.08333
     },
     {
-        "cityId": "7648936",
+        "cityId": 7648936,
         "name": "Akuapim South",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.852,
         "longitude": -0.277
     },
     {
-        "cityId": "7648937",
+        "cityId": 7648937,
         "name": "Akyemansa",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.16667,
         "longitude": -1.15
     },
     {
-        "cityId": "7648949",
+        "cityId": 7648949,
         "name": "Asuogyaman",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.20308,
         "longitude": 0.08167
     },
     {
-        "cityId": "7648963",
+        "cityId": 7648963,
         "name": "Birim Central",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.91667,
         "longitude": -0.98333
     },
     {
-        "cityId": "7648964",
+        "cityId": 7648964,
         "name": "Birim North",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.33856,
         "longitude": -0.99564
     },
     {
-        "cityId": "7648965",
+        "cityId": 7648965,
         "name": "Birim South",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.9,
         "longitude": -1.01667
     },
     {
-        "cityId": "7648971",
+        "cityId": 7648971,
         "name": "Dangme West District",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.895,
         "longitude": 0.155
     },
     {
-        "cityId": "7648974",
+        "cityId": 7648974,
         "name": "East Akim",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.25,
         "longitude": -0.561
     },
     {
-        "cityId": "7648979",
+        "cityId": 7648979,
         "name": "Fanteakwa",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.38333,
         "longitude": -0.38333
     },
     {
-        "cityId": "7649002",
+        "cityId": 7649002,
         "name": "Kwaebibirem",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.08333,
         "longitude": -0.83333
     },
     {
-        "cityId": "7649003",
+        "cityId": 7649003,
         "name": "Kwahu East",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.66667,
         "longitude": -0.75
     },
     {
-        "cityId": "7649004",
+        "cityId": 7649004,
         "name": "Kwahu North",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 7.04446,
         "longitude": -0.07935
     },
     {
-        "cityId": "7649005",
+        "cityId": 7649005,
         "name": "Kwahu West",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.55,
         "longitude": -0.76667
     },
     {
-        "cityId": "7649009",
+        "cityId": 7649009,
         "name": "Kwahu South",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.64378,
         "longitude": -0.64804
     },
     {
-        "cityId": "7649011",
+        "cityId": 7649011,
         "name": "Lower Manya Krobo",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.36339,
         "longitude": -0.10341
     },
     {
-        "cityId": "7649015",
+        "cityId": 7649015,
         "name": "New Juaben",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.08333,
         "longitude": -0.25
     },
     {
-        "cityId": "7649045",
+        "cityId": 7649045,
         "name": "Suhum\/Kraboa\/Coaltar",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.03333,
         "longitude": -0.45
     },
     {
-        "cityId": "7649061",
+        "cityId": 7649061,
         "name": "Upper Manya Krobo",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.38333,
         "longitude": -0.13333
     },
     {
-        "cityId": "7649068",
+        "cityId": 7649068,
         "name": "West Akim",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.86667,
         "longitude": -0.66667
     },
     {
-        "cityId": "7649073",
+        "cityId": 7649073,
         "name": "Yilo Krobo",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 6.17737,
         "longitude": -0.1765
     },
     {
-        "cityId": "11205448",
+        "cityId": 11205448,
         "name": "Akuapim North District",
-        "stateId": "2301360",
+        "stateId": 2301360,
         "latitude": 5.91231,
         "longitude": -0.16531
     }

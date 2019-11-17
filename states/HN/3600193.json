@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3600197",
+        "cityId": 3600197,
         "name": "Yoro",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.23,
         "longitude": -87.23
     },
     {
-        "cityId": "3600200",
+        "cityId": 3600200,
         "name": "Yorito",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.06,
         "longitude": -87.33
     },
     {
-        "cityId": "3600360",
+        "cityId": 3600360,
         "name": "Victoria",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 14.98333,
         "longitude": -87.4
     },
     {
-        "cityId": "3601160",
+        "cityId": 3601160,
         "name": "Sulaco",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 14.95,
         "longitude": -87.3
     },
     {
-        "cityId": "3601530",
+        "cityId": 3601530,
         "name": "Santa Rita",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.18,
         "longitude": -87.81
     },
     {
-        "cityId": "3604253",
+        "cityId": 3604253,
         "name": "Olanchito",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.48333,
         "longitude": -86.55
     },
     {
-        "cityId": "3604586",
+        "cityId": 3604586,
         "name": "Moraz\u00e1n",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.31667,
         "longitude": -87.58333
     },
     {
-        "cityId": "3608636",
+        "cityId": 3608636,
         "name": "Joc\u00f3n",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.25,
         "longitude": -86.86667
     },
     {
-        "cityId": "3610615",
+        "cityId": 3610615,
         "name": "El Progreso",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.4,
         "longitude": -87.8
     },
     {
-        "cityId": "3611153",
+        "cityId": 3611153,
         "name": "El Negrito",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.42,
         "longitude": -87.68
     },
     {
-        "cityId": "3615092",
+        "cityId": 3615092,
         "name": "Arenal",
-        "stateId": "3600193",
+        "stateId": 3600193,
         "latitude": 15.36667,
         "longitude": -86.83333
     }

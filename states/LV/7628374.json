@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "11352679",
+        "cityId": 11352679,
         "name": "B\u0113rzaines pagasts",
-        "stateId": "7628374",
+        "stateId": 7628374,
         "latitude": 57.62465,
         "longitude": 25.20231
     },
     {
-        "cityId": "11352680",
+        "cityId": 11352680,
         "name": "Dik\u013cu pagasts",
-        "stateId": "7628374",
+        "stateId": 7628374,
         "latitude": 57.58103,
         "longitude": 25.05111
     },
     {
-        "cityId": "11352682",
+        "cityId": 11352682,
         "name": "Koc\u0113nu pagasts",
-        "stateId": "7628374",
+        "stateId": 7628374,
         "latitude": 57.50994,
         "longitude": 25.27881
     },
     {
-        "cityId": "11352683",
+        "cityId": 11352683,
         "name": "Vaidavas pagasts",
-        "stateId": "7628374",
+        "stateId": 7628374,
         "latitude": 57.43202,
         "longitude": 25.27291
     },
     {
-        "cityId": "11352684",
+        "cityId": 11352684,
         "name": "Zil\u0101kalna pagasts",
-        "stateId": "7628374",
+        "stateId": 7628374,
         "latitude": 57.57676,
         "longitude": 25.17372
     }

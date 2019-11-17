@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1150220",
+        "cityId": 1150220,
         "name": "Amphoe Thap Put",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.53768,
         "longitude": 98.63208
     },
     {
-        "cityId": "1150316",
+        "cityId": 1150316,
         "name": "Amphoe Thai Mueang",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.48995,
         "longitude": 98.31292
     },
     {
-        "cityId": "1150446",
+        "cityId": 1150446,
         "name": "Amphoe Takua Thung",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.28433,
         "longitude": 98.3895
     },
     {
-        "cityId": "1151986",
+        "cityId": 1151986,
         "name": "Amphoe Mueang Phangnga",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.4935,
         "longitude": 98.50775
     },
     {
-        "cityId": "1152639",
+        "cityId": 1152639,
         "name": "Amphoe Ko Yao",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.06549,
         "longitude": 98.57851
     },
     {
-        "cityId": "1153058",
+        "cityId": 1153058,
         "name": "Amphoe Kapong",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.74139,
         "longitude": 98.47542
     },
     {
-        "cityId": "11496464",
+        "cityId": 11496464,
         "name": "Amphoe Takua Pa",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 8.86883,
         "longitude": 98.33892
     },
     {
-        "cityId": "11496465",
+        "cityId": 11496465,
         "name": "Amphoe Khura Buri",
-        "stateId": "1151462",
+        "stateId": 1151462,
         "latitude": 9.18972,
         "longitude": 98.40806
     }

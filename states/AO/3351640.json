@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3346941",
+        "cityId": 3346941,
         "name": "Nharea",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -11.26625,
         "longitude": 17.20996
     },
     {
-        "cityId": "3348077",
+        "cityId": 3348077,
         "name": "Cuito",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.5,
         "longitude": 17
     },
     {
-        "cityId": "3349078",
+        "cityId": 3349078,
         "name": "Cunhinga",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -11.97695,
         "longitude": 16.81817
     },
     {
-        "cityId": "3349179",
+        "cityId": 3349179,
         "name": "Cuemba",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.13869,
         "longitude": 18.11234
     },
     {
-        "cityId": "3349514",
+        "cityId": 3349514,
         "name": "Chitembo",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -13.48714,
         "longitude": 17.19191
     },
     {
-        "cityId": "3349722",
+        "cityId": 3349722,
         "name": "Chinguar",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.54136,
         "longitude": 16.52834
     },
     {
-        "cityId": "3350370",
+        "cityId": 3350370,
         "name": "Catabola",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.14094,
         "longitude": 17.24148
     },
     {
-        "cityId": "3351012",
+        "cityId": 3351012,
         "name": "Munic\u00edpio Camacupa",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.5,
         "longitude": 17.75
     },
     {
-        "cityId": "3351013",
+        "cityId": 3351013,
         "name": "Camacupa",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -12.39263,
         "longitude": 17.70293
     },
     {
-        "cityId": "3351882",
+        "cityId": 3351882,
         "name": "Andulo",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": -11.21242,
         "longitude": 16.47281
     },
     {
-        "cityId": "9212598",
+        "cityId": 9212598,
         "name": "Barkeol",
-        "stateId": "3351640",
+        "stateId": 3351640,
         "latitude": 16.71518,
         "longitude": -12.4021
     }

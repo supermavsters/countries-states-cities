@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7530765",
+        "cityId": 7530765,
         "name": "Powiat konecki",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 51.15145,
         "longitude": 20.34186
     },
     {
-        "cityId": "7530766",
+        "cityId": 7530766,
         "name": "Powiat w\u0142oszczowski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.83205,
         "longitude": 19.97696
     },
     {
-        "cityId": "7530797",
+        "cityId": 7530797,
         "name": "Powiat kielecki",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.80156,
         "longitude": 20.63322
     },
     {
-        "cityId": "7530829",
+        "cityId": 7530829,
         "name": "Powiat ostrowiecki",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.94232,
         "longitude": 21.40739
     },
     {
-        "cityId": "7530901",
+        "cityId": 7530901,
         "name": "Powiat opatowski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.79639,
         "longitude": 21.44531
     },
     {
-        "cityId": "7530962",
+        "cityId": 7530962,
         "name": "Kielce",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.85419,
         "longitude": 20.61557
     },
     {
-        "cityId": "7530977",
+        "cityId": 7530977,
         "name": "Powiat sandomierski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.69508,
         "longitude": 21.609
     },
     {
-        "cityId": "7530997",
+        "cityId": 7530997,
         "name": "Powiat skar\u017cyski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 51.06496,
         "longitude": 20.79228
     },
     {
-        "cityId": "7530999",
+        "cityId": 7530999,
         "name": "Powiat starachowicki",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 51.05365,
         "longitude": 21.14295
     },
     {
-        "cityId": "7531037",
+        "cityId": 7531037,
         "name": "Powiat buski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.45583,
         "longitude": 20.87624
     },
     {
-        "cityId": "7531038",
+        "cityId": 7531038,
         "name": "Powiat j\u0119drzejowski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.65676,
         "longitude": 20.18655
     },
     {
-        "cityId": "7531039",
+        "cityId": 7531039,
         "name": "Powiat kazimierski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.28811,
         "longitude": 20.53368
     },
     {
-        "cityId": "7531040",
+        "cityId": 7531040,
         "name": "Powiat pi\u0144czowski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.49968,
         "longitude": 20.47253
     },
     {
-        "cityId": "7531041",
+        "cityId": 7531041,
         "name": "Powiat staszowski",
-        "stateId": "858790",
+        "stateId": 858790,
         "latitude": 50.51737,
         "longitude": 21.19594
     }

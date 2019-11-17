@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "1254389",
+        "cityId": 1254389,
         "name": "Tiruchchir\u0101ppalli",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.97,
         "longitude": 78.65
     },
     {
-        "cityId": "1254650",
+        "cityId": 1254650,
         "name": "Thanjavur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.64,
         "longitude": 79.22
     },
     {
-        "cityId": "1257630",
+        "cityId": 1257630,
         "name": "Salem",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.69,
         "longitude": 78.29
     },
     {
-        "cityId": "1258741",
+        "cityId": 1258741,
         "name": "R\u0101man\u0101thapuram",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 9.37,
         "longitude": 78.7
     },
     {
-        "cityId": "1259298",
+        "cityId": 1259298,
         "name": "Pudukkottai",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.35,
         "longitude": 78.9
     },
     {
-        "cityId": "1261391",
+        "cityId": 1261391,
         "name": "Nilgiris District",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.46,
         "longitude": 76.64
     },
     {
-        "cityId": "1264522",
+        "cityId": 1264522,
         "name": "Madurai",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 9.89,
         "longitude": 78.03
     },
     {
-        "cityId": "1268009",
+        "cityId": 1268009,
         "name": "Kanniyakumari",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 8.32,
         "longitude": 77.34
     },
     {
-        "cityId": "1272848",
+        "cityId": 1272848,
         "name": "Dharmapuri",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 12.13,
         "longitude": 78.24
     },
     {
-        "cityId": "1273866",
+        "cityId": 1273866,
         "name": "Coimbatore",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.8,
         "longitude": 77.09
     },
     {
-        "cityId": "6640313",
+        "cityId": 6640313,
         "name": "Namakkal",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.3,
         "longitude": 78.13
     },
     {
-        "cityId": "7627069",
+        "cityId": 7627069,
         "name": "Thoothukkudi",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 8.8375,
         "longitude": 77.963
     },
     {
-        "cityId": "7627071",
+        "cityId": 7627071,
         "name": "Perambalur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.272,
         "longitude": 78.8738
     },
     {
-        "cityId": "7627073",
+        "cityId": 7627073,
         "name": "Nagapattinam",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.85,
         "longitude": 79.74
     },
     {
-        "cityId": "7627241",
+        "cityId": 7627241,
         "name": "Thiruvallur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 13.25,
         "longitude": 80
     },
     {
-        "cityId": "7646145",
+        "cityId": 7646145,
         "name": "Chennai",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 13.08891,
         "longitude": 80.26483
     },
     {
-        "cityId": "7646146",
+        "cityId": 7646146,
         "name": "Vellore",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 12.86,
         "longitude": 79.035
     },
     {
-        "cityId": "7646147",
+        "cityId": 7646147,
         "name": "Tiruvannamalai",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 12.51,
         "longitude": 79.09
     },
     {
-        "cityId": "7646149",
+        "cityId": 7646149,
         "name": "Kancheepuram",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 12.67,
         "longitude": 79.99
     },
     {
-        "cityId": "7646150",
+        "cityId": 7646150,
         "name": "Villupuram",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.99,
         "longitude": 79.37
     },
     {
-        "cityId": "7646153",
+        "cityId": 7646153,
         "name": "Cuddalore",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.52,
         "longitude": 79.51
     },
     {
-        "cityId": "7646154",
+        "cityId": 7646154,
         "name": "Sivaganga",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 9.92762,
         "longitude": 78.53763
     },
     {
-        "cityId": "7646155",
+        "cityId": 7646155,
         "name": "Theni",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 9.85,
         "longitude": 77.42
     },
     {
-        "cityId": "7646157",
+        "cityId": 7646157,
         "name": "Virudhunagar",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 9.45,
         "longitude": 77.92
     },
     {
-        "cityId": "7646980",
+        "cityId": 7646980,
         "name": "Thiruvarur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.66,
         "longitude": 79.55
     },
     {
-        "cityId": "7874380",
+        "cityId": 7874380,
         "name": "Tirunelveli Kattabo",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 8.7927,
         "longitude": 77.57409
     },
     {
-        "cityId": "8199441",
+        "cityId": 8199441,
         "name": "Ariyalur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.15,
         "longitude": 79.25
     },
     {
-        "cityId": "8223993",
+        "cityId": 8223993,
         "name": "Krishnagiri",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 12.58,
         "longitude": 77.96
     },
     {
-        "cityId": "8223994",
+        "cityId": 8223994,
         "name": "Dindigul",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.4,
         "longitude": 77.8
     },
     {
-        "cityId": "8223995",
+        "cityId": 8223995,
         "name": "Erode",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 11.34,
         "longitude": 77.55
     },
     {
-        "cityId": "8223996",
+        "cityId": 8223996,
         "name": "Karur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.88,
         "longitude": 78.19
     },
     {
-        "cityId": "9748021",
+        "cityId": 9748021,
         "name": "Tiruppur",
-        "stateId": "1255053",
+        "stateId": 1255053,
         "latitude": 10.83813,
         "longitude": 77.40542
     }

@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1604796",
+        "cityId": 1604796,
         "name": "Amphoe Yang Talat",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.43961,
         "longitude": 103.34085
     },
     {
-        "cityId": "1605637",
+        "cityId": 1605637,
         "name": "Amphoe Tha Khantho",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.88333,
         "longitude": 103.25
     },
     {
-        "cityId": "1606187",
+        "cityId": 1606187,
         "name": "Amphoe Somdet",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.76973,
         "longitude": 103.75012
     },
     {
-        "cityId": "1606912",
+        "cityId": 1606912,
         "name": "Amphoe Sahatsakhan",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.70987,
         "longitude": 103.57909
     },
     {
-        "cityId": "1608657",
+        "cityId": 1608657,
         "name": "Amphoe Mueang Kalasin",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.50918,
         "longitude": 103.54984
     },
     {
-        "cityId": "1609344",
+        "cityId": 1609344,
         "name": "Amphoe Kuchinarai",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.51977,
         "longitude": 104.05097
     },
     {
-        "cityId": "1610458",
+        "cityId": 1610458,
         "name": "Amphoe Kamalasai",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.27999,
         "longitude": 103.6001
     },
     {
-        "cityId": "7510788",
+        "cityId": 7510788,
         "name": "Amphoe Khong Chai",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.25845,
         "longitude": 103.48167
     },
     {
-        "cityId": "7510791",
+        "cityId": 7510791,
         "name": "Amphoe Nong Kung Si",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.71932,
         "longitude": 103.31922
     },
     {
-        "cityId": "7510792",
+        "cityId": 7510792,
         "name": "Amphoe Huai Mek",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.58868,
         "longitude": 103.24098
     },
     {
-        "cityId": "7510814",
+        "cityId": 7510814,
         "name": "Amphoe Rong Kham",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.27925,
         "longitude": 103.71238
     },
     {
-        "cityId": "7510815",
+        "cityId": 7510815,
         "name": "Amphoe Don Chan",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.46667,
         "longitude": 103.71667
     },
     {
-        "cityId": "7510817",
+        "cityId": 7510817,
         "name": "Amphoe Huai Phueng",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.66972,
         "longitude": 103.87997
     },
     {
-        "cityId": "7510838",
+        "cityId": 7510838,
         "name": "Amphoe Khao Wong",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.67959,
         "longitude": 104.1003
     },
     {
-        "cityId": "7510840",
+        "cityId": 7510840,
         "name": "Amphoe Na Khu",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.75018,
         "longitude": 104.00062
     },
     {
-        "cityId": "7511042",
+        "cityId": 7511042,
         "name": "Amphoe Na Mon",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.56994,
         "longitude": 103.78015
     },
     {
-        "cityId": "7511044",
+        "cityId": 7511044,
         "name": "Amphoe Kham Muang",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.93884,
         "longitude": 103.6398
     },
     {
-        "cityId": "7511048",
+        "cityId": 7511048,
         "name": "Amphoe Sam Chai",
-        "stateId": "1610468",
+        "stateId": 1610468,
         "latitude": 16.86909,
         "longitude": 103.52243
     }

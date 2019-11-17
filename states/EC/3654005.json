@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "3650955",
+        "cityId": 3650955,
         "name": "Cant\u00f3n Suc\u00faa",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.46667,
         "longitude": -78.16667
     },
     {
-        "cityId": "3651317",
+        "cityId": 3651317,
         "name": "Santiago de M\u00e9ndez",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.71667,
         "longitude": -78.31667
     },
     {
-        "cityId": "3653522",
+        "cityId": 3653522,
         "name": "Cant\u00f3n Palora",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -1.7,
         "longitude": -77.93333
     },
     {
-        "cityId": "3654006",
+        "cityId": 3654006,
         "name": "Cant\u00f3n Morona",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.31667,
         "longitude": -78.1
     },
     {
-        "cityId": "3654737",
+        "cityId": 3654737,
         "name": "Cant\u00f3n Lim\u00f3n Indanza",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.96667,
         "longitude": -78.41667
     },
     {
-        "cityId": "3657660",
+        "cityId": 3657660,
         "name": "Cant\u00f3n Gualaquiza",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -3.4,
         "longitude": -78.58333
     },
     {
-        "cityId": "10792470",
+        "cityId": 10792470,
         "name": "Huamboya",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -1.99019,
         "longitude": -77.92191
     },
     {
-        "cityId": "10792480",
+        "cityId": 10792480,
         "name": "San Juan Bosco",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -3.2627,
         "longitude": -78.38168
     },
     {
-        "cityId": "10792481",
+        "cityId": 10792481,
         "name": "Taisha",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.49054,
         "longitude": -77.48315
     },
     {
-        "cityId": "10792482",
+        "cityId": 10792482,
         "name": "Logro\u00f1o",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -2.77682,
         "longitude": -78.02212
     },
     {
-        "cityId": "10792546",
+        "cityId": 10792546,
         "name": "Tiwintza",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -3.04841,
         "longitude": -78.00662
     },
     {
-        "cityId": "10792550",
+        "cityId": 10792550,
         "name": "Pablo Sexto",
-        "stateId": "3654005",
+        "stateId": 3654005,
         "latitude": -1.85362,
         "longitude": -78.29544
     }

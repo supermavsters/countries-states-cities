@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7522407",
+        "cityId": 7522407,
         "name": "R\u00f5uge vald",
-        "stateId": "587448",
+        "stateId": 587448,
         "latitude": 57.7278,
         "longitude": 26.88033
     },
     {
-        "cityId": "7522444",
+        "cityId": 7522444,
         "name": "Antsla vald",
-        "stateId": "587448",
+        "stateId": 587448,
         "latitude": 57.77738,
         "longitude": 26.5952
     },
     {
-        "cityId": "7522483",
+        "cityId": 7522483,
         "name": "V\u00f5ru vald",
-        "stateId": "587448",
+        "stateId": 587448,
         "latitude": 57.86618,
         "longitude": 26.97418
     },
     {
-        "cityId": "7522484",
+        "cityId": 7522484,
         "name": "V\u00f5ru linn",
-        "stateId": "587448",
+        "stateId": 587448,
         "latitude": 57.83553,
         "longitude": 27.00119
     },
     {
-        "cityId": "11776871",
+        "cityId": 11776871,
         "name": "Setomaa vald",
-        "stateId": "587448",
+        "stateId": 587448,
         "latitude": 57.8842,
         "longitude": 27.61963
     }

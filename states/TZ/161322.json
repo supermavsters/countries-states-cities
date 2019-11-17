@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "151607",
+        "cityId": 151607,
         "name": "Ngorongoro",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -2.68832,
         "longitude": 35.53659
     },
     {
-        "cityId": "153246",
+        "cityId": 153246,
         "name": "Monduli District",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -3.27215,
         "longitude": 36.42517
     },
     {
-        "cityId": "161327",
+        "cityId": 161327,
         "name": "Meru",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -3.305,
         "longitude": 36.801
     },
     {
-        "cityId": "7647661",
+        "cityId": 7647661,
         "name": "Arusha District",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -3.46956,
         "longitude": 36.77399
     },
     {
-        "cityId": "8693317",
+        "cityId": 8693317,
         "name": "Longido District",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -2.73173,
         "longitude": 36.69511
     },
     {
-        "cityId": "9072687",
+        "cityId": 9072687,
         "name": "Karatu District",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -3.33333,
         "longitude": 35.66667
     },
     {
-        "cityId": "9998003",
+        "cityId": 9998003,
         "name": "Arusha City",
-        "stateId": "161322",
+        "stateId": 161322,
         "latitude": -3.44111,
         "longitude": 36.67803
     }

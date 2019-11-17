@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "2273181",
+        "cityId": 2273181,
         "name": "Wedjah-Cabade",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.5,
         "longitude": -8.41667
     },
     {
-        "cityId": "2273473",
+        "cityId": 2273473,
         "name": "Toto",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.33333,
         "longitude": -9.33333
     },
     {
-        "cityId": "2273482",
+        "cityId": 2273482,
         "name": "Topo",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5,
         "longitude": -8.31667
     },
     {
-        "cityId": "2273679",
+        "cityId": 2273679,
         "name": "Tasu",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.16667,
         "longitude": -9.16667
     },
     {
-        "cityId": "2273682",
+        "cityId": 2273682,
         "name": "Tarjuazon",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.33333,
         "longitude": -9
     },
     {
-        "cityId": "2274043",
+        "cityId": 2274043,
         "name": "Seedor",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.5,
         "longitude": -9.16667
     },
     {
-        "cityId": "2274591",
+        "cityId": 2274591,
         "name": "Nuohn Point",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 4.86667,
         "longitude": -8.78333
     },
     {
-        "cityId": "2274596",
+        "cityId": 2274596,
         "name": "Numo",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.11694,
         "longitude": -8.71667
     },
     {
-        "cityId": "2274818",
+        "cityId": 2274818,
         "name": "Nana Kru",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 4.83333,
         "longitude": -8.71667
     },
     {
-        "cityId": "2274827",
+        "cityId": 2274827,
         "name": "Nake",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5,
         "longitude": -8.5
     },
     {
-        "cityId": "2275067",
+        "cityId": 2275067,
         "name": "Matro",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.16667,
         "longitude": -8.91667
     },
     {
-        "cityId": "2275592",
+        "cityId": 2275592,
         "name": "Kulu",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 4.99972,
         "longitude": -8.83333
     },
     {
-        "cityId": "2276117",
+        "cityId": 2276117,
         "name": "Kabor",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.25,
         "longitude": -9.25
     },
     {
-        "cityId": "2276156",
+        "cityId": 2276156,
         "name": "Seekon",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.68166,
         "longitude": -8.68212
     },
     {
-        "cityId": "2276354",
+        "cityId": 2276354,
         "name": "Jeetrah",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.66667,
         "longitude": -9
     },
     {
-        "cityId": "2276356",
+        "cityId": 2276356,
         "name": "Jeadepo",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.37094,
         "longitude": -8.41084
     },
     {
-        "cityId": "2278113",
+        "cityId": 2278113,
         "name": "Butaw",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.13333,
         "longitude": -9.08333
     },
     {
-        "cityId": "7911028",
+        "cityId": 7911028,
         "name": "Pyneston District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.51251,
         "longitude": -8.73293
     },
     {
-        "cityId": "9645156",
+        "cityId": 9645156,
         "name": "Kulu Shaw Boe District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.57144,
         "longitude": -9.009
     },
     {
-        "cityId": "9645157",
+        "cityId": 9645157,
         "name": "Plahn Nyarn District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.31583,
         "longitude": -9.02087
     },
     {
-        "cityId": "9645158",
+        "cityId": 9645158,
         "name": "Juarzon District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.33056,
         "longitude": -8.91968
     },
     {
-        "cityId": "9645160",
+        "cityId": 9645160,
         "name": "Pynes Town District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.56621,
         "longitude": -8.55337
     },
     {
-        "cityId": "9645161",
+        "cityId": 9645161,
         "name": "Wedjah District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.29825,
         "longitude": -8.81943
     },
     {
-        "cityId": "9645162",
+        "cityId": 9645162,
         "name": "Greenville District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.05785,
         "longitude": -9.04653
     },
     {
-        "cityId": "9645163",
+        "cityId": 9645163,
         "name": "Kpayan District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.12817,
         "longitude": -8.82608
     },
     {
-        "cityId": "9645164",
+        "cityId": 9645164,
         "name": "Dugbe River District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 4.98753,
         "longitude": -8.72821
     },
     {
-        "cityId": "9645165",
+        "cityId": 9645165,
         "name": "Bokon District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.02649,
         "longitude": -8.4745
     },
     {
-        "cityId": "9645166",
+        "cityId": 9645166,
         "name": "Jaedae District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.11201,
         "longitude": -8.51726
     },
     {
-        "cityId": "9645167",
+        "cityId": 9645167,
         "name": "Bodae District",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.13577,
         "longitude": -8.33387
     },
     {
-        "cityId": "9645168",
+        "cityId": 9645168,
         "name": "Sanquin District Number One",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.50825,
         "longitude": -9.21282
     },
     {
-        "cityId": "9645169",
+        "cityId": 9645169,
         "name": "Sanquin District Number Two",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.22699,
         "longitude": -9.17909
     },
     {
-        "cityId": "9645170",
+        "cityId": 9645170,
         "name": "Sanquin District Number Three",
-        "stateId": "2273898",
+        "stateId": 2273898,
         "latitude": 5.31203,
         "longitude": -9.30451
     }

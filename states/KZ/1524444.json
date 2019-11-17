@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "1518589",
+        "cityId": 1518589,
         "name": "Talas A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.58333,
         "longitude": 70.66667
     },
     {
-        "cityId": "1518673",
+        "cityId": 1518673,
         "name": "Sverdlov A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.25,
         "longitude": 71.75
     },
     {
-        "cityId": "1519552",
+        "cityId": 1519552,
         "name": "Sarys\u016b A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 44.83333,
         "longitude": 70.5
     },
     {
-        "cityId": "1520845",
+        "cityId": 1520845,
         "name": "Moyynqum A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 45,
         "longitude": 73
     },
     {
-        "cityId": "1520965",
+        "cityId": 1520965,
         "name": "Merke A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.16667,
         "longitude": 73.25
     },
     {
-        "cityId": "1521288",
+        "cityId": 1521288,
         "name": "L\u016bgovoe A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43,
         "longitude": 72.5
     },
     {
-        "cityId": "1521754",
+        "cityId": 1521754,
         "name": "Qorday A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.33333,
         "longitude": 75
     },
     {
-        "cityId": "1524333",
+        "cityId": 1524333,
         "name": "Zh\u016baly A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 42.66667,
         "longitude": 70.75
     },
     {
-        "cityId": "1524439",
+        "cityId": 1524439,
         "name": "Zhambyl A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43,
         "longitude": 71.25
     },
     {
-        "cityId": "1524678",
+        "cityId": 1524678,
         "name": "Sh\u016b A\u016bdany",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.66667,
         "longitude": 74.25
     },
     {
-        "cityId": "1537277",
+        "cityId": 1537277,
         "name": "Zhambyl Qalasy",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 42.9,
         "longitude": 71.36667
     },
     {
-        "cityId": "1537278",
+        "cityId": 1537278,
         "name": "Zhangatas Qalasy",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.56667,
         "longitude": 69.75
     },
     {
-        "cityId": "1537279",
+        "cityId": 1537279,
         "name": "Qarata\u016b Qalasy",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.16667,
         "longitude": 70.46667
     },
     {
-        "cityId": "1537280",
+        "cityId": 1537280,
         "name": "Sh\u016b Qalasy",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.6,
         "longitude": 73.7
     },
     {
-        "cityId": "8739769",
+        "cityId": 8739769,
         "name": "Bayzak District",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.43393,
         "longitude": 71.66733
     },
     {
-        "cityId": "8739777",
+        "cityId": 8739777,
         "name": "Korday",
-        "stateId": "1524444",
+        "stateId": 1524444,
         "latitude": 43.03878,
         "longitude": 74.71802
     }

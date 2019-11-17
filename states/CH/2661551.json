@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "8260133",
+        "cityId": 8260133,
         "name": "Emmental District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 47.04425,
         "longitude": 7.66176
     },
     {
-        "cityId": "8260134",
+        "cityId": 8260134,
         "name": "Obersimmental-Saanen District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 46.47932,
         "longitude": 7.35803
     },
     {
-        "cityId": "8260135",
+        "cityId": 8260135,
         "name": "Frutigen-Niedersimmental District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 46.60236,
         "longitude": 7.62292
     },
     {
-        "cityId": "8260136",
+        "cityId": 8260136,
         "name": "Biel\/Bienne District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 47.12725,
         "longitude": 7.26174
     },
     {
-        "cityId": "8260137",
+        "cityId": 8260137,
         "name": "Seeland District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 47.06635,
         "longitude": 7.26333
     },
     {
-        "cityId": "8260138",
+        "cityId": 8260138,
         "name": "Thun District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 46.7629,
         "longitude": 7.62503
     },
     {
-        "cityId": "8260139",
+        "cityId": 8260139,
         "name": "Interlaken-Oberhasli District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 46.68931,
         "longitude": 7.98869
     },
     {
-        "cityId": "8260140",
+        "cityId": 8260140,
         "name": "Jura bernois",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 47.21892,
         "longitude": 7.21981
     },
     {
-        "cityId": "8260141",
+        "cityId": 8260141,
         "name": "Oberaargau",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 47.19202,
         "longitude": 7.74553
     },
     {
-        "cityId": "8260142",
+        "cityId": 8260142,
         "name": "Bern-Mittelland District",
-        "stateId": "2661551",
+        "stateId": 2661551,
         "latitude": 46.92526,
         "longitude": 7.49024
     }

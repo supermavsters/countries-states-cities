@@ -1,260 +1,260 @@
 [
     {
-        "stateId": "2565340",
+        "stateId": 2565340,
         "name": "Abia State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 5.41667,
         "longitude": 7.5
     },
     {
-        "stateId": "2565342",
+        "stateId": 2565342,
         "name": "Adamawa State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 9.33333,
         "longitude": 12.5
     },
     {
-        "stateId": "2350813",
+        "stateId": 2350813,
         "name": "Akwa Ibom State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 5,
         "longitude": 7.83333
     },
     {
-        "stateId": "2349961",
+        "stateId": 2349961,
         "name": "Anambra State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 6.33333,
         "longitude": 7
     },
     {
-        "stateId": "2347468",
+        "stateId": 2347468,
         "name": "Bauchi State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 10.5,
         "longitude": 10
     },
     {
-        "stateId": "2595344",
+        "stateId": 2595344,
         "name": "Bayelsa State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 4.75,
         "longitude": 6.08333
     },
     {
-        "stateId": "2347266",
+        "stateId": 2347266,
         "name": "Benue State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7.33333,
         "longitude": 8.75
     },
     {
-        "stateId": "2346794",
+        "stateId": 2346794,
         "name": "Borno State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 11.5,
         "longitude": 13
     },
     {
-        "stateId": "2345891",
+        "stateId": 2345891,
         "name": "Cross River State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 5.75,
         "longitude": 8.5
     },
     {
-        "stateId": "2565341",
+        "stateId": 2565341,
         "name": "Delta State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 5.5,
         "longitude": 6
     },
     {
-        "stateId": "2595345",
+        "stateId": 2595345,
         "name": "Ebonyi State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 6.25,
         "longitude": 8.08333
     },
     {
-        "stateId": "2565343",
+        "stateId": 2565343,
         "name": "Edo",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 6.5,
         "longitude": 6
     },
     {
-        "stateId": "2595346",
+        "stateId": 2595346,
         "name": "Ekiti State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7.66667,
         "longitude": 5.25
     },
     {
-        "stateId": "2565344",
+        "stateId": 2565344,
         "name": "Enugu State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 6.5,
         "longitude": 7.5
     },
     {
-        "stateId": "2352776",
+        "stateId": 2352776,
         "name": "Federal Capital Territory",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 8.83333,
         "longitude": 7.16667
     },
     {
-        "stateId": "2595347",
+        "stateId": 2595347,
         "name": "Gombe State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 10.25,
         "longitude": 11.16667
     },
     {
-        "stateId": "2337542",
+        "stateId": 2337542,
         "name": "Imo State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 5.5,
         "longitude": 7.16667
     },
     {
-        "stateId": "2565345",
+        "stateId": 2565345,
         "name": "Jigawa State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 12.1,
         "longitude": 9.56
     },
     {
-        "stateId": "2335722",
+        "stateId": 2335722,
         "name": "Kaduna State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 10.33333,
         "longitude": 7.75
     },
     {
-        "stateId": "2335196",
+        "stateId": 2335196,
         "name": "Kano State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 11.5,
         "longitude": 8.5
     },
     {
-        "stateId": "2334797",
+        "stateId": 2334797,
         "name": "Katsina State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 12.25,
         "longitude": 7.5
     },
     {
-        "stateId": "2597363",
+        "stateId": 2597363,
         "name": "Kebbi State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 11.5,
         "longitude": 4
     },
     {
-        "stateId": "2597364",
+        "stateId": 2597364,
         "name": "Kogi State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7.75,
         "longitude": 6.75
     },
     {
-        "stateId": "2332785",
+        "stateId": 2332785,
         "name": "Kwara State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 8.5,
         "longitude": 5
     },
     {
-        "stateId": "2332453",
+        "stateId": 2332453,
         "name": "Lagos State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 6.53774,
         "longitude": 3.3522
     },
     {
-        "stateId": "2595348",
+        "stateId": 2595348,
         "name": "Nasarawa State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 8.5,
         "longitude": 8.25
     },
     {
-        "stateId": "2328925",
+        "stateId": 2328925,
         "name": "Niger State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 10,
         "longitude": 6
     },
     {
-        "stateId": "2327546",
+        "stateId": 2327546,
         "name": "Ogun State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7,
         "longitude": 3.58333
     },
     {
-        "stateId": "2326168",
+        "stateId": 2326168,
         "name": "Ondo State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7.16667,
         "longitude": 5.08333
     },
     {
-        "stateId": "2597365",
+        "stateId": 2597365,
         "name": "Osun State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 7.5,
         "longitude": 4.5
     },
     {
-        "stateId": "2325190",
+        "stateId": 2325190,
         "name": "Oyo State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 8,
         "longitude": 4
     },
     {
-        "stateId": "2324828",
+        "stateId": 2324828,
         "name": "Plateau State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 9.16667,
         "longitude": 9.75
     },
     {
-        "stateId": "2324433",
+        "stateId": 2324433,
         "name": "Rivers State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 4.74974,
         "longitude": 6.82766
     },
     {
-        "stateId": "2322907",
+        "stateId": 2322907,
         "name": "Sokoto State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 13.08333,
         "longitude": 5.25
     },
     {
-        "stateId": "2597366",
+        "stateId": 2597366,
         "name": "Taraba State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 8,
         "longitude": 10.5
     },
     {
-        "stateId": "2597367",
+        "stateId": 2597367,
         "name": "Yobe State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 12,
         "longitude": 11.5
     },
     {
-        "stateId": "2595349",
+        "stateId": 2595349,
         "name": "Zamfara State",
-        "countryId": "2328926",
+        "countryId": 2328926,
         "latitude": 12.16667,
         "longitude": 6.25
     }

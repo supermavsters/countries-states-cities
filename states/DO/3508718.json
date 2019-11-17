@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3491917",
+        "cityId": 3491917,
         "name": "Villa Riva",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.15051,
         "longitude": -69.8837
     },
     {
-        "cityId": "3493147",
+        "cityId": 3493147,
         "name": "San Francisco de Macor\u00eds",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.3,
         "longitude": -70.2
     },
     {
-        "cityId": "3494769",
+        "cityId": 3494769,
         "name": "Pimentel",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.21667,
         "longitude": -70.16667
     },
     {
-        "cityId": "3510068",
+        "cityId": 3510068,
         "name": "Castillo",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.25,
         "longitude": -70
     },
     {
-        "cityId": "11154541",
+        "cityId": 11154541,
         "name": "Arenoso",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.19101,
         "longitude": -69.76818
     },
     {
-        "cityId": "11154542",
+        "cityId": 11154542,
         "name": "Las Gu\u00e1ranas",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.20098,
         "longitude": -70.22393
     },
     {
-        "cityId": "11154543",
+        "cityId": 11154543,
         "name": "Eugenio Mar\u00eda De Hostos",
-        "stateId": "3508718",
+        "stateId": 3508718,
         "latitude": 19.14028,
         "longitude": -70.02199
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2364811",
+        "cityId": 2364811,
         "name": "Pr\u00e9fecture de Doufelgou",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.83333,
         "longitude": 1.08333
     },
     {
-        "cityId": "2365382",
+        "cityId": 2365382,
         "name": "Pr\u00e9fecture de la Kozah",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.58333,
         "longitude": 1.16667
     },
     {
-        "cityId": "2365570",
+        "cityId": 2365570,
         "name": "Pr\u00e9fecture de la Binah",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.75,
         "longitude": 1.28333
     },
     {
-        "cityId": "2366167",
+        "cityId": 2366167,
         "name": "Pr\u00e9fecture de K\u00e9ran",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 10.08333,
         "longitude": 1
     },
     {
-        "cityId": "2367567",
+        "cityId": 2367567,
         "name": "Pr\u00e9fecture de Bassar",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.25,
         "longitude": 0.75
     },
     {
-        "cityId": "2367655",
+        "cityId": 2367655,
         "name": "Pr\u00e9fecture d\u2019Assoli",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.33333,
         "longitude": 1.25
     },
     {
-        "cityId": "2597446",
+        "cityId": 2597446,
         "name": "Pr\u00e9fecture de Dankpen",
-        "stateId": "2597439",
+        "stateId": 2597439,
         "latitude": 9.7,
         "longitude": 0.58333
     }

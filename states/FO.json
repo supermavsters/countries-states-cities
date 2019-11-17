@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "2622387",
+        "stateId": 2622387,
         "name": "Eysturoyar s\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 62.21667,
         "longitude": -6.86667
     },
     {
-        "stateId": "2616145",
+        "stateId": 2616145,
         "name": "Nor\u00f0oyar s\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 62.28333,
         "longitude": -6.58333
     },
     {
-        "stateId": "2614219",
+        "stateId": 2614219,
         "name": "Sandoyar S\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 61.83333,
         "longitude": -6.75
     },
     {
-        "stateId": "2612225",
+        "stateId": 2612225,
         "name": "Streymoyar S\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 62.13333,
         "longitude": -7
     },
     {
-        "stateId": "2612137",
+        "stateId": 2612137,
         "name": "Su\u00f0uroyar s\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 61.48333,
         "longitude": -6.81667
     },
     {
-        "stateId": "2610816",
+        "stateId": 2610816,
         "name": "V\u00e1ga S\u00fdsla",
-        "countryId": "2622320",
+        "countryId": 2622320,
         "latitude": 62.08333,
         "longitude": -7.25
     }

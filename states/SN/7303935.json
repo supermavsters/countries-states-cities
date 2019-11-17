@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "10778870",
+        "cityId": 10778870,
         "name": "Birkelane",
-        "stateId": "7303935",
+        "stateId": 7303935,
         "latitude": 14.0685,
         "longitude": -15.69036
     },
     {
-        "cityId": "10778871",
+        "cityId": 10778871,
         "name": "Malem Hoddar",
-        "stateId": "7303935",
+        "stateId": 7303935,
         "latitude": 14.38595,
         "longitude": -15.23713
     },
     {
-        "cityId": "10778872",
+        "cityId": 10778872,
         "name": "Koungheul",
-        "stateId": "7303935",
+        "stateId": 7303935,
         "latitude": 14.23612,
         "longitude": -14.84476
     }

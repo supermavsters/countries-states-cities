@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3616026",
+        "cityId": 3616026,
         "name": "Municipio de Tisma",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 12.1,
         "longitude": -85.96667
     },
     {
-        "cityId": "3616722",
+        "cityId": 3616722,
         "name": "Municipio de San Juan de Oriente",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.90517,
         "longitude": -86.0746
     },
     {
-        "cityId": "3617469",
+        "cityId": 3617469,
         "name": "Municipio de Niquinohomo",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.9,
         "longitude": -86.08333
     },
     {
-        "cityId": "3617472",
+        "cityId": 3617472,
         "name": "Municipio de Nindir\u00ed",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 12.06667,
         "longitude": -86.11667
     },
     {
-        "cityId": "3617509",
+        "cityId": 3617509,
         "name": "Municipio de Nandasmo",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.93333,
         "longitude": -86.11667
     },
     {
-        "cityId": "3617720",
+        "cityId": 3617720,
         "name": "Municipio de Masaya",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 12,
         "longitude": -86.03333
     },
     {
-        "cityId": "3617724",
+        "cityId": 3617724,
         "name": "Municipio de Masatepe",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.91667,
         "longitude": -86.11667
     },
     {
-        "cityId": "3618641",
+        "cityId": 3618641,
         "name": "Municipio de La Concepci\u00f3n",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.96667,
         "longitude": -86.2
     },
     {
-        "cityId": "3620438",
+        "cityId": 3620438,
         "name": "Municipio de Catarina",
-        "stateId": "3617722",
+        "stateId": 3617722,
         "latitude": 11.91667,
         "longitude": -86.06667
     }

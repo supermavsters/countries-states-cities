@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "4031116",
+        "stateId": 4031116,
         "name": "Atafu",
-        "countryId": "4031074",
+        "countryId": 4031074,
         "latitude": -8.558,
         "longitude": -172.497
     },
     {
-        "stateId": "4031112",
+        "stateId": 4031112,
         "name": "Fakaofo",
-        "countryId": "4031074",
+        "countryId": 4031074,
         "latitude": -9.376,
         "longitude": -171.233
     },
     {
-        "stateId": "4031091",
+        "stateId": 4031091,
         "name": "Nukunonu",
-        "countryId": "4031074",
+        "countryId": 4031074,
         "latitude": -9.169,
         "longitude": -171.83
     }

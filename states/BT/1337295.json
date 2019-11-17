@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7646447",
+        "cityId": 7646447,
         "name": "Dangchu",
-        "stateId": "1337295",
+        "stateId": 1337295,
         "latitude": 27.55301,
         "longitude": 90.21069
     },
     {
-        "cityId": "7647808",
+        "cityId": 7647808,
         "name": "Ruepaisa",
-        "stateId": "1337295",
+        "stateId": 1337295,
         "latitude": 27.38292,
         "longitude": 89.96707
     },
     {
-        "cityId": "7647809",
+        "cityId": 7647809,
         "name": "Nahi",
-        "stateId": "1337295",
+        "stateId": 1337295,
         "latitude": 27.42462,
         "longitude": 89.82341
     }

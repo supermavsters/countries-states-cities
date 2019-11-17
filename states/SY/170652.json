@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "165928",
+        "cityId": 165928,
         "name": "Qatana District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.38916,
         "longitude": 36.0036
     },
     {
-        "cityId": "170590",
+        "cityId": 170590,
         "name": "Douma District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.43262,
         "longitude": 37.63855
     },
     {
-        "cityId": "172060",
+        "cityId": 172060,
         "name": "Al-Zabadani District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.70819,
         "longitude": 36.11198
     },
     {
-        "cityId": "172350",
+        "cityId": 172350,
         "name": "Al-Tall District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.71795,
         "longitude": 36.32785
     },
     {
-        "cityId": "173194",
+        "cityId": 173194,
         "name": "Al-Nabk District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 34.08307,
         "longitude": 36.71223
     },
     {
-        "cityId": "173313",
+        "cityId": 173313,
         "name": "Al-Qutayfah District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.89765,
         "longitude": 36.7738
     },
     {
-        "cityId": "7895152",
+        "cityId": 7895152,
         "name": "Yabrud District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.95305,
         "longitude": 36.44595
     },
     {
-        "cityId": "8276862",
+        "cityId": 8276862,
         "name": "Darayya District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.4991,
         "longitude": 36.19116
     },
     {
-        "cityId": "8540234",
+        "cityId": 8540234,
         "name": "Markaz Rif Dimashq District",
-        "stateId": "170652",
+        "stateId": 170652,
         "latitude": 33.34658,
         "longitude": 36.28752
     }

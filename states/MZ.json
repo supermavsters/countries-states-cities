@@ -1,78 +1,78 @@
 [
     {
-        "stateId": "1051823",
+        "stateId": 1051823,
         "name": "Cabo Delgado Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -12.5,
         "longitude": 39.4
     },
     {
-        "stateId": "1105845",
+        "stateId": 1105845,
         "name": "Cidade de Maputo",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -25.96528,
         "longitude": 32.58917
     },
     {
-        "stateId": "1046058",
+        "stateId": 1046058,
         "name": "Gaza Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -23.5,
         "longitude": 33
     },
     {
-        "stateId": "1045110",
+        "stateId": 1045110,
         "name": "Inhambane Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -23,
         "longitude": 34.5
     },
     {
-        "stateId": "1040947",
+        "stateId": 1040947,
         "name": "Manica Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -19,
         "longitude": 33.5
     },
     {
-        "stateId": "1040649",
+        "stateId": 1040649,
         "name": "Maputo Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -25.5,
         "longitude": 32.33333
     },
     {
-        "stateId": "1033354",
+        "stateId": 1033354,
         "name": "Nampula",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -15,
         "longitude": 39
     },
     {
-        "stateId": "1030006",
+        "stateId": 1030006,
         "name": "Niassa Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -13,
         "longitude": 36.7
     },
     {
-        "stateId": "1024312",
+        "stateId": 1024312,
         "name": "Prov\u00edncia de Zamb\u00e9zia",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -17,
         "longitude": 37
     },
     {
-        "stateId": "1026804",
+        "stateId": 1026804,
         "name": "Sofala Province",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -19.2,
         "longitude": 34.8
     },
     {
-        "stateId": "1026010",
+        "stateId": 1026010,
         "name": "Tete",
-        "countryId": "1036973",
+        "countryId": 1036973,
         "latitude": -15.5,
         "longitude": 33
     }

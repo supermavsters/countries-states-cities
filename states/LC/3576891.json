@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "11351420",
+        "cityId": 11351420,
         "name": "St Lawrence",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93852,
         "longitude": -61.02503
     },
     {
-        "cityId": "11351452",
+        "cityId": 11351452,
         "name": "Tete Chemin",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.89092,
         "longitude": -60.99785
     },
     {
-        "cityId": "11351463",
+        "cityId": 11351463,
         "name": "Village\/Petite Bourgh",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93801,
         "longitude": -61.04184
     },
     {
-        "cityId": "11351558",
+        "cityId": 11351558,
         "name": "Venus",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.91558,
         "longitude": -61.01676
     },
     {
-        "cityId": "11351570",
+        "cityId": 11351570,
         "name": "Morne D'Or",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94931,
         "longitude": -61.00601
     },
     {
-        "cityId": "11351575",
+        "cityId": 11351575,
         "name": "Roseau Valley",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.95317,
         "longitude": -61.02676
     },
     {
-        "cityId": "11351605",
+        "cityId": 11351605,
         "name": "Invorgoil Estate",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93175,
         "longitude": -61.0359
     },
     {
-        "cityId": "11351606",
+        "cityId": 11351606,
         "name": "Au Tabor",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.9454,
         "longitude": -61.04112
     },
     {
-        "cityId": "11351607",
+        "cityId": 11351607,
         "name": "Au Tabor Hill",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94457,
         "longitude": -61.03559
     },
     {
-        "cityId": "11351608",
+        "cityId": 11351608,
         "name": "Bois D'Inde",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94148,
         "longitude": -61.00966
     },
     {
-        "cityId": "11351609",
+        "cityId": 11351609,
         "name": "Caico\/Millet",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.91948,
         "longitude": -60.99264
     },
     {
-        "cityId": "11351611",
+        "cityId": 11351611,
         "name": "Fond Eau Rouge",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94776,
         "longitude": -61.03042
     },
     {
-        "cityId": "11351613",
+        "cityId": 11351613,
         "name": "Champen Estate",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93575,
         "longitude": -61.02991
     },
     {
-        "cityId": "11351614",
+        "cityId": 11351614,
         "name": "Enbar Pwin",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.91175,
         "longitude": -60.99266
     },
     {
-        "cityId": "11351615",
+        "cityId": 11351615,
         "name": "Dame De Traversay",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.91826,
         "longitude": -60.98747
     },
     {
-        "cityId": "11351617",
+        "cityId": 11351617,
         "name": "Massacre",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94872,
         "longitude": -61.03544
     },
     {
-        "cityId": "11351618",
+        "cityId": 11351618,
         "name": "Derriere Dos",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.92546,
         "longitude": -61.00621
     },
     {
-        "cityId": "11351620",
+        "cityId": 11351620,
         "name": "Derriere Lagoon",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94168,
         "longitude": -61.01891
     },
     {
-        "cityId": "11351621",
+        "cityId": 11351621,
         "name": "Durandeau",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.92277,
         "longitude": -60.99512
     },
     {
-        "cityId": "11351622",
+        "cityId": 11351622,
         "name": "Millet",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.90985,
         "longitude": -60.98884
     },
     {
-        "cityId": "11351624",
+        "cityId": 11351624,
         "name": "Village",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93939,
         "longitude": -61.0415
     },
     {
-        "cityId": "11351625",
+        "cityId": 11351625,
         "name": "Jacmel",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94796,
         "longitude": -61.01297
     },
     {
-        "cityId": "11351626",
+        "cityId": 11351626,
         "name": "Jean Baptiste",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94704,
         "longitude": -61.01578
     },
     {
-        "cityId": "11351627",
+        "cityId": 11351627,
         "name": "La Trielle",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94014,
         "longitude": -60.99729
     },
     {
-        "cityId": "11351630",
+        "cityId": 11351630,
         "name": "Vanard",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93558,
         "longitude": -60.99363
     },
     {
-        "cityId": "11351631",
+        "cityId": 11351631,
         "name": "Morne Ciseaux",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.93597,
         "longitude": -61.0033
     },
     {
-        "cityId": "11351632",
+        "cityId": 11351632,
         "name": "St Lawrence Estate",
-        "stateId": "3576891",
+        "stateId": 3576891,
         "latitude": 13.94236,
         "longitude": -61.04248
     }

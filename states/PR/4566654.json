@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7268161",
+        "cityId": 7268161,
         "name": "Egozcue Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.05609,
         "longitude": -65.99868
     },
     {
-        "cityId": "7268204",
+        "cityId": 7268204,
         "name": "Apeadero Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.01924,
         "longitude": -65.98307
     },
     {
-        "cityId": "7268223",
+        "cityId": 7268223,
         "name": "Bajo Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 17.97442,
         "longitude": -65.98986
     },
     {
-        "cityId": "7268280",
+        "cityId": 7268280,
         "name": "Cacao Alto Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.0158,
         "longitude": -66.0285
     },
     {
-        "cityId": "7268281",
+        "cityId": 7268281,
         "name": "Cacao Bajo Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 17.99754,
         "longitude": -66.02548
     },
     {
-        "cityId": "7268429",
+        "cityId": 7268429,
         "name": "Guardarraya Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 17.9746,
         "longitude": -65.93546
     },
     {
-        "cityId": "7268500",
+        "cityId": 7268500,
         "name": "Jacaboa Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 17.98305,
         "longitude": -65.96524
     },
     {
-        "cityId": "7268505",
+        "cityId": 7268505,
         "name": "Jagual Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.03097,
         "longitude": -66.03283
     },
     {
-        "cityId": "7268604",
+        "cityId": 7268604,
         "name": "Mamey Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.0146,
         "longitude": -66.00261
     },
     {
-        "cityId": "7268626",
+        "cityId": 7268626,
         "name": "Mar\u00edn Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.03866,
         "longitude": -66.0056
     },
     {
-        "cityId": "7268687",
+        "cityId": 7268687,
         "name": "Mulas Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.06354,
         "longitude": -66.02734
     },
     {
-        "cityId": "7268689",
+        "cityId": 7268689,
         "name": "Mu\u00f1oz Rivera Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.07861,
         "longitude": -66.05
     },
     {
-        "cityId": "7268740",
+        "cityId": 7268740,
         "name": "Patillas Barrio-Pueblo",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.00848,
         "longitude": -66.01485
     },
     {
-        "cityId": "7268776",
+        "cityId": 7268776,
         "name": "Pollos Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 17.99213,
         "longitude": -65.99956
     },
     {
-        "cityId": "7268847",
+        "cityId": 7268847,
         "name": "Quebrada Arriba Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.04886,
         "longitude": -66.07085
     },
     {
-        "cityId": "7268919",
+        "cityId": 7268919,
         "name": "R\u00edos Barrio",
-        "stateId": "4566654",
+        "stateId": 4566654,
         "latitude": 18.01137,
         "longitude": -65.96548
     }

@@ -1,225 +1,225 @@
 [
     {
-        "cityId": "472069",
+        "cityId": 472069,
         "name": "Vorob\u2019yevskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.65,
         "longitude": 40.93333
     },
     {
-        "cityId": "475541",
+        "cityId": 475541,
         "name": "Verkhnemamonskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.16667,
         "longitude": 40.38333
     },
     {
-        "cityId": "475572",
+        "cityId": 475572,
         "name": "Verkhnekhavskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.83333,
         "longitude": 40
     },
     {
-        "cityId": "483318",
+        "cityId": 483318,
         "name": "Ternovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.66667,
         "longitude": 41.25
     },
     {
-        "cityId": "484722",
+        "cityId": 484722,
         "name": "Talovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.08333,
         "longitude": 40.75
     },
     {
-        "cityId": "497203",
+        "cityId": 497203,
         "name": "Semilukskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.66667,
         "longitude": 39
     },
     {
-        "cityId": "501216",
+        "cityId": 501216,
         "name": "Rossoshanskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.16667,
         "longitude": 39.58333
     },
     {
-        "cityId": "502082",
+        "cityId": 502082,
         "name": "Rep\u2019yevskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.16667,
         "longitude": 38.66667
     },
     {
-        "cityId": "502892",
+        "cityId": 502892,
         "name": "Ramonskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.91667,
         "longitude": 39.33333
     },
     {
-        "cityId": "505805",
+        "cityId": 505805,
         "name": "Povorinskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.18333,
         "longitude": 42.2
     },
     {
-        "cityId": "508393",
+        "cityId": 508393,
         "name": "Podgorenskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.5,
         "longitude": 39.58333
     },
     {
-        "cityId": "510155",
+        "cityId": 510155,
         "name": "Petropavlovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.08333,
         "longitude": 40.83333
     },
     {
-        "cityId": "512020",
+        "cityId": 512020,
         "name": "Pavlovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.41667,
         "longitude": 40.16667
     },
     {
-        "cityId": "512837",
+        "cityId": 512837,
         "name": "Paninskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.66667,
         "longitude": 40.16667
     },
     {
-        "cityId": "514196",
+        "cityId": 514196,
         "name": "Ostrogozhskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.75,
         "longitude": 39.08333
     },
     {
-        "cityId": "515526",
+        "cityId": 515526,
         "name": "Ol\u2019khovatskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.25,
         "longitude": 39.25
     },
     {
-        "cityId": "517749",
+        "cityId": 517749,
         "name": "Novousmanskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.58333,
         "longitude": 39.41667
     },
     {
-        "cityId": "518742",
+        "cityId": 518742,
         "name": "Novokhoperskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.08333,
         "longitude": 41.58333
     },
     {
-        "cityId": "521145",
+        "cityId": 521145,
         "name": "Nizhnedevitskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.5,
         "longitude": 38.41667
     },
     {
-        "cityId": "534834",
+        "cityId": 534834,
         "name": "Liskinskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.91667,
         "longitude": 39.5
     },
     {
-        "cityId": "549847",
+        "cityId": 549847,
         "name": "Khokhol\u2019skiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.5,
         "longitude": 38.75
     },
     {
-        "cityId": "551950",
+        "cityId": 551950,
         "name": "Kashirskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.41667,
         "longitude": 39.61667
     },
     {
-        "cityId": "553097",
+        "cityId": 553097,
         "name": "Kantemirovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 49.67599,
         "longitude": 39.83526
     },
     {
-        "cityId": "553410",
+        "cityId": 553410,
         "name": "Kamenskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.31667,
         "longitude": 42.76667
     },
     {
-        "cityId": "554402",
+        "cityId": 554402,
         "name": "Kalacheyevskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.41667,
         "longitude": 41.08333
     },
     {
-        "cityId": "558798",
+        "cityId": 558798,
         "name": "Gribanovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.5,
         "longitude": 42
     },
     {
-        "cityId": "563418",
+        "cityId": 563418,
         "name": "Ertil\u2019skiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.75,
         "longitude": 40.75
     },
     {
-        "cityId": "570561",
+        "cityId": 570561,
         "name": "Buturlinovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 50.83333,
         "longitude": 40.66667
     },
     {
-        "cityId": "572519",
+        "cityId": 572519,
         "name": "Borisoglebsky Urban Okrug",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.41667,
         "longitude": 42.08333
     },
     {
-        "cityId": "575452",
+        "cityId": 575452,
         "name": "Bogucharskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 49.91667,
         "longitude": 40.58333
     },
     {
-        "cityId": "575878",
+        "cityId": 575878,
         "name": "Bobrovskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.25,
         "longitude": 40
     },
     {
-        "cityId": "581618",
+        "cityId": 581618,
         "name": "Anninskiy Rayon",
-        "stateId": "472039",
+        "stateId": 472039,
         "latitude": 51.41667,
         "longitude": 40.25
     }

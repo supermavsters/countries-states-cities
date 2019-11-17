@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "7268138",
+        "cityId": 7268138,
         "name": "Cupey Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.34618,
         "longitude": -66.04867
     },
     {
-        "cityId": "7268162",
+        "cityId": 7268162,
         "name": "El Cinco Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.39156,
         "longitude": -66.06248
     },
     {
-        "cityId": "7268293",
+        "cityId": 7268293,
         "name": "Caimito Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.33712,
         "longitude": -66.07153
     },
     {
-        "cityId": "7268411",
+        "cityId": 7268411,
         "name": "Gobernador Pi\u00f1ero Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.40787,
         "longitude": -66.08952
     },
     {
-        "cityId": "7268463",
+        "cityId": 7268463,
         "name": "Hato Rey Central Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.42173,
         "longitude": -66.05103
     },
     {
-        "cityId": "7268464",
+        "cityId": 7268464,
         "name": "Hato Rey Norte Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.42763,
         "longitude": -66.0779
     },
     {
-        "cityId": "7268465",
+        "cityId": 7268465,
         "name": "Hato Rey Sur Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.4048,
         "longitude": -66.0586
     },
     {
-        "cityId": "7268665",
+        "cityId": 7268665,
         "name": "Monacillo Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.3605,
         "longitude": -66.06599
     },
     {
-        "cityId": "7268666",
+        "cityId": 7268666,
         "name": "Monacillo Urbano Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.38071,
         "longitude": -66.08244
     },
     {
-        "cityId": "7268708",
+        "cityId": 7268708,
         "name": "Oriente Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.41455,
         "longitude": -66.03477
     },
     {
-        "cityId": "7268790",
+        "cityId": 7268790,
         "name": "Pueblo Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.39385,
         "longitude": -66.04774
     },
     {
-        "cityId": "7268842",
+        "cityId": 7268842,
         "name": "Quebrada Arenas Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.31323,
         "longitude": -66.07679
     },
     {
-        "cityId": "7268944",
+        "cityId": 7268944,
         "name": "Sabana Llana Norte Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.4064,
         "longitude": -66.0124
     },
     {
-        "cityId": "7268945",
+        "cityId": 7268945,
         "name": "Sabana Llana Sur Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.38649,
         "longitude": -66.02574
     },
     {
-        "cityId": "7268975",
+        "cityId": 7268975,
         "name": "San Juan Antiguo Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.46611,
         "longitude": -66.10884
     },
     {
-        "cityId": "7269002",
+        "cityId": 7269002,
         "name": "Santurce Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.44084,
         "longitude": -66.04714
     },
     {
-        "cityId": "7269050",
+        "cityId": 7269050,
         "name": "Tortugo Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.34263,
         "longitude": -66.09138
     },
     {
-        "cityId": "7269058",
+        "cityId": 7269058,
         "name": "Universidad Barrio",
-        "stateId": "4568138",
+        "stateId": 4568138,
         "latitude": 18.40737,
         "longitude": -66.04627
     }

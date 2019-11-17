@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "7732343",
+        "cityId": 7732343,
         "name": "Biga",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.26921,
         "longitude": 27.20841
     },
     {
-        "cityId": "7732344",
+        "cityId": 7732344,
         "name": "Merkez",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.05093,
         "longitude": 26.49489
     },
     {
-        "cityId": "7910944",
+        "cityId": 7910944,
         "name": "Bozcaada",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 39.82409,
         "longitude": 26.04069
     },
     {
-        "cityId": "7910945",
+        "cityId": 7910945,
         "name": "G\u00f6k\u00e7eada",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.16523,
         "longitude": 25.85907
     },
     {
-        "cityId": "8632576",
+        "cityId": 8632576,
         "name": "Yenice \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 39.94217,
         "longitude": 27.26532
     },
     {
-        "cityId": "8632577",
+        "cityId": 8632577,
         "name": "Ayvac\u0131k \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 39.61192,
         "longitude": 26.42314
     },
     {
-        "cityId": "8632578",
+        "cityId": 8632578,
         "name": "Ezine \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 39.79679,
         "longitude": 26.35702
     },
     {
-        "cityId": "8632579",
+        "cityId": 8632579,
         "name": "Bayrami\u00e7 \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 39.81951,
         "longitude": 26.6249
     },
     {
-        "cityId": "8632580",
+        "cityId": 8632580,
         "name": "\u00c7an \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.04404,
         "longitude": 27.06645
     },
     {
-        "cityId": "8632581",
+        "cityId": 8632581,
         "name": "L\u00e2pseki \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.3528,
         "longitude": 26.70657
     },
     {
-        "cityId": "8632582",
+        "cityId": 8632582,
         "name": "Gelibolu \u0130l\u00e7esi",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.45567,
         "longitude": 26.64442
     },
     {
-        "cityId": "9538547",
+        "cityId": 9538547,
         "name": "Eceabat",
-        "stateId": "749778",
+        "stateId": 749778,
         "latitude": 40.17861,
         "longitude": 26.35775
     }

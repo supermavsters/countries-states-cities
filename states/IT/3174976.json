@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3164038",
+        "cityId": 3164038,
         "name": "Provincia di Viterbo",
-        "stateId": "3174976",
+        "stateId": 3174976,
         "latitude": 42.41667,
         "longitude": 12.08333
     },
     {
-        "cityId": "3169069",
+        "cityId": 3169069,
         "name": "Citt\u00e0 metropolitana di Roma Capitale",
-        "stateId": "3174976",
+        "stateId": 3174976,
         "latitude": 41.96667,
         "longitude": 12.66667
     },
     {
-        "cityId": "3169411",
+        "cityId": 3169411,
         "name": "Provincia di Rieti",
-        "stateId": "3174976",
+        "stateId": 3174976,
         "latitude": 42.39133,
         "longitude": 12.95072
     },
     {
-        "cityId": "3175057",
+        "cityId": 3175057,
         "name": "Provincia di Latina",
-        "stateId": "3174976",
+        "stateId": 3174976,
         "latitude": 41.45,
         "longitude": 13.1
     },
     {
-        "cityId": "3176513",
+        "cityId": 3176513,
         "name": "Provincia di Frosinone",
-        "stateId": "3174976",
+        "stateId": 3174976,
         "latitude": 41.61667,
         "longitude": 13.45
     }

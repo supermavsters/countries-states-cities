@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7730004",
+        "cityId": 7730004,
         "name": "Afikpo North",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 5.89312,
         "longitude": 7.93735
     },
     {
-        "cityId": "7730005",
+        "cityId": 7730005,
         "name": "Ikwo",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.05316,
         "longitude": 8.16284
     },
     {
-        "cityId": "7730006",
+        "cityId": 7730006,
         "name": "Izzi",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.48453,
         "longitude": 8.29468
     },
     {
-        "cityId": "8643695",
+        "cityId": 8643695,
         "name": "Afikpo South",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 5.8493,
         "longitude": 7.7987
     },
     {
-        "cityId": "8659710",
+        "cityId": 8659710,
         "name": "Ishielu",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.42714,
         "longitude": 7.83583
     },
     {
-        "cityId": "8659711",
+        "cityId": 8659711,
         "name": "Ohaukwu",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.53285,
         "longitude": 8.02303
     },
     {
-        "cityId": "8659712",
+        "cityId": 8659712,
         "name": "Ebonyi",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.52184,
         "longitude": 8.12984
     },
     {
-        "cityId": "8659713",
+        "cityId": 8659713,
         "name": "Ezza North",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.27078,
         "longitude": 7.97127
     },
     {
-        "cityId": "8659714",
+        "cityId": 8659714,
         "name": "Abakaliki",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.25646,
         "longitude": 8.21133
     },
     {
-        "cityId": "8659715",
+        "cityId": 8659715,
         "name": "Onicha",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.09899,
         "longitude": 7.84133
     },
     {
-        "cityId": "8659716",
+        "cityId": 8659716,
         "name": "Ezza South",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.11661,
         "longitude": 8.001
     },
     {
-        "cityId": "8659717",
+        "cityId": 8659717,
         "name": "Ohaozara",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 6.0109,
         "longitude": 7.77747
     },
     {
-        "cityId": "8659718",
+        "cityId": 8659718,
         "name": "Ivo",
-        "stateId": "2595345",
+        "stateId": 2595345,
         "latitude": 5.88426,
         "longitude": 7.6233
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "2356983",
+        "cityId": 2356983,
         "name": "Province d\u2019Oubritenga",
-        "stateId": "6930712",
+        "stateId": 6930712,
         "latitude": 12.66667,
         "longitude": -1.33333
     },
     {
-        "cityId": "2360627",
+        "cityId": 2360627,
         "name": "Province du Ganzourgou",
-        "stateId": "6930712",
+        "stateId": 6930712,
         "latitude": 12.26667,
         "longitude": -0.76667
     },
     {
-        "cityId": "2597262",
+        "cityId": 2597262,
         "name": "Province du Kourw\u00e9ogo",
-        "stateId": "6930712",
+        "stateId": 6930712,
         "latitude": 12.58333,
         "longitude": -1.76667
     }

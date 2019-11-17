@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "887723",
+        "cityId": 887723,
         "name": "Makonde District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -17.16667,
         "longitude": 30.08333
     },
     {
-        "cityId": "889214",
+        "cityId": 889214,
         "name": "Kariba District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -16.91011,
         "longitude": 28.65983
     },
     {
-        "cityId": "889452",
+        "cityId": 889452,
         "name": "Kadoma District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -18.34049,
         "longitude": 29.82831
     },
     {
-        "cityId": "889953",
+        "cityId": 889953,
         "name": "Hurungwe District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -16.41301,
         "longitude": 29.5858
     },
     {
-        "cityId": "894238",
+        "cityId": 894238,
         "name": "Chegutu District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -18.13097,
         "longitude": 30.40046
     },
     {
-        "cityId": "10800410",
+        "cityId": 10800410,
         "name": "Zvimba District",
-        "stateId": "886841",
+        "stateId": 886841,
         "latitude": -17.53984,
         "longitude": 30.47496
     }

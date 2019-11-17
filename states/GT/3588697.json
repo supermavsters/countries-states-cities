@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "3588695",
+        "cityId": 3588695,
         "name": "Municipio de Solol\u00e1",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.76667,
         "longitude": -91.18333
     },
     {
-        "cityId": "3589104",
+        "cityId": 3589104,
         "name": "Municipio de Santiago Atitl\u00e1n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.60308,
         "longitude": -91.22768
     },
     {
-        "cityId": "3589246",
+        "cityId": 3589246,
         "name": "Municipio de Santa Mar\u00eda Visitaci\u00f3n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.71667,
         "longitude": -91.31667
     },
     {
-        "cityId": "3589281",
+        "cityId": 3589281,
         "name": "Municipio de Santa Luc\u00eda Utatl\u00e1n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.76667,
         "longitude": -91.26667
     },
     {
-        "cityId": "3589401",
+        "cityId": 3589401,
         "name": "Municipio de Santa Cruz La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.75,
         "longitude": -91.21667
     },
     {
-        "cityId": "3589432",
+        "cityId": 3589432,
         "name": "Municipio de Santa Clara La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.71667,
         "longitude": -91.3
     },
     {
-        "cityId": "3589453",
+        "cityId": 3589453,
         "name": "Municipio de Santa Catarina Palop\u00f3",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.71794,
         "longitude": -91.1306
     },
     {
-        "cityId": "3589457",
+        "cityId": 3589457,
         "name": "Municipio de Santa Catarina Ixtahuac\u00e1n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.8,
         "longitude": -91.36667
     },
     {
-        "cityId": "3589636",
+        "cityId": 3589636,
         "name": "Municipio de San Pedro La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.68333,
         "longitude": -91.26667
     },
     {
-        "cityId": "3589668",
+        "cityId": 3589668,
         "name": "Municipio de San Pablo La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.72891,
         "longitude": -91.28066
     },
     {
-        "cityId": "3589794",
+        "cityId": 3589794,
         "name": "Municipio de San Marcos La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.73509,
         "longitude": -91.25984
     },
     {
-        "cityId": "3589849",
+        "cityId": 3589849,
         "name": "Municipio de San Lucas Tolim\u00e1n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.59471,
         "longitude": -91.14659
     },
     {
-        "cityId": "3589895",
+        "cityId": 3589895,
         "name": "Municipio de San Juan La Laguna",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.66666,
         "longitude": -91.31468
     },
     {
-        "cityId": "3590040",
+        "cityId": 3590040,
         "name": "Municipio de San Jos\u00e9 Chacay\u00e1",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.76667,
         "longitude": -91.21667
     },
     {
-        "cityId": "3590423",
+        "cityId": 3590423,
         "name": "Municipio de San Antonio Palop\u00f3",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.7,
         "longitude": -91.11667
     },
     {
-        "cityId": "3590523",
+        "cityId": 3590523,
         "name": "Municipio de San Andr\u00e9s Semetabaj",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.75,
         "longitude": -91.13333
     },
     {
-        "cityId": "3591748",
+        "cityId": 3591748,
         "name": "Municipio de Panajachel",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.73333,
         "longitude": -91.15
     },
     {
-        "cityId": "3592285",
+        "cityId": 3592285,
         "name": "Municipio de Nahual\u00e1",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.85,
         "longitude": -91.31667
     },
     {
-        "cityId": "3598002",
+        "cityId": 3598002,
         "name": "Municipio de Concepci\u00f3n",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.78333,
         "longitude": -91.15
     },
     {
-        "cityId": "9253744",
+        "cityId": 9253744,
         "name": "Lago de Atitlan",
-        "stateId": "3588697",
+        "stateId": 3588697,
         "latitude": 14.69373,
         "longitude": -91.19516
     }

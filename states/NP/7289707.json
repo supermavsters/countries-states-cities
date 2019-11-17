@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1283000",
+        "cityId": 1283000,
         "name": "N\u0101r\u0101yan\u012b Zone",
-        "stateId": "7289707",
+        "stateId": 7289707,
         "latitude": 27.36667,
         "longitude": 84.91667
     },
     {
-        "cityId": "1283316",
+        "cityId": 1283316,
         "name": "Janakpur Zone",
-        "stateId": "7289707",
+        "stateId": 7289707,
         "latitude": 27.33333,
         "longitude": 86
     },
     {
-        "cityId": "1283710",
+        "cityId": 1283710,
         "name": "B\u0101gmat\u012b Zone",
-        "stateId": "7289707",
+        "stateId": 7289707,
         "latitude": 27.91667,
         "longitude": 85.41667
     }

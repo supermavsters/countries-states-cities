@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1944042",
+        "cityId": 1944042,
         "name": "Fatululik",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.19083,
         "longitude": 125.13194
     },
     {
-        "cityId": "8617824",
+        "cityId": 8617824,
         "name": "Zumalai",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.1575,
         "longitude": 125.45056
     },
     {
-        "cityId": "8628955",
+        "cityId": 8628955,
         "name": "Suai",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.3,
         "longitude": 125.25
     },
     {
-        "cityId": "8628962",
+        "cityId": 8628962,
         "name": "Fatumean",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.22917,
         "longitude": 125.03583
     },
     {
-        "cityId": "8629258",
+        "cityId": 8629258,
         "name": "Maucatar",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.21772,
         "longitude": 125.22981
     },
     {
-        "cityId": "8629259",
+        "cityId": 8629259,
         "name": "Tilomar",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.34182,
         "longitude": 125.10887
     },
     {
-        "cityId": "8630092",
+        "cityId": 8630092,
         "name": "Fohorem",
-        "stateId": "1639462",
+        "stateId": 1639462,
         "latitude": -9.28361,
         "longitude": 125.08944
     }

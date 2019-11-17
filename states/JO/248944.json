@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "8621599",
+        "cityId": 8621599,
         "name": "Liwa\u2019 Ban\u012b Kin\u0101nah",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.67787,
         "longitude": 35.78872
     },
     {
-        "cityId": "8621601",
+        "cityId": 8621601,
         "name": "Liw\u0101\u2019 ar Ramth\u0101",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.58498,
         "longitude": 35.99482
     },
     {
-        "cityId": "8621602",
+        "cityId": 8621602,
         "name": "Liw\u0101\u2019 Qa\u015fabat Irbid",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.5707,
         "longitude": 35.84824
     },
     {
-        "cityId": "8621603",
+        "cityId": 8621603,
         "name": "Liw\u0101\u2019 al K\u016brah",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.46625,
         "longitude": 35.68763
     },
     {
-        "cityId": "8621604",
+        "cityId": 8621604,
         "name": "Liw\u0101\u2019 al Aghw\u0101r ash Sham\u0101l\u012byah",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.47091,
         "longitude": 35.59546
     },
     {
-        "cityId": "8621605",
+        "cityId": 8621605,
         "name": "Liw\u0101\u2019 Ban\u012b \u2018Ubayd",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.45387,
         "longitude": 35.91733
     },
     {
-        "cityId": "8621606",
+        "cityId": 8621606,
         "name": "Liw\u0101\u2019 al Maz\u0101r ash Sham\u0101l\u012b",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.45804,
         "longitude": 35.79699
     },
     {
-        "cityId": "8621607",
+        "cityId": 8621607,
         "name": "Liw\u0101\u2019 a\u0163 \u0162ayyibah",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.55376,
         "longitude": 35.69296
     },
     {
-        "cityId": "8621630",
+        "cityId": 8621630,
         "name": "Liw\u0101\u2019 al Wasa\u0163\u012byah",
-        "stateId": "248944",
+        "stateId": 248944,
         "latitude": 32.58805,
         "longitude": 35.70469
     }

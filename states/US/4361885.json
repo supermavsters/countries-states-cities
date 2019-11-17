@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "4347094",
+        "cityId": 4347094,
         "name": "Allegany County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.62148,
         "longitude": -78.6989
     },
     {
-        "cityId": "4347283",
+        "cityId": 4347283,
         "name": "Anne Arundel County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.99416,
         "longitude": -76.5676
     },
     {
-        "cityId": "4347790",
+        "cityId": 4347790,
         "name": "Baltimore County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.44307,
         "longitude": -76.61632
     },
     {
-        "cityId": "4347820",
+        "cityId": 4347820,
         "name": "City of Baltimore",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.29038,
         "longitude": -76.61219
     },
     {
-        "cityId": "4350123",
+        "cityId": 4350123,
         "name": "Calvert County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.53471,
         "longitude": -76.53056
     },
     {
-        "cityId": "4350425",
+        "cityId": 4350425,
         "name": "Caroline County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.87173,
         "longitude": -75.8316
     },
     {
-        "cityId": "4350461",
+        "cityId": 4350461,
         "name": "Carroll County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.56286,
         "longitude": -77.02252
     },
     {
-        "cityId": "4350685",
+        "cityId": 4350685,
         "name": "Cecil County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.56242,
         "longitude": -75.94811
     },
     {
-        "cityId": "4351021",
+        "cityId": 4351021,
         "name": "Charles County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.47368,
         "longitude": -77.01348
     },
     {
-        "cityId": "4353543",
+        "cityId": 4353543,
         "name": "Dorchester County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.42261,
         "longitude": -76.08332
     },
     {
-        "cityId": "4355594",
+        "cityId": 4355594,
         "name": "Frederick County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.47222,
         "longitude": -77.39799
     },
     {
-        "cityId": "4355939",
+        "cityId": 4355939,
         "name": "Garrett County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.5286,
         "longitude": -79.27388
     },
     {
-        "cityId": "4357407",
+        "cityId": 4357407,
         "name": "Harford County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.53644,
         "longitude": -76.29887
     },
     {
-        "cityId": "4358598",
+        "cityId": 4358598,
         "name": "Howard County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.25072,
         "longitude": -76.93119
     },
     {
-        "cityId": "4359780",
+        "cityId": 4359780,
         "name": "Kent County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.2356,
         "longitude": -76.09582
     },
     {
-        "cityId": "4362716",
+        "cityId": 4362716,
         "name": "Montgomery County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.13638,
         "longitude": -77.20424
     },
     {
-        "cityId": "4366164",
+        "cityId": 4366164,
         "name": "Prince George's County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.82952,
         "longitude": -76.84729
     },
     {
-        "cityId": "4366351",
+        "cityId": 4366351,
         "name": "Queen Anne's County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.03763,
         "longitude": -76.08504
     },
     {
-        "cityId": "4368320",
+        "cityId": 4368320,
         "name": "Saint Mary's County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.21586,
         "longitude": -76.52906
     },
     {
-        "cityId": "4369894",
+        "cityId": 4369894,
         "name": "Somerset County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.08007,
         "longitude": -75.85347
     },
     {
-        "cityId": "4370904",
+        "cityId": 4370904,
         "name": "Talbot County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.7491,
         "longitude": -76.17862
     },
     {
-        "cityId": "4372777",
+        "cityId": 4372777,
         "name": "Washington County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 39.60367,
         "longitude": -77.81398
     },
     {
-        "cityId": "4373554",
+        "cityId": 4373554,
         "name": "Wicomico County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.36942,
         "longitude": -75.63151
     },
     {
-        "cityId": "4374180",
+        "cityId": 4374180,
         "name": "Worcester County",
-        "stateId": "4361885",
+        "stateId": 4361885,
         "latitude": 38.2165,
         "longitude": -75.29667
     }

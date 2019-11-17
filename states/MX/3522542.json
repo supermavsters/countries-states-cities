@@ -1,358 +1,358 @@
 [
     {
-        "cityId": "8581713",
+        "cityId": 8581713,
         "name": "Melchor Ocampo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.05546,
         "longitude": -99.52153
     },
     {
-        "cityId": "8582290",
+        "cityId": 8582290,
         "name": "Higueras",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.9885,
         "longitude": -100.00301
     },
     {
-        "cityId": "8582422",
+        "cityId": 8582422,
         "name": "Abasolo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.94782,
         "longitude": -100.40521
     },
     {
-        "cityId": "8582423",
+        "cityId": 8582423,
         "name": "Agualeguas",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.30559,
         "longitude": -99.64489
     },
     {
-        "cityId": "8582424",
+        "cityId": 8582424,
         "name": "Los Aldamas",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.11408,
         "longitude": -99.24107
     },
     {
-        "cityId": "8582425",
+        "cityId": 8582425,
         "name": "Allende",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.30539,
         "longitude": -100.00649
     },
     {
-        "cityId": "8582426",
+        "cityId": 8582426,
         "name": "An\u00e1huac",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 27.29545,
         "longitude": -100.12292
     },
     {
-        "cityId": "8582427",
+        "cityId": 8582427,
         "name": "Apodaca",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.79002,
         "longitude": -100.18639
     },
     {
-        "cityId": "8582428",
+        "cityId": 8582428,
         "name": "Aramberri",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 24.22304,
         "longitude": -99.82752
     },
     {
-        "cityId": "8582429",
+        "cityId": 8582429,
         "name": "Bustamante",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.55567,
         "longitude": -100.50603
     },
     {
-        "cityId": "8582430",
+        "cityId": 8582430,
         "name": "Cadereyta Jim\u00e9nez",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.48866,
         "longitude": -99.96078
     },
     {
-        "cityId": "8582431",
+        "cityId": 8582431,
         "name": "El Carmen",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.8913,
         "longitude": -100.35101
     },
     {
-        "cityId": "8582432",
+        "cityId": 8582432,
         "name": "Cerralvo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.09766,
         "longitude": -99.6534
     },
     {
-        "cityId": "8582433",
+        "cityId": 8582433,
         "name": "Ci\u00e9nega de Flores",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.96341,
         "longitude": -100.17319
     },
     {
-        "cityId": "8582434",
+        "cityId": 8582434,
         "name": "China",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.51224,
         "longitude": -99.00457
     },
     {
-        "cityId": "8582435",
+        "cityId": 8582435,
         "name": "Doctor Arroyo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 23.79735,
         "longitude": -100.28746
     },
     {
-        "cityId": "8582436",
+        "cityId": 8582436,
         "name": "Doctor Coss",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.96633,
         "longitude": -99.04869
     },
     {
-        "cityId": "8582437",
+        "cityId": 8582437,
         "name": "Doctor Gonz\u00e1lez",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.84081,
         "longitude": -99.83125
     },
     {
-        "cityId": "8582438",
+        "cityId": 8582438,
         "name": "Galeana",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 24.8504,
         "longitude": -100.3695
     },
     {
-        "cityId": "8582439",
+        "cityId": 8582439,
         "name": "Garc\u00eda",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.80693,
         "longitude": -100.61982
     },
     {
-        "cityId": "8582440",
+        "cityId": 8582440,
         "name": "San Pedro Garza Garc\u00eda",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.63105,
         "longitude": -100.38448
     },
     {
-        "cityId": "8582441",
+        "cityId": 8582441,
         "name": "General Bravo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.8077,
         "longitude": -98.89722
     },
     {
-        "cityId": "8582442",
+        "cityId": 8582442,
         "name": "General Escobedo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.82493,
         "longitude": -100.35796
     },
     {
-        "cityId": "8582443",
+        "cityId": 8582443,
         "name": "General Ter\u00e1n",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.27271,
         "longitude": -99.48436
     },
     {
-        "cityId": "8582444",
+        "cityId": 8582444,
         "name": "General Trevi\u00f1o",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.20425,
         "longitude": -99.46229
     },
     {
-        "cityId": "8582445",
+        "cityId": 8582445,
         "name": "General Zaragoza",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 23.93525,
         "longitude": -99.72236
     },
     {
-        "cityId": "8582446",
+        "cityId": 8582446,
         "name": "General Zuazua",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.88958,
         "longitude": -100.1365
     },
     {
-        "cityId": "8582447",
+        "cityId": 8582447,
         "name": "Guadalupe",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.68466,
         "longitude": -100.16095
     },
     {
-        "cityId": "8582448",
+        "cityId": 8582448,
         "name": "Los Herreras",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.91014,
         "longitude": -99.42046
     },
     {
-        "cityId": "8582449",
+        "cityId": 8582449,
         "name": "Hualahuises",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 24.88316,
         "longitude": -99.66981
     },
     {
-        "cityId": "8582450",
+        "cityId": 8582450,
         "name": "Iturbide",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 24.63158,
         "longitude": -99.8535
     },
     {
-        "cityId": "8582451",
+        "cityId": 8582451,
         "name": "Ju\u00e1rez",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.60368,
         "longitude": -100.11647
     },
     {
-        "cityId": "8582452",
+        "cityId": 8582452,
         "name": "Lampazos de Naranjo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 27.01824,
         "longitude": -100.40405
     },
     {
-        "cityId": "8582453",
+        "cityId": 8582453,
         "name": "Linares",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 24.86323,
         "longitude": -99.56411
     },
     {
-        "cityId": "8582454",
+        "cityId": 8582454,
         "name": "Mar\u00edn",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.86051,
         "longitude": -100.01387
     },
     {
-        "cityId": "8582456",
+        "cityId": 8582456,
         "name": "Mier y Noriega",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 23.42671,
         "longitude": -100.17282
     },
     {
-        "cityId": "8582457",
+        "cityId": 8582457,
         "name": "Mina",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.21706,
         "longitude": -100.76482
     },
     {
-        "cityId": "8582458",
+        "cityId": 8582458,
         "name": "Montemorelos",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.16697,
         "longitude": -99.8443
     },
     {
-        "cityId": "8582459",
+        "cityId": 8582459,
         "name": "Monterrey",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.57681,
         "longitude": -100.28394
     },
     {
-        "cityId": "8582460",
+        "cityId": 8582460,
         "name": "Par\u00e1s",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.52531,
         "longitude": -99.58213
     },
     {
-        "cityId": "8582461",
+        "cityId": 8582461,
         "name": "Pesquer\u00eda",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.75286,
         "longitude": -100.02212
     },
     {
-        "cityId": "8582462",
+        "cityId": 8582462,
         "name": "Los Ramones",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.6566,
         "longitude": -99.6024
     },
     {
-        "cityId": "8582463",
+        "cityId": 8582463,
         "name": "Rayones",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.09493,
         "longitude": -100.12951
     },
     {
-        "cityId": "8582464",
+        "cityId": 8582464,
         "name": "Sabinas Hidalgo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.50192,
         "longitude": -100.11268
     },
     {
-        "cityId": "8582465",
+        "cityId": 8582465,
         "name": "Salinas Victoria",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.06895,
         "longitude": -100.27742
     },
     {
-        "cityId": "8582466",
+        "cityId": 8582466,
         "name": "San Nicol\u00e1s de los Garza",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.74167,
         "longitude": -100.30222
     },
     {
-        "cityId": "8582467",
+        "cityId": 8582467,
         "name": "Hidalgo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.98581,
         "longitude": -100.45219
     },
     {
-        "cityId": "8582468",
+        "cityId": 8582468,
         "name": "Santa Catarina",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.60077,
         "longitude": -100.48196
     },
     {
-        "cityId": "8582469",
+        "cityId": 8582469,
         "name": "Santiago",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 25.41159,
         "longitude": -100.18593
     },
     {
-        "cityId": "8582470",
+        "cityId": 8582470,
         "name": "Vallecillo",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.55927,
         "longitude": -99.88109
     },
     {
-        "cityId": "8582471",
+        "cityId": 8582471,
         "name": "Villaldama",
-        "stateId": "3522542",
+        "stateId": 3522542,
         "latitude": 26.47039,
         "longitude": -100.38726
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "10778875",
+        "cityId": 10778875,
         "name": "D\u00e9partement de Sal\u00e9mata",
-        "stateId": "7303936",
+        "stateId": 7303936,
         "latitude": 12.59971,
         "longitude": -12.77619
     },
     {
-        "cityId": "10779431",
+        "cityId": 10779431,
         "name": "D\u00e9partement de K\u00e9dougou",
-        "stateId": "7303936",
+        "stateId": 7303936,
         "latitude": 12.83263,
         "longitude": -12.45505
     },
     {
-        "cityId": "10779432",
+        "cityId": 10779432,
         "name": "Saraya",
-        "stateId": "7303936",
+        "stateId": 7303936,
         "latitude": 13.0015,
         "longitude": -11.79627
     }

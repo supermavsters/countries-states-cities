@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3573709",
+        "cityId": 3573709,
         "name": "Ward of Savana Grande",
-        "stateId": "7521942",
+        "stateId": 7521942,
         "latitude": 10.3,
         "longitude": -61.36667
     },
     {
-        "cityId": "3574008",
+        "cityId": 3574008,
         "name": "Ward of Ortoire",
-        "stateId": "7521942",
+        "stateId": 7521942,
         "latitude": 10.26667,
         "longitude": -61.31667
     },
     {
-        "cityId": "3574086",
+        "cityId": 3574086,
         "name": "Ward of Moruga",
-        "stateId": "7521942",
+        "stateId": 7521942,
         "latitude": 10.11173,
         "longitude": -61.28585
     }

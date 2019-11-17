@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7871247",
+        "cityId": 7871247,
         "name": "Bwari",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 9.218,
         "longitude": 7.408
     },
     {
-        "cityId": "8634962",
+        "cityId": 8634962,
         "name": "Gwagwalada",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 9.07639,
         "longitude": 6.9854
     },
     {
-        "cityId": "8634966",
+        "cityId": 8634966,
         "name": "Abaji",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 8.89212,
         "longitude": 6.81816
     },
     {
-        "cityId": "8634970",
+        "cityId": 8634970,
         "name": "Kwali",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 8.73555,
         "longitude": 6.96777
     },
     {
-        "cityId": "8634971",
+        "cityId": 8634971,
         "name": "Kuje",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 8.65901,
         "longitude": 7.27046
     },
     {
-        "cityId": "8635054",
+        "cityId": 8635054,
         "name": "Municipal Area Council",
-        "stateId": "2352776",
+        "stateId": 2352776,
         "latitude": 8.99997,
         "longitude": 7.37831
     }

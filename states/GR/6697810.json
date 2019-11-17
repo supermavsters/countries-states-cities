@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "261797",
+        "cityId": 261797,
         "name": "Nom\u00f3s Ile\u00edas",
-        "stateId": "6697810",
+        "stateId": 6697810,
         "latitude": 37.75,
         "longitude": 21.58333
     },
     {
-        "cityId": "265491",
+        "cityId": 265491,
         "name": "Nom\u00f3s Acha\u1e2fas",
-        "stateId": "6697810",
+        "stateId": 6697810,
         "latitude": 38,
         "longitude": 22
     },
     {
-        "cityId": "265508",
+        "cityId": 265508,
         "name": "Nom\u00f3s Aitol\u00edas kai Akarnan\u00edas",
-        "stateId": "6697810",
+        "stateId": 6697810,
         "latitude": 38.5,
         "longitude": 21.5
     }

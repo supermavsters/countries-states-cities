@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "7871293",
+        "cityId": 7871293,
         "name": "Ifelodun",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.55971,
         "longitude": 5.01072
     },
     {
-        "cityId": "7873899",
+        "cityId": 7873899,
         "name": "Oyun",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.16827,
         "longitude": 4.65212
     },
     {
-        "cityId": "7873900",
+        "cityId": 7873900,
         "name": "Ilorin West",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.48752,
         "longitude": 4.5235
     },
     {
-        "cityId": "7873912",
+        "cityId": 7873912,
         "name": "Kaiama",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 9.45342,
         "longitude": 4.15994
     },
     {
-        "cityId": "7910330",
+        "cityId": 7910330,
         "name": "Asa",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.43005,
         "longitude": 4.426
     },
     {
-        "cityId": "7910331",
+        "cityId": 7910331,
         "name": "Baruten",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 9.26039,
         "longitude": 3.31607
     },
     {
-        "cityId": "7910332",
+        "cityId": 7910332,
         "name": "Pategi",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.73,
         "longitude": 5.75
     },
     {
-        "cityId": "8635063",
+        "cityId": 8635063,
         "name": "Moro",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.84493,
         "longitude": 4.55671
     },
     {
-        "cityId": "8635064",
+        "cityId": 8635064,
         "name": "Ilorin East",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.5712,
         "longitude": 4.72827
     },
     {
-        "cityId": "8635162",
+        "cityId": 8635162,
         "name": "Ilorin South",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.44156,
         "longitude": 4.68018
     },
     {
-        "cityId": "8635163",
+        "cityId": 8635163,
         "name": "Offa",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.14279,
         "longitude": 4.68796
     },
     {
-        "cityId": "8635164",
+        "cityId": 8635164,
         "name": "Irepodun",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.14654,
         "longitude": 4.91294
     },
     {
-        "cityId": "8635165",
+        "cityId": 8635165,
         "name": "Isin",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.26747,
         "longitude": 5.05356
     },
     {
-        "cityId": "8635166",
+        "cityId": 8635166,
         "name": "Oke Ero",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.16997,
         "longitude": 5.23449
     },
     {
-        "cityId": "8635167",
+        "cityId": 8635167,
         "name": "Ekiti",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.11799,
         "longitude": 5.32035
     },
     {
-        "cityId": "8635168",
+        "cityId": 8635168,
         "name": "Edu",
-        "stateId": "2332785",
+        "stateId": 2332785,
         "latitude": 8.89181,
         "longitude": 5.21012
     }

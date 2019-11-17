@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "1485714",
+        "cityId": 1485714,
         "name": "Yurginskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 55.75,
         "longitude": 84.75
     },
     {
-        "cityId": "1486255",
+        "cityId": 1486255,
         "name": "Yayskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 56.16667,
         "longitude": 86.41667
     },
     {
-        "cityId": "1486297",
+        "cityId": 1486297,
         "name": "Yashkinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 56,
         "longitude": 85.5
     },
     {
-        "cityId": "1488837",
+        "cityId": 1488837,
         "name": "Tyazhinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 56.25,
         "longitude": 88.5
     },
     {
-        "cityId": "1489389",
+        "cityId": 1489389,
         "name": "Topkinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 55.25,
         "longitude": 85.5
     },
     {
-        "cityId": "1489552",
+        "cityId": 1489552,
         "name": "Tisul\u2019skiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 55.25,
         "longitude": 88
     },
     {
-        "cityId": "1490041",
+        "cityId": 1490041,
         "name": "Tashtagol\u2019skiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 52.78333,
         "longitude": 87.88333
     },
     {
-        "cityId": "1494089",
+        "cityId": 1494089,
         "name": "Promyshlennovskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54.91667,
         "longitude": 85.5
     },
     {
-        "cityId": "1494112",
+        "cityId": 1494112,
         "name": "Prokop\u2019yevskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54,
         "longitude": 86.66667
     },
     {
-        "cityId": "1496989",
+        "cityId": 1496989,
         "name": "Novokuznetskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 53.75,
         "longitude": 87.08333
     },
     {
-        "cityId": "1499346",
+        "cityId": 1499346,
         "name": "Mariinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 56.33333,
         "longitude": 87.58333
     },
     {
-        "cityId": "1500664",
+        "cityId": 1500664,
         "name": "Leninsk-Kuznetskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54.66667,
         "longitude": 86
     },
     {
-        "cityId": "1502191",
+        "cityId": 1502191,
         "name": "Krapivinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54.75,
         "longitude": 87.25
     },
     {
-        "cityId": "1503899",
+        "cityId": 1503899,
         "name": "Kemerovskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 55.5,
         "longitude": 86.33333
     },
     {
-        "cityId": "1505227",
+        "cityId": 1505227,
         "name": "Izhmorskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 56.16667,
         "longitude": 86.83333
     },
     {
-        "cityId": "1508338",
+        "cityId": 1508338,
         "name": "Chebulinskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 55.75,
         "longitude": 87.5
     },
     {
-        "cityId": "1510461",
+        "cityId": 1510461,
         "name": "Belovskiy Rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54.41667,
         "longitude": 86.75
     },
     {
-        "cityId": "11237590",
+        "cityId": 11237590,
         "name": "Guryevskiy rayon",
-        "stateId": "1503900",
+        "stateId": 1503900,
         "latitude": 54.26041,
         "longitude": 85.96939
     }

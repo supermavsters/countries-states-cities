@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "6693260",
+        "cityId": 6693260,
         "name": "Dippach",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.58833,
         "longitude": 5.98333
     },
     {
-        "cityId": "6693261",
+        "cityId": 6693261,
         "name": "Garnich",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.61667,
         "longitude": 5.9525
     },
     {
-        "cityId": "6693262",
+        "cityId": 6693262,
         "name": "Hobscheid",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.68861,
         "longitude": 5.91472
     },
     {
-        "cityId": "6693263",
+        "cityId": 6693263,
         "name": "Kehlen",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.66833,
         "longitude": 6.03583
     },
     {
-        "cityId": "6693264",
+        "cityId": 6693264,
         "name": "Koerich",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.67,
         "longitude": 5.95
     },
     {
-        "cityId": "6693265",
+        "cityId": 6693265,
         "name": "Kopstal",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.66444,
         "longitude": 6.07306
     },
     {
-        "cityId": "6693266",
+        "cityId": 6693266,
         "name": "Mamer",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.6275,
         "longitude": 6.02333
     },
     {
-        "cityId": "6693267",
+        "cityId": 6693267,
         "name": "Septfontaines",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.70111,
         "longitude": 5.96722
     },
     {
-        "cityId": "6693268",
+        "cityId": 6693268,
         "name": "Steinfort",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.66139,
         "longitude": 5.91917
     },
     {
-        "cityId": "8641865",
+        "cityId": 8641865,
         "name": "K\u00e4erjeng",
-        "stateId": "2960696",
+        "stateId": 2960696,
         "latitude": 49.58311,
         "longitude": 5.89892
     }

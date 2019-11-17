@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1606342",
+        "cityId": 1606342,
         "name": "Amphoe Seka",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 17.98734,
         "longitude": 103.89616
     },
     {
-        "cityId": "1611474",
+        "cityId": 1611474,
         "name": "Amphoe Mueang Bueng Kan",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.2995,
         "longitude": 103.64016
     },
     {
-        "cityId": "7510800",
+        "cityId": 7510800,
         "name": "Amphoe Pak Khat",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.27738,
         "longitude": 103.3414
     },
     {
-        "cityId": "7510801",
+        "cityId": 7510801,
         "name": "Amphoe So Phisai",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.14176,
         "longitude": 103.44923
     },
     {
-        "cityId": "7510821",
+        "cityId": 7510821,
         "name": "Amphoe Bung Khla",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.24726,
         "longitude": 103.99427
     },
     {
-        "cityId": "7510822",
+        "cityId": 7510822,
         "name": "Amphoe Si Wilai",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.15528,
         "longitude": 103.77975
     },
     {
-        "cityId": "7510845",
+        "cityId": 7510845,
         "name": "Amphoe Bueng Khong Long",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.00899,
         "longitude": 104.07302
     },
     {
-        "cityId": "8181808",
+        "cityId": 8181808,
         "name": "Amphoe Phon Charoen",
-        "stateId": "8133594",
+        "stateId": 8133594,
         "latitude": 18.07967,
         "longitude": 103.65453
     }

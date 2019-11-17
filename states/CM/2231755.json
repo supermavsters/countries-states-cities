@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2228217",
+        "cityId": 2228217,
         "name": "D\u00e9partement du Mayo Dana\u00ef",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 10.5,
         "longitude": 15
     },
     {
-        "cityId": "2228394",
+        "cityId": 2228394,
         "name": "D\u00e9partement du Margui-Wandala",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 10.75,
         "longitude": 13.83333
     },
     {
-        "cityId": "2229291",
+        "cityId": 2229291,
         "name": "D\u00e9partement du Logone-et-Chari",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 12.08333,
         "longitude": 14.83333
     },
     {
-        "cityId": "2233122",
+        "cityId": 2233122,
         "name": "D\u00e9partement du Diamar\u00e9",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 10.5,
         "longitude": 14.5
     },
     {
-        "cityId": "7932539",
+        "cityId": 7932539,
         "name": "Departement du Mayo-Kani",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 10.22427,
         "longitude": 14.51862
     },
     {
-        "cityId": "9224949",
+        "cityId": 9224949,
         "name": "Mayo-Sava",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 11.10682,
         "longitude": 14.2056
     },
     {
-        "cityId": "9224951",
+        "cityId": 9224951,
         "name": "Mayo-Tsanaga",
-        "stateId": "2231755",
+        "stateId": 2231755,
         "latitude": 10.58221,
         "longitude": 13.79351
     }

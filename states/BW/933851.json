@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7670706",
+        "cityId": 7670706,
         "name": "Mahalapye",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -23.21687,
         "longitude": 26.32535
     },
     {
-        "cityId": "7670708",
+        "cityId": 7670708,
         "name": "Machaneng",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -23.13619,
         "longitude": 27.1433
     },
     {
-        "cityId": "7670709",
+        "cityId": 7670709,
         "name": "Serowe",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -22.00053,
         "longitude": 26.55478
     },
     {
-        "cityId": "7670710",
+        "cityId": 7670710,
         "name": "Palapye",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -22.51957,
         "longitude": 27.47254
     },
     {
-        "cityId": "11819282",
+        "cityId": 11819282,
         "name": "Tutume",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -20.2182,
         "longitude": 25.93982
     },
     {
-        "cityId": "11819291",
+        "cityId": 11819291,
         "name": "Bobonong",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -21.98275,
         "longitude": 28.1297
     },
     {
-        "cityId": "11819294",
+        "cityId": 11819294,
         "name": "Tuli",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -22.78323,
         "longitude": 28.11201
     },
     {
-        "cityId": "11819295",
+        "cityId": 11819295,
         "name": "Lethlakane",
-        "stateId": "933851",
+        "stateId": 933851,
         "latitude": -21.31603,
         "longitude": 24.95201
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1607507",
+        "cityId": 1607507,
         "name": "Amphoe Phra Pradaeng",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.65246,
         "longitude": 100.55271
     },
     {
-        "cityId": "1608623",
+        "cityId": 1608623,
         "name": "Amphoe Mueang Samut Prakan",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.56855,
         "longitude": 100.65148
     },
     {
-        "cityId": "1619346",
+        "cityId": 1619346,
         "name": "Amphoe Bang Phli",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.61972,
         "longitude": 100.72582
     },
     {
-        "cityId": "1619610",
+        "cityId": 1619610,
         "name": "Amphoe Bang Bo",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.5896,
         "longitude": 100.86711
     },
     {
-        "cityId": "6907984",
+        "cityId": 6907984,
         "name": "Amphoe Phra Samut Chedi",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.55622,
         "longitude": 100.51485
     },
     {
-        "cityId": "7099857",
+        "cityId": 7099857,
         "name": "Amphoe Bang Sao Thong",
-        "stateId": "1606589",
+        "stateId": 1606589,
         "latitude": 13.63286,
         "longitude": 100.81038
     }

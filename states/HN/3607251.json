@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "3600234",
+        "cityId": 3600234,
         "name": "Yarula",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.1,
         "longitude": -88.08
     },
     {
-        "cityId": "3601463",
+        "cityId": 3601463,
         "name": "Santiago Puringla",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.32,
         "longitude": -87.86
     },
     {
-        "cityId": "3601557",
+        "cityId": 3601557,
         "name": "Santa Mar\u00eda",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.3,
         "longitude": -87.91667
     },
     {
-        "cityId": "3601624",
+        "cityId": 3601624,
         "name": "Santa Elena",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.01667,
         "longitude": -88.06667
     },
     {
-        "cityId": "3601724",
+        "cityId": 3601724,
         "name": "Santa Ana",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.06667,
         "longitude": -87.93333
     },
     {
-        "cityId": "3601785",
+        "cityId": 3601785,
         "name": "San Pedro de Tutule",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.25,
         "longitude": -87.75
     },
     {
-        "cityId": "3602063",
+        "cityId": 3602063,
         "name": "San Juan",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 13.96667,
         "longitude": -87.7
     },
     {
-        "cityId": "3602160",
+        "cityId": 3602160,
         "name": "San Jos\u00e9",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.26667,
         "longitude": -87.95
     },
     {
-        "cityId": "3602429",
+        "cityId": 3602429,
         "name": "San Antonio del Norte",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 13.88,
         "longitude": -87.72
     },
     {
-        "cityId": "3604214",
+        "cityId": 3604214,
         "name": "Opatoro",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.08333,
         "longitude": -87.86667
     },
     {
-        "cityId": "3604853",
+        "cityId": 3604853,
         "name": "Mercedes de Oriente",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 13.9,
         "longitude": -87.78333
     },
     {
-        "cityId": "3605006",
+        "cityId": 3605006,
         "name": "Marcala",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.15,
         "longitude": -88.03333
     },
     {
-        "cityId": "3606156",
+        "cityId": 3606156,
         "name": "Lauterique",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 13.85,
         "longitude": -87.65
     },
     {
-        "cityId": "3607256",
+        "cityId": 3607256,
         "name": "La Paz",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.33333,
         "longitude": -87.68333
     },
     {
-        "cityId": "3609396",
+        "cityId": 3609396,
         "name": "Guajiquiro",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.1,
         "longitude": -87.83333
     },
     {
-        "cityId": "3613613",
+        "cityId": 3613613,
         "name": "Chinacla",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.15,
         "longitude": -88
     },
     {
-        "cityId": "3614219",
+        "cityId": 3614219,
         "name": "Cane",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14.3,
         "longitude": -87.65
     },
     {
-        "cityId": "3614540",
+        "cityId": 3614540,
         "name": "Caba\u00f1as",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 14,
         "longitude": -88
     },
     {
-        "cityId": "3615353",
+        "cityId": 3615353,
         "name": "Aguanqueterique",
-        "stateId": "3607251",
+        "stateId": 3607251,
         "latitude": 13.95,
         "longitude": -87.66667
     }

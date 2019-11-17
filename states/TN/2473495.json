@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2473494",
+        "cityId": 2473494,
         "name": "Monastir",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.75606,
         "longitude": 10.79343
     },
     {
-        "cityId": "11104933",
+        "cityId": 11104933,
         "name": "Ksibet El Mediouni",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.64901,
         "longitude": 10.81332
     },
     {
-        "cityId": "11104954",
+        "cityId": 11104954,
         "name": "Bekalta",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.60086,
         "longitude": 11.00856
     },
     {
-        "cityId": "11104955",
+        "cityId": 11104955,
         "name": "D\u00e9l\u00e9gation de T\u00e9boulba",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.64012,
         "longitude": 10.95151
     },
     {
-        "cityId": "11104956",
+        "cityId": 11104956,
         "name": "Sayada Lamta Bouhjar",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.66681,
         "longitude": 10.89079
     },
     {
-        "cityId": "11104963",
+        "cityId": 11104963,
         "name": "Ksar Helal",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.64116,
         "longitude": 10.862
     },
     {
-        "cityId": "11104964",
+        "cityId": 11104964,
         "name": "Sahline",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.73407,
         "longitude": 10.70968
     },
     {
-        "cityId": "11104965",
+        "cityId": 11104965,
         "name": "Ouerdanine",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.69429,
         "longitude": 10.67199
     },
     {
-        "cityId": "11104966",
+        "cityId": 11104966,
         "name": "Bembla",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.68147,
         "longitude": 10.76045
     },
     {
-        "cityId": "11104967",
+        "cityId": 11104967,
         "name": "Zeramdine",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.53412,
         "longitude": 10.60839
     },
     {
-        "cityId": "11104968",
+        "cityId": 11104968,
         "name": "Beni Hassen",
-        "stateId": "2473495",
+        "stateId": 2473495,
         "latitude": 35.51946,
         "longitude": 10.75757
     }

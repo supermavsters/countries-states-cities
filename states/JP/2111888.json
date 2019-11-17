@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "2110755",
+        "cityId": 2110755,
         "name": "Tome Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.68583,
         "longitude": 141.25745
     },
     {
-        "cityId": "2111014",
+        "cityId": 2111014,
         "name": "Shiroishi Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 37.99691,
         "longitude": 140.57944
     },
     {
-        "cityId": "2111045",
+        "cityId": 2111045,
         "name": "Shiogama Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.32651,
         "longitude": 141.03992
     },
     {
-        "cityId": "2111130",
+        "cityId": 2111130,
         "name": "Shibata-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.16265,
         "longitude": 140.65003
     },
     {
-        "cityId": "2111147",
+        "cityId": 2111147,
         "name": "Sendai Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.25,
         "longitude": 140.86667
     },
     {
-        "cityId": "2111817",
+        "cityId": 2111817,
         "name": "Motoyoshi Gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.68055,
         "longitude": 141.43839
     },
     {
-        "cityId": "2111889",
+        "cityId": 2111889,
         "name": "Miyagi Gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.364,
         "longitude": 141.0361
     },
     {
-        "cityId": "2112074",
+        "cityId": 2112074,
         "name": "Kurokawa-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.43234,
         "longitude": 140.8717
     },
     {
-        "cityId": "2112092",
+        "cityId": 2112092,
         "name": "Kurihara Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.80895,
         "longitude": 140.94034
     },
     {
-        "cityId": "2112261",
+        "cityId": 2112261,
         "name": "Kesennuma Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.91377,
         "longitude": 141.55711
     },
     {
-        "cityId": "2112306",
+        "cityId": 2112306,
         "name": "Katta-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.04997,
         "longitude": 140.47455
     },
     {
-        "cityId": "2112525",
+        "cityId": 2112525,
         "name": "Iwanuma-shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.11667,
         "longitude": 140.88333
     },
     {
-        "cityId": "2112574",
+        "cityId": 2112574,
         "name": "Ishinomaki Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.47918,
         "longitude": 141.37226
     },
     {
-        "cityId": "7446984",
+        "cityId": 7446984,
         "name": "Igu-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 37.87347,
         "longitude": 140.75522
     },
     {
-        "cityId": "7446985",
+        "cityId": 7446985,
         "name": "Kami-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.58382,
         "longitude": 140.71099
     },
     {
-        "cityId": "7446986",
+        "cityId": 7446986,
         "name": "Oshika Gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.43268,
         "longitude": 141.43204
     },
     {
-        "cityId": "7446987",
+        "cityId": 7446987,
         "name": "T\u014dda Gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.54503,
         "longitude": 141.12108
     },
     {
-        "cityId": "7446988",
+        "cityId": 7446988,
         "name": "Watari-gun",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 37.9964,
         "longitude": 140.87909
     },
     {
-        "cityId": "7446990",
+        "cityId": 7446990,
         "name": "Higashimatshushima Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.41089,
         "longitude": 141.17717
     },
     {
-        "cityId": "7446991",
+        "cityId": 7446991,
         "name": "Kakuda Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 37.98828,
         "longitude": 140.77903
     },
     {
-        "cityId": "7447001",
+        "cityId": 7447001,
         "name": "\u014csaki Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.68005,
         "longitude": 140.84669
     },
     {
-        "cityId": "8303940",
+        "cityId": 8303940,
         "name": "Natori Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.16729,
         "longitude": 140.86666
     },
     {
-        "cityId": "8303941",
+        "cityId": 8303941,
         "name": "Tagaj\u014d Shi",
-        "stateId": "2111888",
+        "stateId": 2111888,
         "latitude": 38.29535,
         "longitude": 140.9991
     }

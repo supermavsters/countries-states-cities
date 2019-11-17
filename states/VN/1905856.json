@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1905571",
+        "cityId": 1905571,
         "name": "Th\u00e0nh Ph\u1ed1 V\u0129nh Y\u00ean",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.30538,
         "longitude": 105.5947
     },
     {
-        "cityId": "1905572",
+        "cityId": 1905572,
         "name": "Huy\u1ec7n Tam \u0110\u1ea3o",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.4569,
         "longitude": 105.5946
     },
     {
-        "cityId": "1905574",
+        "cityId": 1905574,
         "name": "Huy\u1ec7n Y\u00ean L\u1ea1c",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.21845,
         "longitude": 105.57586
     },
     {
-        "cityId": "1905575",
+        "cityId": 1905575,
         "name": "Huy\u1ec7n V\u0129nh T\u01b0\u1eddng",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.24433,
         "longitude": 105.49683
     },
     {
-        "cityId": "1905576",
+        "cityId": 1905576,
         "name": "Huy\u1ec7n L\u1eadp Th\u1ea1ch",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.41878,
         "longitude": 105.48496
     },
     {
-        "cityId": "8608648",
+        "cityId": 8608648,
         "name": "Huy\u1ec7n S\u00f4ng L\u00f4",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.43918,
         "longitude": 105.40744
     },
     {
-        "cityId": "8609067",
+        "cityId": 8609067,
         "name": "Huy\u1ec7n Tam D\u01b0\u01a1ng",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.36189,
         "longitude": 105.5569
     },
     {
-        "cityId": "8609068",
+        "cityId": 8609068,
         "name": "Huy\u1ec7n B\u00ecnh Xuy\u00ean",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.30561,
         "longitude": 105.66225
     },
     {
-        "cityId": "11497337",
+        "cityId": 11497337,
         "name": "Th\u1ecb x\u00e3 Ph\u00fac Y\u00ean",
-        "stateId": "1905856",
+        "stateId": 1905856,
         "latitude": 21.23412,
         "longitude": 105.70208
     }

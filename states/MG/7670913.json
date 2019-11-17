@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "8299295",
+        "cityId": 8299295,
         "name": "Ankazoabo District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -22.18,
         "longitude": 44.701
     },
     {
-        "cityId": "8299676",
+        "cityId": 8299676,
         "name": "Toliara II District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -23.036,
         "longitude": 43.815
     },
     {
-        "cityId": "8299677",
+        "cityId": 8299677,
         "name": "Toliara I District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -23.29,
         "longitude": 43.701
     },
     {
-        "cityId": "8335352",
+        "cityId": 8335352,
         "name": "Beroroha District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -21.514,
         "longitude": 45.234
     },
     {
-        "cityId": "8693310",
+        "cityId": 8693310,
         "name": "Sakaraha District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -22.91751,
         "longitude": 44.52964
     },
     {
-        "cityId": "8693311",
+        "cityId": 8693311,
         "name": "Ampanihy District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -24.696,
         "longitude": 44.746
     },
     {
-        "cityId": "8693312",
+        "cityId": 8693312,
         "name": "Betioky District",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -23.722,
         "longitude": 44.3799
     },
     {
-        "cityId": "10229493",
+        "cityId": 10229493,
         "name": "Toliara Province",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -22.75,
         "longitude": 44.25
     },
     {
-        "cityId": "11072737",
+        "cityId": 11072737,
         "name": "Benenitra",
-        "stateId": "7670913",
+        "stateId": 7670913,
         "latitude": -23.46563,
         "longitude": 45.02016
     }

@@ -1,197 +1,197 @@
 [
     {
-        "stateId": "733192",
+        "stateId": 733192,
         "name": "Blagoevgrad",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 41.73333,
         "longitude": 23.45
     },
     {
-        "stateId": "732771",
+        "stateId": 732771,
         "name": "Burgas",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.53333,
         "longitude": 27.23333
     },
     {
-        "stateId": "864552",
+        "stateId": 864552,
         "name": "Gabrovo",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.95,
         "longitude": 25.25
     },
     {
-        "stateId": "730436",
+        "stateId": 730436,
         "name": "Haskovo",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 41.83333,
         "longitude": 25.91667
     },
     {
-        "stateId": "729560",
+        "stateId": 729560,
         "name": "Lovech",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.03333,
         "longitude": 24.56667
     },
     {
-        "stateId": "726419",
+        "stateId": 726419,
         "name": "Oblast Dobrich",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.68333,
         "longitude": 27.9
     },
     {
-        "stateId": "864553",
+        "stateId": 864553,
         "name": "Oblast Kardzhali",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 41.53333,
         "longitude": 25.43333
     },
     {
-        "stateId": "864554",
+        "stateId": 864554,
         "name": "Oblast Kyustendil",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.25,
         "longitude": 22.9
     },
     {
-        "stateId": "453753",
+        "stateId": 453753,
         "name": "Oblast Montana",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.5,
         "longitude": 23.18333
     },
     {
-        "stateId": "728204",
+        "stateId": 728204,
         "name": "Oblast Pleven",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.5,
         "longitude": 24.63333
     },
     {
-        "stateId": "453751",
+        "stateId": 453751,
         "name": "Oblast Razgrad",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.65,
         "longitude": 26.6
     },
     {
-        "stateId": "727524",
+        "stateId": 727524,
         "name": "Oblast Ruse",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.7,
         "longitude": 26
     },
     {
-        "stateId": "864555",
+        "stateId": 864555,
         "name": "Oblast Shumen",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.33333,
         "longitude": 27
     },
     {
-        "stateId": "864556",
+        "stateId": 864556,
         "name": "Oblast Silistra",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.93333,
         "longitude": 27.05
     },
     {
-        "stateId": "864557",
+        "stateId": 864557,
         "name": "Oblast Sliven",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.66667,
         "longitude": 26.28333
     },
     {
-        "stateId": "864558",
+        "stateId": 864558,
         "name": "Oblast Smolyan",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 41.61667,
         "longitude": 24.65
     },
     {
-        "stateId": "864559",
+        "stateId": 864559,
         "name": "Oblast Stara Zagora",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.45,
         "longitude": 25.56667
     },
     {
-        "stateId": "864560",
+        "stateId": 864560,
         "name": "Oblast Targovishte",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.26667,
         "longitude": 26.38333
     },
     {
-        "stateId": "864561",
+        "stateId": 864561,
         "name": "Oblast Veliko Tarnovo",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.23333,
         "longitude": 25.65
     },
     {
-        "stateId": "864562",
+        "stateId": 864562,
         "name": "Oblast Vidin",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.81667,
         "longitude": 22.71667
     },
     {
-        "stateId": "725713",
+        "stateId": 725713,
         "name": "Oblast Vratsa",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.4,
         "longitude": 23.76667
     },
     {
-        "stateId": "864563",
+        "stateId": 864563,
         "name": "Oblast Yambol",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.33333,
         "longitude": 26.63333
     },
     {
-        "stateId": "728379",
+        "stateId": 728379,
         "name": "Pazardzhik",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.08333,
         "longitude": 24.16667
     },
     {
-        "stateId": "728331",
+        "stateId": 728331,
         "name": "Pernik",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.63333,
         "longitude": 22.88333
     },
     {
-        "stateId": "728194",
+        "stateId": 728194,
         "name": "Plovdiv",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.26667,
         "longitude": 24.83333
     },
     {
-        "stateId": "727012",
+        "stateId": 727012,
         "name": "Sofia",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.66667,
         "longitude": 23.8
     },
     {
-        "stateId": "731061",
+        "stateId": 731061,
         "name": "Sofia-Grad",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 42.66667,
         "longitude": 23.38333
     },
     {
-        "stateId": "726051",
+        "stateId": 726051,
         "name": "Varna",
-        "countryId": "732800",
+        "countryId": 732800,
         "latitude": 43.21667,
         "longitude": 27.6
     }

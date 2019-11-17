@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9610670",
+        "cityId": 9610670,
         "name": "Kaustinen",
-        "stateId": "830675",
+        "stateId": 830675,
         "latitude": 63.47159,
         "longitude": 24.22953
     },
     {
-        "cityId": "9610671",
+        "cityId": 9610671,
         "name": "Kokkola",
-        "stateId": "830675",
+        "stateId": 830675,
         "latitude": 63.85414,
         "longitude": 23.58562
     }

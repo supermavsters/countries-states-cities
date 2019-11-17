@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9179649",
+        "cityId": 9179649,
         "name": "Adan Yabaal",
-        "stateId": "51967",
+        "stateId": 51967,
         "latitude": 3.5484,
         "longitude": 46.54585
     },
     {
-        "cityId": "9179651",
+        "cityId": 9179651,
         "name": "Balcad",
-        "stateId": "51967",
+        "stateId": 51967,
         "latitude": 2.48779,
         "longitude": 45.6592
     },
     {
-        "cityId": "9179654",
+        "cityId": 9179654,
         "name": "Cadale",
-        "stateId": "51967",
+        "stateId": 51967,
         "latitude": 3.09074,
         "longitude": 46.26398
     },
     {
-        "cityId": "9179658",
+        "cityId": 9179658,
         "name": "Jowhar",
-        "stateId": "51967",
+        "stateId": 51967,
         "latitude": 2.99337,
         "longitude": 45.56808
     }

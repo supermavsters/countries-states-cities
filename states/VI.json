@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "7267902",
+        "stateId": 7267902,
         "name": "Saint Croix Island",
-        "countryId": "4796775",
+        "countryId": 4796775,
         "latitude": 17.73563,
         "longitude": -64.74795
     },
     {
-        "stateId": "7267903",
+        "stateId": 7267903,
         "name": "Saint John Island",
-        "countryId": "4796775",
+        "countryId": 4796775,
         "latitude": 18.32758,
         "longitude": -64.73771
     },
     {
-        "stateId": "7267904",
+        "stateId": 7267904,
         "name": "Saint Thomas Island",
-        "countryId": "4796775",
+        "countryId": 4796775,
         "latitude": 18.34537,
         "longitude": -64.92755
     }

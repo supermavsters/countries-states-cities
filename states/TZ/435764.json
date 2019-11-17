@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "154311",
+        "cityId": 154311,
         "name": "Mbulu",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -3.95027,
         "longitude": 35.311
     },
     {
-        "cityId": "156810",
+        "cityId": 156810,
         "name": "Kiteto",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -5.24047,
         "longitude": 36.69538
     },
     {
-        "cityId": "159684",
+        "cityId": 159684,
         "name": "Hanang District",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -4.5,
         "longitude": 35.25
     },
     {
-        "cityId": "7647662",
+        "cityId": 7647662,
         "name": "Babati District",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -4.19577,
         "longitude": 35.87585
     },
     {
-        "cityId": "7647663",
+        "cityId": 7647663,
         "name": "Simanjiro",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -3.86667,
         "longitude": 36.6
     },
     {
-        "cityId": "9998132",
+        "cityId": 9998132,
         "name": "Babati Town",
-        "stateId": "435764",
+        "stateId": 435764,
         "latitude": -4.19453,
         "longitude": 35.74529
     }

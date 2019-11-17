@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "1629000",
+        "cityId": 1629000,
         "name": "Kota Samarinda",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -0.43333,
         "longitude": 117.18333
     },
     {
-        "cityId": "1649040",
+        "cityId": 1649040,
         "name": "Kabupaten Berau",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": 2,
         "longitude": 117.3
     },
     {
-        "cityId": "1650526",
+        "cityId": 1650526,
         "name": "Kota Balikpapan",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -1.16667,
         "longitude": 116.88333
     },
     {
-        "cityId": "9165729",
+        "cityId": 9165729,
         "name": "Kabupaten Penajam Paser Utara",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -1.25,
         "longitude": 116.83333
     },
     {
-        "cityId": "9821952",
+        "cityId": 9821952,
         "name": "Kota Bontang",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": 0.12526,
         "longitude": 117.49603
     },
     {
-        "cityId": "9828038",
+        "cityId": 9828038,
         "name": "Kabupaten Kutai Barat",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -0.59417,
         "longitude": 115.51575
     },
     {
-        "cityId": "9828039",
+        "cityId": 9828039,
         "name": "Kabupaten Kutai Kartanegara",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -0.44019,
         "longitude": 116.98139
     },
     {
-        "cityId": "9843600",
+        "cityId": 9843600,
         "name": "Kabupaten Paser",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": -1.43517,
         "longitude": 116.23535
     },
     {
-        "cityId": "9846668",
+        "cityId": 9846668,
         "name": "Kabupaten Kutai Timur",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": 1.03769,
         "longitude": 117.83112
     },
     {
-        "cityId": "9849855",
+        "cityId": 9849855,
         "name": "Kabupaten Mahakam Hulu",
-        "stateId": "1641897",
+        "stateId": 1641897,
         "latitude": 0.37822,
         "longitude": 115.38048
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "350768",
+        "cityId": 350768,
         "name": "Markaz al Qan\u0163arah Gharb",
-        "stateId": "361056",
+        "stateId": 361056,
         "latitude": 30.76042,
         "longitude": 32.25312
     },
     {
-        "cityId": "10371148",
+        "cityId": 10371148,
         "name": "Markaz al Ism\u0101\u2018\u012bl\u012byah",
-        "stateId": "361056",
+        "stateId": 361056,
         "latitude": 30.53666,
         "longitude": 32.20571
     },
     {
-        "cityId": "10371149",
+        "cityId": 10371149,
         "name": "Markaz al Qan\u0163arah Sharq",
-        "stateId": "361056",
+        "stateId": 361056,
         "latitude": 30.5448,
         "longitude": 32.34419
     },
     {
-        "cityId": "10371150",
+        "cityId": 10371150,
         "name": "Markaz F\u0101yid",
-        "stateId": "361056",
+        "stateId": 361056,
         "latitude": 30.34697,
         "longitude": 32.29648
     }

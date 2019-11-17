@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "7730022",
+        "cityId": 7730022,
         "name": "Pankshin",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.21598,
         "longitude": 9.3988
     },
     {
-        "cityId": "7730025",
+        "cityId": 7730025,
         "name": "Shendam",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 8.71667,
         "longitude": 9.5
     },
     {
-        "cityId": "8634505",
+        "cityId": 8634505,
         "name": "Kanam",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.54882,
         "longitude": 10.09733
     },
     {
-        "cityId": "8634506",
+        "cityId": 8634506,
         "name": "Kanke",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.39313,
         "longitude": 9.63285
     },
     {
-        "cityId": "8634507",
+        "cityId": 8634507,
         "name": "Langtang North",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.05651,
         "longitude": 9.82247
     },
     {
-        "cityId": "8634508",
+        "cityId": 8634508,
         "name": "Wase",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.08261,
         "longitude": 10.20519
     },
     {
-        "cityId": "8634509",
+        "cityId": 8634509,
         "name": "Mangu",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.39052,
         "longitude": 9.17968
     },
     {
-        "cityId": "8634510",
+        "cityId": 8634510,
         "name": "Bokkos",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.22692,
         "longitude": 8.92677
     },
     {
-        "cityId": "8634511",
+        "cityId": 8634511,
         "name": "Barkin Ladi",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.54969,
         "longitude": 8.9344
     },
     {
-        "cityId": "8634512",
+        "cityId": 8634512,
         "name": "Riyom",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.56796,
         "longitude": 8.68476
     },
     {
-        "cityId": "8634513",
+        "cityId": 8634513,
         "name": "Jos South",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.75497,
         "longitude": 8.83524
     },
     {
-        "cityId": "8634514",
+        "cityId": 8634514,
         "name": "Jos North",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.93937,
         "longitude": 8.90221
     },
     {
-        "cityId": "8634515",
+        "cityId": 8634515,
         "name": "Jos East",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.89109,
         "longitude": 9.11793
     },
     {
-        "cityId": "8634516",
+        "cityId": 8634516,
         "name": "Bassa",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 10.08201,
         "longitude": 8.78479
     },
     {
-        "cityId": "8634517",
+        "cityId": 8634517,
         "name": "Mikang",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 9.00693,
         "longitude": 9.6085
     },
     {
-        "cityId": "8634518",
+        "cityId": 8634518,
         "name": "Qua'An Pan",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 8.76078,
         "longitude": 9.16142
     },
     {
-        "cityId": "8634539",
+        "cityId": 8634539,
         "name": "Langtang South",
-        "stateId": "2324828",
+        "stateId": 2324828,
         "latitude": 8.60247,
         "longitude": 9.81029
     }

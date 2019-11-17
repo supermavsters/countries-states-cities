@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "1033355",
+        "cityId": 1033355,
         "name": "Distrito de Rapale",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.12842,
         "longitude": 39.09403
     },
     {
-        "cityId": "1035018",
+        "cityId": 1035018,
         "name": "Circunscri\u00e7\u00e3o de Nacala-a-Velha",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.56239,
         "longitude": 40.48347
     },
     {
-        "cityId": "1035470",
+        "cityId": 1035470,
         "name": "Circunscri\u00e7\u00e3o de Murrupula",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.40069,
         "longitude": 38.66117
     },
     {
-        "cityId": "1037020",
+        "cityId": 1037020,
         "name": "Circunscri\u00e7\u00e3o de Mossuril",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.06176,
         "longitude": 40.51438
     },
     {
-        "cityId": "1037178",
+        "cityId": 1037178,
         "name": "Concelho de Monapo",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.7919,
         "longitude": 40.13534
     },
     {
-        "cityId": "1037222",
+        "cityId": 1037222,
         "name": "Distrito de Moma",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -16.31243,
         "longitude": 39.21253
     },
     {
-        "cityId": "1037282",
+        "cityId": 1037282,
         "name": "Circunscr\u00ec\u00e7\u00e3o de Mogovolas",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.7376,
         "longitude": 39.25971
     },
     {
-        "cityId": "1037286",
+        "cityId": 1037286,
         "name": "Circunscr\u00ec\u00e7\u00e3o do Mogincual",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.53917,
         "longitude": 40.08735
     },
     {
-        "cityId": "1038879",
+        "cityId": 1038879,
         "name": "Memba",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -13.96591,
         "longitude": 40.39437
     },
     {
-        "cityId": "1039205",
+        "cityId": 1039205,
         "name": "Meconta",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.28191,
         "longitude": 39.64661
     },
     {
-        "cityId": "1046627",
+        "cityId": 1046627,
         "name": "Circunscri\u00e7\u00e3o do Er\u00e1ti",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -13.91862,
         "longitude": 39.77306
     },
     {
-        "cityId": "7732034",
+        "cityId": 7732034,
         "name": "Malema",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.79377,
         "longitude": 37.40922
     },
     {
-        "cityId": "7732035",
+        "cityId": 7732035,
         "name": "Ribaue",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.01897,
         "longitude": 38.21248
     },
     {
-        "cityId": "7732036",
+        "cityId": 7732036,
         "name": "Nampula",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.1307,
         "longitude": 39.13302
     },
     {
-        "cityId": "7732037",
+        "cityId": 7732037,
         "name": "Mecuburi",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.49321,
         "longitude": 38.92905
     },
     {
-        "cityId": "7732038",
+        "cityId": 7732038,
         "name": "Cidade de Nampula",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.09974,
         "longitude": 39.26751
     },
     {
-        "cityId": "7874406",
+        "cityId": 7874406,
         "name": "Angoche District",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -16.23272,
         "longitude": 39.91106
     },
     {
-        "cityId": "7874408",
+        "cityId": 7874408,
         "name": "Lalaua District",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.38646,
         "longitude": 38.34915
     },
     {
-        "cityId": "7874410",
+        "cityId": 7874410,
         "name": "Muecate District",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.8864,
         "longitude": 39.62734
     },
     {
-        "cityId": "7874411",
+        "cityId": 7874411,
         "name": "Nacaroa District",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -14.36917,
         "longitude": 39.92466
     },
     {
-        "cityId": "9252730",
+        "cityId": 9252730,
         "name": "Ilha de Mocambique",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.05077,
         "longitude": 40.61777
     },
     {
-        "cityId": "10703926",
+        "cityId": 10703926,
         "name": "Distrito de Larde",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -16.47958,
         "longitude": 39.5866
     },
     {
-        "cityId": "10703927",
+        "cityId": 10703927,
         "name": "Distrito de Li\u00fapo",
-        "stateId": "1033354",
+        "stateId": 1033354,
         "latitude": -15.60871,
         "longitude": 39.94604
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3573642",
+        "cityId": 3573642,
         "name": "Ward of Tacarigua",
-        "stateId": "7521947",
+        "stateId": 7521947,
         "latitude": 10.66667,
         "longitude": -61.38333
     },
     {
-        "cityId": "3574971",
+        "cityId": 3574971,
         "name": "Ward of Blanchisseuse",
-        "stateId": "7521947",
+        "stateId": 7521947,
         "latitude": 10.76665,
         "longitude": -61.31569
     },
     {
-        "cityId": "3575050",
+        "cityId": 3575050,
         "name": "Ward of Arima",
-        "stateId": "7521947",
+        "stateId": 7521947,
         "latitude": 10.65,
         "longitude": -61.26667
     }

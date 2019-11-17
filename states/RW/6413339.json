@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7688806",
+        "cityId": 7688806,
         "name": "Gicumbi District",
-        "stateId": "6413339",
+        "stateId": 6413339,
         "latitude": -1.61647,
         "longitude": 30.12104
     },
     {
-        "cityId": "7688807",
+        "cityId": 7688807,
         "name": "Rulindo District",
-        "stateId": "6413339",
+        "stateId": 6413339,
         "latitude": -1.73828,
         "longitude": 29.99794
     },
     {
-        "cityId": "7688808",
+        "cityId": 7688808,
         "name": "Burera District",
-        "stateId": "6413339",
+        "stateId": 6413339,
         "latitude": -1.47394,
         "longitude": 29.83468
     },
     {
-        "cityId": "7688809",
+        "cityId": 7688809,
         "name": "Musanze District",
-        "stateId": "6413339",
+        "stateId": 6413339,
         "latitude": -1.50763,
         "longitude": 29.60662
     },
     {
-        "cityId": "7688810",
+        "cityId": 7688810,
         "name": "Gakenke District",
-        "stateId": "6413339",
+        "stateId": 6413339,
         "latitude": -1.6981,
         "longitude": 29.78543
     }

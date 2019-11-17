@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7054031",
+        "cityId": 7054031,
         "name": "Ch\u014drah",
-        "stateId": "1131461",
+        "stateId": 1131461,
         "latitude": 32.93005,
         "longitude": 66.26271
     },
     {
-        "cityId": "7054032",
+        "cityId": 7054032,
         "name": "Deh R\u0101wud",
-        "stateId": "1131461",
+        "stateId": 1131461,
         "latitude": 32.5836,
         "longitude": 65.46559
     },
     {
-        "cityId": "7054033",
+        "cityId": 7054033,
         "name": "Kh\u0101\u015f Uruzg\u0101n",
-        "stateId": "1131461",
+        "stateId": 1131461,
         "latitude": 32.99674,
         "longitude": 66.69359
     },
     {
-        "cityId": "7054034",
+        "cityId": 7054034,
         "name": "Shah\u012bd-e \u1e28as\u0101s",
-        "stateId": "1131461",
+        "stateId": 1131461,
         "latitude": 32.92297,
         "longitude": 65.4783
     },
     {
-        "cityId": "7054035",
+        "cityId": 7054035,
         "name": "Tar\u012bn K\u014d\u1e6f",
-        "stateId": "1131461",
+        "stateId": 1131461,
         "latitude": 32.68217,
         "longitude": 65.91696
     }

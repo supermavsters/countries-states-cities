@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2540482",
+        "cityId": 2540482,
         "name": "Oujda-Angad",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.236,
         "longitude": -2.294
     },
     {
-        "cityId": "2541472",
+        "cityId": 2541472,
         "name": "Nador",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 35,
         "longitude": -3
     },
     {
-        "cityId": "2548849",
+        "cityId": 2548849,
         "name": "Figuig",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 32.83333,
         "longitude": -2.25
     },
     {
-        "cityId": "6547287",
+        "cityId": 6547287,
         "name": "Berkane",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.61,
         "longitude": -2.57
     },
     {
-        "cityId": "6547288",
+        "cityId": 6547288,
         "name": "Jerada",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.23662,
         "longitude": -2.04284
     },
     {
-        "cityId": "6547289",
+        "cityId": 6547289,
         "name": "Taourirt",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.24631,
         "longitude": -2.81349
     },
     {
-        "cityId": "11281933",
+        "cityId": 11281933,
         "name": "Guercif Province",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.25041,
         "longitude": -3.32542
     },
     {
-        "cityId": "11281974",
+        "cityId": 11281974,
         "name": "Driouch Province",
-        "stateId": "11281875",
+        "stateId": 11281875,
         "latitude": 34.9767,
         "longitude": -3.38842
     }

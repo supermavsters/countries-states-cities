@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "2663537",
+        "cityId": 2663537,
         "name": "Vaxholms Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.40386,
         "longitude": 18.34167
     },
     {
-        "cityId": "2664880",
+        "cityId": 2664880,
         "name": "V\u00e4rmd\u00f6 Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.31614,
         "longitude": 18.70414
     },
     {
-        "cityId": "2665451",
+        "cityId": 2665451,
         "name": "Vallentuna Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.59146,
         "longitude": 18.21
     },
     {
-        "cityId": "2666237",
+        "cityId": 2666237,
         "name": "Upplands V\u00e4sby kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.52382,
         "longitude": 17.91001
     },
     {
-        "cityId": "2666240",
+        "cityId": 2666240,
         "name": "Upplands-Bro Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.49095,
         "longitude": 17.74979
     },
     {
-        "cityId": "2666778",
+        "cityId": 2666778,
         "name": "Tyres\u00f6 Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.24148,
         "longitude": 18.28074
     },
     {
-        "cityId": "2669768",
+        "cityId": 2669768,
         "name": "T\u00e4by Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.43739,
         "longitude": 18.0653
     },
     {
-        "cityId": "2670878",
+        "cityId": 2670878,
         "name": "Sundbybergs Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.36669,
         "longitude": 17.9702
     },
     {
-        "cityId": "2673723",
+        "cityId": 2673723,
         "name": "Stockholms Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.32478,
         "longitude": 18.06427
     },
     {
-        "cityId": "2675396",
+        "cityId": 2675396,
         "name": "Solna Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.36548,
         "longitude": 18.00728
     },
     {
-        "cityId": "2675406",
+        "cityId": 2675406,
         "name": "Sollentuna Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.44499,
         "longitude": 17.93518
     },
     {
-        "cityId": "2676174",
+        "cityId": 2676174,
         "name": "S\u00f6dert\u00e4lje Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.18121,
         "longitude": 17.62756
     },
     {
-        "cityId": "2679300",
+        "cityId": 2679300,
         "name": "Sigtuna Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.6396,
         "longitude": 17.93946
     },
     {
-        "cityId": "2680623",
+        "cityId": 2680623,
         "name": "Salems Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.24572,
         "longitude": 17.69875
     },
     {
-        "cityId": "2685981",
+        "cityId": 2685981,
         "name": "\u00d6ster\u00e5kers Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.48345,
         "longitude": 18.29979
     },
     {
-        "cityId": "2687635",
+        "cityId": 2687635,
         "name": "Nyn\u00e4shamns kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 58.95607,
         "longitude": 17.88694
     },
     {
-        "cityId": "2688248",
+        "cityId": 2688248,
         "name": "Norrt\u00e4lje Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.8612,
         "longitude": 18.70573
     },
     {
-        "cityId": "2690578",
+        "cityId": 2690578,
         "name": "Nacka Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.31077,
         "longitude": 18.17551
     },
     {
-        "cityId": "2696332",
+        "cityId": 2696332,
         "name": "Liding\u00f6",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.36303,
         "longitude": 18.15096
     },
     {
-        "cityId": "2703292",
+        "cityId": 2703292,
         "name": "J\u00e4rf\u00e4lla kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.40875,
         "longitude": 17.86514
     },
     {
-        "cityId": "2704619",
+        "cityId": 2704619,
         "name": "Huddinge Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.21428,
         "longitude": 18.01584
     },
     {
-        "cityId": "2707952",
+        "cityId": 2707952,
         "name": "Haninge Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.17382,
         "longitude": 18.15491
     },
     {
-        "cityId": "2716579",
+        "cityId": 2716579,
         "name": "Eker\u00f6 Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.32198,
         "longitude": 17.6358
     },
     {
-        "cityId": "2717999",
+        "cityId": 2717999,
         "name": "Danderyds Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.40924,
         "longitude": 18.04847
     },
     {
-        "cityId": "2720114",
+        "cityId": 2720114,
         "name": "Botkyrka Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.2,
         "longitude": 17.81667
     },
     {
-        "cityId": "3337442",
+        "cityId": 3337442,
         "name": "Nykvarns Kommun",
-        "stateId": "2673722",
+        "stateId": 2673722,
         "latitude": 59.19479,
         "longitude": 17.40632
     }

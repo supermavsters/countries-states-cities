@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7268131",
+        "cityId": 7268131,
         "name": "Cuchillas Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.30445,
         "longitude": -66.38594
     },
     {
-        "cityId": "7268231",
+        "cityId": 7268231,
         "name": "Barahona Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.35936,
         "longitude": -66.44783
     },
     {
-        "cityId": "7268400",
+        "cityId": 7268400,
         "name": "Fr\u00e1nquez Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.35531,
         "longitude": -66.41848
     },
     {
-        "cityId": "7268673",
+        "cityId": 7268673,
         "name": "Monte Llano Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.32246,
         "longitude": -66.39297
     },
     {
-        "cityId": "7268681",
+        "cityId": 7268681,
         "name": "Morovis Barrio-Pueblo",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.32601,
         "longitude": -66.40791
     },
     {
-        "cityId": "7268682",
+        "cityId": 7268682,
         "name": "Morovis Norte Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.34157,
         "longitude": -66.40763
     },
     {
-        "cityId": "7268683",
+        "cityId": 7268683,
         "name": "Morovis Sud Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.31445,
         "longitude": -66.41175
     },
     {
-        "cityId": "7268738",
+        "cityId": 7268738,
         "name": "Pasto Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.27611,
         "longitude": -66.43241
     },
     {
-        "cityId": "7268750",
+        "cityId": 7268750,
         "name": "Perchas Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.27769,
         "longitude": -66.40385
     },
     {
-        "cityId": "7268907",
+        "cityId": 7268907,
         "name": "R\u00edo Grande Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.29534,
         "longitude": -66.41209
     },
     {
-        "cityId": "7268978",
+        "cityId": 7268978,
         "name": "San Lorenzo Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.30644,
         "longitude": -66.43817
     },
     {
-        "cityId": "7269049",
+        "cityId": 7269049,
         "name": "Torrecillas Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.33213,
         "longitude": -66.4431
     },
     {
-        "cityId": "7269057",
+        "cityId": 7269057,
         "name": "Unib\u00f3n Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.33517,
         "longitude": -66.38284
     },
     {
-        "cityId": "7269062",
+        "cityId": 7269062,
         "name": "Vaga Barrio",
-        "stateId": "4566334",
+        "stateId": 4566334,
         "latitude": 18.27693,
         "longitude": -66.45094
     }

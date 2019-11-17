@@ -1,169 +1,169 @@
 [
     {
-        "cityId": "6697536",
+        "cityId": 6697536,
         "name": "powiat \u0141\u00f3dzki Wschodni",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.76529,
         "longitude": 19.48288
     },
     {
-        "cityId": "6941021",
+        "cityId": 6941021,
         "name": "powiat \u0141owicki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 52.10627,
         "longitude": 19.94606
     },
     {
-        "cityId": "7530745",
+        "cityId": 7530745,
         "name": "Piotrk\u00f3w Trybunalski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.41295,
         "longitude": 19.71662
     },
     {
-        "cityId": "7530927",
+        "cityId": 7530927,
         "name": "Powiat kutnowski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 52.2514,
         "longitude": 19.39706
     },
     {
-        "cityId": "7530955",
+        "cityId": 7530955,
         "name": "Powiat rawski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.76228,
         "longitude": 20.3853
     },
     {
-        "cityId": "7530973",
+        "cityId": 7530973,
         "name": "Skierniewice",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.95806,
         "longitude": 20.16912
     },
     {
-        "cityId": "7531006",
+        "cityId": 7531006,
         "name": "Powiat piotrkowski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.37816,
         "longitude": 19.7396
     },
     {
-        "cityId": "7531007",
+        "cityId": 7531007,
         "name": "Powiat podd\u0119bicki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.89837,
         "longitude": 18.92132
     },
     {
-        "cityId": "7531008",
+        "cityId": 7531008,
         "name": "Powiat radomszcza\u0144ski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.06463,
         "longitude": 19.63038
     },
     {
-        "cityId": "7531009",
+        "cityId": 7531009,
         "name": "Powiat sieradzki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.60297,
         "longitude": 18.60309
     },
     {
-        "cityId": "7531010",
+        "cityId": 7531010,
         "name": "Powiat be\u0142chatowski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.36877,
         "longitude": 19.17791
     },
     {
-        "cityId": "7531016",
+        "cityId": 7531016,
         "name": "Powiat \u0142aski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.55884,
         "longitude": 19.03824
     },
     {
-        "cityId": "7531017",
+        "cityId": 7531017,
         "name": "Powiat \u0142\u0119czycki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 52.10611,
         "longitude": 19.19498
     },
     {
-        "cityId": "7531018",
+        "cityId": 7531018,
         "name": "Powiat brzezi\u0144ski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.84073,
         "longitude": 19.83037
     },
     {
-        "cityId": "7531019",
+        "cityId": 7531019,
         "name": "Powiat \u0142\u00f3dzki wschodni",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.68616,
         "longitude": 19.70098
     },
     {
-        "cityId": "7531020",
+        "cityId": 7531020,
         "name": "Powiat opoczy\u0144ski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.39265,
         "longitude": 20.1943
     },
     {
-        "cityId": "7531021",
+        "cityId": 7531021,
         "name": "Powiat pabianicki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.67743,
         "longitude": 19.23782
     },
     {
-        "cityId": "7531022",
+        "cityId": 7531022,
         "name": "Powiat paj\u0119cza\u0144ski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.14121,
         "longitude": 19.02749
     },
     {
-        "cityId": "7531023",
+        "cityId": 7531023,
         "name": "Powiat skierniewicki",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.94493,
         "longitude": 20.19367
     },
     {
-        "cityId": "7531024",
+        "cityId": 7531024,
         "name": "Powiat tomaszowski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.59667,
         "longitude": 20.06638
     },
     {
-        "cityId": "7531025",
+        "cityId": 7531025,
         "name": "Powiat wielu\u0144ski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.23261,
         "longitude": 18.63033
     },
     {
-        "cityId": "7531026",
+        "cityId": 7531026,
         "name": "Powiat wieruszowski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.29415,
         "longitude": 18.31854
     },
     {
-        "cityId": "7531027",
+        "cityId": 7531027,
         "name": "Powiat zdu\u0144skowolski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.6204,
         "longitude": 18.95085
     },
     {
-        "cityId": "7531028",
+        "cityId": 7531028,
         "name": "Powiat zgierski",
-        "stateId": "3337493",
+        "stateId": 3337493,
         "latitude": 51.9041,
         "longitude": 19.48024
     }

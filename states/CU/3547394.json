@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "3534760",
+        "cityId": 3534760,
         "name": "Municipio de Uni\u00f3n de Reyes",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.8,
         "longitude": -81.53333
     },
     {
-        "cityId": "3544391",
+        "cityId": 3544391,
         "name": "Municipio de Perico",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.76667,
         "longitude": -81.01667
     },
     {
-        "cityId": "3544606",
+        "cityId": 3544606,
         "name": "Municipio de Pedro Betancourt",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.73333,
         "longitude": -81.28333
     },
     {
-        "cityId": "3547395",
+        "cityId": 3547395,
         "name": "Municipio de Matanzas",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 23.05,
         "longitude": -81.58333
     },
     {
-        "cityId": "3547517",
+        "cityId": 3547517,
         "name": "Municipio de Mart\u00ed",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.95,
         "longitude": -80.91667
     },
     {
-        "cityId": "3549462",
+        "cityId": 3549462,
         "name": "Municipio de Los Arabos",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.73333,
         "longitude": -80.71667
     },
     {
-        "cityId": "3549839",
+        "cityId": 3549839,
         "name": "Limonar",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.96667,
         "longitude": -81.56667
     },
     {
-        "cityId": "3555906",
+        "cityId": 3555906,
         "name": "Municipio de Jovellanos",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.8,
         "longitude": -81.2
     },
     {
-        "cityId": "3556436",
+        "cityId": 3556436,
         "name": "Municipio de Jag\u00fcey Grande",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.53333,
         "longitude": -81.11667
     },
     {
-        "cityId": "3563841",
+        "cityId": 3563841,
         "name": "Municipio de Col\u00f3n",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.71667,
         "longitude": -80.9
     },
     {
-        "cityId": "3565430",
+        "cityId": 3565430,
         "name": "Municipio de C\u00e1rdenas",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 23.03333,
         "longitude": -81.2
     },
     {
-        "cityId": "11288077",
+        "cityId": 11288077,
         "name": "Calimete",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.53355,
         "longitude": -80.90959
     },
     {
-        "cityId": "11288078",
+        "cityId": 11288078,
         "name": "Cienaga De Zapata",
-        "stateId": "3547394",
+        "stateId": 3547394,
         "latitude": 22.39934,
         "longitude": -81.57392
     }

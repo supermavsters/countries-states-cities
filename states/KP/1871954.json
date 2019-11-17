@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "1865779",
+        "cityId": 1865779,
         "name": "Yongch\u2019\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.95769,
         "longitude": 124.42731
     },
     {
-        "cityId": "1866454",
+        "cityId": 1866454,
         "name": "Ny\u014fngby\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.83333,
         "longitude": 125.75
     },
     {
-        "cityId": "1866590",
+        "cityId": 1866590,
         "name": "Y\u014fmju-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.88198,
         "longitude": 124.53817
     },
     {
-        "cityId": "1867275",
+        "cityId": 1867275,
         "name": "Unj\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.68083,
         "longitude": 125.43194
     },
     {
-        "cityId": "1867778",
+        "cityId": 1867778,
         "name": "Tongnim-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.8825,
         "longitude": 124.79917
     },
     {
-        "cityId": "1868849",
+        "cityId": 1868849,
         "name": "T\u2019aech\u2019\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.93861,
         "longitude": 125.51528
     },
     {
-        "cityId": "1869746",
+        "cityId": 1869746,
         "name": "S\u014fnch\u2019\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.75,
         "longitude": 124.91667
     },
     {
-        "cityId": "1872626",
+        "cityId": 1872626,
         "name": "P\u2019ihy\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.04,
         "longitude": 124.66667
     },
     {
-        "cityId": "1872819",
+        "cityId": 1872819,
         "name": "Pakch\u2019\u014fn-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.6875,
         "longitude": 125.625
     },
     {
-        "cityId": "1875055",
+        "cityId": 1875055,
         "name": "Kwaksan-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.66667,
         "longitude": 125.08333
     },
     {
-        "cityId": "1875101",
+        "cityId": 1875101,
         "name": "Kus\u014fng-si",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.96139,
         "longitude": 125.22917
     },
     {
-        "cityId": "1875509",
+        "cityId": 1875509,
         "name": "Kujang-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.88194,
         "longitude": 126.08722
     },
     {
-        "cityId": "1876770",
+        "cityId": 1876770,
         "name": "Hyangsan-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.01861,
         "longitude": 126.09944
     },
     {
-        "cityId": "1878391",
+        "cityId": 1878391,
         "name": "Ch\u014fngju-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.70944,
         "longitude": 125.25278
     },
     {
-        "cityId": "1878581",
+        "cityId": 1878581,
         "name": "Ch\u2019\u014flsan-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.74917,
         "longitude": 124.64306
     },
     {
-        "cityId": "2039522",
+        "cityId": 2039522,
         "name": "Unsan-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.08333,
         "longitude": 125.75
     },
     {
-        "cityId": "2039624",
+        "cityId": 2039624,
         "name": "Uiju County",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.21139,
         "longitude": 124.66861
     },
     {
-        "cityId": "2039860",
+        "cityId": 2039860,
         "name": "Tongch\u2019ang-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.25,
         "longitude": 125.5
     },
     {
-        "cityId": "2040192",
+        "cityId": 2040192,
         "name": "Taegwan-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.20333,
         "longitude": 125.23222
     },
     {
-        "cityId": "2040892",
+        "cityId": 2040892,
         "name": "Sin\u016diju-si",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.09056,
         "longitude": 124.46333
     },
     {
-        "cityId": "2041535",
+        "cityId": 2041535,
         "name": "Sakchu-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.35611,
         "longitude": 124.92722
     },
     {
-        "cityId": "2041678",
+        "cityId": 2041678,
         "name": "Py\u014fktong-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.54333,
         "longitude": 125.42917
     },
     {
-        "cityId": "2044670",
+        "cityId": 2044670,
         "name": "Ch\u2019\u014fnma-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.08333,
         "longitude": 124.91667
     },
     {
-        "cityId": "2045038",
+        "cityId": 2045038,
         "name": "Ch\u2019angs\u014fng-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 40.44333,
         "longitude": 125.26722
     },
     {
-        "cityId": "6279118",
+        "cityId": 6279118,
         "name": "Sindo-gun",
-        "stateId": "1871954",
+        "stateId": 1871954,
         "latitude": 39.82752,
         "longitude": 124.22447
     }

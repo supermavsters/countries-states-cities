@@ -1,302 +1,302 @@
 [
     {
-        "cityId": "3188394",
+        "cityId": 3188394,
         "name": "Grad Valpovo",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.66667,
         "longitude": 18.41667
     },
     {
-        "cityId": "3193934",
+        "cityId": 3193934,
         "name": "Grad Osijek",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.58333,
         "longitude": 18.66667
     },
     {
-        "cityId": "3194580",
+        "cityId": 3194580,
         "name": "Grad Na\u0161ice",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.5,
         "longitude": 18.1
     },
     {
-        "cityId": "3201431",
+        "cityId": 3201431,
         "name": "Grad Donji Miholjac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.75,
         "longitude": 18.16667
     },
     {
-        "cityId": "3202219",
+        "cityId": 3202219,
         "name": "Grad \u0110akovo",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.3,
         "longitude": 18.41667
     },
     {
-        "cityId": "3204319",
+        "cityId": 3204319,
         "name": "Grad Beli Manastir",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.77219,
         "longitude": 18.61084
     },
     {
-        "cityId": "11054390",
+        "cityId": 11054390,
         "name": "Antunovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.49015,
         "longitude": 18.67264
     },
     {
-        "cityId": "11054391",
+        "cityId": 11054391,
         "name": "Beli\u0161\u0107e",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.6799,
         "longitude": 18.40073
     },
     {
-        "cityId": "11054392",
+        "cityId": 11054392,
         "name": "Bilje",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.60472,
         "longitude": 18.74259
     },
     {
-        "cityId": "11054393",
+        "cityId": 11054393,
         "name": "Bizovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.59244,
         "longitude": 18.45665
     },
     {
-        "cityId": "11054394",
+        "cityId": 11054394,
         "name": "\u010ceminac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.6863,
         "longitude": 18.6692
     },
     {
-        "cityId": "11054395",
+        "cityId": 11054395,
         "name": "\u010cepin",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.52417,
         "longitude": 18.56599
     },
     {
-        "cityId": "11054454",
+        "cityId": 11054454,
         "name": "Darda",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.62492,
         "longitude": 18.69092
     },
     {
-        "cityId": "11054455",
+        "cityId": 11054455,
         "name": "Donja Moti\u010dina",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.49545,
         "longitude": 18.01887
     },
     {
-        "cityId": "11054456",
+        "cityId": 11054456,
         "name": "Dra\u017e",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.8412,
         "longitude": 18.78855
     },
     {
-        "cityId": "11054458",
+        "cityId": 11054458,
         "name": "Drenje",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.38105,
         "longitude": 18.27807
     },
     {
-        "cityId": "11054459",
+        "cityId": 11054459,
         "name": "\u0110akovo",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.78217,
         "longitude": 17.26733
     },
     {
-        "cityId": "11054461",
+        "cityId": 11054461,
         "name": "Erdut",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.52459,
         "longitude": 19.05965
     },
     {
-        "cityId": "11054464",
+        "cityId": 11054464,
         "name": "Ernestinovo",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.45124,
         "longitude": 18.65891
     },
     {
-        "cityId": "11054465",
+        "cityId": 11054465,
         "name": "Feri\u010danci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.52438,
         "longitude": 17.97659
     },
     {
-        "cityId": "11054467",
+        "cityId": 11054467,
         "name": "Gorjani",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.39675,
         "longitude": 18.37317
     },
     {
-        "cityId": "11054468",
+        "cityId": 11054468,
         "name": "Jagodnjak",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.69973,
         "longitude": 18.57998
     },
     {
-        "cityId": "11054469",
+        "cityId": 11054469,
         "name": "Kne\u017eevi Vinogradi",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.7517,
         "longitude": 18.73598
     },
     {
-        "cityId": "11054470",
+        "cityId": 11054470,
         "name": "Ko\u0161ka",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.54527,
         "longitude": 18.28425
     },
     {
-        "cityId": "11054471",
+        "cityId": 11054471,
         "name": "Levanjska Varo\u0161",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.31375,
         "longitude": 18.17954
     },
     {
-        "cityId": "11054472",
+        "cityId": 11054472,
         "name": "Magadenovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.66159,
         "longitude": 18.18679
     },
     {
-        "cityId": "11054473",
+        "cityId": 11054473,
         "name": "Marijanci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.66645,
         "longitude": 18.29284
     },
     {
-        "cityId": "11054474",
+        "cityId": 11054474,
         "name": "Petlovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.75739,
         "longitude": 18.5281
     },
     {
-        "cityId": "11054475",
+        "cityId": 11054475,
         "name": "Petrijevci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.61343,
         "longitude": 18.53788
     },
     {
-        "cityId": "11054476",
+        "cityId": 11054476,
         "name": "Podgora\u010d",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.45762,
         "longitude": 18.21585
     },
     {
-        "cityId": "11054477",
+        "cityId": 11054477,
         "name": "Podravska Moslavina",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.78456,
         "longitude": 17.9841
     },
     {
-        "cityId": "11054478",
+        "cityId": 11054478,
         "name": "Popovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.80701,
         "longitude": 18.66105
     },
     {
-        "cityId": "11054479",
+        "cityId": 11054479,
         "name": "Punitovci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.4309,
         "longitude": 18.4154
     },
     {
-        "cityId": "11054480",
+        "cityId": 11054480,
         "name": "Semeljci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.36172,
         "longitude": 18.5405
     },
     {
-        "cityId": "11054481",
+        "cityId": 11054481,
         "name": "Strizivojna",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.22626,
         "longitude": 18.4309
     },
     {
-        "cityId": "11054482",
+        "cityId": 11054482,
         "name": "\u0160odolovci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.4001,
         "longitude": 18.61955
     },
     {
-        "cityId": "11054483",
+        "cityId": 11054483,
         "name": "Trnava",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.25856,
         "longitude": 18.25344
     },
     {
-        "cityId": "11054484",
+        "cityId": 11054484,
         "name": "Viljevo",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.7503,
         "longitude": 18.06324
     },
     {
-        "cityId": "11054485",
+        "cityId": 11054485,
         "name": "Vi\u0161kovci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.34318,
         "longitude": 18.45763
     },
     {
-        "cityId": "11054486",
+        "cityId": 11054486,
         "name": "Vladislavci",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.46015,
         "longitude": 18.57179
     },
     {
-        "cityId": "11054488",
+        "cityId": 11054488,
         "name": "Vuka",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.43856,
         "longitude": 18.50634
     },
     {
-        "cityId": "11055020",
+        "cityId": 11055020,
         "name": "\u0110ur\u0111enovac",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.54133,
         "longitude": 18.05028
     },
     {
-        "cityId": "11055021",
+        "cityId": 11055021,
         "name": "Satnica \u0110akova\u010dka",
-        "stateId": "3337522",
+        "stateId": 3337522,
         "latitude": 45.35367,
         "longitude": 18.37729
     }

@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7052917",
+        "cityId": 7052917,
         "name": "An\u0101r Darah",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 33.01119,
         "longitude": 61.249
     },
     {
-        "cityId": "7052918",
+        "cityId": 7052918,
         "name": "Bakw\u0101h",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.21478,
         "longitude": 62.88093
     },
     {
-        "cityId": "7052919",
+        "cityId": 7052919,
         "name": "B\u0101l\u0101 Bul\u016bk",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.77043,
         "longitude": 62.75187
     },
     {
-        "cityId": "7052920",
+        "cityId": 7052920,
         "name": "Gulist\u0101n",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.64161,
         "longitude": 63.59499
     },
     {
-        "cityId": "7052921",
+        "cityId": 7052921,
         "name": "Kh\u0101k-e Saf\u0113d",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.7565,
         "longitude": 62.07207
     },
     {
-        "cityId": "7052922",
+        "cityId": 7052922,
         "name": "L\u0101sh-e Juwayn",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 31.72025,
         "longitude": 61.32879
     },
     {
-        "cityId": "7052923",
+        "cityId": 7052923,
         "name": "Pur Chaman",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 33.13656,
         "longitude": 63.86494
     },
     {
-        "cityId": "7052924",
+        "cityId": 7052924,
         "name": "Pusht-e R\u014dd",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.48719,
         "longitude": 62.05913
     },
     {
-        "cityId": "7052925",
+        "cityId": 7052925,
         "name": "Qal\u2018ah-ye K\u0101h",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.39552,
         "longitude": 61.32836
     },
     {
-        "cityId": "7052926",
+        "cityId": 7052926,
         "name": "Shayb K\u014dh",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.10862,
         "longitude": 61.36863
     },
     {
-        "cityId": "7729836",
+        "cityId": 7729836,
         "name": "Farah",
-        "stateId": "1142263",
+        "stateId": 1142263,
         "latitude": 32.21768,
         "longitude": 62.25992
     }

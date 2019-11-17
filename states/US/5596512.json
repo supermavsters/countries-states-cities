@@ -1,309 +1,309 @@
 [
     {
-        "cityId": "5583739",
+        "cityId": 5583739,
         "name": "Ada County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.45112,
         "longitude": -116.24109
     },
     {
-        "cityId": "5583743",
+        "cityId": 5583743,
         "name": "Adams County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.88965,
         "longitude": -116.45387
     },
     {
-        "cityId": "5584639",
+        "cityId": 5584639,
         "name": "Bannock County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.66851,
         "longitude": -112.22463
     },
     {
-        "cityId": "5585000",
+        "cityId": 5585000,
         "name": "Bear Lake County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.28479,
         "longitude": -111.32965
     },
     {
-        "cityId": "5585304",
+        "cityId": 5585304,
         "name": "Benewah County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 47.21755,
         "longitude": -116.65883
     },
     {
-        "cityId": "5585826",
+        "cityId": 5585826,
         "name": "Bingham County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.21652,
         "longitude": -112.39805
     },
     {
-        "cityId": "5586170",
+        "cityId": 5586170,
         "name": "Blaine County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.41233,
         "longitude": -113.9804
     },
     {
-        "cityId": "5586445",
+        "cityId": 5586445,
         "name": "Boise County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.98913,
         "longitude": -115.73024
     },
     {
-        "cityId": "5586489",
+        "cityId": 5586489,
         "name": "Bonner County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 48.29975,
         "longitude": -116.60097
     },
     {
-        "cityId": "5586500",
+        "cityId": 5586500,
         "name": "Bonneville County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.38773,
         "longitude": -111.61493
     },
     {
-        "cityId": "5586641",
+        "cityId": 5586641,
         "name": "Boundary County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 48.76702,
         "longitude": -116.46288
     },
     {
-        "cityId": "5587504",
+        "cityId": 5587504,
         "name": "Butte County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.72287,
         "longitude": -113.17202
     },
     {
-        "cityId": "5587757",
+        "cityId": 5587757,
         "name": "Camas County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.46325,
         "longitude": -114.80585
     },
     {
-        "cityId": "5587975",
+        "cityId": 5587975,
         "name": "Canyon County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.62513,
         "longitude": -116.70929
     },
     {
-        "cityId": "5588082",
+        "cityId": 5588082,
         "name": "Caribou County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.77051,
         "longitude": -111.56224
     },
     {
-        "cityId": "5588204",
+        "cityId": 5588204,
         "name": "Cassia County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.28387,
         "longitude": -113.60037
     },
     {
-        "cityId": "5588908",
+        "cityId": 5588908,
         "name": "Clark County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.28398,
         "longitude": -112.35135
     },
     {
-        "cityId": "5589005",
+        "cityId": 5589005,
         "name": "Clearwater County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 46.6737,
         "longitude": -115.65686
     },
     {
-        "cityId": "5590383",
+        "cityId": 5590383,
         "name": "Custer County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.24142,
         "longitude": -114.2818
     },
     {
-        "cityId": "5592510",
+        "cityId": 5592510,
         "name": "Elmore County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.3539,
         "longitude": -115.46918
     },
     {
-        "cityId": "5593547",
+        "cityId": 5593547,
         "name": "Franklin County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.18117,
         "longitude": -111.81323
     },
     {
-        "cityId": "5593620",
+        "cityId": 5593620,
         "name": "Fremont County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.22879,
         "longitude": -111.48202
     },
     {
-        "cityId": "5593925",
+        "cityId": 5593925,
         "name": "Gem County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.06169,
         "longitude": -116.39723
     },
     {
-        "cityId": "5594311",
+        "cityId": 5594311,
         "name": "Gooding County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.9709,
         "longitude": -114.81152
     },
     {
-        "cityId": "5596467",
+        "cityId": 5596467,
         "name": "Idaho County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 45.8442,
         "longitude": -115.46745
     },
     {
-        "cityId": "5596986",
+        "cityId": 5596986,
         "name": "Jefferson County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.82014,
         "longitude": -112.31128
     },
     {
-        "cityId": "5597037",
+        "cityId": 5597037,
         "name": "Jerome County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.6899,
         "longitude": -114.26403
     },
     {
-        "cityId": "5597922",
+        "cityId": 5597922,
         "name": "Kootenai County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 47.67456,
         "longitude": -116.70001
     },
     {
-        "cityId": "5598264",
+        "cityId": 5598264,
         "name": "Latah County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 46.81613,
         "longitude": -116.71168
     },
     {
-        "cityId": "5598464",
+        "cityId": 5598464,
         "name": "Lemhi County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.94331,
         "longitude": -113.93324
     },
     {
-        "cityId": "5598527",
+        "cityId": 5598527,
         "name": "Lewis County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 46.23702,
         "longitude": -116.42625
     },
     {
-        "cityId": "5598678",
+        "cityId": 5598678,
         "name": "Lincoln County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.00241,
         "longitude": -114.13831
     },
     {
-        "cityId": "5599930",
+        "cityId": 5599930,
         "name": "Madison County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.78419,
         "longitude": -111.65934
     },
     {
-        "cityId": "5601141",
+        "cityId": 5601141,
         "name": "Minidoka County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.8544,
         "longitude": -113.63752
     },
     {
-        "cityId": "5602115",
+        "cityId": 5602115,
         "name": "Nez Perce County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 46.32676,
         "longitude": -116.75024
     },
     {
-        "cityId": "5602844",
+        "cityId": 5602844,
         "name": "Oneida County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.1949,
         "longitude": -112.53962
     },
     {
-        "cityId": "5603018",
+        "cityId": 5603018,
         "name": "Owyhee County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.58153,
         "longitude": -116.16998
     },
     {
-        "cityId": "5603395",
+        "cityId": 5603395,
         "name": "Payette County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.00674,
         "longitude": -116.76084
     },
     {
-        "cityId": "5604439",
+        "cityId": 5604439,
         "name": "Power County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.69369,
         "longitude": -112.84067
     },
     {
-        "cityId": "5607202",
+        "cityId": 5607202,
         "name": "Shoshone County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 47.35167,
         "longitude": -115.89103
     },
     {
-        "cityId": "5609855",
+        "cityId": 5609855,
         "name": "Teton County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 43.75946,
         "longitude": -111.2077
     },
     {
-        "cityId": "5610815",
+        "cityId": 5610815,
         "name": "Twin Falls County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 42.35598,
         "longitude": -114.66716
     },
     {
-        "cityId": "5611156",
+        "cityId": 5611156,
         "name": "Valley County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.7667,
         "longitude": -115.56613
     },
     {
-        "cityId": "5611570",
+        "cityId": 5611570,
         "name": "Washington County",
-        "stateId": "5596512",
+        "stateId": 5596512,
         "latitude": 44.45243,
         "longitude": -116.78477
     }

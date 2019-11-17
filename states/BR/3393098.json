@@ -1,1562 +1,1562 @@
 [
     {
-        "cityId": "3394547",
+        "cityId": 3394547,
         "name": "Monteiro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.91637,
         "longitude": -37.17496
     },
     {
-        "cityId": "3407206",
+        "cityId": 3407206,
         "name": "Areia",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.94723,
         "longitude": -35.66927
     },
     {
-        "cityId": "6319045",
+        "cityId": 6319045,
         "name": "Alhandra",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.35043,
         "longitude": -34.92835
     },
     {
-        "cityId": "6319046",
+        "cityId": 6319046,
         "name": "Aparecida",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.80925,
         "longitude": -38.07182
     },
     {
-        "cityId": "6319047",
+        "cityId": 6319047,
         "name": "Boqueir\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.55063,
         "longitude": -36.12977
     },
     {
-        "cityId": "6319048",
+        "cityId": 6319048,
         "name": "Cachoeira dos \u00cdndios",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.94486,
         "longitude": -38.69902
     },
     {
-        "cityId": "6319049",
+        "cityId": 6319049,
         "name": "Cajazeiras",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.92206,
         "longitude": -38.56928
     },
     {
-        "cityId": "6319050",
+        "cityId": 6319050,
         "name": "Concei\u00e7\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.49917,
         "longitude": -38.51375
     },
     {
-        "cityId": "6319051",
+        "cityId": 6319051,
         "name": "Cruz do Esp\u00edrito Santo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.14752,
         "longitude": -35.14179
     },
     {
-        "cityId": "6319052",
+        "cityId": 6319052,
         "name": "Curral de Cima",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.72359,
         "longitude": -35.28596
     },
     {
-        "cityId": "6319053",
+        "cityId": 6319053,
         "name": "Frei Martinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.44605,
         "longitude": -36.48061
     },
     {
-        "cityId": "6319054",
+        "cityId": 6319054,
         "name": "Ibiara",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.48251,
         "longitude": -38.38051
     },
     {
-        "cityId": "6319055",
+        "cityId": 6319055,
         "name": "Lagoa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.59521,
         "longitude": -37.84991
     },
     {
-        "cityId": "6319056",
+        "cityId": 6319056,
         "name": "Lagoa Seca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.14356,
         "longitude": -35.82941
     },
     {
-        "cityId": "6319057",
+        "cityId": 6319057,
         "name": "Mamanguape",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.70651,
         "longitude": -35.151
     },
     {
-        "cityId": "6319058",
+        "cityId": 6319058,
         "name": "Mataraca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.55476,
         "longitude": -35.0369
     },
     {
-        "cityId": "6319059",
+        "cityId": 6319059,
         "name": "Pocinhos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.03267,
         "longitude": -36.06886
     },
     {
-        "cityId": "6319060",
+        "cityId": 6319060,
         "name": "Pombal",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.80692,
         "longitude": -37.87012
     },
     {
-        "cityId": "6319061",
+        "cityId": 6319061,
         "name": "Rio Tinto",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.79673,
         "longitude": -35.03715
     },
     {
-        "cityId": "6319062",
+        "cityId": 6319062,
         "name": "Santa Rita",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.10437,
         "longitude": -34.97387
     },
     {
-        "cityId": "6319063",
+        "cityId": 6319063,
         "name": "S\u00e3o Jos\u00e9 do Bonfim",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.13715,
         "longitude": -37.31607
     },
     {
-        "cityId": "6319064",
+        "cityId": 6319064,
         "name": "Sousa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.73098,
         "longitude": -38.18614
     },
     {
-        "cityId": "6319065",
+        "cityId": 6319065,
         "name": "Triunfo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.58475,
         "longitude": -38.57827
     },
     {
-        "cityId": "6319066",
+        "cityId": 6319066,
         "name": "Zabel\u00ea",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -8.07634,
         "longitude": -37.05635
     },
     {
-        "cityId": "6319164",
+        "cityId": 6319164,
         "name": "Paulista",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.59504,
         "longitude": -37.60966
     },
     {
-        "cityId": "6320259",
+        "cityId": 6320259,
         "name": "Aguiar",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.0762,
         "longitude": -38.24255
     },
     {
-        "cityId": "6320260",
+        "cityId": 6320260,
         "name": "Alagoa Grande",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.07831,
         "longitude": -35.59525
     },
     {
-        "cityId": "6320261",
+        "cityId": 6320261,
         "name": "Alagoa Nova",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.04733,
         "longitude": -35.75397
     },
     {
-        "cityId": "6320262",
+        "cityId": 6320262,
         "name": "Alagoinha",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.96256,
         "longitude": -35.51465
     },
     {
-        "cityId": "6320263",
+        "cityId": 6320263,
         "name": "Alcantil",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.69816,
         "longitude": -36.06604
     },
     {
-        "cityId": "6320264",
+        "cityId": 6320264,
         "name": "Algod\u00e3o de Janda\u00edra",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.86987,
         "longitude": -35.97724
     },
     {
-        "cityId": "6320265",
+        "cityId": 6320265,
         "name": "S\u00e3o Jo\u00e3o do Rio do Peixe",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.71851,
         "longitude": -38.42942
     },
     {
-        "cityId": "6320266",
+        "cityId": 6320266,
         "name": "Ara\u00e7agi",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.85419,
         "longitude": -35.36047
     },
     {
-        "cityId": "6320267",
+        "cityId": 6320267,
         "name": "Arara",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.83227,
         "longitude": -35.74493
     },
     {
-        "cityId": "6320268",
+        "cityId": 6320268,
         "name": "Araruna",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.53485,
         "longitude": -35.72194
     },
     {
-        "cityId": "6320269",
+        "cityId": 6320269,
         "name": "Areia de Bara\u00fanas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.11328,
         "longitude": -36.97177
     },
     {
-        "cityId": "6320270",
+        "cityId": 6320270,
         "name": "Areial",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.04397,
         "longitude": -35.92622
     },
     {
-        "cityId": "6320271",
+        "cityId": 6320271,
         "name": "Aroeiras",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.52057,
         "longitude": -35.69927
     },
     {
-        "cityId": "6320272",
+        "cityId": 6320272,
         "name": "Assun\u00e7\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.07371,
         "longitude": -36.69894
     },
     {
-        "cityId": "6320273",
+        "cityId": 6320273,
         "name": "Ba\u00eda da Trai\u00e7\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.66287,
         "longitude": -34.97272
     },
     {
-        "cityId": "6320274",
+        "cityId": 6320274,
         "name": "Bananeiras",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.68221,
         "longitude": -35.59007
     },
     {
-        "cityId": "6320275",
+        "cityId": 6320275,
         "name": "Bara\u00fana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.61853,
         "longitude": -36.26964
     },
     {
-        "cityId": "6320276",
+        "cityId": 6320276,
         "name": "Barra de Santana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.59054,
         "longitude": -35.98824
     },
     {
-        "cityId": "6320277",
+        "cityId": 6320277,
         "name": "Barra de Santa Rosa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.79042,
         "longitude": -36.00175
     },
     {
-        "cityId": "6320278",
+        "cityId": 6320278,
         "name": "Barra de S\u00e3o Miguel",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.7164,
         "longitude": -36.25481
     },
     {
-        "cityId": "6320279",
+        "cityId": 6320279,
         "name": "Bayeux",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.12136,
         "longitude": -34.91725
     },
     {
-        "cityId": "6320280",
+        "cityId": 6320280,
         "name": "Bel\u00e9m",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.72329,
         "longitude": -35.50238
     },
     {
-        "cityId": "6320281",
+        "cityId": 6320281,
         "name": "Bel\u00e9m do Brejo do Cruz",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.1626,
         "longitude": -37.40554
     },
     {
-        "cityId": "6320282",
+        "cityId": 6320282,
         "name": "Bernardino Batista",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.47656,
         "longitude": -38.56998
     },
     {
-        "cityId": "6320283",
+        "cityId": 6320283,
         "name": "Boa Ventura",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.45676,
         "longitude": -38.17678
     },
     {
-        "cityId": "6320284",
+        "cityId": 6320284,
         "name": "Boa Vista",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.26995,
         "longitude": -36.15741
     },
     {
-        "cityId": "6320285",
+        "cityId": 6320285,
         "name": "Bom Jesus",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.81845,
         "longitude": -38.62549
     },
     {
-        "cityId": "6320286",
+        "cityId": 6320286,
         "name": "Bom Sucesso",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.47349,
         "longitude": -37.9577
     },
     {
-        "cityId": "6320287",
+        "cityId": 6320287,
         "name": "Bonito de Santa F\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.2894,
         "longitude": -38.47977
     },
     {
-        "cityId": "6320288",
+        "cityId": 6320288,
         "name": "Igaracy",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.13856,
         "longitude": -38.13526
     },
     {
-        "cityId": "6320289",
+        "cityId": 6320289,
         "name": "Borborema",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.79913,
         "longitude": -35.62094
     },
     {
-        "cityId": "6320290",
+        "cityId": 6320290,
         "name": "Brejo do Cruz",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.32578,
         "longitude": -37.49716
     },
     {
-        "cityId": "6320291",
+        "cityId": 6320291,
         "name": "Brejo dos Santos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.39546,
         "longitude": -37.8607
     },
     {
-        "cityId": "6320292",
+        "cityId": 6320292,
         "name": "Caapor\u00e3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.48718,
         "longitude": -34.91832
     },
     {
-        "cityId": "6320293",
+        "cityId": 6320293,
         "name": "Cabaceiras",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.50856,
         "longitude": -36.33351
     },
     {
-        "cityId": "6320294",
+        "cityId": 6320294,
         "name": "Cabedelo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.0272,
         "longitude": -34.85044
     },
     {
-        "cityId": "6320295",
+        "cityId": 6320295,
         "name": "Cacimba de Areia",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.13451,
         "longitude": -37.1537
     },
     {
-        "cityId": "6320296",
+        "cityId": 6320296,
         "name": "Cacimba de Dentro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.62328,
         "longitude": -35.8005
     },
     {
-        "cityId": "6320297",
+        "cityId": 6320297,
         "name": "Cacimbas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.2318,
         "longitude": -37.09984
     },
     {
-        "cityId": "6320298",
+        "cityId": 6320298,
         "name": "Cai\u00e7ara",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.59631,
         "longitude": -35.39497
     },
     {
-        "cityId": "6320299",
+        "cityId": 6320299,
         "name": "Cajazeirinhas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.94633,
         "longitude": -37.81454
     },
     {
-        "cityId": "6320300",
+        "cityId": 6320300,
         "name": "Caldas Brand\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.15105,
         "longitude": -35.3487
     },
     {
-        "cityId": "6320301",
+        "cityId": 6320301,
         "name": "Camala\u00fa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.92695,
         "longitude": -36.74211
     },
     {
-        "cityId": "6320302",
+        "cityId": 6320302,
         "name": "Campina Grande",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.27818,
         "longitude": -35.97631
     },
     {
-        "cityId": "6320303",
+        "cityId": 6320303,
         "name": "Capim",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.8915,
         "longitude": -35.183
     },
     {
-        "cityId": "6320304",
+        "cityId": 6320304,
         "name": "Cara\u00fabas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.79092,
         "longitude": -36.50278
     },
     {
-        "cityId": "6320305",
+        "cityId": 6320305,
         "name": "Carrapateira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.02919,
         "longitude": -38.32951
     },
     {
-        "cityId": "6320306",
+        "cityId": 6320306,
         "name": "Casserengue",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.7543,
         "longitude": -35.84377
     },
     {
-        "cityId": "6320307",
+        "cityId": 6320307,
         "name": "Catingueira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.13699,
         "longitude": -37.59654
     },
     {
-        "cityId": "6320308",
+        "cityId": 6320308,
         "name": "Catol\u00e9 do Rocha",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.31231,
         "longitude": -37.72843
     },
     {
-        "cityId": "6320309",
+        "cityId": 6320309,
         "name": "Caturit\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.41991,
         "longitude": -36.04194
     },
     {
-        "cityId": "6320310",
+        "cityId": 6320310,
         "name": "Condado",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.85244,
         "longitude": -37.61864
     },
     {
-        "cityId": "6320311",
+        "cityId": 6320311,
         "name": "Conde",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.28644,
         "longitude": -34.84305
     },
     {
-        "cityId": "6320312",
+        "cityId": 6320312,
         "name": "Congo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.79578,
         "longitude": -36.63487
     },
     {
-        "cityId": "6320313",
+        "cityId": 6320313,
         "name": "Coremas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.01057,
         "longitude": -37.98264
     },
     {
-        "cityId": "6320314",
+        "cityId": 6320314,
         "name": "Coxixola",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.66749,
         "longitude": -36.61824
     },
     {
-        "cityId": "6320315",
+        "cityId": 6320315,
         "name": "Cubati",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.86116,
         "longitude": -36.33415
     },
     {
-        "cityId": "6320316",
+        "cityId": 6320316,
         "name": "Cuit\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.51391,
         "longitude": -36.06759
     },
     {
-        "cityId": "6320317",
+        "cityId": 6320317,
         "name": "Cuitegi",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.90639,
         "longitude": -35.53423
     },
     {
-        "cityId": "6320318",
+        "cityId": 6320318,
         "name": "Cuit\u00e9 de Mamanguape",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.89788,
         "longitude": -35.26042
     },
     {
-        "cityId": "6320319",
+        "cityId": 6320319,
         "name": "Curral Velho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.55796,
         "longitude": -38.19847
     },
     {
-        "cityId": "6320320",
+        "cityId": 6320320,
         "name": "Dami\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.67843,
         "longitude": -35.92205
     },
     {
-        "cityId": "6320321",
+        "cityId": 6320321,
         "name": "Desterro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.29362,
         "longitude": -37.1136
     },
     {
-        "cityId": "6320322",
+        "cityId": 6320322,
         "name": "Vista Serrana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.74167,
         "longitude": -37.57597
     },
     {
-        "cityId": "6320323",
+        "cityId": 6320323,
         "name": "Diamante",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.41004,
         "longitude": -38.30873
     },
     {
-        "cityId": "6320324",
+        "cityId": 6320324,
         "name": "Dona In\u00eas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.60102,
         "longitude": -35.60547
     },
     {
-        "cityId": "6320325",
+        "cityId": 6320325,
         "name": "Duas Estradas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.71946,
         "longitude": -35.39737
     },
     {
-        "cityId": "6320326",
+        "cityId": 6320326,
         "name": "Emas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.1268,
         "longitude": -37.73881
     },
     {
-        "cityId": "6320327",
+        "cityId": 6320327,
         "name": "Esperan\u00e7a",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.99864,
         "longitude": -35.90777
     },
     {
-        "cityId": "6320328",
+        "cityId": 6320328,
         "name": "Fagundes",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.39161,
         "longitude": -35.77424
     },
     {
-        "cityId": "6320329",
+        "cityId": 6320329,
         "name": "Gado Bravo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.59984,
         "longitude": -35.81967
     },
     {
-        "cityId": "6320330",
+        "cityId": 6320330,
         "name": "Guarabira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.8796,
         "longitude": -35.44117
     },
     {
-        "cityId": "6320331",
+        "cityId": 6320331,
         "name": "Gurinh\u00e9m",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.17169,
         "longitude": -35.40792
     },
     {
-        "cityId": "6320332",
+        "cityId": 6320332,
         "name": "Imaculada",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.34686,
         "longitude": -37.5573
     },
     {
-        "cityId": "6320333",
+        "cityId": 6320333,
         "name": "Ing\u00e1",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.25441,
         "longitude": -35.62897
     },
     {
-        "cityId": "6320334",
+        "cityId": 6320334,
         "name": "Itabaiana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.36659,
         "longitude": -35.36575
     },
     {
-        "cityId": "6320335",
+        "cityId": 6320335,
         "name": "Itaporanga",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.30035,
         "longitude": -38.25159
     },
     {
-        "cityId": "6320336",
+        "cityId": 6320336,
         "name": "Itapororoca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.81152,
         "longitude": -35.24478
     },
     {
-        "cityId": "6320337",
+        "cityId": 6320337,
         "name": "Itatuba",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.39234,
         "longitude": -35.58368
     },
     {
-        "cityId": "6320338",
+        "cityId": 6320338,
         "name": "Jacara\u00fa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.62681,
         "longitude": -35.26339
     },
     {
-        "cityId": "6320339",
+        "cityId": 6320339,
         "name": "Jeric\u00f3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.50746,
         "longitude": -37.80665
     },
     {
-        "cityId": "6320340",
+        "cityId": 6320340,
         "name": "Jo\u00e3o Pessoa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.17088,
         "longitude": -34.86536
     },
     {
-        "cityId": "6320341",
+        "cityId": 6320341,
         "name": "Juarez T\u00e1vora",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.15975,
         "longitude": -35.5716
     },
     {
-        "cityId": "6320342",
+        "cityId": 6320342,
         "name": "Juazeirinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.99463,
         "longitude": -36.60213
     },
     {
-        "cityId": "6320343",
+        "cityId": 6320343,
         "name": "Junco do Serid\u00f3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.97843,
         "longitude": -36.72769
     },
     {
-        "cityId": "6320344",
+        "cityId": 6320344,
         "name": "Juripiranga",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.35,
         "longitude": -35.22087
     },
     {
-        "cityId": "6320345",
+        "cityId": 6320345,
         "name": "Juru",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.49131,
         "longitude": -37.78854
     },
     {
-        "cityId": "6320346",
+        "cityId": 6320346,
         "name": "Lagoa de Dentro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.68308,
         "longitude": -35.35907
     },
     {
-        "cityId": "6320347",
+        "cityId": 6320347,
         "name": "Lastro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.5374,
         "longitude": -38.18946
     },
     {
-        "cityId": "6320348",
+        "cityId": 6320348,
         "name": "Livramento",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.34008,
         "longitude": -36.93209
     },
     {
-        "cityId": "6320349",
+        "cityId": 6320349,
         "name": "Logradouro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.55268,
         "longitude": -35.42864
     },
     {
-        "cityId": "6320350",
+        "cityId": 6320350,
         "name": "Lucena",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.92461,
         "longitude": -34.90267
     },
     {
-        "cityId": "6320351",
+        "cityId": 6320351,
         "name": "M\u00e3e d'\u00c1gua",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.2199,
         "longitude": -37.45284
     },
     {
-        "cityId": "6320352",
+        "cityId": 6320352,
         "name": "Malta",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.904,
         "longitude": -37.51251
     },
     {
-        "cityId": "6320353",
+        "cityId": 6320353,
         "name": "Mana\u00edra",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.70247,
         "longitude": -38.22947
     },
     {
-        "cityId": "6320354",
+        "cityId": 6320354,
         "name": "Marca\u00e7\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.74717,
         "longitude": -34.99103
     },
     {
-        "cityId": "6320355",
+        "cityId": 6320355,
         "name": "Mari",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.07138,
         "longitude": -35.30258
     },
     {
-        "cityId": "6320356",
+        "cityId": 6320356,
         "name": "Mariz\u00f3polis",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.82133,
         "longitude": -38.33496
     },
     {
-        "cityId": "6320357",
+        "cityId": 6320357,
         "name": "Massaranduba",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.20476,
         "longitude": -35.78379
     },
     {
-        "cityId": "6320358",
+        "cityId": 6320358,
         "name": "Matinhas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.12428,
         "longitude": -35.7607
     },
     {
-        "cityId": "6320359",
+        "cityId": 6320359,
         "name": "Mato Grosso",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.54728,
         "longitude": -37.75067
     },
     {
-        "cityId": "6320360",
+        "cityId": 6320360,
         "name": "Matur\u00e9ia",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.27175,
         "longitude": -37.3394
     },
     {
-        "cityId": "6320361",
+        "cityId": 6320361,
         "name": "Mogeiro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.26788,
         "longitude": -35.48727
     },
     {
-        "cityId": "6320362",
+        "cityId": 6320362,
         "name": "Montadas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.08947,
         "longitude": -35.903
     },
     {
-        "cityId": "6320363",
+        "cityId": 6320363,
         "name": "Monte Horebe",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.20792,
         "longitude": -38.52503
     },
     {
-        "cityId": "6320364",
+        "cityId": 6320364,
         "name": "Mulungu",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.98029,
         "longitude": -35.41871
     },
     {
-        "cityId": "6320365",
+        "cityId": 6320365,
         "name": "Natuba",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.55807,
         "longitude": -35.54632
     },
     {
-        "cityId": "6320366",
+        "cityId": 6320366,
         "name": "Nazarezinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.91991,
         "longitude": -38.32592
     },
     {
-        "cityId": "6320367",
+        "cityId": 6320367,
         "name": "Nova Floresta",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.48792,
         "longitude": -36.20101
     },
     {
-        "cityId": "6320368",
+        "cityId": 6320368,
         "name": "Nova Olinda",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.45231,
         "longitude": -38.01122
     },
     {
-        "cityId": "6320369",
+        "cityId": 6320369,
         "name": "Nova Palmeira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.67346,
         "longitude": -36.44186
     },
     {
-        "cityId": "6320370",
+        "cityId": 6320370,
         "name": "Olho d'\u00c1gua",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.26106,
         "longitude": -37.73242
     },
     {
-        "cityId": "6320371",
+        "cityId": 6320371,
         "name": "Olivedos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.99403,
         "longitude": -36.23822
     },
     {
-        "cityId": "6320372",
+        "cityId": 6320372,
         "name": "Ouro Velho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.60554,
         "longitude": -37.13565
     },
     {
-        "cityId": "6320373",
+        "cityId": 6320373,
         "name": "Parari",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.31136,
         "longitude": -36.67699
     },
     {
-        "cityId": "6320374",
+        "cityId": 6320374,
         "name": "Passagem",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.11889,
         "longitude": -37.03671
     },
     {
-        "cityId": "6320375",
+        "cityId": 6320375,
         "name": "Patos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.99689,
         "longitude": -37.34287
     },
     {
-        "cityId": "6320376",
+        "cityId": 6320376,
         "name": "Pedra Lavrada",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.78024,
         "longitude": -36.442
     },
     {
-        "cityId": "6320377",
+        "cityId": 6320377,
         "name": "Pedras de Fogo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.37583,
         "longitude": -35.07071
     },
     {
-        "cityId": "6320378",
+        "cityId": 6320378,
         "name": "Picu\u00ed",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.53008,
         "longitude": -36.35837
     },
     {
-        "cityId": "6320379",
+        "cityId": 6320379,
         "name": "Pilar",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.25739,
         "longitude": -35.26971
     },
     {
-        "cityId": "6320380",
+        "cityId": 6320380,
         "name": "Pil\u00f5es",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.89446,
         "longitude": -35.59432
     },
     {
-        "cityId": "6320381",
+        "cityId": 6320381,
         "name": "Pil\u00f5ezinhos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.85269,
         "longitude": -35.54455
     },
     {
-        "cityId": "6320382",
+        "cityId": 6320382,
         "name": "Pirpirituba",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.78371,
         "longitude": -35.4804
     },
     {
-        "cityId": "6320383",
+        "cityId": 6320383,
         "name": "Pitimbu",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.41381,
         "longitude": -34.83686
     },
     {
-        "cityId": "6320384",
+        "cityId": 6320384,
         "name": "Po\u00e7o Dantas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.38792,
         "longitude": -38.53359
     },
     {
-        "cityId": "6320385",
+        "cityId": 6320385,
         "name": "Po\u00e7o de Jos\u00e9 de Moura",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.59957,
         "longitude": -38.50574
     },
     {
-        "cityId": "6320386",
+        "cityId": 6320386,
         "name": "Princesa Isabel",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.6487,
         "longitude": -38.04258
     },
     {
-        "cityId": "6320387",
+        "cityId": 6320387,
         "name": "Puxinan\u00e3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.17053,
         "longitude": -35.92913
     },
     {
-        "cityId": "6320388",
+        "cityId": 6320388,
         "name": "Queimadas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.42696,
         "longitude": -35.89774
     },
     {
-        "cityId": "6320389",
+        "cityId": 6320389,
         "name": "Quixab\u00e1",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.05081,
         "longitude": -37.11783
     },
     {
-        "cityId": "6320390",
+        "cityId": 6320390,
         "name": "Rem\u00edgio",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.95596,
         "longitude": -35.85965
     },
     {
-        "cityId": "6320391",
+        "cityId": 6320391,
         "name": "Pedro R\u00e9gis",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.67047,
         "longitude": -35.31031
     },
     {
-        "cityId": "6320392",
+        "cityId": 6320392,
         "name": "Riach\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.55515,
         "longitude": -35.62324
     },
     {
-        "cityId": "6320393",
+        "cityId": 6320393,
         "name": "Riach\u00e3o do Bacamarte",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.26337,
         "longitude": -35.67518
     },
     {
-        "cityId": "6320394",
+        "cityId": 6320394,
         "name": "Riach\u00e3o do Po\u00e7o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.17041,
         "longitude": -35.303
     },
     {
-        "cityId": "6320395",
+        "cityId": 6320395,
         "name": "Riacho de Santo Ant\u00f4nio",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.66143,
         "longitude": -36.13551
     },
     {
-        "cityId": "6320396",
+        "cityId": 6320396,
         "name": "Riacho dos Cavalos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.4714,
         "longitude": -37.64024
     },
     {
-        "cityId": "6320397",
+        "cityId": 6320397,
         "name": "Salgadinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.08934,
         "longitude": -36.86318
     },
     {
-        "cityId": "6320398",
+        "cityId": 6320398,
         "name": "Salgado de S\u00e3o F\u00e9lix",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.40862,
         "longitude": -35.45675
     },
     {
-        "cityId": "6320399",
+        "cityId": 6320399,
         "name": "Santa Cec\u00edlia",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.72027,
         "longitude": -35.93681
     },
     {
-        "cityId": "6320400",
+        "cityId": 6320400,
         "name": "Santa Cruz",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.54542,
         "longitude": -38.04968
     },
     {
-        "cityId": "6320401",
+        "cityId": 6320401,
         "name": "Santa Helena",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.72745,
         "longitude": -38.59506
     },
     {
-        "cityId": "6320402",
+        "cityId": 6320402,
         "name": "Santa In\u00eas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.68334,
         "longitude": -38.59346
     },
     {
-        "cityId": "6320403",
+        "cityId": 6320403,
         "name": "Santa Luzia",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.92562,
         "longitude": -36.9066
     },
     {
-        "cityId": "6320404",
+        "cityId": 6320404,
         "name": "Santana de Mangueira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.66593,
         "longitude": -38.35848
     },
     {
-        "cityId": "6320405",
+        "cityId": 6320405,
         "name": "Santana dos Garrotes",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.38163,
         "longitude": -37.95386
     },
     {
-        "cityId": "6320406",
+        "cityId": 6320406,
         "name": "Joca Claudino",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.48432,
         "longitude": -38.46407
     },
     {
-        "cityId": "6320407",
+        "cityId": 6320407,
         "name": "Santa Teresinha",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.12089,
         "longitude": -37.49654
     },
     {
-        "cityId": "6320408",
+        "cityId": 6320408,
         "name": "Santo Andr\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.24178,
         "longitude": -36.6146
     },
     {
-        "cityId": "6320409",
+        "cityId": 6320409,
         "name": "S\u00e3o Bento",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.47344,
         "longitude": -37.47144
     },
     {
-        "cityId": "6320410",
+        "cityId": 6320410,
         "name": "S\u00e3o Bentinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.88452,
         "longitude": -37.75898
     },
     {
-        "cityId": "6320411",
+        "cityId": 6320411,
         "name": "S\u00e3o Domingos do Cariri",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.56749,
         "longitude": -36.36393
     },
     {
-        "cityId": "6320412",
+        "cityId": 6320412,
         "name": "S\u00e3o Domingos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.80733,
         "longitude": -37.91657
     },
     {
-        "cityId": "6320413",
+        "cityId": 6320413,
         "name": "S\u00e3o Jo\u00e3o do Cariri",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.48465,
         "longitude": -36.48602
     },
     {
-        "cityId": "6320414",
+        "cityId": 6320414,
         "name": "S\u00e3o Jo\u00e3o do Tigre",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -8.10906,
         "longitude": -36.79766
     },
     {
-        "cityId": "6320415",
+        "cityId": 6320415,
         "name": "S\u00e3o Jos\u00e9 da Lagoa Tapada",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.94245,
         "longitude": -38.09393
     },
     {
-        "cityId": "6320416",
+        "cityId": 6320416,
         "name": "S\u00e3o Jos\u00e9 de Caiana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.25916,
         "longitude": -38.34483
     },
     {
-        "cityId": "6320417",
+        "cityId": 6320417,
         "name": "S\u00e3o Jos\u00e9 de Espinharas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.80244,
         "longitude": -37.38224
     },
     {
-        "cityId": "6320418",
+        "cityId": 6320418,
         "name": "S\u00e3o Jos\u00e9 dos Ramos",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.25103,
         "longitude": -35.3741
     },
     {
-        "cityId": "6320419",
+        "cityId": 6320419,
         "name": "S\u00e3o Jos\u00e9 de Piranhas",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.11074,
         "longitude": -38.52611
     },
     {
-        "cityId": "6320420",
+        "cityId": 6320420,
         "name": "S\u00e3o Jos\u00e9 de Princesa",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.70649,
         "longitude": -38.08465
     },
     {
-        "cityId": "6320421",
+        "cityId": 6320421,
         "name": "S\u00e3o Jos\u00e9 do Brejo do Cruz",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.23731,
         "longitude": -37.37932
     },
     {
-        "cityId": "6320422",
+        "cityId": 6320422,
         "name": "S\u00e3o Jos\u00e9 do Sabugi",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.82784,
         "longitude": -36.80335
     },
     {
-        "cityId": "6320423",
+        "cityId": 6320423,
         "name": "S\u00e3o Jos\u00e9 dos Cordeiros",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.41638,
         "longitude": -36.84773
     },
     {
-        "cityId": "6320424",
+        "cityId": 6320424,
         "name": "S\u00e3o Mamede",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.92111,
         "longitude": -37.09131
     },
     {
-        "cityId": "6320425",
+        "cityId": 6320425,
         "name": "S\u00e3o Miguel de Taipu",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.21706,
         "longitude": -35.20175
     },
     {
-        "cityId": "6320426",
+        "cityId": 6320426,
         "name": "S\u00e3o Sebasti\u00e3o de Lagoa de Ro\u00e7a",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.08497,
         "longitude": -35.84445
     },
     {
-        "cityId": "6320427",
+        "cityId": 6320427,
         "name": "S\u00e3o Sebasti\u00e3o do Umbuzeiro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -8.1569,
         "longitude": -37.0222
     },
     {
-        "cityId": "6320428",
+        "cityId": 6320428,
         "name": "Sap\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.07937,
         "longitude": -35.21734
     },
     {
-        "cityId": "6320429",
+        "cityId": 6320429,
         "name": "Serid\u00f3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.88683,
         "longitude": -36.42652
     },
     {
-        "cityId": "6320430",
+        "cityId": 6320430,
         "name": "Serra Branca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.58019,
         "longitude": -36.73326
     },
     {
-        "cityId": "6320431",
+        "cityId": 6320431,
         "name": "Serra da Raiz",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.69703,
         "longitude": -35.43579
     },
     {
-        "cityId": "6320432",
+        "cityId": 6320432,
         "name": "Serra Grande",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.2509,
         "longitude": -38.39588
     },
     {
-        "cityId": "6320433",
+        "cityId": 6320433,
         "name": "Serra Redonda",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.15665,
         "longitude": -35.67628
     },
     {
-        "cityId": "6320434",
+        "cityId": 6320434,
         "name": "Serraria",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.86365,
         "longitude": -35.66926
     },
     {
-        "cityId": "6320435",
+        "cityId": 6320435,
         "name": "Sobrado",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.16887,
         "longitude": -35.23251
     },
     {
-        "cityId": "6320436",
+        "cityId": 6320436,
         "name": "Sol\u00e2nea",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.73321,
         "longitude": -35.69495
     },
     {
-        "cityId": "6320437",
+        "cityId": 6320437,
         "name": "Soss\u00eago",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.67592,
         "longitude": -36.17875
     },
     {
-        "cityId": "6320438",
+        "cityId": 6320438,
         "name": "Sum\u00e9",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.61709,
         "longitude": -36.9104
     },
     {
-        "cityId": "6320439",
+        "cityId": 6320439,
         "name": "Tacima",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.53805,
         "longitude": -35.52277
     },
     {
-        "cityId": "6320440",
+        "cityId": 6320440,
         "name": "Tapero\u00e1",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.1687,
         "longitude": -36.79197
     },
     {
-        "cityId": "6320441",
+        "cityId": 6320441,
         "name": "Tavares",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.61418,
         "longitude": -37.87959
     },
     {
-        "cityId": "6320442",
+        "cityId": 6320442,
         "name": "Teixeira",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.24821,
         "longitude": -37.27523
     },
     {
-        "cityId": "6320443",
+        "cityId": 6320443,
         "name": "Ten\u00f3rio",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.97568,
         "longitude": -36.62216
     },
     {
-        "cityId": "6320444",
+        "cityId": 6320444,
         "name": "Uira\u00fana",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.4965,
         "longitude": -38.38015
     },
     {
-        "cityId": "6320445",
+        "cityId": 6320445,
         "name": "Umbuzeiro",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.67111,
         "longitude": -35.73927
     },
     {
-        "cityId": "6320446",
+        "cityId": 6320446,
         "name": "V\u00e1rzea",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.80276,
         "longitude": -37.03707
     },
     {
-        "cityId": "6320447",
+        "cityId": 6320447,
         "name": "Vieir\u00f3polis",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.55838,
         "longitude": -38.27091
     },
     {
-        "cityId": "6324196",
+        "cityId": 6324196,
         "name": "Gurj\u00e3o",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.261,
         "longitude": -36.50008
     },
     {
-        "cityId": "6324225",
+        "cityId": 6324225,
         "name": "Prata",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.7125,
         "longitude": -37.09411
     },
     {
-        "cityId": "6324226",
+        "cityId": 6324226,
         "name": "S\u00e3o Francisco",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.63302,
         "longitude": -38.0378
     },
     {
-        "cityId": "6324244",
+        "cityId": 6324244,
         "name": "\u00c1gua Branca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.46957,
         "longitude": -37.661
     },
     {
-        "cityId": "6324245",
+        "cityId": 6324245,
         "name": "Sert\u00e3ozinho",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -6.73939,
         "longitude": -35.41628
     },
     {
-        "cityId": "6324254",
+        "cityId": 6324254,
         "name": "Amparo",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.55889,
         "longitude": -37.03372
     },
     {
-        "cityId": "6324255",
+        "cityId": 6324255,
         "name": "Pedra Branca",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.46068,
         "longitude": -38.07996
     },
     {
-        "cityId": "6324256",
+        "cityId": 6324256,
         "name": "Soledade",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.11244,
         "longitude": -36.36478
     },
     {
-        "cityId": "6324304",
+        "cityId": 6324304,
         "name": "Pianc\u00f3",
-        "stateId": "3393098",
+        "stateId": 3393098,
         "latitude": -7.22625,
         "longitude": -37.9463
     }

@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "472321",
+        "cityId": 472321,
         "name": "Volotovskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.83333,
         "longitude": 30.66667
     },
     {
-        "cityId": "477295",
+        "cityId": 477295,
         "name": "Valdayskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.91667,
         "longitude": 33.25
     },
     {
-        "cityId": "488681",
+        "cityId": 488681,
         "name": "Starorusskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58,
         "longitude": 31.41667
     },
     {
-        "cityId": "491033",
+        "cityId": 491033,
         "name": "Soletskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.08333,
         "longitude": 30.25
     },
     {
-        "cityId": "494364",
+        "cityId": 494364,
         "name": "Shimskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.21667,
         "longitude": 30.71667
     },
     {
-        "cityId": "508442",
+        "cityId": 508442,
         "name": "Poddorskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.41667,
         "longitude": 31.25
     },
     {
-        "cityId": "510351",
+        "cityId": 510351,
         "name": "Pestovskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.66667,
         "longitude": 35.66667
     },
     {
-        "cityId": "512568",
+        "cityId": 512568,
         "name": "Parfinskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58,
         "longitude": 31.66667
     },
     {
-        "cityId": "515748",
+        "cityId": 515748,
         "name": "Okulovskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.41667,
         "longitude": 33.25
     },
     {
-        "cityId": "519322",
+        "cityId": 519322,
         "name": "Novgorodskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.75,
         "longitude": 31.25
     },
     {
-        "cityId": "525024",
+        "cityId": 525024,
         "name": "Moshenskoy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.5,
         "longitude": 34.75
     },
     {
-        "cityId": "529386",
+        "cityId": 529386,
         "name": "Marevskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.33333,
         "longitude": 32.25
     },
     {
-        "cityId": "530859",
+        "cityId": 530859,
         "name": "Malovisherskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.75,
         "longitude": 32.5
     },
     {
-        "cityId": "532461",
+        "cityId": 532461,
         "name": "Lyubytinskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.83333,
         "longitude": 33.5
     },
     {
-        "cityId": "541156",
+        "cityId": 541156,
         "name": "Krestetskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.25,
         "longitude": 32.5
     },
     {
-        "cityId": "548887",
+        "cityId": 548887,
         "name": "Khvoyninskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.91667,
         "longitude": 34.5
     },
     {
-        "cityId": "549740",
+        "cityId": 549740,
         "name": "Kholmskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.08333,
         "longitude": 31.33333
     },
     {
-        "cityId": "566628",
+        "cityId": 566628,
         "name": "Demyanskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 57.58333,
         "longitude": 32.75
     },
     {
-        "cityId": "567768",
+        "cityId": 567768,
         "name": "Chudovskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 59.16667,
         "longitude": 31.83333
     },
     {
-        "cityId": "572153",
+        "cityId": 572153,
         "name": "Borovichskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.5,
         "longitude": 34
     },
     {
-        "cityId": "578731",
+        "cityId": 578731,
         "name": "Batetskiy Rayon",
-        "stateId": "519324",
+        "stateId": 519324,
         "latitude": 58.58333,
         "longitude": 30.5
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "7910184",
+        "cityId": 7910184,
         "name": "Laulara",
-        "stateId": "1651815",
+        "stateId": 1651815,
         "latitude": -8.62306,
         "longitude": 125.58205
     },
     {
-        "cityId": "7910186",
+        "cityId": 7910186,
         "name": "Aileu Villa",
-        "stateId": "1651815",
+        "stateId": 1651815,
         "latitude": -8.74472,
         "longitude": 125.55686
     },
     {
-        "cityId": "8617903",
+        "cityId": 8617903,
         "name": "Lequidoe",
-        "stateId": "1651815",
+        "stateId": 1651815,
         "latitude": -8.69139,
         "longitude": 125.63611
     },
     {
-        "cityId": "8617904",
+        "cityId": 8617904,
         "name": "Remexio",
-        "stateId": "1651815",
+        "stateId": 1651815,
         "latitude": -8.61667,
         "longitude": 125.66667
     }

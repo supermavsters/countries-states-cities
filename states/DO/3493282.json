@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3491909",
+        "cityId": 3491909,
         "name": "Villa Tapia",
-        "stateId": "3493282",
+        "stateId": 3493282,
         "latitude": 19.3,
         "longitude": -70.4
     },
     {
-        "cityId": "3492478",
+        "cityId": 3492478,
         "name": "Tenares",
-        "stateId": "3493282",
+        "stateId": 3493282,
         "latitude": 19.38333,
         "longitude": -70.33333
     },
     {
-        "cityId": "3493284",
+        "cityId": 3493284,
         "name": "Salcedo",
-        "stateId": "3493282",
+        "stateId": 3493282,
         "latitude": 19.41667,
         "longitude": -70.38333
     }

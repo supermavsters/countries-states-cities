@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "2610315",
+        "cityId": 2610315,
         "name": "Viborg Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.45,
         "longitude": 9.36667
     },
     {
-        "cityId": "2612202",
+        "cityId": 2612202,
         "name": "Struer Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.46667,
         "longitude": 8.58333
     },
     {
-        "cityId": "2613729",
+        "cityId": 2613729,
         "name": "Skive Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.64478,
         "longitude": 8.9766
     },
     {
-        "cityId": "2613886",
+        "cityId": 2613886,
         "name": "Skanderborg Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.07956,
         "longitude": 9.89868
     },
     {
-        "cityId": "2614029",
+        "cityId": 2614029,
         "name": "Silkeborg Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.17495,
         "longitude": 9.54666
     },
     {
-        "cityId": "2614281",
+        "cityId": 2614281,
         "name": "Sams\u00f8 Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 55.85245,
         "longitude": 10.60045
     },
     {
-        "cityId": "2615003",
+        "cityId": 2615003,
         "name": "Randers Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.51561,
         "longitude": 10.06901
     },
     {
-        "cityId": "2615884",
+        "cityId": 2615884,
         "name": "Odder Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 55.92967,
         "longitude": 10.15304
     },
     {
-        "cityId": "2617811",
+        "cityId": 2617811,
         "name": "Lemvig Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.49136,
         "longitude": 8.29927
     },
     {
-        "cityId": "2619767",
+        "cityId": 2619767,
         "name": "Horsens Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 55.9274,
         "longitude": 9.77377
     },
     {
-        "cityId": "2620045",
+        "cityId": 2620045,
         "name": "Holstebro Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.35916,
         "longitude": 8.59631
     },
     {
-        "cityId": "2620423",
+        "cityId": 2620423,
         "name": "Herning Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.14997,
         "longitude": 8.89712
     },
     {
-        "cityId": "2620581",
+        "cityId": 2620581,
         "name": "Hedensted Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 55.7968,
         "longitude": 9.744
     },
     {
-        "cityId": "2624647",
+        "cityId": 2624647,
         "name": "\u00c5rhus Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.16317,
         "longitude": 10.16897
     },
     {
-        "cityId": "6543932",
+        "cityId": 6543932,
         "name": "Ringk\u00f8bing-Skjern Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.01,
         "longitude": 8.39667
     },
     {
-        "cityId": "6543933",
+        "cityId": 6543933,
         "name": "Norddjurs Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.44124,
         "longitude": 10.7666
     },
     {
-        "cityId": "6543944",
+        "cityId": 6543944,
         "name": "Ikast-Brande Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 55.98333,
         "longitude": 9.21667
     },
     {
-        "cityId": "6543946",
+        "cityId": 6543946,
         "name": "Favrskov Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.31667,
         "longitude": 9.94
     },
     {
-        "cityId": "6543947",
+        "cityId": 6543947,
         "name": "Syddjurs Kommune",
-        "stateId": "6418539",
+        "stateId": 6418539,
         "latitude": 56.3125,
         "longitude": 10.52083
     }

@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2418595",
+        "cityId": 2418595,
         "name": "Koundara Prefecture",
-        "stateId": "8335085",
+        "stateId": 8335085,
         "latitude": 12.41667,
         "longitude": -13.16667
     },
     {
-        "cityId": "2420825",
+        "cityId": 2420825,
         "name": "Gaoual Prefecture",
-        "stateId": "8335085",
+        "stateId": 8335085,
         "latitude": 11.75,
         "longitude": -13.2
     },
     {
-        "cityId": "2420883",
+        "cityId": 2420883,
         "name": "Fria",
-        "stateId": "8335085",
+        "stateId": 8335085,
         "latitude": 10.41667,
         "longitude": -13.58333
     },
     {
-        "cityId": "2422923",
+        "cityId": 2422923,
         "name": "Boke Prefecture",
-        "stateId": "8335085",
+        "stateId": 8335085,
         "latitude": 11.08333,
         "longitude": -14.41667
     },
     {
-        "cityId": "2422967",
+        "cityId": 2422967,
         "name": "Boffa",
-        "stateId": "8335085",
+        "stateId": 8335085,
         "latitude": 10.33333,
         "longitude": -14.16667
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3601978",
+        "cityId": 3601978,
         "name": "San Lorenzo",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.41667,
         "longitude": -87.45
     },
     {
-        "cityId": "3602285",
+        "cityId": 3602285,
         "name": "San Francisco de Coray",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.65,
         "longitude": -87.53333
     },
     {
-        "cityId": "3604523",
+        "cityId": 3604523,
         "name": "Nacaome",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.51667,
         "longitude": -87.5
     },
     {
-        "cityId": "3607295",
+        "cityId": 3607295,
         "name": "Langue",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.61667,
         "longitude": -87.63333
     },
     {
-        "cityId": "3609609",
+        "cityId": 3609609,
         "name": "Goascor\u00e1n",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.59,
         "longitude": -87.7
     },
     {
-        "cityId": "3614096",
+        "cityId": 3614096,
         "name": "Caridad",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.78333,
         "longitude": -87.65
     },
     {
-        "cityId": "3615116",
+        "cityId": 3615116,
         "name": "Aramecina",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.71667,
         "longitude": -87.68333
     },
     {
-        "cityId": "3615214",
+        "cityId": 3615214,
         "name": "Amapala",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.28333,
         "longitude": -87.63333
     },
     {
-        "cityId": "3615252",
+        "cityId": 3615252,
         "name": "Alianza",
-        "stateId": "3600456",
+        "stateId": 3600456,
         "latitude": 13.5,
         "longitude": -87.68333
     }

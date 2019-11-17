@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1904973",
+        "cityId": 1904973,
         "name": "Th\u00e0nh Ph\u1ed1 Pleiku",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.95024,
         "longitude": 108.00818
     },
     {
-        "cityId": "1904974",
+        "cityId": 1904974,
         "name": "Huy\u1ec7n Ch\u01b0 P\u0103h",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 14.15941,
         "longitude": 107.98411
     },
     {
-        "cityId": "1904975",
+        "cityId": 1904975,
         "name": "Huy\u1ec7n Ia Grai",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.98937,
         "longitude": 107.7374
     },
     {
-        "cityId": "1904976",
+        "cityId": 1904976,
         "name": "Huy\u1ec7n \u0110\u1ee9c C\u01a1",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.78454,
         "longitude": 107.6697
     },
     {
-        "cityId": "1904977",
+        "cityId": 1904977,
         "name": "Huy\u1ec7n Ch\u01b0 Pr\u00f4ng",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.59976,
         "longitude": 107.81099
     },
     {
-        "cityId": "1904978",
+        "cityId": 1904978,
         "name": "Huy\u1ec7n Ch\u01b0 S\u00ea",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.74254,
         "longitude": 108.08663
     },
     {
-        "cityId": "1904979",
+        "cityId": 1904979,
         "name": "Huy\u1ec7n Kr\u00f4ng Pa",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.23152,
         "longitude": 108.65494
     },
     {
-        "cityId": "1904980",
+        "cityId": 1904980,
         "name": "Th\u1ecb X\u00e3 A Yun Pa",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.31922,
         "longitude": 108.41886
     },
     {
-        "cityId": "1904981",
+        "cityId": 1904981,
         "name": "Huy\u1ec7n K\u00f4ng Chro",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.73519,
         "longitude": 108.59697
     },
     {
-        "cityId": "1904982",
+        "cityId": 1904982,
         "name": "Th\u1ecb X\u00e3 An Kh\u00ea",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 14.00665,
         "longitude": 108.69665
     },
     {
-        "cityId": "1904983",
+        "cityId": 1904983,
         "name": "Huy\u1ec7n Mang Yang",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.9284,
         "longitude": 108.30246
     },
     {
-        "cityId": "1904984",
+        "cityId": 1904984,
         "name": "Huy\u1ec7n KBang",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 14.30506,
         "longitude": 108.49779
     },
     {
-        "cityId": "8701097",
+        "cityId": 8701097,
         "name": "Huy\u1ec7n Ch\u01b0 P\u01b0h",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.52183,
         "longitude": 108.07946
     },
     {
-        "cityId": "8701098",
+        "cityId": 8701098,
         "name": "Huy\u1ec7n Ph\u00fa Thi\u1ec7n",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.49046,
         "longitude": 108.3218
     },
     {
-        "cityId": "8701099",
+        "cityId": 8701099,
         "name": "Huy\u1ec7n Ia Pa",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.5161,
         "longitude": 108.53879
     },
     {
-        "cityId": "8701100",
+        "cityId": 8701100,
         "name": "Huy\u1ec7n \u0110ak \u0110oa",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 14.0659,
         "longitude": 108.14204
     },
     {
-        "cityId": "8701101",
+        "cityId": 8701101,
         "name": "Huy\u1ec7n \u0110ak P\u01a1",
-        "stateId": "1581088",
+        "stateId": 1581088,
         "latitude": 13.92068,
         "longitude": 108.61183
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7522294",
+        "cityId": 7522294,
         "name": "Kambja vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.20255,
         "longitude": 26.68996
     },
     {
-        "cityId": "7522334",
+        "cityId": 7522334,
         "name": "Luunja vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.39178,
         "longitude": 26.95574
     },
     {
-        "cityId": "7522361",
+        "cityId": 7522361,
         "name": "N\u00f5o vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.24199,
         "longitude": 26.52499
     },
     {
-        "cityId": "7522376",
+        "cityId": 7522376,
         "name": "Peipsi\u00e4\u00e4re vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.51559,
         "longitude": 27.18444
     },
     {
-        "cityId": "7522391",
+        "cityId": 7522391,
         "name": "Tartu vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.478,
         "longitude": 26.74956
     },
     {
-        "cityId": "7522434",
+        "cityId": 7522434,
         "name": "Tartu linn",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.37498,
         "longitude": 26.73256
     },
     {
-        "cityId": "11776873",
+        "cityId": 11776873,
         "name": "Elva vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.24564,
         "longitude": 26.27258
     },
     {
-        "cityId": "11776877",
+        "cityId": 11776877,
         "name": "Kastre vald",
-        "stateId": "588334",
+        "stateId": 588334,
         "latitude": 58.31259,
         "longitude": 27.07713
     }

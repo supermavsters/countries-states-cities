@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "723194",
+        "cityId": 723194,
         "name": "Okres Vranov nad Top\u013eou",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 48.9,
         "longitude": 21.68333
     },
     {
-        "cityId": "723416",
+        "cityId": 723416,
         "name": "Okres Svidn\u00edk",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.3,
         "longitude": 21.56667
     },
     {
-        "cityId": "723504",
+        "cityId": 723504,
         "name": "Okres Star\u00e1 \u0139ubov\u0148a",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.3,
         "longitude": 20.7
     },
     {
-        "cityId": "723818",
+        "cityId": 723818,
         "name": "Okres Pre\u0161ov",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49,
         "longitude": 21.25
     },
     {
-        "cityId": "723844",
+        "cityId": 723844,
         "name": "Okres Poprad",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.05,
         "longitude": 20.3
     },
     {
-        "cityId": "724626",
+        "cityId": 724626,
         "name": "Okres Humenn\u00e9",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 48.93333,
         "longitude": 21.91667
     },
     {
-        "cityId": "725167",
+        "cityId": 725167,
         "name": "Okres Bardejov",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.28333,
         "longitude": 21.28333
     },
     {
-        "cityId": "8986288",
+        "cityId": 8986288,
         "name": "Okres Ke\u017emarok",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.13593,
         "longitude": 20.42929
     },
     {
-        "cityId": "8986292",
+        "cityId": 8986292,
         "name": "Okres Medzilaborce",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.27062,
         "longitude": 21.902
     },
     {
-        "cityId": "8986301",
+        "cityId": 8986301,
         "name": "Okres Sabinov",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.10115,
         "longitude": 21.09844
     },
     {
-        "cityId": "8986303",
+        "cityId": 8986303,
         "name": "Okres Snina",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 48.98579,
         "longitude": 22.15059
     },
     {
-        "cityId": "8986305",
+        "cityId": 8986305,
         "name": "Okres Stropkov",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.20249,
         "longitude": 21.65025
     },
     {
-        "cityId": "8989441",
+        "cityId": 8989441,
         "name": "Okres Levo\u010da",
-        "stateId": "865085",
+        "stateId": 865085,
         "latitude": 49.01986,
         "longitude": 20.57688
     }

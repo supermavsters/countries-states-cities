@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7670592",
+        "cityId": 7670592,
         "name": "Buyengero",
-        "stateId": "11184798",
+        "stateId": 11184798,
         "latitude": -3.85041,
         "longitude": 29.52747
     },
     {
-        "cityId": "7670606",
+        "cityId": 7670606,
         "name": "Muhuta",
-        "stateId": "11184798",
+        "stateId": 11184798,
         "latitude": -3.62233,
         "longitude": 29.41828
     },
     {
-        "cityId": "9158023",
+        "cityId": 9158023,
         "name": "Commune of Rumonge",
-        "stateId": "11184798",
+        "stateId": 11184798,
         "latitude": -3.96667,
         "longitude": 29.43333
     },
     {
-        "cityId": "9171803",
+        "cityId": 9171803,
         "name": "Bugarama",
-        "stateId": "11184798",
+        "stateId": 11184798,
         "latitude": -3.69048,
         "longitude": 29.40041
     },
     {
-        "cityId": "9881326",
+        "cityId": 9881326,
         "name": "Commune of Burambi",
-        "stateId": "11184798",
+        "stateId": 11184798,
         "latitude": -3.81722,
         "longitude": 29.37778
     }

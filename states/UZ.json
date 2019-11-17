@@ -1,99 +1,99 @@
 [
     {
-        "stateId": "1484846",
+        "stateId": 1484846,
         "name": "Andijan",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40.75,
         "longitude": 72.33333
     },
     {
-        "stateId": "1114929",
+        "stateId": 1114929,
         "name": "Bukhara Province",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40,
         "longitude": 64
     },
     {
-        "stateId": "1484845",
+        "stateId": 1484845,
         "name": "Fergana",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40.5,
         "longitude": 71.25
     },
     {
-        "stateId": "1484844",
+        "stateId": 1484844,
         "name": "Jizzakh Province",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40.33333,
         "longitude": 67.66667
     },
     {
-        "stateId": "453752",
+        "stateId": 453752,
         "name": "Karakalpakstan",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 44.21636,
         "longitude": 58.82986
     },
     {
-        "stateId": "1484842",
+        "stateId": 1484842,
         "name": "Namangan Province",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40.99747,
         "longitude": 71.24784
     },
     {
-        "stateId": "1484841",
+        "stateId": 1484841,
         "name": "Navoiy Province",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 42,
         "longitude": 64
     },
     {
-        "stateId": "1114928",
+        "stateId": 1114928,
         "name": "Qashqadaryo Province",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 38.58333,
         "longitude": 66
     },
     {
-        "stateId": "1114927",
+        "stateId": 1114927,
         "name": "Samarqand Viloyati",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 39.8,
         "longitude": 66.43333
     },
     {
-        "stateId": "1484840",
+        "stateId": 1484840,
         "name": "Sirdaryo",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 40.43333,
         "longitude": 68.66667
     },
     {
-        "stateId": "1114926",
+        "stateId": 1114926,
         "name": "Surxondaryo Viloyati",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 38,
         "longitude": 67.5
     },
     {
-        "stateId": "1484839",
+        "stateId": 1484839,
         "name": "Toshkent Shahri",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 41.33333,
         "longitude": 69.25
     },
     {
-        "stateId": "1484838",
+        "stateId": 1484838,
         "name": "Toshkent Viloyati",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 41.23333,
         "longitude": 69.8
     },
     {
-        "stateId": "1484843",
+        "stateId": 1484843,
         "name": "Xorazm Viloyati",
-        "countryId": "1512440",
+        "countryId": 1512440,
         "latitude": 41.5,
         "longitude": 60.5
     }

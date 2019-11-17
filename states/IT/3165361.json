@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3166546",
+        "cityId": 3166546,
         "name": "Provincia di Siena",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.21667,
         "longitude": 11.4
     },
     {
-        "cityId": "3170620",
+        "cityId": 3170620,
         "name": "Provincia di Pistoia",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.96667,
         "longitude": 10.83333
     },
     {
-        "cityId": "3170646",
+        "cityId": 3170646,
         "name": "Province of Pisa",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.41667,
         "longitude": 10.71667
     },
     {
-        "cityId": "3173767",
+        "cityId": 3173767,
         "name": "Provincia di Massa-Carrara",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 44.25,
         "longitude": 10.05
     },
     {
-        "cityId": "3174529",
+        "cityId": 3174529,
         "name": "Provincia di Lucca",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 44.03333,
         "longitude": 10.45
     },
     {
-        "cityId": "3174658",
+        "cityId": 3174658,
         "name": "Provincia di Livorno",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.23333,
         "longitude": 10.58333
     },
     {
-        "cityId": "3175784",
+        "cityId": 3175784,
         "name": "Provincia di Grosseto",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 42.83333,
         "longitude": 11.25
     },
     {
-        "cityId": "3176958",
+        "cityId": 3176958,
         "name": "Province of Florence",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.83333,
         "longitude": 11.33333
     },
     {
-        "cityId": "3182882",
+        "cityId": 3182882,
         "name": "Province of Arezzo",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.53333,
         "longitude": 11.83333
     },
     {
-        "cityId": "6458618",
+        "cityId": 6458618,
         "name": "Provincia di Prato",
-        "stateId": "3165361",
+        "stateId": 3165361,
         "latitude": 43.88046,
         "longitude": 11.09686
     }

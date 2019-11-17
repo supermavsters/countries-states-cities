@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1292036",
+        "cityId": 1292036,
         "name": "Thayet District",
-        "stateId": "1312604",
+        "stateId": 1312604,
         "latitude": 19.41673,
         "longitude": 95.06472
     },
     {
-        "cityId": "1302438",
+        "cityId": 1302438,
         "name": "Pakokku District",
-        "stateId": "1312604",
+        "stateId": 1312604,
         "latitude": 21.55903,
         "longitude": 94.52089
     },
     {
-        "cityId": "1309286",
+        "cityId": 1309286,
         "name": "Minbu District",
-        "stateId": "1312604",
+        "stateId": 1312604,
         "latitude": 20.37964,
         "longitude": 94.49025
     },
     {
-        "cityId": "1312605",
+        "cityId": 1312605,
         "name": "Magway District",
-        "stateId": "1312604",
+        "stateId": 1312604,
         "latitude": 20.25,
         "longitude": 95.25
     },
     {
-        "cityId": "8238823",
+        "cityId": 8238823,
         "name": "Gangaw District",
-        "stateId": "1312604",
+        "stateId": 1312604,
         "latitude": 21.79498,
         "longitude": 94.17954
     }

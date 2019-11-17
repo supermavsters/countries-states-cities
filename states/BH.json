@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "7090954",
+        "stateId": 7090954,
         "name": "Capital Governorate",
-        "countryId": "290291",
+        "countryId": 290291,
         "latitude": 26.21667,
         "longitude": 50.58333
     },
     {
-        "stateId": "290333",
+        "stateId": 290333,
         "name": "Muharraq Governorate",
-        "countryId": "290291",
+        "countryId": 290291,
         "latitude": 26.25,
         "longitude": 50.61667
     },
     {
-        "stateId": "7090974",
+        "stateId": 7090974,
         "name": "Northern Governorate",
-        "countryId": "290291",
+        "countryId": 290291,
         "latitude": 26.15,
         "longitude": 50.46667
     },
     {
-        "stateId": "7090972",
+        "stateId": 7090972,
         "name": "Southern Governorate",
-        "countryId": "290291",
+        "countryId": 290291,
         "latitude": 25.86667,
         "longitude": 50.58333
     }

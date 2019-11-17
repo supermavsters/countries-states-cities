@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "468895",
+        "cityId": 468895,
         "name": "Yaroslavskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.58333,
         "longitude": 40
     },
     {
-        "cityId": "479529",
+        "cityId": 479529,
         "name": "Uglichskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.5,
         "longitude": 38.41667
     },
     {
-        "cityId": "480119",
+        "cityId": 480119,
         "name": "Tutayevskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.91667,
         "longitude": 39.58333
     },
     {
-        "cityId": "500001",
+        "cityId": 500001,
         "name": "Rybinskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58,
         "longitude": 39
     },
     {
-        "cityId": "501161",
+        "cityId": 501161,
         "name": "Rostovskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.16667,
         "longitude": 39.5
     },
     {
-        "cityId": "506030",
+        "cityId": 506030,
         "name": "Poshekhonskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58.66667,
         "longitude": 39.08333
     },
     {
-        "cityId": "510851",
+        "cityId": 510851,
         "name": "Pervomayskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58.66667,
         "longitude": 39.75
     },
     {
-        "cityId": "511358",
+        "cityId": 511358,
         "name": "Pereslavskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 56.75,
         "longitude": 38.83333
     },
     {
-        "cityId": "522800",
+        "cityId": 522800,
         "name": "Nekrasovskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.66667,
         "longitude": 40.41667
     },
     {
-        "cityId": "522861",
+        "cityId": 522861,
         "name": "Nekouzskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58,
         "longitude": 38
     },
     {
-        "cityId": "523852",
+        "cityId": 523852,
         "name": "Myshkinskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.83333,
         "longitude": 38.41667
     },
     {
-        "cityId": "532570",
+        "cityId": 532570,
         "name": "Lyubimskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58.33333,
         "longitude": 40.75
     },
     {
-        "cityId": "561761",
+        "cityId": 561761,
         "name": "Gavrilov-Yamskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.33333,
         "longitude": 39.75
     },
     {
-        "cityId": "567118",
+        "cityId": 567118,
         "name": "Danilovskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58.16667,
         "longitude": 40.08333
     },
     {
-        "cityId": "571633",
+        "cityId": 571633,
         "name": "Breytovskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 58.25,
         "longitude": 37.75
     },
     {
-        "cityId": "572518",
+        "cityId": 572518,
         "name": "Borisoglebskiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.33333,
         "longitude": 39
     },
     {
-        "cityId": "574363",
+        "cityId": 574363,
         "name": "Bol\u2019shesel\u2019skiy Rayon",
-        "stateId": "468898",
+        "stateId": 468898,
         "latitude": 57.66667,
         "longitude": 39
     }

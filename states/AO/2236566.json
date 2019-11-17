@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "2236567",
+        "cityId": 2236567,
         "name": "Uige Municipality",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.57488,
         "longitude": 15.06775
     },
     {
-        "cityId": "2236985",
+        "cityId": 2236985,
         "name": "Songo",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.13353,
         "longitude": 14.78937
     },
     {
-        "cityId": "2237127",
+        "cityId": 2237127,
         "name": "Sanza Pombo",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.26026,
         "longitude": 16.04877
     },
     {
-        "cityId": "2237144",
+        "cityId": 2237144,
         "name": "Santa Cruz",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.03848,
         "longitude": 16.67847
     },
     {
-        "cityId": "2237499",
+        "cityId": 2237499,
         "name": "Quitexe Municipality",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -8,
         "longitude": 15
     },
     {
-        "cityId": "2238174",
+        "cityId": 2238174,
         "name": "Quimbele",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -6.34145,
         "longitude": 16.38145
     },
     {
-        "cityId": "2238826",
+        "cityId": 2238826,
         "name": "Puri",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.65234,
         "longitude": 15.68838
     },
     {
-        "cityId": "2239067",
+        "cityId": 2239067,
         "name": "Negage Municipality",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.83333,
         "longitude": 15.33333
     },
     {
-        "cityId": "2239352",
+        "cityId": 2239352,
         "name": "Mucaba",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.16521,
         "longitude": 15.08838
     },
     {
-        "cityId": "2239731",
+        "cityId": 2239731,
         "name": "Maquela do Zombo",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -6.12363,
         "longitude": 15.5458
     },
     {
-        "cityId": "2241498",
+        "cityId": 2241498,
         "name": "Damba",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -6.74145,
         "longitude": 15.25669
     },
     {
-        "cityId": "2243355",
+        "cityId": 2243355,
         "name": "Bungo",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.4266,
         "longitude": 15.44283
     },
     {
-        "cityId": "2243441",
+        "cityId": 2243441,
         "name": "Buengas",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -6.66026,
         "longitude": 15.85669
     },
     {
-        "cityId": "2243631",
+        "cityId": 2243631,
         "name": "Munic\u00edpio Bembe",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.16667,
         "longitude": 14.33333
     },
     {
-        "cityId": "2243632",
+        "cityId": 2243632,
         "name": "Bembe",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.06224,
         "longitude": 14.27451
     },
     {
-        "cityId": "2243908",
+        "cityId": 2243908,
         "name": "Ambuila Municipality",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.66667,
         "longitude": 14.5
     },
     {
-        "cityId": "2243921",
+        "cityId": 2243921,
         "name": "Cangola",
-        "stateId": "2236566",
+        "stateId": 2236566,
         "latitude": -7.83333,
         "longitude": 15.91667
     }

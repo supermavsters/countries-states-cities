@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2238950",
+        "cityId": 2238950,
         "name": "Munic\u00edpio Pango Aluqu\u00e9m",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -9.75,
         "longitude": 14.5
     },
     {
-        "cityId": "2239093",
+        "cityId": 2239093,
         "name": "Nambuangongo Municipality",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -8.04835,
         "longitude": 14.33716
     },
     {
-        "cityId": "2241454",
+        "cityId": 2241454,
         "name": "Dembos",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -8.49855,
         "longitude": 14.54453
     },
     {
-        "cityId": "2241484",
+        "cityId": 2241484,
         "name": "Dande Municipality",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -8.5,
         "longitude": 13.83333
     },
     {
-        "cityId": "2243420",
+        "cityId": 2243420,
         "name": "Bula Atumba",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -8.67165,
         "longitude": 14.80219
     },
     {
-        "cityId": "2243911",
+        "cityId": 2243911,
         "name": "Ambriz",
-        "stateId": "2243598",
+        "stateId": 2243598,
         "latitude": -7.93053,
         "longitude": 13.4808
     }

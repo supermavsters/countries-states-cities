@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7268305",
+        "cityId": 7268305,
         "name": "Camarones Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.33678,
         "longitude": -66.11144
     },
     {
-        "cityId": "7268398",
+        "cityId": 7268398,
         "name": "Frailes Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.37218,
         "longitude": -66.10874
     },
     {
-        "cityId": "7268427",
+        "cityId": 7268427,
         "name": "Guaraguao Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.3153,
         "longitude": -66.13376
     },
     {
-        "cityId": "7268441",
+        "cityId": 7268441,
         "name": "Guaynabo Barrio-Pueblo",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.35997,
         "longitude": -66.11236
     },
     {
-        "cityId": "7268458",
+        "cityId": 7268458,
         "name": "Hato Nuevo Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.29741,
         "longitude": -66.10027
     },
     {
-        "cityId": "7268601",
+        "cityId": 7268601,
         "name": "Mamey Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.31433,
         "longitude": -66.11567
     },
     {
-        "cityId": "7268822",
+        "cityId": 7268822,
         "name": "Pueblo Viejo Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.41409,
         "longitude": -66.11421
     },
     {
-        "cityId": "7268895",
+        "cityId": 7268895,
         "name": "R\u00edo Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.32108,
         "longitude": -66.09345
     },
     {
-        "cityId": "7268992",
+        "cityId": 7268992,
         "name": "Santa Rosa Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.35214,
         "longitude": -66.12777
     },
     {
-        "cityId": "7269012",
+        "cityId": 7269012,
         "name": "Sonadora Barrio",
-        "stateId": "4565120",
+        "stateId": 4565120,
         "latitude": 18.28882,
         "longitude": -66.12559
     }

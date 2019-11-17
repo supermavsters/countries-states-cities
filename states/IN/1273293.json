@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "8335421",
+        "cityId": 8335421,
         "name": "Central Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.64857,
         "longitude": 77.21895
     },
     {
-        "cityId": "8335422",
+        "cityId": 8335422,
         "name": "North Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.6692,
         "longitude": 77.22273
     },
     {
-        "cityId": "8335423",
+        "cityId": 8335423,
         "name": "South Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.53009,
         "longitude": 77.25174
     },
     {
-        "cityId": "8335424",
+        "cityId": 8335424,
         "name": "East Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.66242,
         "longitude": 77.29122
     },
     {
-        "cityId": "8335425",
+        "cityId": 8335425,
         "name": "North East Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.6869,
         "longitude": 77.30195
     },
     {
-        "cityId": "8335426",
+        "cityId": 8335426,
         "name": "South West Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.5806,
         "longitude": 77.0672
     },
     {
-        "cityId": "8335427",
+        "cityId": 8335427,
         "name": "North West Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.70113,
         "longitude": 77.10154
     },
     {
-        "cityId": "8335458",
+        "cityId": 8335458,
         "name": "West Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.65655,
         "longitude": 77.10068
     },
     {
-        "cityId": "8347332",
+        "cityId": 8347332,
         "name": "New Delhi",
-        "stateId": "1273293",
+        "stateId": 1273293,
         "latitude": 28.63568,
         "longitude": 77.22539
     }

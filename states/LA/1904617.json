@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1654415",
+        "cityId": 1654415,
         "name": "Muang Pakkading",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.28749,
         "longitude": 104.1846
     },
     {
-        "cityId": "1656546",
+        "cityId": 1656546,
         "name": "Muang Khamkeut",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.35234,
         "longitude": 104.92141
     },
     {
-        "cityId": "1657896",
+        "cityId": 1657896,
         "name": "Muang Bolikhan",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.71397,
         "longitude": 103.71158
     },
     {
-        "cityId": "1904795",
+        "cityId": 1904795,
         "name": "Muang Thaphabat",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.3994,
         "longitude": 103.14065
     },
     {
-        "cityId": "1904819",
+        "cityId": 1904819,
         "name": "Muang Viangthong",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.493,
         "longitude": 104.46
     },
     {
-        "cityId": "9170485",
+        "cityId": 9170485,
         "name": "Paksane",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.39553,
         "longitude": 103.66043
     },
     {
-        "cityId": "11550493",
+        "cityId": 11550493,
         "name": "Xaychamphone",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.70576,
         "longitude": 104.3581
     },
     {
-        "cityId": "11550494",
+        "cityId": 11550494,
         "name": "Muen",
-        "stateId": "1904617",
+        "stateId": 1904617,
         "latitude": 18.75714,
         "longitude": 104.4326
     }

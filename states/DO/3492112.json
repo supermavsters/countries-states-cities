@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3496832",
+        "cityId": 3496832,
         "name": "Mao",
-        "stateId": "3492112",
+        "stateId": 3492112,
         "latitude": 19.58333,
         "longitude": -71.08333
     },
     {
-        "cityId": "3502374",
+        "cityId": 3502374,
         "name": "Laguna Salada",
-        "stateId": "3492112",
+        "stateId": 3492112,
         "latitude": 19.7,
         "longitude": -71.13333
     },
     {
-        "cityId": "3505860",
+        "cityId": 3505860,
         "name": "Esperanza",
-        "stateId": "3492112",
+        "stateId": 3492112,
         "latitude": 19.62379,
         "longitude": -70.97141
     }

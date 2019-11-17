@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2743996",
+        "cityId": 2743996,
         "name": "Gemeente Zeewolde",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.3442,
         "longitude": 5.45904
     },
     {
-        "cityId": "2745931",
+        "cityId": 2745931,
         "name": "Gemeente Urk",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.66585,
         "longitude": 5.62371
     },
     {
-        "cityId": "2749851",
+        "cityId": 2749851,
         "name": "Gemeente Noordoostpolder",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.71703,
         "longitude": 5.77248
     },
     {
-        "cityId": "2751737",
+        "cityId": 2751737,
         "name": "Gemeente Lelystad",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.47542,
         "longitude": 5.43811
     },
     {
-        "cityId": "2756558",
+        "cityId": 2756558,
         "name": "Gemeente Dronten",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.5,
         "longitude": 5.71667
     },
     {
-        "cityId": "6544259",
+        "cityId": 6544259,
         "name": "Gemeente Almere",
-        "stateId": "3319179",
+        "stateId": 3319179,
         "latitude": 52.36861,
         "longitude": 5.2375
     }

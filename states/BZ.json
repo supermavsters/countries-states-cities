@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "3582676",
+        "stateId": 3582676,
         "name": "Belize District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 17.55,
         "longitude": -88.41667
     },
     {
-        "stateId": "3582429",
+        "stateId": 3582429,
         "name": "Cayo District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 17,
         "longitude": -88.9
     },
     {
-        "stateId": "3582302",
+        "stateId": 3582302,
         "name": "Corozal District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 18.21667,
         "longitude": -88.31667
     },
     {
-        "stateId": "3581511",
+        "stateId": 3581511,
         "name": "Orange Walk District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 17.76667,
         "longitude": -88.8
     },
     {
-        "stateId": "3580975",
+        "stateId": 3580975,
         "name": "Stann Creek District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 16.83333,
         "longitude": -88.46667
     },
     {
-        "stateId": "3580913",
+        "stateId": 3580913,
         "name": "Toledo District",
-        "countryId": "3582678",
+        "countryId": 3582678,
         "latitude": 16.33333,
         "longitude": -88.86667
     }

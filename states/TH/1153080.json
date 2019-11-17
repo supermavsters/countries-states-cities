@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1150132",
+        "cityId": 1150132,
         "name": "Amphoe Thong Pha Phum",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.83277,
         "longitude": 98.69233
     },
     {
-        "cityId": "1150245",
+        "cityId": 1150245,
         "name": "Amphoe Tha Muang",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 13.90947,
         "longitude": 99.6154
     },
     {
-        "cityId": "1150274",
+        "cityId": 1150274,
         "name": "Amphoe Tha Maka",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 13.94665,
         "longitude": 99.779
     },
     {
-        "cityId": "1150620",
+        "cityId": 1150620,
         "name": "Amphoe Si Sawat",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.67254,
         "longitude": 99.12992
     },
     {
-        "cityId": "1150734",
+        "cityId": 1150734,
         "name": "Amphoe Sangkhla Buri",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 15.19337,
         "longitude": 98.52791
     },
     {
-        "cityId": "1150843",
+        "cityId": 1150843,
         "name": "Amphoe Sai Yok",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.25652,
         "longitude": 98.93372
     },
     {
-        "cityId": "1151445",
+        "cityId": 1151445,
         "name": "Amphoe Phanom Thuan",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.15941,
         "longitude": 99.66904
     },
     {
-        "cityId": "1151996",
+        "cityId": 1151996,
         "name": "Amphoe Mueang Kanchanaburi",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.06987,
         "longitude": 99.32769
     },
     {
-        "cityId": "1153849",
+        "cityId": 1153849,
         "name": "Amphoe Bo Phloi",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.38723,
         "longitude": 99.4499
     },
     {
-        "cityId": "7510626",
+        "cityId": 7510626,
         "name": "Amphoe Dan Makham Tia",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 13.83422,
         "longitude": 99.34125
     },
     {
-        "cityId": "7510628",
+        "cityId": 7510628,
         "name": "Amphoe Nong Prue",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.67801,
         "longitude": 99.41075
     },
     {
-        "cityId": "7510654",
+        "cityId": 7510654,
         "name": "Amphoe Huai Krachao",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.34056,
         "longitude": 99.67633
     },
     {
-        "cityId": "7510657",
+        "cityId": 7510657,
         "name": "Amphoe Lao Khwan",
-        "stateId": "1153080",
+        "stateId": 1153080,
         "latitude": 14.59488,
         "longitude": 99.68338
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1652132",
+        "cityId": 1652132,
         "name": "Muang Xai",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.66447,
         "longitude": 101.95554
     },
     {
-        "cityId": "1654418",
+        "cityId": 1654418,
         "name": "Muang Pakb\u00e8ng",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 19.93573,
         "longitude": 101.06482
     },
     {
-        "cityId": "1654902",
+        "cityId": 1654902,
         "name": "Muang Namo",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.89077,
         "longitude": 101.72765
     },
     {
-        "cityId": "1656000",
+        "cityId": 1656000,
         "name": "Muang La",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.92056,
         "longitude": 102.13268
     },
     {
-        "cityId": "1656964",
+        "cityId": 1656964,
         "name": "Muang Houn",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.07205,
         "longitude": 101.43223
     },
     {
-        "cityId": "1657942",
+        "cityId": 1657942,
         "name": "Muang B\u00e8ng",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.35359,
         "longitude": 101.73128
     },
     {
-        "cityId": "1904820",
+        "cityId": 1904820,
         "name": "Muang Nga",
-        "stateId": "1654491",
+        "stateId": 1654491,
         "latitude": 20.1739,
         "longitude": 101.95155
     }

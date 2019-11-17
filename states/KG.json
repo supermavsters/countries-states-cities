@@ -1,64 +1,64 @@
 [
     {
-        "stateId": "1463580",
+        "stateId": 1463580,
         "name": "Batken",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 39.83333,
         "longitude": 71
     },
     {
-        "stateId": "1538652",
+        "stateId": 1538652,
         "name": "Chuyskaya Oblast\u2019",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 42.41667,
         "longitude": 74.5
     },
     {
-        "stateId": "1528334",
+        "stateId": 1528334,
         "name": "Gorod Bishkek",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 42.86667,
         "longitude": 74.6
     },
     {
-        "stateId": "1528260",
+        "stateId": 1528260,
         "name": "Issyk-Kul Region",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 42,
         "longitude": 78
     },
     {
-        "stateId": "1529778",
+        "stateId": 1529778,
         "name": "Jalal-Abad oblast",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 41.5,
         "longitude": 72.5
     },
     {
-        "stateId": "1527590",
+        "stateId": 1527590,
         "name": "Naryn oblast",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 41.43333,
         "longitude": 75.96667
     },
     {
-        "stateId": "10300944",
+        "stateId": 10300944,
         "name": "Osh City",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 40.54446,
         "longitude": 72.79387
     },
     {
-        "stateId": "1346798",
+        "stateId": 1346798,
         "name": "Osh Oblasty",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 40,
         "longitude": 73
     },
     {
-        "stateId": "1527297",
+        "stateId": 1527297,
         "name": "Talas",
-        "countryId": "1527747",
+        "countryId": 1527747,
         "latitude": 42.33333,
         "longitude": 72
     }

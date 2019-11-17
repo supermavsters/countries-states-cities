@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "1222381",
+        "cityId": 1222381,
         "name": "Langkawi",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 6.35608,
         "longitude": 99.78375
     },
     {
-        "cityId": "1734392",
+        "cityId": 1734392,
         "name": "Kulim",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.32403,
         "longitude": 100.60851
     },
     {
-        "cityId": "1734406",
+        "cityId": 1734406,
         "name": "Bandar Baharu",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.23007,
         "longitude": 100.6068
     },
     {
-        "cityId": "1734449",
+        "cityId": 1734449,
         "name": "Baling",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.56578,
         "longitude": 100.72918
     },
     {
-        "cityId": "1735487",
+        "cityId": 1735487,
         "name": "Yan",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.7905,
         "longitude": 100.39426
     },
     {
-        "cityId": "1736296",
+        "cityId": 1736296,
         "name": "Kubang Pasu",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 6.40508,
         "longitude": 100.43982
     },
     {
-        "cityId": "1736333",
+        "cityId": 1736333,
         "name": "Padang Terap",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 6.24734,
         "longitude": 100.77145
     },
     {
-        "cityId": "1736341",
+        "cityId": 1736341,
         "name": "Pendang",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.98458,
         "longitude": 100.60732
     },
     {
-        "cityId": "1736342",
+        "cityId": 1736342,
         "name": "Daerah Kota Setar",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 6.13789,
         "longitude": 100.47635
     },
     {
-        "cityId": "6805171",
+        "cityId": 6805171,
         "name": "Kuala Muda",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.71037,
         "longitude": 100.37928
     },
     {
-        "cityId": "6857715",
+        "cityId": 6857715,
         "name": "Naga Lilit",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.49421,
         "longitude": 100.55752
     },
     {
-        "cityId": "6857718",
+        "cityId": 6857718,
         "name": "Bagan Sena",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.49648,
         "longitude": 100.68054
     },
     {
-        "cityId": "6857723",
+        "cityId": 6857723,
         "name": "Bakai",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.48953,
         "longitude": 100.81314
     },
     {
-        "cityId": "6857732",
+        "cityId": 6857732,
         "name": "Mahang",
-        "stateId": "1733048",
+        "stateId": 1733048,
         "latitude": 5.43171,
         "longitude": 100.77949
     }

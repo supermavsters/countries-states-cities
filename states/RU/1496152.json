@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "1485023",
+        "cityId": 1485023,
         "name": "Znamenskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 57.25,
         "longitude": 73.75
     },
     {
-        "cityId": "1488778",
+        "cityId": 1488778,
         "name": "Tyukalinskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56,
         "longitude": 72.5
     },
     {
-        "cityId": "1489657",
+        "cityId": 1489657,
         "name": "Tevrizskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 57.75,
         "longitude": 72.75
     },
     {
-        "cityId": "1489939",
+        "cityId": 1489939,
         "name": "Tavricheskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 54.58333,
         "longitude": 73.58333
     },
     {
-        "cityId": "1490074",
+        "cityId": 1490074,
         "name": "Tarskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56.75,
         "longitude": 74.5
     },
     {
-        "cityId": "1492853",
+        "cityId": 1492853,
         "name": "Sedel\u2019nikovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 57,
         "longitude": 75.5
     },
     {
-        "cityId": "1493005",
+        "cityId": 1493005,
         "name": "Sargatskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55.75,
         "longitude": 73.41667
     },
     {
-        "cityId": "1496327",
+        "cityId": 1496327,
         "name": "Okoneshnikovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 54.75,
         "longitude": 75.25
     },
     {
-        "cityId": "1497563",
+        "cityId": 1497563,
         "name": "Nizhneomskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55.5,
         "longitude": 74.91667
     },
     {
-        "cityId": "1498204",
+        "cityId": 1498204,
         "name": "Muromtsevskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56.41667,
         "longitude": 75.5
     },
     {
-        "cityId": "1499276",
+        "cityId": 1499276,
         "name": "Mar\u2019yanovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 54.91667,
         "longitude": 72.58333
     },
     {
-        "cityId": "1500124",
+        "cityId": 1500124,
         "name": "Lyubinskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55.25,
         "longitude": 72.5
     },
     {
-        "cityId": "1501688",
+        "cityId": 1501688,
         "name": "Krutinskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56.25,
         "longitude": 71.5
     },
     {
-        "cityId": "1502525",
+        "cityId": 1502525,
         "name": "Kormilovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55,
         "longitude": 74.08333
     },
     {
-        "cityId": "1502877",
+        "cityId": 1502877,
         "name": "Kolosovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 54.58333,
         "longitude": 73.58333
     },
     {
-        "cityId": "1505070",
+        "cityId": 1505070,
         "name": "Kalachinskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55.08333,
         "longitude": 74.75
     },
     {
-        "cityId": "1505437",
+        "cityId": 1505437,
         "name": "Isil\u2019kul\u2019skiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55,
         "longitude": 71.25
     },
     {
-        "cityId": "1506349",
+        "cityId": 1506349,
         "name": "Gor\u2019kovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 55.5,
         "longitude": 74.08333
     },
     {
-        "cityId": "1508135",
+        "cityId": 1508135,
         "name": "Cherlakskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 54.25,
         "longitude": 75.25
     },
     {
-        "cityId": "1509486",
+        "cityId": 1509486,
         "name": "Bol\u2019sheukovskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56.83333,
         "longitude": 72.5
     },
     {
-        "cityId": "1509495",
+        "cityId": 1509495,
         "name": "Bol\u2019sherechenskiy Rayon",
-        "stateId": "1496152",
+        "stateId": 1496152,
         "latitude": 56.08333,
         "longitude": 74.5
     }

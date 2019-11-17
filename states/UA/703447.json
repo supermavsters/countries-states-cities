@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "687055",
+        "cityId": 687055,
         "name": "Solomianka Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.42886,
         "longitude": 30.45135
     },
     {
-        "cityId": "694120",
+        "cityId": 694120,
         "name": "Shevchenkivs\u2019kyy Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.43333,
         "longitude": 30.51667
     },
     {
-        "cityId": "696872",
+        "cityId": 696872,
         "name": "Podil\u2019s\u2019kyy Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.45,
         "longitude": 30.53333
     },
     {
-        "cityId": "697796",
+        "cityId": 697796,
         "name": "Pechersk Raion",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.41902,
         "longitude": 30.56602
     },
     {
-        "cityId": "700708",
+        "cityId": 700708,
         "name": "Holosiiv Raion",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.32749,
         "longitude": 30.5674
     },
     {
-        "cityId": "701078",
+        "cityId": 701078,
         "name": "Obolons\u2019kyy Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.54006,
         "longitude": 30.50542
     },
     {
-        "cityId": "703266",
+        "cityId": 703266,
         "name": "Svyatoshyns\u2019kyy Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.48533,
         "longitude": 30.3805
     },
     {
-        "cityId": "710276",
+        "cityId": 710276,
         "name": "Darnytsia Raion",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.41333,
         "longitude": 30.69305
     },
     {
-        "cityId": "8520167",
+        "cityId": 8520167,
         "name": "Desnyans\u2019kyy Rayon",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.5355,
         "longitude": 30.60875
     },
     {
-        "cityId": "8693025",
+        "cityId": 8693025,
         "name": "Dnipro Raion",
-        "stateId": "703447",
+        "stateId": 703447,
         "latitude": 50.46756,
         "longitude": 30.63194
     }

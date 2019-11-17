@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1220797",
+        "cityId": 1220797,
         "name": "Pendzhikentskiy Rayon",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.32276,
         "longitude": 67.83076
     },
     {
-        "cityId": "1222220",
+        "cityId": 1222220,
         "name": "Ayninskiy Rayon",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.18758,
         "longitude": 68.77032
     },
     {
-        "cityId": "1514816",
+        "cityId": 1514816,
         "name": "Nohiyai Zafarobod",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.18194,
         "longitude": 68.90756
     },
     {
-        "cityId": "1514880",
+        "cityId": 1514880,
         "name": "Khodzhentskiy Rayon",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.33333,
         "longitude": 69.91667
     },
     {
-        "cityId": "7669228",
+        "cityId": 7669228,
         "name": "Kuhistoni Mastchohskiy",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.4,
         "longitude": 69.8
     },
     {
-        "cityId": "7670512",
+        "cityId": 7670512,
         "name": "Shahriston District",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.65,
         "longitude": 68.78
     },
     {
-        "cityId": "8209859",
+        "cityId": 8209859,
         "name": "Nohiyai Mastchoh",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.67151,
         "longitude": 69.49214
     },
     {
-        "cityId": "8209860",
+        "cityId": 8209860,
         "name": "Nohiyai Bobojon Ghafurov",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.42716,
         "longitude": 69.74396
     },
     {
-        "cityId": "8213083",
+        "cityId": 8213083,
         "name": "Nohiyai Asht",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.69364,
         "longitude": 70.3502
     },
     {
-        "cityId": "8213699",
+        "cityId": 8213699,
         "name": "Nohiyai Konibodom",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.26877,
         "longitude": 70.33057
     },
     {
-        "cityId": "8213700",
+        "cityId": 8213700,
         "name": "Nohiyai Isfara",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.09327,
         "longitude": 70.58365
     },
     {
-        "cityId": "8213796",
+        "cityId": 8213796,
         "name": "Nohiyai Jabbor Rasulov",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.09876,
         "longitude": 69.496
     },
     {
-        "cityId": "8216026",
+        "cityId": 8216026,
         "name": "Nohiyai Spitamen",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.10486,
         "longitude": 69.3311
     },
     {
-        "cityId": "8216028",
+        "cityId": 8216028,
         "name": "Istaravshan District",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 40.00212,
         "longitude": 69.01453
     },
     {
-        "cityId": "8216029",
+        "cityId": 8216029,
         "name": "Nohiyai Ghonch\u00ed",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.83106,
         "longitude": 69.15645
     },
     {
-        "cityId": "8216045",
+        "cityId": 8216045,
         "name": "Nohiyai Ayni",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.29536,
         "longitude": 68.78884
     },
     {
-        "cityId": "8216066",
+        "cityId": 8216066,
         "name": "Nohiyai Panjakent",
-        "stateId": "1221092",
+        "stateId": 1221092,
         "latitude": 39.37452,
         "longitude": 67.79159
     }

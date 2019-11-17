@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11205595",
+        "cityId": 11205595,
         "name": "Rundu Rural West",
-        "stateId": "8693188",
+        "stateId": 8693188,
         "latitude": -17.93333,
         "longitude": 19.76667
     },
     {
-        "cityId": "11256901",
+        "cityId": 11256901,
         "name": "Mashare",
-        "stateId": "8693188",
+        "stateId": 8693188,
         "latitude": -17.90226,
         "longitude": 20.13361
     },
     {
-        "cityId": "11429192",
+        "cityId": 11429192,
         "name": "Rundu Urban",
-        "stateId": "8693188",
+        "stateId": 8693188,
         "latitude": -17.93333,
         "longitude": 19.76667
     }

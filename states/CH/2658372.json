@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8260143",
+        "cityId": 8260143,
         "name": "Frauenfeld District",
-        "stateId": "2658372",
+        "stateId": 2658372,
         "latitude": 47.61115,
         "longitude": 8.89444
     },
     {
-        "cityId": "8260144",
+        "cityId": 8260144,
         "name": "Arbon District",
-        "stateId": "2658372",
+        "stateId": 2658372,
         "latitude": 47.54867,
         "longitude": 9.35159
     },
     {
-        "cityId": "8260145",
+        "cityId": 8260145,
         "name": "M\u00fcnchwilen District",
-        "stateId": "2658372",
+        "stateId": 2658372,
         "latitude": 47.47324,
         "longitude": 8.98812
     },
     {
-        "cityId": "8260146",
+        "cityId": 8260146,
         "name": "Kreuzlingen District",
-        "stateId": "2658372",
+        "stateId": 2658372,
         "latitude": 47.63046,
         "longitude": 9.16458
     },
     {
-        "cityId": "8260147",
+        "cityId": 8260147,
         "name": "Weinfelden District",
-        "stateId": "2658372",
+        "stateId": 2658372,
         "latitude": 47.54237,
         "longitude": 9.15713
     }

@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "3902683",
+        "cityId": 3902683,
         "name": "Provincia Tom\u00e1s Fr\u00edas",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -19.33333,
         "longitude": -66
     },
     {
-        "cityId": "3903976",
+        "cityId": 3903976,
         "name": "Provincia Sud L\u00edpez",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -22,
         "longitude": -67.5
     },
     {
-        "cityId": "3903978",
+        "cityId": 3903978,
         "name": "Provincia Sud Chichas",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -21.5,
         "longitude": -66
     },
     {
-        "cityId": "3906205",
+        "cityId": 3906205,
         "name": "Provincia Saavedra",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -19.25,
         "longitude": -65.5
     },
     {
-        "cityId": "3906628",
+        "cityId": 3906628,
         "name": "Provincia Rafael Bustillo",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -18.33333,
         "longitude": -66.5
     },
     {
-        "cityId": "3906809",
+        "cityId": 3906809,
         "name": "Provincia Quijarro",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -20,
         "longitude": -66.33333
     },
     {
-        "cityId": "3909491",
+        "cityId": 3909491,
         "name": "Provincia Nor L\u00edpez",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -20.5,
         "longitude": -67.83333
     },
     {
-        "cityId": "3909496",
+        "cityId": 3909496,
         "name": "Provincia Nor Chichas",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -20.66667,
         "longitude": -66
     },
     {
-        "cityId": "3910260",
+        "cityId": 3910260,
         "name": "Provincia Modesto Omiste",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -21.91667,
         "longitude": -65.58333
     },
     {
-        "cityId": "3911502",
+        "cityId": 3911502,
         "name": "Provincia Linares",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -19.83333,
         "longitude": -65.5
     },
     {
-        "cityId": "3915603",
+        "cityId": 3915603,
         "name": "Provincia General Bilbao",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -18.08333,
         "longitude": -66
     },
     {
-        "cityId": "3918497",
+        "cityId": 3918497,
         "name": "Provincia Daniel Campos",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -20.25,
         "longitude": -68.25
     },
     {
-        "cityId": "3921027",
+        "cityId": 3921027,
         "name": "Provincia Chayanta",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -18.91667,
         "longitude": -66
     },
     {
-        "cityId": "3921114",
+        "cityId": 3921114,
         "name": "Provincia Charcas",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -18.33333,
         "longitude": -65.83333
     },
     {
-        "cityId": "3924205",
+        "cityId": 3924205,
         "name": "Provincia Alonzo de Ib\u00e1\u00f1ez",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -18.5,
         "longitude": -66.33333
     },
     {
-        "cityId": "11184251",
+        "cityId": 11184251,
         "name": "Enrique Baldivieso",
-        "stateId": "3907580",
+        "stateId": 3907580,
         "latitude": -21.38323,
         "longitude": -67.60368
     }

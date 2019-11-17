@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7268116",
+        "cityId": 7268116,
         "name": "Coto Norte Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.437,
         "longitude": -66.46094
     },
     {
-        "cityId": "7268117",
+        "cityId": 7268117,
         "name": "Coto Sur Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.41269,
         "longitude": -66.46599
     },
     {
-        "cityId": "7268224",
+        "cityId": 7268224,
         "name": "Bajura Adentro Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.4105,
         "longitude": -66.52578
     },
     {
-        "cityId": "7268225",
+        "cityId": 7268225,
         "name": "Bajura Afuera Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.43228,
         "longitude": -66.51167
     },
     {
-        "cityId": "7268611",
+        "cityId": 7268611,
         "name": "Manat\u00ed Barrio-Pueblo",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.43104,
         "longitude": -66.4863
     },
     {
-        "cityId": "7268893",
+        "cityId": 7268893,
         "name": "R\u00edo Arriba Poniente Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.38251,
         "longitude": -66.51138
     },
     {
-        "cityId": "7268894",
+        "cityId": 7268894,
         "name": "R\u00edo Arriba Saliente Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.38684,
         "longitude": -66.47132
     },
     {
-        "cityId": "7269036",
+        "cityId": 7269036,
         "name": "Tierras Nuevas Poniente Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.46338,
         "longitude": -66.51479
     },
     {
-        "cityId": "7269037",
+        "cityId": 7269037,
         "name": "Tierras Nuevas Saliente Barrio",
-        "stateId": "4566138",
+        "stateId": 4566138,
         "latitude": 18.45882,
         "longitude": -66.46977
     }

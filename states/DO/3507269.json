@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3495099",
+        "cityId": 3495099,
         "name": "Pedro Santana",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 19.16667,
         "longitude": -71.55
     },
     {
-        "cityId": "3504468",
+        "cityId": 3504468,
         "name": "Hondo Valle",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 18.70765,
         "longitude": -71.69745
     },
     {
-        "cityId": "3507124",
+        "cityId": 3507124,
         "name": "El Llano",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 18.76667,
         "longitude": -71.66667
     },
     {
-        "cityId": "3509387",
+        "cityId": 3509387,
         "name": "Comendador",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 18.88333,
         "longitude": -71.66667
     },
     {
-        "cityId": "3512065",
+        "cityId": 3512065,
         "name": "B\u00e1nica",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 19.03333,
         "longitude": -71.61667
     },
     {
-        "cityId": "11154574",
+        "cityId": 11154574,
         "name": "Juan Santiago",
-        "stateId": "3507269",
+        "stateId": 3507269,
         "latitude": 18.73283,
         "longitude": -71.6071
     }

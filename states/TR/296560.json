@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7733004",
+        "cityId": 7733004,
         "name": "Sar\u0131kaya",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.4985,
         "longitude": 35.39262
     },
     {
-        "cityId": "8631716",
+        "cityId": 8631716,
         "name": "Kad\u0131\u015fehri \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 40.00551,
         "longitude": 35.798
     },
     {
-        "cityId": "8631745",
+        "cityId": 8631745,
         "name": "\u00c7ekerek \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 40.08331,
         "longitude": 35.49869
     },
     {
-        "cityId": "8631748",
+        "cityId": 8631748,
         "name": "Saraykent \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.70389,
         "longitude": 35.51628
     },
     {
-        "cityId": "8631749",
+        "cityId": 8631749,
         "name": "Akda\u011fmadeni \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.66404,
         "longitude": 35.89747
     },
     {
-        "cityId": "8631750",
+        "cityId": 8631750,
         "name": "Ayd\u0131nc\u0131k \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 40.13734,
         "longitude": 35.29459
     },
     {
-        "cityId": "8631751",
+        "cityId": 8631751,
         "name": "Sorgun \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.82022,
         "longitude": 35.19205
     },
     {
-        "cityId": "8631752",
+        "cityId": 8631752,
         "name": "\u015eefaatli \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.5008,
         "longitude": 34.76388
     },
     {
-        "cityId": "8631753",
+        "cityId": 8631753,
         "name": "\u00c7and\u0131r \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.25445,
         "longitude": 35.52284
     },
     {
-        "cityId": "8631754",
+        "cityId": 8631754,
         "name": "\u00c7ay\u0131ralan \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.31377,
         "longitude": 35.6516
     },
     {
-        "cityId": "8631755",
+        "cityId": 8631755,
         "name": "Yenifak\u0131l\u0131 \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.21073,
         "longitude": 35.01459
     },
     {
-        "cityId": "8631769",
+        "cityId": 8631769,
         "name": "Bo\u011fazl\u0131yan \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.19627,
         "longitude": 35.2542
     },
     {
-        "cityId": "8631771",
+        "cityId": 8631771,
         "name": "Yerk\u00f6y \u0130l\u00e7esi",
-        "stateId": "296560",
+        "stateId": 296560,
         "latitude": 39.64415,
         "longitude": 34.48386
     }

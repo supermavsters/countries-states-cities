@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9526267",
+        "cityId": 9526267,
         "name": "Chortkivs\u2019ka Mis\u2019krada",
-        "stateId": "691649",
+        "stateId": 691649,
         "latitude": 49.01825,
         "longitude": 25.78728
     },
     {
-        "cityId": "9526273",
+        "cityId": 9526273,
         "name": "Ternopil\u2019s\u2019ka Mis\u2019krada",
-        "stateId": "691649",
+        "stateId": 691649,
         "latitude": 49.56179,
         "longitude": 25.57204
     },
     {
-        "cityId": "9526278",
+        "cityId": 9526278,
         "name": "Zalishchyts\u2019kyy Rayon",
-        "stateId": "691649",
+        "stateId": 691649,
         "latitude": 48.76442,
         "longitude": 25.73352
     },
     {
-        "cityId": "9526289",
+        "cityId": 9526289,
         "name": "Pidhayets\u2019kyy Rayon",
-        "stateId": "691649",
+        "stateId": 691649,
         "latitude": 49.26157,
         "longitude": 25.10347
     }

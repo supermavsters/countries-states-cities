@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1847982",
+        "cityId": 1847982,
         "name": "Zents\u016bji Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.22581,
         "longitude": 133.77692
     },
     {
-        "cityId": "1851095",
+        "cityId": 1851095,
         "name": "Takamatsu Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.26852,
         "longitude": 134.0545
     },
     {
-        "cityId": "1851654",
+        "cityId": 1851654,
         "name": "Sh\u014dzu-gun",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.4977,
         "longitude": 134.25236
     },
     {
-        "cityId": "1853186",
+        "cityId": 1853186,
         "name": "Sakaide Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.32403,
         "longitude": 133.89222
     },
     {
-        "cityId": "1855768",
+        "cityId": 1855768,
         "name": "Nakatado-gun",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.15,
         "longitude": 133.88333
     },
     {
-        "cityId": "1856906",
+        "cityId": 1856906,
         "name": "Mitoyo Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.16176,
         "longitude": 133.72282
     },
     {
-        "cityId": "1857664",
+        "cityId": 1857664,
         "name": "Marugame Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.2856,
         "longitude": 133.81535
     },
     {
-        "cityId": "1859337",
+        "cityId": 1859337,
         "name": "Kita-gun",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.23151,
         "longitude": 134.13848
     },
     {
-        "cityId": "1860119",
+        "cityId": 1860119,
         "name": "Kan\u2019onji Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.08457,
         "longitude": 133.67448
     },
     {
-        "cityId": "1860835",
+        "cityId": 1860835,
         "name": "Kagawa-gun",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.46068,
         "longitude": 133.98465
     },
     {
-        "cityId": "7391347",
+        "cityId": 7391347,
         "name": "Higashikagawa Shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.21158,
         "longitude": 134.3335
     },
     {
-        "cityId": "7391348",
+        "cityId": 7391348,
         "name": "Ayauta-gun",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.21701,
         "longitude": 133.95276
     },
     {
-        "cityId": "9036694",
+        "cityId": 9036694,
         "name": "Sanuki-shi",
-        "stateId": "1860834",
+        "stateId": 1860834,
         "latitude": 34.26615,
         "longitude": 134.20941
     }

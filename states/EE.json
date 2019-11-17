@@ -1,106 +1,106 @@
 [
     {
-        "stateId": "592170",
+        "stateId": 592170,
         "name": "Harjumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 59.33333,
         "longitude": 24.83333
     },
     {
-        "stateId": "592133",
+        "stateId": 592133,
         "name": "Hiiumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.9,
         "longitude": 22.63333
     },
     {
-        "stateId": "592075",
+        "stateId": 592075,
         "name": "Ida-Virumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 59.25,
         "longitude": 27.41667
     },
     {
-        "stateId": "591961",
+        "stateId": 591961,
         "name": "J\u00e4rvamaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.91667,
         "longitude": 25.66667
     },
     {
-        "stateId": "591901",
+        "stateId": 591901,
         "name": "J\u00f5gevamaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.73333,
         "longitude": 26.46667
     },
     {
-        "stateId": "590854",
+        "stateId": 590854,
         "name": "L\u00e4\u00e4ne-Virumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 59.25,
         "longitude": 26.33333
     },
     {
-        "stateId": "590856",
+        "stateId": 590856,
         "name": "L\u00e4\u00e4nemaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.93333,
         "longitude": 23.55
     },
     {
-        "stateId": "589576",
+        "stateId": 589576,
         "name": "P\u00e4rnumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.46667,
         "longitude": 24.56667
     },
     {
-        "stateId": "589373",
+        "stateId": 589373,
         "name": "P\u00f5lvamaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.08333,
         "longitude": 27.16667
     },
     {
-        "stateId": "589115",
+        "stateId": 589115,
         "name": "Raplamaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.96667,
         "longitude": 24.7
     },
     {
-        "stateId": "588879",
+        "stateId": 588879,
         "name": "Saaremaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.41667,
         "longitude": 22.58333
     },
     {
-        "stateId": "588334",
+        "stateId": 588334,
         "name": "Tartumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.38065,
         "longitude": 26.72496
     },
     {
-        "stateId": "587875",
+        "stateId": 587875,
         "name": "Valgamaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 57.91667,
         "longitude": 26.16667
     },
     {
-        "stateId": "587590",
+        "stateId": 587590,
         "name": "Viljandimaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 58.33333,
         "longitude": 25.56667
     },
     {
-        "stateId": "587448",
+        "stateId": 587448,
         "name": "V\u00f5rumaa",
-        "countryId": "453733",
+        "countryId": 453733,
         "latitude": 57.76667,
         "longitude": 26.93333
     }

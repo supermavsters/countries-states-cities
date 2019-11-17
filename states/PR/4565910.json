@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "7268241",
+        "cityId": 7268241,
         "name": "Bartolo Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.19991,
         "longitude": -66.84923
     },
     {
-        "cityId": "7268274",
+        "cityId": 7268274,
         "name": "Buenos Aires Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.26567,
         "longitude": -66.84683
     },
     {
-        "cityId": "7268301",
+        "cityId": 7268301,
         "name": "Callejones Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.32715,
         "longitude": -66.84894
     },
     {
-        "cityId": "7268379",
+        "cityId": 7268379,
         "name": "Espino Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.27537,
         "longitude": -66.89971
     },
     {
-        "cityId": "7268539",
+        "cityId": 7268539,
         "name": "La Torre Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.25254,
         "longitude": -66.87432
     },
     {
-        "cityId": "7268547",
+        "cityId": 7268547,
         "name": "Lares Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.29429,
         "longitude": -66.844
     },
     {
-        "cityId": "7268548",
+        "cityId": 7268548,
         "name": "Lares Barrio-Pueblo",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.29601,
         "longitude": -66.88141
     },
     {
-        "cityId": "7268663",
+        "cityId": 7268663,
         "name": "Mirasol Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.24415,
         "longitude": -66.85039
     },
     {
-        "cityId": "7268752",
+        "cityId": 7268752,
         "name": "Pezuela Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.2447,
         "longitude": -66.89378
     },
     {
-        "cityId": "7268758",
+        "cityId": 7268758,
         "name": "Piletas Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.33497,
         "longitude": -66.88232
     },
     {
-        "cityId": "7268787",
+        "cityId": 7268787,
         "name": "Pueblo Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.30323,
         "longitude": -66.89449
     },
     {
-        "cityId": "7268916",
+        "cityId": 7268916,
         "name": "R\u00edo Prieto Barrio",
-        "stateId": "4565910",
+        "stateId": 4565910,
         "latitude": 18.21184,
         "longitude": -66.88883
     }

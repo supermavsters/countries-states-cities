@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2633280",
+        "cityId": 2633280,
         "name": "Akrahreppur",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.35505,
         "longitude": -18.79572
     },
     {
-        "cityId": "3345263",
+        "cityId": 3345263,
         "name": "Sveitarf\u00e9lagi\u00f0 Skagafj\u00f6r\u00f0ur",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.50018,
         "longitude": -19.44566
     },
     {
-        "cityId": "3413488",
+        "cityId": 3413488,
         "name": "Skagabygg\u00f0",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.95,
         "longitude": -20.25
     },
     {
-        "cityId": "3426187",
+        "cityId": 3426187,
         "name": "Bl\u00f6ndu\u00f3sb\u00e6r",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.64611,
         "longitude": -20.09193
     },
     {
-        "cityId": "3426210",
+        "cityId": 3426210,
         "name": "H\u00fana\u00feing Vestra",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.25,
         "longitude": -20.91667
     },
     {
-        "cityId": "9192469",
+        "cityId": 9192469,
         "name": "Sveitarf\u00e9lagi\u00f0 Skagastr\u00f6nd",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.85811,
         "longitude": -20.1633
     },
     {
-        "cityId": "9192865",
+        "cityId": 9192865,
         "name": "H\u00fanavatnshreppur",
-        "stateId": "3337403",
+        "stateId": 3337403,
         "latitude": 65.23102,
         "longitude": -19.80883
     }

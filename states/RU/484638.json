@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "462315",
+        "cityId": 462315,
         "name": "Znamenskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 52.33333,
         "longitude": 41.33333
     },
     {
-        "cityId": "482496",
+        "cityId": 482496,
         "name": "Tokarevskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 52,
         "longitude": 41.25
     },
     {
-        "cityId": "498933",
+        "cityId": 498933,
         "name": "Sampurskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 52.25,
         "longitude": 41.66667
     },
     {
-        "cityId": "502790",
+        "cityId": 502790,
         "name": "Rasskazovskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 52.58333,
         "longitude": 41.91667
     },
     {
-        "cityId": "548320",
+        "cityId": 548320,
         "name": "Kirsanovskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 52.61667,
         "longitude": 42.55
     },
     {
-        "cityId": "572682",
+        "cityId": 572682,
         "name": "Bondarskiy Rayon",
-        "stateId": "484638",
+        "stateId": 484638,
         "latitude": 53,
         "longitude": 42
     }

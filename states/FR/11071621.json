@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2975248",
+        "cityId": 2975248,
         "name": "Seine-Maritime",
-        "stateId": "11071621",
+        "stateId": 11071621,
         "latitude": 49.67278,
         "longitude": 1.12519
     },
     {
-        "cityId": "2989247",
+        "cityId": 2989247,
         "name": "D\u00e9partement de l'Orne",
-        "stateId": "11071621",
+        "stateId": 11071621,
         "latitude": 48.66667,
         "longitude": 0.08333
     },
     {
-        "cityId": "2996268",
+        "cityId": 2996268,
         "name": "Manche",
-        "stateId": "11071621",
+        "stateId": 11071621,
         "latitude": 49.03822,
         "longitude": -1.31865
     },
     {
-        "cityId": "3019317",
+        "cityId": 3019317,
         "name": "D\u00e9partement de l'Eure",
-        "stateId": "11071621",
+        "stateId": 11071621,
         "latitude": 49.16667,
         "longitude": 1
     },
     {
-        "cityId": "3029094",
+        "cityId": 3029094,
         "name": "Calvados",
-        "stateId": "11071621",
+        "stateId": 11071621,
         "latitude": 49.09011,
         "longitude": -0.30608
     }

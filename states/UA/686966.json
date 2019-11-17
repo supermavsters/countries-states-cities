@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "696556",
+        "cityId": 696556,
         "name": "Popilnia Raion",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 49.91667,
         "longitude": 29.5
     },
     {
-        "cityId": "702091",
+        "cityId": 702091,
         "name": "Malyns\u2019kyy Rayon",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.83084,
         "longitude": 29.19926
     },
     {
-        "cityId": "713388",
+        "cityId": 713388,
         "name": "Andrushivs\u2019kyy Rayon",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.01709,
         "longitude": 29.03215
     },
     {
-        "cityId": "9640803",
+        "cityId": 9640803,
         "name": "Novohrad-Volyns\u2019ka Mis\u2019krada",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.59204,
         "longitude": 27.62766
     },
     {
-        "cityId": "9640806",
+        "cityId": 9640806,
         "name": "Zhytomyrs\u2019ka Mis\u2019krada",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.26499,
         "longitude": 28.67318
     },
     {
-        "cityId": "9640807",
+        "cityId": 9640807,
         "name": "Berdychivs\u2019ka Mis\u2019krada",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 49.89675,
         "longitude": 28.59722
     },
     {
-        "cityId": "9640829",
+        "cityId": 9640829,
         "name": "Korostens\u2019ka Mis\u2019krada",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.95839,
         "longitude": 28.63111
     },
     {
-        "cityId": "9640830",
+        "cityId": 9640830,
         "name": "Malyns\u2019ka Mis\u2019krada",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.77439,
         "longitude": 29.23217
     },
     {
-        "cityId": "9642483",
+        "cityId": 9642483,
         "name": "Brusylivs\u2019kyy Rayon",
-        "stateId": "686966",
+        "stateId": 686966,
         "latitude": 50.25638,
         "longitude": 29.48742
     }

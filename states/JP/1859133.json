@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1849927",
+        "cityId": 1849927,
         "name": "Tosashimizu-shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 32.82855,
         "longitude": 132.89283
     },
     {
-        "cityId": "1849928",
+        "cityId": 1849928,
         "name": "Tosa-shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.47734,
         "longitude": 133.39115
     },
     {
-        "cityId": "1849939",
+        "cityId": 1849939,
         "name": "Tosa-gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.75857,
         "longitude": 133.46269
     },
     {
-        "cityId": "1851029",
+        "cityId": 1851029,
         "name": "Takaoka-gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.34907,
         "longitude": 133.07539
     },
     {
-        "cityId": "1851387",
+        "cityId": 1851387,
         "name": "Susaki-shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.38333,
         "longitude": 133.26667
     },
     {
-        "cityId": "1855637",
+        "cityId": 1855637,
         "name": "Nankoku Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.61303,
         "longitude": 133.62304
     },
     {
-        "cityId": "1856197",
+        "cityId": 1856197,
         "name": "Nagaoka Gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.79311,
         "longitude": 133.67978
     },
     {
-        "cityId": "1856389",
+        "cityId": 1856389,
         "name": "Muroto Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.38854,
         "longitude": 134.14602
     },
     {
-        "cityId": "1859127",
+        "cityId": 1859127,
         "name": "K\u014dchi Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.58589,
         "longitude": 133.50709
     },
     {
-        "cityId": "1863048",
+        "cityId": 1863048,
         "name": "Hata-gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.08137,
         "longitude": 133.04259
     },
     {
-        "cityId": "1865426",
+        "cityId": 1865426,
         "name": "Aki Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.59082,
         "longitude": 133.95114
     },
     {
-        "cityId": "1865443",
+        "cityId": 1865443,
         "name": "Aki Gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.54889,
         "longitude": 134.09175
     },
     {
-        "cityId": "1865726",
+        "cityId": 1865726,
         "name": "Agawa-gun",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.64006,
         "longitude": 133.23704
     },
     {
-        "cityId": "7405897",
+        "cityId": 7405897,
         "name": "Sukumo-shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 32.96138,
         "longitude": 132.73431
     },
     {
-        "cityId": "7405898",
+        "cityId": 7405898,
         "name": "Shimanto-shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.08159,
         "longitude": 132.85216
     },
     {
-        "cityId": "7405899",
+        "cityId": 7405899,
         "name": "K\u014dnan Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.58945,
         "longitude": 133.78553
     },
     {
-        "cityId": "7405900",
+        "cityId": 7405900,
         "name": "Kami Shi",
-        "stateId": "1859133",
+        "stateId": 1859133,
         "latitude": 33.70816,
         "longitude": 133.85322
     }

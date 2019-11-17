@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "6458748",
+        "cityId": 6458748,
         "name": "Bezirk Waldenburg",
-        "stateId": "2661603",
+        "stateId": 2661603,
         "latitude": 47.39367,
         "longitude": 7.74137
     },
     {
-        "cityId": "6458823",
+        "cityId": 6458823,
         "name": "Bezirk Sissach",
-        "stateId": "2661603",
+        "stateId": 2661603,
         "latitude": 47.44237,
         "longitude": 7.84871
     },
     {
-        "cityId": "6458833",
+        "cityId": 6458833,
         "name": "Bezirk Laufen",
-        "stateId": "2661603",
+        "stateId": 2661603,
         "latitude": 47.42324,
         "longitude": 7.4875
     },
     {
-        "cityId": "6458843",
+        "cityId": 6458843,
         "name": "Bezirk Arlesheim",
-        "stateId": "2661603",
+        "stateId": 2661603,
         "latitude": 47.51668,
         "longitude": 7.58733
     },
     {
-        "cityId": "6458854",
+        "cityId": 6458854,
         "name": "Bezirk Liestal",
-        "stateId": "2661603",
+        "stateId": 2661603,
         "latitude": 47.48124,
         "longitude": 7.72714
     }

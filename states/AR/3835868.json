@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "3835272",
+        "cityId": 3835272,
         "name": "Departamento de Sil\u00edpica",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.16667,
         "longitude": -64.33333
     },
     {
-        "cityId": "3835707",
+        "cityId": 3835707,
         "name": "Departamento de Sarmiento",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.08333,
         "longitude": -63.41667
     },
     {
-        "cityId": "3836986",
+        "cityId": 3836986,
         "name": "Departamento de San Mart\u00edn",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.16667,
         "longitude": -63.83333
     },
     {
-        "cityId": "3838300",
+        "cityId": 3838300,
         "name": "Departamento de Salavina",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.91667,
         "longitude": -63.3
     },
     {
-        "cityId": "3838725",
+        "cityId": 3838725,
         "name": "Departamento de Robles",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.83333,
         "longitude": -63.91667
     },
     {
-        "cityId": "3838752",
+        "cityId": 3838752,
         "name": "Departamento de Rivadavia",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.83333,
         "longitude": -62.16667
     },
     {
-        "cityId": "3838845",
+        "cityId": 3838845,
         "name": "Departamento de R\u00edo Hondo",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.58333,
         "longitude": -64.75
     },
     {
-        "cityId": "3839792",
+        "cityId": 3839792,
         "name": "Departamento de Quebrachos",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.33333,
         "longitude": -63.33333
     },
     {
-        "cityId": "3841612",
+        "cityId": 3841612,
         "name": "Departamento de Pellegrini",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -26.16667,
         "longitude": -64.25
     },
     {
-        "cityId": "3842719",
+        "cityId": 3842719,
         "name": "Departamento de Ojo de Agua",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.25,
         "longitude": -64.25
     },
     {
-        "cityId": "3843684",
+        "cityId": 3843684,
         "name": "Departamento de Moreno",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.33333,
         "longitude": -62.5
     },
     {
-        "cityId": "3844110",
+        "cityId": 3844110,
         "name": "Departamento de Mitre",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.5,
         "longitude": -62.83333
     },
     {
-        "cityId": "3844706",
+        "cityId": 3844706,
         "name": "Departamento de Juan F. Ibarra",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28,
         "longitude": -62.5
     },
     {
-        "cityId": "3846597",
+        "cityId": 3846597,
         "name": "Departamento de Loreto",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.55,
         "longitude": -64.33333
     },
     {
-        "cityId": "3853500",
+        "cityId": 3853500,
         "name": "Departamento de Jim\u00e9nez",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27,
         "longitude": -64.41667
     },
     {
-        "cityId": "3854499",
+        "cityId": 3854499,
         "name": "Departamento de Guasay\u00e1n",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28,
         "longitude": -64.83333
     },
     {
-        "cityId": "3855047",
+        "cityId": 3855047,
         "name": "Departamento de General Taboada",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.58333,
         "longitude": -62.5
     },
     {
-        "cityId": "3855567",
+        "cityId": 3855567,
         "name": "Departamento de Figueroa",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.33333,
         "longitude": -63.55
     },
     {
-        "cityId": "3860289",
+        "cityId": 3860289,
         "name": "Departamento de Copo",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -26,
         "longitude": -62.75
     },
     {
-        "cityId": "3861253",
+        "cityId": 3861253,
         "name": "Departamento de Choya",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.75,
         "longitude": -64.75
     },
     {
-        "cityId": "3862747",
+        "cityId": 3862747,
         "name": "Departamento de Capital",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.83333,
         "longitude": -64.5
     },
     {
-        "cityId": "3864413",
+        "cityId": 3864413,
         "name": "Departamento de Belgrano",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.08333,
         "longitude": -62.25
     },
     {
-        "cityId": "3864853",
+        "cityId": 3864853,
         "name": "Departamento de Banda",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -27.5,
         "longitude": -64.33333
     },
     {
-        "cityId": "3865211",
+        "cityId": 3865211,
         "name": "Departamento de Avellaneda",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.5,
         "longitude": -63.16667
     },
     {
-        "cityId": "3865278",
+        "cityId": 3865278,
         "name": "Departamento de Atamisqui",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -28.66667,
         "longitude": -63.9
     },
     {
-        "cityId": "3866417",
+        "cityId": 3866417,
         "name": "Departamento de Alberdi",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -26.5,
         "longitude": -62.75
     },
     {
-        "cityId": "3866489",
+        "cityId": 3866489,
         "name": "Departamento de Aguirre",
-        "stateId": "3835868",
+        "stateId": 3835868,
         "latitude": -29.33333,
         "longitude": -62.5
     }

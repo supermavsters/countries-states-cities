@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "254112",
+        "cityId": 254112,
         "name": "Nom\u00f3s S\u00e1mou",
-        "stateId": "6697806",
+        "stateId": 6697806,
         "latitude": 37.75,
         "longitude": 26.75
     },
     {
-        "cityId": "258465",
+        "cityId": 258465,
         "name": "Lesbos",
-        "stateId": "6697806",
+        "stateId": 6697806,
         "latitude": 39.16667,
         "longitude": 26.33333
     },
     {
-        "cityId": "259970",
+        "cityId": 259970,
         "name": "Chios",
-        "stateId": "6697806",
+        "stateId": 6697806,
         "latitude": 38.41667,
         "longitude": 26
     }

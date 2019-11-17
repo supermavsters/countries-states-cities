@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "2119537",
+        "cityId": 2119537,
         "name": "Yelizovskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 53.66667,
         "longitude": 159
     },
     {
-        "cityId": "2120058",
+        "cityId": 2120058,
         "name": "Ust\u2019-Kamchatskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 56,
         "longitude": 161
     },
     {
-        "cityId": "2120062",
+        "cityId": 2120062,
         "name": "Ust\u2019-Bol\u2019sheretskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 52.66667,
         "longitude": 157
     },
     {
-        "cityId": "2120608",
+        "cityId": 2120608,
         "name": "Tigil\u2019skiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 57.76046,
         "longitude": 158.68687
     },
     {
-        "cityId": "2121113",
+        "cityId": 2121113,
         "name": "Sobolevskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 54.58333,
         "longitude": 156.5
     },
     {
-        "cityId": "2122180",
+        "cityId": 2122180,
         "name": "Penzhinskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 63,
         "longitude": 167
     },
     {
-        "cityId": "2122518",
+        "cityId": 2122518,
         "name": "Olyutorskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 61,
         "longitude": 169
     },
     {
-        "cityId": "2123277",
+        "cityId": 2123277,
         "name": "Mil\u2019kovskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 55,
         "longitude": 159
     },
     {
-        "cityId": "2124988",
+        "cityId": 2124988,
         "name": "Karaginsky District",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 58,
         "longitude": 159.83333
     },
     {
-        "cityId": "2126347",
+        "cityId": 2126347,
         "name": "Bystrinskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 56,
         "longitude": 158.5
     },
     {
-        "cityId": "2127270",
+        "cityId": 2127270,
         "name": "Aleutskiy Rayon",
-        "stateId": "2125072",
+        "stateId": 2125072,
         "latitude": 55.21667,
         "longitude": 165.98333
     }

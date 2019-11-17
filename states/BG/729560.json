@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "725608",
+        "cityId": 725608,
         "name": "Obshtina Yablanitsa",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 43.06667,
         "longitude": 24.13333
     },
     {
-        "cityId": "726113",
+        "cityId": 726113,
         "name": "Obshtina Ugarchin",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 43.1,
         "longitude": 24.41667
     },
     {
-        "cityId": "726319",
+        "cityId": 726319,
         "name": "Obshtina Troyan",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 42.88333,
         "longitude": 24.71667
     },
     {
-        "cityId": "726463",
+        "cityId": 726463,
         "name": "Obshtina Teteven",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 42.91667,
         "longitude": 24.26667
     },
     {
-        "cityId": "729506",
+        "cityId": 729506,
         "name": "Obshtina Lukovit",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 43.18333,
         "longitude": 24.25
     },
     {
-        "cityId": "729558",
+        "cityId": 729558,
         "name": "Obshtina Lovech",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 43.16667,
         "longitude": 24.8
     },
     {
-        "cityId": "729645",
+        "cityId": 729645,
         "name": "Obshtina Letnitsa",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 43.28333,
         "longitude": 25.08333
     },
     {
-        "cityId": "733648",
+        "cityId": 733648,
         "name": "Obshtina Apriltsi",
-        "stateId": "729560",
+        "stateId": 729560,
         "latitude": 42.83333,
         "longitude": 24.91667
     }

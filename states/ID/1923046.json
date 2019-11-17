@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1643836",
+        "cityId": 1643836,
         "name": "Kota Gorontalo",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.53333,
         "longitude": 123.1
     },
     {
-        "cityId": "6960133",
+        "cityId": 6960133,
         "name": "Kabupaten Gorontalo",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.5728,
         "longitude": 122.2337
     },
     {
-        "cityId": "9165685",
+        "cityId": 9165685,
         "name": "Kabupaten Bone Bolango",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.50296,
         "longitude": 123.27501
     },
     {
-        "cityId": "9165686",
+        "cityId": 9165686,
         "name": "Kabupaten Boalemo",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.62689,
         "longitude": 122.3568
     },
     {
-        "cityId": "9165687",
+        "cityId": 9165687,
         "name": "Kabupaten Pohuwato",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.7098,
         "longitude": 121.59582
     },
     {
-        "cityId": "9165866",
+        "cityId": 9165866,
         "name": "Kabupaten Gorontalo Utara",
-        "stateId": "1923046",
+        "stateId": 1923046,
         "latitude": 0.77,
         "longitude": 122.31667
     }

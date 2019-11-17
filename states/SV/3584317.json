@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3583738",
+        "cityId": 3583738,
         "name": "Distrito de San Francisco",
-        "stateId": "3584317",
+        "stateId": 3584317,
         "latitude": 13.66667,
         "longitude": -88.11667
     },
     {
-        "cityId": "3584196",
+        "cityId": 3584196,
         "name": "Distrito de Osicala",
-        "stateId": "3584317",
+        "stateId": 3584317,
         "latitude": 13.78333,
         "longitude": -88.11667
     },
     {
-        "cityId": "3585430",
+        "cityId": 3585430,
         "name": "Distrito de Jocoaitique",
-        "stateId": "3584317",
+        "stateId": 3584317,
         "latitude": 13.96667,
         "longitude": -88.15
     },
     {
-        "cityId": "9165880",
+        "cityId": 9165880,
         "name": "San Francisco Gotera",
-        "stateId": "3584317",
+        "stateId": 3584317,
         "latitude": 13.7,
         "longitude": -88.1
     }

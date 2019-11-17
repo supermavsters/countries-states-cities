@@ -1,148 +1,148 @@
 [
     {
-        "cityId": "7701409",
+        "cityId": 7701409,
         "name": "Anambra East",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.26667,
         "longitude": 6.81667
     },
     {
-        "cityId": "7701411",
+        "cityId": 7701411,
         "name": "Anaocha",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.06824,
         "longitude": 6.9963
     },
     {
-        "cityId": "7701412",
+        "cityId": 7701412,
         "name": "Awka North",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.33333,
         "longitude": 7
     },
     {
-        "cityId": "7701413",
+        "cityId": 7701413,
         "name": "Awka South",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.20694,
         "longitude": 7.06778
     },
     {
-        "cityId": "7701530",
+        "cityId": 7701530,
         "name": "Anambra West",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.35931,
         "longitude": 6.74968
     },
     {
-        "cityId": "7701531",
+        "cityId": 7701531,
         "name": "Idemili North",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.1285,
         "longitude": 6.93342
     },
     {
-        "cityId": "7701532",
+        "cityId": 7701532,
         "name": "Idemili South",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.04769,
         "longitude": 6.94992
     },
     {
-        "cityId": "7701533",
+        "cityId": 7701533,
         "name": "Njikoka",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.1842,
         "longitude": 6.97655
     },
     {
-        "cityId": "7701534",
+        "cityId": 7701534,
         "name": "Nnewi South",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.93321,
         "longitude": 6.92306
     },
     {
-        "cityId": "7701535",
+        "cityId": 7701535,
         "name": "Ogbaru",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.01577,
         "longitude": 6.74459
     },
     {
-        "cityId": "7701536",
+        "cityId": 7701536,
         "name": "Orumba North",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.06667,
         "longitude": 7.08333
     },
     {
-        "cityId": "7701537",
+        "cityId": 7701537,
         "name": "Orumba South",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.96667,
         "longitude": 7.21667
     },
     {
-        "cityId": "7701538",
+        "cityId": 7701538,
         "name": "Oyi",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.1767,
         "longitude": 6.86187
     },
     {
-        "cityId": "7873887",
+        "cityId": 7873887,
         "name": "Onitsha North",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.16081,
         "longitude": 6.79968
     },
     {
-        "cityId": "7932064",
+        "cityId": 7932064,
         "name": "Dunukofia",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.2738,
         "longitude": 6.978
     },
     {
-        "cityId": "8638032",
+        "cityId": 8638032,
         "name": "Ayamelum",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.55355,
         "longitude": 6.98694
     },
     {
-        "cityId": "8638035",
+        "cityId": 8638035,
         "name": "Aguata",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.99081,
         "longitude": 7.08124
     },
     {
-        "cityId": "8638036",
+        "cityId": 8638036,
         "name": "Ihiala",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.84683,
         "longitude": 6.85918
     },
     {
-        "cityId": "8638038",
+        "cityId": 8638038,
         "name": "Nnewi North",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.99994,
         "longitude": 6.90177
     },
     {
-        "cityId": "8638042",
+        "cityId": 8638042,
         "name": "Ekwusigo",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 5.98067,
         "longitude": 6.83992
     },
     {
-        "cityId": "8638046",
+        "cityId": 8638046,
         "name": "Onitsha South",
-        "stateId": "2349961",
+        "stateId": 2349961,
         "latitude": 6.1267,
         "longitude": 6.77736
     }

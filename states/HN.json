@@ -1,127 +1,127 @@
 [
     {
-        "stateId": "3615027",
+        "stateId": 3615027,
         "name": "Departamento de Atl\u00e1ntida",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.66667,
         "longitude": -87
     },
     {
-        "stateId": "3613527",
+        "stateId": 3613527,
         "name": "Departamento de Choluteca",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 13.33333,
         "longitude": -87.08333
     },
     {
-        "stateId": "3613358",
+        "stateId": 3613358,
         "name": "Departamento de Col\u00f3n",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.75,
         "longitude": -85.66667
     },
     {
-        "stateId": "3613319",
+        "stateId": 3613319,
         "name": "Departamento de Comayagua",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.58333,
         "longitude": -87.66667
     },
     {
-        "stateId": "3613229",
+        "stateId": 3613229,
         "name": "Departamento de Cop\u00e1n",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.91667,
         "longitude": -88.91667
     },
     {
-        "stateId": "3613140",
+        "stateId": 3613140,
         "name": "Departamento de Cort\u00e9s",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.41667,
         "longitude": -88
     },
     {
-        "stateId": "3610942",
+        "stateId": 3610942,
         "name": "Departamento de El Para\u00edso",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.08333,
         "longitude": -86.5
     },
     {
-        "stateId": "3609672",
+        "stateId": 3609672,
         "name": "Departamento de Francisco Moraz\u00e1n",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.25,
         "longitude": -87.16667
     },
     {
-        "stateId": "3609583",
+        "stateId": 3609583,
         "name": "Departamento de Gracias a Dios",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.25,
         "longitude": -84.33333
     },
     {
-        "stateId": "3608833",
+        "stateId": 3608833,
         "name": "Departamento de Intibuc\u00e1",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.33333,
         "longitude": -88.16667
     },
     {
-        "stateId": "3608814",
+        "stateId": 3608814,
         "name": "Departamento de Islas de la Bah\u00eda",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 16.09597,
         "longitude": -86.93291
     },
     {
-        "stateId": "3607251",
+        "stateId": 3607251,
         "name": "Departamento de La Paz",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.08333,
         "longitude": -87.91667
     },
     {
-        "stateId": "3606066",
+        "stateId": 3606066,
         "name": "Departamento de Lempira",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.5,
         "longitude": -88.58333
     },
     {
-        "stateId": "3604318",
+        "stateId": 3604318,
         "name": "Departamento de Ocotepeque",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.5,
         "longitude": -89
     },
     {
-        "stateId": "3604249",
+        "stateId": 3604249,
         "name": "Departamento de Olancho",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 14.83333,
         "longitude": -86
     },
     {
-        "stateId": "3601689",
+        "stateId": 3601689,
         "name": "Departamento de Santa B\u00e1rbara",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.08333,
         "longitude": -88.33333
     },
     {
-        "stateId": "3600456",
+        "stateId": 3600456,
         "name": "Departamento de Valle",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 13.58333,
         "longitude": -87.58333
     },
     {
-        "stateId": "3600193",
+        "stateId": 3600193,
         "name": "Departamento de Yoro",
-        "countryId": "3608932",
+        "countryId": 3608932,
         "latitude": 15.25,
         "longitude": -87.16667
     }

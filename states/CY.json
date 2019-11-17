@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "146615",
+        "stateId": 146615,
         "name": "Eparch\u00eda Ammoch\u00f3stou",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 35.33333,
         "longitude": 33.86667
     },
     {
-        "stateId": "146411",
+        "stateId": 146411,
         "name": "Eparch\u00eda Ker\u00fdneias",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 35.28333,
         "longitude": 33.25
     },
     {
-        "stateId": "146267",
+        "stateId": 146267,
         "name": "Eparch\u00eda Lefkos\u00edas",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 35.06667,
         "longitude": 33.1
     },
     {
-        "stateId": "146383",
+        "stateId": 146383,
         "name": "Eparch\u00eda Lemeso\u00fa",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 34.76667,
         "longitude": 32.93333
     },
     {
-        "stateId": "146398",
+        "stateId": 146398,
         "name": "Eparch\u00eda L\u00e1rnakas",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 34.91521,
         "longitude": 33.52615
     },
     {
-        "stateId": "146213",
+        "stateId": 146213,
         "name": "Eparch\u00eda P\u00e1fou",
-        "countryId": "146669",
+        "countryId": 146669,
         "latitude": 34.9,
         "longitude": 32.51667
     }

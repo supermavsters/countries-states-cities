@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "2140685",
+        "stateId": 2140685,
         "name": "Province Nord",
-        "countryId": "2139685",
+        "countryId": 2139685,
         "latitude": -21.05,
         "longitude": 164.9
     },
     {
-        "stateId": "2140464",
+        "stateId": 2140464,
         "name": "Province Sud",
-        "countryId": "2139685",
+        "countryId": 2139685,
         "latitude": -21.75,
         "longitude": 165.83333
     },
     {
-        "stateId": "7521415",
+        "stateId": 7521415,
         "name": "Province des \u00eeles Loyaut\u00e9",
-        "countryId": "2139685",
+        "countryId": 2139685,
         "latitude": -20.91911,
         "longitude": 167.26135
     }

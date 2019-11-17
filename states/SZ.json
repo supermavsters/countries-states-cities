@@ -1,29 +1,29 @@
 [
     {
-        "stateId": "935085",
+        "stateId": 935085,
         "name": "Hhohho",
-        "countryId": "934841",
+        "countryId": 934841,
         "latitude": -26.08333,
         "longitude": 31.33333
     },
     {
-        "stateId": "935042",
+        "stateId": 935042,
         "name": "Lubombo District",
-        "countryId": "934841",
+        "countryId": 934841,
         "latitude": -26.5,
         "longitude": 31.87
     },
     {
-        "stateId": "934994",
+        "stateId": 934994,
         "name": "Manzini",
-        "countryId": "934841",
+        "countryId": 934841,
         "latitude": -26.58333,
         "longitude": 31.25
     },
     {
-        "stateId": "934867",
+        "stateId": 934867,
         "name": "Shiselweni District",
-        "countryId": "934841",
+        "countryId": 934841,
         "latitude": -27.05,
         "longitude": 31.4
     }

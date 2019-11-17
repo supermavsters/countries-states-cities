@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352786",
+        "cityId": 11352786,
         "name": "N\u012bcas pagasts",
-        "stateId": "7628301",
+        "stateId": 7628301,
         "latitude": 56.31764,
         "longitude": 21.072
     },
     {
-        "cityId": "11352788",
+        "cityId": 11352788,
         "name": "Ota\u0146\u0137u pagasts",
-        "stateId": "7628301",
+        "stateId": 7628301,
         "latitude": 56.40889,
         "longitude": 21.12364
     }

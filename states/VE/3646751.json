@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "3625547",
+        "cityId": 3625547,
         "name": "Municipio Valencia",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.08333,
         "longitude": -68.08333
     },
     {
-        "cityId": "3629705",
+        "cityId": 3629705,
         "name": "Municipio Puerto Cabello",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.41667,
         "longitude": -68.16667
     },
     {
-        "cityId": "3632070",
+        "cityId": 3632070,
         "name": "Municipio Montalb\u00e1n",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.16667,
         "longitude": -68.35
     },
     {
-        "cityId": "3640464",
+        "cityId": 3640464,
         "name": "Municipio Guacara",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.3,
         "longitude": -67.83333
     },
     {
-        "cityId": "3646514",
+        "cityId": 3646514,
         "name": "Municipio Carlos Arvelo",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 9.95,
         "longitude": -67.75
     },
     {
-        "cityId": "3648385",
+        "cityId": 3648385,
         "name": "Municipio Bejuma",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.25,
         "longitude": -68.2
     },
     {
-        "cityId": "8129152",
+        "cityId": 8129152,
         "name": "Municipio San Joaqu\u00edn",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.29139,
         "longitude": -67.78056
     },
     {
-        "cityId": "8129172",
+        "cityId": 8129172,
         "name": "Municipio Juan Jos\u00e9 Mora",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.48889,
         "longitude": -68.20028
     },
     {
-        "cityId": "8129240",
+        "cityId": 8129240,
         "name": "Municipio Miranda",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.14987,
         "longitude": -68.39418
     },
     {
-        "cityId": "8129241",
+        "cityId": 8129241,
         "name": "Municipio Diego Ibarra",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.29644,
         "longitude": -67.71813
     },
     {
-        "cityId": "8131427",
+        "cityId": 8131427,
         "name": "Municipio Libertador",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.11444,
         "longitude": -68.06556
     },
     {
-        "cityId": "8131428",
+        "cityId": 8131428,
         "name": "Municipio Los Guayos",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.18341,
         "longitude": -67.93636
     },
     {
-        "cityId": "8131429",
+        "cityId": 8131429,
         "name": "Municipio Naguanagua",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.25648,
         "longitude": -68.01893
     },
     {
-        "cityId": "8131430",
+        "cityId": 8131430,
         "name": "Municipio San Diego",
-        "stateId": "3646751",
+        "stateId": 3646751,
         "latitude": 10.25614,
         "longitude": -67.95413
     }

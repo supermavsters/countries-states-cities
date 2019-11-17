@@ -1,141 +1,141 @@
 [
     {
-        "stateId": "3055399",
+        "stateId": 3055399,
         "name": "Baranya county",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.08333,
         "longitude": 18.25
     },
     {
-        "stateId": "722433",
+        "stateId": 722433,
         "name": "Bekes County",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.75,
         "longitude": 21
     },
     {
-        "stateId": "722064",
+        "stateId": 722064,
         "name": "Borsod-Abauj Zemplen county",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 48.25,
         "longitude": 21
     },
     {
-        "stateId": "3054638",
+        "stateId": 3054638,
         "name": "Budapest",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.5,
         "longitude": 19.08333
     },
     {
-        "stateId": "3055744",
+        "stateId": 3055744,
         "name": "B\u00e1cs-Kiskun county",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.5,
         "longitude": 19.41667
     },
     {
-        "stateId": "721589",
+        "stateId": 721589,
         "name": "Csongr\u00e1d megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.41667,
         "longitude": 20.25
     },
     {
-        "stateId": "3053028",
+        "stateId": 3053028,
         "name": "Fej\u00e9r megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.16667,
         "longitude": 18.58333
     },
     {
-        "stateId": "3051977",
+        "stateId": 3051977,
         "name": "Gy\u0151r-Moson-Sopron megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.66667,
         "longitude": 17.25
     },
     {
-        "stateId": "720293",
+        "stateId": 720293,
         "name": "Hajd\u00fa-Bihar",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.41667,
         "longitude": 21.5
     },
     {
-        "stateId": "720002",
+        "stateId": 720002,
         "name": "Heves megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.83333,
         "longitude": 20.25
     },
     {
-        "stateId": "719637",
+        "stateId": 719637,
         "name": "J\u00e1sz-Nagykun-Szolnok",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.25,
         "longitude": 20.5
     },
     {
-        "stateId": "3049518",
+        "stateId": 3049518,
         "name": "Kom\u00e1rom-Esztergom",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.58333,
         "longitude": 18.33333
     },
     {
-        "stateId": "3047348",
+        "stateId": 3047348,
         "name": "N\u00f3gr\u00e1d megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 48,
         "longitude": 19.58333
     },
     {
-        "stateId": "3046431",
+        "stateId": 3046431,
         "name": "Pest megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.41667,
         "longitude": 19.33333
     },
     {
-        "stateId": "3045226",
+        "stateId": 3045226,
         "name": "Somogy megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.41667,
         "longitude": 17.58333
     },
     {
-        "stateId": "715593",
+        "stateId": 715593,
         "name": "Szabolcs-Szatm\u00e1r-Bereg",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 48,
         "longitude": 22.16667
     },
     {
-        "stateId": "3043845",
+        "stateId": 3043845,
         "name": "Tolna megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.5,
         "longitude": 18.58333
     },
     {
-        "stateId": "3043047",
+        "stateId": 3043047,
         "name": "Vas megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.16667,
         "longitude": 16.75
     },
     {
-        "stateId": "3042925",
+        "stateId": 3042925,
         "name": "Veszpr\u00e9m megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 47.16667,
         "longitude": 17.66667
     },
     {
-        "stateId": "3042613",
+        "stateId": 3042613,
         "name": "Zala megye",
-        "countryId": "719819",
+        "countryId": 719819,
         "latitude": 46.66667,
         "longitude": 16.83333
     }

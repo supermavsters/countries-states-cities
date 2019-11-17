@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "7732059",
+        "cityId": 7732059,
         "name": "Ceyhan",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.07496,
         "longitude": 35.83629
     },
     {
-        "cityId": "7732063",
+        "cityId": 7732063,
         "name": "Seyhan",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 36.9554,
         "longitude": 35.21637
     },
     {
-        "cityId": "7732065",
+        "cityId": 7732065,
         "name": "Y\u00fcre\u011fir",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 36.99205,
         "longitude": 35.45402
     },
     {
-        "cityId": "7911055",
+        "cityId": 7911055,
         "name": "Kozan",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.5,
         "longitude": 35.75
     },
     {
-        "cityId": "8631795",
+        "cityId": 8631795,
         "name": "Yumurtal\u0131k",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 36.78245,
         "longitude": 35.79949
     },
     {
-        "cityId": "8631903",
+        "cityId": 8631903,
         "name": "Saimbeyli",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.99615,
         "longitude": 36.09909
     },
     {
-        "cityId": "8631904",
+        "cityId": 8631904,
         "name": "Tufanbeyli",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 38.27343,
         "longitude": 36.22731
     },
     {
-        "cityId": "8631905",
+        "cityId": 8631905,
         "name": "Feke",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.82405,
         "longitude": 35.91826
     },
     {
-        "cityId": "8631906",
+        "cityId": 8631906,
         "name": "Alada\u011f",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.55854,
         "longitude": 35.40196
     },
     {
-        "cityId": "8631907",
+        "cityId": 8631907,
         "name": "Pozant\u0131",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.43671,
         "longitude": 34.88057
     },
     {
-        "cityId": "8631908",
+        "cityId": 8631908,
         "name": "\u0130mamo\u011flu",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.275,
         "longitude": 35.66649
     },
     {
-        "cityId": "8631909",
+        "cityId": 8631909,
         "name": "Karaisal\u0131",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.26655,
         "longitude": 35.05033
     },
     {
-        "cityId": "8631910",
+        "cityId": 8631910,
         "name": "Karata\u015f",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 36.57186,
         "longitude": 35.36784
     },
     {
-        "cityId": "9552711",
+        "cityId": 9552711,
         "name": "Sar\u0131\u00e7am",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.14971,
         "longitude": 35.50949
     },
     {
-        "cityId": "9552840",
+        "cityId": 9552840,
         "name": "\u00c7ukurova",
-        "stateId": "325361",
+        "stateId": 325361,
         "latitude": 37.05627,
         "longitude": 35.13119
     }

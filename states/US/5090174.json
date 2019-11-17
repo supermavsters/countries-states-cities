@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "5083273",
+        "cityId": 5083273,
         "name": "Belknap County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.51869,
         "longitude": -71.42336
     },
     {
-        "cityId": "5084247",
+        "cityId": 5084247,
         "name": "Carroll County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.87391,
         "longitude": -71.20277
     },
     {
-        "cityId": "5084505",
+        "cityId": 5084505,
         "name": "Cheshire County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 42.91932,
         "longitude": -72.25118
     },
     {
-        "cityId": "5084973",
+        "cityId": 5084973,
         "name": "Coos County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 44.6896,
         "longitude": -71.30542
     },
     {
-        "cityId": "5086767",
+        "cityId": 5086767,
         "name": "Grafton County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.94074,
         "longitude": -71.82055
     },
     {
-        "cityId": "5087463",
+        "cityId": 5087463,
         "name": "Hillsborough County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 42.91531,
         "longitude": -71.71601
     },
     {
-        "cityId": "5089480",
+        "cityId": 5089480,
         "name": "Merrimack County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.29765,
         "longitude": -71.68019
     },
     {
-        "cityId": "5091860",
+        "cityId": 5091860,
         "name": "Rockingham County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 42.98454,
         "longitude": -71.08897
     },
     {
-        "cityId": "5093237",
+        "cityId": 5093237,
         "name": "Strafford County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.29743,
         "longitude": -71.0294
     },
     {
-        "cityId": "5093334",
+        "cityId": 5093334,
         "name": "Sullivan County",
-        "stateId": "5090174",
+        "stateId": 5090174,
         "latitude": 43.36122,
         "longitude": -72.2224
     }

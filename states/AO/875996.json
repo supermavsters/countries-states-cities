@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "875997",
+        "cityId": 875997,
         "name": "Luena",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -12.23621,
         "longitude": 19.73384
     },
     {
-        "cityId": "876125",
+        "cityId": 876125,
         "name": "Cameia",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -11.56345,
         "longitude": 20.83145
     },
     {
-        "cityId": "876129",
+        "cityId": 876129,
         "name": "Bundas",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -14.19476,
         "longitude": 21.3611
     },
     {
-        "cityId": "876176",
+        "cityId": 876176,
         "name": "Luau",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -10.91838,
         "longitude": 21.97997
     },
     {
-        "cityId": "876198",
+        "cityId": 876198,
         "name": "Luacano",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -11.23633,
         "longitude": 21.67191
     },
     {
-        "cityId": "876232",
+        "cityId": 876232,
         "name": "L\u00e9ua",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -11.74475,
         "longitude": 20.57841
     },
     {
-        "cityId": "876631",
+        "cityId": 876631,
         "name": "Camanongue",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -11.40984,
         "longitude": 20.18525
     },
     {
-        "cityId": "876723",
+        "cityId": 876723,
         "name": "Alto Zambeze",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -12.2799,
         "longitude": 23.02113
     },
     {
-        "cityId": "3347741",
+        "cityId": 3347741,
         "name": "Luchazes",
-        "stateId": "875996",
+        "stateId": 875996,
         "latitude": -13.6851,
         "longitude": 19.48265
     }

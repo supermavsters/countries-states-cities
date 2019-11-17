@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "607866",
+        "cityId": 607866,
         "name": "Oyyl A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 49.33333,
         "longitude": 55
     },
     {
-        "cityId": "608031",
+        "cityId": 608031,
         "name": "Temir A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 49.21667,
         "longitude": 56.56667
     },
     {
-        "cityId": "608677",
+        "cityId": 608677,
         "name": "Oktyabr\u2019sk A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 49.5,
         "longitude": 57.5
     },
     {
-        "cityId": "608707",
+        "cityId": 608707,
         "name": "Khromta\u016b A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.33333,
         "longitude": 58.5
     },
     {
-        "cityId": "608796",
+        "cityId": 608796,
         "name": "Mughalzhar A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 48.83333,
         "longitude": 58.16667
     },
     {
-        "cityId": "608866",
+        "cityId": 608866,
         "name": "Mortyq A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.75,
         "longitude": 56.5
     },
     {
-        "cityId": "608948",
+        "cityId": 608948,
         "name": "Leninskiy Rayon",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.75,
         "longitude": 58.33333
     },
     {
-        "cityId": "609408",
+        "cityId": 609408,
         "name": "Qobda A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50,
         "longitude": 55.5
     },
     {
-        "cityId": "609786",
+        "cityId": 609786,
         "name": "\u012asatay A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.55,
         "longitude": 55.16667
     },
     {
-        "cityId": "610114",
+        "cityId": 610114,
         "name": "Shalqar A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 47.5,
         "longitude": 59.5
     },
     {
-        "cityId": "610385",
+        "cityId": 610385,
         "name": "Bayghan\u012bn A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 47.25,
         "longitude": 56.5
     },
     {
-        "cityId": "610656",
+        "cityId": 610656,
         "name": "Algha A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 49.91667,
         "longitude": 57.25
     },
     {
-        "cityId": "610687",
+        "cityId": 610687,
         "name": "Aqt\u00f6be A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.5,
         "longitude": 57.16667
     },
     {
-        "cityId": "828331",
+        "cityId": 828331,
         "name": "Aqt\u00f6be Qalasy",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.28333,
         "longitude": 57.16667
     },
     {
-        "cityId": "1522334",
+        "cityId": 1522334,
         "name": "B\u00f6getk\u00f6l A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50.33333,
         "longitude": 61.66667
     },
     {
-        "cityId": "1523423",
+        "cityId": 1523423,
         "name": "\u00c4yteke B\u012b A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 50,
         "longitude": 60
     },
     {
-        "cityId": "1523782",
+        "cityId": 1523782,
         "name": "Yrghyz A\u016bdany",
-        "stateId": "610688",
+        "stateId": 610688,
         "latitude": 49,
         "longitude": 61.5
     }

@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3700799",
+        "cityId": 3700799,
         "name": "Distrito de Taboga",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 8.78333,
         "longitude": -79.55833
     },
     {
-        "cityId": "3701328",
+        "cityId": 3701328,
         "name": "Distrito San Miguelito",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 9.05,
         "longitude": -79.5
     },
     {
-        "cityId": "3703439",
+        "cityId": 3703439,
         "name": "Distrito de Panam\u00e1",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 9.30612,
         "longitude": -79.45246
     },
     {
-        "cityId": "3712446",
+        "cityId": 3712446,
         "name": "Distrito de Chim\u00e1n",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 8.76043,
         "longitude": -78.5647
     },
     {
-        "cityId": "3712502",
+        "cityId": 3712502,
         "name": "Distrito de Chepo",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 9.17391,
         "longitude": -78.70374
     },
     {
-        "cityId": "3714424",
+        "cityId": 3714424,
         "name": "Distrito de Balboa",
-        "stateId": "3703433",
+        "stateId": 3703433,
         "latitude": 8.46667,
         "longitude": -79
     }

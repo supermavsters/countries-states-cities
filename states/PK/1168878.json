@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1176775",
+        "cityId": 1176775,
         "name": "Hunza-Nagar District",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 36.49721,
         "longitude": 75.00414
     },
     {
-        "cityId": "1183615",
+        "cityId": 1183615,
         "name": "Sk\u0101rdu District",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.40116,
         "longitude": 75.62633
     },
     {
-        "cityId": "7419057",
+        "cityId": 7419057,
         "name": "Ghizar District",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 36.29196,
         "longitude": 73.43102
     },
     {
-        "cityId": "7419077",
+        "cityId": 7419077,
         "name": "Ghanche District",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.21695,
         "longitude": 76.42429
     },
     {
-        "cityId": "8309748",
+        "cityId": 8309748,
         "name": "Astor",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.31352,
         "longitude": 74.92388
     },
     {
-        "cityId": "8358419",
+        "cityId": 8358419,
         "name": "Gilgit",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.88013,
         "longitude": 74.41232
     },
     {
-        "cityId": "8358421",
+        "cityId": 8358421,
         "name": "Diam\u012br",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.53409,
         "longitude": 74.03287
     },
     {
-        "cityId": "11594770",
+        "cityId": 11594770,
         "name": "Ghizer District",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 36.1667,
         "longitude": 73.75
     },
     {
-        "cityId": "11744817",
+        "cityId": 11744817,
         "name": "Astore Division",
-        "stateId": "1168878",
+        "stateId": 1168878,
         "latitude": 35.35088,
         "longitude": 74.36883
     }

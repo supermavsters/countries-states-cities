@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "1293624",
+        "cityId": 1293624,
         "name": "Dawei District",
-        "stateId": "1293118",
+        "stateId": 1293118,
         "latitude": 14.09106,
         "longitude": 98.47457
     },
     {
-        "cityId": "1309609",
+        "cityId": 1309609,
         "name": "Myeik District",
-        "stateId": "1293118",
+        "stateId": 1293118,
         "latitude": 12.42405,
         "longitude": 99.05346
     },
     {
-        "cityId": "8238821",
+        "cityId": 8238821,
         "name": "Kawthaung District",
-        "stateId": "1293118",
+        "stateId": 1293118,
         "latitude": 11.04972,
         "longitude": 98.84735
     }

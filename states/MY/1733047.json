@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "1735085",
+        "cityId": 1735085,
         "name": "Selatan",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.22558,
         "longitude": 100.47207
     },
     {
-        "cityId": "1735104",
+        "cityId": 1735104,
         "name": "Daerah Timur Laut",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.40412,
         "longitude": 100.29219
     },
     {
-        "cityId": "1735411",
+        "cityId": 1735411,
         "name": "Daerah Barat Daya",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.37507,
         "longitude": 100.21927
     },
     {
-        "cityId": "6823231",
+        "cityId": 6823231,
         "name": "Utara",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.40835,
         "longitude": 100.37873
     },
     {
-        "cityId": "6833194",
+        "cityId": 6833194,
         "name": "Barat Daya",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.36218,
         "longitude": 100.23495
     },
     {
-        "cityId": "8133400",
+        "cityId": 8133400,
         "name": "Seberang Perai",
-        "stateId": "1733047",
+        "stateId": 1733047,
         "latitude": 5.3877,
         "longitude": 100.42603
     }

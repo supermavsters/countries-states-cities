@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7670602",
+        "cityId": 7670602,
         "name": "Kiganda",
-        "stateId": "425550",
+        "stateId": 425550,
         "latitude": -3.33792,
         "longitude": 29.67481
     },
     {
-        "cityId": "7670615",
+        "cityId": 7670615,
         "name": "Rutegama",
-        "stateId": "425550",
+        "stateId": 425550,
         "latitude": -3.30779,
         "longitude": 29.74785
     },
     {
-        "cityId": "9171818",
+        "cityId": 9171818,
         "name": "Bukeye",
-        "stateId": "425550",
+        "stateId": 425550,
         "latitude": -3.19305,
         "longitude": 29.60453
     },
     {
-        "cityId": "9171826",
+        "cityId": 9171826,
         "name": "Mbuye",
-        "stateId": "425550",
+        "stateId": 425550,
         "latitude": -3.24013,
         "longitude": 29.74711
     },
     {
-        "cityId": "9179822",
+        "cityId": 9179822,
         "name": "Muramvya",
-        "stateId": "425550",
+        "stateId": 425550,
         "latitude": -3.26815,
         "longitude": 29.61815
     }

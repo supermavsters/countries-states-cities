@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "1848775",
+        "cityId": 1848775,
         "name": "Yaita-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.82746,
         "longitude": 139.89809
     },
     {
-        "cityId": "1849052",
+        "cityId": 1849052,
         "name": "Utsunomiya-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.59688,
         "longitude": 139.88657
     },
     {
-        "cityId": "1851957",
+        "cityId": 1851957,
         "name": "Shioya-gun",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.74998,
         "longitude": 139.87344
     },
     {
-        "cityId": "1852170",
+        "cityId": 1852170,
         "name": "Shimotsuga-gun",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.23763,
         "longitude": 139.73099
     },
     {
-        "cityId": "1853473",
+        "cityId": 1853473,
         "name": "Oyama-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.308,
         "longitude": 139.80195
     },
     {
-        "cityId": "1859750",
+        "cityId": 1859750,
         "name": "Kawachi-gun",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.4455,
         "longitude": 139.91061
     },
     {
-        "cityId": "1860097",
+        "cityId": 1860097,
         "name": "Kanuma-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.5755,
         "longitude": 139.64149
     },
     {
-        "cityId": "1861696",
+        "cityId": 1861696,
         "name": "Nikko-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.75,
         "longitude": 139.7
     },
     {
-        "cityId": "1865004",
+        "cityId": 1865004,
         "name": "Ashikaga Shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.35931,
         "longitude": 139.45301
     },
     {
-        "cityId": "2111324",
+        "cityId": 2111324,
         "name": "\u014ctawara-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.86129,
         "longitude": 140.11915
     },
     {
-        "cityId": "2111674",
+        "cityId": 2111674,
         "name": "Nasu-gun",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.94406,
         "longitude": 140.12429
     },
     {
-        "cityId": "2111835",
+        "cityId": 2111835,
         "name": "Mooka-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.45,
         "longitude": 140.05
     },
     {
-        "cityId": "2112845",
+        "cityId": 2112845,
         "name": "Haga-gun",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.5031,
         "longitude": 140.11241
     },
     {
-        "cityId": "7453512",
+        "cityId": 7453512,
         "name": "Nasukarasuyama-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.6627,
         "longitude": 140.13405
     },
     {
-        "cityId": "7453513",
+        "cityId": 7453513,
         "name": "Nasushiobara-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.99085,
         "longitude": 139.91052
     },
     {
-        "cityId": "7453516",
+        "cityId": 7453516,
         "name": "Sakura-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.72362,
         "longitude": 140.00289
     },
     {
-        "cityId": "7453517",
+        "cityId": 7453517,
         "name": "Sano-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.42406,
         "longitude": 139.53578
     },
     {
-        "cityId": "7453590",
+        "cityId": 7453590,
         "name": "Tochigi-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.41128,
         "longitude": 139.69357
     },
     {
-        "cityId": "8739981",
+        "cityId": 8739981,
         "name": "Shimotsuke-shi",
-        "stateId": "1850310",
+        "stateId": 1850310,
         "latitude": 36.40291,
         "longitude": 139.86111
     }

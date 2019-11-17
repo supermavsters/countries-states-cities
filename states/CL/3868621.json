@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3868623",
+        "cityId": 3868623,
         "name": "Provincia de Valpara\u00edso",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -33.06105,
         "longitude": -71.59241
     },
     {
-        "cityId": "3872251",
+        "cityId": 3872251,
         "name": "Provincia de San Felipe de Aconcagua",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -32.60401,
         "longitude": -70.6593
     },
     {
-        "cityId": "3872374",
+        "cityId": 3872374,
         "name": "San Antonio Province",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -33.58333,
         "longitude": -71.5
     },
     {
-        "cityId": "3874118",
+        "cityId": 3874118,
         "name": "Provincia de Quillota",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -32.80753,
         "longitude": -71.17957
     },
     {
-        "cityId": "3876415",
+        "cityId": 3876415,
         "name": "Petorca Province",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -32.33333,
         "longitude": -71
     },
     {
-        "cityId": "3882432",
+        "cityId": 3882432,
         "name": "Provincia de Los Andes",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -32.82556,
         "longitude": -70.33518
     },
     {
-        "cityId": "4030752",
+        "cityId": 4030752,
         "name": "Provincia de Isla de Pascua",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -27.11048,
         "longitude": -109.29749
     },
     {
-        "cityId": "8181711",
+        "cityId": 8181711,
         "name": "Provincia de Marga Marga",
-        "stateId": "3868621",
+        "stateId": 3868621,
         "latitude": -33.04378,
         "longitude": -71.39465
     }

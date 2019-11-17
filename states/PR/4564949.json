@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "7268147",
+        "cityId": 7268147,
         "name": "Demajagua Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.28797,
         "longitude": -65.65164
     },
     {
-        "cityId": "7268277",
+        "cityId": 7268277,
         "name": "Cabezas Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.38043,
         "longitude": -65.57908
     },
     {
-        "cityId": "7268385",
+        "cityId": 7268385,
         "name": "Fajardo Barrio-Pueblo",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.32891,
         "longitude": -65.64967
     },
     {
-        "cityId": "7268392",
+        "cityId": 7268392,
         "name": "Florencio Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.3133,
         "longitude": -65.67105
     },
     {
-        "cityId": "7268697",
+        "cityId": 7268697,
         "name": "Naranjo Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.31588,
         "longitude": -65.69334
     },
     {
-        "cityId": "7268852",
+        "cityId": 7268852,
         "name": "Quebrada Fajardo Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.36485,
         "longitude": -65.66034
     },
     {
-        "cityId": "7268863",
+        "cityId": 7268863,
         "name": "Quebrada Vueltas Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.30641,
         "longitude": -65.64475
     },
     {
-        "cityId": "7268891",
+        "cityId": 7268891,
         "name": "R\u00edo Arriba Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.28988,
         "longitude": -65.708
     },
     {
-        "cityId": "7269003",
+        "cityId": 7269003,
         "name": "Sardinera Barrio",
-        "stateId": "4564949",
+        "stateId": 4564949,
         "latitude": 18.34676,
         "longitude": -65.63963
     }

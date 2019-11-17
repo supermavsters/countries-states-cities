@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3573722",
+        "cityId": 3573722,
         "name": "Ward of San Rafael",
-        "stateId": "7521938",
+        "stateId": 7521938,
         "latitude": 10.53333,
         "longitude": -61.26667
     },
     {
-        "cityId": "3573901",
+        "cityId": 3573901,
         "name": "Ward of Pointe-\u00e0-Pierre",
-        "stateId": "7521938",
+        "stateId": 7521938,
         "latitude": 10.33333,
         "longitude": -61.4
     },
     {
-        "cityId": "3574111",
+        "cityId": 3574111,
         "name": "Ward of Montserrat",
-        "stateId": "7521938",
+        "stateId": 7521938,
         "latitude": 10.41667,
         "longitude": -61.35
     },
     {
-        "cityId": "3574679",
+        "cityId": 3574679,
         "name": "Ward of Cunupia",
-        "stateId": "7521938",
+        "stateId": 7521938,
         "latitude": 10.55,
         "longitude": -61.33333
     },
     {
-        "cityId": "3574723",
+        "cityId": 3574723,
         "name": "Ward of Couva",
-        "stateId": "7521938",
+        "stateId": 7521938,
         "latitude": 10.41667,
         "longitude": -61.45
     }

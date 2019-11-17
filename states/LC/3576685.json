@@ -1,638 +1,638 @@
 [
     {
-        "cityId": "11351399",
+        "cityId": 11351399,
         "name": "Boguis",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.01548,
         "longitude": -60.92089
     },
     {
-        "cityId": "11351400",
+        "cityId": 11351400,
         "name": "Pigeon Island",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.08965,
         "longitude": -60.95724
     },
     {
-        "cityId": "11351406",
+        "cityId": 11351406,
         "name": "Union",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02907,
         "longitude": -60.9648
     },
     {
-        "cityId": "11351417",
+        "cityId": 11351417,
         "name": "Monchy\/Malgretoute",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04108,
         "longitude": -60.91912
     },
     {
-        "cityId": "11351419",
+        "cityId": 11351419,
         "name": "Des Barras",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 13.99949,
         "longitude": -60.90166
     },
     {
-        "cityId": "11351422",
+        "cityId": 11351422,
         "name": "Cas En Bas",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.08328,
         "longitude": -60.93209
     },
     {
-        "cityId": "11351423",
+        "cityId": 11351423,
         "name": "Corinth",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0471,
         "longitude": -60.96046
     },
     {
-        "cityId": "11351424",
+        "cityId": 11351424,
         "name": "Des Barras\/Cacolie",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.01687,
         "longitude": -60.90097
     },
     {
-        "cityId": "11351425",
+        "cityId": 11351425,
         "name": "Rodney Bay",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07292,
         "longitude": -60.95443
     },
     {
-        "cityId": "11351426",
+        "cityId": 11351426,
         "name": "Marquis Estate",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0296,
         "longitude": -60.90732
     },
     {
-        "cityId": "11351459",
+        "cityId": 11351459,
         "name": "Cap Estate",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0941,
         "longitude": -60.93592
     },
     {
-        "cityId": "11351460",
+        "cityId": 11351460,
         "name": "Marisule",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04621,
         "longitude": -60.97063
     },
     {
-        "cityId": "11351461",
+        "cityId": 11351461,
         "name": "Monchy\/La Borne",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04628,
         "longitude": -60.91961
     },
     {
-        "cityId": "11351466",
+        "cityId": 11351466,
         "name": "Garrand",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.00424,
         "longitude": -60.9327
     },
     {
-        "cityId": "11351467",
+        "cityId": 11351467,
         "name": "Caille Des",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 13.98235,
         "longitude": -60.88814
     },
     {
-        "cityId": "11351475",
+        "cityId": 11351475,
         "name": "Grand Riviere",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03546,
         "longitude": -60.95152
     },
     {
-        "cityId": "11351480",
+        "cityId": 11351480,
         "name": "Monchy\/Mount Layau",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06921,
         "longitude": -60.92241
     },
     {
-        "cityId": "11351489",
+        "cityId": 11351489,
         "name": "Dauphin",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05647,
         "longitude": -60.90188
     },
     {
-        "cityId": "11351505",
+        "cityId": 11351505,
         "name": "Monchy\/Lafeuillee",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0595,
         "longitude": -60.94086
     },
     {
-        "cityId": "11351511",
+        "cityId": 11351511,
         "name": "La Guerre\/Chicken Back Street",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02387,
         "longitude": -60.93108
     },
     {
-        "cityId": "11351515",
+        "cityId": 11351515,
         "name": "Monchy\/Riviere Mitan",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04987,
         "longitude": -60.94029
     },
     {
-        "cityId": "11351524",
+        "cityId": 11351524,
         "name": "Monchy",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05502,
         "longitude": -60.92623
     },
     {
-        "cityId": "11351555",
+        "cityId": 11351555,
         "name": "Bois D'Orange",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05803,
         "longitude": -60.95992
     },
     {
-        "cityId": "11351563",
+        "cityId": 11351563,
         "name": "Monchy\/La Borne\/Sans Souci",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04504,
         "longitude": -60.89961
     },
     {
-        "cityId": "11351579",
+        "cityId": 11351579,
         "name": "Desrameaux",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03681,
         "longitude": -60.92697
     },
     {
-        "cityId": "11351588",
+        "cityId": 11351588,
         "name": "Cap Estate\/Caribbean Park",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10019,
         "longitude": -60.92446
     },
     {
-        "cityId": "11351596",
+        "cityId": 11351596,
         "name": "Boguis\/Desa Blond",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.01057,
         "longitude": -60.92565
     },
     {
-        "cityId": "11351597",
+        "cityId": 11351597,
         "name": "Cap Estate\/Ranch Site",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10437,
         "longitude": -60.9336
     },
     {
-        "cityId": "11351604",
+        "cityId": 11351604,
         "name": "Bois D'Ornange\/Trouya",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06198,
         "longitude": -60.96914
     },
     {
-        "cityId": "11351744",
+        "cityId": 11351744,
         "name": "Grande Riviere\/Norbert",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04317,
         "longitude": -60.94933
     },
     {
-        "cityId": "11351748",
+        "cityId": 11351748,
         "name": "Beausejour\/Fostin'S Development",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07445,
         "longitude": -60.92929
     },
     {
-        "cityId": "11351752",
+        "cityId": 11351752,
         "name": "Bonneterre Gardens",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06737,
         "longitude": -60.93393
     },
     {
-        "cityId": "11351760",
+        "cityId": 11351760,
         "name": "Paix Bouche",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.01755,
         "longitude": -60.93852
     },
     {
-        "cityId": "11351761",
+        "cityId": 11351761,
         "name": "Corinth Estate",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04336,
         "longitude": -60.95388
     },
     {
-        "cityId": "11351767",
+        "cityId": 11351767,
         "name": "Americ",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02087,
         "longitude": -60.93222
     },
     {
-        "cityId": "11351768",
+        "cityId": 11351768,
         "name": "Beausejour",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07647,
         "longitude": -60.9378
     },
     {
-        "cityId": "11351769",
+        "cityId": 11351769,
         "name": "Beausejour\/Ndc",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07733,
         "longitude": -60.92683
     },
     {
-        "cityId": "11351770",
+        "cityId": 11351770,
         "name": "Bella Rosa",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07711,
         "longitude": -60.94568
     },
     {
-        "cityId": "11351771",
+        "cityId": 11351771,
         "name": "Bonneterre",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06994,
         "longitude": -60.94146
     },
     {
-        "cityId": "11351772",
+        "cityId": 11351772,
         "name": "Caye Manje'",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06629,
         "longitude": -60.9356
     },
     {
-        "cityId": "11351773",
+        "cityId": 11351773,
         "name": "Cap Estate\/Anse Du Cap",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10223,
         "longitude": -60.94537
     },
     {
-        "cityId": "11351775",
+        "cityId": 11351775,
         "name": "Cap Estate\/Saddlec Back",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10023,
         "longitude": -60.94246
     },
     {
-        "cityId": "11351776",
+        "cityId": 11351776,
         "name": "Cap Estate\/Becune Park",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.09458,
         "longitude": -60.94824
     },
     {
-        "cityId": "11351778",
+        "cityId": 11351778,
         "name": "Cap Estate\/Lower Saline Point",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10515,
         "longitude": -60.9431
     },
     {
-        "cityId": "11351779",
+        "cityId": 11351779,
         "name": "Cap Estate\/Upper Saline Point",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.1074,
         "longitude": -60.94487
     },
     {
-        "cityId": "11351780",
+        "cityId": 11351780,
         "name": "Grande Riviere\/White Rock",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03618,
         "longitude": -60.95556
     },
     {
-        "cityId": "11351782",
+        "cityId": 11351782,
         "name": "Cap Estate\/Mon Du Cap",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.10554,
         "longitude": -60.93758
     },
     {
-        "cityId": "11351783",
+        "cityId": 11351783,
         "name": "Cap Estate\/Golf Park",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.09998,
         "longitude": -60.93705
     },
     {
-        "cityId": "11351784",
+        "cityId": 11351784,
         "name": "Cap Estate\/Becune Point",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0927,
         "longitude": -60.95161
     },
     {
-        "cityId": "11351785",
+        "cityId": 11351785,
         "name": "Grande Riviere\/Postlewaithe",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04172,
         "longitude": -60.95206
     },
     {
-        "cityId": "11351786",
+        "cityId": 11351786,
         "name": "Corinth\/La Bel Lair",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04469,
         "longitude": -60.94484
     },
     {
-        "cityId": "11351787",
+        "cityId": 11351787,
         "name": "L'Hermitage",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06521,
         "longitude": -60.93967
     },
     {
-        "cityId": "11351789",
+        "cityId": 11351789,
         "name": "Grande Riviere\/Morne Serpent",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03509,
         "longitude": -60.9606
     },
     {
-        "cityId": "11351790",
+        "cityId": 11351790,
         "name": "Grande Riviere\/Assou Canal",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03975,
         "longitude": -60.95121
     },
     {
-        "cityId": "11351791",
+        "cityId": 11351791,
         "name": "Grande Riviere\/Ingle Woods",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03091,
         "longitude": -60.95592
     },
     {
-        "cityId": "11351792",
+        "cityId": 11351792,
         "name": "Grande Riviere\/Morne Elwin",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02927,
         "longitude": -60.95567
     },
     {
-        "cityId": "11351793",
+        "cityId": 11351793,
         "name": "Marisule\/East Winds",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05407,
         "longitude": -60.96849
     },
     {
-        "cityId": "11351795",
+        "cityId": 11351795,
         "name": "Monchy\/Ravine Macock",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04789,
         "longitude": -60.92511
     },
     {
-        "cityId": "11351796",
+        "cityId": 11351796,
         "name": "Grande Riviere\/Piat",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03926,
         "longitude": -60.94361
     },
     {
-        "cityId": "11351797",
+        "cityId": 11351797,
         "name": "Grande Riviere\/Degazon",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02772,
         "longitude": -60.95059
     },
     {
-        "cityId": "11351798",
+        "cityId": 11351798,
         "name": "Marisule\/Top Of The World\/Belle Ville",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04381,
         "longitude": -60.96689
     },
     {
-        "cityId": "11351799",
+        "cityId": 11351799,
         "name": "La Croix Chabourgh",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.01147,
         "longitude": -60.94025
     },
     {
-        "cityId": "11351800",
+        "cityId": 11351800,
         "name": "Morne Citon",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.03004,
         "longitude": -60.92813
     },
     {
-        "cityId": "11351801",
+        "cityId": 11351801,
         "name": "La Guerre",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02191,
         "longitude": -60.92491
     },
     {
-        "cityId": "11351802",
+        "cityId": 11351802,
         "name": "Marisule\/Bon Air",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05062,
         "longitude": -60.97124
     },
     {
-        "cityId": "11351803",
+        "cityId": 11351803,
         "name": "Marisule\/La Brellotte",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0571,
         "longitude": -60.97183
     },
     {
-        "cityId": "11351804",
+        "cityId": 11351804,
         "name": "Marisule\/Top Of The World",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04385,
         "longitude": -60.96885
     },
     {
-        "cityId": "11351806",
+        "cityId": 11351806,
         "name": "Massade",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.08292,
         "longitude": -60.94946
     },
     {
-        "cityId": "11351807",
+        "cityId": 11351807,
         "name": "Monchy\/Moulin A Vent",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06283,
         "longitude": -60.95025
     },
     {
-        "cityId": "11351808",
+        "cityId": 11351808,
         "name": "Monchy\/Careffe",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0593,
         "longitude": -60.95069
     },
     {
-        "cityId": "11351809",
+        "cityId": 11351809,
         "name": "Monchy\/Cletus Village",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05137,
         "longitude": -60.9238
     },
     {
-        "cityId": "11351810",
+        "cityId": 11351810,
         "name": "Monchy\/La Retraite",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06421,
         "longitude": -60.94564
     },
     {
-        "cityId": "11351812",
+        "cityId": 11351812,
         "name": "Monchy\/Vieux Sucreic\/Careffe",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05652,
         "longitude": -60.94948
     },
     {
-        "cityId": "11351813",
+        "cityId": 11351813,
         "name": "Plateau",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02612,
         "longitude": -60.93474
     },
     {
-        "cityId": "11351814",
+        "cityId": 11351814,
         "name": "Rodney Heights",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06731,
         "longitude": -60.94906
     },
     {
-        "cityId": "11351815",
+        "cityId": 11351815,
         "name": "Monchy\/Ti Dauphin",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04081,
         "longitude": -60.93225
     },
     {
-        "cityId": "11351816",
+        "cityId": 11351816,
         "name": "Monchy\/Vieux Sucreic",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.04996,
         "longitude": -60.94992
     },
     {
-        "cityId": "11351817",
+        "cityId": 11351817,
         "name": "Monchy\/Lawi Fwen",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05802,
         "longitude": -60.92906
     },
     {
-        "cityId": "11351818",
+        "cityId": 11351818,
         "name": "Monchy\/Vieux Sucreic\/Bois D'Inde",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.05613,
         "longitude": -60.95151
     },
     {
-        "cityId": "11351819",
+        "cityId": 11351819,
         "name": "Mongiraud",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06287,
         "longitude": -60.95722
     },
     {
-        "cityId": "11351820",
+        "cityId": 11351820,
         "name": "Reduit Park",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06622,
         "longitude": -60.9556
     },
     {
-        "cityId": "11351821",
+        "cityId": 11351821,
         "name": "Monchy\/Cardinal",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06157,
         "longitude": -60.92001
     },
     {
-        "cityId": "11351822",
+        "cityId": 11351822,
         "name": "Monier",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02951,
         "longitude": -60.94098
     },
     {
-        "cityId": "11351823",
+        "cityId": 11351823,
         "name": "Union Terrace",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02654,
         "longitude": -60.9571
     },
     {
-        "cityId": "11351824",
+        "cityId": 11351824,
         "name": "Reduit",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06829,
         "longitude": -60.96145
     },
     {
-        "cityId": "11351825",
+        "cityId": 11351825,
         "name": "Reduit Orchard",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.06594,
         "longitude": -60.9534
     },
     {
-        "cityId": "11351827",
+        "cityId": 11351827,
         "name": "Gros Islet Town",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0808,
         "longitude": -60.95312
     },
     {
-        "cityId": "11351828",
+        "cityId": 11351828,
         "name": "Gros Islet\/Edge Water",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.07912,
         "longitude": -60.94973
     },
     {
-        "cityId": "11351829",
+        "cityId": 11351829,
         "name": "Belle Vue Estate",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0884,
         "longitude": -60.94613
     },
     {
-        "cityId": "11351830",
+        "cityId": 11351830,
         "name": "Union\/Ti Morne",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.02283,
         "longitude": -60.95272
     },
     {
-        "cityId": "11351831",
+        "cityId": 11351831,
         "name": "Belle Vue",
-        "stateId": "3576685",
+        "stateId": 3576685,
         "latitude": 14.0847,
         "longitude": -60.94342
     }

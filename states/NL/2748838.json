@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "2743476",
+        "cityId": 2743476,
         "name": "Gemeente Zwolle",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.51264,
         "longitude": 6.09359
     },
     {
-        "cityId": "2744548",
+        "cityId": 2744548,
         "name": "Gemeente Wierden",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.34247,
         "longitude": 6.55795
     },
     {
-        "cityId": "2746132",
+        "cityId": 2746132,
         "name": "Gemeente Tubbergen",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.40451,
         "longitude": 6.78241
     },
     {
-        "cityId": "2746837",
+        "cityId": 2746837,
         "name": "Gemeente Staphorst",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.63241,
         "longitude": 6.20737
     },
     {
-        "cityId": "2748370",
+        "cityId": 2748370,
         "name": "Gemeente Raalte",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.40299,
         "longitude": 6.28773
     },
     {
-        "cityId": "2749611",
+        "cityId": 2749611,
         "name": "Gemeente Ommen",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.51659,
         "longitude": 6.45631
     },
     {
-        "cityId": "2749643",
+        "cityId": 2749643,
         "name": "Gemeente Oldenzaal",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.3075,
         "longitude": 6.9075
     },
     {
-        "cityId": "2751423",
+        "cityId": 2751423,
         "name": "Gemeente Losser",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.29819,
         "longitude": 7.00106
     },
     {
-        "cityId": "2753104",
+        "cityId": 2753104,
         "name": "Gemeente Kampen",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.56181,
         "longitude": 5.91535
     },
     {
-        "cityId": "2754392",
+        "cityId": 2754392,
         "name": "Gemeente Hengelo",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.2591,
         "longitude": 6.77876
     },
     {
-        "cityId": "2754456",
+        "cityId": 2754456,
         "name": "Gemeente Hellendoorn",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.39022,
         "longitude": 6.46434
     },
     {
-        "cityId": "2754858",
+        "cityId": 2754858,
         "name": "Gemeente Hardenberg",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.59312,
         "longitude": 6.53476
     },
     {
-        "cityId": "2755031",
+        "cityId": 2755031,
         "name": "Gemeente Haaksbergen",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.15514,
         "longitude": 6.75404
     },
     {
-        "cityId": "2756070",
+        "cityId": 2756070,
         "name": "Gemeente Enschede",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.21909,
         "longitude": 6.88041
     },
     {
-        "cityId": "2756986",
+        "cityId": 2756986,
         "name": "Gemeente Deventer",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.26927,
         "longitude": 6.23795
     },
     {
-        "cityId": "2757849",
+        "cityId": 2757849,
         "name": "Gemeente Dalfsen",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.52461,
         "longitude": 6.27214
     },
     {
-        "cityId": "2758597",
+        "cityId": 2758597,
         "name": "Gemeente Borne",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.3112,
         "longitude": 6.74404
     },
     {
-        "cityId": "2759886",
+        "cityId": 2759886,
         "name": "Gemeente Almelo",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.34463,
         "longitude": 6.65942
     },
     {
-        "cityId": "6544230",
+        "cityId": 6544230,
         "name": "Gemeente Rijssen-Holten",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.29,
         "longitude": 6.42515
     },
     {
-        "cityId": "6544235",
+        "cityId": 6544235,
         "name": "Gemeente Steenwijkerland",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.75587,
         "longitude": 6.04028
     },
     {
-        "cityId": "6544245",
+        "cityId": 6544245,
         "name": "Gemeente Twenterand",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.44974,
         "longitude": 6.56122
     },
     {
-        "cityId": "6544248",
+        "cityId": 6544248,
         "name": "Gemeente Olst-Wijhe",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.35734,
         "longitude": 6.13481
     },
     {
-        "cityId": "6544260",
+        "cityId": 6544260,
         "name": "Gemeente Zwartewaterland",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.6024,
         "longitude": 6.07402
     },
     {
-        "cityId": "6544285",
+        "cityId": 6544285,
         "name": "Gemeente Dinkelland",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.37108,
         "longitude": 6.89294
     },
     {
-        "cityId": "6544289",
+        "cityId": 6544289,
         "name": "Gemeente Hof van Twente",
-        "stateId": "2748838",
+        "stateId": 2748838,
         "latitude": 52.24341,
         "longitude": 6.59749
     }

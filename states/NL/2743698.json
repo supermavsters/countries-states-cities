@@ -1,421 +1,421 @@
 [
     {
-        "cityId": "2743492",
+        "cityId": 2743492,
         "name": "Gemeente Zwijndrecht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.82399,
         "longitude": 4.61258
     },
     {
-        "cityId": "2743852",
+        "cityId": 2743852,
         "name": "Gemeente Zoeterwoude",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.1141,
         "longitude": 4.51142
     },
     {
-        "cityId": "2743855",
+        "cityId": 2743855,
         "name": "Gemeente Zoetermeer",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.05954,
         "longitude": 4.48832
     },
     {
-        "cityId": "2744605",
+        "cityId": 2744605,
         "name": "Gemeente Westvoorne",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.89308,
         "longitude": 4.08922
     },
     {
-        "cityId": "2744989",
+        "cityId": 2744989,
         "name": "Gemeente Wassenaar",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.13791,
         "longitude": 4.37546
     },
     {
-        "cityId": "2745095",
+        "cityId": 2745095,
         "name": "Gemeente Waddinxveen",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.04247,
         "longitude": 4.64486
     },
     {
-        "cityId": "2745300",
+        "cityId": 2745300,
         "name": "Gemeente Voorschoten",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.12533,
         "longitude": 4.44014
     },
     {
-        "cityId": "2745466",
+        "cityId": 2745466,
         "name": "Gemeente Vlaardingen",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.91754,
         "longitude": 4.3257
     },
     {
-        "cityId": "2746607",
+        "cityId": 2746607,
         "name": "Gemeente Strijen",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.74621,
         "longitude": 4.55098
     },
     {
-        "cityId": "2747168",
+        "cityId": 2747168,
         "name": "Gemeente Sliedrecht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.82999,
         "longitude": 4.77191
     },
     {
-        "cityId": "2747372",
+        "cityId": 2747372,
         "name": "Gemeente Den Haag",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.06866,
         "longitude": 4.28635
     },
     {
-        "cityId": "2747595",
+        "cityId": 2747595,
         "name": "Gemeente Schiedam",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.9265,
         "longitude": 4.38675
     },
     {
-        "cityId": "2747890",
+        "cityId": 2747890,
         "name": "Gemeente Rotterdam",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.88246,
         "longitude": 4.28784
     },
     {
-        "cityId": "2748075",
+        "cityId": 2748075,
         "name": "Gemeente Rijswijk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.0349,
         "longitude": 4.32785
     },
     {
-        "cityId": "2748171",
+        "cityId": 2748171,
         "name": "Gemeente Ridderkerk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.86969,
         "longitude": 4.59785
     },
     {
-        "cityId": "2748728",
+        "cityId": 2748728,
         "name": "Gemeente Papendrecht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.83175,
         "longitude": 4.69125
     },
     {
-        "cityId": "2749181",
+        "cityId": 2749181,
         "name": "Gemeente Oud-Beijerland",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.80866,
         "longitude": 4.41259
     },
     {
-        "cityId": "2749722",
+        "cityId": 2749722,
         "name": "Gemeente Oegstgeest",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.18256,
         "longitude": 4.46676
     },
     {
-        "cityId": "2749810",
+        "cityId": 2749810,
         "name": "Gemeente Noordwijkerhout",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.27059,
         "longitude": 4.50912
     },
     {
-        "cityId": "2749814",
+        "cityId": 2749814,
         "name": "Gemeente Noordwijk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.26953,
         "longitude": 4.46354
     },
     {
-        "cityId": "2750186",
+        "cityId": 2750186,
         "name": "Gemeente Nieuwkoop",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.17198,
         "longitude": 4.78006
     },
     {
-        "cityId": "2751284",
+        "cityId": 2751284,
         "name": "Gemeente Maassluis",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.92332,
         "longitude": 4.24722
     },
     {
-        "cityId": "2751546",
+        "cityId": 2751546,
         "name": "Gemeente Lisse",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.25601,
         "longitude": 4.54526
     },
     {
-        "cityId": "2751770",
+        "cityId": 2751770,
         "name": "Gemeente Leiderdorp",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.15707,
         "longitude": 4.54318
     },
     {
-        "cityId": "2751772",
+        "cityId": 2751772,
         "name": "Gemeente Leiden",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.15274,
         "longitude": 4.4836
     },
     {
-        "cityId": "2751807",
+        "cityId": 2751807,
         "name": "Gemeente Leerdam",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.90151,
         "longitude": 5.08765
     },
     {
-        "cityId": "2752263",
+        "cityId": 2752263,
         "name": "Gemeente Krimpen aan den IJssel",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.91458,
         "longitude": 4.58819
     },
     {
-        "cityId": "2753012",
+        "cityId": 2753012,
         "name": "Gemeente Katwijk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.19029,
         "longitude": 4.42129
     },
     {
-        "cityId": "2754072",
+        "cityId": 2754072,
         "name": "Gemeente Hillegom",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.29616,
         "longitude": 4.57822
     },
     {
-        "cityId": "2754407",
+        "cityId": 2754407,
         "name": "Gemeente Hendrik-Ido-Ambacht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.84273,
         "longitude": 4.63975
     },
     {
-        "cityId": "2754453",
+        "cityId": 2754453,
         "name": "Gemeente Hellevoetsluis",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.83333,
         "longitude": 4.13333
     },
     {
-        "cityId": "2754843",
+        "cityId": 2754843,
         "name": "Gemeente Hardinxveld-Giessendam",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.82594,
         "longitude": 4.86428
     },
     {
-        "cityId": "2755419",
+        "cityId": 2755419,
         "name": "Gemeente Gouda",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.01917,
         "longitude": 4.7079
     },
     {
-        "cityId": "2755433",
+        "cityId": 2755433,
         "name": "Gemeente Gorinchem",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.83873,
         "longitude": 4.97713
     },
     {
-        "cityId": "2756668",
+        "cityId": 2756668,
         "name": "Gemeente Dordrecht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.79901,
         "longitude": 4.74159
     },
     {
-        "cityId": "2757344",
+        "cityId": 2757344,
         "name": "Gemeente Delft",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.99968,
         "longitude": 4.36405
     },
     {
-        "cityId": "2758011",
+        "cityId": 2758011,
         "name": "Gemeente Capelle aan den IJssel",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.93567,
         "longitude": 4.57819
     },
     {
-        "cityId": "2758325",
+        "cityId": 2758325,
         "name": "Gemeente Brielle",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.88819,
         "longitude": 4.18481
     },
     {
-        "cityId": "2759425",
+        "cityId": 2759425,
         "name": "Gemeente Barendrecht",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.84974,
         "longitude": 4.5254
     },
     {
-        "cityId": "2759874",
+        "cityId": 2759874,
         "name": "Gemeente Alphen aan den Rijn",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.12974,
         "longitude": 4.68892
     },
     {
-        "cityId": "2759914",
+        "cityId": 2759914,
         "name": "Gemeente Alblasserdam",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.85985,
         "longitude": 4.66321
     },
     {
-        "cityId": "6544221",
+        "cityId": 6544221,
         "name": "Gemeente Pijnacker-Nootdorp",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.02615,
         "longitude": 4.41944
     },
     {
-        "cityId": "6544223",
+        "cityId": 6544223,
         "name": "Gemeente Kaag en Braassem",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.19393,
         "longitude": 4.65516
     },
     {
-        "cityId": "6544237",
+        "cityId": 6544237,
         "name": "Gemeente Giessenlanden",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.87285,
         "longitude": 4.94352
     },
     {
-        "cityId": "6544240",
+        "cityId": 6544240,
         "name": "Gemeente Binnenmaas",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.79544,
         "longitude": 4.5192
     },
     {
-        "cityId": "6544242",
+        "cityId": 6544242,
         "name": "Gemeente Albrandswaard",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.85792,
         "longitude": 4.40833
     },
     {
-        "cityId": "6544252",
+        "cityId": 6544252,
         "name": "Gemeente Leidschendam-Voorburg",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.07833,
         "longitude": 4.40139
     },
     {
-        "cityId": "6544261",
+        "cityId": 6544261,
         "name": "Gemeente Westland",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.99671,
         "longitude": 4.22729
     },
     {
-        "cityId": "6544262",
+        "cityId": 6544262,
         "name": "Gemeente Midden-Delfland",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.96528,
         "longitude": 4.30525
     },
     {
-        "cityId": "6544267",
+        "cityId": 6544267,
         "name": "Gemeente Zederik",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.93588,
         "longitude": 5.0116
     },
     {
-        "cityId": "6544284",
+        "cityId": 6544284,
         "name": "Gemeente Cromstrijen",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.74972,
         "longitude": 4.44398
     },
     {
-        "cityId": "6544291",
+        "cityId": 6544291,
         "name": "Gemeente Lansingerland",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.00389,
         "longitude": 4.51088
     },
     {
-        "cityId": "6544293",
+        "cityId": 6544293,
         "name": "Gemeente Teylingen",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.21556,
         "longitude": 4.50648
     },
     {
-        "cityId": "6544295",
+        "cityId": 6544295,
         "name": "Gemeente Korendijk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.77146,
         "longitude": 4.33241
     },
     {
-        "cityId": "7535501",
+        "cityId": 7535501,
         "name": "Gemeente Zuidplas",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.01574,
         "longitude": 4.61048
     },
     {
-        "cityId": "8260050",
+        "cityId": 8260050,
         "name": "Bodegraven-Reeuwijk",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 52.06541,
         "longitude": 4.76634
     },
     {
-        "cityId": "8549513",
+        "cityId": 8549513,
         "name": "Gemeente Goeree-Overflakkee",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.75351,
         "longitude": 4.11264
     },
     {
-        "cityId": "8555758",
+        "cityId": 8555758,
         "name": "Molenwaard",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.86653,
         "longitude": 4.78952
     },
     {
-        "cityId": "10287316",
+        "cityId": 10287316,
         "name": "Krimpenerwaard",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.98171,
         "longitude": 4.77828
     },
     {
-        "cityId": "10287324",
+        "cityId": 10287324,
         "name": "Nissewaard",
-        "stateId": "2743698",
+        "stateId": 2743698,
         "latitude": 51.83716,
         "longitude": 4.2754
     }

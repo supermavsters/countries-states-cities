@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "1715342",
+        "cityId": 1715342,
         "name": "Province of Davao Oriental",
-        "stateId": "7521309",
+        "stateId": 7521309,
         "latitude": 7.16667,
         "longitude": 126.33333
     },
     {
-        "cityId": "1715345",
+        "cityId": 1715345,
         "name": "Province of Davao del Sur",
-        "stateId": "7521309",
+        "stateId": 7521309,
         "latitude": 6.79281,
         "longitude": 125.30182
     },
     {
-        "cityId": "1715347",
+        "cityId": 1715347,
         "name": "Province of Davao del Norte",
-        "stateId": "7521309",
+        "stateId": 7521309,
         "latitude": 7.45099,
         "longitude": 125.81543
     },
     {
-        "cityId": "1717055",
+        "cityId": 1717055,
         "name": "Compostela Valley",
-        "stateId": "7521309",
+        "stateId": 7521309,
         "latitude": 7.68333,
         "longitude": 126.11667
     },
     {
-        "cityId": "11189141",
+        "cityId": 11189141,
         "name": "Davao Occidental",
-        "stateId": "7521309",
+        "stateId": 7521309,
         "latitude": 6.08,
         "longitude": 125.67
     }

@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9252696",
+        "cityId": 9252696,
         "name": "Dangriga",
-        "stateId": "3580975",
+        "stateId": 3580975,
         "latitude": 16.9642,
         "longitude": -88.2439
     },
     {
-        "cityId": "9257719",
+        "cityId": 9257719,
         "name": "Danriga District",
-        "stateId": "3580975",
+        "stateId": 3580975,
         "latitude": 16.51888,
         "longitude": -88.42664
     }

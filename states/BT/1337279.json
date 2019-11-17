@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7647113",
+        "cityId": 7647113,
         "name": "Phuentsholing",
-        "stateId": "1337279",
+        "stateId": 1337279,
         "latitude": 26.91389,
         "longitude": 89.42317
     },
     {
-        "cityId": "7647116",
+        "cityId": 7647116,
         "name": "Bongo",
-        "stateId": "1337279",
+        "stateId": 1337279,
         "latitude": 26.92043,
         "longitude": 89.62193
     },
     {
-        "cityId": "7647631",
+        "cityId": 7647631,
         "name": "Chabchha",
-        "stateId": "1337279",
+        "stateId": 1337279,
         "latitude": 27.17634,
         "longitude": 89.54901
     }

@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1527358",
+        "cityId": 1527358,
         "name": "Sokulukskiy Rayon",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.83333,
         "longitude": 74.33333
     },
     {
-        "cityId": "1527509",
+        "cityId": 1527509,
         "name": "Panfilovskiy Rayon",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.81667,
         "longitude": 73.68333
     },
     {
-        "cityId": "1527974",
+        "cityId": 1527974,
         "name": "Keminskiy Rayon",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.83349,
         "longitude": 76.3326
     },
     {
-        "cityId": "1528261",
+        "cityId": 1528261,
         "name": "Ysyk-Ata",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.72665,
         "longitude": 75.07444
     },
     {
-        "cityId": "1528472",
+        "cityId": 1528472,
         "name": "Chuyskiy Rayon",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.66667,
         "longitude": 75.33333
     },
     {
-        "cityId": "1528867",
+        "cityId": 1528867,
         "name": "Alamudunskiy Rayon",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.81985,
         "longitude": 74.59398
     },
     {
-        "cityId": "7667441",
+        "cityId": 7667441,
         "name": "Moskovsky Raion",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.74457,
         "longitude": 74.12591
     },
     {
-        "cityId": "8739737",
+        "cityId": 8739737,
         "name": "Jaiyl",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.74613,
         "longitude": 73.79485
     },
     {
-        "cityId": "10291336",
+        "cityId": 10291336,
         "name": "Tokmok District",
-        "stateId": "1538652",
+        "stateId": 1538652,
         "latitude": 42.84199,
         "longitude": 75.2978
     }

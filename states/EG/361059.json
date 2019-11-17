@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "352720",
+        "cityId": 352720,
         "name": "Markaz Mary\u016b\u0163",
-        "stateId": "361059",
+        "stateId": 361059,
         "latitude": 30.88333,
         "longitude": 29.75
     },
     {
-        "cityId": "11205726",
+        "cityId": 11205726,
         "name": "Al Muntazah",
-        "stateId": "361059",
+        "stateId": 361059,
         "latitude": 31.24947,
         "longitude": 30.0325
     }

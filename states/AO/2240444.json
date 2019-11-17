@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2236499",
+        "cityId": 2236499,
         "name": "Viana",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -8.9987,
         "longitude": 13.3976
     },
     {
-        "cityId": "2238564",
+        "cityId": 2238564,
         "name": "Quissama",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -9.81765,
         "longitude": 13.82481
     },
     {
-        "cityId": "2240445",
+        "cityId": 2240445,
         "name": "Luanda Municipality",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -8.84708,
         "longitude": 13.27148
     },
     {
-        "cityId": "2240756",
+        "cityId": 2240756,
         "name": "Icolo e Bengo",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -9.24191,
         "longitude": 13.73549
     },
     {
-        "cityId": "2243171",
+        "cityId": 2243171,
         "name": "Cacuaco Municipality",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -8.75683,
         "longitude": 13.50082
     },
     {
-        "cityId": "10401828",
+        "cityId": 10401828,
         "name": "Munic\u00edpio Cazenga",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -8.82139,
         "longitude": 13.29111
     },
     {
-        "cityId": "10440865",
+        "cityId": 10440865,
         "name": "Belas",
-        "stateId": "2240444",
+        "stateId": 2240444,
         "latitude": -9.06875,
         "longitude": 13.16072
     }

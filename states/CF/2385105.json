@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7731898",
+        "cityId": 7731898,
         "name": "Mongoumba",
-        "stateId": "2385105",
+        "stateId": 2385105,
         "latitude": 3.72637,
         "longitude": 18.47591
     },
     {
-        "cityId": "7732068",
+        "cityId": 7732068,
         "name": "Mbaiki",
-        "stateId": "2385105",
+        "stateId": 2385105,
         "latitude": 3.97145,
         "longitude": 17.93352
     },
     {
-        "cityId": "9143467",
+        "cityId": 9143467,
         "name": "Boda",
-        "stateId": "2385105",
+        "stateId": 2385105,
         "latitude": 4.07284,
         "longitude": 17.317
     },
     {
-        "cityId": "9143486",
+        "cityId": 9143486,
         "name": "Boganangone",
-        "stateId": "2385105",
+        "stateId": 2385105,
         "latitude": 4.73558,
         "longitude": 17.14047
     },
     {
-        "cityId": "9143487",
+        "cityId": 9143487,
         "name": "Boganda",
-        "stateId": "2385105",
+        "stateId": 2385105,
         "latitude": 4.36601,
         "longitude": 17.15907
     }

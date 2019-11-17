@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "3133144",
+        "cityId": 3133144,
         "name": "Utsira",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.30565,
         "longitude": 4.88621
     },
     {
-        "cityId": "3133447",
+        "cityId": 3133447,
         "name": "Tysv\u00e6r",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.42159,
         "longitude": 5.44781
     },
     {
-        "cityId": "3134627",
+        "cityId": 3134627,
         "name": "Time",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.73636,
         "longitude": 5.65297
     },
     {
-        "cityId": "3135788",
+        "cityId": 3135788,
         "name": "Strand",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.02353,
         "longitude": 6.04343
     },
     {
-        "cityId": "3137941",
+        "cityId": 3137941,
         "name": "Sola",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.88806,
         "longitude": 5.64728
     },
     {
-        "cityId": "3137953",
+        "cityId": 3137953,
         "name": "Sokndal",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.34256,
         "longitude": 6.29425
     },
     {
-        "cityId": "3140054",
+        "cityId": 3140054,
         "name": "Sauda",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.65067,
         "longitude": 6.35312
     },
     {
-        "cityId": "3141965",
+        "cityId": 3141965,
         "name": "Rennes\u00f8y",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.09899,
         "longitude": 5.69966
     },
     {
-        "cityId": "3142395",
+        "cityId": 3142395,
         "name": "Randaberg",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.9987,
         "longitude": 5.62055
     },
     {
-        "cityId": "3146777",
+        "cityId": 3146777,
         "name": "Lund",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.45715,
         "longitude": 6.54871
     },
     {
-        "cityId": "3148673",
+        "cityId": 3148673,
         "name": "Kvits\u00f8y",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.06471,
         "longitude": 5.40537
     },
     {
-        "cityId": "3149862",
+        "cityId": 3149862,
         "name": "Klepp",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.77655,
         "longitude": 5.63009
     },
     {
-        "cityId": "3152560",
+        "cityId": 3152560,
         "name": "Hjelmeland",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.23668,
         "longitude": 6.17912
     },
     {
-        "cityId": "3154414",
+        "cityId": 3154414,
         "name": "H\u00e5",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.6161,
         "longitude": 5.64497
     },
     {
-        "cityId": "3155644",
+        "cityId": 3155644,
         "name": "Gjesdal",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.76478,
         "longitude": 5.855
     },
     {
-        "cityId": "3156724",
+        "cityId": 3156724,
         "name": "Forsand",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.89929,
         "longitude": 6.09642
     },
     {
-        "cityId": "3157573",
+        "cityId": 3157573,
         "name": "Finn\u00f8y",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.17117,
         "longitude": 5.87398
     },
     {
-        "cityId": "3158591",
+        "cityId": 3158591,
         "name": "Eigersund",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.45236,
         "longitude": 6.00314
     },
     {
-        "cityId": "3160810",
+        "cityId": 3160810,
         "name": "Bokn",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.23062,
         "longitude": 5.43524
     },
     {
-        "cityId": "3161457",
+        "cityId": 3161457,
         "name": "Bjerkreim",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.6305,
         "longitude": 6.0813
     },
     {
-        "cityId": "6453370",
+        "cityId": 6453370,
         "name": "Suldal",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.48571,
         "longitude": 6.25222
     },
     {
-        "cityId": "6453371",
+        "cityId": 6453371,
         "name": "Vindafjord",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.60543,
         "longitude": 5.80784
     },
     {
-        "cityId": "6453374",
+        "cityId": 6453374,
         "name": "Haugesund",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.41015,
         "longitude": 5.27551
     },
     {
-        "cityId": "6453375",
+        "cityId": 6453375,
         "name": "Karm\u00f8y",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 59.28079,
         "longitude": 5.30529
     },
     {
-        "cityId": "6453391",
+        "cityId": 6453391,
         "name": "Stavanger",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.96941,
         "longitude": 5.72856
     },
     {
-        "cityId": "6453393",
+        "cityId": 6453393,
         "name": "Sandnes",
-        "stateId": "3141558",
+        "stateId": 3141558,
         "latitude": 58.8476,
         "longitude": 5.72855
     }

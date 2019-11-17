@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "438773",
+        "cityId": 438773,
         "name": "\u015e\u0131rnak \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.53278,
         "longitude": 42.38917
     },
     {
-        "cityId": "438774",
+        "cityId": 438774,
         "name": "Cizre \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.32785,
         "longitude": 42.18721
     },
     {
-        "cityId": "438878",
+        "cityId": 438878,
         "name": "Uludere \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.44615,
         "longitude": 42.85222
     },
     {
-        "cityId": "438958",
+        "cityId": 438958,
         "name": "Beyt\u00fc\u015f\u015febap",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.57144,
         "longitude": 43.16515
     },
     {
-        "cityId": "438989",
+        "cityId": 438989,
         "name": "Silopi \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.24978,
         "longitude": 42.47173
     },
     {
-        "cityId": "441645",
+        "cityId": 441645,
         "name": "G\u00fc\u00e7l\u00fckonak \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.47133,
         "longitude": 41.91298
     },
     {
-        "cityId": "442034",
+        "cityId": 442034,
         "name": "\u0130dil \u0130l\u00e7esi",
-        "stateId": "443189",
+        "stateId": 443189,
         "latitude": 37.34178,
         "longitude": 41.88824
     }

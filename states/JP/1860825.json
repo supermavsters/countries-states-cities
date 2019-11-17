@@ -1,190 +1,190 @@
 [
     {
-        "cityId": "1850587",
+        "cityId": 1850587,
         "name": "Tarumizu Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.51583,
         "longitude": 130.76046
     },
     {
-        "cityId": "1851576",
+        "cityId": 1851576,
         "name": "Soo Gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.45183,
         "longitude": 130.97206
     },
     {
-        "cityId": "1852587",
+        "cityId": 1852587,
         "name": "Shibushi-shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.48333,
         "longitude": 131.1
     },
     {
-        "cityId": "1852852",
+        "cityId": 1852852,
         "name": "Satsuma Gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.94,
         "longitude": 130.47648
     },
     {
-        "cityId": "1853737",
+        "cityId": 1853737,
         "name": "\u014cshima-gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 28.24764,
         "longitude": 129.24661
     },
     {
-        "cityId": "1855201",
+        "cityId": 1855201,
         "name": "Nishinoomote Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 30.70536,
         "longitude": 131.01521
     },
     {
-        "cityId": "1857710",
+        "cityId": 1857710,
         "name": "Makurazaki Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.29139,
         "longitude": 130.30681
     },
     {
-        "cityId": "1860823",
+        "cityId": 1860823,
         "name": "Kagoshima Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.58003,
         "longitude": 130.52806
     },
     {
-        "cityId": "1861090",
+        "cityId": 1861090,
         "name": "Izumi Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 32.06412,
         "longitude": 130.36097
     },
     {
-        "cityId": "1862007",
+        "cityId": 1862007,
         "name": "Ibusuki Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.22962,
         "longitude": 130.5806
     },
     {
-        "cityId": "1865399",
+        "cityId": 1865399,
         "name": "Akune Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 32.02516,
         "longitude": 130.19768
     },
     {
-        "cityId": "1865649",
+        "cityId": 1865649,
         "name": "Aira Gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.96497,
         "longitude": 130.72871
     },
     {
-        "cityId": "1865650",
+        "cityId": 1865650,
         "name": "Aira Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.7846,
         "longitude": 130.60668
     },
     {
-        "cityId": "7383987",
+        "cityId": 7383987,
         "name": "Amami Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 28.34542,
         "longitude": 129.50221
     },
     {
-        "cityId": "7383988",
+        "cityId": 7383988,
         "name": "Hioki Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.59929,
         "longitude": 130.38208
     },
     {
-        "cityId": "7383990",
+        "cityId": 7383990,
         "name": "Ichikikushikino Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.73281,
         "longitude": 130.28893
     },
     {
-        "cityId": "7383991",
+        "cityId": 7383991,
         "name": "Isa Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 32.05835,
         "longitude": 130.60104
     },
     {
-        "cityId": "7383992",
+        "cityId": 7383992,
         "name": "Kirishima Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.80558,
         "longitude": 130.78164
     },
     {
-        "cityId": "7383993",
+        "cityId": 7383993,
         "name": "Minamikyushu Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.34038,
         "longitude": 130.43677
     },
     {
-        "cityId": "7383994",
+        "cityId": 7383994,
         "name": "Minamisatsuma Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.38793,
         "longitude": 130.26961
     },
     {
-        "cityId": "7383995",
+        "cityId": 7383995,
         "name": "Satsumasendai Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.82376,
         "longitude": 130.25899
     },
     {
-        "cityId": "7383996",
+        "cityId": 7383996,
         "name": "Soo Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.65615,
         "longitude": 130.9747
     },
     {
-        "cityId": "7383997",
+        "cityId": 7383997,
         "name": "Izumi-gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 32.18747,
         "longitude": 130.16301
     },
     {
-        "cityId": "7383998",
+        "cityId": 7383998,
         "name": "Kagoshima-gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 29.96148,
         "longitude": 129.9213
     },
     {
-        "cityId": "7383999",
+        "cityId": 7383999,
         "name": "Kimotsuki Gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.21609,
         "longitude": 130.89377
     },
     {
-        "cityId": "8300556",
+        "cityId": 8300556,
         "name": "Kanoya Shi",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 31.42664,
         "longitude": 130.86735
     },
     {
-        "cityId": "8714932",
+        "cityId": 8714932,
         "name": "Kumage-gun",
-        "stateId": "1860825",
+        "stateId": 1860825,
         "latitude": 30.38872,
         "longitude": 130.63734
     }

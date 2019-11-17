@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "8379114",
+        "cityId": 8379114,
         "name": "\u00c1lvaro Obreg\u00f3n",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.37496,
         "longitude": -99.21976
     },
     {
-        "cityId": "8379132",
+        "cityId": 8379132,
         "name": "Azcapotzalco",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.48731,
         "longitude": -99.18766
     },
     {
-        "cityId": "8379133",
+        "cityId": 8379133,
         "name": "Benito Ju\u00e1rez",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.39812,
         "longitude": -99.1571
     },
     {
-        "cityId": "8379369",
+        "cityId": 8379369,
         "name": "Coyoac\u00e1n",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.34678,
         "longitude": -99.15968
     },
     {
-        "cityId": "8379371",
+        "cityId": 8379371,
         "name": "Cuajimalpa de Morelos",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.35925,
         "longitude": -99.28774
     },
     {
-        "cityId": "8379372",
+        "cityId": 8379372,
         "name": "Cuauht\u00e9moc",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.4449,
         "longitude": -99.14303
     },
     {
-        "cityId": "8379376",
+        "cityId": 8379376,
         "name": "Gustavo A. Madero",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.48407,
         "longitude": -99.11144
     },
     {
-        "cityId": "8379454",
+        "cityId": 8379454,
         "name": "Iztacalco",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.39601,
         "longitude": -99.08192
     },
     {
-        "cityId": "8379455",
+        "cityId": 8379455,
         "name": "Iztapalapa",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.35318,
         "longitude": -99.05342
     },
     {
-        "cityId": "8379458",
+        "cityId": 8379458,
         "name": "La Magdalena Contreras",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.31495,
         "longitude": -99.2407
     },
     {
-        "cityId": "8379460",
+        "cityId": 8379460,
         "name": "Miguel Hidalgo",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.40824,
         "longitude": -99.19212
     },
     {
-        "cityId": "8379461",
+        "cityId": 8379461,
         "name": "Milpa Alta",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.19405,
         "longitude": -99.02149
     },
     {
-        "cityId": "8379478",
+        "cityId": 8379478,
         "name": "Tl\u00e1huac",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.27436,
         "longitude": -99.00278
     },
     {
-        "cityId": "8379479",
+        "cityId": 8379479,
         "name": "Tlalpan",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.27874,
         "longitude": -99.16569
     },
     {
-        "cityId": "8379480",
+        "cityId": 8379480,
         "name": "Venustiano Carranza",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.43972,
         "longitude": -99.1105
     },
     {
-        "cityId": "8379481",
+        "cityId": 8379481,
         "name": "Xochimilco",
-        "stateId": "3527646",
+        "stateId": 3527646,
         "latitude": 19.27761,
         "longitude": -99.11591
     }

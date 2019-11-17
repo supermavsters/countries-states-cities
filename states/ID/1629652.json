@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "1631760",
+        "cityId": 1631760,
         "name": "Kota Pekanbaru",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.53333,
         "longitude": 101.46667
     },
     {
-        "cityId": "1643081",
+        "cityId": 1643081,
         "name": "Kabupaten Indragiri Hulu",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": -0.55,
         "longitude": 102.31667
     },
     {
-        "cityId": "1643082",
+        "cityId": 1643082,
         "name": "Kabupaten Indragiri Hilir",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": -0.33333,
         "longitude": 103.16667
     },
     {
-        "cityId": "6722476",
+        "cityId": 6722476,
         "name": "Kabupaten Rokan Hulu",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.88333,
         "longitude": 100.48333
     },
     {
-        "cityId": "6724202",
+        "cityId": 6724202,
         "name": "Kabupaten Kampar",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.2344,
         "longitude": 101.2131
     },
     {
-        "cityId": "8597074",
+        "cityId": 8597074,
         "name": "Kabupaten Bengkalis",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.9838,
         "longitude": 102.5096
     },
     {
-        "cityId": "9163118",
+        "cityId": 9163118,
         "name": "Kabupaten Kuantan Singingi",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": -0.47532,
         "longitude": 101.45857
     },
     {
-        "cityId": "9163207",
+        "cityId": 9163207,
         "name": "Kabupaten Pelalawan",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.20822,
         "longitude": 102.18607
     },
     {
-        "cityId": "9821955",
+        "cityId": 9821955,
         "name": "Kota Dumai",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 1.61592,
         "longitude": 101.4917
     },
     {
-        "cityId": "9828033",
+        "cityId": 9828033,
         "name": "Kabupaten Kepulauan Meranti",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.97488,
         "longitude": 102.69539
     },
     {
-        "cityId": "9844900",
+        "cityId": 9844900,
         "name": "Kabupaten Rokan Hilir",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 2.16599,
         "longitude": 100.82514
     },
     {
-        "cityId": "9844901",
+        "cityId": 9844901,
         "name": "Kabupaten Siak",
-        "stateId": "1629652",
+        "stateId": 1629652,
         "latitude": 0.97453,
         "longitude": 102.01355
     }

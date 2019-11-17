@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "901339",
+        "cityId": 901339,
         "name": "Ndola Rural District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -13.26792,
         "longitude": 27.72519
     },
     {
-        "cityId": "901342",
+        "cityId": 901342,
         "name": "Ndola District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.94155,
         "longitude": 28.54896
     },
     {
-        "cityId": "905389",
+        "cityId": 905389,
         "name": "Mufulira District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.52438,
         "longitude": 28.23854
     },
     {
-        "cityId": "909857",
+        "cityId": 909857,
         "name": "Luanshya District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -13.05915,
         "longitude": 28.36081
     },
     {
-        "cityId": "911144",
+        "cityId": 911144,
         "name": "Kitwe District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.85,
         "longitude": 28.25
     },
     {
-        "cityId": "914956",
+        "cityId": 914956,
         "name": "Kalulushi District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.76201,
         "longitude": 27.952
     },
     {
-        "cityId": "919006",
+        "cityId": 919006,
         "name": "Chingola District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.48478,
         "longitude": 27.66313
     },
     {
-        "cityId": "919540",
+        "cityId": 919540,
         "name": "Chililabombwe District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.34267,
         "longitude": 27.77844
     },
     {
-        "cityId": "8285557",
+        "cityId": 8285557,
         "name": "Masaiti District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -13.409,
         "longitude": 28.719
     },
     {
-        "cityId": "9072524",
+        "cityId": 9072524,
         "name": "Mpongwe District",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -13.50833,
         "longitude": 28.16667
     },
     {
-        "cityId": "10801768",
+        "cityId": 10801768,
         "name": "Lufwanyama",
-        "stateId": "917524",
+        "stateId": 917524,
         "latitude": -12.952,
         "longitude": 27.41743
     }

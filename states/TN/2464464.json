@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "2464465",
+        "cityId": 2464465,
         "name": "D\u00e9l\u00e9gation de la M\u00e9dina",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.79699,
         "longitude": 10.16946
     },
     {
-        "cityId": "2470587",
+        "cityId": 2470587,
         "name": "D\u00e9l\u00e9gation de la Banlieue Sud",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.70336,
         "longitude": 10.33438
     },
     {
-        "cityId": "7870313",
+        "cityId": 7870313,
         "name": "Bardo Museum",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.80932,
         "longitude": 10.13433
     },
     {
-        "cityId": "7870548",
+        "cityId": 7870548,
         "name": "Sijoumi",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.78394,
         "longitude": 10.15634
     },
     {
-        "cityId": "7870549",
+        "cityId": 7870549,
         "name": "Sidi Hassine",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.74208,
         "longitude": 10.10234
     },
     {
-        "cityId": "11109157",
+        "cityId": 11109157,
         "name": "El Hrairia",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.78286,
         "longitude": 10.072
     },
     {
-        "cityId": "11109158",
+        "cityId": 11109158,
         "name": "El Kabaria",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.75009,
         "longitude": 10.18759
     },
     {
-        "cityId": "11109159",
+        "cityId": 11109159,
         "name": "Jebel Jelloud",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.76798,
         "longitude": 10.20213
     },
     {
-        "cityId": "11109164",
+        "cityId": 11109164,
         "name": "El Ouardia",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.77293,
         "longitude": 10.18288
     },
     {
-        "cityId": "11109165",
+        "cityId": 11109165,
         "name": "D\u00e9l\u00e9gation de Sidi El B\u00e9chir",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.78601,
         "longitude": 10.17516
     },
     {
-        "cityId": "11109166",
+        "cityId": 11109166,
         "name": "Bab Souika",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.8059,
         "longitude": 10.16302
     },
     {
-        "cityId": "11109167",
+        "cityId": 11109167,
         "name": "Ezzouhour",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.7954,
         "longitude": 10.13618
     },
     {
-        "cityId": "11109168",
+        "cityId": 11109168,
         "name": "Le Bardo",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.80962,
         "longitude": 10.12898
     },
     {
-        "cityId": "11109170",
+        "cityId": 11109170,
         "name": "Ettahrir",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.82365,
         "longitude": 10.12634
     },
     {
-        "cityId": "11109171",
+        "cityId": 11109171,
         "name": "D\u00e9l\u00e9gation d\u2019El Omrane Sup\u00e9rieur",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.83293,
         "longitude": 10.13058
     },
     {
-        "cityId": "11109172",
+        "cityId": 11109172,
         "name": "El Omrane",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.81946,
         "longitude": 10.1552
     },
     {
-        "cityId": "11109174",
+        "cityId": 11109174,
         "name": "El Menzah",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.83839,
         "longitude": 10.15728
     },
     {
-        "cityId": "11109175",
+        "cityId": 11109175,
         "name": "Bab El Bhar",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.80133,
         "longitude": 10.18534
     },
     {
-        "cityId": "11109176",
+        "cityId": 11109176,
         "name": "D\u00e9l\u00e9gation de Cit\u00e9 El Khadra",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.84022,
         "longitude": 10.20718
     },
     {
-        "cityId": "11109177",
+        "cityId": 11109177,
         "name": "La Goulette",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.8419,
         "longitude": 10.28269
     },
     {
-        "cityId": "11109178",
+        "cityId": 11109178,
         "name": "Le Kram",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.8492,
         "longitude": 10.29658
     },
     {
-        "cityId": "11109179",
+        "cityId": 11109179,
         "name": "Carthage",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.85961,
         "longitude": 10.32978
     },
     {
-        "cityId": "11109180",
+        "cityId": 11109180,
         "name": "La Marsa",
-        "stateId": "2464464",
+        "stateId": 2464464,
         "latitude": 36.89544,
         "longitude": 10.30294
     }

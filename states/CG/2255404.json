@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "2257174",
+        "cityId": 2257174,
         "name": "Mindouli",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -4.16564,
         "longitude": 14.3811
     },
     {
-        "cityId": "2257531",
+        "cityId": 2257531,
         "name": "Mayama",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -3.84722,
         "longitude": 14.89167
     },
     {
-        "cityId": "7732000",
+        "cityId": 7732000,
         "name": "Ngabe",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -3.29605,
         "longitude": 15.77606
     },
     {
-        "cityId": "7732001",
+        "cityId": 7732001,
         "name": "Ngamaba (brazzaville)",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -3.94022,
         "longitude": 15.4141
     },
     {
-        "cityId": "7732002",
+        "cityId": 7732002,
         "name": "Kinkala",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -4.30656,
         "longitude": 14.86816
     },
     {
-        "cityId": "7732003",
+        "cityId": 7732003,
         "name": "Boko",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -4.6268,
         "longitude": 14.61956
     },
     {
-        "cityId": "7873913",
+        "cityId": 7873913,
         "name": "Kindamba",
-        "stateId": "2255404",
+        "stateId": 2255404,
         "latitude": -3.74355,
         "longitude": 14.5262
     }

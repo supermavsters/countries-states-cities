@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7910308",
+        "cityId": 7910308,
         "name": "Aleg",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 16.9645,
         "longitude": -13.72325
     },
     {
-        "cityId": "8051342",
+        "cityId": 8051342,
         "name": "Aleg",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 16.922,
         "longitude": -13.579
     },
     {
-        "cityId": "8335141",
+        "cityId": 8335141,
         "name": "Bogu\u00e9 Department",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 16.67632,
         "longitude": -14.47105
     },
     {
-        "cityId": "9212619",
+        "cityId": 9212619,
         "name": "Bababe",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 16.44817,
         "longitude": -13.93262
     },
     {
-        "cityId": "9212631",
+        "cityId": 9212631,
         "name": "M'Bagne",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 16.25753,
         "longitude": -13.77466
     },
     {
-        "cityId": "9212635",
+        "cityId": 9212635,
         "name": "Magta-Lahjar",
-        "stateId": "2380635",
+        "stateId": 2380635,
         "latitude": 17.64801,
         "longitude": -12.91817
     }

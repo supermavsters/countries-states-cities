@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "7268053",
+        "cityId": 7268053,
         "name": "Ceiba Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.44933,
         "longitude": -66.35886
     },
     {
-        "cityId": "7268078",
+        "cityId": 7268078,
         "name": "Cibuco Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.48627,
         "longitude": -66.37459
     },
     {
-        "cityId": "7268182",
+        "cityId": 7268182,
         "name": "Algarrobo Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.44807,
         "longitude": -66.41834
     },
     {
-        "cityId": "7268187",
+        "cityId": 7268187,
         "name": "Almirante Norte Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.41529,
         "longitude": -66.36849
     },
     {
-        "cityId": "7268188",
+        "cityId": 7268188,
         "name": "Almirante Sur Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.37489,
         "longitude": -66.38144
     },
     {
-        "cityId": "7268278",
+        "cityId": 7268278,
         "name": "Cabo Caribe Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.46408,
         "longitude": -66.38138
     },
     {
-        "cityId": "7268827",
+        "cityId": 7268827,
         "name": "Puerto Nuevo Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.49189,
         "longitude": -66.40317
     },
     {
-        "cityId": "7268832",
+        "cityId": 7268832,
         "name": "Pugnado Adentro Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.38718,
         "longitude": -66.42871
     },
     {
-        "cityId": "7268833",
+        "cityId": 7268833,
         "name": "Pugnado Afuera Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.41789,
         "longitude": -66.41528
     },
     {
-        "cityId": "7268845",
+        "cityId": 7268845,
         "name": "Quebrada Arenas Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.3785,
         "longitude": -66.40586
     },
     {
-        "cityId": "7268888",
+        "cityId": 7268888,
         "name": "R\u00edo Abajo Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.42997,
         "longitude": -66.38196
     },
     {
-        "cityId": "7268892",
+        "cityId": 7268892,
         "name": "R\u00edo Arriba Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.39869,
         "longitude": -66.39297
     },
     {
-        "cityId": "7269068",
+        "cityId": 7269068,
         "name": "Vega Baja Barrio-Pueblo",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.4444,
         "longitude": -66.38691
     },
     {
-        "cityId": "7269091",
+        "cityId": 7269091,
         "name": "Yeguada Barrio",
-        "stateId": "4568534",
+        "stateId": 4568534,
         "latitude": 18.47764,
         "longitude": -66.42497
     }

@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "4929772",
+        "cityId": 4929772,
         "name": "Barnstable County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 41.68419,
         "longitude": -70.27405
     },
     {
-        "cityId": "4930396",
+        "cityId": 4930396,
         "name": "Berkshire County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.37067,
         "longitude": -73.2064
     },
     {
-        "cityId": "4931378",
+        "cityId": 4931378,
         "name": "Bristol County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 41.75709,
         "longitude": -71.08852
     },
     {
-        "cityId": "4935156",
+        "cityId": 4935156,
         "name": "Dukes County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 41.38877,
         "longitude": -70.69877
     },
     {
-        "cityId": "4935951",
+        "cityId": 4935951,
         "name": "Essex County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.63887,
         "longitude": -70.86792
     },
     {
-        "cityId": "4937280",
+        "cityId": 4937280,
         "name": "Franklin County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.58312,
         "longitude": -72.59187
     },
     {
-        "cityId": "4938741",
+        "cityId": 4938741,
         "name": "Hampden County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.13511,
         "longitude": -72.63162
     },
     {
-        "cityId": "4938757",
+        "cityId": 4938757,
         "name": "Hampshire County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.34014,
         "longitude": -72.66377
     },
     {
-        "cityId": "4943909",
+        "cityId": 4943909,
         "name": "Middlesex County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.48555,
         "longitude": -71.39184
     },
     {
-        "cityId": "4944911",
+        "cityId": 4944911,
         "name": "Nantucket County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 41.26955,
         "longitude": -70.02171
     },
     {
-        "cityId": "4945455",
+        "cityId": 4945455,
         "name": "Norfolk County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.17097,
         "longitude": -71.18381
     },
     {
-        "cityId": "4947607",
+        "cityId": 4947607,
         "name": "Plymouth County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 41.98743,
         "longitude": -70.73707
     },
     {
-        "cityId": "4952349",
+        "cityId": 4952349,
         "name": "Suffolk County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.3555,
         "longitude": -71.06575
     },
     {
-        "cityId": "4956199",
+        "cityId": 4956199,
         "name": "Worcester County",
-        "stateId": "6254926",
+        "stateId": 6254926,
         "latitude": 42.3514,
         "longitude": -71.90774
     }

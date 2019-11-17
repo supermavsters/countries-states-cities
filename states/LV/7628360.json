@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352533",
+        "cityId": 11352533,
         "name": "Vanga\u017ei",
-        "stateId": "7628360",
+        "stateId": 7628360,
         "latitude": 57.09091,
         "longitude": 24.5282
     },
     {
-        "cityId": "11352624",
+        "cityId": 11352624,
         "name": "In\u010dukalna pagasts",
-        "stateId": "7628360",
+        "stateId": 7628360,
         "latitude": 57.10285,
         "longitude": 24.65706
     }

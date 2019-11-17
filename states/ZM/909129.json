@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "909134",
+        "cityId": 909134,
         "name": "Lusaka District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.4307,
         "longitude": 28.34419
     },
     {
-        "cityId": "909886",
+        "cityId": 909886,
         "name": "Luangwa District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.41487,
         "longitude": 30.01031
     },
     {
-        "cityId": "7671220",
+        "cityId": 7671220,
         "name": "Kafue district",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.61994,
         "longitude": 28.44125
     },
     {
-        "cityId": "7910080",
+        "cityId": 7910080,
         "name": "Chongwe District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.72,
         "longitude": 29.33
     },
     {
-        "cityId": "10815852",
+        "cityId": 10815852,
         "name": "Chirundu District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -16.13283,
         "longitude": 28.68775
     },
     {
-        "cityId": "10815853",
+        "cityId": 10815853,
         "name": "Shibuyunji District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.38923,
         "longitude": 27.70259
     },
     {
-        "cityId": "10815854",
+        "cityId": 10815854,
         "name": "Chilanga District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.45131,
         "longitude": 28.07776
     },
     {
-        "cityId": "10815855",
+        "cityId": 10815855,
         "name": "Rufunsa District",
-        "stateId": "909129",
+        "stateId": 909129,
         "latitude": -15.14901,
         "longitude": 29.52447
     }

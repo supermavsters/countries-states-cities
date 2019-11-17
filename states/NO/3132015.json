@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "3132904",
+        "cityId": 3132904,
         "name": "Re",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.35056,
         "longitude": 10.24763
     },
     {
-        "cityId": "3134520",
+        "cityId": 3134520,
         "name": "Tj\u00f8me",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.11087,
         "longitude": 10.39326
     },
     {
-        "cityId": "3144070",
+        "cityId": 3144070,
         "name": "N\u00f8tter\u00f8y",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.22406,
         "longitude": 10.40899
     },
     {
-        "cityId": "3160606",
+        "cityId": 3160606,
         "name": "Horten",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.41547,
         "longitude": 10.48527
     },
     {
-        "cityId": "6453377",
+        "cityId": 6453377,
         "name": "Svelvik",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.60677,
         "longitude": 10.40225
     },
     {
-        "cityId": "6453378",
+        "cityId": 6453378,
         "name": "Sande",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.59362,
         "longitude": 10.20757
     },
     {
-        "cityId": "6453379",
+        "cityId": 6453379,
         "name": "Hof",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.52865,
         "longitude": 10.08942
     },
     {
-        "cityId": "6453382",
+        "cityId": 6453382,
         "name": "Holmestrand",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.48976,
         "longitude": 10.31515
     },
     {
-        "cityId": "6453386",
+        "cityId": 6453386,
         "name": "Lardal",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.40243,
         "longitude": 9.95918
     },
     {
-        "cityId": "6453389",
+        "cityId": 6453389,
         "name": "T\u00f8nsberg",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.27114,
         "longitude": 10.40939
     },
     {
-        "cityId": "6453390",
+        "cityId": 6453390,
         "name": "Larvik",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.05234,
         "longitude": 10.02701
     },
     {
-        "cityId": "6453396",
+        "cityId": 6453396,
         "name": "Sandefjord",
-        "stateId": "3132015",
+        "stateId": 3132015,
         "latitude": 59.12881,
         "longitude": 10.21971
     }

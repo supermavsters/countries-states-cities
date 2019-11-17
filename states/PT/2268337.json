@@ -1,113 +1,113 @@
 [
     {
-        "cityId": "8010512",
+        "cityId": 8010512,
         "name": "Albufeira",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.08341,
         "longitude": -8.26139
     },
     {
-        "cityId": "8010513",
+        "cityId": 8010513,
         "name": "Alcoutim",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.424,
         "longitude": -7.65456
     },
     {
-        "cityId": "8010514",
+        "cityId": 8010514,
         "name": "Aljezur",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.30856,
         "longitude": -8.80486
     },
     {
-        "cityId": "8010515",
+        "cityId": 8010515,
         "name": "Castro Marim",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.25865,
         "longitude": -7.50732
     },
     {
-        "cityId": "8010516",
+        "cityId": 8010516,
         "name": "Faro",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.05643,
         "longitude": -7.92774
     },
     {
-        "cityId": "8010517",
+        "cityId": 8010517,
         "name": "Lagoa",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.10505,
         "longitude": -8.45974
     },
     {
-        "cityId": "8010518",
+        "cityId": 8010518,
         "name": "Lagos",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.09567,
         "longitude": -8.67661
     },
     {
-        "cityId": "8010519",
+        "cityId": 8010519,
         "name": "Loul\u00e9",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.14399,
         "longitude": -8.02345
     },
     {
-        "cityId": "8010520",
+        "cityId": 8010520,
         "name": "Monchique",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.31664,
         "longitude": -8.5834
     },
     {
-        "cityId": "8010521",
+        "cityId": 8010521,
         "name": "Olh\u00e3o",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.04509,
         "longitude": -7.81032
     },
     {
-        "cityId": "8010522",
+        "cityId": 8010522,
         "name": "Portim\u00e3o",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.17544,
         "longitude": -8.5842
     },
     {
-        "cityId": "8010523",
+        "cityId": 8010523,
         "name": "S\u00e3o Br\u00e1s de Alportel",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.19564,
         "longitude": -7.87546
     },
     {
-        "cityId": "8010524",
+        "cityId": 8010524,
         "name": "Silves",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.20343,
         "longitude": -8.33472
     },
     {
-        "cityId": "8010525",
+        "cityId": 8010525,
         "name": "Tavira",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.13085,
         "longitude": -7.6506
     },
     {
-        "cityId": "8010526",
+        "cityId": 8010526,
         "name": "Vila do Bispo",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.08841,
         "longitude": -8.90785
     },
     {
-        "cityId": "8010527",
+        "cityId": 8010527,
         "name": "Vila Real de Santo Ant\u00f3nio",
-        "stateId": "2268337",
+        "stateId": 2268337,
         "latitude": 37.19232,
         "longitude": -7.42538
     }

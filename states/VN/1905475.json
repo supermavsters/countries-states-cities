@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1566754",
+        "cityId": 1566754,
         "name": "T\u00e2n Uy\u00ean",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.06667,
         "longitude": 106.8
     },
     {
-        "cityId": "1905476",
+        "cityId": 1905476,
         "name": "Th\u00e0nh Ph\u1ed1 Th\u1ee7 D\u1ea7u M\u1ed9t",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.00593,
         "longitude": 106.6579
     },
     {
-        "cityId": "1905477",
+        "cityId": 1905477,
         "name": "Th\u1ecb X\u00e3 Thu\u1eadn An",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 10.93976,
         "longitude": 106.71124
     },
     {
-        "cityId": "1905478",
+        "cityId": 1905478,
         "name": "Th\u1ecb X\u00e3 T\u00e2n Uy\u00ean",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.0523,
         "longitude": 106.74141
     },
     {
-        "cityId": "1905479",
+        "cityId": 1905479,
         "name": "Th\u1ecb X\u00e3 B\u1ebfn C\u00e1t",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.10532,
         "longitude": 106.61538
     },
     {
-        "cityId": "8556376",
+        "cityId": 8556376,
         "name": "Phu Giao District",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.26461,
         "longitude": 106.76582
     },
     {
-        "cityId": "9091202",
+        "cityId": 9091202,
         "name": "Huy\u1ec7n B\u00e0u B\u00e0ng",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.26308,
         "longitude": 106.61396
     },
     {
-        "cityId": "9091481",
+        "cityId": 9091481,
         "name": "Th\u1ecb X\u00e3 D\u0129 An",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 10.90693,
         "longitude": 106.77819
     },
     {
-        "cityId": "9091482",
+        "cityId": 9091482,
         "name": "Huy\u1ec7n D\u1ea7u Ti\u00eang",
-        "stateId": "1905475",
+        "stateId": 1905475,
         "latitude": 11.31358,
         "longitude": 106.44291
     }

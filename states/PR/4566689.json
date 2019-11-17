@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "7268114",
+        "cityId": 7268114,
         "name": "Coto Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.05438,
         "longitude": -66.73148
     },
     {
-        "cityId": "7268132",
+        "cityId": 7268132,
         "name": "Cuebas Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.0457,
         "longitude": -66.71718
     },
     {
-        "cityId": "7268237",
+        "cityId": 7268237,
         "name": "Barreal Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.1051,
         "longitude": -66.75305
     },
     {
-        "cityId": "7268372",
+        "cityId": 7268372,
         "name": "Encarnaci\u00f3n Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 17.98875,
         "longitude": -66.70877
     },
     {
-        "cityId": "7268511",
+        "cityId": 7268511,
         "name": "Jaguas Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.09217,
         "longitude": -66.72943
     },
     {
-        "cityId": "7268581",
+        "cityId": 7268581,
         "name": "Macan\u00e1 Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.0778,
         "longitude": -66.76179
     },
     {
-        "cityId": "7268747",
+        "cityId": 7268747,
         "name": "Pe\u00f1uelas Barrio-Pueblo",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.05706,
         "longitude": -66.72264
     },
     {
-        "cityId": "7268850",
+        "cityId": 7268850,
         "name": "Quebrada Ceiba Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.07343,
         "longitude": -66.70992
     },
     {
-        "cityId": "7268931",
+        "cityId": 7268931,
         "name": "Rucio Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.10278,
         "longitude": -66.69862
     },
     {
-        "cityId": "7269000",
+        "cityId": 7269000,
         "name": "Santo Domingo Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.06416,
         "longitude": -66.74734
     },
     {
-        "cityId": "7269023",
+        "cityId": 7269023,
         "name": "Tallaboa Alta Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.0511,
         "longitude": -66.69466
     },
     {
-        "cityId": "7269024",
+        "cityId": 7269024,
         "name": "Tallaboa Poniente Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 17.98779,
         "longitude": -66.74692
     },
     {
-        "cityId": "7269025",
+        "cityId": 7269025,
         "name": "Tallaboa Saliente Barrio",
-        "stateId": "4566689",
+        "stateId": 4566689,
         "latitude": 18.02463,
         "longitude": -66.7127
     }

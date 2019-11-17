@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "9644750",
+        "cityId": 9644750,
         "name": "P\u00e1pai J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.33769,
         "longitude": 17.49663
     },
     {
-        "cityId": "9644751",
+        "cityId": 9644751,
         "name": "Zirci J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.28583,
         "longitude": 17.88412
     },
     {
-        "cityId": "9644752",
+        "cityId": 9644752,
         "name": "V\u00e1rpalotai J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.18514,
         "longitude": 18.12211
     },
     {
-        "cityId": "9644753",
+        "cityId": 9644753,
         "name": "Balatonalm\u00e1di J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.04174,
         "longitude": 18.09617
     },
     {
-        "cityId": "9644754",
+        "cityId": 9644754,
         "name": "Balatonf\u00fcredi J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 46.93952,
         "longitude": 17.79411
     },
     {
-        "cityId": "9644755",
+        "cityId": 9644755,
         "name": "Tapolcai J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 46.89833,
         "longitude": 17.4951
     },
     {
-        "cityId": "9644756",
+        "cityId": 9644756,
         "name": "S\u00fcmegi J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.02648,
         "longitude": 17.26779
     },
     {
-        "cityId": "9644757",
+        "cityId": 9644757,
         "name": "Ajkai J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.07988,
         "longitude": 17.56375
     },
     {
-        "cityId": "9644758",
+        "cityId": 9644758,
         "name": "Devecseri J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.16836,
         "longitude": 17.32271
     },
     {
-        "cityId": "9644759",
+        "cityId": 9644759,
         "name": "Veszpr\u00e9mi J\u00e1r\u00e1s",
-        "stateId": "3042925",
+        "stateId": 3042925,
         "latitude": 47.09666,
         "longitude": 17.82157
     }

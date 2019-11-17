@@ -1,15 +1,15 @@
 [
     {
-        "stateId": "3041964",
+        "stateId": 3041964,
         "name": "Jan Mayen",
-        "countryId": "23",
+        "countryId": 23,
         "latitude": 70.98333,
         "longitude": -8.5
     },
     {
-        "stateId": "7521757",
+        "stateId": 7521757,
         "name": "Svalbard",
-        "countryId": "23",
+        "countryId": 23,
         "latitude": 78.15706,
         "longitude": 15.86426
     }

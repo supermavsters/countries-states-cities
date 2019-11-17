@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3499980",
+        "cityId": 3499980,
         "name": "La Vega",
-        "stateId": "3499977",
+        "stateId": 3499977,
         "latitude": 19.25,
         "longitude": -70.5
     },
     {
-        "cityId": "3504159",
+        "cityId": 3504159,
         "name": "Jarabacoa",
-        "stateId": "3499977",
+        "stateId": 3499977,
         "latitude": 19.13333,
         "longitude": -70.66667
     },
     {
-        "cityId": "3509366",
+        "cityId": 3509366,
         "name": "Constanza",
-        "stateId": "3499977",
+        "stateId": 3499977,
         "latitude": 18.86667,
         "longitude": -70.7
     },
     {
-        "cityId": "11154576",
+        "cityId": 11154576,
         "name": "Jima Abajo",
-        "stateId": "3499977",
+        "stateId": 3499977,
         "latitude": 19.12891,
         "longitude": -70.39553
     }

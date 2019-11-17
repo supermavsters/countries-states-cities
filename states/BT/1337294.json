@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "7647633",
+        "cityId": 7647633,
         "name": "Nubi",
-        "stateId": "1337294",
+        "stateId": 1337294,
         "latitude": 27.57324,
         "longitude": 90.47333
     },
     {
-        "cityId": "7647634",
+        "cityId": 7647634,
         "name": "Bjakteng",
-        "stateId": "1337294",
+        "stateId": 1337294,
         "latitude": 27.41241,
         "longitude": 90.53263
     }

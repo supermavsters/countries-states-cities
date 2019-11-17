@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "8405032",
+        "cityId": 8405032,
         "name": "Sr\u014fk Kaev Seima",
-        "stateId": "1830306",
+        "stateId": 1830306,
         "latitude": 12.41722,
         "longitude": 106.77025
     },
     {
-        "cityId": "8405033",
+        "cityId": 8405033,
         "name": "Sr\u014fk Pech Chreada",
-        "stateId": "1830306",
+        "stateId": 1830306,
         "latitude": 12.7278,
         "longitude": 107.0948
     },
     {
-        "cityId": "8405034",
+        "cityId": 8405034,
         "name": "Kr\u014fng S\u00eanm\u00f4no\u016dr\u00f4m",
-        "stateId": "1830306",
+        "stateId": 1830306,
         "latitude": 12.5048,
         "longitude": 107.15525
     },
     {
-        "cityId": "9253783",
+        "cityId": 9253783,
         "name": "Khaoh Neaek",
-        "stateId": "1830306",
+        "stateId": 1830306,
         "latitude": 13.10159,
         "longitude": 106.96917
     },
     {
-        "cityId": "9253785",
+        "cityId": 9253785,
         "name": "Ou Reang",
-        "stateId": "1830306",
+        "stateId": 1830306,
         "latitude": 12.39555,
         "longitude": 107.32439
     }

@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1784107",
+        "cityId": 1784107,
         "name": "Zhoushan Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 30.16944,
         "longitude": 122.40278
     },
     {
-        "cityId": "1791385",
+        "cityId": 1791385,
         "name": "Wenzhou Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 27.81496,
         "longitude": 120.48519
     },
     {
-        "cityId": "1793504",
+        "cityId": 1793504,
         "name": "Taizhou Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 28.6835,
         "longitude": 121.444
     },
     {
-        "cityId": "1795854",
+        "cityId": 1795854,
         "name": "Shaoxing Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 29.70167,
         "longitude": 120.6
     },
     {
-        "cityId": "1797262",
+        "cityId": 1797262,
         "name": "Quzhou Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 28.94273,
         "longitude": 118.87185
     },
     {
-        "cityId": "1799395",
+        "cityId": 1799395,
         "name": "Ningbo Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 29.8,
         "longitude": 121.55
     },
     {
-        "cityId": "1803243",
+        "cityId": 1803243,
         "name": "Lishui Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 28.40806,
         "longitude": 119.53333
     },
     {
-        "cityId": "1805525",
+        "cityId": 1805525,
         "name": "Jinhua Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 29.10778,
         "longitude": 120
     },
     {
-        "cityId": "1805952",
+        "cityId": 1805952,
         "name": "Jiaxing Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 30.7707,
         "longitude": 120.75238
     },
     {
-        "cityId": "1806534",
+        "cityId": 1806534,
         "name": "Huzhou Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 30.8,
         "longitude": 119.9
     },
     {
-        "cityId": "1808925",
+        "cityId": 1808925,
         "name": "Hangzhou Shi",
-        "stateId": "1784764",
+        "stateId": 1784764,
         "latitude": 30,
         "longitude": 119.6
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "438519",
+        "cityId": 438519,
         "name": "Tillo \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 37.94962,
         "longitude": 42.01147
     },
     {
-        "cityId": "438624",
+        "cityId": 438624,
         "name": "Pervari \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 37.87222,
         "longitude": 42.57111
     },
     {
-        "cityId": "440906",
+        "cityId": 440906,
         "name": "Kurtalan \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 37.9244,
         "longitude": 41.70083
     },
     {
-        "cityId": "440907",
+        "cityId": 440907,
         "name": "Siirt Merkez",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 37.92028,
         "longitude": 41.91472
     },
     {
-        "cityId": "8630838",
+        "cityId": 8630838,
         "name": "Eruh \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 37.74606,
         "longitude": 42.17507
     },
     {
-        "cityId": "8630839",
+        "cityId": 8630839,
         "name": "Baykan \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 38.16315,
         "longitude": 41.78407
     },
     {
-        "cityId": "8630840",
+        "cityId": 8630840,
         "name": "\u015eirvan \u0130l\u00e7esi",
-        "stateId": "300821",
+        "stateId": 300821,
         "latitude": 38.06289,
         "longitude": 42.02778
     }

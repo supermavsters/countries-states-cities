@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "7873877",
+        "cityId": 7873877,
         "name": "Ovia South-West",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.396,
         "longitude": 5.272
     },
     {
-        "cityId": "7873878",
+        "cityId": 7873878,
         "name": "Ovia North-East",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.64465,
         "longitude": 5.57989
     },
     {
-        "cityId": "7873880",
+        "cityId": 7873880,
         "name": "Orhionmwon",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.25354,
         "longitude": 5.98405
     },
     {
-        "cityId": "7932071",
+        "cityId": 7932071,
         "name": "Uhunmwonde",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.49222,
         "longitude": 5.88452
     },
     {
-        "cityId": "7932077",
+        "cityId": 7932077,
         "name": "Ikpoba-Okha",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.16445,
         "longitude": 5.62284
     },
     {
-        "cityId": "8636763",
+        "cityId": 8636763,
         "name": "Egor",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.35748,
         "longitude": 5.57547
     },
     {
-        "cityId": "8636764",
+        "cityId": 8636764,
         "name": "Oredo",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.23581,
         "longitude": 5.55114
     },
     {
-        "cityId": "8636765",
+        "cityId": 8636765,
         "name": "Iguegben",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.52782,
         "longitude": 6.24264
     },
     {
-        "cityId": "8636766",
+        "cityId": 8636766,
         "name": "Esan West",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.66166,
         "longitude": 6.12908
     },
     {
-        "cityId": "8636767",
+        "cityId": 8636767,
         "name": "Esan Central",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.70969,
         "longitude": 6.19313
     },
     {
-        "cityId": "8636768",
+        "cityId": 8636768,
         "name": "Esan North-East",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.75495,
         "longitude": 6.39676
     },
     {
-        "cityId": "8636769",
+        "cityId": 8636769,
         "name": "Esan South-East",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.58663,
         "longitude": 6.47585
     },
     {
-        "cityId": "8636770",
+        "cityId": 8636770,
         "name": "Owan West",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.92934,
         "longitude": 5.89385
     },
     {
-        "cityId": "8636771",
+        "cityId": 8636771,
         "name": "Owan East",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 7.03162,
         "longitude": 6.07942
     },
     {
-        "cityId": "8636772",
+        "cityId": 8636772,
         "name": "Akoko-Edo",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 7.34506,
         "longitude": 6.11489
     },
     {
-        "cityId": "8636773",
+        "cityId": 8636773,
         "name": "Etsako East",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 7.20919,
         "longitude": 6.49613
     },
     {
-        "cityId": "8636774",
+        "cityId": 8636774,
         "name": "Etsako West",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.99829,
         "longitude": 6.30145
     },
     {
-        "cityId": "8636775",
+        "cityId": 8636775,
         "name": "Etsako Central",
-        "stateId": "2565343",
+        "stateId": 2565343,
         "latitude": 6.97193,
         "longitude": 6.51235
     }

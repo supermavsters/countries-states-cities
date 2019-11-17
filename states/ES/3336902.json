@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3113208",
+        "cityId": 3113208,
         "name": "Provincia de Pontevedra",
-        "stateId": "3336902",
+        "stateId": 3336902,
         "latitude": 42.5,
         "longitude": -8.5
     },
     {
-        "cityId": "3114964",
+        "cityId": 3114964,
         "name": "Provincia de Ourense",
-        "stateId": "3336902",
+        "stateId": 3336902,
         "latitude": 42.16667,
         "longitude": -7.5
     },
     {
-        "cityId": "3117813",
+        "cityId": 3117813,
         "name": "Provincia de Lugo",
-        "stateId": "3336902",
+        "stateId": 3336902,
         "latitude": 43,
         "longitude": -7.5
     },
     {
-        "cityId": "3119840",
+        "cityId": 3119840,
         "name": "Provincia da Coru\u00f1a",
-        "stateId": "3336902",
+        "stateId": 3336902,
         "latitude": 43.16667,
         "longitude": -8.41667
     }

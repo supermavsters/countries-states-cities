@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2244993",
+        "cityId": 2244993,
         "name": "Tambacounda Department",
-        "stateId": "2244990",
+        "stateId": 2244990,
         "latitude": 13.605,
         "longitude": -13.647
     },
     {
-        "cityId": "2250648",
+        "cityId": 2250648,
         "name": "K\u00e9dougou Department",
-        "stateId": "2244990",
+        "stateId": 2244990,
         "latitude": 12.81716,
         "longitude": -12.17834
     },
     {
-        "cityId": "2254443",
+        "cityId": 2254443,
         "name": "Bakel",
-        "stateId": "2244990",
+        "stateId": 2244990,
         "latitude": 14.23612,
         "longitude": -12.23961
     },
     {
-        "cityId": "10778873",
+        "cityId": 10778873,
         "name": "Koumpentoum",
-        "stateId": "2244990",
+        "stateId": 2244990,
         "latitude": 14.13124,
         "longitude": -14.33534
     },
     {
-        "cityId": "10778874",
+        "cityId": 10778874,
         "name": "Goudiry",
-        "stateId": "2244990",
+        "stateId": 2244990,
         "latitude": 13.97766,
         "longitude": -12.91197
     }

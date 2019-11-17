@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3887756",
+        "cityId": 3887756,
         "name": "Provincia de Huasco",
-        "stateId": "3899191",
+        "stateId": 3899191,
         "latitude": -28.68428,
         "longitude": -70.51474
     },
     {
-        "cityId": "3893653",
+        "cityId": 3893653,
         "name": "Provincia de Copiap\u00f3",
-        "stateId": "3899191",
+        "stateId": 3899191,
         "latitude": -27.56347,
         "longitude": -70.00063
     },
     {
-        "cityId": "3895547",
+        "cityId": 3895547,
         "name": "Provincia de Cha\u00f1aral",
-        "stateId": "3899191",
+        "stateId": 3899191,
         "latitude": -26.32515,
         "longitude": -69.48751
     }

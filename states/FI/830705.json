@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "9610681",
+        "cityId": 9610681,
         "name": "H\u00e4meenlinna",
-        "stateId": "830705",
+        "stateId": 830705,
         "latitude": 61.03434,
         "longitude": 24.57026
     },
     {
-        "cityId": "9610682",
+        "cityId": 9610682,
         "name": "Riihim\u00e4ki",
-        "stateId": "830705",
+        "stateId": 830705,
         "latitude": 60.72611,
         "longitude": 24.60037
     },
     {
-        "cityId": "9610683",
+        "cityId": 9610683,
         "name": "Forssa",
-        "stateId": "830705",
+        "stateId": 830705,
         "latitude": 60.82916,
         "longitude": 23.61286
     }

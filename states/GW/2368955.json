@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7909706",
+        "cityId": 7909706,
         "name": "Bedanda",
-        "stateId": "2368955",
+        "stateId": 2368955,
         "latitude": 11.35,
         "longitude": -15.11667
     },
     {
-        "cityId": "7909713",
+        "cityId": 7909713,
         "name": "Quebo",
-        "stateId": "2368955",
+        "stateId": 2368955,
         "latitude": 11.545,
         "longitude": -14.8
     },
     {
-        "cityId": "7911001",
+        "cityId": 7911001,
         "name": "Cacine",
-        "stateId": "2368955",
+        "stateId": 2368955,
         "latitude": 11.11667,
         "longitude": -15.01667
     }

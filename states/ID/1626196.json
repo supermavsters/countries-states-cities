@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1633069",
+        "cityId": 1633069,
         "name": "Kota Palembang",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3,
         "longitude": 104.71667
     },
     {
-        "cityId": "1633658",
+        "cityId": 1633658,
         "name": "Kabupaten Ogan Komering Ulu",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -4.13333,
         "longitude": 104.03333
     },
     {
-        "cityId": "1633659",
+        "cityId": 1633659,
         "name": "Kabupaten Ogan Komering Ilir",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.36667,
         "longitude": 105.36667
     },
     {
-        "cityId": "1634643",
+        "cityId": 1634643,
         "name": "Kabupaten Musi Rawas",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.08333,
         "longitude": 103.2
     },
     {
-        "cityId": "1634644",
+        "cityId": 1634644,
         "name": "Kabupaten Musi Banyuasin",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -2.41667,
         "longitude": 103.75
     },
     {
-        "cityId": "7932494",
+        "cityId": 7932494,
         "name": "Kota Pagar Alam",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -4.13055,
         "longitude": 103.26822
     },
     {
-        "cityId": "7932496",
+        "cityId": 7932496,
         "name": "Kota Prabumulih",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.46202,
         "longitude": 104.2229
     },
     {
-        "cityId": "8521769",
+        "cityId": 8521769,
         "name": "Kabupaten Muara Enim",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -4.2327,
         "longitude": 103.6141
     },
     {
-        "cityId": "9163311",
+        "cityId": 9163311,
         "name": "Kabupaten Ogan Ilir",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.43186,
         "longitude": 104.62727
     },
     {
-        "cityId": "9165775",
+        "cityId": 9165775,
         "name": "Kabupaten Banyu Asin",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -2.88333,
         "longitude": 104.38306
     },
     {
-        "cityId": "9165989",
+        "cityId": 9165989,
         "name": "Kabupaten Ogan Komering Ulu Selatan",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -4.65728,
         "longitude": 104.00659
     },
     {
-        "cityId": "9166049",
+        "cityId": 9166049,
         "name": "Lahat Regency",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.7864,
         "longitude": 103.5428
     },
     {
-        "cityId": "9166051",
+        "cityId": 9166051,
         "name": "Kabupaten Ogan Komering Ulu Timur",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.85679,
         "longitude": 104.75209
     },
     {
-        "cityId": "9821958",
+        "cityId": 9821958,
         "name": "Kabupaten Empat Lawang",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": 3.22667,
         "longitude": 99.09256
     },
     {
-        "cityId": "9827972",
+        "cityId": 9827972,
         "name": "Kabupaten Musi Rawas Utara",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -2.48533,
         "longitude": 103.29346
     },
     {
-        "cityId": "9828027",
+        "cityId": 9828027,
         "name": "Kabupaten Penukal Abab Lematang Ilir",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.21342,
         "longitude": 104.08722
     },
     {
-        "cityId": "9828042",
+        "cityId": 9828042,
         "name": "Kota Lubuklinggau",
-        "stateId": "1626196",
+        "stateId": 1626196,
         "latitude": -3.29308,
         "longitude": 102.85503
     }

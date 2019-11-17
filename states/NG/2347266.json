@@ -1,176 +1,176 @@
 [
     {
-        "cityId": "7729904",
+        "cityId": 7729904,
         "name": "Guma",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.96667,
         "longitude": 8.76667
     },
     {
-        "cityId": "7729905",
+        "cityId": 7729905,
         "name": "Gwer East",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.3,
         "longitude": 8.48333
     },
     {
-        "cityId": "7729906",
+        "cityId": 7729906,
         "name": "Logo",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.68922,
         "longitude": 9.25049
     },
     {
-        "cityId": "7729907",
+        "cityId": 7729907,
         "name": "Ogbadibo",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.08921,
         "longitude": 7.64989
     },
     {
-        "cityId": "7729908",
+        "cityId": 7729908,
         "name": "Vandeikya",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 6.82814,
         "longitude": 9.05904
     },
     {
-        "cityId": "7729994",
+        "cityId": 7729994,
         "name": "Bukuru",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.46667,
         "longitude": 9.2
     },
     {
-        "cityId": "7729995",
+        "cityId": 7729995,
         "name": "Gboko",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.31616,
         "longitude": 8.90167
     },
     {
-        "cityId": "7730000",
+        "cityId": 7730000,
         "name": "Kwande",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 6.80099,
         "longitude": 9.47021
     },
     {
-        "cityId": "7730398",
+        "cityId": 7730398,
         "name": "Agatu",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.9061,
         "longitude": 7.85487
     },
     {
-        "cityId": "7730399",
+        "cityId": 7730399,
         "name": "Gwer West",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.63211,
         "longitude": 8.21656
     },
     {
-        "cityId": "7730400",
+        "cityId": 7730400,
         "name": "Konshisha",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.02993,
         "longitude": 8.66037
     },
     {
-        "cityId": "7730401",
+        "cityId": 7730401,
         "name": "Ushongo",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.04411,
         "longitude": 9.08871
     },
     {
-        "cityId": "7932059",
+        "cityId": 7932059,
         "name": "Markurdi",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.7042,
         "longitude": 8.53588
     },
     {
-        "cityId": "7932060",
+        "cityId": 7932060,
         "name": "Oturkpo",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.30736,
         "longitude": 8.07494
     },
     {
-        "cityId": "7932061",
+        "cityId": 7932061,
         "name": "Ohimini",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.20744,
         "longitude": 7.94989
     },
     {
-        "cityId": "7932062",
+        "cityId": 7932062,
         "name": "Okpokwu",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.01094,
         "longitude": 7.85102
     },
     {
-        "cityId": "7932511",
+        "cityId": 7932511,
         "name": "Katsina-Ala",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.2896,
         "longitude": 9.5533
     },
     {
-        "cityId": "8659758",
+        "cityId": 8659758,
         "name": "Apa",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.62962,
         "longitude": 7.87107
     },
     {
-        "cityId": "8659759",
+        "cityId": 8659759,
         "name": "Tarka",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.62081,
         "longitude": 8.88194
     },
     {
-        "cityId": "8659760",
+        "cityId": 8659760,
         "name": "Ado",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 6.79934,
         "longitude": 8.00541
     },
     {
-        "cityId": "8659761",
+        "cityId": 8659761,
         "name": "Obi",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.02177,
         "longitude": 8.29392
     },
     {
-        "cityId": "8659762",
+        "cityId": 8659762,
         "name": "Oju",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 6.8588,
         "longitude": 8.38201
     },
     {
-        "cityId": "8659763",
+        "cityId": 8659763,
         "name": "Ukum",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.64393,
         "longitude": 9.56356
     },
     {
-        "cityId": "9485482",
+        "cityId": 9485482,
         "name": "Makurdi Local Government Area",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.73753,
         "longitude": 8.52296
     },
     {
-        "cityId": "9485483",
+        "cityId": 9485483,
         "name": "Buruku Local Government Area",
-        "stateId": "2347266",
+        "stateId": 2347266,
         "latitude": 7.36534,
         "longitude": 9.26074
     }

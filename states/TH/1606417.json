@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1605021",
+        "cityId": 1605021,
         "name": "Amphoe Wihan Daeng",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.33435,
         "longitude": 100.96458
     },
     {
-        "cityId": "1606488",
+        "cityId": 1606488,
         "name": "Amphoe Sao Hai",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.57549,
         "longitude": 100.8439
     },
     {
-        "cityId": "1607511",
+        "cityId": 1607511,
         "name": "Amphoe Phra Phutthabat",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.71912,
         "longitude": 100.80622
     },
     {
-        "cityId": "1608172",
+        "cityId": 1608172,
         "name": "Amphoe Nong Saeng",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.48283,
         "longitude": 100.80463
     },
     {
-        "cityId": "1608238",
+        "cityId": 1608238,
         "name": "Amphoe Nong Khae",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.38125,
         "longitude": 100.86451
     },
     {
-        "cityId": "1608620",
+        "cityId": 1608620,
         "name": "Amphoe Mueang Sara Buri",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.49721,
         "longitude": 100.93829
     },
     {
-        "cityId": "1610502",
+        "cityId": 1610502,
         "name": "Amphoe Kaeng Khoi",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.58166,
         "longitude": 101.05297
     },
     {
-        "cityId": "1616653",
+        "cityId": 1616653,
         "name": "Amphoe Ban Mo",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.60804,
         "longitude": 100.72404
     },
     {
-        "cityId": "7510685",
+        "cityId": 7510685,
         "name": "Amphoe Chaloem Phra Kiat",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.65671,
         "longitude": 100.90838
     },
     {
-        "cityId": "7510686",
+        "cityId": 7510686,
         "name": "Amphoe Nong Don",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.6888,
         "longitude": 100.68527
     },
     {
-        "cityId": "7510687",
+        "cityId": 7510687,
         "name": "Amphoe Don Phut",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.60758,
         "longitude": 100.61578
     },
     {
-        "cityId": "7510710",
+        "cityId": 7510710,
         "name": "Amphoe Muak Lek",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.77706,
         "longitude": 101.27151
     },
     {
-        "cityId": "7510711",
+        "cityId": 7510711,
         "name": "Amphoe Wang Muang",
-        "stateId": "1606417",
+        "stateId": 1606417,
         "latitude": 14.82287,
         "longitude": 101.13346
     }

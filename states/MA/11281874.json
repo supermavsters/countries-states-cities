@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "2528907",
+        "cityId": 2528907,
         "name": "Tetouan",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35.58333,
         "longitude": -5.5
     },
     {
-        "cityId": "2530333",
+        "cityId": 2530333,
         "name": "Tanger-Assilah",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35.59,
         "longitude": -5.9
     },
     {
-        "cityId": "2543546",
+        "cityId": 2543546,
         "name": "Larache",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35.16667,
         "longitude": -5.83333
     },
     {
-        "cityId": "2553533",
+        "cityId": 2553533,
         "name": "Chefchaouen Province",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35,
         "longitude": -5.08333
     },
     {
-        "cityId": "2558543",
+        "cityId": 2558543,
         "name": "Al-Hoceima",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35,
         "longitude": -4.25
     },
     {
-        "cityId": "6547293",
+        "cityId": 6547293,
         "name": "Fahs-Anjra",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35.74,
         "longitude": -5.68
     },
     {
-        "cityId": "11282023",
+        "cityId": 11282023,
         "name": "Ouezzane Province",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 34.79759,
         "longitude": -5.58603
     },
     {
-        "cityId": "11282166",
+        "cityId": 11282166,
         "name": "M'Diq-Fnideq",
-        "stateId": "11281874",
+        "stateId": 11281874,
         "latitude": 35.85743,
         "longitude": -5.35858
     }

@@ -1,330 +1,330 @@
 [
     {
-        "cityId": "3665912",
+        "cityId": 3665912,
         "name": "Villarrica",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.83099,
         "longitude": -74.65258
     },
     {
-        "cityId": "3665989",
+        "cityId": 3665989,
         "name": "Villahermosa",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.96503,
         "longitude": -75.1565
     },
     {
-        "cityId": "3666227",
+        "cityId": 3666227,
         "name": "Venadillo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.69177,
         "longitude": -74.93669
     },
     {
-        "cityId": "3666310",
+        "cityId": 3666310,
         "name": "Valle de San Juan",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.17198,
         "longitude": -75.19392
     },
     {
-        "cityId": "3667775",
+        "cityId": 3667775,
         "name": "Su\u00e1rez",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.04897,
         "longitude": -74.81821
     },
     {
-        "cityId": "3668721",
+        "cityId": 3668721,
         "name": "Santa Isabel",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.72626,
         "longitude": -75.22391
     },
     {
-        "cityId": "3669408",
+        "cityId": 3669408,
         "name": "San Luis",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.16667,
         "longitude": -75.08333
     },
     {
-        "cityId": "3670198",
+        "cityId": 3670198,
         "name": "San Antonio",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.91667,
         "longitude": -75.5
     },
     {
-        "cityId": "3670588",
+        "cityId": 3670588,
         "name": "Rovira",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.25,
         "longitude": -75.33333
     },
     {
-        "cityId": "3670630",
+        "cityId": 3670630,
         "name": "Roncesvalles",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.08333,
         "longitude": -75.58333
     },
     {
-        "cityId": "3670766",
+        "cityId": 3670766,
         "name": "Rioblanco",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.5,
         "longitude": -75.83333
     },
     {
-        "cityId": "3671209",
+        "cityId": 3671209,
         "name": "Purificaci\u00f3n",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.91667,
         "longitude": -74.91667
     },
     {
-        "cityId": "3671766",
+        "cityId": 3671766,
         "name": "Prado",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.75,
         "longitude": -74.83333
     },
     {
-        "cityId": "3672078",
+        "cityId": 3672078,
         "name": "Planadas",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.25,
         "longitude": -75.75
     },
     {
-        "cityId": "3672292",
+        "cityId": 3672292,
         "name": "Piedras",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.5,
         "longitude": -74.91667
     },
     {
-        "cityId": "3673514",
+        "cityId": 3673514,
         "name": "Ortega",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.91667,
         "longitude": -75.25
     },
     {
-        "cityId": "3674011",
+        "cityId": 3674011,
         "name": "Natagaima",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.58333,
         "longitude": -75.08333
     },
     {
-        "cityId": "3674886",
+        "cityId": 3674886,
         "name": "Melgar",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.17848,
         "longitude": -74.67207
     },
     {
-        "cityId": "3675253",
+        "cityId": 3675253,
         "name": "Mariquita",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.21584,
         "longitude": -74.95233
     },
     {
-        "cityId": "3676606",
+        "cityId": 3676606,
         "name": "L\u00edbano",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.8356,
         "longitude": -75.10834
     },
     {
-        "cityId": "3676628",
+        "cityId": 3676628,
         "name": "L\u00e9rida",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.91667,
         "longitude": -74.91667
     },
     {
-        "cityId": "3680642",
+        "cityId": 3680642,
         "name": "Icononzo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.16667,
         "longitude": -74.55
     },
     {
-        "cityId": "3680657",
+        "cityId": 3680657,
         "name": "Ibagu\u00e9",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.43537,
         "longitude": -75.2642
     },
     {
-        "cityId": "3680841",
+        "cityId": 3680841,
         "name": "Honda",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.17859,
         "longitude": -74.78277
     },
     {
-        "cityId": "3681564",
+        "cityId": 3681564,
         "name": "Guamo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.08333,
         "longitude": -74.91667
     },
     {
-        "cityId": "3682331",
+        "cityId": 3682331,
         "name": "Fresno",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.16667,
         "longitude": -75.08333
     },
     {
-        "cityId": "3682459",
+        "cityId": 3682459,
         "name": "Flandes",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.25,
         "longitude": -74.83333
     },
     {
-        "cityId": "3682511",
+        "cityId": 3682511,
         "name": "Falan",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.07946,
         "longitude": -74.95703
     },
     {
-        "cityId": "3682574",
+        "cityId": 3682574,
         "name": "Espinal",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.15089,
         "longitude": -74.91233
     },
     {
-        "cityId": "3685179",
+        "cityId": 3685179,
         "name": "Dolores",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.66667,
         "longitude": -74.75
     },
     {
-        "cityId": "3685419",
+        "cityId": 3685419,
         "name": "Cunday",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.08333,
         "longitude": -74.66667
     },
     {
-        "cityId": "3685709",
+        "cityId": 3685709,
         "name": "Coyaima",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.72781,
         "longitude": -75.17397
     },
     {
-        "cityId": "3686143",
+        "cityId": 3686143,
         "name": "Coello",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.33333,
         "longitude": -74.91667
     },
     {
-        "cityId": "3686794",
+        "cityId": 3686794,
         "name": "Chaparral",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.75,
         "longitude": -75.58333
     },
     {
-        "cityId": "3687214",
+        "cityId": 3687214,
         "name": "Casabianca",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.01725,
         "longitude": -75.18702
     },
     {
-        "cityId": "3687325",
+        "cityId": 3687325,
         "name": "Carmen de Apical\u00e1",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.10771,
         "longitude": -74.76777
     },
     {
-        "cityId": "3688022",
+        "cityId": 3688022,
         "name": "Cajamarca",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.41667,
         "longitude": -75.5
     },
     {
-        "cityId": "3689451",
+        "cityId": 3689451,
         "name": "Ataco",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.33333,
         "longitude": -75.66667
     },
     {
-        "cityId": "3689552",
+        "cityId": 3689552,
         "name": "Armero",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.98873,
         "longitude": -74.8813
     },
     {
-        "cityId": "3689803",
+        "cityId": 3689803,
         "name": "Anzo\u00e1tegui",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.66667,
         "longitude": -75.25
     },
     {
-        "cityId": "3689980",
+        "cityId": 3689980,
         "name": "Ambalema",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.83333,
         "longitude": -74.83333
     },
     {
-        "cityId": "3690031",
+        "cityId": 3690031,
         "name": "Alvarado",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.58333,
         "longitude": -75
     },
     {
-        "cityId": "3690125",
+        "cityId": 3690125,
         "name": "Alpujarra",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.39222,
         "longitude": -74.93271
     },
     {
-        "cityId": "9172263",
+        "cityId": 9172263,
         "name": "Murillo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 4.81714,
         "longitude": -75.27883
     },
     {
-        "cityId": "9172268",
+        "cityId": 9172268,
         "name": "Herveo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.06158,
         "longitude": -75.26953
     },
     {
-        "cityId": "9178686",
+        "cityId": 9178686,
         "name": "Salda\u00f1a",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 3.88874,
         "longitude": -75.0347
     },
     {
-        "cityId": "9609537",
+        "cityId": 9609537,
         "name": "Palocabildo",
-        "stateId": "3666951",
+        "stateId": 3666951,
         "latitude": 5.09423,
         "longitude": -75.01842
     }

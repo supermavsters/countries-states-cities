@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "162181",
+        "stateId": 162181,
         "name": "Ahal",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 38.25,
         "longitude": 59.75
     },
     {
-        "stateId": "162182",
+        "stateId": 162182,
         "name": "Ashgabat",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 37.95,
         "longitude": 58.38333
     },
     {
-        "stateId": "162152",
+        "stateId": 162152,
         "name": "Balkan",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 40,
         "longitude": 54.5
     },
     {
-        "stateId": "601465",
+        "stateId": 601465,
         "name": "Da\u015foguz Wela\u00fdaty",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 41,
         "longitude": 58.5
     },
     {
-        "stateId": "1219651",
+        "stateId": 1219651,
         "name": "Lebap",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 39,
         "longitude": 63
     },
     {
-        "stateId": "1218666",
+        "stateId": 1218666,
         "name": "Mary",
-        "countryId": "1218197",
+        "countryId": 1218197,
         "latitude": 37,
         "longitude": 62.5
     }

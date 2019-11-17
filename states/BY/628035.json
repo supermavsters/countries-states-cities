@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "618930",
+        "cityId": 618930,
         "name": "Zel\u2019vyenski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.16667,
         "longitude": 24.91667
     },
     {
-        "cityId": "619978",
+        "cityId": 619978,
         "name": "Voranawski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54.16667,
         "longitude": 25.16667
     },
     {
-        "cityId": "620067",
+        "cityId": 620067,
         "name": "Vawkavyski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.25,
         "longitude": 24.41667
     },
     {
-        "cityId": "621044",
+        "cityId": 621044,
         "name": "Svislatski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 52.91667,
         "longitude": 24.25
     },
     {
-        "cityId": "621711",
+        "cityId": 621711,
         "name": "Smarhonski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54.5,
         "longitude": 26.41667
     },
     {
-        "cityId": "621752",
+        "cityId": 621752,
         "name": "Slonimski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.08333,
         "longitude": 25.25
     },
     {
-        "cityId": "622114",
+        "cityId": 622114,
         "name": "Shchuchynski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.58333,
         "longitude": 24.66667
     },
     {
-        "cityId": "623940",
+        "cityId": 623940,
         "name": "Astravyetski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54.66667,
         "longitude": 26
     },
     {
-        "cityId": "624062",
+        "cityId": 624062,
         "name": "Ashmyanski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54.41667,
         "longitude": 25.91667
     },
     {
-        "cityId": "624498",
+        "cityId": 624498,
         "name": "Novogrudskiy Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.66667,
         "longitude": 25.75
     },
     {
-        "cityId": "624920",
+        "cityId": 624920,
         "name": "Mastowski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.41667,
         "longitude": 24.5
     },
     {
-        "cityId": "626079",
+        "cityId": 626079,
         "name": "Lidski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.66667,
         "longitude": 25.25
     },
     {
-        "cityId": "626938",
+        "cityId": 626938,
         "name": "Karelitski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.5,
         "longitude": 26.25
     },
     {
-        "cityId": "627794",
+        "cityId": 627794,
         "name": "Iwyewski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54,
         "longitude": 25.66667
     },
     {
-        "cityId": "628034",
+        "cityId": 628034,
         "name": "Hrodzyenski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.66667,
         "longitude": 24
     },
     {
-        "cityId": "628657",
+        "cityId": 628657,
         "name": "Dzyatlawski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.41667,
         "longitude": 25.25
     },
     {
-        "cityId": "630208",
+        "cityId": 630208,
         "name": "Byerastavitski Rayon",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.25,
         "longitude": 24
     },
     {
-        "cityId": "828847",
+        "cityId": 828847,
         "name": "Horad Hrodna",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.68333,
         "longitude": 23.83333
     },
     {
-        "cityId": "828902",
+        "cityId": 828902,
         "name": "Horad Vawkavysk",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.15194,
         "longitude": 24.45556
     },
     {
-        "cityId": "828903",
+        "cityId": 828903,
         "name": "Horad Lida",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.88333,
         "longitude": 25.29972
     },
     {
-        "cityId": "828904",
+        "cityId": 828904,
         "name": "Horad Navahrudak",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.6,
         "longitude": 25.83333
     },
     {
-        "cityId": "828905",
+        "cityId": 828905,
         "name": "Horad Slonim",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 53.08667,
         "longitude": 25.32194
     },
     {
-        "cityId": "828906",
+        "cityId": 828906,
         "name": "Horad Smarhon\u2019",
-        "stateId": "628035",
+        "stateId": 628035,
         "latitude": 54.48361,
         "longitude": 26.4
     }

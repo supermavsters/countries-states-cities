@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "11820788",
+        "cityId": 11820788,
         "name": "Lorenzo Geyres",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -32.15569,
         "longitude": -57.92295
     },
     {
-        "cityId": "11820789",
+        "cityId": 11820789,
         "name": "Tambores",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -31.98982,
         "longitude": -56.6076
     },
     {
-        "cityId": "11820801",
+        "cityId": 11820801,
         "name": "Guichon",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -32.30177,
         "longitude": -56.89259
     },
     {
-        "cityId": "11820802",
+        "cityId": 11820802,
         "name": "Quebracho",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -31.92635,
         "longitude": -57.93636
     },
     {
-        "cityId": "11820835",
+        "cityId": 11820835,
         "name": "Porvenir",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -32.43598,
         "longitude": -57.85035
     },
     {
-        "cityId": "11820836",
+        "cityId": 11820836,
         "name": "Piedras Coloradas",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -32.31086,
         "longitude": -57.53827
     },
     {
-        "cityId": "11820865",
+        "cityId": 11820865,
         "name": "Chapicuy",
-        "stateId": "3441242",
+        "stateId": 3441242,
         "latitude": -31.65212,
         "longitude": -57.86263
     }

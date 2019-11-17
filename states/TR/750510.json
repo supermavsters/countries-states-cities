@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7732652",
+        "cityId": 7732652,
         "name": "Gerede",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.71364,
         "longitude": 32.31263
     },
     {
-        "cityId": "8632492",
+        "cityId": 8632492,
         "name": "Mengen \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.94849,
         "longitude": 32.06535
     },
     {
-        "cityId": "8632493",
+        "cityId": 8632493,
         "name": "Yeni\u00e7a\u011fa \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.77767,
         "longitude": 32.0492
     },
     {
-        "cityId": "8632495",
+        "cityId": 8632495,
         "name": "D\u00f6rtdivan \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.7304,
         "longitude": 32.07079
     },
     {
-        "cityId": "8632496",
+        "cityId": 8632496,
         "name": "G\u00f6yn\u00fck \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.41056,
         "longitude": 30.79181
     },
     {
-        "cityId": "8632497",
+        "cityId": 8632497,
         "name": "K\u0131br\u0131sc\u0131k \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.41777,
         "longitude": 31.85584
     },
     {
-        "cityId": "8632498",
+        "cityId": 8632498,
         "name": "Seben \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.42162,
         "longitude": 31.58299
     },
     {
-        "cityId": "8632499",
+        "cityId": 8632499,
         "name": "Mudurnu \u0130l\u00e7esi",
-        "stateId": "750510",
+        "stateId": 750510,
         "latitude": 40.48344,
         "longitude": 31.21412
     }

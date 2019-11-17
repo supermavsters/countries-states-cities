@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "11820770",
+        "cityId": 11820770,
         "name": "Ciudad Del Plata",
-        "stateId": "3440645",
+        "stateId": 3440645,
         "latitude": -34.72811,
         "longitude": -56.44058
     },
     {
-        "cityId": "11820797",
+        "cityId": 11820797,
         "name": "Ecilda Paullier",
-        "stateId": "3440645",
+        "stateId": 3440645,
         "latitude": -34.3839,
         "longitude": -56.9921
     },
     {
-        "cityId": "11820813",
+        "cityId": 11820813,
         "name": "Rodriguez",
-        "stateId": "3440645",
+        "stateId": 3440645,
         "latitude": -34.20067,
         "longitude": -56.53003
     },
     {
-        "cityId": "11820826",
+        "cityId": 11820826,
         "name": "Libertad",
-        "stateId": "3440645",
+        "stateId": 3440645,
         "latitude": -34.64977,
         "longitude": -56.63898
     }

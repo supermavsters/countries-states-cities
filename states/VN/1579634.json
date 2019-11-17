@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1905598",
+        "cityId": 1905598,
         "name": "Th\u00e0nh Ph\u1ed1 Nha Trang",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.25458,
         "longitude": 109.16655
     },
     {
-        "cityId": "1905599",
+        "cityId": 1905599,
         "name": "Huy\u1ec7n Di\u00ean Kh\u00e1nh",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.27341,
         "longitude": 109.0389
     },
     {
-        "cityId": "1905600",
+        "cityId": 1905600,
         "name": "Th\u00e0nh Ph\u1ed1 Cam Ranh",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 11.90707,
         "longitude": 109.14861
     },
     {
-        "cityId": "1905601",
+        "cityId": 1905601,
         "name": "Huy\u1ec7n Kh\u00e1nh S\u01a1n",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.02858,
         "longitude": 108.90814
     },
     {
-        "cityId": "1905602",
+        "cityId": 1905602,
         "name": "Huy\u1ec7n Kh\u00e1nh V\u0129nh",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.30593,
         "longitude": 108.83073
     },
     {
-        "cityId": "1905603",
+        "cityId": 1905603,
         "name": "Th\u1ecb X\u00e3 Ninh H\u00f2a",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.53796,
         "longitude": 109.06057
     },
     {
-        "cityId": "1905604",
+        "cityId": 1905604,
         "name": "Huy\u1ec7n V\u1ea1n Ninh",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.72344,
         "longitude": 109.24586
     },
     {
-        "cityId": "1905605",
+        "cityId": 1905605,
         "name": "Huy\u1ec7n Tr\u01b0\u1eddng Sa",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 9,
         "longitude": 114
     },
     {
-        "cityId": "8742970",
+        "cityId": 8742970,
         "name": "Huy\u1ec7n Cam L\u00e2m",
-        "stateId": "1579634",
+        "stateId": 1579634,
         "latitude": 12.07709,
         "longitude": 109.09169
     }

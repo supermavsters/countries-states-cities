@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3652108",
+        "cityId": 3652108,
         "name": "Cant\u00f3n Salcedo",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -1.03333,
         "longitude": -78.6
     },
     {
-        "cityId": "3652683",
+        "cityId": 3652683,
         "name": "Cant\u00f3n Pujil\u00ed",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -0.95,
         "longitude": -78.68333
     },
     {
-        "cityId": "3653474",
+        "cityId": 3653474,
         "name": "Cant\u00f3n Pangua",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -1.08209,
         "longitude": -79.15924
     },
     {
-        "cityId": "3654869",
+        "cityId": 3654869,
         "name": "Cant\u00f3n Latacunga",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -0.93333,
         "longitude": -78.61667
     },
     {
-        "cityId": "8522615",
+        "cityId": 8522615,
         "name": "Cant\u00f3n Sigchos",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -0.49197,
         "longitude": -78.89137
     },
     {
-        "cityId": "10792507",
+        "cityId": 10792507,
         "name": "La Man\u00e1",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -0.7908,
         "longitude": -79.1342
     },
     {
-        "cityId": "10792508",
+        "cityId": 10792508,
         "name": "Saquisil\u00ed",
-        "stateId": "3658766",
+        "stateId": 3658766,
         "latitude": -0.82866,
         "longitude": -78.72559
     }

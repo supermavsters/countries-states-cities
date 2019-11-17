@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "9857626",
+        "cityId": 9857626,
         "name": "Samb\u00fa",
-        "stateId": "7303686",
+        "stateId": 7303686,
         "latitude": 7.82013,
         "longitude": -78.11005
     },
     {
-        "cityId": "9862218",
+        "cityId": 9862218,
         "name": "C\u00e9maco",
-        "stateId": "7303686",
+        "stateId": 7303686,
         "latitude": 8.08285,
         "longitude": -77.5421
     }

@@ -1,260 +1,260 @@
 [
     {
-        "cityId": "3665804",
+        "cityId": 3665804,
         "name": "Yaguar\u00e1",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.63528,
         "longitude": -75.53224
     },
     {
-        "cityId": "3665899",
+        "cityId": 3665899,
         "name": "Villavieja",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.33333,
         "longitude": -75.16667
     },
     {
-        "cityId": "3667083",
+        "cityId": 3667083,
         "name": "Timan\u00e1",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.91202,
         "longitude": -75.97341
     },
     {
-        "cityId": "3667245",
+        "cityId": 3667245,
         "name": "Tesalia",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.53525,
         "longitude": -75.71546
     },
     {
-        "cityId": "3667248",
+        "cityId": 3667248,
         "name": "Teruel",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.75239,
         "longitude": -75.56362
     },
     {
-        "cityId": "3667324",
+        "cityId": 3667324,
         "name": "Tello",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.03812,
         "longitude": -75.09632
     },
     {
-        "cityId": "3667388",
+        "cityId": 3667388,
         "name": "Tarqui",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.16667,
         "longitude": -75.91667
     },
     {
-        "cityId": "3667765",
+        "cityId": 3667765,
         "name": "Suaza",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.91667,
         "longitude": -75.83333
     },
     {
-        "cityId": "3668643",
+        "cityId": 3668643,
         "name": "Santa Mar\u00eda",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3,
         "longitude": -75.7
     },
     {
-        "cityId": "3669559",
+        "cityId": 3669559,
         "name": "Isnos",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.97627,
         "longitude": -76.28168
     },
     {
-        "cityId": "3670266",
+        "cityId": 3670266,
         "name": "San Agust\u00edn",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.91667,
         "longitude": -76.33333
     },
     {
-        "cityId": "3670384",
+        "cityId": 3670384,
         "name": "Saladoblanco",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.06422,
         "longitude": -76.20957
     },
     {
-        "cityId": "3670693",
+        "cityId": 3670693,
         "name": "Rivera",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.77347,
         "longitude": -75.20188
     },
     {
-        "cityId": "3672111",
+        "cityId": 3672111,
         "name": "Pitalito",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.82126,
         "longitude": -76.12261
     },
     {
-        "cityId": "3672124",
+        "cityId": 3672124,
         "name": "Pital",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.22987,
         "longitude": -75.83137
     },
     {
-        "cityId": "3673290",
+        "cityId": 3673290,
         "name": "Palermo",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.87919,
         "longitude": -75.44855
     },
     {
-        "cityId": "3673387",
+        "cityId": 3673387,
         "name": "Paicol",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.40048,
         "longitude": -75.77094
     },
     {
-        "cityId": "3673579",
+        "cityId": 3673579,
         "name": "Oporapa",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.08333,
         "longitude": -76.01667
     },
     {
-        "cityId": "3673900",
+        "cityId": 3673900,
         "name": "Neiva",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.01441,
         "longitude": -75.30939
     },
     {
-        "cityId": "3674013",
+        "cityId": 3674013,
         "name": "N\u00e1taga",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.57845,
         "longitude": -75.78679
     },
     {
-        "cityId": "3678098",
+        "cityId": 3678098,
         "name": "La Plata",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.32055,
         "longitude": -76.10446
     },
     {
-        "cityId": "3679855",
+        "cityId": 3679855,
         "name": "La Argentina",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.17673,
         "longitude": -76.20484
     },
     {
-        "cityId": "3680532",
+        "cityId": 3680532,
         "name": "Iquira",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.75,
         "longitude": -75.75
     },
     {
-        "cityId": "3680855",
+        "cityId": 3680855,
         "name": "Hobo",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.54126,
         "longitude": -75.4478
     },
     {
-        "cityId": "3681735",
+        "cityId": 3681735,
         "name": "Guadalupe",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.98799,
         "longitude": -75.69012
     },
     {
-        "cityId": "3682048",
+        "cityId": 3682048,
         "name": "Gigante",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.38002,
         "longitude": -75.53633
     },
     {
-        "cityId": "3682109",
+        "cityId": 3682109,
         "name": "Garz\u00f3n",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.25,
         "longitude": -75.58333
     },
     {
-        "cityId": "3684030",
+        "cityId": 3684030,
         "name": "El\u00edas",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.99006,
         "longitude": -75.9806
     },
     {
-        "cityId": "3686121",
+        "cityId": 3686121,
         "name": "Colombia",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.39929,
         "longitude": -74.72034
     },
     {
-        "cityId": "3687808",
+        "cityId": 3687808,
         "name": "Campoalegre",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.66667,
         "longitude": -75.33333
     },
     {
-        "cityId": "3689234",
+        "cityId": 3689234,
         "name": "Baraya",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.1533,
         "longitude": -75.05224
     },
     {
-        "cityId": "3690104",
+        "cityId": 3690104,
         "name": "Altamira",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.05498,
         "longitude": -75.80446
     },
     {
-        "cityId": "3690161",
+        "cityId": 3690161,
         "name": "Algeciras",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.58333,
         "longitude": -75.25
     },
     {
-        "cityId": "3690288",
+        "cityId": 3690288,
         "name": "Aipe",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 3.25,
         "longitude": -75.33333
     },
     {
-        "cityId": "3690521",
+        "cityId": 3690521,
         "name": "Agrado",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 2.33333,
         "longitude": -75.75
     },
     {
-        "cityId": "3690553",
+        "cityId": 3690553,
         "name": "Acevedo",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.75,
         "longitude": -75.91667
     },
     {
-        "cityId": "9172391",
+        "cityId": 9172391,
         "name": "Palestina",
-        "stateId": "3680692",
+        "stateId": 3680692,
         "latitude": 1.6859,
         "longitude": -76.16924
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3583100",
+        "cityId": 3583100,
         "name": "Distrito de Sonsonate",
-        "stateId": "3583101",
+        "stateId": 3583101,
         "latitude": 13.63333,
         "longitude": -89.8
     },
     {
-        "cityId": "3585400",
+        "cityId": 3585400,
         "name": "Distrito de Juay\u00faa",
-        "stateId": "3583101",
+        "stateId": 3583101,
         "latitude": 13.83333,
         "longitude": -89.75
     },
     {
-        "cityId": "3585472",
+        "cityId": 3585472,
         "name": "Distrito de Izalco",
-        "stateId": "3583101",
+        "stateId": 3583101,
         "latitude": 13.7,
         "longitude": -89.58333
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "10295377",
+        "cityId": 10295377,
         "name": "Bora-Bora",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.4948,
         "longitude": -151.74359
     },
     {
-        "cityId": "10295378",
+        "cityId": 10295378,
         "name": "Huahine",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.75208,
         "longitude": -151.02961
     },
     {
-        "cityId": "10295379",
+        "cityId": 10295379,
         "name": "Maupiti",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.44606,
         "longitude": -152.256
     },
     {
-        "cityId": "10295380",
+        "cityId": 10295380,
         "name": "Tahaa",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.63041,
         "longitude": -151.50164
     },
     {
-        "cityId": "10295384",
+        "cityId": 10295384,
         "name": "Uturoa",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.73145,
         "longitude": -151.44615
     },
     {
-        "cityId": "10297424",
+        "cityId": 10297424,
         "name": "Moorea-Maiao",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -17.49826,
         "longitude": -149.83532
     },
     {
-        "cityId": "10297427",
+        "cityId": 10297427,
         "name": "Taputapuatea",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.8465,
         "longitude": -151.3801
     },
     {
-        "cityId": "10297428",
+        "cityId": 10297428,
         "name": "Tumaraa",
-        "stateId": "4034364",
+        "stateId": 4034364,
         "latitude": -16.79112,
         "longitude": -151.4867
     }

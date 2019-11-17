@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "2664441",
+        "cityId": 2664441,
         "name": "V\u00e4ster\u00e5s",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.64914,
         "longitude": 16.56445
     },
     {
-        "cityId": "2670612",
+        "cityId": 2670612,
         "name": "Surahammars Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.77487,
         "longitude": 16.11885
     },
     {
-        "cityId": "2677592",
+        "cityId": 2677592,
         "name": "Skinnskattebergs Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.79715,
         "longitude": 15.71463
     },
     {
-        "cityId": "2680657",
+        "cityId": 2680657,
         "name": "Sala kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.97221,
         "longitude": 16.47374
     },
     {
-        "cityId": "2689450",
+        "cityId": 2689450,
         "name": "Norbergs Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 60.08997,
         "longitude": 15.95971
     },
     {
-        "cityId": "2698680",
+        "cityId": 2698680,
         "name": "Kungs\u00f6rs kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.40247,
         "longitude": 16.07748
     },
     {
-        "cityId": "2699780",
+        "cityId": 2699780,
         "name": "K\u00f6pings Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.56639,
         "longitude": 15.87218
     },
     {
-        "cityId": "2708428",
+        "cityId": 2708428,
         "name": "Hallstahammars Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.61703,
         "longitude": 16.22797
     },
     {
-        "cityId": "2715650",
+        "cityId": 2715650,
         "name": "Fagersta Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.94834,
         "longitude": 15.88332
     },
     {
-        "cityId": "2725469",
+        "cityId": 2725469,
         "name": "Arboga Kommun",
-        "stateId": "2664179",
+        "stateId": 2664179,
         "latitude": 59.39451,
         "longitude": 15.79261
     }

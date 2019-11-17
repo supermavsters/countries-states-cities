@@ -1,127 +1,127 @@
 [
     {
-        "stateId": "1665045",
+        "stateId": 1665045,
         "name": "Attapu",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 14.66667,
         "longitude": 107
     },
     {
-        "stateId": "1904617",
+        "stateId": 1904617,
         "name": "Bolikhamxai",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 18.5,
         "longitude": 104.33333
     },
     {
-        "stateId": "1657818",
+        "stateId": 1657818,
         "name": "Champasak",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 14.75,
         "longitude": 106
     },
     {
-        "stateId": "1657114",
+        "stateId": 1657114,
         "name": "Houaphan",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 20.5,
         "longitude": 104
     },
     {
-        "stateId": "1656538",
+        "stateId": 1656538,
         "name": "Khammouan",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 17.5,
         "longitude": 105.33333
     },
     {
-        "stateId": "1904616",
+        "stateId": 1904616,
         "name": "Khou\u00e8ng Bok\u00e8o",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 20.5,
         "longitude": 100.5
     },
     {
-        "stateId": "1654491",
+        "stateId": 1654491,
         "name": "Khou\u00e8ng Oud\u00f4mxai",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 20.16667,
         "longitude": 101.5
     },
     {
-        "stateId": "1653893",
+        "stateId": 1653893,
         "name": "Khou\u00e8ng Ph\u00f4ngsali",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 21.75,
         "longitude": 102.33333
     },
     {
-        "stateId": "1653315",
+        "stateId": 1653315,
         "name": "Khou\u00e8ng Savannakh\u00e9t",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 16.5,
         "longitude": 105.75
     },
     {
-        "stateId": "1904615",
+        "stateId": 1904615,
         "name": "Khou\u00e8ng X\u00e9kong",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 15.5,
         "longitude": 107
     },
     {
-        "stateId": "1655561",
+        "stateId": 1655561,
         "name": "Louangnamtha",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 20.91667,
         "longitude": 101.33333
     },
     {
-        "stateId": "1655558",
+        "stateId": 1655558,
         "name": "Luang Prabang Province",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 20.25,
         "longitude": 102.66667
     },
     {
-        "stateId": "1653333",
+        "stateId": 1653333,
         "name": "Salavan",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 15.75,
         "longitude": 106.25
     },
     {
-        "stateId": "1904618",
+        "stateId": 1904618,
         "name": "Vientiane Prefecture",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 18.08333,
         "longitude": 102.66667
     },
     {
-        "stateId": "1652238",
+        "stateId": 1652238,
         "name": "Vientiane Province",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 18.75,
         "longitude": 102.41667
     },
     {
-        "stateId": "1652210",
+        "stateId": 1652210,
         "name": "Xaignabouli",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 18.5,
         "longitude": 101.5
     },
     {
-        "stateId": "11395958",
+        "stateId": 11395958,
         "name": "Xaisomboun Province",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 18.90271,
         "longitude": 103.09467
     },
     {
-        "stateId": "1652077",
+        "stateId": 1652077,
         "name": "Xiangkhouang",
-        "countryId": "1655842",
+        "countryId": 1655842,
         "latitude": 19.46667,
         "longitude": 103.5
     }

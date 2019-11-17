@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2089577",
+        "cityId": 2089577,
         "name": "Nipa Kutubu",
-        "stateId": "2086331",
+        "stateId": 2086331,
         "latitude": -6.33333,
         "longitude": 143.33333
     },
     {
-        "cityId": "2090988",
+        "cityId": 2090988,
         "name": "Mendi",
-        "stateId": "2086331",
+        "stateId": 2086331,
         "latitude": -6.11667,
         "longitude": 143.66667
     },
     {
-        "cityId": "2095923",
+        "cityId": 2095923,
         "name": "Ialibu Pangia",
-        "stateId": "2086331",
+        "stateId": 2086331,
         "latitude": -6.16667,
         "longitude": 144
     },
     {
-        "cityId": "8657202",
+        "cityId": 8657202,
         "name": "Kagua Erave",
-        "stateId": "2086331",
+        "stateId": 2086331,
         "latitude": -6.66667,
         "longitude": 144
     },
     {
-        "cityId": "8657218",
+        "cityId": 8657218,
         "name": "Imbonggu",
-        "stateId": "2086331",
+        "stateId": 2086331,
         "latitude": -6.16667,
         "longitude": 144
     }

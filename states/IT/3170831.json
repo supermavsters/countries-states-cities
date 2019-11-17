@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3164564",
+        "cityId": 3164564,
         "name": "Provincia di Vercelli",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 45.33188,
         "longitude": 8.41415
     },
     {
-        "cityId": "3164567",
+        "cityId": 3164567,
         "name": "Provincia Verbano-Cusio-Ossola",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 45.93333,
         "longitude": 8.55
     },
     {
-        "cityId": "3165523",
+        "cityId": 3165523,
         "name": "Provincia di Torino",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 45.13333,
         "longitude": 7.36667
     },
     {
-        "cityId": "3172188",
+        "cityId": 3172188,
         "name": "Provincia di Novara",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 45.58533,
         "longitude": 8.57781
     },
     {
-        "cityId": "3177699",
+        "cityId": 3177699,
         "name": "Provincia di Cuneo",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 44.51667,
         "longitude": 7.56667
     },
     {
-        "cityId": "3182712",
+        "cityId": 3182712,
         "name": "Provincia di Asti",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 44.91667,
         "longitude": 8.16667
     },
     {
-        "cityId": "3183298",
+        "cityId": 3183298,
         "name": "Provincia di Alessandria",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 44.81667,
         "longitude": 8.7
     },
     {
-        "cityId": "6457397",
+        "cityId": 6457397,
         "name": "Provincia di Biella",
-        "stateId": "3170831",
+        "stateId": 3170831,
         "latitude": 45.58713,
         "longitude": 8.08594
     }

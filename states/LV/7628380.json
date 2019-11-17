@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "11352863",
+        "cityId": 11352863,
         "name": "Palsmanes pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.38254,
         "longitude": 26.16683
     },
     {
-        "cityId": "11352892",
+        "cityId": 11352892,
         "name": "Smiltene",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.42073,
         "longitude": 25.90397
     },
     {
-        "cityId": "11352901",
+        "cityId": 11352901,
         "name": "Smiltenes pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.45787,
         "longitude": 25.87614
     },
     {
-        "cityId": "11352916",
+        "cityId": 11352916,
         "name": "Vari\u0146u pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.31623,
         "longitude": 26.15574
     },
     {
-        "cityId": "11352918",
+        "cityId": 11352918,
         "name": "Bilskas pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.48592,
         "longitude": 26.05945
     },
     {
-        "cityId": "11352919",
+        "cityId": 11352919,
         "name": "Blomes pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.44691,
         "longitude": 25.74018
     },
     {
-        "cityId": "11352920",
+        "cityId": 11352920,
         "name": "Brantu pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.37648,
         "longitude": 25.79825
     },
     {
-        "cityId": "11352921",
+        "cityId": 11352921,
         "name": "Grundz\u0101les pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.47222,
         "longitude": 26.23241
     },
     {
-        "cityId": "11352922",
+        "cityId": 11352922,
         "name": "Launkalnes pagasts",
-        "stateId": "7628380",
+        "stateId": 7628380,
         "latitude": 57.34426,
         "longitude": 25.93173
     }

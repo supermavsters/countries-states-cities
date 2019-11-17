@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7670903",
+        "cityId": 7670903,
         "name": "Fianarantsoa I",
-        "stateId": "7670905",
+        "stateId": 7670905,
         "latitude": -21.4805,
         "longitude": 47.13385
     },
     {
-        "cityId": "7670909",
+        "cityId": 7670909,
         "name": "Fianarantsoa II",
-        "stateId": "7670905",
+        "stateId": 7670905,
         "latitude": -21.42368,
         "longitude": 46.99746
     },
     {
-        "cityId": "7670912",
+        "cityId": 7670912,
         "name": "Ambohimahasoa",
-        "stateId": "7670905",
+        "stateId": 7670905,
         "latitude": -21.06814,
         "longitude": 47.15172
     },
     {
-        "cityId": "11072812",
+        "cityId": 11072812,
         "name": "Ambalavao",
-        "stateId": "7670905",
+        "stateId": 7670905,
         "latitude": -21.92009,
         "longitude": 46.68022
     },
     {
-        "cityId": "11072813",
+        "cityId": 11072813,
         "name": "Ikalamavony",
-        "stateId": "7670905",
+        "stateId": 7670905,
         "latitude": -21.22674,
         "longitude": 46.20964
     }

@@ -1,190 +1,190 @@
 [
     {
-        "stateId": "3665474",
+        "stateId": 3665474,
         "name": "Acre",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -9,
         "longitude": -70
     },
     {
-        "stateId": "3408096",
+        "stateId": 3408096,
         "name": "Alagoas",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -9.58333,
         "longitude": -36.41667
     },
     {
-        "stateId": "3407762",
+        "stateId": 3407762,
         "name": "Amap\u00e1",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": 1,
         "longitude": -52
     },
     {
-        "stateId": "3665361",
+        "stateId": 3665361,
         "name": "Amazonas",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -3.75,
         "longitude": -64.5
     },
     {
-        "stateId": "3471168",
+        "stateId": 3471168,
         "name": "Bahia",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -12,
         "longitude": -42
     },
     {
-        "stateId": "3402362",
+        "stateId": 3402362,
         "name": "Cear\u00e1",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -5,
         "longitude": -39.5
     },
     {
-        "stateId": "3463930",
+        "stateId": 3463930,
         "name": "Esp\u00edrito Santo",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -20,
         "longitude": -40.75
     },
     {
-        "stateId": "3463504",
+        "stateId": 3463504,
         "name": "Federal District",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -15.75,
         "longitude": -47.75
     },
     {
-        "stateId": "3462372",
+        "stateId": 3462372,
         "name": "Goi\u00e1s",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -15.58071,
         "longitude": -49.63623
     },
     {
-        "stateId": "3395443",
+        "stateId": 3395443,
         "name": "Maranh\u00e3o",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -5,
         "longitude": -45
     },
     {
-        "stateId": "3457419",
+        "stateId": 3457419,
         "name": "Mato Grosso",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -13,
         "longitude": -56
     },
     {
-        "stateId": "3457415",
+        "stateId": 3457415,
         "name": "Mato Grosso do Sul",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -20.5,
         "longitude": -55
     },
     {
-        "stateId": "3457153",
+        "stateId": 3457153,
         "name": "Minas Gerais",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -18,
         "longitude": -44
     },
     {
-        "stateId": "3455077",
+        "stateId": 3455077,
         "name": "Paran\u00e1",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -24.5,
         "longitude": -51.33333
     },
     {
-        "stateId": "3393098",
+        "stateId": 3393098,
         "name": "Para\u00edba",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -7.25,
         "longitude": -36.5
     },
     {
-        "stateId": "3393129",
+        "stateId": 3393129,
         "name": "Par\u00e1",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -4,
         "longitude": -53
     },
     {
-        "stateId": "3392268",
+        "stateId": 3392268,
         "name": "Pernambuco",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -8.33333,
         "longitude": -37.75
     },
     {
-        "stateId": "3392213",
+        "stateId": 3392213,
         "name": "Piau\u00ed",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -7.25,
         "longitude": -42.33333
     },
     {
-        "stateId": "3390290",
+        "stateId": 3390290,
         "name": "Rio Grande do Norte",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -5.75,
         "longitude": -36.5
     },
     {
-        "stateId": "3451133",
+        "stateId": 3451133,
         "name": "Rio Grande do Sul",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -30,
         "longitude": -53.5
     },
     {
-        "stateId": "3451189",
+        "stateId": 3451189,
         "name": "Rio de Janeiro",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -22.25,
         "longitude": -42.5
     },
     {
-        "stateId": "3924825",
+        "stateId": 3924825,
         "name": "Rond\u00f4nia",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -11,
         "longitude": -63
     },
     {
-        "stateId": "3662560",
+        "stateId": 3662560,
         "name": "Roraima",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": 2.25,
         "longitude": -61.25
     },
     {
-        "stateId": "3450387",
+        "stateId": 3450387,
         "name": "Santa Catarina",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -27,
         "longitude": -50
     },
     {
-        "stateId": "3447799",
+        "stateId": 3447799,
         "name": "Sergipe",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -10.5,
         "longitude": -37.33333
     },
     {
-        "stateId": "3448433",
+        "stateId": 3448433,
         "name": "S\u00e3o Paulo",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -22,
         "longitude": -49
     },
     {
-        "stateId": "3474575",
+        "stateId": 3474575,
         "name": "Tocantins",
-        "countryId": "3469034",
+        "countryId": 3469034,
         "latitude": -10.5,
         "longitude": -48
     }

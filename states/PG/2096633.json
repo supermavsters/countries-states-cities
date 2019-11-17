@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2094002",
+        "cityId": 2094002,
         "name": "Kikori",
-        "stateId": "2096633",
+        "stateId": 2096633,
         "latitude": -7.25,
         "longitude": 144.33333
     },
     {
-        "cityId": "2094142",
+        "cityId": 2094142,
         "name": "Kerema",
-        "stateId": "2096633",
+        "stateId": 2096633,
         "latitude": -7.796,
         "longitude": 146.093
     }

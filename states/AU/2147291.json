@@ -1,204 +1,204 @@
 [
     {
-        "cityId": "7839351",
+        "cityId": 7839351,
         "name": "Brighton",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.72673,
         "longitude": 147.24233
     },
     {
-        "cityId": "7839352",
+        "cityId": 7839352,
         "name": "Burnie",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.1965,
         "longitude": 145.81136
     },
     {
-        "cityId": "7839353",
+        "cityId": 7839353,
         "name": "Central Coast",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.26999,
         "longitude": 146.05916
     },
     {
-        "cityId": "7839354",
+        "cityId": 7839354,
         "name": "Central Highlands",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.19653,
         "longitude": 146.63934
     },
     {
-        "cityId": "7839355",
+        "cityId": 7839355,
         "name": "Circular Head",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.01991,
         "longitude": 145.08366
     },
     {
-        "cityId": "7839356",
+        "cityId": 7839356,
         "name": "Clarence",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.87369,
         "longitude": 147.44725
     },
     {
-        "cityId": "7839357",
+        "cityId": 7839357,
         "name": "Derwent Valley",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.80383,
         "longitude": 146.5297
     },
     {
-        "cityId": "7839371",
+        "cityId": 7839371,
         "name": "Waratah\/Wynyard",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.30709,
         "longitude": 145.45831
     },
     {
-        "cityId": "7839372",
+        "cityId": 7839372,
         "name": "West Coast",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.45246,
         "longitude": 145.52264
     },
     {
-        "cityId": "7839373",
+        "cityId": 7839373,
         "name": "West Tamar",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.26441,
         "longitude": 146.89123
     },
     {
-        "cityId": "7839665",
+        "cityId": 7839665,
         "name": "Break O'Day",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.39069,
         "longitude": 147.97477
     },
     {
-        "cityId": "7839666",
+        "cityId": 7839666,
         "name": "Devonport",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.21296,
         "longitude": 146.32401
     },
     {
-        "cityId": "7839667",
+        "cityId": 7839667,
         "name": "Dorset",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.04789,
         "longitude": 147.73167
     },
     {
-        "cityId": "7839668",
+        "cityId": 7839668,
         "name": "Flinders",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -40.03799,
         "longitude": 148.13965
     },
     {
-        "cityId": "7839669",
+        "cityId": 7839669,
         "name": "George Town",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.11982,
         "longitude": 147.01731
     },
     {
-        "cityId": "7839670",
+        "cityId": 7839670,
         "name": "Glamorgan\/Spring Bay",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.27832,
         "longitude": 147.96675
     },
     {
-        "cityId": "7839671",
+        "cityId": 7839671,
         "name": "Glenorchy",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.83188,
         "longitude": 147.22954
     },
     {
-        "cityId": "7839672",
+        "cityId": 7839672,
         "name": "Hobart",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.89387,
         "longitude": 147.27886
     },
     {
-        "cityId": "7839673",
+        "cityId": 7839673,
         "name": "Huon Valley",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -43.29385,
         "longitude": 146.56555
     },
     {
-        "cityId": "7839674",
+        "cityId": 7839674,
         "name": "Kentish",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.46341,
         "longitude": 146.17726
     },
     {
-        "cityId": "7839675",
+        "cityId": 7839675,
         "name": "King Island",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -39.87215,
         "longitude": 143.99153
     },
     {
-        "cityId": "7839676",
+        "cityId": 7839676,
         "name": "Kingborough",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.97451,
         "longitude": 147.25113
     },
     {
-        "cityId": "7839677",
+        "cityId": 7839677,
         "name": "Latrobe",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.21551,
         "longitude": 146.40656
     },
     {
-        "cityId": "7839678",
+        "cityId": 7839678,
         "name": "Launceston",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.321,
         "longitude": 147.31236
     },
     {
-        "cityId": "7839679",
+        "cityId": 7839679,
         "name": "Meander Valley",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.64952,
         "longitude": 146.54572
     },
     {
-        "cityId": "7839680",
+        "cityId": 7839680,
         "name": "Northern Midlands",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -41.87988,
         "longitude": 147.45776
     },
     {
-        "cityId": "7839861",
+        "cityId": 7839861,
         "name": "Sorell",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.78908,
         "longitude": 147.69488
     },
     {
-        "cityId": "7839862",
+        "cityId": 7839862,
         "name": "Southern Midlands",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -42.41785,
         "longitude": 147.43414
     },
     {
-        "cityId": "7839863",
+        "cityId": 7839863,
         "name": "Tasman Peninsula",
-        "stateId": "2147291",
+        "stateId": 2147291,
         "latitude": -43.16245,
         "longitude": 147.94739
     }

@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268133",
+        "cityId": 7268133,
         "name": "Cuevas Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.36428,
         "longitude": -66.01993
     },
     {
-        "cityId": "7268156",
+        "cityId": 7268156,
         "name": "Dos Bocas Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.34685,
         "longitude": -65.98586
     },
     {
-        "cityId": "7268347",
+        "cityId": 7268347,
         "name": "Carra\u00edzo Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.33494,
         "longitude": -66.02367
     },
     {
-        "cityId": "7268538",
+        "cityId": 7268538,
         "name": "La Gloria Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.32574,
         "longitude": -66.00592
     },
     {
-        "cityId": "7268855",
+        "cityId": 7268855,
         "name": "Quebrada Grande Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.31367,
         "longitude": -65.96073
     },
     {
-        "cityId": "7268861",
+        "cityId": 7268861,
         "name": "Quebrada Negrito Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.31936,
         "longitude": -65.98845
     },
     {
-        "cityId": "7269013",
+        "cityId": 7269013,
         "name": "St. Just Barrio",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.36984,
         "longitude": -66.00245
     },
     {
-        "cityId": "7269052",
+        "cityId": 7269052,
         "name": "Trujillo Alto Barrio-Pueblo",
-        "stateId": "4568452",
+        "stateId": 4568452,
         "latitude": 18.35439,
         "longitude": -66.00712
     }

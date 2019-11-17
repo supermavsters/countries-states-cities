@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7268058",
+        "cityId": 7268058,
         "name": "Celada Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.27596,
         "longitude": -65.98377
     },
     {
-        "cityId": "7268448",
+        "cityId": 7268448,
         "name": "Gurabo Barrio-Pueblo",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.25527,
         "longitude": -65.97276
     },
     {
-        "cityId": "7268459",
+        "cityId": 7268459,
         "name": "Hato Nuevo Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.26863,
         "longitude": -65.94942
     },
     {
-        "cityId": "7268507",
+        "cityId": 7268507,
         "name": "Jaguar Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.23946,
         "longitude": -65.96875
     },
     {
-        "cityId": "7268510",
+        "cityId": 7268510,
         "name": "Jaguas Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.29116,
         "longitude": -66.01231
     },
     {
-        "cityId": "7268602",
+        "cityId": 7268602,
         "name": "Mamey Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.24443,
         "longitude": -65.95657
     },
     {
-        "cityId": "7268635",
+        "cityId": 7268635,
         "name": "Masa Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.29384,
         "longitude": -65.9626
     },
     {
-        "cityId": "7268700",
+        "cityId": 7268700,
         "name": "Navarro Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.22756,
         "longitude": -65.99874
     },
     {
-        "cityId": "7268858",
+        "cityId": 7268858,
         "name": "Quebrada Infierno Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.29896,
         "longitude": -65.99511
     },
     {
-        "cityId": "7268881",
+        "cityId": 7268881,
         "name": "Rinc\u00f3n Barrio",
-        "stateId": "4565126",
+        "stateId": 4565126,
         "latitude": 18.24959,
         "longitude": -65.99086
     }

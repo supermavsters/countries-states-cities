@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "2665061",
+        "cityId": 2665061,
         "name": "Vansbro Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.46117,
         "longitude": 14.27836
     },
     {
-        "cityId": "2676585",
+        "cityId": 2676585,
         "name": "Smedjebackens Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.09475,
         "longitude": 15.45204
     },
     {
-        "cityId": "2679832",
+        "cityId": 2679832,
         "name": "S\u00e4ters Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.36887,
         "longitude": 15.71383
     },
     {
-        "cityId": "2682993",
+        "cityId": 2682993,
         "name": "R\u00e4ttviks Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.88632,
         "longitude": 15.11787
     },
     {
-        "cityId": "2686378",
+        "cityId": 2686378,
         "name": "Orsa Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 61.3,
         "longitude": 14.75
     },
     {
-        "cityId": "2691395",
+        "cityId": 2691395,
         "name": "Mora Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 61.00656,
         "longitude": 14.53755
     },
     {
-        "cityId": "2692868",
+        "cityId": 2692868,
         "name": "Malung-S\u00e4lens kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.56667,
         "longitude": 13.66667
     },
     {
-        "cityId": "2693757",
+        "cityId": 2693757,
         "name": "Ludvika Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.17114,
         "longitude": 14.72635
     },
     {
-        "cityId": "2696649",
+        "cityId": 2696649,
         "name": "Leksands kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.73227,
         "longitude": 14.99805
     },
     {
-        "cityId": "2706981",
+        "cityId": 2706981,
         "name": "Hedemora Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.34659,
         "longitude": 16.0735
     },
     {
-        "cityId": "2713217",
+        "cityId": 2713217,
         "name": "Gagnefs Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.47391,
         "longitude": 14.94676
     },
     {
-        "cityId": "2715458",
+        "cityId": 2715458,
         "name": "Falu kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.60483,
         "longitude": 15.63492
     },
     {
-        "cityId": "2720382",
+        "cityId": 2720382,
         "name": "Borl\u00e4nge Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.45799,
         "longitude": 15.39873
     },
     {
-        "cityId": "2724230",
+        "cityId": 2724230,
         "name": "Avesta Kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 60.21251,
         "longitude": 16.36234
     },
     {
-        "cityId": "2726330",
+        "cityId": 2726330,
         "name": "\u00c4lvdalens kommun",
-        "stateId": "2699767",
+        "stateId": 2699767,
         "latitude": 61.61337,
         "longitude": 13.27257
     }

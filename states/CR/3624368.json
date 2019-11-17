@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3621183",
+        "cityId": 3621183,
         "name": "Turrialba",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.8,
         "longitude": -83.53333
     },
     {
-        "cityId": "3622543",
+        "cityId": 3622543,
         "name": "Para\u00edso",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.75,
         "longitude": -83.8
     },
     {
-        "cityId": "3622669",
+        "cityId": 3622669,
         "name": "Oreamuno",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 10,
         "longitude": -83.83333
     },
     {
-        "cityId": "3623105",
+        "cityId": 3623105,
         "name": "La Uni\u00f3n",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.91667,
         "longitude": -83.98333
     },
     {
-        "cityId": "3623341",
+        "cityId": 3623341,
         "name": "Jim\u00e9nez",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.75,
         "longitude": -83.68333
     },
     {
-        "cityId": "3623834",
+        "cityId": 3623834,
         "name": "El Guarco",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.75,
         "longitude": -83.91667
     },
     {
-        "cityId": "3624369",
+        "cityId": 3624369,
         "name": "Cartago",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.86667,
         "longitude": -83.91667
     },
     {
-        "cityId": "3624924",
+        "cityId": 3624924,
         "name": "Alvarado",
-        "stateId": "3624368",
+        "stateId": 3624368,
         "latitude": 9.93333,
         "longitude": -83.8
     }

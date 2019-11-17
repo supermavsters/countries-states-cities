@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352669",
+        "cityId": 11352669,
         "name": "Olaine",
-        "stateId": "7628320",
+        "stateId": 7628320,
         "latitude": 56.79041,
         "longitude": 23.92568
     },
     {
-        "cityId": "11352801",
+        "cityId": 11352801,
         "name": "Olaines pagasts",
-        "stateId": "7628320",
+        "stateId": 7628320,
         "latitude": 56.77673,
         "longitude": 23.9864
     }

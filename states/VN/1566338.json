@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1905068",
+        "cityId": 1905068,
         "name": "Th\u00e0nh Ph\u1ed1 Th\u00e1i B\u00ecnh",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.4467,
         "longitude": 106.33623
     },
     {
-        "cityId": "1905069",
+        "cityId": 1905069,
         "name": "Huy\u1ec7n V\u0169 Th\u01b0",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.43732,
         "longitude": 106.26529
     },
     {
-        "cityId": "1905070",
+        "cityId": 1905070,
         "name": "Huy\u1ec7n \u00d0\u00f4ng H\u01b0ng",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.54388,
         "longitude": 106.3409
     },
     {
-        "cityId": "1905071",
+        "cityId": 1905071,
         "name": "Huy\u1ec7n Ki\u1ebfn X\u01b0\u01a1ng",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.40081,
         "longitude": 106.42032
     },
     {
-        "cityId": "1905072",
+        "cityId": 1905072,
         "name": "Huy\u1ec7n Ti\u1ec1n H\u1ea3i",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.38465,
         "longitude": 106.52882
     },
     {
-        "cityId": "1905073",
+        "cityId": 1905073,
         "name": "Huy\u1ec7n Th\u00e1i Th\u1ee5y",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.53916,
         "longitude": 106.51688
     },
     {
-        "cityId": "1905074",
+        "cityId": 1905074,
         "name": "Huy\u1ec7n Qu\u1ef3nh Ph\u1ee5",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.65095,
         "longitude": 106.36359
     },
     {
-        "cityId": "1905075",
+        "cityId": 1905075,
         "name": "Huy\u1ec7n H\u01b0ng H\u00e0",
-        "stateId": "1566338",
+        "stateId": 1566338,
         "latitude": 20.59464,
         "longitude": 106.2123
     }

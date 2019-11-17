@@ -1,162 +1,162 @@
 [
     {
-        "cityId": "3626043",
+        "cityId": 3626043,
         "name": "Municipio Tovar",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.36667,
         "longitude": -71.7
     },
     {
-        "cityId": "3626662",
+        "cityId": 3626662,
         "name": "Municipio Sucre",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.58333,
         "longitude": -71.5
     },
     {
-        "cityId": "3629042",
+        "cityId": 3629042,
         "name": "Municipio Rivas D\u00e1vila",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.16667,
         "longitude": -71.75
     },
     {
-        "cityId": "3629269",
+        "cityId": 3629269,
         "name": "Municipio Rangel",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.75,
         "longitude": -70.83333
     },
     {
-        "cityId": "3632194",
+        "cityId": 3632194,
         "name": "Municipio Miranda",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 9,
         "longitude": -70.75
     },
     {
-        "cityId": "3634755",
+        "cityId": 3634755,
         "name": "Municipio Libertador",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.33333,
         "longitude": -71.11667
     },
     {
-        "cityId": "3639053",
+        "cityId": 3639053,
         "name": "Municipio Justo Brice\u00f1o",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 9,
         "longitude": -71
     },
     {
-        "cityId": "3647193",
+        "cityId": 3647193,
         "name": "Municipio Campo El\u00edas",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.45,
         "longitude": -71.28333
     },
     {
-        "cityId": "3648827",
+        "cityId": 3648827,
         "name": "Municipio Arzobispo Chac\u00f3n",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.03333,
         "longitude": -71.41667
     },
     {
-        "cityId": "3649249",
+        "cityId": 3649249,
         "name": "Municipio Andr\u00e9s Bello",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.83333,
         "longitude": -71.33333
     },
     {
-        "cityId": "3649500",
+        "cityId": 3649500,
         "name": "Municipio Alberto Adriani",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.60861,
         "longitude": -71.76556
     },
     {
-        "cityId": "8129161",
+        "cityId": 8129161,
         "name": "Municipio Padre Noguera",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 7.71412,
         "longitude": -71.46466
     },
     {
-        "cityId": "8129182",
+        "cityId": 8129182,
         "name": "Municipio Santos Marquina",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.6311,
         "longitude": -71.07843
     },
     {
-        "cityId": "8129215",
+        "cityId": 8129215,
         "name": "Municipio Zea",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.37628,
         "longitude": -71.78185
     },
     {
-        "cityId": "8129225",
+        "cityId": 8129225,
         "name": "Municipio Obispo Ramos de Lora",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.81924,
         "longitude": -71.46564
     },
     {
-        "cityId": "8129231",
+        "cityId": 8129231,
         "name": "Municipio Pueblo Llano",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.91485,
         "longitude": -70.65919
     },
     {
-        "cityId": "8129236",
+        "cityId": 8129236,
         "name": "Municipio Tulio Febres Cordero",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 9.14176,
         "longitude": -71.0912
     },
     {
-        "cityId": "8129243",
+        "cityId": 8129243,
         "name": "Municipio Guaraque",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.15347,
         "longitude": -71.73563
     },
     {
-        "cityId": "8129255",
+        "cityId": 8129255,
         "name": "Municipio Aricagua",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.22343,
         "longitude": -71.13705
     },
     {
-        "cityId": "8129259",
+        "cityId": 8129259,
         "name": "Municipio Julio C\u00e9sar Salas",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 9.25934,
         "longitude": -70.95248
     },
     {
-        "cityId": "8131438",
+        "cityId": 8131438,
         "name": "Municipio Antonio Pinto Salinas",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.39613,
         "longitude": -71.6427
     },
     {
-        "cityId": "8131439",
+        "cityId": 8131439,
         "name": "Municipio Caracciolo Parra Olmedo",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.96681,
         "longitude": -71.27295
     },
     {
-        "cityId": "8131440",
+        "cityId": 8131440,
         "name": "Municipio Cardenal Quintero",
-        "stateId": "3632306",
+        "stateId": 3632306,
         "latitude": 8.86158,
         "longitude": -70.69282
     }

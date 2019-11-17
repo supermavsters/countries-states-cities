@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "11352646",
+        "cityId": 11352646,
         "name": "K\u0101rsava",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.78688,
         "longitude": 27.68175
     },
     {
-        "cityId": "11352663",
+        "cityId": 11352663,
         "name": "Goli\u0161evas pagasts",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.76187,
         "longitude": 27.89136
     },
     {
-        "cityId": "11352664",
+        "cityId": 11352664,
         "name": "Malnavas pagasts",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.79818,
         "longitude": 27.76651
     },
     {
-        "cityId": "11352665",
+        "cityId": 11352665,
         "name": "M\u0113rdzenes pagasts",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.69662,
         "longitude": 27.75055
     },
     {
-        "cityId": "11352666",
+        "cityId": 11352666,
         "name": "Me\u017evidu pagasts",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.69995,
         "longitude": 27.56455
     },
     {
-        "cityId": "11352668",
+        "cityId": 11352668,
         "name": "Salnavas pagasts",
-        "stateId": "7628351",
+        "stateId": 7628351,
         "latitude": 56.81289,
         "longitude": 27.52939
     }

@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7669205",
+        "cityId": 7669205,
         "name": "Faleata West",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.85898,
         "longitude": -171.81997
     },
     {
-        "cityId": "7669206",
+        "cityId": 7669206,
         "name": "Sagaga le Falefa",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.87087,
         "longitude": -171.87347
     },
     {
-        "cityId": "7669207",
+        "cityId": 7669207,
         "name": "Sagaga Le Usoga",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.82683,
         "longitude": -171.8537
     },
     {
-        "cityId": "7669208",
+        "cityId": 7669208,
         "name": "Leauvaa",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.82864,
         "longitude": -171.86588
     },
     {
-        "cityId": "7669216",
+        "cityId": 7669216,
         "name": "Faleata East",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.87786,
         "longitude": -171.79807
     },
     {
-        "cityId": "7669218",
+        "cityId": 7669218,
         "name": "Vaimauga West",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.88739,
         "longitude": -171.76446
     },
     {
-        "cityId": "10629989",
+        "cityId": 10629989,
         "name": "Vaimauga East",
-        "stateId": "4034977",
+        "stateId": 4034977,
         "latitude": -13.85283,
         "longitude": -171.74026
     }

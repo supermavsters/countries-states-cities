@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "464067",
+        "cityId": 464067,
         "name": "Zav\u2019yalovskiy Rayon",
-        "stateId": "479613",
+        "stateId": 479613,
         "latitude": 56.83333,
         "longitude": 53.08333
     },
     {
-        "cityId": "498681",
+        "cityId": 498681,
         "name": "Sarapul\u2019skiy Rayon",
-        "stateId": "479613",
+        "stateId": 479613,
         "latitude": 56.5,
         "longitude": 53.75
     },
     {
-        "cityId": "547926",
+        "cityId": 547926,
         "name": "Kiyasovskiy Rayon",
-        "stateId": "479613",
+        "stateId": 479613,
         "latitude": 56.33333,
         "longitude": 53.16667
     },
     {
-        "cityId": "552829",
+        "cityId": 552829,
         "name": "Karakulinskiy Rayon",
-        "stateId": "479613",
+        "stateId": 479613,
         "latitude": 56.08333,
         "longitude": 53.66667
     },
     {
-        "cityId": "6677912",
+        "cityId": 6677912,
         "name": "Malopurginskiy Rayon",
-        "stateId": "479613",
+        "stateId": 479613,
         "latitude": 56.55766,
         "longitude": 53.03476
     }

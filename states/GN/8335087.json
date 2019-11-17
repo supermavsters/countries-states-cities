@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2415702",
+        "cityId": 2415702,
         "name": "Siguiri Prefecture",
-        "stateId": "8335087",
+        "stateId": 8335087,
         "latitude": 11.66667,
         "longitude": -9.5
     },
     {
-        "cityId": "2418435",
+        "cityId": 2418435,
         "name": "Kouroussa",
-        "stateId": "8335087",
+        "stateId": 8335087,
         "latitude": 10.66667,
         "longitude": -9.91667
     },
     {
-        "cityId": "2419618",
+        "cityId": 2419618,
         "name": "Kerouane Prefecture",
-        "stateId": "8335087",
+        "stateId": 8335087,
         "latitude": 9.16667,
         "longitude": -9.08333
     },
     {
-        "cityId": "2419991",
+        "cityId": 2419991,
         "name": "Kankan Prefecture",
-        "stateId": "8335087",
+        "stateId": 8335087,
         "latitude": 10.271,
         "longitude": -9.178
     },
     {
-        "cityId": "2595305",
+        "cityId": 2595305,
         "name": "Mandiana Prefecture",
-        "stateId": "8335087",
+        "stateId": 8335087,
         "latitude": 10.658,
         "longitude": -8.615
     }

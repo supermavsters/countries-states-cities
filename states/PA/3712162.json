@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3703066",
+        "cityId": 3703066,
         "name": "Distrito Penonom\u00e9",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.63,
         "longitude": -80.28333
     },
     {
-        "cityId": "3703743",
+        "cityId": 3703743,
         "name": "Distrito de Ol\u00e1",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.48053,
         "longitude": -80.65324
     },
     {
-        "cityId": "3703935",
+        "cityId": 3703935,
         "name": "Distrito de Nat\u00e1",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.34416,
         "longitude": -80.60934
     },
     {
-        "cityId": "3706929",
+        "cityId": 3706929,
         "name": "Distrito de La Pintada",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.71801,
         "longitude": -80.53946
     },
     {
-        "cityId": "3714708",
+        "cityId": 3714708,
         "name": "Distrito de Ant\u00f3n",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.45394,
         "longitude": -80.18361
     },
     {
-        "cityId": "3715037",
+        "cityId": 3715037,
         "name": "Distrito de Aguadulce",
-        "stateId": "3712162",
+        "stateId": 3712162,
         "latitude": 8.2127,
         "longitude": -80.61441
     }

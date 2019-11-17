@@ -1,120 +1,120 @@
 [
     {
-        "stateId": "1838519",
+        "stateId": 1838519,
         "name": "Busan",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.13333,
         "longitude": 129.05
     },
     {
-        "stateId": "1845106",
+        "stateId": 1845106,
         "name": "Chungcheongbuk-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 36.82153,
         "longitude": 127.65685
     },
     {
-        "stateId": "1845105",
+        "stateId": 1845105,
         "name": "Chungcheongnam-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 36.5,
         "longitude": 127
     },
     {
-        "stateId": "1835327",
+        "stateId": 1835327,
         "name": "Daegu",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.8,
         "longitude": 128.55
     },
     {
-        "stateId": "1835224",
+        "stateId": 1835224,
         "name": "Daejeon",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 36.33333,
         "longitude": 127.41667
     },
     {
-        "stateId": "1843125",
+        "stateId": 1843125,
         "name": "Gangwon-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 37.75,
         "longitude": 128.25
     },
     {
-        "stateId": "1841808",
+        "stateId": 1841808,
         "name": "Gwangju",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.16667,
         "longitude": 126.91667
     },
     {
-        "stateId": "1841610",
+        "stateId": 1841610,
         "name": "Gyeonggi-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 37.6,
         "longitude": 127.25
     },
     {
-        "stateId": "1841597",
+        "stateId": 1841597,
         "name": "Gyeongsangbuk-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 36.33333,
         "longitude": 128.75
     },
     {
-        "stateId": "1902028",
+        "stateId": 1902028,
         "name": "Gyeongsangnam-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.25,
         "longitude": 128.25
     },
     {
-        "stateId": "1843561",
+        "stateId": 1843561,
         "name": "Incheon",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 37.46178,
         "longitude": 126.70017
     },
     {
-        "stateId": "1846265",
+        "stateId": 1846265,
         "name": "Jeju-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 33.41667,
         "longitude": 126.5
     },
     {
-        "stateId": "1845789",
+        "stateId": 1845789,
         "name": "Jeollabuk-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.75,
         "longitude": 127.25
     },
     {
-        "stateId": "1845788",
+        "stateId": 1845788,
         "name": "Jeollanam-do",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 34.75,
         "longitude": 127
     },
     {
-        "stateId": "8394437",
+        "stateId": 8394437,
         "name": "Sejong-si",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 36.59296,
         "longitude": 127.29239
     },
     {
-        "stateId": "1835847",
+        "stateId": 1835847,
         "name": "Seoul",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 37.58333,
         "longitude": 127
     },
     {
-        "stateId": "1833742",
+        "stateId": 1833742,
         "name": "Ulsan",
-        "countryId": "1835841",
+        "countryId": 1835841,
         "latitude": 35.56667,
         "longitude": 129.26667
     }

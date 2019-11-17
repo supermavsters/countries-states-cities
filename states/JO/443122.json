@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "8621729",
+        "cityId": 8621729,
         "name": "Liw\u0101\u2019 al Quwayrah",
-        "stateId": "443122",
+        "stateId": 443122,
         "latitude": 29.59174,
         "longitude": 35.51562
     },
     {
-        "cityId": "8621738",
+        "cityId": 8621738,
         "name": "Liw\u0101\u2019 Qa\u015fabat al \u2018Aqabah",
-        "stateId": "443122",
+        "stateId": 443122,
         "latitude": 29.98236,
         "longitude": 35.22858
     }

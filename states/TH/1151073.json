@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1150217",
+        "cityId": 1150217,
         "name": "Amphoe Thap Sakae",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 11.54787,
         "longitude": 99.57159
     },
     {
-        "cityId": "1151062",
+        "cityId": 1151062,
         "name": "Amphoe Pran Buri",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 12.3904,
         "longitude": 99.6969
     },
     {
-        "cityId": "1151983",
+        "cityId": 1151983,
         "name": "Amphoe Mueang Prachuap Khiri Khan",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 11.87144,
         "longitude": 99.73563
     },
     {
-        "cityId": "1152561",
+        "cityId": 1152561,
         "name": "Amphoe Kui Buri",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 12.11311,
         "longitude": 99.75462
     },
     {
-        "cityId": "1153268",
+        "cityId": 1153268,
         "name": "Amphoe Hua Hin",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 12.53522,
         "longitude": 99.70366
     },
     {
-        "cityId": "1157661",
+        "cityId": 1157661,
         "name": "Amphoe Bang Saphan",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 11.29402,
         "longitude": 99.44406
     },
     {
-        "cityId": "7510651",
+        "cityId": 7510651,
         "name": "Amphoe Sam Roi Yot",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 12.25586,
         "longitude": 99.7401
     },
     {
-        "cityId": "8534572",
+        "cityId": 8534572,
         "name": "Amphoe Bang Saphan Noi",
-        "stateId": "1151073",
+        "stateId": 1151073,
         "latitude": 11.07057,
         "longitude": 99.34105
     }

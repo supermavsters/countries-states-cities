@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "264353",
+        "cityId": 264353,
         "name": "Nom\u00f3s Attik\u00eds",
-        "stateId": "6692632",
+        "stateId": 6692632,
         "latitude": 38.08333,
         "longitude": 23.5
     },
     {
-        "cityId": "406101",
+        "cityId": 406101,
         "name": "Nom\u00f3s Pirai\u00f3s",
-        "stateId": "6692632",
+        "stateId": 6692632,
         "latitude": 37.5,
         "longitude": 23.41667
     },
     {
-        "cityId": "445406",
+        "cityId": 445406,
         "name": "Nomarch\u00eda Anatolik\u00eds Attik\u00eds",
-        "stateId": "6692632",
+        "stateId": 6692632,
         "latitude": 38.03352,
         "longitude": 23.88856
     },
     {
-        "cityId": "445407",
+        "cityId": 445407,
         "name": "Nomarch\u00eda Dytik\u00eds Attik\u00eds",
-        "stateId": "6692632",
+        "stateId": 6692632,
         "latitude": 38.06485,
         "longitude": 23.39333
     },
     {
-        "cityId": "445408",
+        "cityId": 445408,
         "name": "Nomarch\u00eda Ath\u00ednas",
-        "stateId": "6692632",
+        "stateId": 6692632,
         "latitude": 37.96667,
         "longitude": 23.75
     }

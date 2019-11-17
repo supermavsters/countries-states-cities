@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "2033412",
+        "cityId": 2033412,
         "name": "Yichun Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 47.69262,
         "longitude": 129.19897
     },
     {
-        "cityId": "2034654",
+        "cityId": 2034654,
         "name": "Suihua Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 46.88047,
         "longitude": 126.80871
     },
     {
-        "cityId": "2034696",
+        "cityId": 2034696,
         "name": "Songhuajiang Diqu",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 45.74546,
         "longitude": 126.65681
     },
     {
-        "cityId": "2034785",
+        "cityId": 2034785,
         "name": "Shuangyashan Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 46.52272,
         "longitude": 132.64552
     },
     {
-        "cityId": "2035260",
+        "cityId": 2035260,
         "name": "Qitaihe Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 45.80738,
         "longitude": 131.0936
     },
     {
-        "cityId": "2035264",
+        "cityId": 2035264,
         "name": "Qiqihar Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 47.73945,
         "longitude": 124.65128
     },
     {
-        "cityId": "2035713",
+        "cityId": 2035713,
         "name": "Mudanjiang Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 44.63501,
         "longitude": 130.01338
     },
     {
-        "cityId": "2036380",
+        "cityId": 2036380,
         "name": "Jixi Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 45.65802,
         "longitude": 132.46149
     },
     {
-        "cityId": "2036580",
+        "cityId": 2036580,
         "name": "Jiamusi Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 47.02157,
         "longitude": 132.04414
     },
     {
-        "cityId": "2036971",
+        "cityId": 2036971,
         "name": "Heihe Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 49.11879,
         "longitude": 127.10865
     },
     {
-        "cityId": "2036985",
+        "cityId": 2036985,
         "name": "Hegang Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 47.47013,
         "longitude": 130.80589
     },
     {
-        "cityId": "2037012",
+        "cityId": 2037012,
         "name": "Harbin Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 45.43996,
         "longitude": 128.03041
     },
     {
-        "cityId": "2037847",
+        "cityId": 2037847,
         "name": "Daqing Shi",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 46.29175,
         "longitude": 124.54602
     },
     {
-        "cityId": "2037961",
+        "cityId": 2037961,
         "name": "Dahingganling Diqu",
-        "stateId": "2036965",
+        "stateId": 2036965,
         "latitude": 52.36534,
         "longitude": 124.96116
     }

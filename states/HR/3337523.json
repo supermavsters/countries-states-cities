@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "3190588",
+        "cityId": 3190588,
         "name": "Grad Po\u017eega",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.33333,
         "longitude": 17.66667
     },
     {
-        "cityId": "3193705",
+        "cityId": 3193705,
         "name": "Grad Pakrac",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.43333,
         "longitude": 17.2
     },
     {
-        "cityId": "11049472",
+        "cityId": 11049472,
         "name": "Brestovac",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.33057,
         "longitude": 17.59727
     },
     {
-        "cityId": "11049473",
+        "cityId": 11049473,
         "name": "\u010caglin",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.35114,
         "longitude": 17.98827
     },
     {
-        "cityId": "11049474",
+        "cityId": 11049474,
         "name": "Jak\u0161i\u0107",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.35765,
         "longitude": 17.76502
     },
     {
-        "cityId": "11049475",
+        "cityId": 11049475,
         "name": "Kaptol",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.43236,
         "longitude": 17.72614
     },
     {
-        "cityId": "11049476",
+        "cityId": 11049476,
         "name": "Kutjevo",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.42564,
         "longitude": 17.88407
     },
     {
-        "cityId": "11049477",
+        "cityId": 11049477,
         "name": "Lipik",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.41308,
         "longitude": 17.16043
     },
     {
-        "cityId": "11049478",
+        "cityId": 11049478,
         "name": "Pleternica",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.28596,
         "longitude": 17.80227
     },
     {
-        "cityId": "11049479",
+        "cityId": 11049479,
         "name": "Velika",
-        "stateId": "3337523",
+        "stateId": 3337523,
         "latitude": 45.45729,
         "longitude": 17.66091
     }

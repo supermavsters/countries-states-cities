@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "6618878",
+        "cityId": 6618878,
         "name": "Hangal",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.31416,
         "longitude": 104.38213
     },
     {
-        "cityId": "6618879",
+        "cityId": 6618879,
         "name": "Selenge",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.45808,
         "longitude": 103.97324
     },
     {
-        "cityId": "6618881",
+        "cityId": 6618881,
         "name": "Teshig",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.94106,
         "longitude": 102.66157
     },
     {
-        "cityId": "6618882",
+        "cityId": 6618882,
         "name": "Hutag-\u00d6nd\u00f6r",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.39131,
         "longitude": 102.69402
     },
     {
-        "cityId": "6618883",
+        "cityId": 6618883,
         "name": "Bugat",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.05857,
         "longitude": 103.66596
     },
     {
-        "cityId": "6618884",
+        "cityId": 6618884,
         "name": "Bayan-Agt",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.03528,
         "longitude": 102.09011
     },
     {
-        "cityId": "6618885",
+        "cityId": 6618885,
         "name": "Sayhan",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.65446,
         "longitude": 102.6226
     },
     {
-        "cityId": "6618886",
+        "cityId": 6618886,
         "name": "Orhon",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.62122,
         "longitude": 103.53361
     },
     {
-        "cityId": "6618887",
+        "cityId": 6618887,
         "name": "Hishig-\u00d6nd\u00f6r",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.29039,
         "longitude": 103.42924
     },
     {
-        "cityId": "6618888",
+        "cityId": 6618888,
         "name": "Mogod",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.27097,
         "longitude": 102.9812
     },
     {
-        "cityId": "6618889",
+        "cityId": 6618889,
         "name": "B\u00fcreghangay",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.24914,
         "longitude": 103.87985
     },
     {
-        "cityId": "6618890",
+        "cityId": 6618890,
         "name": "Dashinchilen",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.83713,
         "longitude": 104.0498
     },
     {
-        "cityId": "6618892",
+        "cityId": 6618892,
         "name": "Bayannuur",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.82704,
         "longitude": 104.43578
     },
     {
-        "cityId": "6618893",
+        "cityId": 6618893,
         "name": "Gurvanbulag",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.62167,
         "longitude": 103.5173
     },
     {
-        "cityId": "6618895",
+        "cityId": 6618895,
         "name": "Bulgan District",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.80392,
         "longitude": 103.53893
     },
     {
-        "cityId": "6987814",
+        "cityId": 6987814,
         "name": "Rashaant Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.41283,
         "longitude": 103.90632
     },
     {
-        "cityId": "6987815",
+        "cityId": 6987815,
         "name": "Gurvanbulag Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.7336,
         "longitude": 103.39144
     },
     {
-        "cityId": "6987819",
+        "cityId": 6987819,
         "name": "Hutag-\u00d6nd\u00f6r Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 49.36249,
         "longitude": 102.81495
     },
     {
-        "cityId": "6987973",
+        "cityId": 6987973,
         "name": "Dashinchilen Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.86379,
         "longitude": 104.08354
     },
     {
-        "cityId": "6987974",
+        "cityId": 6987974,
         "name": "Bayannuur Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 47.86702,
         "longitude": 104.50967
     },
     {
-        "cityId": "6987975",
+        "cityId": 6987975,
         "name": "B\u00fcreghangay Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.32769,
         "longitude": 104.10933
     },
     {
-        "cityId": "6987976",
+        "cityId": 6987976,
         "name": "Orhon Sum",
-        "stateId": "2032199",
+        "stateId": 2032199,
         "latitude": 48.63815,
         "longitude": 103.46994
     }

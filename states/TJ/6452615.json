@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "1220012",
+        "cityId": 1220012,
         "name": "Tursunzoda District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.58333,
         "longitude": 68.16667
     },
     {
-        "cityId": "1220854",
+        "cityId": 1220854,
         "name": "Vahdat District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.83333,
         "longitude": 69.33333
     },
     {
-        "cityId": "7669227",
+        "cityId": 7669227,
         "name": "Tojikobod District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 39.2,
         "longitude": 70.8
     },
     {
-        "cityId": "7669385",
+        "cityId": 7669385,
         "name": "Shahrinaw District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.7,
         "longitude": 68.42
     },
     {
-        "cityId": "7669387",
+        "cityId": 7669387,
         "name": "Rogunsky rayon",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.75,
         "longitude": 69.77
     },
     {
-        "cityId": "7669388",
+        "cityId": 7669388,
         "name": "Varzob District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.75,
         "longitude": 68.75
     },
     {
-        "cityId": "7670495",
+        "cityId": 7670495,
         "name": "Tavildara",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.84,
         "longitude": 71
     },
     {
-        "cityId": "8238328",
+        "cityId": 8238328,
         "name": "Nohiyai Rasht",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 39.23491,
         "longitude": 70.35998
     },
     {
-        "cityId": "8238355",
+        "cityId": 8238355,
         "name": "Nohiyai Hisor",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.5299,
         "longitude": 68.54164
     },
     {
-        "cityId": "8238358",
+        "cityId": 8238358,
         "name": "Nohiyai Jirghatol",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 39.291,
         "longitude": 71.57632
     },
     {
-        "cityId": "8238387",
+        "cityId": 8238387,
         "name": "Nohiyai R\u016bdak\u00ed",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.35096,
         "longitude": 68.58544
     },
     {
-        "cityId": "8714387",
+        "cityId": 8714387,
         "name": "Faizobod District",
-        "stateId": "6452615",
+        "stateId": 6452615,
         "latitude": 38.55,
         "longitude": 69.3167
     }

@@ -1,106 +1,106 @@
 [
     {
-        "cityId": "1652095",
+        "cityId": 1652095,
         "name": "Muang X\u00e9p\u00f4n",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.76113,
         "longitude": 106.33757
     },
     {
-        "cityId": "1653070",
+        "cityId": 1653070,
         "name": "Muang Songkhon",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.17116,
         "longitude": 105.30729
     },
     {
-        "cityId": "1653916",
+        "cityId": 1653916,
         "name": "Muang Phin",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.44316,
         "longitude": 106.03019
     },
     {
-        "cityId": "1654616",
+        "cityId": 1654616,
         "name": "Muang Nong",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.38458,
         "longitude": 106.50419
     },
     {
-        "cityId": "1657816",
+        "cityId": 1657816,
         "name": "Muang Champhon",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.49363,
         "longitude": 105.2202
     },
     {
-        "cityId": "1904777",
+        "cityId": 1904777,
         "name": "Muang Thapangthong",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.09132,
         "longitude": 105.81038
     },
     {
-        "cityId": "1904780",
+        "cityId": 1904780,
         "name": "Muang X\u00f4nbouli",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.40036,
         "longitude": 105.57388
     },
     {
-        "cityId": "1904783",
+        "cityId": 1904783,
         "name": "Muang Outhoumphon",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.66667,
         "longitude": 105.05
     },
     {
-        "cityId": "1904784",
+        "cityId": 1904784,
         "name": "Muang Alsaphangthong",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.72645,
         "longitude": 105.39326
     },
     {
-        "cityId": "1904785",
+        "cityId": 1904785,
         "name": "Muang Xaibouli",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.94432,
         "longitude": 104.92312
     },
     {
-        "cityId": "1904786",
+        "cityId": 1904786,
         "name": "Muang Atsaphan",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.9474,
         "longitude": 105.4029
     },
     {
-        "cityId": "1904787",
+        "cityId": 1904787,
         "name": "Muang Vilabouli",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.94067,
         "longitude": 105.93677
     },
     {
-        "cityId": "7648078",
+        "cityId": 7648078,
         "name": "Thaphalanxay",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.7,
         "longitude": 105.6
     },
     {
-        "cityId": "10375959",
+        "cityId": 10375959,
         "name": "Muang Xayphoothong",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.3737,
         "longitude": 105.02165
     },
     {
-        "cityId": "10375967",
+        "cityId": 10375967,
         "name": "Kaysone Phomvihane",
-        "stateId": "1653315",
+        "stateId": 1653315,
         "latitude": 16.54943,
         "longitude": 104.82339
     }

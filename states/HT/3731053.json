@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3717563",
+        "cityId": 3717563,
         "name": "Arrondissement de Marmelade",
-        "stateId": "3731053",
+        "stateId": 3731053,
         "latitude": 19.33333,
         "longitude": -72.36667
     },
     {
-        "cityId": "3717587",
+        "cityId": 3717587,
         "name": "Arrondissement de Saint-Marc",
-        "stateId": "3731053",
+        "stateId": 3731053,
         "latitude": 19,
         "longitude": -72.5
     },
     {
-        "cityId": "3724144",
+        "cityId": 3724144,
         "name": "Arrondissement de Gros Morne",
-        "stateId": "3731053",
+        "stateId": 3731053,
         "latitude": 19.65,
         "longitude": -72.85
     },
     {
-        "cityId": "3724695",
+        "cityId": 3724695,
         "name": "Gonayiv",
-        "stateId": "3731053",
+        "stateId": 3731053,
         "latitude": 19.5,
         "longitude": -72.66667
     },
     {
-        "cityId": "3726539",
+        "cityId": 3726539,
         "name": "Arrondissement de Dessalines",
-        "stateId": "3731053",
+        "stateId": 3731053,
         "latitude": 19.16667,
         "longitude": -72.41667
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2356386",
+        "cityId": 2356386,
         "name": "Province du Poni",
-        "stateId": "6930714",
+        "stateId": 6930714,
         "latitude": 10.25,
         "longitude": -3.41667
     },
     {
-        "cityId": "2362047",
+        "cityId": 2362047,
         "name": "Province de la Bougouriba",
-        "stateId": "6930714",
+        "stateId": 6930714,
         "latitude": 10.83333,
         "longitude": -3.41667
     },
     {
-        "cityId": "2597251",
+        "cityId": 2597251,
         "name": "Province du Ioba",
-        "stateId": "6930714",
+        "stateId": 6930714,
         "latitude": 11.08333,
         "longitude": -3.08333
     },
     {
-        "cityId": "2597266",
+        "cityId": 2597266,
         "name": "Province du Noumbi\u00e8l",
-        "stateId": "6930714",
+        "stateId": 6930714,
         "latitude": 9.83333,
         "longitude": -3
     }

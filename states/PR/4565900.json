@@ -1,85 +1,85 @@
 [
     {
-        "cityId": "7268112",
+        "cityId": 7268112,
         "name": "Costa Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 17.983,
         "longitude": -67.00026
     },
     {
-        "cityId": "7268317",
+        "cityId": 7268317,
         "name": "Candelaria Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.05156,
         "longitude": -67.07945
     },
     {
-        "cityId": "7268542",
+        "cityId": 7268542,
         "name": "Lajas Arriba Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.04204,
         "longitude": -67.01412
     },
     {
-        "cityId": "7268543",
+        "cityId": 7268543,
         "name": "Lajas Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.05392,
         "longitude": -67.05474
     },
     {
-        "cityId": "7268544",
+        "cityId": 7268544,
         "name": "Lajas Barrio-Pueblo",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.04925,
         "longitude": -67.05962
     },
     {
-        "cityId": "7268567",
+        "cityId": 7268567,
         "name": "Llanos Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 17.99052,
         "longitude": -67.09879
     },
     {
-        "cityId": "7268719",
+        "cityId": 7268719,
         "name": "Palmarejo Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 17.99379,
         "longitude": -67.07566
     },
     {
-        "cityId": "7268731",
+        "cityId": 7268731,
         "name": "Parguera Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 17.97631,
         "longitude": -67.04331
     },
     {
-        "cityId": "7268732",
+        "cityId": 7268732,
         "name": "Par\u00eds Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.0499,
         "longitude": -67.10117
     },
     {
-        "cityId": "7268766",
+        "cityId": 7268766,
         "name": "Plata Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.02418,
         "longitude": -66.98241
     },
     {
-        "cityId": "7268947",
+        "cityId": 7268947,
         "name": "Sabana Yeguas Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.02327,
         "longitude": -67.05016
     },
     {
-        "cityId": "7268993",
+        "cityId": 7268993,
         "name": "Santa Rosa Barrio",
-        "stateId": "4565900",
+        "stateId": 4565900,
         "latitude": 18.05157,
         "longitude": -67.0396
     }

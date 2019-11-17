@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352585",
+        "cityId": 11352585,
         "name": "Viesatu pagasts",
-        "stateId": "7628313",
+        "stateId": 7628313,
         "latitude": 56.81509,
         "longitude": 22.86498
     },
     {
-        "cityId": "11352630",
+        "cityId": 11352630,
         "name": "Jaunpils pagasts",
-        "stateId": "7628313",
+        "stateId": 7628313,
         "latitude": 56.74638,
         "longitude": 22.96538
     }

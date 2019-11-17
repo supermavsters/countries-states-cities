@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "3651686",
+        "cityId": 3651686,
         "name": "Cant\u00f3n San Lorenzo",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 1.28333,
         "longitude": -78.83333
     },
     {
-        "cityId": "3652499",
+        "cityId": 3652499,
         "name": "Cant\u00f3n Quinind\u00e9",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 0.27631,
         "longitude": -79.64197
     },
     {
-        "cityId": "3653966",
+        "cityId": 3653966,
         "name": "Cant\u00f3n Muisne",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 0.58089,
         "longitude": -79.95438
     },
     {
-        "cityId": "3657987",
+        "cityId": 3657987,
         "name": "Cant\u00f3n Esmeraldas",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 0.96667,
         "longitude": -79.65
     },
     {
-        "cityId": "3658191",
+        "cityId": 3658191,
         "name": "Cant\u00f3n Eloy Alfaro",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 1.25,
         "longitude": -79
     },
     {
-        "cityId": "10630521",
+        "cityId": 10630521,
         "name": "Rio Verde",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 1.06235,
         "longitude": -79.39939
     },
     {
-        "cityId": "10792450",
+        "cityId": 10792450,
         "name": "Atacames",
-        "stateId": "3657986",
+        "stateId": 3657986,
         "latitude": 0.79194,
         "longitude": -79.85665
     }

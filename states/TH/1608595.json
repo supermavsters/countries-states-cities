@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1608596",
+        "cityId": 1608596,
         "name": "Amphoe Mueang Mukdahan",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.5511,
         "longitude": 104.64605
     },
     {
-        "cityId": "1610092",
+        "cityId": 1610092,
         "name": "Amphoe Khamcha-i",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.61452,
         "longitude": 104.35929
     },
     {
-        "cityId": "1610875",
+        "cityId": 1610875,
         "name": "Amphoe Don Tan",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.28796,
         "longitude": 104.82231
     },
     {
-        "cityId": "7510835",
+        "cityId": 7510835,
         "name": "Amphoe Nong Sung",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.44759,
         "longitude": 104.33649
     },
     {
-        "cityId": "7510858",
+        "cityId": 7510858,
         "name": "Amphoe Nikhom Kham Soi",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.35375,
         "longitude": 104.55864
     },
     {
-        "cityId": "7510859",
+        "cityId": 7510859,
         "name": "Amphoe Dong Luang",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.79649,
         "longitude": 104.35562
     },
     {
-        "cityId": "7603497",
+        "cityId": 7603497,
         "name": "Amphoe Wan Yai",
-        "stateId": "1608595",
+        "stateId": 1608595,
         "latitude": 16.7203,
         "longitude": 104.72865
     }

@@ -1,113 +1,113 @@
 [
     {
-        "stateId": "2953481",
+        "stateId": 2953481,
         "name": "Baden-W\u00fcrttemberg Region",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 48.5,
         "longitude": 9
     },
     {
-        "stateId": "2951839",
+        "stateId": 2951839,
         "name": "Bavaria",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 49,
         "longitude": 11.5
     },
     {
-        "stateId": "2945356",
+        "stateId": 2945356,
         "name": "Brandenburg",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 52.45905,
         "longitude": 13.01582
     },
     {
-        "stateId": "2944387",
+        "stateId": 2944387,
         "name": "Bremen",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 53.08333,
         "longitude": 8.83333
     },
     {
-        "stateId": "2911297",
+        "stateId": 2911297,
         "name": "Free and Hanseatic City of Hamburg",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 53.58333,
         "longitude": 10
     },
     {
-        "stateId": "2905330",
+        "stateId": 2905330,
         "name": "Hessen",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 50.55,
         "longitude": 9
     },
     {
-        "stateId": "2950157",
+        "stateId": 2950157,
         "name": "Land Berlin",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 52.5,
         "longitude": 13.41667
     },
     {
-        "stateId": "2862926",
+        "stateId": 2862926,
         "name": "Lower Saxony",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 52.83333,
         "longitude": 9.16667
     },
     {
-        "stateId": "2872567",
+        "stateId": 2872567,
         "name": "Mecklenburg-Western Pomerania",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 53.83333,
         "longitude": 12.5
     },
     {
-        "stateId": "2861876",
+        "stateId": 2861876,
         "name": "Nordrhein-Westfalen",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 51.21895,
         "longitude": 6.76339
     },
     {
-        "stateId": "2847618",
+        "stateId": 2847618,
         "name": "Rheinland-Pfalz",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 49.66667,
         "longitude": 7.5
     },
     {
-        "stateId": "2842635",
+        "stateId": 2842635,
         "name": "Saarland",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 49.40472,
         "longitude": 6.96083
     },
     {
-        "stateId": "2842566",
+        "stateId": 2842566,
         "name": "Saxony",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 51,
         "longitude": 13.25
     },
     {
-        "stateId": "2842565",
+        "stateId": 2842565,
         "name": "Saxony-Anhalt",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 52,
         "longitude": 11.7333
     },
     {
-        "stateId": "2838632",
+        "stateId": 2838632,
         "name": "Schleswig-Holstein",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 54.2,
         "longitude": 9.75
     },
     {
-        "stateId": "2822542",
+        "stateId": 2822542,
         "name": "Thuringia",
-        "countryId": "2921044",
+        "countryId": 2921044,
         "latitude": 50.91667,
         "longitude": 11
     }

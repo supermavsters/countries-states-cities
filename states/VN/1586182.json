@@ -1,92 +1,92 @@
 [
     {
-        "cityId": "1905506",
+        "cityId": 1905506,
         "name": "Huy\u1ec7n H\u00f2a An",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.7082,
         "longitude": 106.22541
     },
     {
-        "cityId": "1905507",
+        "cityId": 1905507,
         "name": "Huy\u1ec7n Tr\u00e0 L\u0129nh",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.80961,
         "longitude": 106.32543
     },
     {
-        "cityId": "1905508",
+        "cityId": 1905508,
         "name": "Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.83333,
         "longitude": 106.56074
     },
     {
-        "cityId": "1905509",
+        "cityId": 1905509,
         "name": "Huy\u1ec7n H\u1ea1 Lang",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.70933,
         "longitude": 106.67657
     },
     {
-        "cityId": "1905511",
+        "cityId": 1905511,
         "name": "Huy\u1ec7n Th\u1ea1ch An",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.47654,
         "longitude": 106.34237
     },
     {
-        "cityId": "1905512",
+        "cityId": 1905512,
         "name": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.624,
         "longitude": 105.93248
     },
     {
-        "cityId": "1905513",
+        "cityId": 1905513,
         "name": "Huy\u1ec7n Th\u00f4ng N\u00f4ng",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.80735,
         "longitude": 105.95846
     },
     {
-        "cityId": "1905514",
+        "cityId": 1905514,
         "name": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.90763,
         "longitude": 106.12487
     },
     {
-        "cityId": "1905515",
+        "cityId": 1905515,
         "name": "Huy\u1ec7n B\u1ea3o Lac",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.90085,
         "longitude": 105.73332
     },
     {
-        "cityId": "1905857",
+        "cityId": 1905857,
         "name": "Th\u00e0nh Ph\u1ed1 Cao B\u1eb1ng",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.66344,
         "longitude": 106.25498
     },
     {
-        "cityId": "8542836",
+        "cityId": 8542836,
         "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.87041,
         "longitude": 105.4878
     },
     {
-        "cityId": "8739723",
+        "cityId": 8739723,
         "name": "Huyen Phuc Hoa",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.5384,
         "longitude": 106.51039
     },
     {
-        "cityId": "11497303",
+        "cityId": 11497303,
         "name": "Huy\u1ec7n Qu\u1ea3ng Uy\u00ean",
-        "stateId": "1586182",
+        "stateId": 1586182,
         "latitude": 22.70371,
         "longitude": 106.42842
     }

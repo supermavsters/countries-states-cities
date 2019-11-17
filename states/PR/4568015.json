@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7268584",
+        "cityId": 7268584,
         "name": "Machuchal Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.05647,
         "longitude": -66.94091
     },
     {
-        "cityId": "7268875",
+        "cityId": 7268875,
         "name": "Rayo Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.05422,
         "longitude": -66.96512
     },
     {
-        "cityId": "7268882",
+        "cityId": 7268882,
         "name": "Rinc\u00f3n Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.09265,
         "longitude": -66.94227
     },
     {
-        "cityId": "7268941",
+        "cityId": 7268941,
         "name": "Sabana Grande Barrio-Pueblo",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.07894,
         "longitude": -66.96053
     },
     {
-        "cityId": "7268996",
+        "cityId": 7268996,
         "name": "Santana Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.10992,
         "longitude": -66.96685
     },
     {
-        "cityId": "7269020",
+        "cityId": 7269020,
         "name": "Sus\u00faa Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.03627,
         "longitude": -66.91097
     },
     {
-        "cityId": "7269021",
+        "cityId": 7269021,
         "name": "Tabonuco Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.12811,
         "longitude": -66.93509
     },
     {
-        "cityId": "7269045",
+        "cityId": 7269045,
         "name": "Torre Barrio",
-        "stateId": "4568015",
+        "stateId": 4568015,
         "latitude": 18.06912,
         "longitude": -66.91953
     }

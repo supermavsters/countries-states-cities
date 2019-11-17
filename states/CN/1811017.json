@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "1785017",
+        "cityId": 1785017,
         "name": "Zhangzhou Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 24.3563,
         "longitude": 117.40836
     },
     {
-        "cityId": "1790638",
+        "cityId": 1790638,
         "name": "Xiamen Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 24.70209,
         "longitude": 118.11566
     },
     {
-        "cityId": "1796662",
+        "cityId": 1796662,
         "name": "Sanming Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 26.28538,
         "longitude": 117.33669
     },
     {
-        "cityId": "1797350",
+        "cityId": 1797350,
         "name": "Quanzhou Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 25.2507,
         "longitude": 118.21291
     },
     {
-        "cityId": "1798445",
+        "cityId": 1798445,
         "name": "Putian Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 25.45887,
         "longitude": 118.87673
     },
     {
-        "cityId": "1799392",
+        "cityId": 1799392,
         "name": "Ningde Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 27.02043,
         "longitude": 119.45468
     },
     {
-        "cityId": "1799838",
+        "cityId": 1799838,
         "name": "Nanping Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 27.30398,
         "longitude": 118.19806
     },
     {
-        "cityId": "1802274",
+        "cityId": 1802274,
         "name": "Longyan Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 25.29975,
         "longitude": 116.6517
     },
     {
-        "cityId": "1810815",
+        "cityId": 1810815,
         "name": "Fuzhou Shi",
-        "stateId": "1811017",
+        "stateId": 1811017,
         "latitude": 26.07925,
         "longitude": 119.11205
     }

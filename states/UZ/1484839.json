@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1512848",
+        "cityId": 1512848,
         "name": "Sirgali Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.25639,
         "longitude": 69.23583
     },
     {
-        "cityId": "1512949",
+        "cityId": 1512949,
         "name": "Sobir Rahimov Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.36194,
         "longitude": 69.22611
     },
     {
-        "cityId": "1513066",
+        "cityId": 1513066,
         "name": "Shaykhontohur Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.31389,
         "longitude": 69.23694
     },
     {
-        "cityId": "1513269",
+        "cityId": 1513269,
         "name": "Mirobod Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.28833,
         "longitude": 69.30278
     },
     {
-        "cityId": "1513328",
+        "cityId": 1513328,
         "name": "Mirzo Ulug\u2018bek Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.33333,
         "longitude": 69.35056
     },
     {
-        "cityId": "1513546",
+        "cityId": 1513546,
         "name": "Yunusobod Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.35194,
         "longitude": 69.29889
     },
     {
-        "cityId": "1513648",
+        "cityId": 1513648,
         "name": "Hamza Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.29556,
         "longitude": 69.34639
     },
     {
-        "cityId": "1514229",
+        "cityId": 1514229,
         "name": "Chilonzor Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.27972,
         "longitude": 69.21917
     },
     {
-        "cityId": "1514665",
+        "cityId": 1514665,
         "name": "Akmal Ikromow Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.31222,
         "longitude": 69.17889
     },
     {
-        "cityId": "1536760",
+        "cityId": 1536760,
         "name": "Bektemir Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.23778,
         "longitude": 69.34556
     },
     {
-        "cityId": "1536761",
+        "cityId": 1536761,
         "name": "Yakkasaroy Tumani",
-        "stateId": "1484839",
+        "stateId": 1484839,
         "latitude": 41.27861,
         "longitude": 69.24556
     }

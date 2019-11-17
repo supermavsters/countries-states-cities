@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "8010498",
+        "cityId": 8010498,
         "name": "Alandroal",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.62924,
         "longitude": -7.36599
     },
     {
-        "cityId": "8010499",
+        "cityId": 8010499,
         "name": "Arraiolos",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.76774,
         "longitude": -7.95831
     },
     {
-        "cityId": "8010500",
+        "cityId": 8010500,
         "name": "Borba",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.81412,
         "longitude": -7.46721
     },
     {
-        "cityId": "8010501",
+        "cityId": 8010501,
         "name": "Estremoz",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.84996,
         "longitude": -7.60117
     },
     {
-        "cityId": "8010502",
+        "cityId": 8010502,
         "name": "\u00c9vora",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.5665,
         "longitude": -7.8946
     },
     {
-        "cityId": "8010503",
+        "cityId": 8010503,
         "name": "Montemor-O-Novo",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.67103,
         "longitude": -8.29956
     },
     {
-        "cityId": "8010504",
+        "cityId": 8010504,
         "name": "Mora",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.92174,
         "longitude": -8.09972
     },
     {
-        "cityId": "8010505",
+        "cityId": 8010505,
         "name": "Mour\u00e3o",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.29778,
         "longitude": -7.2223
     },
     {
-        "cityId": "8010506",
+        "cityId": 8010506,
         "name": "Portel",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.29385,
         "longitude": -7.72762
     },
     {
-        "cityId": "8010507",
+        "cityId": 8010507,
         "name": "Redondo",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.5801,
         "longitude": -7.59659
     },
     {
-        "cityId": "8010508",
+        "cityId": 8010508,
         "name": "Reguengos de Monsaraz",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.398,
         "longitude": -7.467
     },
     {
-        "cityId": "8010509",
+        "cityId": 8010509,
         "name": "Vendas Novas",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.63975,
         "longitude": -8.54702
     },
     {
-        "cityId": "8010510",
+        "cityId": 8010510,
         "name": "Viana do Alentejo",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.33645,
         "longitude": -8.00011
     },
     {
-        "cityId": "8010511",
+        "cityId": 8010511,
         "name": "Vila Vi\u00e7osa",
-        "stateId": "2268404",
+        "stateId": 2268404,
         "latitude": 38.7879,
         "longitude": -7.41852
     }

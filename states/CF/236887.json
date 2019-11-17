@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "7731893",
+        "cityId": 7731893,
         "name": "Kouango",
-        "stateId": "236887",
+        "stateId": 236887,
         "latitude": 5.11987,
         "longitude": 20.42808
     },
     {
-        "cityId": "7732062",
+        "cityId": 7732062,
         "name": "Bambari",
-        "stateId": "236887",
+        "stateId": 236887,
         "latitude": 5.73633,
         "longitude": 21.04956
     },
     {
-        "cityId": "7732067",
+        "cityId": 7732067,
         "name": "Ippy",
-        "stateId": "236887",
+        "stateId": 236887,
         "latitude": 6.64468,
         "longitude": 21.27696
     },
     {
-        "cityId": "7732377",
+        "cityId": 7732377,
         "name": "Grimari",
-        "stateId": "236887",
+        "stateId": 236887,
         "latitude": 5.73549,
         "longitude": 19.91209
     },
     {
-        "cityId": "9143471",
+        "cityId": 9143471,
         "name": "Bakala",
-        "stateId": "236887",
+        "stateId": 236887,
         "latitude": 6.56535,
         "longitude": 20.39173
     }

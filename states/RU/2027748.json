@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "2012589",
+        "cityId": 2012589,
         "name": "Zeyskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 54.5,
         "longitude": 128.5
     },
     {
-        "cityId": "2012624",
+        "cityId": 2012624,
         "name": "Zavitinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.16667,
         "longitude": 129.5
     },
     {
-        "cityId": "2014714",
+        "cityId": 2014714,
         "name": "Tyndinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 55.33333,
         "longitude": 123.5
     },
     {
-        "cityId": "2015607",
+        "cityId": 2015607,
         "name": "Tambovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.08333,
         "longitude": 128
     },
     {
-        "cityId": "2015840",
+        "cityId": 2015840,
         "name": "Svobodnenskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 51.5,
         "longitude": 127.83333
     },
     {
-        "cityId": "2016442",
+        "cityId": 2016442,
         "name": "Skovorodinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 53.83333,
         "longitude": 123.5
     },
     {
-        "cityId": "2016700",
+        "cityId": 2016700,
         "name": "Shimanovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 52.16667,
         "longitude": 127.5
     },
     {
-        "cityId": "2016941",
+        "cityId": 2016941,
         "name": "Seryshevskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 51.16667,
         "longitude": 128.5
     },
     {
-        "cityId": "2017066",
+        "cityId": 2017066,
         "name": "Selemdzhinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 52.5,
         "longitude": 132
     },
     {
-        "cityId": "2017411",
+        "cityId": 2017411,
         "name": "Romnenskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 51,
         "longitude": 130
     },
     {
-        "cityId": "2018608",
+        "cityId": 2018608,
         "name": "Oktyabr\u2019skiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.33333,
         "longitude": 129
     },
     {
-        "cityId": "2019985",
+        "cityId": 2019985,
         "name": "Mikhaylovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 49.75,
         "longitude": 128.75
     },
     {
-        "cityId": "2020117",
+        "cityId": 2020117,
         "name": "Mazanovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 52.16667,
         "longitude": 129.5
     },
     {
-        "cityId": "2020589",
+        "cityId": 2020589,
         "name": "Magdagachinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 53.33333,
         "longitude": 126
     },
     {
-        "cityId": "2021792",
+        "cityId": 2021792,
         "name": "Konstantinovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 49.75,
         "longitude": 128.16667
     },
     {
-        "cityId": "2023386",
+        "cityId": 2023386,
         "name": "Ivanovskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.45611,
         "longitude": 127.99778
     },
     {
-        "cityId": "2025915",
+        "cityId": 2025915,
         "name": "Bureyskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50,
         "longitude": 130
     },
     {
-        "cityId": "2026607",
+        "cityId": 2026607,
         "name": "Blagoveshchenskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.75,
         "longitude": 127.5
     },
     {
-        "cityId": "2026893",
+        "cityId": 2026893,
         "name": "Belogorskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.75,
         "longitude": 128.5
     },
     {
-        "cityId": "2027485",
+        "cityId": 2027485,
         "name": "Arkharinskiy Rayon",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 49.5,
         "longitude": 130.66667
     },
     {
-        "cityId": "2050916",
+        "cityId": 2050916,
         "name": "Gorod Blagoveshchensk",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 50.4,
         "longitude": 127.6
     },
     {
-        "cityId": "2050917",
+        "cityId": 2050917,
         "name": "Gorod Raychikhinsk",
-        "stateId": "2027748",
+        "stateId": 2027748,
         "latitude": 49.75,
         "longitude": 129.41667
     }

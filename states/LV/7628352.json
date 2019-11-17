@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "11352875",
+        "cityId": 11352875,
         "name": "Lazdukalna pagasts",
-        "stateId": "7628352",
+        "stateId": 7628352,
         "latitude": 56.92422,
         "longitude": 27.09918
     },
     {
-        "cityId": "11352876",
+        "cityId": 11352876,
         "name": "Rug\u0101ju pagasts",
-        "stateId": "7628352",
+        "stateId": 7628352,
         "latitude": 57.01835,
         "longitude": 27.09705
     }

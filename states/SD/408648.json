@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "375845",
+        "cityId": 375845,
         "name": "El Meilig Rural Council",
-        "stateId": "408648",
+        "stateId": 408648,
         "latitude": 15.25,
         "longitude": 32.83333
     },
     {
-        "cityId": "379328",
+        "cityId": 379328,
         "name": "Mud\u012br\u012byat al Jaz\u012brah",
-        "stateId": "408648",
+        "stateId": 408648,
         "latitude": 14.5,
         "longitude": 33
     },
     {
-        "cityId": "11237761",
+        "cityId": 11237761,
         "name": "Um Al Gura",
-        "stateId": "408648",
+        "stateId": 408648,
         "latitude": 14.17141,
         "longitude": 33.47533
     }

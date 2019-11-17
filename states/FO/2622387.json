@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2614403",
+        "cityId": 2614403,
         "name": "Runav\u00edk",
-        "stateId": "2622387",
+        "stateId": 2622387,
         "latitude": 62.10677,
         "longitude": -6.7202
     },
     {
-        "cityId": "2616501",
+        "cityId": 2616501,
         "name": "Nes",
-        "stateId": "2622387",
+        "stateId": 2622387,
         "latitude": 62.09553,
         "longitude": -6.72089
     },
     {
-        "cityId": "2622677",
+        "cityId": 2622677,
         "name": "Ei\u00f0i",
-        "stateId": "2622387",
+        "stateId": 2622387,
         "latitude": 62.30086,
         "longitude": -7.08541
     },
     {
-        "cityId": "7798679",
+        "cityId": 7798679,
         "name": "Eystur",
-        "stateId": "2622387",
+        "stateId": 2622387,
         "latitude": 62.20747,
         "longitude": -6.79367
     },
     {
-        "cityId": "7798686",
+        "cityId": 7798686,
         "name": "Sj\u00f3var",
-        "stateId": "2622387",
+        "stateId": 2622387,
         "latitude": 62.13471,
         "longitude": -6.79916
     }

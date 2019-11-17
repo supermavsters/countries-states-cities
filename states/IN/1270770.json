@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "1253469",
+        "cityId": 1253469,
         "name": "Vals\u0101d",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 20.5,
         "longitude": 73.08333
     },
     {
-        "cityId": "1253574",
+        "cityId": 1253574,
         "name": "Vadodara",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.18,
         "longitude": 73.12
     },
     {
-        "cityId": "1254616",
+        "cityId": 1254616,
         "name": "The D\u0101ngs",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 20.75,
         "longitude": 73.75
     },
     {
-        "cityId": "1255350",
+        "cityId": 1255350,
         "name": "Surendranagar",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.75,
         "longitude": 71.66667
     },
     {
-        "cityId": "1255365",
+        "cityId": 1255365,
         "name": "S\u016brat",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.17801,
         "longitude": 72.81189
     },
     {
-        "cityId": "1257922",
+        "cityId": 1257922,
         "name": "Sabar K\u0101ntha",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.5,
         "longitude": 73.25
     },
     {
-        "cityId": "1258849",
+        "cityId": 1258849,
         "name": "R\u0101jkot",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.33333,
         "longitude": 70.83333
     },
     {
-        "cityId": "1260571",
+        "cityId": 1260571,
         "name": "P\u0101nch Mah\u0101ls",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.75,
         "longitude": 73.6
     },
     {
-        "cityId": "1264390",
+        "cityId": 1264390,
         "name": "Mahes\u0101na",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.66667,
         "longitude": 72.5
     },
     {
-        "cityId": "1266810",
+        "cityId": 1266810,
         "name": "Kheda",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.75,
         "longitude": 72.83333
     },
     {
-        "cityId": "1268731",
+        "cityId": 1268731,
         "name": "Kachchh",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.58333,
         "longitude": 70
     },
     {
-        "cityId": "1268774",
+        "cityId": 1268774,
         "name": "J\u016bn\u0101gadh",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.25,
         "longitude": 70.33333
     },
     {
-        "cityId": "1269318",
+        "cityId": 1269318,
         "name": "J\u0101mnagar",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.25,
         "longitude": 70
     },
     {
-        "cityId": "1271716",
+        "cityId": 1271716,
         "name": "G\u0101ndh\u012bnagar",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.21484,
         "longitude": 72.64984
     },
     {
-        "cityId": "1276033",
+        "cityId": 1276033,
         "name": "Bh\u0101vnagar",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.66667,
         "longitude": 71.83333
     },
     {
-        "cityId": "1276101",
+        "cityId": 1276101,
         "name": "Bhar\u016bch",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.75,
         "longitude": 73
     },
     {
-        "cityId": "1277417",
+        "cityId": 1277417,
         "name": "Ban\u0101s K\u0101ntha",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 24.25,
         "longitude": 72.5
     },
     {
-        "cityId": "1278716",
+        "cityId": 1278716,
         "name": "Amreli",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 20.86667,
         "longitude": 70.75
     },
     {
-        "cityId": "1279234",
+        "cityId": 1279234,
         "name": "Ahmad\u0101b\u0101d",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.03,
         "longitude": 72.58
     },
     {
-        "cityId": "7627221",
+        "cityId": 7627221,
         "name": "Anand",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.4,
         "longitude": 72.75
     },
     {
-        "cityId": "7627226",
+        "cityId": 7627226,
         "name": "Dohad",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 22.9,
         "longitude": 74
     },
     {
-        "cityId": "7627238",
+        "cityId": 7627238,
         "name": "Patan",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 23.7,
         "longitude": 71.8
     },
     {
-        "cityId": "9072780",
+        "cityId": 9072780,
         "name": "Porbandar",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.65332,
         "longitude": 69.77807
     },
     {
-        "cityId": "9072813",
+        "cityId": 9072813,
         "name": "Tapi",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.12,
         "longitude": 73.4
     },
     {
-        "cityId": "9072825",
+        "cityId": 9072825,
         "name": "Navsari",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 20.95,
         "longitude": 72.92
     },
     {
-        "cityId": "9165869",
+        "cityId": 9165869,
         "name": "Narmada District",
-        "stateId": "1270770",
+        "stateId": 1270770,
         "latitude": 21.87377,
         "longitude": 73.49527
     }

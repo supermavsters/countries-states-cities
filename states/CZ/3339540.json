@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3063906",
+        "cityId": 3063906,
         "name": "Okres Trutnov",
-        "stateId": "3339540",
+        "stateId": 3339540,
         "latitude": 50.58333,
         "longitude": 15.83333
     },
     {
-        "cityId": "3066502",
+        "cityId": 3066502,
         "name": "Okres Rychnov nad Kn\u011b\u017enou",
-        "stateId": "3339540",
+        "stateId": 3339540,
         "latitude": 50.23333,
         "longitude": 16.28333
     },
     {
-        "cityId": "3070121",
+        "cityId": 3070121,
         "name": "Okres N\u00e1chod",
-        "stateId": "3339540",
+        "stateId": 3339540,
         "latitude": 50.41667,
         "longitude": 16.16667
     },
     {
-        "cityId": "3074205",
+        "cityId": 3074205,
         "name": "Okres Ji\u010d\u00edn",
-        "stateId": "3339540",
+        "stateId": 3339540,
         "latitude": 50.41667,
         "longitude": 15.41667
     },
     {
-        "cityId": "3074966",
+        "cityId": 3074966,
         "name": "Okres Hradec Kr\u00e1lov\u00e9",
-        "stateId": "3339540",
+        "stateId": 3339540,
         "latitude": 50.25,
         "longitude": 15.66667
     }

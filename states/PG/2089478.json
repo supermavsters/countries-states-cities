@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "2093690",
+        "cityId": 2093690,
         "name": "Sohe",
-        "stateId": "2089478",
+        "stateId": 2089478,
         "latitude": -9,
         "longitude": 147.91667
     },
     {
-        "cityId": "8657190",
+        "cityId": 8657190,
         "name": "Ijivitari",
-        "stateId": "2089478",
+        "stateId": 2089478,
         "latitude": -9.33333,
         "longitude": 148.58333
     }

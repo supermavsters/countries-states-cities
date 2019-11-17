@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "3497224",
+        "cityId": 3497224,
         "name": "Maim\u00f3n",
-        "stateId": "3496274",
+        "stateId": 3496274,
         "latitude": 18.88333,
         "longitude": -70.3
     },
     {
-        "cityId": "3511235",
+        "cityId": 3511235,
         "name": "Bonao",
-        "stateId": "3496274",
+        "stateId": 3496274,
         "latitude": 18.91667,
         "longitude": -70.46667
     },
     {
-        "cityId": "11154578",
+        "cityId": 11154578,
         "name": "Piedra Blanca",
-        "stateId": "3496274",
+        "stateId": 3496274,
         "latitude": 18.81217,
         "longitude": -70.34031
     }

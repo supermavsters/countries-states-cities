@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "2925180",
+        "cityId": 2925180,
         "name": "Freiburg Region",
-        "stateId": "2953481",
+        "stateId": 2953481,
         "latitude": 48.16667,
         "longitude": 8.33333
     },
     {
-        "cityId": "3214104",
+        "cityId": 3214104,
         "name": "Karlsruhe Region",
-        "stateId": "2953481",
+        "stateId": 2953481,
         "latitude": 49,
         "longitude": 8.66667
     },
     {
-        "cityId": "3214105",
+        "cityId": 3214105,
         "name": "Regierungsbezirk Stuttgart",
-        "stateId": "2953481",
+        "stateId": 2953481,
         "latitude": 49.08333,
         "longitude": 9.66667
     },
     {
-        "cityId": "3214106",
+        "cityId": 3214106,
         "name": "T\u00fcbingen Region",
-        "stateId": "2953481",
+        "stateId": 2953481,
         "latitude": 48.16667,
         "longitude": 9.5
     }

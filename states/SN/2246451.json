@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2246656",
+        "cityId": 2246656,
         "name": "Podor",
-        "stateId": "2246451",
+        "stateId": 2246451,
         "latitude": 16.2502,
         "longitude": -14.59767
     },
     {
-        "cityId": "2253376",
+        "cityId": 2253376,
         "name": "Dagana Department",
-        "stateId": "2246451",
+        "stateId": 2246451,
         "latitude": 16.334,
         "longitude": -15.839
     },
     {
-        "cityId": "7670870",
+        "cityId": 7670870,
         "name": "Matam Department",
-        "stateId": "2246451",
+        "stateId": 2246451,
         "latitude": 15.73191,
         "longitude": -13.63393
     },
     {
-        "cityId": "9166367",
+        "cityId": 9166367,
         "name": "Kanel Department",
-        "stateId": "2246451",
+        "stateId": 2246451,
         "latitude": 15.49167,
         "longitude": -13.17639
     },
     {
-        "cityId": "11429067",
+        "cityId": 11429067,
         "name": "Saint-Louis Department",
-        "stateId": "2246451",
+        "stateId": 2246451,
         "latitude": 16.028,
         "longitude": -16.40808
     }

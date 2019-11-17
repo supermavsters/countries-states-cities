@@ -1,36 +1,36 @@
 [
     {
-        "stateId": "6418540",
+        "stateId": 6418540,
         "name": "North Denmark Region",
-        "countryId": "2623032",
+        "countryId": 2623032,
         "latitude": 57,
         "longitude": 9.66667
     },
     {
-        "stateId": "6418538",
+        "stateId": 6418538,
         "name": "Region Hovedstaden",
-        "countryId": "2623032",
+        "countryId": 2623032,
         "latitude": 55.83333,
         "longitude": 12.33333
     },
     {
-        "stateId": "6418539",
+        "stateId": 6418539,
         "name": "Region Midtjylland",
-        "countryId": "2623032",
+        "countryId": 2623032,
         "latitude": 56.16667,
         "longitude": 9.5
     },
     {
-        "stateId": "6418541",
+        "stateId": 6418541,
         "name": "Region Sj\u00e6lland",
-        "countryId": "2623032",
+        "countryId": 2623032,
         "latitude": 55.41667,
         "longitude": 11.83333
     },
     {
-        "stateId": "6418542",
+        "stateId": 6418542,
         "name": "Region Syddanmark",
-        "countryId": "2623032",
+        "countryId": 2623032,
         "latitude": 55.37911,
         "longitude": 10.345
     }

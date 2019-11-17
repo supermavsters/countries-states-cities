@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "7731906",
+        "cityId": 7731906,
         "name": "Loukela",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -0.41545,
         "longitude": 17.10152
     },
     {
-        "cityId": "7731907",
+        "cityId": 7731907,
         "name": "Mossaka",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -0.72757,
         "longitude": 16.58471
     },
     {
-        "cityId": "7870297",
+        "cityId": 7870297,
         "name": "Boundji",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -0.781,
         "longitude": 15.298
     },
     {
-        "cityId": "7870298",
+        "cityId": 7870298,
         "name": "Loukolela",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -1.09749,
         "longitude": 16.96528
     },
     {
-        "cityId": "7870306",
+        "cityId": 7870306,
         "name": "Makoua",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -0.00449,
         "longitude": 15.61193
     },
     {
-        "cityId": "7870312",
+        "cityId": 7870312,
         "name": "Owando",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -0.665,
         "longitude": 15.974
     },
     {
-        "cityId": "8051157",
+        "cityId": 8051157,
         "name": "Okoyo",
-        "stateId": "2260487",
+        "stateId": 2260487,
         "latitude": -1.409,
         "longitude": 14.765
     }

@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1634727",
+        "cityId": 1634727,
         "name": "Kabupaten Muna",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.96667,
         "longitude": 122.66667
     },
     {
-        "cityId": "1639753",
+        "cityId": 1639753,
         "name": "Kabupaten Kolaka",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.08333,
         "longitude": 121.66667
     },
     {
-        "cityId": "1640342",
+        "cityId": 1640342,
         "name": "Kota Kendari",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -3.98333,
         "longitude": 122.5
     },
     {
-        "cityId": "1647498",
+        "cityId": 1647498,
         "name": "Kabupaten Buton",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.31667,
         "longitude": 122.91667
     },
     {
-        "cityId": "6974096",
+        "cityId": 6974096,
         "name": "Kota Baubau",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.477,
         "longitude": 122.6166
     },
     {
-        "cityId": "9165705",
+        "cityId": 9165705,
         "name": "Kabupaten Kolaka Utara",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -3.10452,
         "longitude": 121.12427
     },
     {
-        "cityId": "9165996",
+        "cityId": 9165996,
         "name": "Wakatobi Regency",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.31934,
         "longitude": 123.5948
     },
     {
-        "cityId": "9165997",
+        "cityId": 9165997,
         "name": "Kabupaten Konawe",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -3.91717,
         "longitude": 122.08823
     },
     {
-        "cityId": "9165998",
+        "cityId": 9165998,
         "name": "Kabupaten Konawe Selatan",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.19191,
         "longitude": 122.44854
     },
     {
-        "cityId": "9170724",
+        "cityId": 9170724,
         "name": "Kabupaten Bombana",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.6257,
         "longitude": 121.81641
     },
     {
-        "cityId": "9821954",
+        "cityId": 9821954,
         "name": "Kabupaten Buton Utara",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.01457,
         "longitude": 122.93015
     },
     {
-        "cityId": "9827965",
+        "cityId": 9827965,
         "name": "Kabupaten Konawe Kepulauan",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.11656,
         "longitude": 123.10181
     },
     {
-        "cityId": "9828035",
+        "cityId": 9828035,
         "name": "Kabupaten Konawe Utara",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -3.41552,
         "longitude": 121.99081
     },
     {
-        "cityId": "9846666",
+        "cityId": 9846666,
         "name": "Kabupaten Kolaka Timur",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.01807,
         "longitude": 121.86172
     },
     {
-        "cityId": "10924520",
+        "cityId": 10924520,
         "name": "Kabupaten Buton Selatan",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.56667,
         "longitude": 122.7
     },
     {
-        "cityId": "10924541",
+        "cityId": 10924541,
         "name": "Kabupaten Buton Tengah",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -5.31667,
         "longitude": 122.33333
     },
     {
-        "cityId": "10929337",
+        "cityId": 10929337,
         "name": "Kabupaten Muna Barat",
-        "stateId": "1626230",
+        "stateId": 1626230,
         "latitude": -4.83333,
         "longitude": 122.48333
     }

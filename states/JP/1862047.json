@@ -1,260 +1,260 @@
 [
     {
-        "cityId": "1847945",
+        "cityId": 1847945,
         "name": "Tatsuno-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.88804,
         "longitude": 134.5191
     },
     {
-        "cityId": "1848845",
+        "cityId": 1848845,
         "name": "Yabu-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.38333,
         "longitude": 134.81667
     },
     {
-        "cityId": "1849826",
+        "cityId": 1849826,
         "name": "Toyooka-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.51384,
         "longitude": 134.82724
     },
     {
-        "cityId": "1851005",
+        "cityId": 1851005,
         "name": "Takasago Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.77796,
         "longitude": 134.78665
     },
     {
-        "cityId": "1851011",
+        "cityId": 1851011,
         "name": "Takarazuka Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.86008,
         "longitude": 135.33197
     },
     {
-        "cityId": "1851159",
+        "cityId": 1851159,
         "name": "Taka-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.08473,
         "longitude": 134.90474
     },
     {
-        "cityId": "1852830",
+        "cityId": 1852830,
         "name": "Say\u014d-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.02147,
         "longitude": 134.37058
     },
     {
-        "cityId": "1855132",
+        "cityId": 1855132,
         "name": "Nishiwaki-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.01098,
         "longitude": 134.9965
     },
     {
-        "cityId": "1855204",
+        "cityId": 1855204,
         "name": "Nishinomiya Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.78194,
         "longitude": 135.30247
     },
     {
-        "cityId": "1859161",
+        "cityId": 1859161,
         "name": "K\u014dbe Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.74422,
         "longitude": 135.13354
     },
     {
-        "cityId": "1859671",
+        "cityId": 1859671,
         "name": "Kawanishi Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.87955,
         "longitude": 135.40919
     },
     {
-        "cityId": "1859755",
+        "cityId": 1859755,
         "name": "Kawanabe-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.94853,
         "longitude": 135.35101
     },
     {
-        "cityId": "1860701",
+        "cityId": 1860701,
         "name": "Kako-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.74433,
         "longitude": 134.91119
     },
     {
-        "cityId": "1860702",
+        "cityId": 1860702,
         "name": "Kakogawa Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.78472,
         "longitude": 134.84897
     },
     {
-        "cityId": "1861308",
+        "cityId": 1861308,
         "name": "Itami Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.78675,
         "longitude": 135.40562
     },
     {
-        "cityId": "1862022",
+        "cityId": 1862022,
         "name": "Ibo-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.83367,
         "longitude": 134.59134
     },
     {
-        "cityId": "1862625",
+        "cityId": 1862625,
         "name": "Himeji Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.90134,
         "longitude": 134.66316
     },
     {
-        "cityId": "1864981",
+        "cityId": 1864981,
         "name": "Ashiya Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.74853,
         "longitude": 135.29759
     },
     {
-        "cityId": "1865383",
+        "cityId": 1865383,
         "name": "Amagasaki Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.73544,
         "longitude": 135.41181
     },
     {
-        "cityId": "1865406",
+        "cityId": 1865406,
         "name": "Ak\u014d Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.78894,
         "longitude": 134.37244
     },
     {
-        "cityId": "1865409",
+        "cityId": 1865409,
         "name": "Ak\u014d-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.86667,
         "longitude": 134.36667
     },
     {
-        "cityId": "1865470",
+        "cityId": 1865470,
         "name": "Akashi Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.68277,
         "longitude": 134.94029
     },
     {
-        "cityId": "7370808",
+        "cityId": 7370808,
         "name": "Kanzaki-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.06574,
         "longitude": 134.76928
     },
     {
-        "cityId": "7370809",
+        "cityId": 7370809,
         "name": "Mikata-gun",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.53871,
         "longitude": 134.54667
     },
     {
-        "cityId": "7370810",
+        "cityId": 7370810,
         "name": "Sumoto Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.34533,
         "longitude": 134.85858
     },
     {
-        "cityId": "7370811",
+        "cityId": 7370811,
         "name": "Miki Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.83553,
         "longitude": 135.05822
     },
     {
-        "cityId": "7370812",
+        "cityId": 7370812,
         "name": "Ono Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.8575,
         "longitude": 134.95129
     },
     {
-        "cityId": "7370813",
+        "cityId": 7370813,
         "name": "Sanda Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.95506,
         "longitude": 135.2166
     },
     {
-        "cityId": "7370814",
+        "cityId": 7370814,
         "name": "Kasai Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.92476,
         "longitude": 134.85359
     },
     {
-        "cityId": "7370815",
+        "cityId": 7370815,
         "name": "Sasayama-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.07523,
         "longitude": 135.23087
     },
     {
-        "cityId": "7370816",
+        "cityId": 7370816,
         "name": "Tanba-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.17715,
         "longitude": 135.04972
     },
     {
-        "cityId": "7370817",
+        "cityId": 7370817,
         "name": "Minamiawaji Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.2753,
         "longitude": 134.76465
     },
     {
-        "cityId": "7370818",
+        "cityId": 7370818,
         "name": "Asago-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.26249,
         "longitude": 134.82527
     },
     {
-        "cityId": "7370819",
+        "cityId": 7370819,
         "name": "Awaji Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.49749,
         "longitude": 134.91331
     },
     {
-        "cityId": "7370820",
+        "cityId": 7370820,
         "name": "Shis\u014d-shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 35.15466,
         "longitude": 134.54337
     },
     {
-        "cityId": "7370821",
+        "cityId": 7370821,
         "name": "Kat\u014d Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.92714,
         "longitude": 135.02134
     },
     {
-        "cityId": "11668516",
+        "cityId": 11668516,
         "name": "Aioi Shi",
-        "stateId": "1862047",
+        "stateId": 1862047,
         "latitude": 34.82719,
         "longitude": 134.46699
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "7870426",
+        "cityId": 7870426,
         "name": "Lope Department",
-        "stateId": "2396926",
+        "stateId": 2396926,
         "latitude": -0.148,
         "longitude": 11.893
     },
     {
-        "cityId": "11072507",
+        "cityId": 11072507,
         "name": "Kelle",
-        "stateId": "2396926",
+        "stateId": 2396926,
         "latitude": -0.04961,
         "longitude": 13.86387
     },
     {
-        "cityId": "11204107",
+        "cityId": 11204107,
         "name": "Zadie",
-        "stateId": "2396926",
+        "stateId": 2396926,
         "latitude": 0.92582,
         "longitude": 13.90813
     }

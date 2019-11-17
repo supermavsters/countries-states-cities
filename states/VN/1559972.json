@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "1904921",
+        "cityId": 1904921,
         "name": "Th\u00e0nh Ph\u1ed1 S\u00f3c Tr\u0103ng",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.60654,
         "longitude": 105.98457
     },
     {
-        "cityId": "1904922",
+        "cityId": 1904922,
         "name": "Huy\u1ec7n Long Ph\u00fa",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.63715,
         "longitude": 106.08226
     },
     {
-        "cityId": "1904923",
+        "cityId": 1904923,
         "name": "Huy\u1ec7n K\u1ebf S\u00e1ch",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.81771,
         "longitude": 105.9419
     },
     {
-        "cityId": "1904924",
+        "cityId": 1904924,
         "name": "Huy\u1ec7n M\u1ef9 T\u00fa",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.60849,
         "longitude": 105.80681
     },
     {
-        "cityId": "1904925",
+        "cityId": 1904925,
         "name": "Huy\u1ec7n M\u1ef9 Xuy\u00ean",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.442,
         "longitude": 105.88546
     },
     {
-        "cityId": "1904926",
+        "cityId": 1904926,
         "name": "Huy\u1ec7n Th\u1ea1nh Tr\u1ecb",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.46939,
         "longitude": 105.71196
     },
     {
-        "cityId": "1904927",
+        "cityId": 1904927,
         "name": "Th\u1ecb X\u00e3 V\u0129nh Ch\u00e2u",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.36228,
         "longitude": 106.00304
     },
     {
-        "cityId": "8728273",
+        "cityId": 8728273,
         "name": "Huyen Nga Nam",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.56127,
         "longitude": 105.59476
     },
     {
-        "cityId": "9534762",
+        "cityId": 9534762,
         "name": "Huy\u1ec7n Tr\u1ea7n \u0110\u1ec1",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.49515,
         "longitude": 106.09386
     },
     {
-        "cityId": "9534763",
+        "cityId": 9534763,
         "name": "Huy\u1ec7n C\u00f9 Lao Dung",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.62429,
         "longitude": 106.18517
     },
     {
-        "cityId": "11497492",
+        "cityId": 11497492,
         "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
-        "stateId": "1559972",
+        "stateId": 1559972,
         "latitude": 9.70263,
         "longitude": 105.89773
     }

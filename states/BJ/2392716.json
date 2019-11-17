@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "7668924",
+        "cityId": 7668924,
         "name": "Lokossa",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.69802,
         "longitude": 1.74161
     },
     {
-        "cityId": "7668926",
+        "cityId": 7668926,
         "name": "Commune of Athieme",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.56924,
         "longitude": 1.70259
     },
     {
-        "cityId": "8335018",
+        "cityId": 8335018,
         "name": "Commune of Houeyogbe",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.544,
         "longitude": 1.852
     },
     {
-        "cityId": "8335019",
+        "cityId": 8335019,
         "name": "Commune of Bopa",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.657,
         "longitude": 1.945
     },
     {
-        "cityId": "9166075",
+        "cityId": 9166075,
         "name": "Grand-Popo",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.28333,
         "longitude": 1.83333
     },
     {
-        "cityId": "9166076",
+        "cityId": 9166076,
         "name": "Com\u00e9",
-        "stateId": "2392716",
+        "stateId": 2392716,
         "latitude": 6.4,
         "longitude": 1.88333
     }

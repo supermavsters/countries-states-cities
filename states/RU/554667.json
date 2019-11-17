@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "462156",
+        "cityId": 462156,
         "name": "Zol\u2019skiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.75,
         "longitude": 42.91667
     },
     {
-        "cityId": "478559",
+        "cityId": 478559,
         "name": "Urvanskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.41667,
         "longitude": 43.91667
     },
     {
-        "cityId": "483273",
+        "cityId": 483273,
         "name": "Terskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.58333,
         "longitude": 44.25
     },
     {
-        "cityId": "490029",
+        "cityId": 490029,
         "name": "Cherekskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.25,
         "longitude": 43.5
     },
     {
-        "cityId": "504938",
+        "cityId": 504938,
         "name": "Prokhladnenskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.83333,
         "longitude": 44
     },
     {
-        "cityId": "528218",
+        "cityId": 528218,
         "name": "Mayskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.66667,
         "longitude": 44.08333
     },
     {
-        "cityId": "569634",
+        "cityId": 569634,
         "name": "Chegemskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.41667,
         "longitude": 43.25
     },
     {
-        "cityId": "579567",
+        "cityId": 579567,
         "name": "Baksanskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.75,
         "longitude": 43.5
     },
     {
-        "cityId": "825097",
+        "cityId": 825097,
         "name": "El\u2019brusskiy Rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.41667,
         "longitude": 42.83333
     },
     {
-        "cityId": "825098",
+        "cityId": 825098,
         "name": "Nalchik Urban Okrug",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.5,
         "longitude": 43.58333
     },
     {
-        "cityId": "11205483",
+        "cityId": 11205483,
         "name": "Leskenskiy rayon",
-        "stateId": "554667",
+        "stateId": 554667,
         "latitude": 43.35556,
         "longitude": 43.94139
     }

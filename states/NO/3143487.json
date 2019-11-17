@@ -1,183 +1,183 @@
 [
     {
-        "cityId": "3131957",
+        "cityId": 3131957,
         "name": "Vestre Toten",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.72593,
         "longitude": 10.60764
     },
     {
-        "cityId": "3131961",
+        "cityId": 3131961,
         "name": "Vestre Slidre",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.08842,
         "longitude": 8.98196
     },
     {
-        "cityId": "3133054",
+        "cityId": 3133054,
         "name": "V\u00e5g\u00e5",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.87565,
         "longitude": 9.09572
     },
     {
-        "cityId": "3137519",
+        "cityId": 3137519,
         "name": "S\u00f8r-Fron",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.55652,
         "longitude": 9.93949
     },
     {
-        "cityId": "3137635",
+        "cityId": 3137635,
         "name": "S\u00f8r-Aurdal",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.82242,
         "longitude": 9.54836
     },
     {
-        "cityId": "3137678",
+        "cityId": 3137678,
         "name": "S\u00f8ndre Land",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.69944,
         "longitude": 10.35086
     },
     {
-        "cityId": "3138965",
+        "cityId": 3138965,
         "name": "Skj\u00e5k",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.88349,
         "longitude": 8.2649
     },
     {
-        "cityId": "3139922",
+        "cityId": 3139922,
         "name": "Sel",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.77278,
         "longitude": 9.53415
     },
     {
-        "cityId": "3141849",
+        "cityId": 3141849,
         "name": "Ringebu",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.5298,
         "longitude": 10.1418
     },
     {
-        "cityId": "3142751",
+        "cityId": 3142751,
         "name": "\u00d8ystre Slidre",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.13377,
         "longitude": 9.07872
     },
     {
-        "cityId": "3142849",
+        "cityId": 3142849,
         "name": "\u00d8yer",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.26495,
         "longitude": 10.41297
     },
     {
-        "cityId": "3143158",
+        "cityId": 3143158,
         "name": "\u00d8stre Toten",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.67659,
         "longitude": 10.81997
     },
     {
-        "cityId": "3144229",
+        "cityId": 3144229,
         "name": "Nordre Land",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.83471,
         "longitude": 10.07543
     },
     {
-        "cityId": "3144350",
+        "cityId": 3144350,
         "name": "Nord-Fron",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.59556,
         "longitude": 9.7483
     },
     {
-        "cityId": "3144466",
+        "cityId": 3144466,
         "name": "Nord-Aurdal",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.98531,
         "longitude": 9.23661
     },
     {
-        "cityId": "3146759",
+        "cityId": 3146759,
         "name": "Lunner",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.29462,
         "longitude": 10.6086
     },
     {
-        "cityId": "3147022",
+        "cityId": 3147022,
         "name": "Lom",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.83639,
         "longitude": 8.56811
     },
     {
-        "cityId": "3147714",
+        "cityId": 3147714,
         "name": "Lesja",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 62.11785,
         "longitude": 8.86262
     },
     {
-        "cityId": "3150840",
+        "cityId": 3150840,
         "name": "Jevnaker",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.2406,
         "longitude": 10.38587
     },
     {
-        "cityId": "3155280",
+        "cityId": 3155280,
         "name": "Gran",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.39293,
         "longitude": 10.56045
     },
     {
-        "cityId": "3155962",
+        "cityId": 3155962,
         "name": "Gausdal",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.22685,
         "longitude": 10.22145
     },
     {
-        "cityId": "3158018",
+        "cityId": 3158018,
         "name": "Etnedal",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.88872,
         "longitude": 9.64031
     },
     {
-        "cityId": "3159047",
+        "cityId": 3159047,
         "name": "Dovre",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.98582,
         "longitude": 9.24947
     },
     {
-        "cityId": "6453349",
+        "cityId": 6453349,
         "name": "Vang",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.12564,
         "longitude": 8.57167
     },
     {
-        "cityId": "6453350",
+        "cityId": 6453350,
         "name": "Lillehammer",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 61.11464,
         "longitude": 10.46743
     },
     {
-        "cityId": "6453355",
+        "cityId": 6453355,
         "name": "Gj\u00f8vik",
-        "stateId": "3143487",
+        "stateId": 3143487,
         "latitude": 60.79472,
         "longitude": 10.69287
     }

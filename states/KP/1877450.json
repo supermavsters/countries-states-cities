@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "1866638",
+        "cityId": 1866638,
         "name": "Yod\u014fk-kun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.71444,
         "longitude": 126.91194
     },
     {
-        "cityId": "1873885",
+        "cityId": 1873885,
         "name": "Nagw\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.93111,
         "longitude": 127.78778
     },
     {
-        "cityId": "1875280",
+        "cityId": 1875280,
         "name": "K\u016dmya-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.54306,
         "longitude": 127.29194
     },
     {
-        "cityId": "1875589",
+        "cityId": 1875589,
         "name": "Kow\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.44583,
         "longitude": 127.18028
     },
     {
-        "cityId": "1877442",
+        "cityId": 1877442,
         "name": "Hamju-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.92222,
         "longitude": 127.30694
     },
     {
-        "cityId": "1877447",
+        "cityId": 1877447,
         "name": "Hamh\u016dng-si",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.96556,
         "longitude": 127.48861
     },
     {
-        "cityId": "1878321",
+        "cityId": 1878321,
         "name": "Chongpyong County",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.75,
         "longitude": 127.33333
     },
     {
-        "cityId": "2039115",
+        "cityId": 2039115,
         "name": "Y\u014fnggwang-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.11444,
         "longitude": 127.33694
     },
     {
-        "cityId": "2039905",
+        "cityId": 2039905,
         "name": "T\u014fks\u014fng-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.41667,
         "longitude": 128.16667
     },
     {
-        "cityId": "2040063",
+        "cityId": 2040063,
         "name": "Tanch\u2019\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.58333,
         "longitude": 129
     },
     {
-        "cityId": "2040953",
+        "cityId": 2040953,
         "name": "Sinp\u2019o-si",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.09167,
         "longitude": 128.26583
     },
     {
-        "cityId": "2041012",
+        "cityId": 2041012,
         "name": "Sinh\u016dng-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.25,
         "longitude": 127.66667
     },
     {
-        "cityId": "2041812",
+        "cityId": 2041812,
         "name": "Pukch\u2019\u014fng-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.25,
         "longitude": 128.33333
     },
     {
-        "cityId": "2041826",
+        "cityId": 2041826,
         "name": "Puj\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.75,
         "longitude": 127.58333
     },
     {
-        "cityId": "2043679",
+        "cityId": 2043679,
         "name": "Iw\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.33333,
         "longitude": 128.58333
     },
     {
-        "cityId": "2044051",
+        "cityId": 2044051,
         "name": "Hongw\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.14028,
         "longitude": 127.96611
     },
     {
-        "cityId": "2044126",
+        "cityId": 2044126,
         "name": "H\u014fch\u2019\u014fn-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.76583,
         "longitude": 128.55417
     },
     {
-        "cityId": "2045125",
+        "cityId": 2045125,
         "name": "Changjin-gun",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 40.53222,
         "longitude": 127.26194
     },
     {
-        "cityId": "6258675",
+        "cityId": 6258675,
         "name": "Sudong-gu",
-        "stateId": "1877450",
+        "stateId": 1877450,
         "latitude": 39.40889,
         "longitude": 126.91917
     }

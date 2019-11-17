@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "6618688",
+        "cityId": 6618688,
         "name": "Halhgol",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 47.62734,
         "longitude": 118.61784
     },
     {
-        "cityId": "6618689",
+        "cityId": 6618689,
         "name": "Matad",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 47.14513,
         "longitude": 115.53326
     },
     {
-        "cityId": "6618690",
+        "cityId": 6618690,
         "name": "Bayant\u00fcmen",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.04481,
         "longitude": 114.3663
     },
     {
-        "cityId": "6618691",
+        "cityId": 6618691,
         "name": "Bulgan",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 47.99452,
         "longitude": 113.93337
     },
     {
-        "cityId": "6618692",
+        "cityId": 6618692,
         "name": "H\u00f6l\u00f6nbuyr",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 47.90852,
         "longitude": 112.95044
     },
     {
-        "cityId": "6618693",
+        "cityId": 6618693,
         "name": "Choybalsan",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.42852,
         "longitude": 114.86687
     },
     {
-        "cityId": "6618694",
+        "cityId": 6618694,
         "name": "Chuluunhoroot",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.85304,
         "longitude": 115.71762
     },
     {
-        "cityId": "6618695",
+        "cityId": 6618695,
         "name": "Dashbalbar",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.53836,
         "longitude": 114.40287
     },
     {
-        "cityId": "6618696",
+        "cityId": 6618696,
         "name": "Gurvandzagal",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.12714,
         "longitude": 114.883
     },
     {
-        "cityId": "6618697",
+        "cityId": 6618697,
         "name": "Sergelen",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.55366,
         "longitude": 114.08478
     },
     {
-        "cityId": "6618698",
+        "cityId": 6618698,
         "name": "Tsagaan-Ovoo",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.39502,
         "longitude": 113.43315
     },
     {
-        "cityId": "6618699",
+        "cityId": 6618699,
         "name": "Bayandun",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.2408,
         "longitude": 113.37393
     },
     {
-        "cityId": "6618700",
+        "cityId": 6618700,
         "name": "Bayan-Uul",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.14556,
         "longitude": 112.73449
     },
     {
-        "cityId": "6618701",
+        "cityId": 6618701,
         "name": "Herlen",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.05812,
         "longitude": 114.49883
     },
     {
-        "cityId": "6988033",
+        "cityId": 6988033,
         "name": "Bayant\u00fcmen Sum",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.00831,
         "longitude": 114.91693
     },
     {
-        "cityId": "6988036",
+        "cityId": 6988036,
         "name": "Tsagaan-Ovoo Sum",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.44001,
         "longitude": 113.12521
     },
     {
-        "cityId": "6988038",
+        "cityId": 6988038,
         "name": "Choybalsan Sum",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.89034,
         "longitude": 115.50611
     },
     {
-        "cityId": "6988042",
+        "cityId": 6988042,
         "name": "Gurvanzagal Sum",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 49.18067,
         "longitude": 114.9406
     },
     {
-        "cityId": "10375939",
+        "cityId": 10375939,
         "name": "Kherlen",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 48.1373,
         "longitude": 114.55294
     },
     {
-        "cityId": "10375940",
+        "cityId": 10375940,
         "name": "Kh\u00f6l\u00f6nbuir",
-        "stateId": "2031799",
+        "stateId": 2031799,
         "latitude": 47.92611,
         "longitude": 112.96167
     }

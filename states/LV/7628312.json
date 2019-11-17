@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "11352470",
+        "cityId": 11352470,
         "name": "Auce",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.46049,
         "longitude": 22.90434
     },
     {
-        "cityId": "11352472",
+        "cityId": 11352472,
         "name": "B\u0113nes pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.45833,
         "longitude": 23.06924
     },
     {
-        "cityId": "11352477",
+        "cityId": 11352477,
         "name": "\u012ales pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.55295,
         "longitude": 22.99682
     },
     {
-        "cityId": "11352478",
+        "cityId": 11352478,
         "name": "Lielauces pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.52577,
         "longitude": 22.84926
     },
     {
-        "cityId": "11352479",
+        "cityId": 11352479,
         "name": "Ukru pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.36361,
         "longitude": 23.09386
     },
     {
-        "cityId": "11352480",
+        "cityId": 11352480,
         "name": "Vecauces pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.47859,
         "longitude": 22.94684
     },
     {
-        "cityId": "11352481",
+        "cityId": 11352481,
         "name": "V\u012bti\u0146u pagasts",
-        "stateId": "7628312",
+        "stateId": 7628312,
         "latitude": 56.44928,
         "longitude": 22.85015
     }

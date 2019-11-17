@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "7670554",
+        "cityId": 7670554,
         "name": "Koutiala Cercle",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 12.35311,
         "longitude": -5.5839
     },
     {
-        "cityId": "7701496",
+        "cityId": 7701496,
         "name": "Bla",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 12.92374,
         "longitude": -5.76784
     },
     {
-        "cityId": "7701502",
+        "cityId": 7701502,
         "name": "Bougouni Cercle",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 11.27243,
         "longitude": -7.3474
     },
     {
-        "cityId": "7729902",
+        "cityId": 7729902,
         "name": "Sikasso Cercle",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 11.52179,
         "longitude": -5.94014
     },
     {
-        "cityId": "8334591",
+        "cityId": 8334591,
         "name": "Kolondieba Cercle",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 10.942,
         "longitude": -6.69
     },
     {
-        "cityId": "8631446",
+        "cityId": 8631446,
         "name": "Cercle de Yanfolila",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 11.00742,
         "longitude": -8.0365
     },
     {
-        "cityId": "8631512",
+        "cityId": 8631512,
         "name": "Cercle de Kadiolo",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 10.63256,
         "longitude": -5.85837
     },
     {
-        "cityId": "8631513",
+        "cityId": 8631513,
         "name": "Cercle de Yorosso",
-        "stateId": "2451184",
+        "stateId": 2451184,
         "latitude": 12.34502,
         "longitude": -4.78168
     }

@@ -1,134 +1,134 @@
 [
     {
-        "cityId": "1626645",
+        "cityId": 1626645,
         "name": "Kota Solok",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.76667,
         "longitude": 100.61667
     },
     {
-        "cityId": "1626646",
+        "cityId": 1626646,
         "name": "Kabupaten Solok",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.96667,
         "longitude": 100.81667
     },
     {
-        "cityId": "1628471",
+        "cityId": 1628471,
         "name": "Kota Sawah Lunto",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.6,
         "longitude": 100.75
     },
     {
-        "cityId": "1631300",
+        "cityId": 1631300,
         "name": "Kabupaten Pesisir Selatan",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -1.58333,
         "longitude": 100.85
     },
     {
-        "cityId": "1631904",
+        "cityId": 1631904,
         "name": "Kota Payakumbuh",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.23333,
         "longitude": 100.63333
     },
     {
-        "cityId": "1633373",
+        "cityId": 1633373,
         "name": "Kabupaten Padang Pariaman",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.6,
         "longitude": 100.28333
     },
     {
-        "cityId": "1633374",
+        "cityId": 1633374,
         "name": "Kota Padang Panjang",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.45,
         "longitude": 100.43333
     },
     {
-        "cityId": "1633407",
+        "cityId": 1633407,
         "name": "Kota Padang",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.98333,
         "longitude": 100.45
     },
     {
-        "cityId": "1647865",
+        "cityId": 1647865,
         "name": "Kota Bukittinggi",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.275,
         "longitude": 100.375
     },
     {
-        "cityId": "1651856",
+        "cityId": 1651856,
         "name": "Kabupaten Agam",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.25,
         "longitude": 100.16667
     },
     {
-        "cityId": "8541932",
+        "cityId": 8541932,
         "name": "Kabupaten Sijunjung",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -1.1827,
         "longitude": 101.6056
     },
     {
-        "cityId": "8562628",
+        "cityId": 8562628,
         "name": "Kabupaten Lima Puluh Kota",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.0168,
         "longitude": 100.5872
     },
     {
-        "cityId": "8594799",
+        "cityId": 8594799,
         "name": "Kabupaten Tanah Datar",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.4555,
         "longitude": 100.5771
     },
     {
-        "cityId": "8740094",
+        "cityId": 8740094,
         "name": "Kabupaten Kepulauan Mentawai",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": 1.98917,
         "longitude": 99.51889
     },
     {
-        "cityId": "9163115",
+        "cityId": 9163115,
         "name": "Kabupaten Pasaman",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": 0.42503,
         "longitude": 99.94606
     },
     {
-        "cityId": "9163116",
+        "cityId": 9163116,
         "name": "Kabupaten Pasaman Barat",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": 0.28152,
         "longitude": 99.51965
     },
     {
-        "cityId": "9165770",
+        "cityId": 9165770,
         "name": "Kabupaten Solok Selatan",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -1.23333,
         "longitude": 101.417
     },
     {
-        "cityId": "9166041",
+        "cityId": 9166041,
         "name": "Kabupaten Dharmasraya",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -1.05,
         "longitude": 101.367
     },
     {
-        "cityId": "9843591",
+        "cityId": 9843591,
         "name": "Kota Pariaman",
-        "stateId": "1626197",
+        "stateId": 1626197,
         "latitude": -0.62682,
         "longitude": 100.12047
     }

@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11352823",
+        "cityId": 11352823,
         "name": "Svitenes pagasts",
-        "stateId": "7628317",
+        "stateId": 7628317,
         "latitude": 56.37467,
         "longitude": 23.92803
     },
     {
-        "cityId": "11352866",
+        "cityId": 11352866,
         "name": "Viesturu pagasts",
-        "stateId": "7628317",
+        "stateId": 7628317,
         "latitude": 56.45236,
         "longitude": 23.9393
     },
     {
-        "cityId": "11352879",
+        "cityId": 11352879,
         "name": "Rund\u0101les pagasts",
-        "stateId": "7628317",
+        "stateId": 7628317,
         "latitude": 56.39605,
         "longitude": 24.0357
     }

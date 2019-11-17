@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "2970140",
+        "cityId": 2970140,
         "name": "D\u00e9partement de la Vend\u00e9e",
-        "stateId": "2988289",
+        "stateId": 2988289,
         "latitude": 46.64169,
         "longitude": -1.30407
     },
     {
-        "cityId": "2975926",
+        "cityId": 2975926,
         "name": "Sarthe",
-        "stateId": "2988289",
+        "stateId": 2988289,
         "latitude": 48.00493,
         "longitude": 0.26516
     },
     {
-        "cityId": "2994932",
+        "cityId": 2994932,
         "name": "Mayenne",
-        "stateId": "2988289",
+        "stateId": 2988289,
         "latitude": 48.13494,
         "longitude": -0.66667
     },
     {
-        "cityId": "2996663",
+        "cityId": 2996663,
         "name": "D\u00e9partement de Maine-et-Loire",
-        "stateId": "2988289",
+        "stateId": 2988289,
         "latitude": 47.5,
         "longitude": -0.33333
     },
     {
-        "cityId": "2997861",
+        "cityId": 2997861,
         "name": "Loire-Atlantique",
-        "stateId": "2988289",
+        "stateId": 2988289,
         "latitude": 47.32863,
         "longitude": -1.65764
     }

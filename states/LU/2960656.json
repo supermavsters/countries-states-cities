@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "2960590",
+        "cityId": 2960590,
         "name": "Ettelbruck",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.84565,
         "longitude": 6.08137
     },
     {
-        "cityId": "2960658",
+        "cityId": 2960658,
         "name": "Diekirch",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.87279,
         "longitude": 6.14921
     },
     {
-        "cityId": "3285197",
+        "cityId": 3285197,
         "name": "Feulen",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.85,
         "longitude": 6.01667
     },
     {
-        "cityId": "6693304",
+        "cityId": 6693304,
         "name": "Bettendorf",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.87667,
         "longitude": 6.21806
     },
     {
-        "cityId": "6693305",
+        "cityId": 6693305,
         "name": "Bourscheid",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.91,
         "longitude": 6.06722
     },
     {
-        "cityId": "6693307",
+        "cityId": 6693307,
         "name": "Erpeldange",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.86472,
         "longitude": 6.11472
     },
     {
-        "cityId": "6693310",
+        "cityId": 6693310,
         "name": "Mertzig",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.83389,
         "longitude": 6.0075
     },
     {
-        "cityId": "6693311",
+        "cityId": 6693311,
         "name": "Reisdorf",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.86861,
         "longitude": 6.26778
     },
     {
-        "cityId": "6693312",
+        "cityId": 6693312,
         "name": "Schieren",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.83056,
         "longitude": 6.09861
     },
     {
-        "cityId": "8641526",
+        "cityId": 8641526,
         "name": "Commune de la Vall\u00e9e de l\u2019Ernz",
-        "stateId": "2960656",
+        "stateId": 2960656,
         "latitude": 49.82149,
         "longitude": 6.21746
     }

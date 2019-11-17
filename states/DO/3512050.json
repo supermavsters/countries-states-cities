@@ -1,36 +1,36 @@
 [
     {
-        "cityId": "3491928",
+        "cityId": 3491928,
         "name": "Villa Jaragua",
-        "stateId": "3512050",
+        "stateId": 3512050,
         "latitude": 18.58333,
         "longitude": -71.53333
     },
     {
-        "cityId": "3492521",
+        "cityId": 3492521,
         "name": "Tamayo",
-        "stateId": "3512050",
+        "stateId": 3512050,
         "latitude": 18.5,
         "longitude": -71.16667
     },
     {
-        "cityId": "3495858",
+        "cityId": 3495858,
         "name": "Neiba",
-        "stateId": "3512050",
+        "stateId": 3512050,
         "latitude": 18.5,
         "longitude": -71.41667
     },
     {
-        "cityId": "11154535",
+        "cityId": 11154535,
         "name": "Galv\u00e1n",
-        "stateId": "3512050",
+        "stateId": 3512050,
         "latitude": 18.48974,
         "longitude": -71.32798
     },
     {
-        "cityId": "11154582",
+        "cityId": 11154582,
         "name": "Los R\u00edos",
-        "stateId": "3512050",
+        "stateId": 3512050,
         "latitude": 18.56388,
         "longitude": -71.57517
     }

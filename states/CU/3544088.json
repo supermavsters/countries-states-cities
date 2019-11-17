@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "3534093",
+        "cityId": 3534093,
         "name": "Municipio de Vi\u00f1ales",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.61773,
         "longitude": -83.72196
     },
     {
-        "cityId": "3539072",
+        "cityId": 3539072,
         "name": "Municipio de San Luis",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.28333,
         "longitude": -83.76667
     },
     {
-        "cityId": "3539257",
+        "cityId": 3539257,
         "name": "Municipio de San Juan y Mart\u00ednez",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.28333,
         "longitude": -83.83333
     },
     {
-        "cityId": "3544089",
+        "cityId": 3544089,
         "name": "Municipio de Pinar del R\u00edo",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.41667,
         "longitude": -83.7
     },
     {
-        "cityId": "3547929",
+        "cityId": 3547929,
         "name": "Municipio de Mantua",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.3,
         "longitude": -84.28333
     },
     {
-        "cityId": "3548992",
+        "cityId": 3548992,
         "name": "Municipio de Los Palacios",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.58333,
         "longitude": -83.25
     },
     {
-        "cityId": "3552311",
+        "cityId": 3552311,
         "name": "Municipio de La Palma",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.75,
         "longitude": -83.55
     },
     {
-        "cityId": "3557756",
+        "cityId": 3557756,
         "name": "Municipio de Guane",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.2,
         "longitude": -84.08333
     },
     {
-        "cityId": "3563558",
+        "cityId": 3563558,
         "name": "Municipio de Consolaci\u00f3n del Sur",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.5,
         "longitude": -83.51667
     },
     {
-        "cityId": "11287605",
+        "cityId": 11287605,
         "name": "Sandino",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.08031,
         "longitude": -84.20602
     },
     {
-        "cityId": "11288064",
+        "cityId": 11288064,
         "name": "Minas De Matahambre",
-        "stateId": "3544088",
+        "stateId": 3544088,
         "latitude": 22.58452,
         "longitude": -83.94692
     }

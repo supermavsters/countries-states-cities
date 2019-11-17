@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "1849092",
+        "cityId": 1849092,
         "name": "Usuki Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.07223,
         "longitude": 131.74457
     },
     {
-        "cityId": "1849160",
+        "cityId": 1849160,
         "name": "Usa Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.44996,
         "longitude": 131.33662
     },
     {
-        "cityId": "1849659",
+        "cityId": 1849659,
         "name": "Tsukumi-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.06667,
         "longitude": 131.86667
     },
     {
-        "cityId": "1850823",
+        "cityId": 1850823,
         "name": "Taketa-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 32.99774,
         "longitude": 131.32724
     },
     {
-        "cityId": "1853234",
+        "cityId": 1853234,
         "name": "Saiki-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 32.88598,
         "longitude": 131.776
     },
     {
-        "cityId": "1854480",
+        "cityId": 1854480,
         "name": "\u014cita-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.1798,
         "longitude": 131.64085
     },
     {
-        "cityId": "1855742",
+        "cityId": 1855742,
         "name": "Nakatsu Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.46458,
         "longitude": 131.12642
     },
     {
-        "cityId": "1858008",
+        "cityId": 1858008,
         "name": "Kusu-gun",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.25079,
         "longitude": 131.18488
     },
     {
-        "cityId": "1859233",
+        "cityId": 1859233,
         "name": "Kitsuki Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.44729,
         "longitude": 131.5367
     },
     {
-        "cityId": "1862367",
+        "cityId": 1862367,
         "name": "Hita Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.24452,
         "longitude": 130.95063
     },
     {
-        "cityId": "1864667",
+        "cityId": 1864667,
         "name": "Bungo-takada Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.57571,
         "longitude": 131.50693
     },
     {
-        "cityId": "7279571",
+        "cityId": 7279571,
         "name": "Kunisaki-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.56543,
         "longitude": 131.73157
     },
     {
-        "cityId": "7414041",
+        "cityId": 7414041,
         "name": "Hayami-gun",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.37632,
         "longitude": 131.52747
     },
     {
-        "cityId": "7414042",
+        "cityId": 7414042,
         "name": "Higashikunisaki-gun",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.72805,
         "longitude": 131.66
     },
     {
-        "cityId": "7414050",
+        "cityId": 7414050,
         "name": "Beppu Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.28573,
         "longitude": 131.4528
     },
     {
-        "cityId": "7414051",
+        "cityId": 7414051,
         "name": "Bungo-\u014dno Shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 32.97249,
         "longitude": 131.5121
     },
     {
-        "cityId": "8739980",
+        "cityId": 8739980,
         "name": "Yufu-shi",
-        "stateId": "1854484",
+        "stateId": 1854484,
         "latitude": 33.17923,
         "longitude": 131.43219
     }

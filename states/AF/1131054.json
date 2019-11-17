@@ -1,71 +1,71 @@
 [
     {
-        "cityId": "7054036",
+        "cityId": 7054036,
         "name": "Bagr\u0101m",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 34.92395,
         "longitude": 69.33069
     },
     {
-        "cityId": "7054037",
+        "cityId": 7054037,
         "name": "Ch\u0101r\u012bk\u0101r",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 34.98819,
         "longitude": 69.14204
     },
     {
-        "cityId": "7054038",
+        "cityId": 7054038,
         "name": "Jabal us Sar\u0101j",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 35.11628,
         "longitude": 69.18412
     },
     {
-        "cityId": "7054039",
+        "cityId": 7054039,
         "name": "K\u014dh-e \u015e\u0101f\u012b",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 34.76058,
         "longitude": 69.47219
     },
     {
-        "cityId": "7054040",
+        "cityId": 7054040,
         "name": "S\u0101lang",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 35.27692,
         "longitude": 69.15131
     },
     {
-        "cityId": "7054041",
+        "cityId": 7054041,
         "name": "Sayyid Kh\u0113l",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 35.04683,
         "longitude": 69.26212
     },
     {
-        "cityId": "7054042",
+        "cityId": 7054042,
         "name": "Shaykh \u2018Al\u012b",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 34.94679,
         "longitude": 68.41889
     },
     {
-        "cityId": "7054043",
+        "cityId": 7054043,
         "name": "Sh\u012bnw\u0101r\u012b",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 35.12035,
         "longitude": 68.97081
     },
     {
-        "cityId": "7054044",
+        "cityId": 7054044,
         "name": "Siy\u0101hgird Gh\u014drband",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 35.01039,
         "longitude": 68.78769
     },
     {
-        "cityId": "7732339",
+        "cityId": 7732339,
         "name": "Surkhi Parsa",
-        "stateId": "1131054",
+        "stateId": 1131054,
         "latitude": 34.76317,
         "longitude": 68.57698
     }

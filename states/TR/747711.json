@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "8632568",
+        "cityId": 8632568,
         "name": "Uzunk\u00f6pr\u00fc \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 41.27681,
         "longitude": 26.69645
     },
     {
-        "cityId": "8632569",
+        "cityId": 8632569,
         "name": "L\u00e2lapa\u015fa \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 41.85056,
         "longitude": 26.74865
     },
     {
-        "cityId": "8632570",
+        "cityId": 8632570,
         "name": "S\u00fclo\u011flu \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 41.77956,
         "longitude": 26.92602
     },
     {
-        "cityId": "8632571",
+        "cityId": 8632571,
         "name": "Havsa \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 41.55981,
         "longitude": 26.83394
     },
     {
-        "cityId": "8632572",
+        "cityId": 8632572,
         "name": "Meri\u00e7 \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 41.20174,
         "longitude": 26.43499
     },
     {
-        "cityId": "8632573",
+        "cityId": 8632573,
         "name": "\u0130psala \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 40.93204,
         "longitude": 26.39781
     },
     {
-        "cityId": "8632574",
+        "cityId": 8632574,
         "name": "Ke\u015fan \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 40.86611,
         "longitude": 26.64424
     },
     {
-        "cityId": "8632575",
+        "cityId": 8632575,
         "name": "Enez \u0130l\u00e7esi",
-        "stateId": "747711",
+        "stateId": 747711,
         "latitude": 40.73389,
         "longitude": 26.10243
     }

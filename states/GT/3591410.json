@@ -1,99 +1,99 @@
 [
     {
-        "cityId": "3588983",
+        "cityId": 3588983,
         "name": "Municipio de Sayaxch\u00e9",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.51667,
         "longitude": -90.16667
     },
     {
-        "cityId": "3589501",
+        "cityId": 3589501,
         "name": "Municipio de Santa Ana",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.8,
         "longitude": -89.83333
     },
     {
-        "cityId": "3589835",
+        "cityId": 3589835,
         "name": "Municipio de San Luis",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.23333,
         "longitude": -89.45
     },
     {
-        "cityId": "3590058",
+        "cityId": 3590058,
         "name": "Municipio de San Jos\u00e9",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.98661,
         "longitude": -89.90499
     },
     {
-        "cityId": "3590233",
+        "cityId": 3590233,
         "name": "Municipio de San Francisco",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.8,
         "longitude": -89.93333
     },
     {
-        "cityId": "3590386",
+        "cityId": 3590386,
         "name": "Municipio de San Benito",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.91289,
         "longitude": -89.90979
     },
     {
-        "cityId": "3590534",
+        "cityId": 3590534,
         "name": "Municipio de San Andr\u00e9s",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.96667,
         "longitude": -89.91667
     },
     {
-        "cityId": "3591180",
+        "cityId": 3591180,
         "name": "Municipio de Popt\u00fan",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.35,
         "longitude": -89.43333
     },
     {
-        "cityId": "3592595",
+        "cityId": 3592595,
         "name": "Municipio de Melchor de Mencos",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 17.06667,
         "longitude": -89.16667
     },
     {
-        "cityId": "3594418",
+        "cityId": 3594418,
         "name": "Municipio de La Libertad",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.78333,
         "longitude": -90.11667
     },
     {
-        "cityId": "3595722",
+        "cityId": 3595722,
         "name": "Municipio de Flores",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.92381,
         "longitude": -89.89709
     },
     {
-        "cityId": "3597716",
+        "cityId": 3597716,
         "name": "Municipio de Dolores",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.51667,
         "longitude": -89.41667
     },
     {
-        "cityId": "9253824",
+        "cityId": 9253824,
         "name": "Las Cruces",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.63611,
         "longitude": -90.18389
     },
     {
-        "cityId": "9975229",
+        "cityId": 9975229,
         "name": "Municipio de El Chal",
-        "stateId": "3591410",
+        "stateId": 3591410,
         "latitude": 16.6447,
         "longitude": -89.656
     }

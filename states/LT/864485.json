@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "593118",
+        "cityId": 593118,
         "name": "Vilnius",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 54.68333,
         "longitude": 25.31667
     },
     {
-        "cityId": "593120",
+        "cityId": 593120,
         "name": "Vilnius District Municipality",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 54.73333,
         "longitude": 25.38333
     },
     {
-        "cityId": "864520",
+        "cityId": 864520,
         "name": "\u0160al\u010dininkai",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 54.3,
         "longitude": 25.38333
     },
     {
-        "cityId": "864521",
+        "cityId": 864521,
         "name": "Sirvintos",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 55.05,
         "longitude": 24.95
     },
     {
-        "cityId": "864522",
+        "cityId": 864522,
         "name": "Svencionys",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 55.15,
         "longitude": 26.16667
     },
     {
-        "cityId": "864523",
+        "cityId": 864523,
         "name": "Trakai",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 54.63333,
         "longitude": 24.93333
     },
     {
-        "cityId": "864524",
+        "cityId": 864524,
         "name": "Ukmerg\u0117",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 55.25,
         "longitude": 24.75
     },
     {
-        "cityId": "9610135",
+        "cityId": 9610135,
         "name": "Elektr\u0117nai",
-        "stateId": "864485",
+        "stateId": 864485,
         "latitude": 54.78604,
         "longitude": 24.66113
     }

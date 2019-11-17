@@ -1,22 +1,22 @@
 [
     {
-        "cityId": "11820771",
+        "cityId": 11820771,
         "name": "Nuevo Berlin",
-        "stateId": "3440789",
+        "stateId": 3440789,
         "latitude": -32.9746,
         "longitude": -57.98573
     },
     {
-        "cityId": "11820776",
+        "cityId": 11820776,
         "name": "Young",
-        "stateId": "3440789",
+        "stateId": 3440789,
         "latitude": -32.64068,
         "longitude": -57.61499
     },
     {
-        "cityId": "11820851",
+        "cityId": 11820851,
         "name": "San Javier",
-        "stateId": "3440789",
+        "stateId": 3440789,
         "latitude": -32.65883,
         "longitude": -58.02023
     }

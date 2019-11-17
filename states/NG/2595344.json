@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "8638070",
+        "cityId": 8638070,
         "name": "Ekeremor",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 4.92212,
         "longitude": 5.71647
     },
     {
-        "cityId": "8638072",
+        "cityId": 8638072,
         "name": "Southern Ijaw",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 4.67675,
         "longitude": 5.94156
     },
     {
-        "cityId": "8638073",
+        "cityId": 8638073,
         "name": "Sagbama",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 5.14722,
         "longitude": 6.21127
     },
     {
-        "cityId": "8638087",
+        "cityId": 8638087,
         "name": "Yenegoa",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 5.03163,
         "longitude": 6.35931
     },
     {
-        "cityId": "8638091",
+        "cityId": 8638091,
         "name": "Kolokuma\/Opokuma",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 5.09855,
         "longitude": 6.264
     },
     {
-        "cityId": "8638092",
+        "cityId": 8638092,
         "name": "Ogbia",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 4.77409,
         "longitude": 6.32686
     },
     {
-        "cityId": "8638095",
+        "cityId": 8638095,
         "name": "Nembe",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 4.52466,
         "longitude": 6.29442
     },
     {
-        "cityId": "8638097",
+        "cityId": 8638097,
         "name": "Brass",
-        "stateId": "2595344",
+        "stateId": 2595344,
         "latitude": 4.36648,
         "longitude": 6.45462
     }

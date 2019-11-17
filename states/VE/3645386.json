@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "3626234",
+        "cityId": 3626234,
         "name": "Municipio Tinaco",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.66667,
         "longitude": -68.33333
     },
     {
-        "cityId": "3628494",
+        "cityId": 3628494,
         "name": "Municipio San Carlos",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.58333,
         "longitude": -68.58333
     },
     {
-        "cityId": "3629179",
+        "cityId": 3629179,
         "name": "Municipio Ricaurte",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.33333,
         "longitude": -68.66667
     },
     {
-        "cityId": "3640596",
+        "cityId": 3640596,
         "name": "Municipio Girardot",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 8.9,
         "longitude": -68.25
     },
     {
-        "cityId": "3640872",
+        "cityId": 3640872,
         "name": "Municipio Falc\u00f3n",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.91667,
         "longitude": -68.33333
     },
     {
-        "cityId": "3649199",
+        "cityId": 3649199,
         "name": "Municipio Anzo\u00e1tegui",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.58333,
         "longitude": -68.86667
     },
     {
-        "cityId": "8129190",
+        "cityId": 8129190,
         "name": "Municipio Pao de San Juan Bautista",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.63752,
         "longitude": -68.12884
     },
     {
-        "cityId": "8129242",
+        "cityId": 8129242,
         "name": "Municipio R\u00f3mulo Gallegos",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.53727,
         "longitude": -68.6296
     },
     {
-        "cityId": "8129267",
+        "cityId": 8129267,
         "name": "Municipio Lima Blanco",
-        "stateId": "3645386",
+        "stateId": 3645386,
         "latitude": 9.82602,
         "longitude": -68.43899
     }

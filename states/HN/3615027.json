@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "3600932",
+        "cityId": 3600932,
         "name": "Tela",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.7,
         "longitude": -87.58
     },
     {
-        "cityId": "3602332",
+        "cityId": 3602332,
         "name": "San Francisco",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.66667,
         "longitude": -87
     },
     {
-        "cityId": "3607421",
+        "cityId": 3607421,
         "name": "La Masica",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.66667,
         "longitude": -87.1
     },
     {
-        "cityId": "3608268",
+        "cityId": 3608268,
         "name": "La Ceiba",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.67,
         "longitude": -86.76
     },
     {
-        "cityId": "3608523",
+        "cityId": 3608523,
         "name": "Jutiapa",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.7,
         "longitude": -86.5
     },
     {
-        "cityId": "3609754",
+        "cityId": 3609754,
         "name": "Esparta",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.66667,
         "longitude": -87.2
     },
     {
-        "cityId": "3610697",
+        "cityId": 3610697,
         "name": "El Porvenir",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.66667,
         "longitude": -86.91667
     },
     {
-        "cityId": "8062522",
+        "cityId": 8062522,
         "name": "Arizona",
-        "stateId": "3615027",
+        "stateId": 3615027,
         "latitude": 15.68333,
         "longitude": -87.33333
     }

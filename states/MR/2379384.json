@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "9212603",
+        "cityId": 9212603,
         "name": "Maghama",
-        "stateId": "2379384",
+        "stateId": 2379384,
         "latitude": 15.54037,
         "longitude": -12.82886
     },
     {
-        "cityId": "9212629",
+        "cityId": 9212629,
         "name": "Kaedi",
-        "stateId": "2379384",
+        "stateId": 2379384,
         "latitude": 16.01667,
         "longitude": -13.1602
     },
     {
-        "cityId": "9212634",
+        "cityId": 9212634,
         "name": "M'Bout",
-        "stateId": "2379384",
+        "stateId": 2379384,
         "latitude": 15.99531,
         "longitude": -12.52621
     },
     {
-        "cityId": "9212642",
+        "cityId": 9212642,
         "name": "Monguel",
-        "stateId": "2379384",
+        "stateId": 2379384,
         "latitude": 16.44431,
         "longitude": -12.96241
     }

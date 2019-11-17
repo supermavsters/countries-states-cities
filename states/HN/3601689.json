@@ -1,197 +1,197 @@
 [
     {
-        "cityId": "3600610",
+        "cityId": 3600610,
         "name": "Trinidad",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.14,
         "longitude": -88.27
     },
     {
-        "cityId": "3601437",
+        "cityId": 3601437,
         "name": "San Vicente Centenario",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.88333,
         "longitude": -88.26667
     },
     {
-        "cityId": "3601532",
+        "cityId": 3601532,
         "name": "Santa Rita",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.76667,
         "longitude": -88.26667
     },
     {
-        "cityId": "3601695",
+        "cityId": 3601695,
         "name": "Santa B\u00e1rbara",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.9,
         "longitude": -88.16
     },
     {
-        "cityId": "3601781",
+        "cityId": 3601781,
         "name": "San Pedro Zacapa",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.75,
         "longitude": -88.11667
     },
     {
-        "cityId": "3601847",
+        "cityId": 3601847,
         "name": "San Nicol\u00e1s",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.93333,
         "longitude": -88.33333
     },
     {
-        "cityId": "3601916",
+        "cityId": 3601916,
         "name": "San Marcos",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.24,
         "longitude": -88.39
     },
     {
-        "cityId": "3601942",
+        "cityId": 3601942,
         "name": "San Luis",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.09,
         "longitude": -88.47
     },
     {
-        "cityId": "3602098",
+        "cityId": 3602098,
         "name": "San Jos\u00e9 de Colinas",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.03333,
         "longitude": -88.3
     },
     {
-        "cityId": "3602276",
+        "cityId": 3602276,
         "name": "San Francisco de Ojuera",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.67,
         "longitude": -88.21
     },
     {
-        "cityId": "3602953",
+        "cityId": 3602953,
         "name": "Quimist\u00e1n",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.35,
         "longitude": -88.4
     },
     {
-        "cityId": "3603258",
+        "cityId": 3603258,
         "name": "Protecci\u00f3n",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.01667,
         "longitude": -88.65
     },
     {
-        "cityId": "3603800",
+        "cityId": 3603800,
         "name": "Petoa",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.26,
         "longitude": -88.24
     },
     {
-        "cityId": "3604377",
+        "cityId": 3604377,
         "name": "Nuevo Celilac",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15,
         "longitude": -88.33333
     },
     {
-        "cityId": "3604480",
+        "cityId": 3604480,
         "name": "Naranjito",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.96,
         "longitude": -88.6
     },
     {
-        "cityId": "3605192",
+        "cityId": 3605192,
         "name": "Macuelizo",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.26,
         "longitude": -88.66
     },
     {
-        "cityId": "3608861",
+        "cityId": 3608861,
         "name": "Ilama",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.03,
         "longitude": -88.11
     },
     {
-        "cityId": "3609387",
+        "cityId": 3609387,
         "name": "Gualala",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.98,
         "longitude": -88.17
     },
     {
-        "cityId": "3611147",
+        "cityId": 3611147,
         "name": "El N\u00edspero",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.76667,
         "longitude": -88.33333
     },
     {
-        "cityId": "3613282",
+        "cityId": 3613282,
         "name": "Concepci\u00f3n del Sur",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.8,
         "longitude": -88.15
     },
     {
-        "cityId": "3613284",
+        "cityId": 3613284,
         "name": "Concepci\u00f3n del Norte",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.18333,
         "longitude": -88.13333
     },
     {
-        "cityId": "3613602",
+        "cityId": 3613602,
         "name": "Chinda",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.11667,
         "longitude": -88.2
     },
     {
-        "cityId": "3613901",
+        "cityId": 3613901,
         "name": "Ceguaca",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.8,
         "longitude": -88.2
     },
     {
-        "cityId": "3614991",
+        "cityId": 3614991,
         "name": "Azacualpa",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.36667,
         "longitude": -88.55
     },
     {
-        "cityId": "3615029",
+        "cityId": 3615029,
         "name": "Atima",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.93333,
         "longitude": -88.5
     },
     {
-        "cityId": "3615127",
+        "cityId": 3615127,
         "name": "Arada",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.83333,
         "longitude": -88.3
     },
     {
-        "cityId": "8062438",
+        "cityId": 8062438,
         "name": "Nueva Frontera",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 15.21,
         "longitude": -88.56
     },
     {
-        "cityId": "8062439",
+        "cityId": 8062439,
         "name": "Las Vegas",
-        "stateId": "3601689",
+        "stateId": 3601689,
         "latitude": 14.86636,
         "longitude": -88.07233
     }

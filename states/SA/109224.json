@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "10972292",
+        "cityId": 10972292,
         "name": "Al \u1e28in\u0101k\u012byah",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 24.75,
         "longitude": 41
     },
     {
-        "cityId": "10972293",
+        "cityId": 10972293,
         "name": "Al Mad\u012bnah al Munawwarah",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 24.3,
         "longitude": 39.6
     },
     {
-        "cityId": "10972294",
+        "cityId": 10972294,
         "name": "Al Mahd",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 23.5,
         "longitude": 40.75
     },
     {
-        "cityId": "10972295",
+        "cityId": 10972295,
         "name": "Al \u2018Ul\u0101",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 26.5,
         "longitude": 37.91667
     },
     {
-        "cityId": "10972296",
+        "cityId": 10972296,
         "name": "Badr",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 23.75,
         "longitude": 38.95
     },
     {
-        "cityId": "10972297",
+        "cityId": 10972297,
         "name": "Khaybar",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 25.83333,
         "longitude": 39.33333
     },
     {
-        "cityId": "10972298",
+        "cityId": 10972298,
         "name": "Yanbu\u2018 al Ba\u1e29r",
-        "stateId": "109224",
+        "stateId": 109224,
         "latitude": 24.75,
         "longitude": 38.33333
     }

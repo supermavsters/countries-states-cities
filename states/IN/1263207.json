@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1266857",
+        "cityId": 1266857,
         "name": "East Kh\u0101si Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.3805,
         "longitude": 91.78905
     },
     {
-        "cityId": "1269523",
+        "cityId": 1269523,
         "name": "Jaintia Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.5,
         "longitude": 92.25
     },
     {
-        "cityId": "1271512",
+        "cityId": 1271512,
         "name": "East G\u0101ro Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.79191,
         "longitude": 90.57514
     },
     {
-        "cityId": "7701507",
+        "cityId": 7701507,
         "name": "Ri-Bhoi",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.88997,
         "longitude": 91.82707
     },
     {
-        "cityId": "7701511",
+        "cityId": 7701511,
         "name": "West Khasi Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.54776,
         "longitude": 91.26957
     },
     {
-        "cityId": "8986228",
+        "cityId": 8986228,
         "name": "West Garo Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.56794,
         "longitude": 90.22447
     },
     {
-        "cityId": "9748015",
+        "cityId": 9748015,
         "name": "South Garo Hills",
-        "stateId": "1263207",
+        "stateId": 1263207,
         "latitude": 25.30162,
         "longitude": 90.5853
     }

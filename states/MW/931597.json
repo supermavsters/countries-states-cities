@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "924053",
+        "cityId": 924053,
         "name": "Salima District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -13.71959,
         "longitude": 34.40184
     },
     {
-        "cityId": "924490",
+        "cityId": 924490,
         "name": "Ntchisi District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -13.29574,
         "longitude": 33.90798
     },
     {
-        "cityId": "924703",
+        "cityId": 924703,
         "name": "Nkhotakota District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -12.80417,
         "longitude": 34.08298
     },
     {
-        "cityId": "925072",
+        "cityId": 925072,
         "name": "Ntcheu District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -14.75,
         "longitude": 34.75
     },
     {
-        "cityId": "926745",
+        "cityId": 926745,
         "name": "Mchinji District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -13.7623,
         "longitude": 33.07998
     },
     {
-        "cityId": "927964",
+        "cityId": 927964,
         "name": "Lilongwe District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -14.01962,
         "longitude": 33.68407
     },
     {
-        "cityId": "928531",
+        "cityId": 928531,
         "name": "Kasungu District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -13,
         "longitude": 33.41667
     },
     {
-        "cityId": "929975",
+        "cityId": 929975,
         "name": "Dowa District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -13.60098,
         "longitude": 33.82378
     },
     {
-        "cityId": "930023",
+        "cityId": 930023,
         "name": "Dedza District",
-        "stateId": "931597",
+        "stateId": 931597,
         "latitude": -14.26273,
         "longitude": 34.18559
     }

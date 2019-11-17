@@ -1,57 +1,57 @@
 [
     {
-        "cityId": "1830230",
+        "cityId": 1830230,
         "name": "Sr\u014fk \u014ed\u014fngk",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.66845,
         "longitude": 104.61224
     },
     {
-        "cityId": "1830613",
+        "cityId": 1830613,
         "name": "Sr\u014fk K\u00f4ng P\u012dsei",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.31648,
         "longitude": 104.65992
     },
     {
-        "cityId": "8405257",
+        "cityId": 8405257,
         "name": "Sr\u014fk Basedth",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.18432,
         "longitude": 104.53584
     },
     {
-        "cityId": "8405258",
+        "cityId": 8405258,
         "name": "Kr\u014fng Chbar Mon",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.47091,
         "longitude": 104.50655
     },
     {
-        "cityId": "9253754",
+        "cityId": 9253754,
         "name": "Aoral",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.73667,
         "longitude": 104.06105
     },
     {
-        "cityId": "9253755",
+        "cityId": 9253755,
         "name": "Phnum Sruoch",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.30891,
         "longitude": 104.23974
     },
     {
-        "cityId": "9253758",
+        "cityId": 9253758,
         "name": "Samraong Tong",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.12719,
         "longitude": 104.77452
     },
     {
-        "cityId": "9253759",
+        "cityId": 9253759,
         "name": "Thpong",
-        "stateId": "1831132",
+        "stateId": 1831132,
         "latitude": 11.71561,
         "longitude": 104.37975
     }

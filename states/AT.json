@@ -1,64 +1,64 @@
 [
     {
-        "stateId": "2781194",
+        "stateId": 2781194,
         "name": "Burgenland",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 47.5,
         "longitude": 16.41667
     },
     {
-        "stateId": "2774686",
+        "stateId": 2774686,
         "name": "K\u00e4rnten",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 46.75,
         "longitude": 13.83333
     },
     {
-        "stateId": "2770542",
+        "stateId": 2770542,
         "name": "Nieder\u00f6sterreich",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 48.33333,
         "longitude": 15.75
     },
     {
-        "stateId": "2769848",
+        "stateId": 2769848,
         "name": "Ober\u00f6sterreich",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 48.25,
         "longitude": 14
     },
     {
-        "stateId": "2766823",
+        "stateId": 2766823,
         "name": "Salzburg",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 47.41667,
         "longitude": 13.25
     },
     {
-        "stateId": "2764581",
+        "stateId": 2764581,
         "name": "Steiermark",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 47.25,
         "longitude": 15.16667
     },
     {
-        "stateId": "2763586",
+        "stateId": 2763586,
         "name": "Tirol",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 47.25,
         "longitude": 11.33333
     },
     {
-        "stateId": "2762300",
+        "stateId": 2762300,
         "name": "Vorarlberg",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 47.25,
         "longitude": 9.91667
     },
     {
-        "stateId": "2761367",
+        "stateId": 2761367,
         "name": "Wien",
-        "countryId": "2782113",
+        "countryId": 2782113,
         "latitude": 48.2082,
         "longitude": 16.37169
     }

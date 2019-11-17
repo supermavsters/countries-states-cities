@@ -1,64 +1,64 @@
 [
     {
-        "cityId": "2522875",
+        "cityId": 2522875,
         "name": "Trapani",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.83333,
         "longitude": 12.66667
     },
     {
-        "cityId": "2523082",
+        "cityId": 2523082,
         "name": "Provincia di Siracusa",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.08805,
         "longitude": 15.27924
     },
     {
-        "cityId": "2523649",
+        "cityId": 2523649,
         "name": "Ragusa",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 36.91667,
         "longitude": 14.6
     },
     {
-        "cityId": "2523918",
+        "cityId": 2523918,
         "name": "Palermo",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.81667,
         "longitude": 13.58333
     },
     {
-        "cityId": "2524169",
+        "cityId": 2524169,
         "name": "Messina",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 38.05,
         "longitude": 14.86667
     },
     {
-        "cityId": "2524818",
+        "cityId": 2524818,
         "name": "Enna",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.58333,
         "longitude": 14.43333
     },
     {
-        "cityId": "2525065",
+        "cityId": 2525065,
         "name": "Catania",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.47169,
         "longitude": 14.84731
     },
     {
-        "cityId": "2525447",
+        "cityId": 2525447,
         "name": "Provincia di Caltanissetta",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.37448,
         "longitude": 14.06421
     },
     {
-        "cityId": "2525763",
+        "cityId": 2525763,
         "name": "Agrigento",
-        "stateId": "2523119",
+        "stateId": 2523119,
         "latitude": 37.45,
         "longitude": 13.5
     }

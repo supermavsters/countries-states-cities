@@ -1,22 +1,22 @@
 [
     {
-        "stateId": "9611689",
+        "stateId": 9611689,
         "name": "Mariehamns stad",
-        "countryId": "661882",
+        "countryId": 661882,
         "latitude": 60.08348,
         "longitude": 19.94307
     },
     {
-        "stateId": "9611692",
+        "stateId": 9611692,
         "name": "\u00c5lands landsbygd",
-        "countryId": "661882",
+        "countryId": 661882,
         "latitude": 60.22496,
         "longitude": 19.93363
     },
     {
-        "stateId": "9611694",
+        "stateId": 9611694,
         "name": "\u00c5lands sk\u00e4rg\u00e5rd",
-        "countryId": "661882",
+        "countryId": 661882,
         "latitude": 60.17575,
         "longitude": 20.71799
     }

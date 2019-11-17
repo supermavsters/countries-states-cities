@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "2225280",
+        "cityId": 2225280,
         "name": "Ndian Division",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 4.83333,
         "longitude": 8.83333
     },
     {
-        "cityId": "2227197",
+        "cityId": 2227197,
         "name": "Meme Division",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 4.83333,
         "longitude": 9.33333
     },
     {
-        "cityId": "2228442",
+        "cityId": 2228442,
         "name": "Manyu Division",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 5.82,
         "longitude": 9.37
     },
     {
-        "cityId": "2231710",
+        "cityId": 2231710,
         "name": "Fako Division",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 4.16667,
         "longitude": 9.16667
     },
     {
-        "cityId": "8505106",
+        "cityId": 8505106,
         "name": "Koup\u00e9-Manengouba",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 5.0856,
         "longitude": 9.78
     },
     {
-        "cityId": "9224975",
+        "cityId": 9224975,
         "name": "Lebialem",
-        "stateId": "2221788",
+        "stateId": 2221788,
         "latitude": 5.56043,
         "longitude": 9.92316
     }

@@ -1,43 +1,43 @@
 [
     {
-        "stateId": "448497",
+        "stateId": 448497,
         "name": "Anseba Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 16.5,
         "longitude": 37.5
     },
     {
-        "stateId": "448498",
+        "stateId": 448498,
         "name": "Debub Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 14.83333,
         "longitude": 38.83333
     },
     {
-        "stateId": "448500",
+        "stateId": 448500,
         "name": "Gash-Barka Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 15.25,
         "longitude": 37.5
     },
     {
-        "stateId": "448501",
+        "stateId": 448501,
         "name": "Maekel Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 15.33333,
         "longitude": 38.91667
     },
     {
-        "stateId": "448502",
+        "stateId": 448502,
         "name": "Northern Red Sea Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 16,
         "longitude": 39
     },
     {
-        "stateId": "448499",
+        "stateId": 448499,
         "name": "Southern Red Sea Region",
-        "countryId": "338010",
+        "countryId": 338010,
         "latitude": 13.75,
         "longitude": 41.5
     }

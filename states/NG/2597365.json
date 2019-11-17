@@ -1,211 +1,211 @@
 [
     {
-        "cityId": "7701466",
+        "cityId": 7701466,
         "name": "Ede North",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.7069,
         "longitude": 4.50922
     },
     {
-        "cityId": "7701468",
+        "cityId": 7701468,
         "name": "Egbedore",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.81667,
         "longitude": 4.43333
     },
     {
-        "cityId": "7701469",
+        "cityId": 7701469,
         "name": "Ife Central",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.47442,
         "longitude": 4.55933
     },
     {
-        "cityId": "7701471",
+        "cityId": 7701471,
         "name": "Ife East",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.36534,
         "longitude": 4.60147
     },
     {
-        "cityId": "7701472",
+        "cityId": 7701472,
         "name": "Ife South",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.2,
         "longitude": 4.6
     },
     {
-        "cityId": "7701474",
+        "cityId": 7701474,
         "name": "Ifelodun",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.91667,
         "longitude": 4.66667
     },
     {
-        "cityId": "7701475",
+        "cityId": 7701475,
         "name": "Ila",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 8.01667,
         "longitude": 4.9
     },
     {
-        "cityId": "7701476",
+        "cityId": 7701476,
         "name": "Irepodun",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.83333,
         "longitude": 4.48333
     },
     {
-        "cityId": "7701477",
+        "cityId": 7701477,
         "name": "Irewole",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.41667,
         "longitude": 4.21667
     },
     {
-        "cityId": "7701478",
+        "cityId": 7701478,
         "name": "Isokan",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.3,
         "longitude": 4.18333
     },
     {
-        "cityId": "7701479",
+        "cityId": 7701479,
         "name": "Odo Otin",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 8.01667,
         "longitude": 4.7
     },
     {
-        "cityId": "7701480",
+        "cityId": 7701480,
         "name": "Ola Oluwa",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.78333,
         "longitude": 4.21667
     },
     {
-        "cityId": "7701482",
+        "cityId": 7701482,
         "name": "Olorunda",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.86667,
         "longitude": 4.58333
     },
     {
-        "cityId": "7701483",
+        "cityId": 7701483,
         "name": "Oriade",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.58333,
         "longitude": 4.86667
     },
     {
-        "cityId": "7730030",
+        "cityId": 7730030,
         "name": "Atakunmosa East",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.45916,
         "longitude": 4.77562
     },
     {
-        "cityId": "7730042",
+        "cityId": 7730042,
         "name": "Atakunmosa West",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.49206,
         "longitude": 4.67521
     },
     {
-        "cityId": "7730051",
+        "cityId": 7730051,
         "name": "Boluwaduro",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.91891,
         "longitude": 4.81303
     },
     {
-        "cityId": "7730052",
+        "cityId": 7730052,
         "name": "Boripe",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.85585,
         "longitude": 4.66946
     },
     {
-        "cityId": "8636366",
+        "cityId": 8636366,
         "name": "Ejigbo",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.86711,
         "longitude": 4.28626
     },
     {
-        "cityId": "8636367",
+        "cityId": 8636367,
         "name": "Iwo",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.67548,
         "longitude": 4.14127
     },
     {
-        "cityId": "8636368",
+        "cityId": 8636368,
         "name": "Aiyedire",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.58118,
         "longitude": 4.23455
     },
     {
-        "cityId": "8636369",
+        "cityId": 8636369,
         "name": "Aiyedade",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.33378,
         "longitude": 4.34913
     },
     {
-        "cityId": "8636370",
+        "cityId": 8636370,
         "name": "Ede South",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.65824,
         "longitude": 4.45762
     },
     {
-        "cityId": "8636371",
+        "cityId": 8636371,
         "name": "Osogbo",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.75963,
         "longitude": 4.57625
     },
     {
-        "cityId": "8636372",
+        "cityId": 8636372,
         "name": "Orolu",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.90159,
         "longitude": 4.47283
     },
     {
-        "cityId": "8636373",
+        "cityId": 8636373,
         "name": "Ifedayo",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.97763,
         "longitude": 4.98892
     },
     {
-        "cityId": "8636374",
+        "cityId": 8636374,
         "name": "Obokun",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.78701,
         "longitude": 4.76281
     },
     {
-        "cityId": "8636375",
+        "cityId": 8636375,
         "name": "Ilesha West",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.64202,
         "longitude": 4.71922
     },
     {
-        "cityId": "8636376",
+        "cityId": 8636376,
         "name": "Ilesha East",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.60146,
         "longitude": 4.7618
     },
     {
-        "cityId": "8636377",
+        "cityId": 8636377,
         "name": "Ife North",
-        "stateId": "2597365",
+        "stateId": 2597365,
         "latitude": 7.26686,
         "longitude": 4.44748
     }

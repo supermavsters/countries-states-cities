@@ -1,127 +1,127 @@
 [
     {
-        "cityId": "473532",
+        "cityId": 473532,
         "name": "Vinogradovskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 63,
         "longitude": 43
     },
     {
-        "cityId": "473668",
+        "cityId": 473668,
         "name": "Vilegodskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61.25,
         "longitude": 48
     },
     {
-        "cityId": "475472",
+        "cityId": 475472,
         "name": "Verkhnetoyemskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 62.83333,
         "longitude": 46
     },
     {
-        "cityId": "475937",
+        "cityId": 475937,
         "name": "Vel\u2019skiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61,
         "longitude": 42
     },
     {
-        "cityId": "477891",
+        "cityId": 477891,
         "name": "Ust\u2019yanskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61.33333,
         "longitude": 43.66667
     },
     {
-        "cityId": "494883",
+        "cityId": 494883,
         "name": "Shenkurskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 62.25,
         "longitude": 42.41667
     },
     {
-        "cityId": "505262",
+        "cityId": 505262,
         "name": "Primorskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 65,
         "longitude": 41
     },
     {
-        "cityId": "509472",
+        "cityId": 509472,
         "name": "Pinezhskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 64.66667,
         "longitude": 43
     },
     {
-        "cityId": "515237",
+        "cityId": 515237,
         "name": "Onezhskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 63.33333,
         "longitude": 38
     },
     {
-        "cityId": "516645",
+        "cityId": 516645,
         "name": "Nyandomskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 62,
         "longitude": 40.66667
     },
     {
-        "cityId": "527316",
+        "cityId": 527316,
         "name": "Mezenskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 65.75,
         "longitude": 44
     },
     {
-        "cityId": "535840",
+        "cityId": 535840,
         "name": "Leshukonskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 65,
         "longitude": 47
     },
     {
-        "cityId": "536011",
+        "cityId": 536011,
         "name": "Lenskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 62,
         "longitude": 48.66667
     },
     {
-        "cityId": "542421",
+        "cityId": 542421,
         "name": "Krasnoborskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61.75,
         "longitude": 46.25
     },
     {
-        "cityId": "543702",
+        "cityId": 543702,
         "name": "Kotlasskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61.16667,
         "longitude": 46.33333
     },
     {
-        "cityId": "545350",
+        "cityId": 545350,
         "name": "Konoshskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61,
         "longitude": 40.33333
     },
     {
-        "cityId": "549751",
+        "cityId": 549751,
         "name": "Kholmogorskiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 64.08333,
         "longitude": 41.66667
     },
     {
-        "cityId": "552464",
+        "cityId": 552464,
         "name": "Kargopol\u2019skiy Rayon",
-        "stateId": "581043",
+        "stateId": 581043,
         "latitude": 61.33333,
         "longitude": 39
     }

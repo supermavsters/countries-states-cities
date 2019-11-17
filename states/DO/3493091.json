@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "3492124",
+        "cityId": 3492124,
         "name": "Vallejuelo",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.66667,
         "longitude": -71.28333
     },
     {
-        "cityId": "3493083",
+        "cityId": 3493083,
         "name": "San Juan de la Maguana",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.83333,
         "longitude": -71.16667
     },
     {
-        "cityId": "3500371",
+        "cityId": 3500371,
         "name": "Las Matas de Farf\u00e1n",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.91667,
         "longitude": -71.5
     },
     {
-        "cityId": "3508017",
+        "cityId": 3508017,
         "name": "El Cercado",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.7,
         "longitude": -71.46667
     },
     {
-        "cityId": "3511263",
+        "cityId": 3511263,
         "name": "Bohech\u00edo",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.83333,
         "longitude": -71
     },
     {
-        "cityId": "11154559",
+        "cityId": 11154559,
         "name": "Juan De Herrera",
-        "stateId": "3493091",
+        "stateId": 3493091,
         "latitude": 18.87439,
         "longitude": -71.20271
     }

@@ -1,141 +1,141 @@
 [
     {
-        "cityId": "463825",
+        "cityId": 463825,
         "name": "Zelenogradskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.83333,
         "longitude": 20.25
     },
     {
-        "cityId": "492111",
+        "cityId": 492111,
         "name": "Slavskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 55,
         "longitude": 21.66667
     },
     {
-        "cityId": "505596",
+        "cityId": 505596,
         "name": "Pravdinskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.41667,
         "longitude": 21.25
     },
     {
-        "cityId": "507290",
+        "cityId": 507290,
         "name": "Polesskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.83333,
         "longitude": 21.25
     },
     {
-        "cityId": "513394",
+        "cityId": 513394,
         "name": "Ozerskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.41667,
         "longitude": 22
     },
     {
-        "cityId": "522467",
+        "cityId": 522467,
         "name": "Nesterovskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.58333,
         "longitude": 22.58333
     },
     {
-        "cityId": "522740",
+        "cityId": 522740,
         "name": "Nemanskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.91667,
         "longitude": 22
     },
     {
-        "cityId": "541941",
+        "cityId": 541941,
         "name": "Krasnoznamenskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.91667,
         "longitude": 22.5
     },
     {
-        "cityId": "557707",
+        "cityId": 557707,
         "name": "Gvardeyskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.66667,
         "longitude": 21
     },
     {
-        "cityId": "557841",
+        "cityId": 557841,
         "name": "Gusevskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.61667,
         "longitude": 22.16667
     },
     {
-        "cityId": "557904",
+        "cityId": 557904,
         "name": "Gur\u2019yevskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.75,
         "longitude": 20.58333
     },
     {
-        "cityId": "568594",
+        "cityId": 568594,
         "name": "Chernyakhovskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.66667,
         "longitude": 21.75
     },
     {
-        "cityId": "579759",
+        "cityId": 579759,
         "name": "Bagrationovskiy Rayon",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.5,
         "longitude": 20.41667
     },
     {
-        "cityId": "825113",
+        "cityId": 825113,
         "name": "Gorod Sovetsk",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 55.08333,
         "longitude": 21.88333
     },
     {
-        "cityId": "825114",
+        "cityId": 825114,
         "name": "Gorod Neman",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 55.03333,
         "longitude": 22.03333
     },
     {
-        "cityId": "825115",
+        "cityId": 825115,
         "name": "Gorod Svetlogorsk",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.95,
         "longitude": 20.16667
     },
     {
-        "cityId": "825116",
+        "cityId": 825116,
         "name": "Gorod Pionerskiy",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.95,
         "longitude": 20.23333
     },
     {
-        "cityId": "825117",
+        "cityId": 825117,
         "name": "Gorod Svetlyy",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.66667,
         "longitude": 20.11667
     },
     {
-        "cityId": "825118",
+        "cityId": 825118,
         "name": "Gorod Kaliningrad",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.71667,
         "longitude": 20.41667
     },
     {
-        "cityId": "3233216",
+        "cityId": 3233216,
         "name": "Gorod Baltiysk",
-        "stateId": "554230",
+        "stateId": 554230,
         "latitude": 54.65,
         "longitude": 19.91667
     }

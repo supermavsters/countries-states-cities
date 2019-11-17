@@ -1,155 +1,155 @@
 [
     {
-        "cityId": "8378769",
+        "cityId": 8378769,
         "name": "Praha 1",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.08802,
         "longitude": 14.42166
     },
     {
-        "cityId": "8378770",
+        "cityId": 8378770,
         "name": "Praha 2",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.07546,
         "longitude": 14.43595
     },
     {
-        "cityId": "8378771",
+        "cityId": 8378771,
         "name": "Praha 3",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.08512,
         "longitude": 14.45226
     },
     {
-        "cityId": "8378772",
+        "cityId": 8378772,
         "name": "Praha 4",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.06213,
         "longitude": 14.43921
     },
     {
-        "cityId": "8378773",
+        "cityId": 8378773,
         "name": "Praha 5",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.07416,
         "longitude": 14.40286
     },
     {
-        "cityId": "8378774",
+        "cityId": 8378774,
         "name": "Praha 6",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.10089,
         "longitude": 14.39535
     },
     {
-        "cityId": "8378775",
+        "cityId": 8378775,
         "name": "Praha 7",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.09977,
         "longitude": 14.42445
     },
     {
-        "cityId": "8378776",
+        "cityId": 8378776,
         "name": "Praha 8",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.10665,
         "longitude": 14.475
     },
     {
-        "cityId": "8378777",
+        "cityId": 8378777,
         "name": "Praha 9",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.10753,
         "longitude": 14.50157
     },
     {
-        "cityId": "8378778",
+        "cityId": 8378778,
         "name": "Praha 10",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.06788,
         "longitude": 14.46118
     },
     {
-        "cityId": "8378779",
+        "cityId": 8378779,
         "name": "Praha 11",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.03178,
         "longitude": 14.50719
     },
     {
-        "cityId": "8378780",
+        "cityId": 8378780,
         "name": "Praha 12",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.00564,
         "longitude": 14.40462
     },
     {
-        "cityId": "8378781",
+        "cityId": 8378781,
         "name": "Praha 13",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.05163,
         "longitude": 14.34231
     },
     {
-        "cityId": "8378782",
+        "cityId": 8378782,
         "name": "Praha 14",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.10682,
         "longitude": 14.55731
     },
     {
-        "cityId": "8378784",
+        "cityId": 8378784,
         "name": "Praha 15",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.0524,
         "longitude": 14.53156
     },
     {
-        "cityId": "8378785",
+        "cityId": 8378785,
         "name": "Praha 16",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 49.98357,
         "longitude": 14.3611
     },
     {
-        "cityId": "8378787",
+        "cityId": 8378787,
         "name": "Praha 17",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.06535,
         "longitude": 14.30806
     },
     {
-        "cityId": "8378788",
+        "cityId": 8378788,
         "name": "Praha 18",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.13659,
         "longitude": 14.51225
     },
     {
-        "cityId": "8378789",
+        "cityId": 8378789,
         "name": "Praha 19",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.13422,
         "longitude": 14.54744
     },
     {
-        "cityId": "8378790",
+        "cityId": 8378790,
         "name": "Praha 20",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.11568,
         "longitude": 14.61122
     },
     {
-        "cityId": "8378792",
+        "cityId": 8378792,
         "name": "Praha 21",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.07521,
         "longitude": 14.66898
     },
     {
-        "cityId": "8378793",
+        "cityId": 8378793,
         "name": "Praha 22",
-        "stateId": "3067695",
+        "stateId": 3067695,
         "latitude": 50.03256,
         "longitude": 14.5986
     }

@@ -1,29 +1,29 @@
 [
     {
-        "cityId": "3582881",
+        "cityId": 3582881,
         "name": "Distrito de Usulut\u00e1n",
-        "stateId": "3582882",
+        "stateId": 3582882,
         "latitude": 13.3,
         "longitude": -88.38333
     },
     {
-        "cityId": "3583198",
+        "cityId": 3583198,
         "name": "Distrito de Santiago de Mar\u00eda",
-        "stateId": "3582882",
+        "stateId": 3582882,
         "latitude": 13.45,
         "longitude": -88.46667
     },
     {
-        "cityId": "3585397",
+        "cityId": 3585397,
         "name": "Distrito de Jucuapa",
-        "stateId": "3582882",
+        "stateId": 3582882,
         "latitude": 13.61667,
         "longitude": -88.43333
     },
     {
-        "cityId": "3587265",
+        "cityId": 3587265,
         "name": "Distrito de Berl\u00edn",
-        "stateId": "3582882",
+        "stateId": 3582882,
         "latitude": 13.51667,
         "longitude": -88.6
     }

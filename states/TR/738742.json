@@ -1,78 +1,78 @@
 [
     {
-        "cityId": "7732992",
+        "cityId": 7732992,
         "name": "Erbaa",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.7139,
         "longitude": 36.59364
     },
     {
-        "cityId": "7911035",
+        "cityId": 7911035,
         "name": "Niksar",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.60509,
         "longitude": 36.97174
     },
     {
-        "cityId": "7911036",
+        "cityId": 7911036,
         "name": "Re\u015fadiye",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.43284,
         "longitude": 37.37652
     },
     {
-        "cityId": "8631714",
+        "cityId": 8631714,
         "name": "Ba\u015f\u00e7iftlik \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.55728,
         "longitude": 37.17674
     },
     {
-        "cityId": "8631717",
+        "cityId": 8631717,
         "name": "Sulusaray \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.00491,
         "longitude": 36.08976
     },
     {
-        "cityId": "8631738",
+        "cityId": 8631738,
         "name": "Ye\u015filyurt \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 39.99916,
         "longitude": 36.23479
     },
     {
-        "cityId": "8631740",
+        "cityId": 8631740,
         "name": "Artova \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.12681,
         "longitude": 36.30728
     },
     {
-        "cityId": "8631741",
+        "cityId": 8631741,
         "name": "Pazar \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.28704,
         "longitude": 36.29192
     },
     {
-        "cityId": "8631742",
+        "cityId": 8631742,
         "name": "Turhal \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.39839,
         "longitude": 36.08736
     },
     {
-        "cityId": "8631743",
+        "cityId": 8631743,
         "name": "Almus \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.38643,
         "longitude": 36.91284
     },
     {
-        "cityId": "8631744",
+        "cityId": 8631744,
         "name": "Zile \u0130l\u00e7esi",
-        "stateId": "738742",
+        "stateId": 738742,
         "latitude": 40.31426,
         "longitude": 35.89399
     }

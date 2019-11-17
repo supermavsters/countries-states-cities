@@ -1,50 +1,50 @@
 [
     {
-        "cityId": "1606637",
+        "cityId": 1606637,
         "name": "Amphoe Sam Phran",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 13.72035,
         "longitude": 100.21071
     },
     {
-        "cityId": "1608544",
+        "cityId": 1608544,
         "name": "Amphoe Nakhon Chai Si",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 13.81173,
         "longitude": 100.18157
     },
     {
-        "cityId": "1608648",
+        "cityId": 1608648,
         "name": "Amphoe Mueang Nakhon Pathom",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 13.81944,
         "longitude": 100.02375
     },
     {
-        "cityId": "1610444",
+        "cityId": 1610444,
         "name": "Kamphaeng Saen District",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 14.02823,
         "longitude": 99.96152
     },
     {
-        "cityId": "1610874",
+        "cityId": 1610874,
         "name": "Amphoe Don Tum",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 13.94499,
         "longitude": 100.09003
     },
     {
-        "cityId": "1619414",
+        "cityId": 1619414,
         "name": "Amphoe Bang Len",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 14.05,
         "longitude": 100.18333
     },
     {
-        "cityId": "6865782",
+        "cityId": 6865782,
         "name": "Amphoe Phutthamonthon",
-        "stateId": "1608533",
+        "stateId": 1608533,
         "latitude": 13.82559,
         "longitude": 100.29239
     }

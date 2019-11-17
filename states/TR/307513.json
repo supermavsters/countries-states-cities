@@ -1,43 +1,43 @@
 [
     {
-        "cityId": "8631935",
+        "cityId": 8631935,
         "name": "Ak\u00e7akent \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.63184,
         "longitude": 34.08468
     },
     {
-        "cityId": "8631936",
+        "cityId": 8631936,
         "name": "\u00c7i\u00e7ekda\u011f\u0131 \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.61643,
         "longitude": 34.41834
     },
     {
-        "cityId": "8631937",
+        "cityId": 8631937,
         "name": "Akp\u0131nar \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.45879,
         "longitude": 33.96975
     },
     {
-        "cityId": "8631938",
+        "cityId": 8631938,
         "name": "Kaman \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.36717,
         "longitude": 33.72784
     },
     {
-        "cityId": "8631939",
+        "cityId": 8631939,
         "name": "Boztepe \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.27979,
         "longitude": 34.26657
     },
     {
-        "cityId": "8631940",
+        "cityId": 8631940,
         "name": "Mucur \u0130l\u00e7esi",
-        "stateId": "307513",
+        "stateId": 307513,
         "latitude": 39.07146,
         "longitude": 34.3867
     }

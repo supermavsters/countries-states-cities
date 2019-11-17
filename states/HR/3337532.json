@@ -1,120 +1,120 @@
 [
     {
-        "cityId": "3190965",
+        "cityId": 3190965,
         "name": "Sesvete",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.83333,
         "longitude": 16.13333
     },
     {
-        "cityId": "8531816",
+        "cityId": 8531816,
         "name": "Gradska \u010detvrt Donji grad",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.80834,
         "longitude": 15.96949
     },
     {
-        "cityId": "8531817",
+        "cityId": 8531817,
         "name": "Gradska \u010detvrt Gornji Grad - Medvescak",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.8282,
         "longitude": 15.97938
     },
     {
-        "cityId": "8531820",
+        "cityId": 8531820,
         "name": "Gradska \u010detvrt Trnje",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.79697,
         "longitude": 15.97961
     },
     {
-        "cityId": "8531822",
+        "cityId": 8531822,
         "name": "Gradska \u010detvrt Maksimir",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.8369,
         "longitude": 16.01129
     },
     {
-        "cityId": "8531823",
+        "cityId": 8531823,
         "name": "Gradska cetvrt Pescenica - Zitnjak",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.80526,
         "longitude": 16.02274
     },
     {
-        "cityId": "8531824",
+        "cityId": 8531824,
         "name": "Gradska cetvrt Novi Zagreb - istok",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.78363,
         "longitude": 15.98597
     },
     {
-        "cityId": "8531825",
+        "cityId": 8531825,
         "name": "Gradska \u010detvrt Novi Zagreb - zapad",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.7783,
         "longitude": 15.95901
     },
     {
-        "cityId": "8531826",
+        "cityId": 8531826,
         "name": "Gradska \u010detvrt Tresnjevka - sjever",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.79787,
         "longitude": 15.93696
     },
     {
-        "cityId": "8531827",
+        "cityId": 8531827,
         "name": "Gradska \u010detvrt Tresnjevka - jug",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.79063,
         "longitude": 15.90674
     },
     {
-        "cityId": "8531828",
+        "cityId": 8531828,
         "name": "Gradska \u010detvrt \u010crnomerec",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.82653,
         "longitude": 15.93867
     },
     {
-        "cityId": "8531829",
+        "cityId": 8531829,
         "name": "Gradska \u010detvrt Gornja Dubrava",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.84184,
         "longitude": 16.05386
     },
     {
-        "cityId": "8531830",
+        "cityId": 8531830,
         "name": "Gradska \u010detvrt Donja Dubrava",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.82336,
         "longitude": 16.05257
     },
     {
-        "cityId": "8531831",
+        "cityId": 8531831,
         "name": "Gradska \u010detvrt Stenjevec",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.80571,
         "longitude": 15.87164
     },
     {
-        "cityId": "8531832",
+        "cityId": 8531832,
         "name": "Podsused - Vrapce",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.8166,
         "longitude": 15.87267
     },
     {
-        "cityId": "8531833",
+        "cityId": 8531833,
         "name": "Gradska \u010detvrt Podsljeme",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.86097,
         "longitude": 15.97996
     },
     {
-        "cityId": "8531834",
+        "cityId": 8531834,
         "name": "Gradska \u010detvrt Brezovica",
-        "stateId": "3337532",
+        "stateId": 3337532,
         "latitude": 45.72895,
         "longitude": 15.90065
     }

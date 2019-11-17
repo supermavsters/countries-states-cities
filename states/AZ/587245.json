@@ -1,15 +1,15 @@
 [
     {
-        "cityId": "585638",
+        "cityId": 585638,
         "name": "Leninskiy Rayon",
-        "stateId": "587245",
+        "stateId": 587245,
         "latitude": 40.5,
         "longitude": 49.91667
     },
     {
-        "cityId": "585882",
+        "cityId": 585882,
         "name": "Kirovskiy Rayon",
-        "stateId": "587245",
+        "stateId": 587245,
         "latitude": 40.5,
         "longitude": 49.78333
     }
